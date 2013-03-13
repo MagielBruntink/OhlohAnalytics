@@ -13,19 +13,17 @@ public set[str] getMonths(Node DOM) {
 	return result;
 }
 
-public None getActivityFactsDOM(str Project) {
-	result = {};
+public Node getActivityFactsDOM(str Project) {
 	loc ActivityFactsFile = OhlohProjectsRepository + Project + "ActivityFacts.xml";
-	DOM = getXMLContentsDOM(ActivityFactsFile);
-	return result;
+	return getXMLContentsDOM(ActivityFactsFile);
 }
 
 public Node getSizeFactsDOM(str Project) {
-	loc SizeFactsFile = OhlohProjectsRepository + Project + "SizeFacts.xml";
+	loc SizeFactsFile = OhlohProjectsRpository + Project + "SizeFacts.xml";
 	return getXMLContentsDOM(SizeFactsFile);
 }
 
 public Node getXMLContentsDOM(loc File) {
 	str XMLContentsAsString = readFile(File);
-	return XMLContentsDOM = parseXMLDOM(XMLContentsAsString);
+	return XMLContentsDOM = parseXMLDOMTrim(XMLContentsAsString);
 }
