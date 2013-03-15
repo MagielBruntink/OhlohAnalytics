@@ -5,6 +5,7 @@ import projectFactsRepository;
 import Logging;
 import Sleep;
 import lang::xml::DOM;
+import util::Math;
 
 private loc OhlohAPIKeyFile = |project://OhlohAnalytics/OhlohAPIKey.txt|;
 private str OhlohAPIKey = readFile(OhlohAPIKeyFile);
@@ -16,7 +17,8 @@ public void obtainProjectListFromOhloh(int endAtPage) {
 }
 
 @doc{
-	Work in progress!
+	int startAtPage : page number to start at, counting from 1. 
+	int endAtPage   : page number of last page to obtain.
 }
 public void obtainProjectListFromOhloh(int startAtPage, int endAtPage) {
 	int pageToObtain = startAtPage;
@@ -30,13 +32,35 @@ public void obtainProjectListFromOhloh(int startAtPage, int endAtPage) {
 	}
 }
 
-public void obtainActivityFacts(str ProjectName) {
+@doc{
+	int startAtProject : project number (line nr. in project list file) to start at, counting from 1. 
+	int endAtProject   : project number (line nr. in project list file) of last project to obtain.
+}
+public void obtainProjectDataFromOhloh(int startAtProject, int endAtProject) {
+	list[str] projectNamesList = getProjectNamesListFromRepository();
+	int numberOfProjectNames = size(projectNamesList);
+ 	
+	int projectToObtain = startAtProject;
 
+	while (projectToObtain <= min(endAtProject, numberOfProjectNames)) {
+		obtainActivityFactsFromOhloh(projectNamesList[projectToObtain-1]);
+		sleep(timeToSleepBetweenQueries);
+		obtainSizeFactsFromOhloh(projectNamesList[projectToObtain-1]);
+		sleep(timeToSleepBetweenQueries);
+		projectToObtain += 1;
+	}
 }
 
-//Activity Facts query
-//https://www.ohloh.net/projects/rascal/analyses/latest/activity_facts.xml?api_key=
+public void obtainActivityFactsFromOhloh(str projectName) {
+	loc projectActivityFactsURI = |http://<OhlohBaseURL>/projects/<projectName>/analyses/latest/activity_facts.xml?api_key=<OhlohAPIKey>|;
+	logToConsole("obtainActivityFactsFromOhloh", "Reading activity facts for project <projectName> from Ohloh, URL: <projectActivityFactsURI>");
+	try addActivityFactsToRepository(readFile(projectActivityFactsURI), projectName);
+	catch: logToConsole("obtainActivityFactsFromOhloh", "WARNING: problem when reading activity facts for project <projectName> from Ohloh.");
+}
 
-//Size Facts query
-//https://www.ohloh.net/projects/firefox/analyses/latest/size_facts.xml?api_key=
-
+public void obtainSizeFactsFromOhloh(str projectName) {
+	loc projectSizeFactsURI = |http://<OhlohBaseURL>/projects/<projectName>/analyses/latest/size_facts.xml?api_key=<OhlohAPIKey>|;
+	logToConsole("obtainSizeFactsFromOhloh", "Reading size facts for project <projectName> from Ohloh, URL: <projectSizeFactsURI>");
+	try addSizeFactsToRepository(readFile(projectSizeFactsURI), projectName);
+	catch: logToConsole("obtainSizeFactsFromOhloh", "WARNING: problem when reading size facts for project <projectName> from Ohloh.");
+}
