@@ -7,22 +7,27 @@ private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
 private loc ProjectNamesListFile = LocalOhlohProjectsRepository + "ProjectNamesList.txt";
 private loc ProjectsFile = LocalOhlohProjectsRepository + "Projects.xml";
 
+public list[str] getProjectNamesInRepository() {
+	return listEntries(LocalOhlohProjectsRepository + "projects");
+}
+
 @doc{
 	Returns a relation containing:
 		- str: month
 		- int: code added
 		- int: code deleted
 }
-public rel[str month,
+public rel[str projectName,
+		   str month,
 		   str loc_added,
 		   str loc_removed,
 		   str commits,
 		   str contributors]
 		   
-   	getActivityFacts(str Project) {
-	   
-	rel[str,str,str,str,str] result = {};
-	top-down visit(getActivityFactsDOM(Project)) {
+getActivityFacts(str projectName)
+{	   
+	rel[str,str,str,str,str,str] result = {};
+	top-down visit(getActivityFactsDOM(projectName)) {
 		case element(none(),"activity_fact",
 				[
 				 element(_,"month",[charData(str monthAsString)]),
@@ -32,7 +37,12 @@ public rel[str month,
 				 element(_,"commits",[charData(str CommitsAsString)]),
 				 element(_,"contributors",[charData(str ContributorsAsString)])
 				]):
-			 result += {<monthAsString,LOCAddedAsString,LOCDeletedAsString,CommitsAsString,ContributorsAsString>};
+			 result += {<projectName,
+			 			 reformatDateTime(monthAsString),
+			 			 LOCAddedAsString,
+			 			 LOCDeletedAsString,
+			 			 CommitsAsString,
+			 			 ContributorsAsString>};
 	}
 	return result;
 }
@@ -48,20 +58,23 @@ public void addActivityFactsToRepository(str activityFacts, str projectName) {
 		- int: code added
 		- int: code deleted
 }
-public rel[str month,
+public rel[str projectName,
+		   str month,
 		   str loc_total]
 		   
-	getSizeFacts(str Project) {
-	   
-	rel[str,str] result = {};
-	top-down visit(getSizeFactsDOM(Project)) {
+getSizeFacts(str projectName)
+{	   
+	rel[str,str,str] result = {};
+	top-down visit(getSizeFactsDOM(projectName)) {
 		case element(none(),"size_fact",
 				[
 				 element(_,"month",[charData(str monthAsString)]),
 				 element(_,"code",[charData(str LOCTotalAsString)]),
 				 Node*
 				]):
-			 result += {<monthAsString,LOCTotalAsString>};
+			 result += {<projectName,
+			 			 reformatDateTime(monthAsString),
+			 			 LOCTotalAsString>};
 	}
 	return result;
 }
@@ -107,4 +120,9 @@ private Node getSizeFactsDOM(str Project) {
 
 private Node getXMLContentsDOM(str XML) {
 	return XMLContentsDOM = parseXMLDOMTrim(XML);
+}
+
+private str reformatDateTime(str dateTimeString) {
+	datetime dt = parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'Z");
+	return printDate(dt, "yyyy-MM");
 }
