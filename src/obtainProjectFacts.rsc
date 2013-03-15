@@ -8,7 +8,7 @@ import lang::xml::DOM;
 import util::Math;
 
 private loc OhlohAPIKeyFile = |project://OhlohAnalytics/OhlohAPIKey.txt|;
-private str OhlohAPIKey = readFile(OhlohAPIKeyFile);
+public str OhlohAPIKey = readFile(OhlohAPIKeyFile);
 private str OhlohBaseURL = "www.ohloh.net";
 private int timeToSleepBetweenQueries = 1000; //milliseconds
 
