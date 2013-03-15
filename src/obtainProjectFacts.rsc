@@ -3,11 +3,13 @@ module obtainProjectFacts
 import Prelude;
 import projectFactsRepository;
 import Logging;
+import Sleep;
 import lang::xml::DOM;
 
 private loc OhlohAPIKeyFile = |project://OhlohAnalytics/OhlohAPIKey.txt|;
 private str OhlohAPIKey = readFile(OhlohAPIKeyFile);
 private str OhlohBaseURL = "www.ohloh.net";
+private int timeToSleepBetweenQueries = 1000; //milliseconds
 
 public void obtainProjectListFromOhloh(int endAtPage) {
 	obtainProjectListFromOhloh(1, endAtPage);
@@ -22,19 +24,14 @@ public void obtainProjectListFromOhloh(int startAtPage, int endAtPage) {
 	while (pageToObtain <= endAtPage) {
 		loc projectsListURI = |http://<OhlohBaseURL>/projects.xml?api_key=<OhlohAPIKey>&page=<toString(pageToObtain)>|;
 		logToConsole("obtainProjectsFromOhloh", "Reading projects from Ohloh, URL: <projectsListURI>");
-		list[str] projectsList = getProjectNamesFromResponseXML(readFile(projectsListURI));
-		addProjectsListToRepository(projectsList, true);
+		addProjectsListToRepository(readFile(projectsListURI));
 		pageToObtain += 1;
+		sleep(timeToSleepBetweenQueries);
 	}
 }
 
-private list[str] getProjectNamesFromResponseXML (str reponseXML) {
-	list[str] result = [];
-	top-down visit(parseXMLDOMTrim(reponseXML)) {
-		case element(_,"url_name",[charData(str projectName)]):
-			 result += projectName;
-	}
-	return result;
+public void obtainActivityFacts(str ProjectName) {
+
 }
 
 //Activity Facts query
