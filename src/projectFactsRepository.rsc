@@ -3,7 +3,8 @@ module projectFactsRepository
 import Prelude;
 import lang::xml::DOM;
 
-public loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data/projects|;
+private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
+private loc ProjectsListFile = LocalOhlohProjectsRepository + "ProjectsList.txt";
 
 @doc{
 	Returns a relation containing:
@@ -16,7 +17,8 @@ public rel[str month,
 		   str loc_removed,
 		   str commits,
 		   str contributors]
-	   getActivityFacts(str Project) {
+		   
+   	getActivityFacts(str Project) {
 	   
 	rel[str,str,str,str,str] result = {};
 	top-down visit(getActivityFactsDOM(Project)) {
@@ -42,7 +44,8 @@ public rel[str month,
 }
 public rel[str month,
 		   str loc_total]
-	   getSizeFacts(str Project) {
+		   
+	getSizeFacts(str Project) {
 	   
 	rel[str,str] result = {};
 	top-down visit(getSizeFactsDOM(Project)) {
@@ -57,55 +60,34 @@ public rel[str month,
 	return result;
 }
 
-private Node getActivityFactsDOM(str Project) {
-	loc ActivityFactsFile = LocalOhlohProjectsRepository + Project + "ActivityFacts.xml";
-	return getXMLContentsDOM(ActivityFactsFile);
-}
-
-private Node getSizeFactsDOM(str Project) {
-	loc SizeFactsFile = LocalOhlohProjectsRepository + Project + "SizeFacts.xml";
-	return getXMLContentsDOM(SizeFactsFile);
-}
-
-private Node getXMLContentsDOM(loc File) {
-	str XMLContentsAsString = readFile(File);
-	return XMLContentsDOM = parseXMLDOMTrim(XMLContentsAsString);
-}
-
-@doc{
-	Returns a relation containing:
-		- str: month
-		- int: code added
-		- int: code deleted
-}
-public rel[str month,
-		   str loc_total]
-	   getSizeFacts(str Project) {
-	   
-	rel[str,str] result = {};
-	top-down visit(getSizeFactsDOM(Project)) {
-		case element(none(),"size_fact",
-				[
-				 element(_,"month",[charData(str monthAsString)]),
-				 element(_,"code",[charData(str LOCTotalAsString)]),
-				 Node*
-				]):
-			 result += {<monthAsString,LOCTotalAsString>};
+public void addProjectsListToRepository(list[str] projectList, bool appendToExistingList) {
+	str outputString = "";
+	for(str projectName <- projectList) {
+		outputString += (projectName + "\n");
 	}
-	return result;
+	if(appendToExistingList) {
+		appendToFile(ProjectsListFile, outputString);
+	}
+	else {
+		writeFile(ProjectsListFile, outputString);
+	}
+}
+
+public list[str] getProjectsListFromRepository() {
+	return readFile(ProjectsListFile);
 }
 
 private Node getActivityFactsDOM(str Project) {
-	loc ActivityFactsFile = LocalOhlohProjectsRepository + Project + "ActivityFacts.xml";
+	loc ActivityFactsFile = LocalOhlohProjectsRepository + "projects" + Project + "ActivityFacts.xml";
 	return getXMLContentsDOM(ActivityFactsFile);
 }
 
 private Node getSizeFactsDOM(str Project) {
-	loc SizeFactsFile = LocalOhlohProjectsRepository + Project + "SizeFacts.xml";
+	loc SizeFactsFile = LocalOhlohProjectsRepository + "projects" + Project + "SizeFacts.xml";
 	return getXMLContentsDOM(SizeFactsFile);
 }
 
-private Node getXMLContentsDOM(loc File) {
+public Node getXMLContentsDOM(loc File) {
 	str XMLContentsAsString = readFile(File);
 	return XMLContentsDOM = parseXMLDOMTrim(XMLContentsAsString);
 }
