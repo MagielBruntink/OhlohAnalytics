@@ -37,6 +37,11 @@ public rel[str month,
 	return result;
 }
 
+public void addActivityFactsToRepository(str activityFacts, str projectName) {
+	loc activityFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "ActivityFacts.xml";
+	writeFile(activityFactsFile, activityFacts);
+}
+
 @doc{
 	Returns a relation containing:
 		- str: month
@@ -61,6 +66,11 @@ public rel[str month,
 	return result;
 }
 
+public void addSizeFactsToRepository(str sizeFacts, str projectName) {
+	loc sizeFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "SizeFacts.xml";
+	writeFile(sizeFactsFile, sizeFacts);
+}
+
 public void addProjectsListToRepository(str projectsListPage) {
 	str outputString = "";
 	
@@ -73,7 +83,7 @@ public void addProjectsListToRepository(str projectsListPage) {
 }
 
 public list[str] getProjectNamesListFromRepository() {
-	return readFile(ProjectNamesListFile);
+	return readFileLines(ProjectNamesListFile);
 }
 
 private list[str] extractProjectNames (str XML) {
