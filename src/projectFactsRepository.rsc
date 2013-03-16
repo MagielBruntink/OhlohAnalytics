@@ -92,7 +92,7 @@ public void addProjectsListToRepository(str projectsListPage) {
 		outputString += (projectName + "\n");
 	}
 	appendToFile(ProjectNamesListFile, outputString);
-	appendToFile(ProjectsFile, projectsListPage);
+	//appendToFile(ProjectsFile, projectsListPage);
 }
 
 public list[str] getProjectNamesListFromRepository() {
