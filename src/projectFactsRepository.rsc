@@ -18,6 +18,7 @@ public list[str] getProjectNamesInRepository() {
 		- int: code deleted
 }
 public rel[str projectName,
+		   str year,
 		   str month,
 		   str loc_added,
 		   str loc_removed,
@@ -26,7 +27,7 @@ public rel[str projectName,
 		   
 getActivityFacts(str projectName)
 {	   
-	rel[str,str,str,str,str,str] result = {};
+	rel[str,str,str,str,str,str,str] result = {};
 	top-down visit(getActivityFactsDOM(projectName)) {
 		case element(none(),"activity_fact",
 				[
@@ -38,7 +39,8 @@ getActivityFacts(str projectName)
 				 element(_,"contributors",[charData(str ContributorsAsString)])
 				]):
 			 result += {<projectName,
-			 			 reformatDateTime(monthAsString),
+			 			 getYear(monthAsString),
+			 			 getMonth(monthAsString),
 			 			 LOCAddedAsString,
 			 			 LOCDeletedAsString,
 			 			 CommitsAsString,
@@ -59,12 +61,13 @@ public void addActivityFactsToRepository(str activityFacts, str projectName) {
 		- int: code deleted
 }
 public rel[str projectName,
+		   str year,
 		   str month,
 		   str loc_total]
 		   
 getSizeFacts(str projectName)
 {	   
-	rel[str,str,str] result = {};
+	rel[str,str,str,str] result = {};
 	top-down visit(getSizeFactsDOM(projectName)) {
 		case element(none(),"size_fact",
 				[
@@ -73,7 +76,8 @@ getSizeFacts(str projectName)
 				 Node*
 				]):
 			 result += {<projectName,
-			 			 reformatDateTime(monthAsString),
+			 			 getYear(monthAsString),
+			 			 getMonth(monthAsString),
 			 			 LOCTotalAsString>};
 	}
 	return result;
@@ -125,4 +129,16 @@ private Node getXMLContentsDOM(str XML) {
 private str reformatDateTime(str dateTimeString) {
 	datetime dt = parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'Z");
 	return printDate(dt, "yyyy-MM");
+}
+
+private str getYear(str dateTimeString) {
+	return printDate(getDateTime(dateTimeString), "yyyy");
+}
+
+private str getMonth(str dateTimeString) {
+	return printDate(getDateTime(dateTimeString), "MM");
+}
+
+private datetime getDateTime(str dateTimeString) {
+	return parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'Z");
 }
