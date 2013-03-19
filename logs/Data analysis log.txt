@@ -1,0 +1,15 @@
+March 19, 2013:
+	What is going on with some projects like linux-ntfs? For instance in 
+	october 2008 14 M lines of code are added or changed, which is more than
+	its total LOC count of around 6M. 8M lines are deleted, meaning a growth of
+	6M is to be expected. Yet the total LOC for november 2008 has only
+	marginally grown and is still at 6M.
+	
+	The totals reported in the SizeFacts are running totals of the lines added
+	or deleted in individual commits performed during a month. Perhaps the same
+	lines of code were added and deleted a large number of times?
+	In october 2008 the project had 5812 commits performed by 753 contributors,
+	so this may be the case.
+	
+	Conclusion: subtracting LOC deleted from LOC added or changed does not
+	result in a	growth number.
