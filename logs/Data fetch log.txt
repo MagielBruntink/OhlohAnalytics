@@ -5,7 +5,7 @@ March 15, 2013, 16:00:
   Project list pages:   1 - 700
   
   Project history data: 1 - 97 (binutils)
-    Failures (4): 
+    Failures due to missing analysis data  (4): 
     	sevenzip
     	man
     	bzip2
@@ -13,7 +13,7 @@ March 15, 2013, 16:00:
     
 March 15, 2013, 19:00:
   Project history data: 98 - 500 (powertop)
-    Failures (12):
+    Failures due to missing analysis data (12):
     	bind
 		centos
 		darcs
@@ -31,8 +31,8 @@ March 16, 2013, 11:00:
   Project list pages: 1 - 1800 (16200 projects)
   
 March 19, 2013, 10:00:
-  Project history data: 501 - 1000 (last: pil, count: 965)
-  	Failures (19):
+  Project history data: 501 - 1000 (last succesful: pil, succesful count: 965)
+  	Failures due to missing analysis data  (19):
   		NoScript
 		berkeleydb
 		beryl
@@ -52,7 +52,31 @@ March 19, 2013, 10:00:
 		wamp5
 		xubuntu
 		yaml
-  		
+
+March 20, 2013: 9:30:
+  Project history data: 1001 - 1251 (last succesful: 1251->processhacker)
+    Failures due to missing analysis data  (10):
+  		altlinux
+		fossil-scm
+		links2
+		markdown
+		monotone
+		notepad2
+		sublime-text
+		tcsh
+		waypointhr
+		xsane
+		zfs
   
-
-
+March 20, 2013: 14:15:
+  Project history data: 1252 - 1499 (last succesful: 1499->haddock, succesful count: 1445)
+    Failures due to missing analysis data  (9):
+	    fastcgi
+		flex-sdk
+		heroku
+		katapult
+		lsof
+		nsisinstcreator
+		realvnc
+		vim-taglist
+		xpdf
