@@ -69,7 +69,7 @@ March 20, 2013: 9:30:
 		zfs
   
 March 20, 2013: 14:15:
-  Project history data: 1252 - 1499 (last succesful: 1499->haddock, succesful count: 1445)
+  Project history data: 1252 - 1499 
     Failures due to missing analysis data  (9):
 	    fastcgi
 		flex-sdk
@@ -80,3 +80,47 @@ March 20, 2013: 14:15:
 		realvnc
 		vim-taglist
 		xpdf
+	Last succesful: 1499->haddock, succesful count: 1445.
+		
+March 26, 2013: 9:00:
+  Project history data: 1500 - 1999 ...
+  	Failures due to poor internet connectivity: 6
+		YoctoProject
+		esb
+		gpodder
+		icewm
+		moc
+		nutch
+		
+	Failures due to missing analysis data: 21
+		Glenda
+		JkDefrag
+		anologue
+		backtrack
+		cproglang
+		dtrace
+		endian
+		fftw
+		httrack
+		illasme
+		ksh
+		logrotate
+		pChart
+		pine
+		pureftpd
+		rssh
+		ruby-postgres
+		tailor
+		texmaker
+		totalcommander
+		xming
+
+March 26, 2013: 1015:
+	Succesfully retried the previously failed fetches:
+		YoctoProject
+		esb
+		gpodder
+		icewm
+		moc
+		nutch
+	Last succesful: 1999->openportal, succesful count: 1924.
