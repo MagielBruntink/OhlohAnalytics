@@ -69,7 +69,7 @@ March 20, 2013: 9:30:
 		zfs
   
 March 20, 2013: 14:15:
-  Project history data: 1252 - 1499 
+  Project history data: 1252 - 1499 (last succesful: 1499->haddock, succesful count: 1445)
     Failures due to missing analysis data  (9):
 	    fastcgi
 		flex-sdk
@@ -81,6 +81,9 @@ March 20, 2013: 14:15:
 		vim-taglist
 		xpdf
 	Last succesful: 1499->haddock, succesful count: 1445.
+
+March 22, 2013: 14:19:
+  Size Facts for altlinux is missing, altlinux removed from dataset.
 		
 March 26, 2013: 9:00:
   Project history data: 1500 - 1999
@@ -137,3 +140,4 @@ March 26, 2013: 1100:
 			regulator
 	Last succesful: 2499->pcb, succesful count: 2419.
 	
+		xpdf
