@@ -9,6 +9,7 @@ public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 public rel [str project,
 		str year,
 	    str month,
+	    str yearMonth,
 		str loc_added,
 		str loc_removed,
 		str commits,
@@ -20,6 +21,7 @@ mergeFactsForProjects (list[str] projectNames)
 	rel[str projectName,
 		str year,
 	    str month,
+	    str yearMonth,
 		str loc_added,
 		str loc_removed,
 		str commits,
@@ -29,7 +31,7 @@ mergeFactsForProjects (list[str] projectNames)
 	for(str projectName <- projectNames) {
 		activityFacts = getActivityFacts(projectName);
 		sizeFacts = getSizeFacts(projectName);
-		mergedFacts += {<projectName, year, month> + activityFact + <sizeFact> | 
+		mergedFacts += {<projectName, year, month, year+"-"+month> + activityFact + <sizeFact> | 
 						<str projectName,str year,str month> <- activityFacts<projectName,year,month> +
 													   	        sizeFacts<projectName,year,month>,
 	                    activityFact <- activityFacts[projectName,year,month],
@@ -41,6 +43,7 @@ mergeFactsForProjects (list[str] projectNames)
 public rel [str project,
 		str year,
 	    str month,
+	    str yearMonth,
 		str loc_added,
 		str loc_removed,
 		str commits,
@@ -53,7 +56,16 @@ mergeFactsForAllProjects ()
 }
 
 public void generateCSVForAllMergedFacts() {
-	writeCSV(mergeFactsForAllProjects(),
+	rel [str project,
+		 str year,
+		 str month,
+		 str yearMonth,
+		 str loc_added,
+		 str loc_removed,
+		 str commits,
+		 str contributors,
+		 str total_loc] facts = mergeFactsForAllProjects();
+	writeCSV(facts,
 			 OutputFilesDirectory + "AllMergedFacts.csv",
-			 ("header" : "true", "separator" : ","));
+			 ("separator" : ","));
 }
