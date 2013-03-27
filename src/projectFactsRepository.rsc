@@ -17,17 +17,18 @@ public list[str] getProjectNamesInRepository() {
 		- int: code added
 		- int: code deleted
 }
-public rel[str projectName,
-		   str year,
-		   str month,
-		   str loc_added,
-		   str loc_removed,
-		   str commits,
-		   str contributors]
-		   
+public map[str, tuple[str projectName,
+                      str yearMonth,
+                      str year,
+                      str month,
+                      str loc_added,
+                      str loc_deleted,
+                      str commits,
+                      str contributors]]
+
 getActivityFacts(str projectName)
 {	   
-	rel[str,str,str,str,str,str,str] result = {};
+    result = ();
 	top-down visit(getActivityFactsDOM(projectName)) {
 		case element(none(),"activity_fact",
 				[
@@ -38,13 +39,19 @@ getActivityFacts(str projectName)
 				 element(_,"commits",[charData(str CommitsAsString)]),
 				 element(_,"contributors",[charData(str ContributorsAsString)])
 				]):
-			 result += {<projectName,
-			 			 getYear(monthAsString),
-			 			 getMonth(monthAsString),
+        {
+			 str year = getYear(monthAsString);
+			 str month = getMonth(monthAsString);
+			 result += (projectName + "-" + year + "-" + month :
+			            <projectName,
+                         year + "-" + month,
+                         year,
+			 			 month,
 			 			 LOCAddedAsString,
 			 			 LOCDeletedAsString,
 			 			 CommitsAsString,
-			 			 ContributorsAsString>};
+			 			 ContributorsAsString>);
+        }
 	}
 	return result;
 }
@@ -60,14 +67,15 @@ public void addActivityFactsToRepository(str activityFacts, str projectName) {
 		- int: code added
 		- int: code deleted
 }
-public rel[str projectName,
-		   str year,
-		   str month,
-		   str loc_total]
+public map[str, tuple[str projectName,
+                      str yearMonth,
+		              str year,
+		              str month,
+		              str loc_total]]
 		   
 getSizeFacts(str projectName)
 {	   
-	rel[str,str,str,str] result = {};
+	result = ();
 	top-down visit(getSizeFactsDOM(projectName)) {
 		case element(none(),"size_fact",
 				[
@@ -75,10 +83,16 @@ getSizeFacts(str projectName)
 				 element(_,"code",[charData(str LOCTotalAsString)]),
 				 Node*
 				]):
-			 result += {<projectName,
-			 			 getYear(monthAsString),
-			 			 getMonth(monthAsString),
-			 			 LOCTotalAsString>};
+		{
+             str year = getYear(monthAsString);
+             str month = getMonth(monthAsString);
+             result += (projectName + "-" + year + "-" + month :
+			           <projectName,
+			            year + "-" + month,
+			 			year,
+			 			month,
+			 			LOCTotalAsString>);
+		}
 	}
 	return result;
 }
