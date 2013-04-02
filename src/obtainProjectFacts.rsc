@@ -33,21 +33,21 @@ public void obtainProjectListFromOhloh(int startAtPage, int endAtPage) {
 }
 
 @doc{
-	int startAtProject : project number (line nr. in project list file) to start at, counting from 1. 
-	int endAtProject   : project number (line nr. in project list file) of last project to obtain.
+	int startAtProject   : project number (line nr. in project list file) to start at, counting from 1. 
+	int numberOfProjects : number of projects to obtain starting at startAtProject.
 }
-public void obtainProjectDataFromOhloh(int startAtProject, int endAtProject) {
-	list[str] projectNamesList = getProjectNamesListFromRepository();
-	int numberOfProjectNames = size(projectNamesList);
- 	
-	int projectToObtain = startAtProject;
+public void obtainProjectDataFromOhloh(int startAtProject, int numberOfProjects) {
+	return obtainProjectDataFromOhloh(slice(getProjectNamesListFromRepository(),
+											startAtProject-1,
+											numberOfProjects));
+}
 
-	while (projectToObtain <= min(endAtProject, numberOfProjectNames)) {
-		obtainActivityFactsFromOhloh(projectNamesList[projectToObtain-1]);
+public void obtainProjectDataFromOhloh(list[str] projectNames) {
+	for (str p <- projectNames) {
+		obtainActivityFactsFromOhloh(p);
 		sleep(timeToSleepBetweenQueries);
-		obtainSizeFactsFromOhloh(projectNamesList[projectToObtain-1]);
+		obtainSizeFactsFromOhloh(p);
 		sleep(timeToSleepBetweenQueries);
-		projectToObtain += 1;
 	}
 }
 
