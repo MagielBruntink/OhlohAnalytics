@@ -17,18 +17,17 @@ public list[str] getProjectNamesInRepository() {
 		- int: code added
 		- int: code deleted
 }
-public map[str, tuple[str projectName,
-                      str yearMonth,
-                      str year,
-                      str month,
-                      str loc_added,
-                      str loc_deleted,
-                      str commits,
-                      str contributors]]
-
+public rel[str projectName,
+		   str year,
+		   str month,
+		   str loc_added,
+		   str loc_removed,
+		   str commits,
+		   str contributors]
+		   
 getActivityFacts(str projectName)
 {	   
-    result = ();
+	rel[str,str,str,str,str,str,str] result = {};
 	top-down visit(getActivityFactsDOM(projectName)) {
 		case element(none(),"activity_fact",
 				[
@@ -39,19 +38,13 @@ getActivityFacts(str projectName)
 				 element(_,"commits",[charData(str CommitsAsString)]),
 				 element(_,"contributors",[charData(str ContributorsAsString)])
 				]):
-        {
-			 str year = getYear(monthAsString);
-			 str month = getMonth(monthAsString);
-			 result += (projectName + "-" + year + "-" + month :
-			            <projectName,
-                         year + "-" + month,
-                         year,
-			 			 month,
+			 result += {<projectName,
+			 			 getYear(monthAsString),
+			 			 getMonth(monthAsString),
 			 			 LOCAddedAsString,
 			 			 LOCDeletedAsString,
 			 			 CommitsAsString,
-			 			 ContributorsAsString>);
-        }
+			 			 ContributorsAsString>};
 	}
 	return result;
 }
@@ -67,15 +60,14 @@ public void addActivityFactsToRepository(str activityFacts, str projectName) {
 		- int: code added
 		- int: code deleted
 }
-public map[str, tuple[str projectName,
-                      str yearMonth,
-		              str year,
-		              str month,
-		              str loc_total]]
+public rel[str projectName,
+		   str year,
+		   str month,
+		   str loc_total]
 		   
 getSizeFacts(str projectName)
 {	   
-	result = ();
+	rel[str,str,str,str] result = {};
 	top-down visit(getSizeFactsDOM(projectName)) {
 		case element(none(),"size_fact",
 				[
@@ -83,25 +75,12 @@ getSizeFacts(str projectName)
 				 element(_,"code",[charData(str LOCTotalAsString)]),
 				 Node*
 				]):
-		{
-             str year = getYear(monthAsString);
-             str month = getMonth(monthAsString);
-             result += (projectName + "-" + year + "-" + month :
-			           <projectName,
-			            year + "-" + month,
-			 			year,
-			 			month,
-			 			LOCTotalAsString>);
-		}
+			 result += {<projectName,
+			 			 getYear(monthAsString),
+			 			 getMonth(monthAsString),
+			 			 LOCTotalAsString>};
 	}
-	return validateAndFilterSizeFacts(result);
-}
-
-private rel[str,str,str,str] validateAndFilterSizeFacts(rel[str,str,str,str] unfilteredSizeFacts) {
-	return {<projectName, year, month, loc_total> |
-		<str projectName, str year, str month, str loc_total> <- unfilteredSizeFacts,
-		toInt(loc_total) > 0
-	};
+	return result;
 }
 
 public void addSizeFactsToRepository(str sizeFacts, str projectName) {
