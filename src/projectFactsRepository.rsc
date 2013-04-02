@@ -94,7 +94,7 @@ getSizeFacts(str projectName)
 			 			LOCTotalAsString>);
 		}
 	}
-	return result;
+	return validateAndFilterSizeFacts(result);
 }
 
 private map[str,tuple[str,str,str,str,str]] validateAndFilterSizeFacts (map[str,tuple[str,str,str,str,str]] unfilteredSizeFacts) {
