@@ -97,6 +97,14 @@ getSizeFacts(str projectName)
 	return result;
 }
 
+private map[str,tuple[str,str,str,str,str]] validateAndFilterSizeFacts (map[str,tuple[str,str,str,str,str]] unfilteredSizeFacts) {
+	return (key : <projectName, yearMonth, year, month, loc_total> |
+		str key <- unfilteredSizeFacts,
+		<str projectName, str yearMonth, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
+		toInt(loc_total) > 0	
+	);
+}
+
 public void addSizeFactsToRepository(str sizeFacts, str projectName) {
 	loc sizeFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "SizeFacts.xml";
 	writeFile(sizeFactsFile, sizeFacts);
