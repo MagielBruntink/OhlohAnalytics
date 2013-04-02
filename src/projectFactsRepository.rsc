@@ -80,7 +80,14 @@ getSizeFacts(str projectName)
 			 			 getMonth(monthAsString),
 			 			 LOCTotalAsString>};
 	}
-	return result;
+	return validateAndFilterSizeFacts(result);
+}
+
+private rel[str,str,str,str] validateAndFilterSizeFacts(rel[str,str,str,str] unfilteredSizeFacts) {
+	return {<projectName, year, month, loc_total> |
+		<str projectName, str year, str month, str loc_total> <- unfilteredSizeFacts,
+		toInt(loc_total) > 0
+	};
 }
 
 public void addSizeFactsToRepository(str sizeFacts, str projectName) {
