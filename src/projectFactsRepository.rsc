@@ -11,22 +11,27 @@ public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
 }
 
+alias activityFactsMap = 
+				  map[str, tuple[str projectName,
+                      str year,
+                      str month,
+                      str loc_added,
+                      str loc_deleted,
+                      str commits,
+                      str contributors]];
+alias sizeFactsMap = 
+				  map[str, tuple[str projectName,
+		              str year,
+		              str month,
+		              str loc_total]];
+
 @doc{
 	Returns a relation containing:
 		- str: month
 		- int: code added
 		- int: code deleted
 }
-public map[str, tuple[str projectName,
-                      str yearMonth,
-                      str year,
-                      str month,
-                      str loc_added,
-                      str loc_deleted,
-                      str commits,
-                      str contributors]]
-
-getActivityFacts(str projectName)
+public activityFactsMap getActivityFacts(str projectName)
 {	   
     result = ();
 	top-down visit(getActivityFactsDOM(projectName)) {
@@ -44,7 +49,6 @@ getActivityFacts(str projectName)
 			 str month = getMonth(monthAsString);
 			 result += (projectName + "-" + year + "-" + month :
 			            <projectName,
-                         year + "-" + month,
                          year,
 			 			 month,
 			 			 LOCAddedAsString,
@@ -67,14 +71,7 @@ public void addActivityFactsToRepository(str activityFacts, str projectName) {
 		- int: code added
 		- int: code deleted
 }
-public map[str, tuple[str projectName,
-                      str yearMonth,
-		              str year,
-		              str month,
-		              str loc_total]]
-		   
-getSizeFacts(str projectName)
-{	   
+public sizeFactsMap getSizeFacts(str projectName) {	   
 	result = ();
 	top-down visit(getSizeFactsDOM(projectName)) {
 		case element(none(),"size_fact",
@@ -88,7 +85,6 @@ getSizeFacts(str projectName)
              str month = getMonth(monthAsString);
              result += (projectName + "-" + year + "-" + month :
 			           <projectName,
-			            year + "-" + month,
 			 			year,
 			 			month,
 			 			LOCTotalAsString>);
@@ -97,10 +93,10 @@ getSizeFacts(str projectName)
 	return validateAndFilterSizeFacts(result);
 }
 
-private map[str,tuple[str,str,str,str,str]] validateAndFilterSizeFacts (map[str,tuple[str,str,str,str,str]] unfilteredSizeFacts) {
-	return (key : <projectName, yearMonth, year, month, loc_total> |
+private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFacts) {
+	return (key : <projectName, year, month, loc_total> |
 		str key <- unfilteredSizeFacts,
-		<str projectName, str yearMonth, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
+		<str projectName, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
 		toInt(loc_total) > 0	
 	);
 }
@@ -118,7 +114,6 @@ public void addProjectsListToRepository(str projectsListPage) {
 		outputString += (projectName + "\n");
 	}
 	appendToFile(ProjectNamesListFile, outputString);
-	//appendToFile(ProjectsFile, projectsListPage);
 }
 
 public list[str] getProjectNamesListFromRepository() {
