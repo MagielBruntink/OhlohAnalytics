@@ -39,12 +39,12 @@ alias growthFactsRel =
 public mergedFactsMap mergeFactsForProjects (list[str] projectNames) {
      return (key : <projectName,year,month,loc_added,loc_deleted,commits,contributors,loc_total> |
                    str projectName <- projectNames,
-                   activityFactsMap activityFacts <- [getActivityFacts(projectName)],
-                   sizeFactsMap sizeFacts <- [getSizeFacts(projectName)],
+                   activityFactsMap activityFacts := getActivityFacts(projectName),
+                   sizeFactsMap sizeFacts := getSizeFacts(projectName),
                    str key <- activityFacts,
                    key in sizeFacts,
-                   <_, str year, str month, str loc_added, str loc_deleted,str commits, str contributors> <- [activityFacts[key]],
-                   <_, year, month, str loc_total> <- [sizeFacts[key]]
+                   <_, str year, str month, str loc_added, str loc_deleted,str commits, str contributors> := activityFacts[key],
+                   <_, year, month, str loc_total> := sizeFacts[key]
     );
 }
 
@@ -89,14 +89,28 @@ public growthFactsRel getMonthlyGrowthFacts(factsRel facts) {
 }
 
 public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFacts) {
+	monthlyGrowthFactsMap = (
+		<projectName,year> : (<year,month> : (month : <monthlyAbsoluteGrowth, monthlyGrowthFactor>)) |
+		<str projectName,
+		 _,
+		 str year,
+		 str month,
+		 int monthlyAbsoluteGrowth,
+		 real monthlyGrowthFactor> <- monthlyGrowthFacts
+	);
+	
 	return {
-		<projectName, parseDateTime(year+"-01","yyyy-MM"), year, "01", toInt(sum(monthlyAbsoluteGrowthList)),
-																	   toReal(product(monthlyGrowthFactorList))> |
-		<str projectName, str year> <- monthlyGrowthFacts<projectName,year>,
-		monthlyGrowthFactsByYear := monthlyGrowthFacts[projectName,_,year],
-		list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth | <str month,int monthlyAbsoluteGrowth,_> <- monthlyGrowthFactsByYear],
-		list[real] monthlyGrowthFactorList := [monthlyGrowthFactor | <str month,_,real monthlyGrowthFactor> <- monthlyGrowthFactsByYear]
-	};
+		<projectName, createDateTime(toInt(year),1,1,0,0,0,0), year, "01", 
+					  toInt(sum(monthlyAbsoluteGrowthList)),
+					  toReal(product(monthlyGrowthFactorList))> |
+		<str projectName,str year> <- monthlyGrowthFactsMap,
+		monthlyGrowthFactsMapForProject := monthlyGrowthFactsMap[<projectName,year>],
+		<str year, str month> <- monthlyGrowthFactsMapForProject,
+		monthlyGrowthFactsMapForProjectInYear := monthlyGrowthFactsMapForProject[<year,month>],
+		str month <- monthlyGrowthFactsMapForProjectInYear,
+	    list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth | <int monthlyAbsoluteGrowth,_> := monthlyGrowthFactsMapForProjectInYear[month]],
+	    list[real] monthlyGrowthFactorList := [monthlyGrowthFactor | <_,real monthlyGrowthFactor> := monthlyGrowthFactsMapForProjectInYear[month]]		
+	};  
 }
 
 private num product (list[num] listOfNumbers) {
