@@ -53,7 +53,15 @@ public growthFactsRel getMonthlyGrowthFacts(factsRel facts) {
 	};
 }
 
-public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFacts) {
+public rel[str projectName,
+		    datetime yearMonth,
+		    str year,
+		    str month,
+		    int abs_loc_growth,
+		    real loc_growth_factor,
+		    int age]
+getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFacts)
+{
 	monthlyGrowthFactsMap = (
 		<projectName,year,month> : <monthlyAbsoluteGrowth, monthlyGrowthFactor> |
 		<str projectName,
@@ -69,8 +77,11 @@ public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFa
 	return {
 		<projectName, createDateTime(toInt(year),1,1,0,0,0,0), year, "01", 
 					  toInt(sum(monthlyAbsoluteGrowthList)),
-					  toReal(product(monthlyGrowthFactorList))> |
-		<str projectName,str year> <- monthlyGrowthFacts<projectName,year>,
+					  toReal(product(monthlyGrowthFactorList)),
+					  toInt(year) - min(years)> |
+		yearsPerProject := monthlyGrowthFacts<projectName,year>,
+		<str projectName,str year> <- yearsPerProject,
+		list[int] years := [ toInt(year) | str year <- yearsPerProject[projectName] ],
 		list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth |
 			str month <- months,
 			<projectName,year,month> in monthlyGrowthFactsMap,
@@ -78,7 +89,7 @@ public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFa
 	    list[real] monthlyGrowthFactorList := [monthlyGrowthFactor |
 	    	str month <- months,
 	    	<projectName,year,month> in monthlyGrowthFactsMap,
-	    	<_,real monthlyGrowthFactor> := monthlyGrowthFactsMap[<projectName,year,month>]]		
+	    	<_,real monthlyGrowthFactor> := monthlyGrowthFactsMap[<projectName,year,month>]]
 	};  
 }
 
