@@ -3,30 +3,11 @@ module processProjectFacts
 import Prelude;
 import projectFactsRepository;
 import util::Math;
+import ValueIO;
+import Logging;
 
-alias mergedFactsMap = 
-		map[str, mergedFactsTuple];
-
-alias mergedFactsTuple = 
-				 tuple[str projectName,
-		               str year,
-		               str month,
-		               str loc_added,
-		               str loc_deleted,
-		               str commits,
-		               str contributors,
-		               str loc_total];
-
-alias factsRel =
-		rel[str projectName,
-		    datetime yearMonth,
-		    str year,
-		    str month,
-		    int loc_added,
-		    int loc_deleted,
-		    int commits,
-		    int contributors,
-		    int loc_total];
+public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
+public loc CachedFactsRelLoc = OutputFilesDirectory + "FactsRel.txt";
 
 alias growthFactsRel =
 		rel[str projectName,
@@ -35,44 +16,22 @@ alias growthFactsRel =
 		    str month,
 		    int abs_loc_growth,
 		    real loc_growth_factor];
-		    
-public mergedFactsMap mergeFactsForProjects (list[str] projectNames) {
-     return (key : <projectName,year,month,loc_added,loc_deleted,commits,contributors,loc_total> |
-                   str projectName <- projectNames,
-                   activityFactsMap activityFacts := getActivityFacts(projectName),
-                   sizeFactsMap sizeFacts := getSizeFacts(projectName),
-                   str key <- activityFacts,
-                   key in sizeFacts,
-                   <_, str year, str month, str loc_added, str loc_deleted,str commits, str contributors> := activityFacts[key],
-                   <_, year, month, str loc_total> := sizeFacts[key]
-    );
+
+public factsRel getFactsRelFromCache() {
+	if(exists(CachedFactsRelLoc)) {
+		factsRel f = readTextValueFile(#factsRel, CachedFactsRelLoc);
+		return (f);
+	}
+	else {
+		return updateFactsRelInCache();
+	}
 }
 
-public mergedFactsMap mergeFactsForAllProjects () { 
-	return mergeFactsForProjects(getProjectNamesInRepository());
-}
-
-public factsRel convertFactsMapToRel(mergedFactsMap factsMap) { 
-	return {
-		<projectName,
-			 parseDateTime(year + "-" + month,"yyyy-MM"),
-			 year,
-			 month,
-			 toInt(loc_added),
-			 toInt(loc_deleted),
-			 toInt(commits),
-			 toInt(contributors),
-			 toInt(loc_total)> |
-		str key <- factsMap,
-		<str projectName,
-		 str year,
-		 str month,
-		 str loc_added,
-		 str loc_deleted,
-		 str commits,
-		 str contributors,
-		 str loc_total> <- [factsMap[key]]
-	};
+public factsRel updateFactsRelInCache() {
+	logToConsole("updateFactsRelInCache", "Updating facts relation cache from repository...");
+	factsRel newFactsRel = getFactsRelForAllProjects();
+	writeTextValueFile(CachedFactsRelLoc, newFactsRel);
+	return newFactsRel;
 }
 
 public growthFactsRel getMonthlyGrowthFacts(factsRel facts) {
@@ -96,24 +55,30 @@ public growthFactsRel getMonthlyGrowthFacts(factsRel facts) {
 
 public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFacts) {
 	monthlyGrowthFactsMap = (
-		<projectName,year> : (<year,month> : <monthlyAbsoluteGrowth, monthlyGrowthFactor>) |
+		<projectName,year,month> : <monthlyAbsoluteGrowth, monthlyGrowthFactor> |
 		<str projectName,
-		 _,
+		 datetime yearMonth,
 		 str year,
 		 str month,
 		 int monthlyAbsoluteGrowth,
 		 real monthlyGrowthFactor> <- monthlyGrowthFacts
 	);
 	
+	set[str] months = monthlyGrowthFacts<month>;
+
 	return {
 		<projectName, createDateTime(toInt(year),1,1,0,0,0,0), year, "01", 
 					  toInt(sum(monthlyAbsoluteGrowthList)),
 					  toReal(product(monthlyGrowthFactorList))> |
-		<str projectName,str year> <- monthlyGrowthFactsMap,
-		monthlyGrowthFactsMapForProject := monthlyGrowthFactsMap[<projectName,year>],
-		<str year, str month> <- monthlyGrowthFactsMapForProject,
-	    list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth | <int monthlyAbsoluteGrowth,_> := monthlyGrowthFactsMapForProject[<year,month>]],
-	    list[real] monthlyGrowthFactorList := [monthlyGrowthFactor | <_,real monthlyGrowthFactor> := monthlyGrowthFactsMapForProject[<year,month>]]		
+		<str projectName,str year> <- monthlyGrowthFacts<projectName,year>,
+		list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth |
+			str month <- months,
+			<projectName,year,month> in monthlyGrowthFactsMap,
+	    	<int monthlyAbsoluteGrowth,_> := monthlyGrowthFactsMap[<projectName,year,month>]],
+	    list[real] monthlyGrowthFactorList := [monthlyGrowthFactor |
+	    	str month <- months,
+	    	<projectName,year,month> in monthlyGrowthFactsMap,
+	    	<_,real monthlyGrowthFactor> := monthlyGrowthFactsMap[<projectName,year,month>]]		
 	};  
 }
 
