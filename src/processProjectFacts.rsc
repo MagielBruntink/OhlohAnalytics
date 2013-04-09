@@ -76,21 +76,27 @@ public factsRel convertFactsMapToRel(mergedFactsMap factsMap) {
 }
 
 public growthFactsRel getMonthlyGrowthFacts(factsRel facts) {
+	factsMap = (
+		<projectName,yearMonth> : loc_total | 
+		<str projectName,datetime yearMonth,_,_,_,_,_,_,int loc_total> <- facts
+	);
+
 	return {
-		<projectName, thisYearMonth, year, month> +
-										<locThisMonth - locPreviousMonth, 
-										1.0 + toReal(locThisMonth - locPreviousMonth) / toReal(locPreviousMonth)> |
-		monthlyLOCFacts := facts<projectName,yearMonth,year,month,loc_total>,
-		str projectName <- monthlyLOCFacts<projectName>,								
-		monthlyLOCFactsForProject := monthlyLOCFacts[projectName],
-		<datetime thisYearMonth,str year,str month,int locThisMonth> <- monthlyLOCFactsForProject,
-		<_,_,int locPreviousMonth> <- monthlyLOCFactsForProject[decrementMonths(thisYearMonth)]
+		<projectName, thisYearMonth, printDateTime(thisYearMonth,"yyyy"),
+									 printDateTime(thisYearMonth,"MM"),
+									 locThisMonth - locPreviousMonth, 
+									 1.0 + toReal(locThisMonth - locPreviousMonth) / toReal(locPreviousMonth)> |
+		<str projectName,datetime thisYearMonth> <- factsMap,
+		int locThisMonth := factsMap[<projectName, thisYearMonth>],
+		datetime previousMonth := decrementMonths(thisYearMonth),
+		<projectName, previousMonth> in factsMap,
+		int locPreviousMonth := factsMap[<projectName, previousMonth>]
 	};
 }
 
 public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFacts) {
 	monthlyGrowthFactsMap = (
-		<projectName,year> : (<year,month> : (month : <monthlyAbsoluteGrowth, monthlyGrowthFactor>)) |
+		<projectName,year> : (<year,month> : <monthlyAbsoluteGrowth, monthlyGrowthFactor>) |
 		<str projectName,
 		 _,
 		 str year,
@@ -106,10 +112,8 @@ public growthFactsRel getMonthlyGrowthFactsByYear(growthFactsRel monthlyGrowthFa
 		<str projectName,str year> <- monthlyGrowthFactsMap,
 		monthlyGrowthFactsMapForProject := monthlyGrowthFactsMap[<projectName,year>],
 		<str year, str month> <- monthlyGrowthFactsMapForProject,
-		monthlyGrowthFactsMapForProjectInYear := monthlyGrowthFactsMapForProject[<year,month>],
-		str month <- monthlyGrowthFactsMapForProjectInYear,
-	    list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth | <int monthlyAbsoluteGrowth,_> := monthlyGrowthFactsMapForProjectInYear[month]],
-	    list[real] monthlyGrowthFactorList := [monthlyGrowthFactor | <_,real monthlyGrowthFactor> := monthlyGrowthFactsMapForProjectInYear[month]]		
+	    list[int] monthlyAbsoluteGrowthList := [monthlyAbsoluteGrowth | <int monthlyAbsoluteGrowth,_> := monthlyGrowthFactsMapForProject[<year,month>]],
+	    list[real] monthlyGrowthFactorList := [monthlyGrowthFactor | <_,real monthlyGrowthFactor> := monthlyGrowthFactsMapForProject[<year,month>]]		
 	};  
 }
 
