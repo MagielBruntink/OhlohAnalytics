@@ -13,3 +13,21 @@ March 19, 2013:
 	
 	Conclusion: subtracting LOC deleted from LOC added or changed does not
 	result in a	growth number.
+	
+April 9, 2013:
+	Growth is now calculated by subtracting the total LOC in the previous month
+	from the current month. A growth factor is obtained by dividing the growth
+	by the previous month's total LOC. Yearly growth factors are obtained by
+	taking the product of the monthly growth factors in a year.
+	 
+	Preliminary results:
+	  Median yearly loc growth factors:
+		  2008 1.13
+		  2009 1.09
+		  2010 1.05
+		  2011 1.03
+		  2012 1.02
+	 2003-2012 1.08
+	
+	So on average, the growth rate of the 2409 projects included in the dataset
+	decreases each year.
