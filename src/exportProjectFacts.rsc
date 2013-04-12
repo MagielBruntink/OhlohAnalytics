@@ -5,26 +5,20 @@ import Logging;
 import lang::csv::IO;
 
 public void exportFactsForAllProjects() {
-	logToConsole("exportFactsForAllProject", "Getting all facts for all projects from cache...");
-	allFacts=getFactsRelFromCache();
-	logToConsole("exportFactsForAllProject", "Outputting all facts for all projects...");
-	writeFactsToCSV(allFacts,"allFacts.csv");
+	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
+	OhlohFacts=getOhlohFactsRelFromCache();
+	//logToConsole("exportFactsForAllProject", "Outputting Ohloh facts for all projects...");
+	//writeFactsToCSV(OhlohFacts,"OhlohFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Calculating monthly growth facts for all projects...");
-	monthlyGrowthFacts=getMonthlyGrowthFacts(allFacts);
-	logToConsole("exportFactsForAllProject", "Outputting monthly growth facts for all projects...");
-	writeFactsToCSV(monthlyGrowthFacts,"monthlyGrowthFacts.csv");
+	logToConsole("exportFactsForAllProject", "Calculating monthly facts for all projects...");
+	monthlyFacts=getMonthlyFacts(OhlohFacts);
+	//logToConsole("exportFactsForAllProject", "Outputting monthly facts for all projects...");
+	//writeFactsToCSV(monthlyFacts,"monthlyFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Grouping monthly growth facts by year for all projects...");
-	monthlyGrowthFacts=getMonthlyGrowthFactsByYear(monthlyGrowthFacts);
-	logToConsole("exportFactsForAllProject", "Outputting grouped monthly growth facts by year for all projects...");
-	writeFactsToCSV(monthlyGrowthFacts,"monthlyGrowthFactsByYear.csv");
-	
-	logToConsole("exportFactsForAllProject", "Calculating age for all projects...");
-	agePerProject=getProjectAges(allFacts);
-	logToConsole("exportFactsForAllProject", "Outputting age for all projects...");
-	writeFactsToCSV(agePerProject,"agePerProject.csv");
-	
+	logToConsole("exportFactsForAllProject", "Grouping monthly facts grouped by year for all projects...");
+	monthlyFactsByYear=getMonthlyFactsGroupedByYear(monthlyFacts);
+	logToConsole("exportFactsForAllProject", "Outputting grouped monthly facts grouped by year for all projects...");
+	writeFactsToCSV(monthlyFactsByYear,"monthlyFactsByYear.csv");	
 }
 
 public void writeFactsToCSV(facts,str fileName) {

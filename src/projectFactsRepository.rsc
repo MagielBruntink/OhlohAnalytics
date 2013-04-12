@@ -24,9 +24,8 @@ alias mergedFactsTuple =
 		               str contributors,
 		               str loc_total];
 
-alias factsRel =
+alias OhlohFactsRel =
 		rel[str projectName,
-		    datetime yearMonth,
 		    str year,
 		    str month,
 		    int loc_added,
@@ -49,11 +48,11 @@ alias sizeFactsMap =
 		              str month,
 		              str loc_total]];
 
-public factsRel getFactsRel(list[str] projectNames) {
+public OhlohFactsRel getOhlohFactsRel(list[str] projectNames) {
 	return convertFactsMapToRel(mergeFactsForProjects(projectNames));
 }
 
-public factsRel getFactsRelForAllProjects () {
+public OhlohFactsRel getOhlohFactsRelForAllProjects () {
 	return convertFactsMapToRel(mergeFactsForAllProjects());
 }
 
@@ -73,10 +72,9 @@ public mergedFactsMap mergeFactsForAllProjects () {
 	return mergeFactsForProjects(getProjectNamesInRepository());
 }
 
-public factsRel convertFactsMapToRel(mergedFactsMap factsMap) { 
+public OhlohFactsRel convertFactsMapToRel(mergedFactsMap factsMap) { 
 	return {
 		<projectName,
-			 parseDateTime(year + "-" + month,"yyyy-MM"),
 			 year,
 			 month,
 			 toInt(loc_added),
