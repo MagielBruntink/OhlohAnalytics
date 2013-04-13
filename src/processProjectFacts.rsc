@@ -6,7 +6,7 @@ import util::Math;
 import Logging;
 import Caching;
 
-data factsKey = factsKey(str projectName, str year, str month);
+alias factsKey = tuple[str projectName, str year, str month];
 
 data monthlyFact = 
 		    loc_added_fact(int i) |
@@ -89,7 +89,7 @@ public monthlyFactsRel getMonthlyFacts(OhlohFactsRel facts) {
 public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
 {
 	monthlyFactsMap = (
-		factsKey(projectName,year,month) :
+		<projectName,year,month> :
 		{ loc_added_fact(monthlyLocAdded),
 		  loc_deleted_fact(monthlyLocDeleted),
 		  commits_fact(monthlyCommits),
@@ -110,14 +110,10 @@ public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
 		 real monthlyGrowthFactor> <- monthlyFacts
 	);
 
-	minYearForProject = (
-		projectName : minYear |
-		projectYears := monthlyFacts<projectName,year>,
-		str projectName <- projectYears<0>,
-		int minYear := min([ toInt(year) | <projectName, str year> <- projectYears])
-	);
-	
-	months = monthlyFacts<month>;
+	projectNamesYearsMonths = domain(monthlyFactsMap);
+	projectNamesYears = projectNamesYearsMonths<0,1>;
+	years = projectNamesYearsMonths<1>;
+	months = projectNamesYearsMonths<2>;
 
 	return {
 		<projectName, year, 
@@ -128,17 +124,26 @@ public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
 		 max([monthlyLocTotal         | loc_total_fact(int monthlyLocTotal)              <- factsForProjectInYear]),							
 		 sum([monthlyAbsoluteGrowth   | abs_loc_growth_fact(int monthlyAbsoluteGrowth)   <- factsForProjectInYear]),							
 		 product([monthlyGrowthFactor | loc_growth_factor_fact(real monthlyGrowthFactor) <- factsForProjectInYear]),
-		 toInt(year) - minYearForProject[projectName]>
+		 toInt(year) - minYearForProject>
 		 
 		|
 		
-		<str projectName, str year> <- monthlyFacts<projectName,year>,
+		str projectName <- projectNamesYearsMonths<0>,
+		yearsMonthsForProject := 
+		{
+			<year,month> |
+			str year <- years,
+			str month <- months,
+			<projectName, year, month> in monthlyFactsMap
+		},
+		int minYearForProject := min([toInt(year) | str year <- yearsMonthsForProject<0>]),
+		
+		str year <- yearsMonthsForProject<0>,
 		factsForProjectInYear :=
 		[ 
-			fact | 
-			str month <- months,
-			factsKey(projectName, year, month) in monthlyFactsMap,
-			monthlyFact fact <- monthlyFactsMap[factsKey(projectName,year,month)]
+			fact |
+			<year, str month> <- yearsMonthsForProject,
+			monthlyFact fact <- monthlyFactsMap[<projectName,year,month>]
 		]
 	};
 }
