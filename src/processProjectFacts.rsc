@@ -3,11 +3,33 @@ module processProjectFacts
 import Prelude;
 import projectFactsRepository;
 import util::Math;
-import ValueIO;
 import Logging;
+import Caching;
 
-public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
-public loc CachedOhlohFactsRelLoc = OutputFilesDirectory + "OhlohFactsRel.txt";
+data factsKey = factsKey(str projectName, str year, str month);
+
+data monthlyFact = 
+		    loc_added_fact(int i) |
+		    loc_deleted_fact(int i) |
+		    commits_fact(int i) |
+		    contributors_fact(int i) |
+		    loc_total_fact(int i) |
+		    abs_loc_growth_fact(int i) |
+		    loc_growth_factor_fact(real r);
+
+alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
+		    
+data yearlyFact =
+			sum_loc_added_fact(int i) |
+			sum_loc_deleted_fact(int i) |
+			sum_commits_fact(int i) |
+			median_contributors_fact(num n) |
+			max_loc_total_fact(int i) |
+			sum_abs_loc_growth_fact(int i) |
+			prod_loc_growth_factor_fact(real r) |
+			age(int i);
+
+alias yearlyFactsMap = map[factsKey, set[yearlyFact]];
 
 alias monthlyFactsRel =
 		rel[str projectName,
@@ -34,20 +56,11 @@ alias yearlyFactsRel =
 		    num age];
 		    
 public OhlohFactsRel getOhlohFactsRelFromCache() {
-	if(exists(CachedOhlohFactsRelLoc)) {
-		OhlohFactsRel f = readTextValueFile(#OhlohFactsRel, CachedOhlohFactsRelLoc);
-		return (f);
-	}
-	else {
-		return updateOhlohFactsRelInCache();
-	}
+	return getValueFromCache("OhlocFactsRel", getOhlohFactsRelForAllProjects);
 }
 
-public OhlohFactsRel updateOhlohFactsRelInCache() {
-	logToConsole("updateFactsRelInCache", "Updating Ohloh facts relation cache from repository...");
-	OhlohFactsRel newFactsRel = getOhlohFactsRelForAllProjects();
-	writeTextValueFile(CachedOhlohFactsRelLoc, newFactsRel);
-	return newFactsRel;
+public monthlyFactsRel getMonthlyFactsRelFromCache(OhlohFactsRel ohlohFacts) {
+	return getValueFromCache("monthlyFactsRel", getMonthlyFacts, ohlohFacts);
 }
 
 public monthlyFactsRel getMonthlyFacts(OhlohFactsRel facts) {
@@ -72,32 +85,6 @@ public monthlyFactsRel getMonthlyFacts(OhlohFactsRel facts) {
 		<_,_,_,_,_,_,_,int locPreviousMonth> := factsMap[<projectName, previousYear, previousMonth>]
 	};
 }
-
-
-data factsKey = factsKey(str projectName, str year, str month);
-
-data monthlyFact = 
-		    loc_added_fact(int i) |
-		    loc_deleted_fact(int i) |
-		    commits_fact(int i) |
-		    contributors_fact(int i) |
-		    loc_total_fact(int i) |
-		    abs_loc_growth_fact(int i) |
-		    loc_growth_factor_fact(real r);
-
-alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
-		    
-data yearlyFact =
-			sum_loc_added_fact(int i) |
-			sum_loc_deleted_fact(int i) |
-			sum_commits_fact(int i) |
-			median_contributors_fact(num n) |
-			max_loc_total_fact(int i) |
-			sum_abs_loc_growth_fact(int i) |
-			prod_loc_growth_factor_fact(real r) |
-			age(int i);
-
-alias yearlyFactsMap = map[factsKey, set[yearlyFact]];
 
 public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
 {

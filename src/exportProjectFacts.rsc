@@ -4,21 +4,23 @@ import processProjectFacts;
 import Logging;
 import lang::csv::IO;
 
+public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
+
 public void exportFactsForAllProjects() {
 	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
 	OhlohFacts=getOhlohFactsRelFromCache();
-	//logToConsole("exportFactsForAllProject", "Outputting Ohloh facts for all projects...");
-	//writeFactsToCSV(OhlohFacts,"OhlohFacts.csv");
+	logToConsole("exportFactsForAllProject", "Exporting Ohloh facts to CSV for all projects: " + OutputFilesDirectory + "OhlohFacts.csv");
+	writeFactsToCSV(OhlohFacts,"OhlohFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Calculating monthly facts for all projects...");
-	monthlyFacts=getMonthlyFacts(OhlohFacts);
-	//logToConsole("exportFactsForAllProject", "Outputting monthly facts for all projects...");
-	//writeFactsToCSV(monthlyFacts,"monthlyFacts.csv");
+	logToConsole("exportFactsForAllProject", "Getting monthly facts for all projects from cache...");
+	monthlyFacts=getMonthlyFactsRelFromCache(OhlohFacts);
+	logToConsole("exportFactsForAllProject", "Exporting monthly facts to CSV for all projects: " + OutputFilesDirectory + "monthlyFacts.csv");
+	writeFactsToCSV(monthlyFacts,"monthlyFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Grouping monthly facts grouped by year for all projects...");
+	logToConsole("exportFactsForAllProject", "Grouping monthly facts by year for all projects...");
 	monthlyFactsByYear=getMonthlyFactsGroupedByYear(monthlyFacts);
-	logToConsole("exportFactsForAllProject", "Outputting grouped monthly facts grouped by year for all projects...");
-	writeFactsToCSV(monthlyFactsByYear,"monthlyFactsByYear.csv");	
+	logToConsole("exportFactsForAllProject", "Exporting monthly facts grouped by year to CSV for all projects: " + OutputFilesDirectory + "monthlyFactsByYear.csv");
+	writeFactsToCSV(monthlyFactsByYear,"monthlyFactsByYear.csv");
 }
 
 public void writeFactsToCSV(facts,str fileName) {
