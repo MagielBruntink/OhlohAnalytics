@@ -9,17 +9,17 @@ public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
 public void exportFactsForAllProjects() {
 	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects...");
-	OhlohFactsMap OhlohFacts=getOhlohFactsFromCache();
+	OhlohFacts=getOhlohFactsFromCache();
 	
-	logToConsole("exportFactsForAllProject", "Getting monthly facts for all projects...");
-	monthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-	logToConsole("exportFactsForAllProject", "Exporting monthly facts to CSV for all projects: " + "monthlyFacts.csv");
-	writeFactsToCSV(convertMonthlyFactsMapToRel(monthlyFacts),"monthlyFacts.csv");
+	logToConsole("exportFactsForAllProject", "Adding monthly growth facts for all projects...");
+	allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
+	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
+	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Getting grouped monthly facts by year for all projects...");
-	monthlyFactsByYear=getYearlyFactsFromCache(monthlyFacts);
-	logToConsole("exportFactsForAllProject", "Exporting monthly facts grouped by year to CSV for all projects: " + "monthlyFactsByYear.csv");
-	writeFactsToCSV(convertYearlyFactsMapToRel(monthlyFactsByYear),"monthlyFactsByYear.csv");
+	logToConsole("exportFactsForAllProject", "Grouping monthly facts by year for all projects...");
+	allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
+	logToConsole("exportFactsForAllProject", "Exporting all yearly facts grouped to CSV for all projects: " + "allYearlyFacts.csv");
+	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
 }
 
 public void writeFactsToCSV(facts,str fileName) {
@@ -31,13 +31,13 @@ public void writeFactsToCSV(facts,str fileName) {
 public rel [str projectName,
 			 str year,
 			 str month,
-			 int loc_added,
-		     int loc_deleted,
-		     int commits,
-		     int contributors,
-		     int loc_total,
-		     int abs_loc_growth,
-		     real loc_growth_factor]
+			 num loc_added,
+		     num loc_deleted,
+		     num commits,
+		     num contributors,
+		     num loc_total,
+		     num abs_loc_growth,
+		     num loc_growth_factor]
 convertMonthlyFactsMapToRel (monthlyFactsMap monthlyFacts)
 {
 	return
@@ -55,27 +55,27 @@ convertMonthlyFactsMapToRel (monthlyFactsMap monthlyFacts)
 	|
 	key <- monthlyFacts,
 	<str projectName, str year, str month> := key,
-	loc_added_fact(int loc_added)           		<- monthlyFacts[key],
-    loc_deleted_fact(int loc_deleted) 				<- monthlyFacts[key],
-    commits_fact(int commits) 						<- monthlyFacts[key],
-    contributors_fact(int contributors) 			<- monthlyFacts[key],
-    loc_total_fact(int loc_total) 					<- monthlyFacts[key],
-    abs_loc_growth_fact(int abs_loc_growth) 		<- monthlyFacts[key],
-    loc_growth_factor_fact(real loc_growth_factor) 	<- monthlyFacts[key]
+	loc_added_fact(num loc_added)           		<- monthlyFacts[key],
+    loc_deleted_fact(num loc_deleted) 				<- monthlyFacts[key],
+    commits_fact(num commits) 						<- monthlyFacts[key],
+    contributors_fact(num contributors) 			<- monthlyFacts[key],
+    loc_total_fact(num loc_total) 					<- monthlyFacts[key],
+    abs_loc_growth_fact(num abs_loc_growth) 		<- monthlyFacts[key],
+    loc_growth_factor_fact(num loc_growth_factor) 	<- monthlyFacts[key]
     };
 }
 
 public rel [str projectName,
 			 str year,
 			 str month,
-			 int sum_loc_added,
-		     int sum_loc_deleted,
-		     int sum_commits,
-		     int median_contributors,
-		     int max_loc_total,
-		     int sum_abs_loc_growth,
-		     real prod_loc_growth_factor,
-		     int age]
+			 num sum_loc_added,
+		     num sum_loc_deleted,
+		     num sum_commits,
+		     num median_contributors,
+		     num max_loc_total,
+		     num sum_abs_loc_growth,
+		     num prod_loc_growth_factor,
+		     num age]
 convertYearlyFactsMapToRel (yearlyFactsMap yearlyFacts)
 {
 	return
@@ -94,13 +94,13 @@ convertYearlyFactsMapToRel (yearlyFactsMap yearlyFacts)
 	|
 	key <- yearlyFacts,
 	<str projectName, str year, str month> := key,
-	sum_loc_added_fact(int loc_added)           		<- yearlyFacts[key],
-    sum_loc_deleted_fact(int loc_deleted) 				<- yearlyFacts[key],
-    sum_commits_fact(int commits) 						<- yearlyFacts[key],
-    median_contributors_fact(int contributors) 			<- yearlyFacts[key],
-    max_loc_total_fact(int loc_total) 					<- yearlyFacts[key],
-    sum_abs_loc_growth_fact(int abs_loc_growth) 		<- yearlyFacts[key],
-    prod_loc_growth_factor_fact(real loc_growth_factor) <- yearlyFacts[key],
-    age_fact(int age) 									<- yearlyFacts[key]
+	sum_loc_added_fact(num sum_loc_added)           		 <- yearlyFacts[key],
+    sum_loc_deleted_fact(num sum_loc_deleted) 				 <- yearlyFacts[key],
+    sum_commits_fact(num sum_commits) 						 <- yearlyFacts[key],
+    median_contributors_fact(num median_contributors) 		 <- yearlyFacts[key],
+    max_loc_total_fact(num max_loc_total) 					 <- yearlyFacts[key],
+    sum_abs_loc_growth_fact(num sum_abs_loc_growth) 		 <- yearlyFacts[key],
+    prod_loc_growth_factor_fact(num prod_loc_growth_factor)  <- yearlyFacts[key],
+    age_fact(num age) 										 <- yearlyFacts[key]
     };
 }

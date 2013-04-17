@@ -5,8 +5,6 @@ import projectFactsRepository;
 import util::Math;
 import Logging;
 import Caching;
-
-alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
 		    
 data yearlyFact =
 			sum_loc_added_fact(num i) |
@@ -19,20 +17,20 @@ data yearlyFact =
 			age_fact(num i);
 
 alias yearlyFactsMap = map[factsKey, set[yearlyFact]];
-	    
-public OhlohFactsMap getOhlohFactsFromCache() {
+    
+public monthlyFactsMap getOhlohFactsFromCache() {
 	return getValueFromCache("OhlocFactsMap", mergeFactsForAllProjects);
 }
 
-public monthlyFactsMap getMonthlyFactsFromCache(OhlohFactsMap OhlohFacts) {
-	return getValueFromCache("monthlyFactsMap", getMonthlyFacts, OhlohFacts);
+public monthlyFactsMap getMonthlyFactsFromCache(monthlyFactsMap OhlohFacts) {
+	return getValueFromCache("monthlyFactsMap", addMonthlyGrowthFacts, OhlohFacts);
 }
 
 public yearlyFactsMap getYearlyFactsFromCache(monthlyFactsMap monthlyFacts) {
-	return getValueFromCache("yearlyFactsMap", getMonthlyFactsGroupedByYear, monthlyFacts);
+	return getValueFromCache("yearlyFactsMap", groupMonthlyFactsByYear, monthlyFacts);
 }
 
-public monthlyFactsMap getMonthlyFacts(OhlohFactsMap OhlohFacts) {
+public monthlyFactsMap addMonthlyGrowthFacts(monthlyFactsMap OhlohFacts) {
 
 	return (
 		<projectName,year,month> :
@@ -52,7 +50,7 @@ public monthlyFactsMap getMonthlyFacts(OhlohFactsMap OhlohFacts) {
 	);
 }
 
-public yearlyFactsMap getMonthlyFactsGroupedByYear(monthlyFactsMap monthlyFacts)
+public yearlyFactsMap groupMonthlyFactsByYear(monthlyFactsMap monthlyFacts)
 {
 	projectNamesYearsMonths = domain(monthlyFacts);
 	projectNamesYears = projectNamesYearsMonths<0,1>;
