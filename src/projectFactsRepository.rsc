@@ -11,7 +11,7 @@ public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
 }
 
-public alias factsKey = tuple[str projectName, str year, str month];
+alias factsKey = tuple[str projectName, str year, str month];
 
 data monthlyFact =
 		    loc_added_fact(num i) |
@@ -22,7 +22,7 @@ data monthlyFact =
 		    abs_loc_growth_fact(num i) |
 		    loc_growth_factor_fact(num r);
 		    
-alias OhlohFactsMap = map[factsKey, set[monthlyFact]];
+alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
 
 alias activityFactsMap = 
 				  map[str, tuple[str projectName,
@@ -38,7 +38,7 @@ alias sizeFactsMap =
 		              str month,
 		              str loc_total]];
 
-public OhlohFactsMap mergeFactsForProjects (list[str] projectNames) {
+public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
      return (<projectName, year, month> : {
      			loc_added_fact(toInt(loc_added_str)),
      			loc_deleted_fact(toInt(loc_deleted_str)),
@@ -56,7 +56,7 @@ public OhlohFactsMap mergeFactsForProjects (list[str] projectNames) {
     );
 }
 
-public OhlohFactsMap mergeFactsForAllProjects () { 
+public monthlyFactsMap mergeFactsForAllProjects () { 
 	return mergeFactsForProjects(getProjectNamesInRepository());
 }
 
@@ -179,7 +179,7 @@ private Node getXMLContentsDOM(str XML) {
 }
 
 private str reformatDateTime(str dateTimeString) {
-	datetime dt = parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'Z");
+	datetime dt = parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'");
 	return printDate(dt, "yyyy-MM");
 }
 
@@ -192,5 +192,5 @@ private str getMonth(str dateTimeString) {
 }
 
 private datetime getDateTime(str dateTimeString) {
-	return parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'Z");
+	return parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss");
 }
