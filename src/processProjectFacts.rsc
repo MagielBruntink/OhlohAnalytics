@@ -6,125 +6,70 @@ import util::Math;
 import Logging;
 import Caching;
 
-alias factsKey = tuple[str projectName, str year, str month];
-
-data monthlyFact = 
-		    loc_added_fact(int i) |
-		    loc_deleted_fact(int i) |
-		    commits_fact(int i) |
-		    contributors_fact(int i) |
-		    loc_total_fact(int i) |
-		    abs_loc_growth_fact(int i) |
-		    loc_growth_factor_fact(real r);
-
 alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
 		    
 data yearlyFact =
-			sum_loc_added_fact(int i) |
-			sum_loc_deleted_fact(int i) |
-			sum_commits_fact(int i) |
+			sum_loc_added_fact(num i) |
+			sum_loc_deleted_fact(num i) |
+			sum_commits_fact(num i) |
 			median_contributors_fact(num n) |
-			max_loc_total_fact(int i) |
-			sum_abs_loc_growth_fact(int i) |
-			prod_loc_growth_factor_fact(real r) |
-			age(int i);
+			max_loc_total_fact(num i) |
+			sum_abs_loc_growth_fact(num i) |
+			prod_loc_growth_factor_fact(num r) |
+			age_fact(num i);
 
 alias yearlyFactsMap = map[factsKey, set[yearlyFact]];
-
-alias monthlyFactsRel =
-		rel[str projectName,
-		    str year,
-		    str month,
-		    int loc_added,
-		    int loc_deleted,
-		    int commits,
-		    int contributors,
-		    int loc_total,
-		    int abs_loc_growth,
-		    real loc_growth_factor];
-
-alias yearlyFactsRel = 
-		rel[str projectName,
-		    str year,
-		    num sum_loc_added,
-		    num sum_loc_deleted,
-		    num sum_commits,
-		    num median_contributors,
-		    num max_loc_total,
-		    num sum_abs_loc_growth,
-		    num prod_loc_growth_factor,
-		    num age];
-		    
-public OhlohFactsRel getOhlohFactsRelFromCache() {
-	return getValueFromCache("OhlocFactsRel", getOhlohFactsRelForAllProjects);
+	    
+public OhlohFactsMap getOhlohFactsFromCache() {
+	return getValueFromCache("OhlocFactsMap", mergeFactsForAllProjects);
 }
 
-public monthlyFactsRel getMonthlyFactsRelFromCache(OhlohFactsRel ohlohFacts) {
-	return getValueFromCache("monthlyFactsRel", getMonthlyFacts, ohlohFacts);
+public monthlyFactsMap getMonthlyFactsFromCache(OhlohFactsMap OhlohFacts) {
+	return getValueFromCache("monthlyFactsMap", getMonthlyFacts, OhlohFacts);
 }
 
-public monthlyFactsRel getMonthlyFacts(OhlohFactsRel facts) {
-	factsMap = (
-		<projectName,year,month> : monthlyFacts |
-		monthlyFacts <- facts,
-		<str projectName,str year,str month,_,_,_,_,_> := monthlyFacts
-	);
+public yearlyFactsMap getYearlyFactsFromCache(monthlyFactsMap monthlyFacts) {
+	return getValueFromCache("yearlyFactsMap", getMonthlyFactsGroupedByYear, monthlyFacts);
+}
 
-	return {
-		<projectName, year, month, loc_added, loc_deleted, commits, contributors, locThisMonth,
-			locThisMonth - locPreviousMonth, 
-			1.0 + toReal(locThisMonth - locPreviousMonth) / toReal(locPreviousMonth)> |
-			
-		<str projectName,str year, str month> <- factsMap,
-		<projectName,year,month,int loc_added,int loc_deleted,int commits,int contributors,int locThisMonth> :=
-		 	factsMap[<projectName, year, month>],
+public monthlyFactsMap getMonthlyFacts(OhlohFactsMap OhlohFacts) {
+
+	return (
+		<projectName,year,month> :
+		baseFactsForMonth + { 
+			abs_loc_growth_fact(locThisMonth - locPreviousMonth), 
+			loc_growth_factor_fact(1.0 + toReal(locThisMonth - locPreviousMonth) / toReal(locPreviousMonth))
+		} |
+
+		<str projectName,str year, str month> <- OhlohFacts,
+		set[monthlyFact] baseFactsForMonth := OhlohFacts[<projectName,year,month>],
+		loc_total_fact(locThisMonth) <- baseFactsForMonth,
 		datetime previousYearMonth := decrementMonths(createDateTime(toInt(year,10),toInt(month,10),1,0,0,0,0)),
 		str previousYear := printDateTime(previousYearMonth,"yyyy"),
 		str previousMonth := printDateTime(previousYearMonth,"MM"),
-		<projectName,previousYear,previousMonth> in factsMap,
-		<_,_,_,_,_,_,_,int locPreviousMonth> := factsMap[<projectName, previousYear, previousMonth>]
-	};
+		<projectName,previousYear,previousMonth> in OhlohFacts,
+		loc_total_fact(locPreviousMonth) <- OhlohFacts[<projectName, previousYear, previousMonth>]
+	);
 }
 
-public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
+public yearlyFactsMap getMonthlyFactsGroupedByYear(monthlyFactsMap monthlyFacts)
 {
-	monthlyFactsMap = (
-		<projectName,year,month> :
-		{ loc_added_fact(monthlyLocAdded),
-		  loc_deleted_fact(monthlyLocDeleted),
-		  commits_fact(monthlyCommits),
-	      contributors_fact(monthlyContributors),
-	      loc_total_fact(monthlyLocTotal),
-	      abs_loc_growth_fact(monthlyAbsoluteGrowth),
-	      loc_growth_factor_fact(monthlyGrowthFactor)
-	    } |
-		<str projectName,
-		 str year,
-		 str month,
-		 int monthlyLocAdded,
-		 int monthlyLocDeleted,
-		 int monthlyCommits,
-		 int monthlyContributors,
-		 int monthlyLocTotal,
-		 int monthlyAbsoluteGrowth,
-		 real monthlyGrowthFactor> <- monthlyFacts
-	);
-
-	projectNamesYearsMonths = domain(monthlyFactsMap);
+	projectNamesYearsMonths = domain(monthlyFacts);
 	projectNamesYears = projectNamesYearsMonths<0,1>;
 	years = projectNamesYearsMonths<1>;
 	months = projectNamesYearsMonths<2>;
 
-	return {
-		<projectName, year, 
-		 sum([monthlyLocAdded   	  | loc_added_fact(int monthlyLocAdded)              <- factsForProjectInYear]),
-		 sum([monthlyLocDeleted 	  | loc_deleted_fact(int monthlyLocDeleted)          <- factsForProjectInYear]),
-		 sum([monthlyCommits          | commits_fact(int monthlyCommits)                 <- factsForProjectInYear]),
-		 median([monthlyContributors  | contributors_fact(int monthlyContributors)       <- factsForProjectInYear]),
-		 max([monthlyLocTotal         | loc_total_fact(int monthlyLocTotal)              <- factsForProjectInYear]),							
-		 sum([monthlyAbsoluteGrowth   | abs_loc_growth_fact(int monthlyAbsoluteGrowth)   <- factsForProjectInYear]),							
-		 product([monthlyGrowthFactor | loc_growth_factor_fact(real monthlyGrowthFactor) <- factsForProjectInYear]),
-		 toInt(year) - minYearForProject>
+	return (
+		<projectName, year, "12"> : {
+		 sum_loc_added_fact(sum([monthlyLocAdded   	  			  | loc_added_fact(int monthlyLocAdded)              <- factsForProjectInYear])),
+		 sum_loc_deleted_fact(sum([monthlyLocDeleted 	  		  | loc_deleted_fact(int monthlyLocDeleted)          <- factsForProjectInYear])),
+		 sum_commits_fact(sum([monthlyCommits          			  | commits_fact(int monthlyCommits)                 <- factsForProjectInYear])),
+		 median_contributors_fact(median([monthlyContributors     | contributors_fact(int monthlyContributors)       <- factsForProjectInYear])),
+		 max_loc_total_fact(max([monthlyLocTotal         		  | loc_total_fact(int monthlyLocTotal)              <- factsForProjectInYear])),							
+		 sum_abs_loc_growth_fact(sum([monthlyAbsoluteGrowth   	  | abs_loc_growth_fact(int monthlyAbsoluteGrowth)   <- factsForProjectInYear])),							
+		 prod_loc_growth_factor_fact(product([monthlyGrowthFactor | loc_growth_factor_fact(real monthlyGrowthFactor) <- factsForProjectInYear])),
+		 age_fact(toInt(year) - minYearForProject)
+		}
 		 
 		|
 		
@@ -134,7 +79,7 @@ public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
 			<year,month> |
 			str year <- years,
 			str month <- months,
-			<projectName, year, month> in monthlyFactsMap
+			<projectName, year, month> in monthlyFacts
 		},
 		int minYearForProject := min([toInt(year) | str year <- yearsMonthsForProject<0>]),
 		
@@ -143,9 +88,9 @@ public yearlyFactsRel getMonthlyFactsGroupedByYear(monthlyFactsRel monthlyFacts)
 		[ 
 			fact |
 			<year, str month> <- yearsMonthsForProject,
-			monthlyFact fact <- monthlyFactsMap[<projectName,year,month>]
+			monthlyFact fact <- monthlyFacts[<projectName,year,month>]
 		]
-	};
+	);
 }
 
 private num product (list[num] listOfNumbers) {

@@ -11,28 +11,18 @@ public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
 }
 
-alias mergedFactsMap = 
-		map[str, mergedFactsTuple];
+public alias factsKey = tuple[str projectName, str year, str month];
 
-alias mergedFactsTuple = 
-				 tuple[str projectName,
-		               str year,
-		               str month,
-		               str loc_added,
-		               str loc_deleted,
-		               str commits,
-		               str contributors,
-		               str loc_total];
-
-alias OhlohFactsRel =
-		rel[str projectName,
-		    str year,
-		    str month,
-		    int loc_added,
-		    int loc_deleted,
-		    int commits,
-		    int contributors,
-		    int loc_total];
+data monthlyFact =
+		    loc_added_fact(num i) |
+		    loc_deleted_fact(num i) |
+		    commits_fact(num i) |
+		    contributors_fact(num i) |
+		    loc_total_fact(num i) |
+		    abs_loc_growth_fact(num i) |
+		    loc_growth_factor_fact(num r);
+		    
+alias OhlohFactsMap = map[factsKey, set[monthlyFact]];
 
 alias activityFactsMap = 
 				  map[str, tuple[str projectName,
@@ -48,50 +38,26 @@ alias sizeFactsMap =
 		              str month,
 		              str loc_total]];
 
-public OhlohFactsRel getOhlohFactsRel(list[str] projectNames) {
-	return convertFactsMapToRel(mergeFactsForProjects(projectNames));
-}
-
-public OhlohFactsRel getOhlohFactsRelForAllProjects () {
-	return convertFactsMapToRel(mergeFactsForAllProjects());
-}
-
-public mergedFactsMap mergeFactsForProjects (list[str] projectNames) {
-     return (key : <projectName,year,month,loc_added,loc_deleted,commits,contributors,loc_total> |
+public OhlohFactsMap mergeFactsForProjects (list[str] projectNames) {
+     return (<projectName, year, month> : {
+     			loc_added_fact(toInt(loc_added_str)),
+     			loc_deleted_fact(toInt(loc_deleted_str)),
+     			commits_fact(toInt(commits_str)),
+     			contributors_fact(toInt(contributors_str)),
+     			loc_total_fact(toInt(loc_total_str))
+     		 } |
                    str projectName <- projectNames,
                    activityFactsMap activityFacts := getActivityFacts(projectName),
                    sizeFactsMap sizeFacts := getSizeFacts(projectName),
                    str key <- activityFacts,
                    key in sizeFacts,
-                   <_, str year, str month, str loc_added, str loc_deleted,str commits, str contributors> := activityFacts[key],
-                   <_, year, month, str loc_total> := sizeFacts[key]
+                   <_, str year, str month, str loc_added_str, str loc_deleted_str,str commits_str, str contributors_str> := activityFacts[key],
+                   <_, year, month, str loc_total_str> := sizeFacts[key]
     );
 }
 
-public mergedFactsMap mergeFactsForAllProjects () { 
+public OhlohFactsMap mergeFactsForAllProjects () { 
 	return mergeFactsForProjects(getProjectNamesInRepository());
-}
-
-public OhlohFactsRel convertFactsMapToRel(mergedFactsMap factsMap) { 
-	return {
-		<projectName,
-			 year,
-			 month,
-			 toInt(loc_added),
-			 toInt(loc_deleted),
-			 toInt(commits),
-			 toInt(contributors),
-			 toInt(loc_total)> |
-		str key <- factsMap,
-		<str projectName,
-		 str year,
-		 str month,
-		 str loc_added,
-		 str loc_deleted,
-		 str commits,
-		 str contributors,
-		 str loc_total> <- [factsMap[key]]
-	};
 }
 
 @doc{
