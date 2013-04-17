@@ -3,6 +3,8 @@ module Caching
 import Prelude;
 import ValueIO;
 import Logging;
+import projectFactsRepository;
+import processProjectFacts;
 
 public loc CacheDirectory = |project://OhlohAnalytics/cache|;
 
