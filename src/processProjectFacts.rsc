@@ -23,11 +23,15 @@ public monthlyFactsMap getOhlohFactsFromCache() {
 }
 
 public monthlyFactsMap getMonthlyFactsFromCache(monthlyFactsMap OhlohFacts) {
-	return getValueFromCache("monthlyFactsMap", #monthlyFactsMap, addMonthlyGrowthFacts, OhlohFacts);
+	return getValueFromCache("monthlyFactsMap",
+							 #monthlyFactsMap,
+							 monthlyFactsMap () {return addMonthlyGrowthFacts(OhlohFacts);});
 }
 
 public yearlyFactsMap getYearlyFactsFromCache(monthlyFactsMap monthlyFacts) {
-	return getValueFromCache("yearlyFactsMap", #yearlyFactsMap, groupMonthlyFactsByYear, monthlyFacts);
+	return getValueFromCache("yearlyFactsMap",
+							#yearlyFactsMap,
+							yearlyFactsMap () {return groupMonthlyFactsByYear(monthlyFacts);});
 }
 
 public monthlyFactsMap addMonthlyGrowthFacts(monthlyFactsMap OhlohFacts) {

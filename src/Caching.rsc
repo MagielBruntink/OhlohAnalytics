@@ -18,16 +18,3 @@ public &T getValueFromCache(str CachedValueName, type[&T] CachedObjectType, &T (
 		return newValue;
 	}
 }
-
-public &T getValueFromCache(str CachedValueName, type[&T] CachedObjectType, &T (&S) getUpdatedValue, &S param) {
-	if(exists(CacheDirectory + CachedValueName)) {
-		&T f = readTextValueFile(CachedObjectType, CacheDirectory + CachedValueName);
-		return f;
-	}
-	else {
-		logToConsole("getValueFromCache", "Updating value in cache for: " + CachedValueName);
-		&T newValue = getUpdatedValue(param);
-		writeTextValueFile(CacheDirectory + CachedValueName, newValue);
-		return newValue;
-	}
-}

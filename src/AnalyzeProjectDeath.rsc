@@ -1,17 +1,14 @@
-module analysis::AnalyzeProjectDeath
+module AnalyzeProjectDeath
 
 import processProjectFacts;
 
-public rel[str projectName, str year] findDeadProjects () {
-	monthlyFactsByYear = getYearlyFactsRelFromCache(
-							getMonthlyFactsRelFromCache(
-								getOhlohFactsRelFromCache()));
-								
+public rel[str projectName, str year] findProjectDeathEvents (monthlyFactsMap monthlyFactsByYear) {
+							
 	return {
 		<projectName, year> |
-			 <str projectName, str year, _, _, 
-			 int sum_commits,
-			 _, _, _, _, _> <- monthlyFactsByYear,
+			 <str projectName, str year, str month> <- monthlyFactsByYear,  
+			 sum_commits_fact(num sum_commits) <- monthlyFactsByYear[<projectName, year, month>],
 			 sum_commits := 0
 	};
 }
+
