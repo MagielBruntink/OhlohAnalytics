@@ -19,15 +19,15 @@ data yearlyFact =
 alias yearlyFactsMap = map[factsKey, set[yearlyFact]];
     
 public monthlyFactsMap getOhlohFactsFromCache() {
-	return getValueFromCache("OhlocFactsMap", mergeFactsForAllProjects);
+	return getValueFromCache("OhlocFactsMap", #monthlyFactsMap, mergeFactsForAllProjects);
 }
 
 public monthlyFactsMap getMonthlyFactsFromCache(monthlyFactsMap OhlohFacts) {
-	return getValueFromCache("monthlyFactsMap", addMonthlyGrowthFacts, OhlohFacts);
+	return getValueFromCache("monthlyFactsMap", #monthlyFactsMap, addMonthlyGrowthFacts, OhlohFacts);
 }
 
 public yearlyFactsMap getYearlyFactsFromCache(monthlyFactsMap monthlyFacts) {
-	return getValueFromCache("yearlyFactsMap", groupMonthlyFactsByYear, monthlyFacts);
+	return getValueFromCache("yearlyFactsMap", #yearlyFactsMap, groupMonthlyFactsByYear, monthlyFacts);
 }
 
 public monthlyFactsMap addMonthlyGrowthFacts(monthlyFactsMap OhlohFacts) {

@@ -3,14 +3,12 @@ module Caching
 import Prelude;
 import ValueIO;
 import Logging;
-import projectFactsRepository;
-import processProjectFacts;
 
 public loc CacheDirectory = |project://OhlohAnalytics/cache|;
 
-public &T getValueFromCache(str CachedValueName, &T () getUpdatedValue) {
+public &T getValueFromCache(str CachedValueName, type[&T] CachedObjectType, &T () getUpdatedValue) {
 	if(exists(CacheDirectory + CachedValueName)) {
-		&T f = readTextValueFile(#&T, CacheDirectory + CachedValueName);
+		&T f = readTextValueFile(CachedObjectType, CacheDirectory + CachedValueName);
 		return f;
 	}
 	else {
@@ -21,9 +19,9 @@ public &T getValueFromCache(str CachedValueName, &T () getUpdatedValue) {
 	}
 }
 
-public &T getValueFromCache(str CachedValueName, &T (&S) getUpdatedValue, &S param) {
+public &T getValueFromCache(str CachedValueName, type[&T] CachedObjectType, &T (&S) getUpdatedValue, &S param) {
 	if(exists(CacheDirectory + CachedValueName)) {
-		&T f = readTextValueFile(#&T, CacheDirectory + CachedValueName);
+		&T f = readTextValueFile(CachedObjectType, CacheDirectory + CachedValueName);
 		return f;
 	}
 	else {

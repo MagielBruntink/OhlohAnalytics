@@ -8,15 +8,15 @@ import lang::csv::IO;
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
 public void exportFactsForAllProjects() {
-	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects...");
+	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
 	OhlohFacts=getOhlohFactsFromCache();
 	
-	logToConsole("exportFactsForAllProject", "Adding monthly growth facts for all projects...");
+	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
 	allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
 	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
 	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Grouping monthly facts by year for all projects...");
+	logToConsole("exportFactsForAllProject", "Getting grouped monthly facts by year for all projects from cache...");
 	allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
 	logToConsole("exportFactsForAllProject", "Exporting all yearly facts grouped to CSV for all projects: " + "allYearlyFacts.csv");
 	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
