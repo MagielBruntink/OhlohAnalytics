@@ -45,12 +45,13 @@ public monthlyFactsMap addMonthlyGrowthFacts(monthlyFactsMap OhlohFacts) {
 
 		<str projectName,str year, str month> <- OhlohFacts,
 		set[monthlyFact] baseFactsForMonth := OhlohFacts[<projectName,year,month>],
-		loc_total_fact(locThisMonth) <- baseFactsForMonth,
+		loc_total_fact(num locThisMonth) <- baseFactsForMonth,
 		datetime previousYearMonth := decrementMonths(createDateTime(toInt(year,10),toInt(month,10),1,0,0,0,0)),
 		str previousYear := printDateTime(previousYearMonth,"yyyy"),
 		str previousMonth := printDateTime(previousYearMonth,"MM"),
 		<projectName,previousYear,previousMonth> in OhlohFacts,
-		loc_total_fact(locPreviousMonth) <- OhlohFacts[<projectName, previousYear, previousMonth>]
+		loc_total_fact(num locPreviousMonth) <- OhlohFacts[<projectName, previousYear, previousMonth>],
+		locPreviousMonth > 0
 	);
 }
 

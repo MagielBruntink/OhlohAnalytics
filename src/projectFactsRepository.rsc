@@ -132,7 +132,7 @@ private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFact
 	return (key : <projectName, year, month, loc_total> |
 		str key <- unfilteredSizeFacts,
 		<str projectName, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
-		toInt(loc_total) > 0	
+		toInt(loc_total) >= 0
 	);
 }
 
