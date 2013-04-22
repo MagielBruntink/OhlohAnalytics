@@ -70,7 +70,7 @@ public yearlyFactsMap groupMonthlyFactsByYear(monthlyFactsMap monthlyFacts)
 		 median_contributors_fact(median([monthlyContributors     | contributors_fact(int monthlyContributors)       <- factsForProjectInYear])),
 		 max_loc_total_fact(max([monthlyLocTotal         		  | loc_total_fact(int monthlyLocTotal)              <- factsForProjectInYear])),							
 		 sum_abs_loc_growth_fact(sum([monthlyAbsoluteGrowth   	  | abs_loc_growth_fact(int monthlyAbsoluteGrowth)   <- factsForProjectInYear])),							
-		 prod_loc_growth_factor_fact(product([monthlyGrowthFactor | loc_growth_factor_fact(real monthlyGrowthFactor) <- factsForProjectInYear])),
+		 prod_loc_growth_factor_fact(product([monthlyGrowthFactor | loc_growth_factor_fact(num monthlyGrowthFactor) <- factsForProjectInYear])),
 		 age_fact(toInt(year) - minYearForProject)
 		}
 		 
@@ -96,7 +96,7 @@ public yearlyFactsMap groupMonthlyFactsByYear(monthlyFactsMap monthlyFacts)
 	);
 }
 
-private num product (list[num] listOfNumbers) {
+public num product (list[num] listOfNumbers) {
 	num result = 1;
 	for (num number <- listOfNumbers) {
 		result = result * number;

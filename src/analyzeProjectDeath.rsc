@@ -8,7 +8,7 @@ import exportProjectFacts;
 
 alias projectActivityStatus = rel[str, list[tuple[str, num, bool]]];
 
-alias projectDeathStatus = rel[str projectName, int age, bool isDead];
+alias projectDeathStatus = rel[str projectName, int age, int status];
 
 private set[str] excludedYears = {"2013"};
 
@@ -88,16 +88,16 @@ public void printProjectActivity (projectActivityStatus stats, yearlyFactsMap fa
 
 public projectDeathStatus getProjectDeathStatus (projectActivityStatus stats, str cutoffYear) {
 	return {
-		<projectName,age,isDead> |
+		<projectName,age,status> |
 		projectHistory <- stats,
 		<projectName,  [Years*, <year,age,isActive>, MoreYears*]> := projectHistory,
 		toInt(year) <= toInt(cutoffYear),
 		(isActive == false && 
 			[_*,<_,_,true>] := Years &&
 			![_*,<_,_,true>,_*] := MoreYears && 
-			bool isDead := true)
+			int status := 2)
 		||
-		(isActive == true && year == cutoffYear && bool isDead := false)
+		(isActive == true && year == cutoffYear && int status := 1)
 	};
 }
 

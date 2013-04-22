@@ -4,6 +4,7 @@ import processProjectFacts;
 import projectFactsRepository;
 import Logging;
 import lang::csv::IO;
+import analyzeProjectDeath;
 
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
@@ -13,13 +14,20 @@ public void exportFactsForAllProjects() {
 	
 	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
 	allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
-	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
+	//logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
+	//writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Getting grouped monthly facts by year for all projects from cache...");
-	allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
+	logToConsole("exportFactsForAllProject", "Calculating grouped monthly facts by year for all projects...");
+	allYearlyFacts=groupMonthlyFactsByYear(allMonthlyFacts);
 	logToConsole("exportFactsForAllProject", "Exporting all yearly facts grouped to CSV for all projects: " + "allYearlyFacts.csv");
 	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
+	
+	logToConsole("exportFactsForAllProject", "Calculating project activity for all projects...");
+	projectActivityStats=getProjectActivityStatus(allYearlyFacts);
+	logToConsole("exportFactsForAllProject", "Calculating project death events for all projects...");
+	projectDeathStats=getProjectDeathStatus(projectActivityStats, "2012");
+	logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
+	writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
 }
 
 public void writeFactsToCSV(facts,str fileName) {
@@ -89,7 +97,7 @@ convertYearlyFactsMapToRel (yearlyFactsMap yearlyFacts)
 	     median_contributors,
 	     max_loc_total,
 	     sum_abs_loc_growth,
-	     prod_loc_growth_factor,
+	     prod_loc_growth_factor < 0.0000001 ? 0 : prod_loc_growth_factor,
 	     age>
 	|
 	key <- yearlyFacts,
