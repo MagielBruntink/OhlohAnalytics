@@ -142,4 +142,31 @@ March 26, 2013: 1100:
 	
 March 26, 2013: 16:45:
 	Activity Facts for Setun is missing, Setun removed from dataset.
-	Last succesful: 2499->pcb, succesful count: 2416.	
+	Last succesful: 2499->pcb, succesful count: 2416.
+	
+April 22nd, 2013: 12:46:
+	Project history data: 2500 - 2999
+		Many failures due to bad WiFi connectivity. Retried failed queries
+			(see 20130422-1515-retried-projects.txt)
+	
+		Failures due to missing data: 11
+			AgiloforScrum
+			NCoverExplorer
+			Sysstat
+			autoit
+			cgi-app
+			ed
+			editplus
+			fpdf
+			hostedapps
+			jpgraph
+			leafpad
+			
+	Last succesful: 2936->jmockit, succesful count: ...
+
+	Introduced the fetch back log holding projects that could not be fetched
+	yet because of the Ohloh API keys being depleted sooner than anticipated.
+	
+		
+		
+	
