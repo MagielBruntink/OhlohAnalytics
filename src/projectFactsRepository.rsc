@@ -97,7 +97,8 @@ public activityFactsMap getActivityFacts(str projectName)
 
 public void addActivityFactsToRepository(str activityFacts, str projectName) {
 	loc activityFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "ActivityFacts.xml";
-	writeFile(activityFactsFile, activityFacts);
+	if (!/\<response\>/i := activityFacts) throw "addActivityFactsToRepository: Activity facts file is no XML for project: <Project>";
+	else writeFile(activityFactsFile, activityFacts);
 }
 
 @doc{
@@ -138,7 +139,8 @@ private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFact
 
 public void addSizeFactsToRepository(str sizeFacts, str projectName) {
 	loc sizeFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "SizeFacts.xml";
-	writeFile(sizeFactsFile, sizeFacts);
+	if (!/\<response\>/i := sizeFacts) throw "addSizeFactsToRepository: Size facts file is no XML for project: <Project>";
+	else writeFile(sizeFactsFile, sizeFacts);
 }
 
 public void addProjectsListToRepository(str projectsListPage) {
@@ -164,18 +166,23 @@ private list[str] extractProjectNames (str XML) {
 	return result;
 }
 
-private Node getActivityFactsDOM(str Project) {
+public Node getActivityFactsDOM(str Project) {
 	loc ActivityFactsFile = LocalOhlohProjectsRepository + "projects" + Project + "ActivityFacts.xml";
-	return getXMLContentsDOM(readFile(ActivityFactsFile));
+	activityFacts = readFile(ActivityFactsFile);
+	if (!/\<response\>/i := activityFacts) throw "getActivityFactsDOM: Activity facts file is no XML for project: <Project>";
+	return getXMLContentsDOM(activityFacts);
 }
 
 private Node getSizeFactsDOM(str Project) {
 	loc SizeFactsFile = LocalOhlohProjectsRepository + "projects" + Project + "SizeFacts.xml";
+	sizeFacts = readFile(SizeFactsFile);
+	if (!/\<response\>/i := sizeFacts) throw "sizeFactsDOM: Size facts file is no XML for project: <Project>";
 	return getXMLContentsDOM(readFile(SizeFactsFile));
 }
 
 private Node getXMLContentsDOM(str XML) {
-	return XMLContentsDOM = parseXMLDOMTrim(XML);
+	XMLContentsDOM = parseXMLDOMTrim(XML);
+	return XMLContentsDOM;
 }
 
 private str reformatDateTime(str dateTimeString) {
