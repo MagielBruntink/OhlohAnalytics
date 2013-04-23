@@ -44,6 +44,8 @@ public void obtainProjectDataFromOhloh(int startAtProject, int numberOfProjects)
 
 public void obtainProjectDataFromOhloh(list[str] projectNames) {
 	for (str p <- projectNames) {
+		obtainMetaDataFromOhloh(p);
+		sleep(timeToSleepBetweenQueries);
 		obtainActivityFactsFromOhloh(p);
 		sleep(timeToSleepBetweenQueries);
 		obtainSizeFactsFromOhloh(p);
@@ -51,16 +53,23 @@ public void obtainProjectDataFromOhloh(list[str] projectNames) {
 	}
 }
 
+public void obtainMetaDataFromOhloh(str projectName) {
+	loc projectMetaDataURI = |http://<OhlohBaseURL>/projects/<projectName>.xml?api_key=<OhlohAPIKey>|;
+	logToConsole("obtainMetaDataFromOhloh", "Reading meta data for project <projectName> from Ohloh, URL: <projectMetaDataURI>");
+	try addMetaDataToRepository(readFile(projectMetaDataURI), projectName);
+	catch: logToConsole("obtainMetaDataFromOhloh", "WARNING: problem when reading meta data for project <projectName> from Ohloh, skipped.");
+}
+
 public void obtainActivityFactsFromOhloh(str projectName) {
 	loc projectActivityFactsURI = |http://<OhlohBaseURL>/projects/<projectName>/analyses/latest/activity_facts.xml?api_key=<OhlohAPIKey>|;
 	logToConsole("obtainActivityFactsFromOhloh", "Reading activity facts for project <projectName> from Ohloh, URL: <projectActivityFactsURI>");
 	try addActivityFactsToRepository(readFile(projectActivityFactsURI), projectName);
-	catch: logToConsole("obtainActivityFactsFromOhloh", "WARNING: problem when reading activity facts for project <projectName> from Ohloh.");
+	catch: logToConsole("obtainActivityFactsFromOhloh", "WARNING: problem when reading activity facts for project <projectName> from Ohloh, skipped.");
 }
 
 public void obtainSizeFactsFromOhloh(str projectName) {
 	loc projectSizeFactsURI = |http://<OhlohBaseURL>/projects/<projectName>/analyses/latest/size_facts.xml?api_key=<OhlohAPIKey>|;
 	logToConsole("obtainSizeFactsFromOhloh", "Reading size facts for project <projectName> from Ohloh, URL: <projectSizeFactsURI>");
 	try addSizeFactsToRepository(readFile(projectSizeFactsURI), projectName);
-	catch: logToConsole("obtainSizeFactsFromOhloh", "WARNING: problem when reading size facts for project <projectName> from Ohloh.");
+	catch: logToConsole("obtainSizeFactsFromOhloh", "WARNING: problem when reading size facts for project <projectName> from Ohloh, skipped.");
 }

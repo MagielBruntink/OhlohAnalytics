@@ -6,6 +6,9 @@ import lang::xml::DOM;
 private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
 private loc ProjectNamesListFile = LocalOhlohProjectsRepository + "ProjectNamesList.txt";
 private loc ProjectsFile = LocalOhlohProjectsRepository + "Projects.xml";
+private str MetaDataFileName = "MetaData.xml";
+private str SizeFactsFileName = "SizeFacts.xml";
+private str ActivityFactsFileName = "ActivityFacts.xml";
 
 public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
@@ -95,12 +98,6 @@ public activityFactsMap getActivityFacts(str projectName)
 	return result;
 }
 
-public void addActivityFactsToRepository(str activityFacts, str projectName) {
-	loc activityFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "ActivityFacts.xml";
-	if (!/\<response\>/i := activityFacts) throw "addActivityFactsToRepository: Activity facts file is no XML for project: <Project>";
-	else writeFile(activityFactsFile, activityFacts);
-}
-
 @doc{
 	Returns a relation containing:
 		- str: month
@@ -137,10 +134,23 @@ private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFact
 	);
 }
 
-public void addSizeFactsToRepository(str sizeFacts, str projectName) {
-	loc sizeFactsFile = LocalOhlohProjectsRepository + "projects" + projectName + "SizeFacts.xml";
-	if (!/\<response\>/i := sizeFacts) throw "addSizeFactsToRepository: Size facts file is no XML for project: <Project>";
-	else writeFile(sizeFactsFile, sizeFacts);
+public void addMetaDataToRepository(str metaDataXML, str projectName) {
+	addXMLFileToRepository(metaDataXML, projectName, MetaDataFileName);
+}
+
+public void addActivityFactsToRepository(str activityFactsXML, str projectName) {
+	addXMLFileToRepository(activityFactsXML, projectName, ActivityFactsFileName);
+}
+
+
+public void addSizeFactsToRepository(str sizeFactsXML, str projectName) {
+	addXMLFileToRepository(sizeFactsXML, projectName, SizeFactsFileName);
+}
+
+private void addXMLFileToRepository(str XML, str projectName, str fileName) {
+	loc file = LocalOhlohProjectsRepository + "projects" + projectName + fileName;
+	if (!validateXML(XML)) throw "addXMLFileToRepository: Validation of XML contents failed while adding <fileName> for project <projectName>";
+	else writeFile(file, XML);
 }
 
 public void addProjectsListToRepository(str projectsListPage) {
@@ -166,21 +176,22 @@ private list[str] extractProjectNames (str XML) {
 	return result;
 }
 
-public Node getActivityFactsDOM(str Project) {
-	loc ActivityFactsFile = LocalOhlohProjectsRepository + "projects" + Project + "ActivityFacts.xml";
-	activityFacts = readFile(ActivityFactsFile);
-	if (!/\<response\>/i := activityFacts) throw "getActivityFactsDOM: Activity facts file is no XML for project: <Project>";
-	return getXMLContentsDOM(activityFacts);
+public Node getProjectMetaDataDOM(str projectName) {
+	return getXMLContentsDOM(projectName, MetaDataFileName);
 }
 
-private Node getSizeFactsDOM(str Project) {
-	loc SizeFactsFile = LocalOhlohProjectsRepository + "projects" + Project + "SizeFacts.xml";
-	sizeFacts = readFile(SizeFactsFile);
-	if (!/\<response\>/i := sizeFacts) throw "sizeFactsDOM: Size facts file is no XML for project: <Project>";
-	return getXMLContentsDOM(readFile(SizeFactsFile));
+private Node getActivityFactsDOM(str projectName) {
+	return getXMLContentsDOM(projectName, ActivityFactsFileName);
 }
 
-private Node getXMLContentsDOM(str XML) {
+private Node getSizeFactsDOM(str projectName) {
+	return getXMLContentsDOM(projectName, SizeFactsFileName);
+}
+
+private Node getXMLContentsDOM(str projectName, str fileName) {
+	loc file = LocalOhlohProjectsRepository + "projects" + projectName + fileName;
+	str XML = readFile(file);
+	if (!validateXML(XML)) throw "getXMLContentsDOM: Validation of XML contents failed while reading <fileName> for project <projectName>";
 	XMLContentsDOM = parseXMLDOMTrim(XML);
 	return XMLContentsDOM;
 }
@@ -201,3 +212,8 @@ private str getMonth(str dateTimeString) {
 private datetime getDateTime(str dateTimeString) {
 	return parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss");
 }
+
+private bool validateXML(str input) {
+	return (/\s*\<response\>\s*\<status\>\s*success\s*\<\/status\>.*/i := input);
+}
+
