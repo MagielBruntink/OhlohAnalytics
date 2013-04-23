@@ -22,15 +22,30 @@ dev.off()
 	plotObj <- qplot(age,prod_loc_growth_factor,data=monthlyFactsByYear, group=age,geom="boxplot", log="y",
 	             xlab="Project age in years",                    
 		           ylab="Yearly LOC growth factor",
-	             main=paste("Boxplots of yearly growth factor at a project's age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
+	             main=paste("Boxplots of yearly growth factor for each project age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
 	ggsave(file=paste(analysis_dir,"age-yearlygrowth.pdf",sep="/"),plot=plotObj)
 
 ### Plot of monthly commits summed by year
 	plotObj <- qplot(age,sum_commits,data=monthlyFactsByYear, group=age,geom="boxplot", log="y",
     xlab="Project age in years",
 		ylab="Yearly sum of commits",
-	  main=paste("Boxplots of yearly number of commits at a project's age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
+	  main=paste("Boxplots of yearly number of commits for each project age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
 	ggsave(file=paste(analysis_dir,"age-yearlycommits.pdf",sep="/"),plot=plotObj)
+
+### Plot of monthly contributors averaged (median) by year for each project age
+plotObj <- qplot(age,median_contributors,data=monthlyFactsByYear, group=age,geom="boxplot", log="y",
+                 xlab="Project age in years",
+                 ylab="Yearly median of contributors",
+                 main=paste("Boxplots of yearly average (median) contributors for each project age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
+ggsave(file=paste(analysis_dir,"age-yearlycontributors.pdf",sep="/"),plot=plotObj)
+
+### Plot of monthly contributors averaged (median) by year
+plotObj <- qplot(year,median_contributors,data=monthlyFactsByYear, group=year,geom="boxplot", log="y",
+                 xlab="Year",
+                 ylab="Yearly median of contributors",
+                 main=paste("Boxplots of yearly average (median) contributors in a calendar year, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
+ggsave(file=paste(analysis_dir,"year-yearlycontributors.pdf",sep="/"),plot=plotObj)
+
 
 ### Plot of project survival curve
 	survivalCurve <- survfit(Surv(age,status) ~ 1, data=projectDeath)
@@ -51,6 +66,13 @@ dev.off()
                        breaks=20)
   dev.off()
 
-	
-
-
+### Plot of project ages at death
+  yearOfDeath <- subset(projectDeath, status==2, select=yearOfEvent)
+  pdf(file=paste(analysis_dir,"year-death-hist.pdf",sep="/"))
+  hist(yearOfDeath$yearOfEvent, xlab="Year of death",
+       ylab="Number of occurrences", 
+       main=paste("Histogram of the year of death of", length(yearOfDeath$yearOfEvent), "projects", sep=" " ),
+       freq=TRUE)
+  dev.off()
+  
+  
