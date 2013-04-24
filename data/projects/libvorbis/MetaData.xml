@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3431</id>
+      <name>libvorbis</name>
+      <url>http://www.ohloh.net/p/libvorbis.xml</url>
+      <html_url>http://www.ohloh.net/p/libvorbis</html_url>
+      <created_at>2006-10-27T11:59:36Z</created_at>
+      <updated_at>2013-04-23T15:22:13Z</updated_at>
+      <description>Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format for mid to high quality (8kHz-48.0kHz, 16+ bit, polyphonic) audio and music at fixed and variable bitrates from 16 to 128 kbps/channel. This places Vorbis in the same competitive class as audio representations such as MPEG-4 (AAC), and similar to, but higher performance than MP3 and WMA.</description>
+      <homepage_url>http://www.xiph.org/vorbis/</homepage_url>
+      <download_url></download_url>
+      <url_name>libvorbis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>346</user_count>
+      <average_rating>4.63636</average_rating>
+      <rating_count>44</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13693863</analysis_id>
+      <tags>
+        <tag>ogg</tag>
+        <tag>sound</tag>
+        <tag>xiph</tag>
+        <tag>media</tag>
+        <tag>monty</tag>
+        <tag>multimedia</tag>
+        <tag>vorbis</tag>
+        <tag>codecs</tag>
+        <tag>audio</tag>
+        <tag>music</tag>
+        <tag>codec</tag>
+      </tags>
+      <analysis>
+        <id>13693863</id>
+        <url>http://www.ohloh.net/analyses/13693863.xml</url>
+        <project_id>3431</project_id>
+        <updated_at>2013-04-23T15:22:13Z</updated_at>
+        <logged_at>2013-04-23T15:18:31Z</logged_at>
+        <min_month>1999-07-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>186264</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libvorbis/analyses/13693863/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="47A400" percentage="25" id="1">
+HTML          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3475</id>
+      <name>GStreamer</name>
+      <url>http://www.ohloh.net/p/gstreamer.xml</url>
+      <html_url>http://www.ohloh.net/p/gstreamer</html_url>
+      <created_at>2006-10-29T14:51:54Z</created_at>
+      <updated_at>2013-04-24T13:40:01Z</updated_at>
+      <description>GStreamer is a development framework for creating applications like media players, video editors, streaming media broadcasters and so on. It aims to support every format imaginable.</description>
+      <homepage_url>http://gstreamer.freedesktop.org/</homepage_url>
+      <download_url>http://www.ohloh.net/projects/3475?p=GStreamer</download_url>
+      <url_name>gstreamer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14821/gstreamer-logo-2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14821/gstreamer-logo-2_small.png</small_logo_url>
+      <user_count>327</user_count>
+      <average_rating>4.23944</average_rating>
+      <rating_count>71</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13700938</analysis_id>
+      <tags>
+        <tag>multimedia</tag>
+        <tag>framework</tag>
+        <tag>gstreamer</tag>
+        <tag>audio</tag>
+        <tag>broadcast</tag>
+        <tag>rtsp</tag>
+        <tag>rtp</tag>
+        <tag>stream</tag>
+        <tag>media</tag>
+        <tag>video</tag>
+      </tags>
+      <analysis>
+        <id>13700938</id>
+        <url>http://www.ohloh.net/analyses/13700938.xml</url>
+        <project_id>3475</project_id>
+        <updated_at>2013-04-24T13:40:01Z</updated_at>
+        <logged_at>2013-04-24T13:09:24Z</logged_at>
+        <min_month>2000-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>181</twelve_month_contributor_count>
+        <total_code_lines>1331654</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gstreamer/analyses/13700938/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="5" id="44">
+C++          </language>
+          <language color="000000" percentage="6" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3855</id>
+      <name>Eclipse Platform Project</name>
+      <url>http://www.ohloh.net/p/eclipse.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse</html_url>
+      <created_at>2006-12-21T04:32:37Z</created_at>
+      <updated_at>2013-04-23T18:51:24Z</updated_at>
+      <description>The Eclipse platform is a generic foundation for an IDE. That is, the platform is an IDE without any particular programming language in mind. You can create generic projects, edit files in a generic text editor, and share the projects and files with a Concurrent Versions System (CVS) server. The platform is essentially a glorified version of a file-system browser.</description>
+      <homepage_url>http://wiki.eclipse.org/index.php/Main_Page</homepage_url>
+      <download_url>http://download.eclipse.org/eclipse/downloads/</download_url>
+      <url_name>eclipse</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53009/eclipse-face_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53009/eclipse-face_small.png</small_logo_url>
+      <user_count>2740</user_count>
+      <average_rating>4.37627</average_rating>
+      <rating_count>691</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13679915</analysis_id>
+      <tags>
+        <tag>swt</tag>
+        <tag>programming</tag>
+        <tag>rcp</tag>
+        <tag>osgi</tag>
+        <tag>tools</tag>
+        <tag>eclipse</tag>
+        <tag>platform</tag>
+        <tag>enter</tag>
+        <tag>tag</tag>
+        <tag>name</tag>
+        <tag>here</tag>
+      </tags>
+      <analysis>
+        <id>13679915</id>
+        <url>http://www.ohloh.net/analyses/13679915.xml</url>
+        <project_id>3855</project_id>
+        <updated_at>2013-04-22T09:52:34Z</updated_at>
+        <logged_at>2013-04-22T09:29:54Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>113</twelve_month_contributor_count>
+        <total_code_lines>2739531</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse/analyses/13679915/languages.png">
+          <language color="9A63AD" percentage="69" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>common_public</name>
+          <nice_name>Common Public License 1.0</nice_name>
+        </license>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

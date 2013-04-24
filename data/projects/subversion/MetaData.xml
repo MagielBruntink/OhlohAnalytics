@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>1</id>
+      <name>Apache Subversion</name>
+      <url>http://www.ohloh.net/p/subversion.xml</url>
+      <html_url>http://www.ohloh.net/p/subversion</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-24T01:44:56Z</updated_at>
+      <description>Subversion has rapidly become the version control standard and it is rapidly replacing open source and commercial solutions around the world.
+Subversion enables globally distributed software development teams to efficiently version and share source code. The open source Subversion project was started in early 2000 by CollabNet, the primary corporate sponsor of Subversion.
+
+Key Capabilities:
+- Versioned directories
+- Atomic commits
+- Efficient handling of binary files
+- Quick branching and tagging
+- Directory and file meta data
+- Merge tracking
+- Natively client-server
+- Minimal server and network requirements
+- Low admin overhead
+- Good security
+
+more at: http://subversion.apache.org/
+
+
+Read Submerged, a blog about Subversion at http://blogs.open.collab.net/svn</description>
+      <homepage_url>http://subversion.apache.org/</homepage_url>
+      <download_url>http://subversion.apache.org/packages.html</download_url>
+      <url_name>subversion</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1/svn_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1/svn_small.png</small_logo_url>
+      <user_count>8396</user_count>
+      <average_rating>4.22561</average_rating>
+      <rating_count>2265</rating_count>
+      <review_count>16</review_count>
+      <analysis_id>13686769</analysis_id>
+      <tags>
+        <tag>source_control</tag>
+        <tag>svn</tag>
+        <tag>version_control</tag>
+        <tag>revision_control</tag>
+        <tag>scm</tag>
+      </tags>
+      <analysis>
+        <id>13686769</id>
+        <url>http://www.ohloh.net/analyses/13686769.xml</url>
+        <project_id>1</project_id>
+        <updated_at>2013-04-22T23:37:02Z</updated_at>
+        <logged_at>2013-04-22T23:22:32Z</logged_at>
+        <min_month>2000-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>38</twelve_month_contributor_count>
+        <total_code_lines>1012455</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/subversion/analyses/13686769/languages.png">
+          <language color="FF8F00" percentage="60" id="42">
+C          </language>
+          <language color="4A246B" percentage="22" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="5" id="44">
+C++          </language>
+          <language color="000000" percentage="13" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
