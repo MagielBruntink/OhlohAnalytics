@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8127</id>
+      <name>CPAN</name>
+      <url>http://www.ohloh.net/p/cpan.xml</url>
+      <html_url>http://www.ohloh.net/p/cpan</html_url>
+      <created_at>2007-09-01T21:29:42Z</created_at>
+      <updated_at>2013-04-23T14:02:55Z</updated_at>
+      <description>The CPAN module automates or at least simplifies the make and install of perl modules and extensions. It includes some primitive searching capabilities and knows how to use Net::FTP or LWP or some external download clients to fetch the distributions from the net.
+
+These are fetched from one or more of the mirrored CPAN (Comprehensive Perl Archive Network) sites and unpacked in a dedicated directory.
+
+The CPAN module also supports the concept of named and versioned bundles of modules. Bundles simplify the handling of sets of related modules.</description>
+      <homepage_url>http://search.cpan.org/~andk/CPAN</homepage_url>
+      <download_url>http://search.cpan.org/~andk/CPAN</download_url>
+      <url_name>cpan</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4119/cpan_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4119/cpan_small.png</small_logo_url>
+      <user_count>270</user_count>
+      <average_rating>4.59722</average_rating>
+      <rating_count>72</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13693436</analysis_id>
+      <tags>
+        <tag>admin</tag>
+        <tag>sysadmin</tag>
+        <tag>administration</tag>
+        <tag>perl</tag>
+        <tag>management</tag>
+        <tag>cpan</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>13693436</id>
+        <url>http://www.ohloh.net/analyses/13693436.xml</url>
+        <project_id>8127</project_id>
+        <updated_at>2013-04-23T14:02:54Z</updated_at>
+        <logged_at>2013-04-23T14:02:06Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>21261</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cpan/analyses/13693436/languages.png">
+          <language color="D2C690" percentage="94" id="8">
+Perl          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

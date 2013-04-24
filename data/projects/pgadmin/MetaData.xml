@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4381</id>
+      <name>pgAdmin III</name>
+      <url>http://www.ohloh.net/p/pgadmin.xml</url>
+      <html_url>http://www.ohloh.net/p/pgadmin</html_url>
+      <created_at>2007-02-09T14:54:05Z</created_at>
+      <updated_at>2013-04-22T23:53:40Z</updated_at>
+      <description>Open Source administration and management tools for the PostgreSQL database and derivative products such as EnterpriseDB's Postgres Plus and GreenPlum Database. Includes a graphical administration interface, an SQL query tool with grahical EXPLAIN, a procedural code editor, an SQL/shell/batch scheduling agent, Slony-I management and much more. pgAdmin III is designed to answer the needs of most users, from writing simple SQL queries to developing complex databases. The graphical interface supports all PostgreSQL features and makes administration easy. Available in more than a dozen languages and for several operating systems, including Microsoft Windows, Linux, FreeBSD, Mac OSX and Solaris.</description>
+      <homepage_url>http://www.pgadmin.org</homepage_url>
+      <download_url>http://www.pgadmin.org/download</download_url>
+      <url_name>pgadmin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11594/pgsql_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11594/pgsql_med_small.png</small_logo_url>
+      <user_count>206</user_count>
+      <average_rating>4.18644</average_rating>
+      <rating_count>59</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13686901</analysis_id>
+      <tags>
+        <tag>ide</tag>
+        <tag>gui</tag>
+        <tag>systems_administration</tag>
+        <tag>administration</tag>
+        <tag>c++</tag>
+        <tag>dbms</tag>
+        <tag>database</tag>
+        <tag>front-ends</tag>
+        <tag>postgresql</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>13686901</id>
+        <url>http://www.ohloh.net/analyses/13686901.xml</url>
+        <project_id>4381</project_id>
+        <updated_at>2013-04-22T23:53:39Z</updated_at>
+        <logged_at>2013-04-22T23:52:38Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>225031</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pgadmin/analyses/13686901/languages.png">
+          <language color="F35F1F" percentage="79" id="44">
+C++          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="8" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>postgresql</name>
+          <nice_name>PostgreSQL Licence</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

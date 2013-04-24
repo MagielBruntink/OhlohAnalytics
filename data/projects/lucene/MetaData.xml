@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3564</id>
+      <name>Apache Lucene</name>
+      <url>http://www.ohloh.net/p/lucene.xml</url>
+      <html_url>http://www.ohloh.net/p/lucene</html_url>
+      <created_at>2006-11-12T21:03:48Z</created_at>
+      <updated_at>2013-04-24T05:49:42Z</updated_at>
+      <description>Apache Lucene is an information retrieval API originally implemented in Java.  It is a technology suitable for nearly any application that requires full-text search, especially cross-platform.  Lucene has been ported to other programming languages including Perl, C#, C++, Python, Ruby and PHP.</description>
+      <homepage_url>http://lucene.apache.org/</homepage_url>
+      <download_url>http://www.apache.org/dyn/closer.cgi/lucene/java/</download_url>
+      <url_name>lucene</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23787/lucene_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23787/lucene_small.png</small_logo_url>
+      <user_count>297</user_count>
+      <average_rating>4.54054</average_rating>
+      <rating_count>74</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13698573</analysis_id>
+      <tags>
+        <tag>information_retrieval</tag>
+        <tag>searchengine</tag>
+        <tag>search-engine</tag>
+        <tag>documents</tag>
+        <tag>fulltext-search</tag>
+        <tag>indexer</tag>
+        <tag>apache</tag>
+        <tag>apache-software-foundation</tag>
+        <tag>search</tag>
+        <tag>indexing</tag>
+        <tag>search_engine</tag>
+        <tag>java</tag>
+        <tag>index</tag>
+        <tag>lucene</tag>
+      </tags>
+      <analysis>
+        <id>13698573</id>
+        <url>http://www.ohloh.net/analyses/13698573.xml</url>
+        <project_id>3564</project_id>
+        <updated_at>2013-04-24T05:49:42Z</updated_at>
+        <logged_at>2013-04-24T05:45:58Z</logged_at>
+        <min_month>2000-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>28</twelve_month_contributor_count>
+        <total_code_lines>430985</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lucene/analyses/13698573/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
