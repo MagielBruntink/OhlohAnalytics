@@ -1,0 +1,409 @@
+rascal>obtainProjectDataFromOhloh(["automake",
+"eclipse-wtp",
+"cvs",
+"gentoo",
+"nhibernate",
+"android",
+"rubygems",
+"joomla",
+"nunit",
+"qt",
+"mozilla-addons",
+"bind",
+"doxygen",
+"valgrind",
+"gzip",
+"evince",
+"blender",
+"jquery-ui",
+"xerces2-j",
+"tcpdump",
+"spamassassin",
+"winmerge",
+"nginx",
+"irssi",
+"k3b",
+"flac",
+"prototype",
+"rake",
+"gedit",
+"jetty",
+"lighttpd",
+"zsh",
+"bittorrent",
+"mutt",
+"openvpn",
+"libreoffice",
+"glib",
+"adium",
+"clamav",
+"pear",
+"boost",
+"zend_framework",
+"konqueror",
+"mono",
+"ankhsvn",
+"cmake",
+"scriptaculous",
+"fuse",
+"udev",
+"gettext",
+"ibus-cloud-pinyin",
+"libtool",
+"graphviz",
+"greasemonkey",
+"memtest86plus",
+"dpkg",
+"vuze",
+"freebsd",
+"nautilus",
+"hudson",
+"xchat",
+"fedora-packages",
+"jboss",
+"ghostscript",
+"dia",
+"xampp",
+"network-manager",
+"findbugs",
+"gparted",
+"vaadin",
+"zxing",
+"transmission",
+"libvorbis",
+"smarty",
+"kate",
+"bazaar",
+"xdebug",
+"totem",
+"libpng",
+"netcat",
+"commons-collections",
+"aspnet-mvc",
+"yslow",
+"gwt",
+"checkstyle",
+"gstreamer",
+"openldap",
+"smart",
+"gawk",
+"drupal-contributions",
+"ipython",
+"xterm",
+"dbus",
+"commons-logging",
+"bugzilla",
+"ibus",
+"archlinux",
+"rspec",
+"freemind",
+"iptables"]);>>>>>>>"iptables"]);
+$2013-04-24T16:33:10.828+01:00   obtainMetaDataFromOhloh   Reading meta data for project automake from Ohloh, URL: |http://www.ohloh.net/projects/automake.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:13.374+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project automake from Ohloh, URL: |http://www.ohloh.net/projects/automake/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:17.121+01:00   obtainSizeFactsFromOhloh   Reading size facts for project automake from Ohloh, URL: |http://www.ohloh.net/projects/automake/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:22.379+01:00   obtainMetaDataFromOhloh   Reading meta data for project eclipse-wtp from Ohloh, URL: |http://www.ohloh.net/projects/eclipse-wtp.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:24.032+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project eclipse-wtp from Ohloh, URL: |http://www.ohloh.net/projects/eclipse-wtp/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:26.670+01:00   obtainSizeFactsFromOhloh   Reading size facts for project eclipse-wtp from Ohloh, URL: |http://www.ohloh.net/projects/eclipse-wtp/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:32.655+01:00   obtainMetaDataFromOhloh   Reading meta data for project cvs from Ohloh, URL: |http://www.ohloh.net/projects/cvs.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:34.562+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project cvs from Ohloh, URL: |http://www.ohloh.net/projects/cvs/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:38.659+01:00   obtainSizeFactsFromOhloh   Reading size facts for project cvs from Ohloh, URL: |http://www.ohloh.net/projects/cvs/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:43.256+01:00   obtainMetaDataFromOhloh   Reading meta data for project gentoo from Ohloh, URL: |http://www.ohloh.net/projects/gentoo.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:45.369+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gentoo from Ohloh, URL: |http://www.ohloh.net/projects/gentoo/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:33:48.770+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gentoo from Ohloh, URL: |http://www.ohloh.net/projects/gentoo/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:13.821+01:00   obtainMetaDataFromOhloh   Reading meta data for project nhibernate from Ohloh, URL: |http://www.ohloh.net/projects/nhibernate.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:16.060+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project nhibernate from Ohloh, URL: |http://www.ohloh.net/projects/nhibernate/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:18.803+01:00   obtainSizeFactsFromOhloh   Reading size facts for project nhibernate from Ohloh, URL: |http://www.ohloh.net/projects/nhibernate/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:22.177+01:00   obtainMetaDataFromOhloh   Reading meta data for project android from Ohloh, URL: |http://www.ohloh.net/projects/android.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:23.924+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project android from Ohloh, URL: |http://www.ohloh.net/projects/android/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:26.159+01:00   obtainSizeFactsFromOhloh   Reading size facts for project android from Ohloh, URL: |http://www.ohloh.net/projects/android/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:38.595+01:00   obtainMetaDataFromOhloh   Reading meta data for project rubygems from Ohloh, URL: |http://www.ohloh.net/projects/rubygems.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:40.270+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project rubygems from Ohloh, URL: |http://www.ohloh.net/projects/rubygems/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:43.128+01:00   obtainSizeFactsFromOhloh   Reading size facts for project rubygems from Ohloh, URL: |http://www.ohloh.net/projects/rubygems/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:46.695+01:00   obtainMetaDataFromOhloh   Reading meta data for project joomla from Ohloh, URL: |http://www.ohloh.net/projects/joomla.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:48.357+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project joomla from Ohloh, URL: |http://www.ohloh.net/projects/joomla/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:51.097+01:00   obtainSizeFactsFromOhloh   Reading size facts for project joomla from Ohloh, URL: |http://www.ohloh.net/projects/joomla/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:56.563+01:00   obtainMetaDataFromOhloh   Reading meta data for project nunit from Ohloh, URL: |http://www.ohloh.net/projects/nunit.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:34:58.730+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project nunit from Ohloh, URL: |http://www.ohloh.net/projects/nunit/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:01.713+01:00   obtainSizeFactsFromOhloh   Reading size facts for project nunit from Ohloh, URL: |http://www.ohloh.net/projects/nunit/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:05.401+01:00   obtainMetaDataFromOhloh   Reading meta data for project qt from Ohloh, URL: |http://www.ohloh.net/projects/qt.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:07.636+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project qt from Ohloh, URL: |http://www.ohloh.net/projects/qt/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:10.055+01:00   obtainSizeFactsFromOhloh   Reading size facts for project qt from Ohloh, URL: |http://www.ohloh.net/projects/qt/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:16.408+01:00   obtainMetaDataFromOhloh   Reading meta data for project mozilla-addons from Ohloh, URL: |http://www.ohloh.net/projects/mozilla-addons.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:18.162+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project mozilla-addons from Ohloh, URL: |http://www.ohloh.net/projects/mozilla-addons/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:20.278+01:00   obtainSizeFactsFromOhloh   Reading size facts for project mozilla-addons from Ohloh, URL: |http://www.ohloh.net/projects/mozilla-addons/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:24.784+01:00   obtainMetaDataFromOhloh   Reading meta data for project bind from Ohloh, URL: |http://www.ohloh.net/projects/bind.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:26.391+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project bind from Ohloh, URL: |http://www.ohloh.net/projects/bind/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:26.918+01:00   obtainActivityFactsFromOhloh   WARNING: problem when reading activity facts for project bind from Ohloh, skipped.
+$2013-04-24T16:35:27.919+01:00   obtainSizeFactsFromOhloh   Reading size facts for project bind from Ohloh, URL: |http://www.ohloh.net/projects/bind/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:28.540+01:00   obtainSizeFactsFromOhloh   WARNING: problem when reading size facts for project bind from Ohloh, skipped.
+$2013-04-24T16:35:29.541+01:00   obtainMetaDataFromOhloh   Reading meta data for project doxygen from Ohloh, URL: |http://www.ohloh.net/projects/doxygen.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:31.902+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project doxygen from Ohloh, URL: |http://www.ohloh.net/projects/doxygen/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:35.154+01:00   obtainSizeFactsFromOhloh   Reading size facts for project doxygen from Ohloh, URL: |http://www.ohloh.net/projects/doxygen/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:38.932+01:00   obtainMetaDataFromOhloh   Reading meta data for project valgrind from Ohloh, URL: |http://www.ohloh.net/projects/valgrind.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:41.221+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project valgrind from Ohloh, URL: |http://www.ohloh.net/projects/valgrind/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:44.172+01:00   obtainSizeFactsFromOhloh   Reading size facts for project valgrind from Ohloh, URL: |http://www.ohloh.net/projects/valgrind/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:48.272+01:00   obtainMetaDataFromOhloh   Reading meta data for project gzip from Ohloh, URL: |http://www.ohloh.net/projects/gzip.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:50.283+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gzip from Ohloh, URL: |http://www.ohloh.net/projects/gzip/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:53.843+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gzip from Ohloh, URL: |http://www.ohloh.net/projects/gzip/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:57.623+01:00   obtainMetaDataFromOhloh   Reading meta data for project evince from Ohloh, URL: |http://www.ohloh.net/projects/evince.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:35:59.340+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project evince from Ohloh, URL: |http://www.ohloh.net/projects/evince/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:02.411+01:00   obtainSizeFactsFromOhloh   Reading size facts for project evince from Ohloh, URL: |http://www.ohloh.net/projects/evince/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:06.635+01:00   obtainMetaDataFromOhloh   Reading meta data for project blender from Ohloh, URL: |http://www.ohloh.net/projects/blender.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:08.676+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project blender from Ohloh, URL: |http://www.ohloh.net/projects/blender/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:11.480+01:00   obtainSizeFactsFromOhloh   Reading size facts for project blender from Ohloh, URL: |http://www.ohloh.net/projects/blender/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:16.709+01:00   obtainMetaDataFromOhloh   Reading meta data for project jquery-ui from Ohloh, URL: |http://www.ohloh.net/projects/jquery-ui.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:18.732+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project jquery-ui from Ohloh, URL: |http://www.ohloh.net/projects/jquery-ui/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:21.323+01:00   obtainSizeFactsFromOhloh   Reading size facts for project jquery-ui from Ohloh, URL: |http://www.ohloh.net/projects/jquery-ui/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:23.852+01:00   obtainMetaDataFromOhloh   Reading meta data for project xerces2-j from Ohloh, URL: |http://www.ohloh.net/projects/xerces2-j.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:26.394+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project xerces2-j from Ohloh, URL: |http://www.ohloh.net/projects/xerces2-j/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:29.716+01:00   obtainSizeFactsFromOhloh   Reading size facts for project xerces2-j from Ohloh, URL: |http://www.ohloh.net/projects/xerces2-j/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:33.477+01:00   obtainMetaDataFromOhloh   Reading meta data for project tcpdump from Ohloh, URL: |http://www.ohloh.net/projects/tcpdump.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:35.182+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project tcpdump from Ohloh, URL: |http://www.ohloh.net/projects/tcpdump/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:38.426+01:00   obtainSizeFactsFromOhloh   Reading size facts for project tcpdump from Ohloh, URL: |http://www.ohloh.net/projects/tcpdump/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:41.870+01:00   obtainMetaDataFromOhloh   Reading meta data for project spamassassin from Ohloh, URL: |http://www.ohloh.net/projects/spamassassin.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:44.105+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project spamassassin from Ohloh, URL: |http://www.ohloh.net/projects/spamassassin/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:46.435+01:00   obtainSizeFactsFromOhloh   Reading size facts for project spamassassin from Ohloh, URL: |http://www.ohloh.net/projects/spamassassin/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:49.588+01:00   obtainMetaDataFromOhloh   Reading meta data for project winmerge from Ohloh, URL: |http://www.ohloh.net/projects/winmerge.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:52.114+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project winmerge from Ohloh, URL: |http://www.ohloh.net/projects/winmerge/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:55.466+01:00   obtainSizeFactsFromOhloh   Reading size facts for project winmerge from Ohloh, URL: |http://www.ohloh.net/projects/winmerge/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:36:59.404+01:00   obtainMetaDataFromOhloh   Reading meta data for project nginx from Ohloh, URL: |http://www.ohloh.net/projects/nginx.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:01.530+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project nginx from Ohloh, URL: |http://www.ohloh.net/projects/nginx/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:04.274+01:00   obtainSizeFactsFromOhloh   Reading size facts for project nginx from Ohloh, URL: |http://www.ohloh.net/projects/nginx/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:07.369+01:00   obtainMetaDataFromOhloh   Reading meta data for project irssi from Ohloh, URL: |http://www.ohloh.net/projects/irssi.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:09.037+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project irssi from Ohloh, URL: |http://www.ohloh.net/projects/irssi/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:12.092+01:00   obtainSizeFactsFromOhloh   Reading size facts for project irssi from Ohloh, URL: |http://www.ohloh.net/projects/irssi/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:15.501+01:00   obtainMetaDataFromOhloh   Reading meta data for project k3b from Ohloh, URL: |http://www.ohloh.net/projects/k3b.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:17.483+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project k3b from Ohloh, URL: |http://www.ohloh.net/projects/k3b/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:20.560+01:00   obtainSizeFactsFromOhloh   Reading size facts for project k3b from Ohloh, URL: |http://www.ohloh.net/projects/k3b/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:23.934+01:00   obtainMetaDataFromOhloh   Reading meta data for project flac from Ohloh, URL: |http://www.ohloh.net/projects/flac.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:25.925+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project flac from Ohloh, URL: |http://www.ohloh.net/projects/flac/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:28.893+01:00   obtainSizeFactsFromOhloh   Reading size facts for project flac from Ohloh, URL: |http://www.ohloh.net/projects/flac/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:32.463+01:00   obtainMetaDataFromOhloh   Reading meta data for project prototype from Ohloh, URL: |http://www.ohloh.net/projects/prototype.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:34.439+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project prototype from Ohloh, URL: |http://www.ohloh.net/projects/prototype/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:36.998+01:00   obtainSizeFactsFromOhloh   Reading size facts for project prototype from Ohloh, URL: |http://www.ohloh.net/projects/prototype/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:39.477+01:00   obtainMetaDataFromOhloh   Reading meta data for project rake from Ohloh, URL: |http://www.ohloh.net/projects/rake.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:41.431+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project rake from Ohloh, URL: |http://www.ohloh.net/projects/rake/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:44.304+01:00   obtainSizeFactsFromOhloh   Reading size facts for project rake from Ohloh, URL: |http://www.ohloh.net/projects/rake/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:47.243+01:00   obtainMetaDataFromOhloh   Reading meta data for project gedit from Ohloh, URL: |http://www.ohloh.net/projects/gedit.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:49.371+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gedit from Ohloh, URL: |http://www.ohloh.net/projects/gedit/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:52.407+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gedit from Ohloh, URL: |http://www.ohloh.net/projects/gedit/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:56.587+01:00   obtainMetaDataFromOhloh   Reading meta data for project jetty from Ohloh, URL: |http://www.ohloh.net/projects/jetty.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:37:58.565+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project jetty from Ohloh, URL: |http://www.ohloh.net/projects/jetty/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:01.674+01:00   obtainSizeFactsFromOhloh   Reading size facts for project jetty from Ohloh, URL: |http://www.ohloh.net/projects/jetty/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:06.100+01:00   obtainMetaDataFromOhloh   Reading meta data for project lighttpd from Ohloh, URL: |http://www.ohloh.net/projects/lighttpd.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:08.073+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project lighttpd from Ohloh, URL: |http://www.ohloh.net/projects/lighttpd/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:10.629+01:00   obtainSizeFactsFromOhloh   Reading size facts for project lighttpd from Ohloh, URL: |http://www.ohloh.net/projects/lighttpd/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:13.631+01:00   obtainMetaDataFromOhloh   Reading meta data for project zsh from Ohloh, URL: |http://www.ohloh.net/projects/zsh.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:15.647+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project zsh from Ohloh, URL: |http://www.ohloh.net/projects/zsh/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:19.099+01:00   obtainSizeFactsFromOhloh   Reading size facts for project zsh from Ohloh, URL: |http://www.ohloh.net/projects/zsh/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:23.163+01:00   obtainMetaDataFromOhloh   Reading meta data for project bittorrent from Ohloh, URL: |http://www.ohloh.net/projects/bittorrent.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:25.137+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project bittorrent from Ohloh, URL: |http://www.ohloh.net/projects/bittorrent/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:28.077+01:00   obtainSizeFactsFromOhloh   Reading size facts for project bittorrent from Ohloh, URL: |http://www.ohloh.net/projects/bittorrent/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:31.022+01:00   obtainMetaDataFromOhloh   Reading meta data for project mutt from Ohloh, URL: |http://www.ohloh.net/projects/mutt.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:33.036+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project mutt from Ohloh, URL: |http://www.ohloh.net/projects/mutt/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:36.160+01:00   obtainSizeFactsFromOhloh   Reading size facts for project mutt from Ohloh, URL: |http://www.ohloh.net/projects/mutt/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:39.891+01:00   obtainMetaDataFromOhloh   Reading meta data for project openvpn from Ohloh, URL: |http://www.ohloh.net/projects/openvpn.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:41.936+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project openvpn from Ohloh, URL: |http://www.ohloh.net/projects/openvpn/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:44.844+01:00   obtainSizeFactsFromOhloh   Reading size facts for project openvpn from Ohloh, URL: |http://www.ohloh.net/projects/openvpn/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:48.167+01:00   obtainMetaDataFromOhloh   Reading meta data for project libreoffice from Ohloh, URL: |http://www.ohloh.net/projects/libreoffice.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:50.265+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project libreoffice from Ohloh, URL: |http://www.ohloh.net/projects/libreoffice/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:38:53.364+01:00   obtainSizeFactsFromOhloh   Reading size facts for project libreoffice from Ohloh, URL: |http://www.ohloh.net/projects/libreoffice/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:03.837+01:00   obtainMetaDataFromOhloh   Reading meta data for project glib from Ohloh, URL: |http://www.ohloh.net/projects/glib.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:05.525+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project glib from Ohloh, URL: |http://www.ohloh.net/projects/glib/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:08.913+01:00   obtainSizeFactsFromOhloh   Reading size facts for project glib from Ohloh, URL: |http://www.ohloh.net/projects/glib/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:14.183+01:00   obtainMetaDataFromOhloh   Reading meta data for project adium from Ohloh, URL: |http://www.ohloh.net/projects/adium.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:15.893+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project adium from Ohloh, URL: |http://www.ohloh.net/projects/adium/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:17.995+01:00   obtainSizeFactsFromOhloh   Reading size facts for project adium from Ohloh, URL: |http://www.ohloh.net/projects/adium/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:20.431+01:00   obtainMetaDataFromOhloh   Reading meta data for project clamav from Ohloh, URL: |http://www.ohloh.net/projects/clamav.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:22.129+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project clamav from Ohloh, URL: |http://www.ohloh.net/projects/clamav/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:24.829+01:00   obtainSizeFactsFromOhloh   Reading size facts for project clamav from Ohloh, URL: |http://www.ohloh.net/projects/clamav/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:29.804+01:00   obtainMetaDataFromOhloh   Reading meta data for project pear from Ohloh, URL: |http://www.ohloh.net/projects/pear.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:31.850+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project pear from Ohloh, URL: |http://www.ohloh.net/projects/pear/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:34.944+01:00   obtainSizeFactsFromOhloh   Reading size facts for project pear from Ohloh, URL: |http://www.ohloh.net/projects/pear/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:47.799+01:00   obtainMetaDataFromOhloh   Reading meta data for project boost from Ohloh, URL: |http://www.ohloh.net/projects/boost.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:49.819+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project boost from Ohloh, URL: |http://www.ohloh.net/projects/boost/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:52.872+01:00   obtainSizeFactsFromOhloh   Reading size facts for project boost from Ohloh, URL: |http://www.ohloh.net/projects/boost/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:39:59.508+01:00   obtainMetaDataFromOhloh   Reading meta data for project zend_framework from Ohloh, URL: |http://www.ohloh.net/projects/zend_framework.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:02.148+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project zend_framework from Ohloh, URL: |http://www.ohloh.net/projects/zend_framework/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:04.263+01:00   obtainSizeFactsFromOhloh   Reading size facts for project zend_framework from Ohloh, URL: |http://www.ohloh.net/projects/zend_framework/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:09.041+01:00   obtainMetaDataFromOhloh   Reading meta data for project konqueror from Ohloh, URL: |http://www.ohloh.net/projects/konqueror.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:10.989+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project konqueror from Ohloh, URL: |http://www.ohloh.net/projects/konqueror/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:14.388+01:00   obtainSizeFactsFromOhloh   Reading size facts for project konqueror from Ohloh, URL: |http://www.ohloh.net/projects/konqueror/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:20.446+01:00   obtainMetaDataFromOhloh   Reading meta data for project mono from Ohloh, URL: |http://www.ohloh.net/projects/mono.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:23.090+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project mono from Ohloh, URL: |http://www.ohloh.net/projects/mono/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:26.096+01:00   obtainSizeFactsFromOhloh   Reading size facts for project mono from Ohloh, URL: |http://www.ohloh.net/projects/mono/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:34.972+01:00   obtainMetaDataFromOhloh   Reading meta data for project ankhsvn from Ohloh, URL: |http://www.ohloh.net/projects/ankhsvn.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:36.671+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project ankhsvn from Ohloh, URL: |http://www.ohloh.net/projects/ankhsvn/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:39.616+01:00   obtainSizeFactsFromOhloh   Reading size facts for project ankhsvn from Ohloh, URL: |http://www.ohloh.net/projects/ankhsvn/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:42.836+01:00   obtainMetaDataFromOhloh   Reading meta data for project cmake from Ohloh, URL: |http://www.ohloh.net/projects/cmake.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:44.828+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project cmake from Ohloh, URL: |http://www.ohloh.net/projects/cmake/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:47.935+01:00   obtainSizeFactsFromOhloh   Reading size facts for project cmake from Ohloh, URL: |http://www.ohloh.net/projects/cmake/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:52.570+01:00   obtainMetaDataFromOhloh   Reading meta data for project scriptaculous from Ohloh, URL: |http://www.ohloh.net/projects/scriptaculous.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:54.526+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project scriptaculous from Ohloh, URL: |http://www.ohloh.net/projects/scriptaculous/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:57.075+01:00   obtainSizeFactsFromOhloh   Reading size facts for project scriptaculous from Ohloh, URL: |http://www.ohloh.net/projects/scriptaculous/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:40:59.792+01:00   obtainMetaDataFromOhloh   Reading meta data for project fuse from Ohloh, URL: |http://www.ohloh.net/projects/fuse.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:01.749+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project fuse from Ohloh, URL: |http://www.ohloh.net/projects/fuse/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:04.971+01:00   obtainSizeFactsFromOhloh   Reading size facts for project fuse from Ohloh, URL: |http://www.ohloh.net/projects/fuse/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:08.145+01:00   obtainMetaDataFromOhloh   Reading meta data for project udev from Ohloh, URL: |http://www.ohloh.net/projects/udev.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:10.155+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project udev from Ohloh, URL: |http://www.ohloh.net/projects/udev/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:12.856+01:00   obtainSizeFactsFromOhloh   Reading size facts for project udev from Ohloh, URL: |http://www.ohloh.net/projects/udev/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:16.290+01:00   obtainMetaDataFromOhloh   Reading meta data for project gettext from Ohloh, URL: |http://www.ohloh.net/projects/gettext.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:17.985+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gettext from Ohloh, URL: |http://www.ohloh.net/projects/gettext/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:20.984+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gettext from Ohloh, URL: |http://www.ohloh.net/projects/gettext/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:24.421+01:00   obtainMetaDataFromOhloh   Reading meta data for project ibus-cloud-pinyin from Ohloh, URL: |http://www.ohloh.net/projects/ibus-cloud-pinyin.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:26.651+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project ibus-cloud-pinyin from Ohloh, URL: |http://www.ohloh.net/projects/ibus-cloud-pinyin/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:28.891+01:00   obtainSizeFactsFromOhloh   Reading size facts for project ibus-cloud-pinyin from Ohloh, URL: |http://www.ohloh.net/projects/ibus-cloud-pinyin/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:30.868+01:00   obtainMetaDataFromOhloh   Reading meta data for project libtool from Ohloh, URL: |http://www.ohloh.net/projects/libtool.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:32.964+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project libtool from Ohloh, URL: |http://www.ohloh.net/projects/libtool/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:36.717+01:00   obtainSizeFactsFromOhloh   Reading size facts for project libtool from Ohloh, URL: |http://www.ohloh.net/projects/libtool/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:41.163+01:00   obtainMetaDataFromOhloh   Reading meta data for project graphviz from Ohloh, URL: |http://www.ohloh.net/projects/graphviz.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:43.414+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project graphviz from Ohloh, URL: |http://www.ohloh.net/projects/graphviz/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:46.256+01:00   obtainSizeFactsFromOhloh   Reading size facts for project graphviz from Ohloh, URL: |http://www.ohloh.net/projects/graphviz/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:49.704+01:00   obtainMetaDataFromOhloh   Reading meta data for project greasemonkey from Ohloh, URL: |http://www.ohloh.net/projects/greasemonkey.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:51.922+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project greasemonkey from Ohloh, URL: |http://www.ohloh.net/projects/greasemonkey/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:54.777+01:00   obtainSizeFactsFromOhloh   Reading size facts for project greasemonkey from Ohloh, URL: |http://www.ohloh.net/projects/greasemonkey/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:57.502+01:00   obtainMetaDataFromOhloh   Reading meta data for project memtest86plus from Ohloh, URL: |http://www.ohloh.net/projects/memtest86plus.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:59.379+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project memtest86plus from Ohloh, URL: |http://www.ohloh.net/projects/memtest86plus/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:41:59.908+01:00   obtainActivityFactsFromOhloh   WARNING: problem when reading activity facts for project memtest86plus from Ohloh, skipped.
+$2013-04-24T16:42:00.910+01:00   obtainSizeFactsFromOhloh   Reading size facts for project memtest86plus from Ohloh, URL: |http://www.ohloh.net/projects/memtest86plus/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:01.833+01:00   obtainSizeFactsFromOhloh   WARNING: problem when reading size facts for project memtest86plus from Ohloh, skipped.
+$2013-04-24T16:42:02.834+01:00   obtainMetaDataFromOhloh   Reading meta data for project dpkg from Ohloh, URL: |http://www.ohloh.net/projects/dpkg.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:04.598+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project dpkg from Ohloh, URL: |http://www.ohloh.net/projects/dpkg/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:08.376+01:00   obtainSizeFactsFromOhloh   Reading size facts for project dpkg from Ohloh, URL: |http://www.ohloh.net/projects/dpkg/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:12.754+01:00   obtainMetaDataFromOhloh   Reading meta data for project vuze from Ohloh, URL: |http://www.ohloh.net/projects/vuze.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:14.733+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project vuze from Ohloh, URL: |http://www.ohloh.net/projects/vuze/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:17.369+01:00   obtainSizeFactsFromOhloh   Reading size facts for project vuze from Ohloh, URL: |http://www.ohloh.net/projects/vuze/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:20.705+01:00   obtainMetaDataFromOhloh   Reading meta data for project freebsd from Ohloh, URL: |http://www.ohloh.net/projects/freebsd.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:23.011+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project freebsd from Ohloh, URL: |http://www.ohloh.net/projects/freebsd/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:26.655+01:00   obtainSizeFactsFromOhloh   Reading size facts for project freebsd from Ohloh, URL: |http://www.ohloh.net/projects/freebsd/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:45.528+01:00   obtainMetaDataFromOhloh   Reading meta data for project nautilus from Ohloh, URL: |http://www.ohloh.net/projects/nautilus.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:47.856+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project nautilus from Ohloh, URL: |http://www.ohloh.net/projects/nautilus/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:51.264+01:00   obtainSizeFactsFromOhloh   Reading size facts for project nautilus from Ohloh, URL: |http://www.ohloh.net/projects/nautilus/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:56.310+01:00   obtainMetaDataFromOhloh   Reading meta data for project hudson from Ohloh, URL: |http://www.ohloh.net/projects/hudson.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:42:58.329+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project hudson from Ohloh, URL: |http://www.ohloh.net/projects/hudson/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:00.890+01:00   obtainSizeFactsFromOhloh   Reading size facts for project hudson from Ohloh, URL: |http://www.ohloh.net/projects/hudson/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:04.282+01:00   obtainMetaDataFromOhloh   Reading meta data for project xchat from Ohloh, URL: |http://www.ohloh.net/projects/xchat.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:06.528+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project xchat from Ohloh, URL: |http://www.ohloh.net/projects/xchat/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:09.399+01:00   obtainSizeFactsFromOhloh   Reading size facts for project xchat from Ohloh, URL: |http://www.ohloh.net/projects/xchat/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:12.975+01:00   obtainMetaDataFromOhloh   Reading meta data for project fedora-packages from Ohloh, URL: |http://www.ohloh.net/projects/fedora-packages.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:15.236+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project fedora-packages from Ohloh, URL: |http://www.ohloh.net/projects/fedora-packages/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:18.111+01:00   obtainSizeFactsFromOhloh   Reading size facts for project fedora-packages from Ohloh, URL: |http://www.ohloh.net/projects/fedora-packages/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:23.457+01:00   obtainMetaDataFromOhloh   Reading meta data for project jboss from Ohloh, URL: |http://www.ohloh.net/projects/jboss.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:25.197+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project jboss from Ohloh, URL: |http://www.ohloh.net/projects/jboss/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:27.829+01:00   obtainSizeFactsFromOhloh   Reading size facts for project jboss from Ohloh, URL: |http://www.ohloh.net/projects/jboss/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:32.615+01:00   obtainMetaDataFromOhloh   Reading meta data for project ghostscript from Ohloh, URL: |http://www.ohloh.net/projects/ghostscript.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:34.677+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project ghostscript from Ohloh, URL: |http://www.ohloh.net/projects/ghostscript/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:38.196+01:00   obtainSizeFactsFromOhloh   Reading size facts for project ghostscript from Ohloh, URL: |http://www.ohloh.net/projects/ghostscript/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:44.307+01:00   obtainMetaDataFromOhloh   Reading meta data for project dia from Ohloh, URL: |http://www.ohloh.net/projects/dia.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:46.318+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project dia from Ohloh, URL: |http://www.ohloh.net/projects/dia/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:49.671+01:00   obtainSizeFactsFromOhloh   Reading size facts for project dia from Ohloh, URL: |http://www.ohloh.net/projects/dia/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:53.781+01:00   obtainMetaDataFromOhloh   Reading meta data for project xampp from Ohloh, URL: |http://www.ohloh.net/projects/xampp.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:55.451+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project xampp from Ohloh, URL: |http://www.ohloh.net/projects/xampp/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:57.820+01:00   obtainSizeFactsFromOhloh   Reading size facts for project xampp from Ohloh, URL: |http://www.ohloh.net/projects/xampp/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:43:59.943+01:00   obtainMetaDataFromOhloh   Reading meta data for project network-manager from Ohloh, URL: |http://www.ohloh.net/projects/network-manager.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:01.918+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project network-manager from Ohloh, URL: |http://www.ohloh.net/projects/network-manager/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:04.514+01:00   obtainSizeFactsFromOhloh   Reading size facts for project network-manager from Ohloh, URL: |http://www.ohloh.net/projects/network-manager/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:08.316+01:00   obtainMetaDataFromOhloh   Reading meta data for project findbugs from Ohloh, URL: |http://www.ohloh.net/projects/findbugs.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:10.658+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project findbugs from Ohloh, URL: |http://www.ohloh.net/projects/findbugs/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:13.919+01:00   obtainSizeFactsFromOhloh   Reading size facts for project findbugs from Ohloh, URL: |http://www.ohloh.net/projects/findbugs/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:17.614+01:00   obtainMetaDataFromOhloh   Reading meta data for project gparted from Ohloh, URL: |http://www.ohloh.net/projects/gparted.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:19.296+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gparted from Ohloh, URL: |http://www.ohloh.net/projects/gparted/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:22.271+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gparted from Ohloh, URL: |http://www.ohloh.net/projects/gparted/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:25.952+01:00   obtainMetaDataFromOhloh   Reading meta data for project vaadin from Ohloh, URL: |http://www.ohloh.net/projects/vaadin.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:28.260+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project vaadin from Ohloh, URL: |http://www.ohloh.net/projects/vaadin/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:30.572+01:00   obtainSizeFactsFromOhloh   Reading size facts for project vaadin from Ohloh, URL: |http://www.ohloh.net/projects/vaadin/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:35.405+01:00   obtainMetaDataFromOhloh   Reading meta data for project zxing from Ohloh, URL: |http://www.ohloh.net/projects/zxing.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:37.623+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project zxing from Ohloh, URL: |http://www.ohloh.net/projects/zxing/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:39.706+01:00   obtainSizeFactsFromOhloh   Reading size facts for project zxing from Ohloh, URL: |http://www.ohloh.net/projects/zxing/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:42.304+01:00   obtainMetaDataFromOhloh   Reading meta data for project transmission from Ohloh, URL: |http://www.ohloh.net/projects/transmission.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:44.287+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project transmission from Ohloh, URL: |http://www.ohloh.net/projects/transmission/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:46.830+01:00   obtainSizeFactsFromOhloh   Reading size facts for project transmission from Ohloh, URL: |http://www.ohloh.net/projects/transmission/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:49.530+01:00   obtainMetaDataFromOhloh   Reading meta data for project libvorbis from Ohloh, URL: |http://www.ohloh.net/projects/libvorbis.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:51.542+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project libvorbis from Ohloh, URL: |http://www.ohloh.net/projects/libvorbis/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:54.673+01:00   obtainSizeFactsFromOhloh   Reading size facts for project libvorbis from Ohloh, URL: |http://www.ohloh.net/projects/libvorbis/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:44:58.493+01:00   obtainMetaDataFromOhloh   Reading meta data for project smarty from Ohloh, URL: |http://www.ohloh.net/projects/smarty.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:00.515+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project smarty from Ohloh, URL: |http://www.ohloh.net/projects/smarty/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:03.382+01:00   obtainSizeFactsFromOhloh   Reading size facts for project smarty from Ohloh, URL: |http://www.ohloh.net/projects/smarty/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:05.547+01:00   obtainMetaDataFromOhloh   Reading meta data for project kate from Ohloh, URL: |http://www.ohloh.net/projects/kate.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:07.309+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project kate from Ohloh, URL: |http://www.ohloh.net/projects/kate/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:09.828+01:00   obtainSizeFactsFromOhloh   Reading size facts for project kate from Ohloh, URL: |http://www.ohloh.net/projects/kate/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:13.289+01:00   obtainMetaDataFromOhloh   Reading meta data for project bazaar from Ohloh, URL: |http://www.ohloh.net/projects/bazaar.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:15.839+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project bazaar from Ohloh, URL: |http://www.ohloh.net/projects/bazaar/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:18.160+01:00   obtainSizeFactsFromOhloh   Reading size facts for project bazaar from Ohloh, URL: |http://www.ohloh.net/projects/bazaar/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:21.600+01:00   obtainMetaDataFromOhloh   Reading meta data for project xdebug from Ohloh, URL: |http://www.ohloh.net/projects/xdebug.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:23.597+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project xdebug from Ohloh, URL: |http://www.ohloh.net/projects/xdebug/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:26.569+01:00   obtainSizeFactsFromOhloh   Reading size facts for project xdebug from Ohloh, URL: |http://www.ohloh.net/projects/xdebug/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:29.677+01:00   obtainMetaDataFromOhloh   Reading meta data for project totem from Ohloh, URL: |http://www.ohloh.net/projects/totem.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:31.875+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project totem from Ohloh, URL: |http://www.ohloh.net/projects/totem/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:34.853+01:00   obtainSizeFactsFromOhloh   Reading size facts for project totem from Ohloh, URL: |http://www.ohloh.net/projects/totem/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:38.790+01:00   obtainMetaDataFromOhloh   Reading meta data for project libpng from Ohloh, URL: |http://www.ohloh.net/projects/libpng.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:41.303+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project libpng from Ohloh, URL: |http://www.ohloh.net/projects/libpng/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:45.017+01:00   obtainSizeFactsFromOhloh   Reading size facts for project libpng from Ohloh, URL: |http://www.ohloh.net/projects/libpng/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:49.053+01:00   obtainMetaDataFromOhloh   Reading meta data for project netcat from Ohloh, URL: |http://www.ohloh.net/projects/netcat.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:51.217+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project netcat from Ohloh, URL: |http://www.ohloh.net/projects/netcat/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:54.009+01:00   obtainSizeFactsFromOhloh   Reading size facts for project netcat from Ohloh, URL: |http://www.ohloh.net/projects/netcat/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:56.938+01:00   obtainMetaDataFromOhloh   Reading meta data for project commons-collections from Ohloh, URL: |http://www.ohloh.net/projects/commons-collections.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:45:59.101+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project commons-collections from Ohloh, URL: |http://www.ohloh.net/projects/commons-collections/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:02.078+01:00   obtainSizeFactsFromOhloh   Reading size facts for project commons-collections from Ohloh, URL: |http://www.ohloh.net/projects/commons-collections/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:05.246+01:00   obtainMetaDataFromOhloh   Reading meta data for project aspnet-mvc from Ohloh, URL: |http://www.ohloh.net/projects/aspnet-mvc.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:07.255+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project aspnet-mvc from Ohloh, URL: |http://www.ohloh.net/projects/aspnet-mvc/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:08.852+01:00   obtainSizeFactsFromOhloh   Reading size facts for project aspnet-mvc from Ohloh, URL: |http://www.ohloh.net/projects/aspnet-mvc/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:11.369+01:00   obtainMetaDataFromOhloh   Reading meta data for project yslow from Ohloh, URL: |http://www.ohloh.net/projects/yslow.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:13.307+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project yslow from Ohloh, URL: |http://www.ohloh.net/projects/yslow/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:15.083+01:00   obtainSizeFactsFromOhloh   Reading size facts for project yslow from Ohloh, URL: |http://www.ohloh.net/projects/yslow/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:16.999+01:00   obtainMetaDataFromOhloh   Reading meta data for project gwt from Ohloh, URL: |http://www.ohloh.net/projects/gwt.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:18.953+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gwt from Ohloh, URL: |http://www.ohloh.net/projects/gwt/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:21.160+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gwt from Ohloh, URL: |http://www.ohloh.net/projects/gwt/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:24.790+01:00   obtainMetaDataFromOhloh   Reading meta data for project checkstyle from Ohloh, URL: |http://www.ohloh.net/projects/checkstyle.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:26.727+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project checkstyle from Ohloh, URL: |http://www.ohloh.net/projects/checkstyle/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:29.683+01:00   obtainSizeFactsFromOhloh   Reading size facts for project checkstyle from Ohloh, URL: |http://www.ohloh.net/projects/checkstyle/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:33.238+01:00   obtainMetaDataFromOhloh   Reading meta data for project gstreamer from Ohloh, URL: |http://www.ohloh.net/projects/gstreamer.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:35.343+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gstreamer from Ohloh, URL: |http://www.ohloh.net/projects/gstreamer/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:38.721+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gstreamer from Ohloh, URL: |http://www.ohloh.net/projects/gstreamer/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:46.560+01:00   obtainMetaDataFromOhloh   Reading meta data for project openldap from Ohloh, URL: |http://www.ohloh.net/projects/openldap.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:48.554+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project openldap from Ohloh, URL: |http://www.ohloh.net/projects/openldap/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:52.263+01:00   obtainSizeFactsFromOhloh   Reading size facts for project openldap from Ohloh, URL: |http://www.ohloh.net/projects/openldap/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:57.183+01:00   obtainMetaDataFromOhloh   Reading meta data for project smart from Ohloh, URL: |http://www.ohloh.net/projects/smart.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:46:59.372+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project smart from Ohloh, URL: |http://www.ohloh.net/projects/smart/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:02.216+01:00   obtainSizeFactsFromOhloh   Reading size facts for project smart from Ohloh, URL: |http://www.ohloh.net/projects/smart/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:05.775+01:00   obtainMetaDataFromOhloh   Reading meta data for project gawk from Ohloh, URL: |http://www.ohloh.net/projects/gawk.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:07.474+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project gawk from Ohloh, URL: |http://www.ohloh.net/projects/gawk/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:09.239+01:00   obtainSizeFactsFromOhloh   Reading size facts for project gawk from Ohloh, URL: |http://www.ohloh.net/projects/gawk/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:11.336+01:00   obtainMetaDataFromOhloh   Reading meta data for project drupal-contributions from Ohloh, URL: |http://www.ohloh.net/projects/drupal-contributions.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:13.281+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project drupal-contributions from Ohloh, URL: |http://www.ohloh.net/projects/drupal-contributions/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:16.176+01:00   obtainSizeFactsFromOhloh   Reading size facts for project drupal-contributions from Ohloh, URL: |http://www.ohloh.net/projects/drupal-contributions/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:19.142+01:00   obtainMetaDataFromOhloh   Reading meta data for project ipython from Ohloh, URL: |http://www.ohloh.net/projects/ipython.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:21.634+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project ipython from Ohloh, URL: |http://www.ohloh.net/projects/ipython/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:23.995+01:00   obtainSizeFactsFromOhloh   Reading size facts for project ipython from Ohloh, URL: |http://www.ohloh.net/projects/ipython/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:27.198+01:00   obtainMetaDataFromOhloh   Reading meta data for project xterm from Ohloh, URL: |http://www.ohloh.net/projects/xterm.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:29.092+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project xterm from Ohloh, URL: |http://www.ohloh.net/projects/xterm/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:29.611+01:00   obtainActivityFactsFromOhloh   WARNING: problem when reading activity facts for project xterm from Ohloh, skipped.
+$2013-04-24T16:47:30.612+01:00   obtainSizeFactsFromOhloh   Reading size facts for project xterm from Ohloh, URL: |http://www.ohloh.net/projects/xterm/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:31.223+01:00   obtainSizeFactsFromOhloh   WARNING: problem when reading size facts for project xterm from Ohloh, skipped.
+$2013-04-24T16:47:32.224+01:00   obtainMetaDataFromOhloh   Reading meta data for project dbus from Ohloh, URL: |http://www.ohloh.net/projects/dbus.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:34.266+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project dbus from Ohloh, URL: |http://www.ohloh.net/projects/dbus/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:37.105+01:00   obtainSizeFactsFromOhloh   Reading size facts for project dbus from Ohloh, URL: |http://www.ohloh.net/projects/dbus/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:40.521+01:00   obtainMetaDataFromOhloh   Reading meta data for project commons-logging from Ohloh, URL: |http://www.ohloh.net/projects/commons-logging.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:42.474+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project commons-logging from Ohloh, URL: |http://www.ohloh.net/projects/commons-logging/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:45.413+01:00   obtainSizeFactsFromOhloh   Reading size facts for project commons-logging from Ohloh, URL: |http://www.ohloh.net/projects/commons-logging/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:48.481+01:00   obtainMetaDataFromOhloh   Reading meta data for project bugzilla from Ohloh, URL: |http://www.ohloh.net/projects/bugzilla.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:50.471+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project bugzilla from Ohloh, URL: |http://www.ohloh.net/projects/bugzilla/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:54.227+01:00   obtainSizeFactsFromOhloh   Reading size facts for project bugzilla from Ohloh, URL: |http://www.ohloh.net/projects/bugzilla/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:47:58.393+01:00   obtainMetaDataFromOhloh   Reading meta data for project ibus from Ohloh, URL: |http://www.ohloh.net/projects/ibus.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:00.650+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project ibus from Ohloh, URL: |http://www.ohloh.net/projects/ibus/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:02.743+01:00   obtainSizeFactsFromOhloh   Reading size facts for project ibus from Ohloh, URL: |http://www.ohloh.net/projects/ibus/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:05.065+01:00   obtainMetaDataFromOhloh   Reading meta data for project archlinux from Ohloh, URL: |http://www.ohloh.net/projects/archlinux.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:07.350+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project archlinux from Ohloh, URL: |http://www.ohloh.net/projects/archlinux/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:10.303+01:00   obtainSizeFactsFromOhloh   Reading size facts for project archlinux from Ohloh, URL: |http://www.ohloh.net/projects/archlinux/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:13.868+01:00   obtainMetaDataFromOhloh   Reading meta data for project rspec from Ohloh, URL: |http://www.ohloh.net/projects/rspec.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:15.844+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project rspec from Ohloh, URL: |http://www.ohloh.net/projects/rspec/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:17.879+01:00   obtainSizeFactsFromOhloh   Reading size facts for project rspec from Ohloh, URL: |http://www.ohloh.net/projects/rspec/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:19.836+01:00   obtainMetaDataFromOhloh   Reading meta data for project freemind from Ohloh, URL: |http://www.ohloh.net/projects/freemind.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:21.812+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project freemind from Ohloh, URL: |http://www.ohloh.net/projects/freemind/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:23.692+01:00   obtainSizeFactsFromOhloh   Reading size facts for project freemind from Ohloh, URL: |http://www.ohloh.net/projects/freemind/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:25.648+01:00   obtainMetaDataFromOhloh   Reading meta data for project iptables from Ohloh, URL: |http://www.ohloh.net/projects/iptables.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:27.878+01:00   obtainActivityFactsFromOhloh   Reading activity facts for project iptables from Ohloh, URL: |http://www.ohloh.net/projects/iptables/analyses/latest/activity_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+$2013-04-24T16:48:30.986+01:00   obtainSizeFactsFromOhloh   Reading size facts for project iptables from Ohloh, URL: |http://www.ohloh.net/projects/iptables/analyses/latest/size_facts.xml?api_key=CByX8vvUOWsAmCKs75PQqQ|
+ok
+
+rascal>

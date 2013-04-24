@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4018</id>
+      <name>OpenSSH</name>
+      <url>http://www.ohloh.net/p/openssh.xml</url>
+      <html_url>http://www.ohloh.net/p/openssh</html_url>
+      <created_at>2007-01-15T22:51:22Z</created_at>
+      <updated_at>2013-04-24T09:31:12Z</updated_at>
+      <description>OpenSSH is a free SSH/SecSH protocol suite providing encryption for network services like remote login or remote file transfer.
+
+The following is a list of OpenSSH features:
+    * Open Source Project
+    * Free Licensing
+    * Strong Encryption (3DES, Blowfish, AES, Arcfour)
+    * X11 Forwarding (encrypt X Window System traffic)
+    * Port Forwarding (encrypted channels for legacy protocols)
+    * Strong Authentication (Public Key, One-Time Password and Kerberos Authentication)
+    * Agent Forwarding (Single-Sign-On)
+    * Interoperability (Compliance with SSH 1.3, 1.5, and 2.0 protocol Standards)
+    * SFTP client and server support in both SSH1 and SSH2 protocols.
+    * Kerberos and AFS Ticket Passing
+    * Data Compression</description>
+      <homepage_url>http://www.openssh.com/</homepage_url>
+      <download_url>http://www.openssh.com/portable.html</download_url>
+      <url_name>openssh</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1343/OpenSSH_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1343/OpenSSH_logo_small.png</small_logo_url>
+      <user_count>2711</user_count>
+      <average_rating>4.72924</average_rating>
+      <rating_count>554</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13693477</analysis_id>
+      <tags>
+        <tag>bsd</tag>
+        <tag>client</tag>
+        <tag>ssh</tag>
+        <tag>shell</tag>
+        <tag>server</tag>
+        <tag>security</tag>
+        <tag>openssh</tag>
+        <tag>networking</tag>
+        <tag>sftp</tag>
+        <tag>rsh</tag>
+        <tag>portable</tag>
+        <tag>protocol</tag>
+        <tag>secureshell</tag>
+        <tag>scp</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>13693477</id>
+        <url>http://www.ohloh.net/analyses/13693477.xml</url>
+        <project_id>4018</project_id>
+        <updated_at>2013-04-23T14:13:05Z</updated_at>
+        <logged_at>2013-04-23T14:10:22Z</logged_at>
+        <min_month>1999-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>56691</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openssh/analyses/13693477/languages.png">
+          <language color="FF8F00" percentage="99" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

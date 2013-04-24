@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3052</id>
+      <name>Trac</name>
+      <url>http://www.ohloh.net/p/trac.xml</url>
+      <html_url>http://www.ohloh.net/p/trac</html_url>
+      <created_at>2006-10-12T11:03:48Z</created_at>
+      <updated_at>2013-04-22T02:34:01Z</updated_at>
+      <description>Trac is an enhanced wiki and issue tracking system for software development projects. Trac uses a minimalistic approach to web-based software project management. Our mission; to help developers write great software while staying out of the way. Trac should impose as little as possible on a team's established development process and policies.
+
+It provides an interface to Subversion, an integrated Wiki and convenient report facilities.
+
+Trac allows wiki markup in issue descriptions and commit messages, creating links and seamless references between bugs, tasks, changesets, files and wiki pages. A timeline shows all project events in order, making getting an overview of the project and tracking progress very easy.</description>
+      <homepage_url>http://trac.edgewall.org/</homepage_url>
+      <download_url>http://trac.edgewall.org/wiki/TracDownload</download_url>
+      <url_name>trac</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/198/Trac_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/198/Trac_small.png</small_logo_url>
+      <user_count>1530</user_count>
+      <average_rating>4.14345</average_rating>
+      <rating_count>481</rating_count>
+      <review_count>10</review_count>
+      <analysis_id>13676104</analysis_id>
+      <tags>
+        <tag>postgresql</tag>
+        <tag>search</tag>
+        <tag>wsgi</tag>
+        <tag>restful</tag>
+        <tag>tracking</tag>
+        <tag>restructuredtext</tag>
+        <tag>development</tag>
+        <tag>time_tracking</tag>
+        <tag>time-tracking</tag>
+        <tag>jquery</tag>
+        <tag>wiki</tag>
+        <tag>pluggable</tag>
+        <tag>bug_tracking</tag>
+        <tag>planning</tag>
+        <tag>subversion</tag>
+        <tag>source_browser</tag>
+        <tag>management</tag>
+        <tag>mysql</tag>
+        <tag>plug-ins</tag>
+        <tag>sqlite</tag>
+        <tag>issue_tracking</tag>
+        <tag>rss</tag>
+        <tag>indexing</tag>
+        <tag>trac</tag>
+        <tag>python</tag>
+        <tag>bzr</tag>
+        <tag>genshi</tag>
+        <tag>repository_browser</tag>
+        <tag>scm</tag>
+        <tag>project_management</tag>
+      </tags>
+      <analysis>
+        <id>13676104</id>
+        <url>http://www.ohloh.net/analyses/13676104.xml</url>
+        <project_id>3052</project_id>
+        <updated_at>2013-04-22T02:34:01Z</updated_at>
+        <logged_at>2013-04-22T02:32:41Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>77321</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/trac/analyses/13676104/languages.png">
+          <language color="4A246B" percentage="80" id="9">
+Python          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

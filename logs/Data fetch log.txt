@@ -203,6 +203,30 @@ April 22nd, 2013: 12:46:
 	Introduced the fetch back log holding projects that could not be fetched
 	yet because of the Ohloh API keys being depleted sooner than anticipated.
 	
-		
+April 24, 2013: 16:00
+
+	Start of the new esamir data set.
+	
+	Fetched first 100 projects in list, from firefox to lame.
+	Failures due to missing activity facts: 4 
+		bzip2
+		man
+		postfix
+		sevenzip
+	
+	Used 900 Ohloh requests! WTF.
+
+April 24, 2013: 16:30
+	Fetch 100 more projects in list, from automake to iptables.
+	Failures due to missing activity facts: 3
+		bind
+		memtest86plus
+		xterm
+	
+	Also used 900 Ohloh requests, apparently 3 API calls per projects
+	now cost me 9 requests...
+
+
+	
 		
 	

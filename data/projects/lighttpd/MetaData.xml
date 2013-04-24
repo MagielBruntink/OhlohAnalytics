@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4095</id>
+      <name>lighttpd</name>
+      <url>http://www.ohloh.net/p/lighttpd.xml</url>
+      <html_url>http://www.ohloh.net/p/lighttpd</html_url>
+      <created_at>2007-01-20T18:12:02Z</created_at>
+      <updated_at>2013-04-23T11:15:04Z</updated_at>
+      <description>Security, speed, compliance, and flexibility--all of these describe LightTPD which is rapidly redefining efficiency of a webserver; as it is designed and optimized for high performance environments. With a small memory footprint compared to other web-servers, effective management of the cpu-load, and advanced feature set (FastCGI, CGI, Auth, Output-Compression, URL-Rewriting and many more) LightTPD is the perfect solution for every server that is suffering load problems.</description>
+      <homepage_url>http://www.lighttpd.net/</homepage_url>
+      <download_url>http://www.lighttpd.net/download</download_url>
+      <url_name>lighttpd</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/358/light_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/358/light_logo_small.png</small_logo_url>
+      <user_count>492</user_count>
+      <average_rating>4.49711</average_rating>
+      <rating_count>173</rating_count>
+      <review_count>4</review_count>
+      <analysis_id>13692426</analysis_id>
+      <tags>
+        <tag>dav</tag>
+        <tag>url_rewrite</tag>
+        <tag>internet</tag>
+        <tag>authentication</tag>
+        <tag>webserver</tag>
+        <tag>scgi</tag>
+        <tag>httpd</tag>
+        <tag>php</tag>
+        <tag>http_server</tag>
+        <tag>http</tag>
+        <tag>web</tag>
+        <tag>fastcgi</tag>
+        <tag>server</tag>
+        <tag>high_performance</tag>
+        <tag>https</tag>
+        <tag>ssl</tag>
+        <tag>urlrewrite</tag>
+        <tag>linux</tag>
+        <tag>dynamic_content</tag>
+        <tag>ftp</tag>
+        <tag>ftpd</tag>
+        <tag>ftpserver</tag>
+        <tag>gateway</tag>
+        <tag>html</tag>
+        <tag>intranet</tag>
+        <tag>isapi</tag>
+        <tag>ldap</tag>
+        <tag>modular</tag>
+        <tag>plugin</tag>
+        <tag>proxy</tag>
+        <tag>sni</tag>
+        <tag>tls</tag>
+        <tag>webdav</tag>
+      </tags>
+      <analysis>
+        <id>13692426</id>
+        <url>http://www.ohloh.net/analyses/13692426.xml</url>
+        <project_id>4095</project_id>
+        <updated_at>2013-04-23T11:15:04Z</updated_at>
+        <logged_at>2013-04-23T11:07:58Z</logged_at>
+        <min_month>2005-02-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>82045</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lighttpd/analyses/13692426/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
