@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4234</id>
+      <name>Groovy</name>
+      <url>http://www.ohloh.net/p/groovy.xml</url>
+      <html_url>http://www.ohloh.net/p/groovy</html_url>
+      <created_at>2007-02-01T22:15:54Z</created_at>
+      <updated_at>2013-04-24T12:02:19Z</updated_at>
+      <description>An agile dynamic language for the Java Platform with many features that are inspired by languages like Python, Ruby and Smalltalk, making them available to Java developers using a Java-like syntax. Developing web applications , writing shell scripts easily, writing concise, meaningful, test cases using Groovy's JUnit integration, or prototyping and producing real industrial strength applications have never been so concise and groovy.</description>
+      <homepage_url>http://groovy.codehaus.org/</homepage_url>
+      <download_url>http://groovy.codehaus.org/Download</download_url>
+      <url_name>groovy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4066/Groovy_Logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4066/Groovy_Logo_small.png</small_logo_url>
+      <user_count>263</user_count>
+      <average_rating>4.5875</average_rating>
+      <rating_count>80</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>13700614</analysis_id>
+      <tags>
+        <tag>dsl</tag>
+        <tag>java</tag>
+        <tag>jvm</tag>
+        <tag>dynamic</tag>
+        <tag>language</tag>
+        <tag>groovy</tag>
+        <tag>bytecode</tag>
+        <tag>programming</tag>
+        <tag>jdk</tag>
+        <tag>development</tag>
+        <tag>tools</tag>
+        <tag>scripting</tag>
+      </tags>
+      <analysis>
+        <id>13700614</id>
+        <url>http://www.ohloh.net/analyses/13700614.xml</url>
+        <project_id>4234</project_id>
+        <updated_at>2013-04-24T12:02:19Z</updated_at>
+        <logged_at>2013-04-24T12:01:25Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>257892</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/groovy/analyses/13700614/languages.png">
+          <language color="9A63AD" percentage="56" id="5">
+Java          </language>
+          <language color="C72C2C" percentage="42" id="29">
+Groovy          </language>
+          <language color="000000" percentage="2" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

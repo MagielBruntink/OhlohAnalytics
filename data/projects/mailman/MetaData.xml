@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>49</id>
+      <name>Mailman</name>
+      <url>http://www.ohloh.net/p/mailman.xml</url>
+      <html_url>http://www.ohloh.net/p/mailman</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T23:21:37Z</updated_at>
+      <description>GNU Mailman is software to help manage email discussion lists and e-newsletters. Its integrated Web interface provides easy-to-use access for list members and list administrators. Mailman supports built-in archiving, automatic bounce processing, content filtering, digest delivery, spam filters, topics, Usenet gateways, and more. It is fully internationalized, and supports digests and email commands. It runs on any Linux or Unix-like operating system and is compatible with most email and Web servers, mail readers, and Web browsers.</description>
+      <homepage_url>http://www.list.org</homepage_url>
+      <download_url></download_url>
+      <url_name>mailman</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37686/mailman_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37686/mailman_small.png</small_logo_url>
+      <user_count>205</user_count>
+      <average_rating>3.625</average_rating>
+      <rating_count>48</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13686699</analysis_id>
+      <tags>
+        <tag>mailing</tag>
+        <tag>gnu</tag>
+        <tag>sysadmin</tag>
+        <tag>bookmarks</tag>
+        <tag>mailing_list_servers</tag>
+        <tag>it</tag>
+        <tag>tools</tag>
+        <tag>linux</tag>
+        <tag>maillist</tag>
+        <tag>list</tag>
+        <tag>projects</tag>
+        <tag>email</tag>
+        <tag>spam</tag>
+      </tags>
+      <analysis>
+        <id>13686699</id>
+        <url>http://www.ohloh.net/analyses/13686699.xml</url>
+        <project_id>49</project_id>
+        <updated_at>2013-04-22T23:21:36Z</updated_at>
+        <logged_at>2013-04-22T23:18:10Z</logged_at>
+        <min_month>1995-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>122000</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mailman/analyses/13686699/languages.png">
+          <language color="4A246B" percentage="59" id="9">
+Python          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="000080" percentage="6" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="11" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

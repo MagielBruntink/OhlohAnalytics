@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>47</id>
+      <name>MantisBT</name>
+      <url>http://www.ohloh.net/p/mantis.xml</url>
+      <html_url>http://www.ohloh.net/p/mantis</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-23T22:07:50Z</updated_at>
+      <description>Mantis Bug Tracker is a free and open source web-based bug tracking system released under the terms of the GNU General Public License version 2. The most common use of MantisBT is to track software defects. However, MantisBT is often configured by users to serve as a more generic issue tracking system and project management tool.</description>
+      <homepage_url>http://www.mantisbt.org/</homepage_url>
+      <download_url>http://www.mantisbt.org/download.php</download_url>
+      <url_name>mantis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61622/mantis3_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61622/mantis3_small.png</small_logo_url>
+      <user_count>295</user_count>
+      <average_rating>4.02128</average_rating>
+      <rating_count>94</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13696545</analysis_id>
+      <tags>
+        <tag>bug_tracker</tag>
+        <tag>mantis</tag>
+        <tag>tickettracking</tag>
+        <tag>issuetracker</tag>
+        <tag>project-management</tag>
+        <tag>time_tracking</tag>
+        <tag>ticket_system</tag>
+        <tag>project_management</tag>
+        <tag>timetracker</tag>
+        <tag>bugtracker</tag>
+        <tag>issue-tracker</tag>
+        <tag>issue_tracking</tag>
+        <tag>projectmanagement</tag>
+        <tag>bugtracking</tag>
+        <tag>timetracking</tag>
+        <tag>timemanagement</tag>
+        <tag>mantisbt</tag>
+        <tag>bug_tracking</tag>
+      </tags>
+      <analysis>
+        <id>13696545</id>
+        <url>http://www.ohloh.net/analyses/13696545.xml</url>
+        <project_id>47</project_id>
+        <updated_at>2013-04-23T22:07:50Z</updated_at>
+        <logged_at>2013-04-23T21:49:05Z</logged_at>
+        <min_month>2000-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>675385</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mantis/analyses/13696545/languages.png">
+          <language color="356AA0" percentage="90" id="2">
+PHP          </language>
+          <language color="000000" percentage="10" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>70</id>
+      <name>Plone</name>
+      <url>http://www.ohloh.net/p/plone.xml</url>
+      <html_url>http://www.ohloh.net/p/plone</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T23:55:22Z</updated_at>
+      <description>Plone is a ready-to-run content management system that is built on Python. Plone is easy, flexible, and gives you a system for web content that is ideal for projects, communities, websites and intranets.</description>
+      <homepage_url>http://plone.org</homepage_url>
+      <download_url>http://plone.org/download</download_url>
+      <url_name>plone</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25869/plone-icon-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25869/plone-icon-64_small.png</small_logo_url>
+      <user_count>208</user_count>
+      <average_rating>4.29358</average_rating>
+      <rating_count>109</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>13686832</analysis_id>
+      <tags>
+        <tag>staging</tag>
+        <tag>rules-engine</tag>
+        <tag>multilingual</tag>
+        <tag>wcm</tag>
+        <tag>intranet</tag>
+        <tag>cms</tag>
+        <tag>python</tag>
+        <tag>security</tag>
+        <tag>web</tag>
+        <tag>content_management</tag>
+        <tag>ecm</tag>
+        <tag>workflow</tag>
+        <tag>wysiwyg</tag>
+        <tag>fulltextsearch</tag>
+        <tag>rich-text-editor</tag>
+        <tag>versioning</tag>
+        <tag>tagging</tag>
+      </tags>
+      <analysis>
+        <id>13686832</id>
+        <url>http://www.ohloh.net/analyses/13686832.xml</url>
+        <project_id>70</project_id>
+        <updated_at>2013-04-22T23:55:21Z</updated_at>
+        <logged_at>2013-04-22T19:14:24Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>239</twelve_month_contributor_count>
+        <total_code_lines>442920</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/plone/analyses/13686832/languages.png">
+          <language color="4A246B" percentage="54" id="9">
+Python          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="A4007E" percentage="12" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_v2_0_only</name>
+          <nice_name>GNU General Public License v2.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

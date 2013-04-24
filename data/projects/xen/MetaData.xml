@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3506</id>
+      <name>Xen</name>
+      <url>http://www.ohloh.net/p/xen.xml</url>
+      <html_url>http://www.ohloh.net/p/xen</html_url>
+      <created_at>2006-11-02T16:59:57Z</created_at>
+      <updated_at>2013-04-23T18:22:20Z</updated_at>
+      <description>Server Virtualization with the Xen Hypervisor
+Enterprises looking to increase server utilization, consolidate server farms, reduce complexity, and decrease total cost of ownership are embracing server virtualization. The Xen&#174; hypervisor is the fastest and most secure infrastructure virtualization solution available today, supporting a wide range of guest operating systems including Windows&#174;, Linux&#174;, Solaris&#174;, and various versions of the BSD operating systems.</description>
+      <homepage_url>http://xen.org/</homepage_url>
+      <download_url>http://www.xen.org/download/</download_url>
+      <url_name>xen</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5138/xen_logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5138/xen_logo_small.gif</small_logo_url>
+      <user_count>190</user_count>
+      <average_rating>4.13208</average_rating>
+      <rating_count>53</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13675277</analysis_id>
+      <tags>
+        <tag>paravirtualization</tag>
+        <tag>os</tag>
+        <tag>hypervisor</tag>
+        <tag>virtualisation</tag>
+        <tag>cloud</tag>
+        <tag>solaris</tag>
+        <tag>virtualization</tag>
+        <tag>xen</tag>
+        <tag>monitor</tag>
+        <tag>linux</tag>
+        <tag>cloud_computing</tag>
+      </tags>
+      <analysis>
+        <id>13675277</id>
+        <url>http://www.ohloh.net/analyses/13675277.xml</url>
+        <project_id>3506</project_id>
+        <updated_at>2013-04-22T00:55:58Z</updated_at>
+        <logged_at>2013-04-22T00:49:08Z</logged_at>
+        <min_month>2002-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>102</twelve_month_contributor_count>
+        <total_code_lines>501700</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xen/analyses/13675277/languages.png">
+          <language color="FF8F00" percentage="78" id="42">
+C          </language>
+          <language color="4A246B" percentage="11" id="9">
+Python          </language>
+          <language color="000000" percentage="11" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

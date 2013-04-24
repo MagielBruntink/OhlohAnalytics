@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>122</id>
+      <name>xine - a free video player</name>
+      <url>http://www.ohloh.net/p/xine.xml</url>
+      <html_url>http://www.ohloh.net/p/xine</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-03-24T18:52:17Z</updated_at>
+      <description>xine is a free multimedia player. It plays back CDs, DVDs, and VCDs. It also decodes multimedia files like AVI, MOV, WMV, and MP3 from local disk drives, and displays multimedia streamed over the Internet. It interprets many of the most common multimedia formats available--and some of the most uncommon formats, too. All those features come in a reusable library (xine-lib) which can easily be embedded in your applications.</description>
+      <homepage_url>http://www.xine-project.org/home</homepage_url>
+      <download_url>http://www.xine-project.org/releases</download_url>
+      <url_name>xine</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5108/xine_1__med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5108/xine_1__small.jpg</small_logo_url>
+      <user_count>221</user_count>
+      <average_rating>4.13333</average_rating>
+      <rating_count>45</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13215664</analysis_id>
+      <tags>
+        <tag>movie</tag>
+        <tag>codec</tag>
+        <tag>player</tag>
+        <tag>audio</tag>
+        <tag>media_player</tag>
+        <tag>dvd</tag>
+        <tag>multimedia</tag>
+        <tag>streaming</tag>
+        <tag>movies</tag>
+        <tag>video</tag>
+        <tag>linux</tag>
+        <tag>viewer</tag>
+        <tag>display</tag>
+      </tags>
+      <analysis>
+        <id>13215664</id>
+        <url>http://www.ohloh.net/analyses/13215664.xml</url>
+        <project_id>122</project_id>
+        <updated_at>2013-04-21T20:18:09Z</updated_at>
+        <logged_at>2013-04-21T20:08:00Z</logged_at>
+        <min_month>2001-04-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>1570142</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xine/analyses/13215664/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
