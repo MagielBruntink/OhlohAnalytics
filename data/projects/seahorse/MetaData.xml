@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9122</id>
+      <name>Seahorse</name>
+      <url>http://www.ohloh.net/p/seahorse.xml</url>
+      <html_url>http://www.ohloh.net/p/seahorse</html_url>
+      <created_at>2007-10-13T17:31:33Z</created_at>
+      <updated_at>2013-04-25T05:59:31Z</updated_at>
+      <description>Seahorse is a GNOME application for managing encryption keys. It also integrates with nautilus, gedit and other places for encryption operations.</description>
+      <homepage_url>http://www.gnome.org/projects/seahorse/</homepage_url>
+      <download_url>http://www.gnome.org/projects/seahorse/download.html</download_url>
+      <url_name>seahorse</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5924/banner_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5924/banner_small.png</small_logo_url>
+      <user_count>41</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13704636</analysis_id>
+      <tags>
+        <tag>gnome</tag>
+        <tag>openssh</tag>
+        <tag>ssh</tag>
+        <tag>c</tag>
+        <tag>authentication</tag>
+        <tag>security</tag>
+      </tags>
+      <analysis>
+        <id>13704636</id>
+        <url>http://www.ohloh.net/analyses/13704636.xml</url>
+        <project_id>9122</project_id>
+        <updated_at>2013-04-25T05:59:31Z</updated_at>
+        <logged_at>2013-04-25T05:44:30Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>63</twelve_month_contributor_count>
+        <total_code_lines>53234</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/seahorse/analyses/13704636/languages.png">
+          <language color="FF8F00" percentage="70" id="42">
+C          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

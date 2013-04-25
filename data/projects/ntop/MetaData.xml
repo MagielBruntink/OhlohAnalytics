@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4679</id>
+      <name>ntop</name>
+      <url>http://www.ohloh.net/p/ntop.xml</url>
+      <html_url>http://www.ohloh.net/p/ntop</html_url>
+      <created_at>2007-03-13T06:35:15Z</created_at>
+      <updated_at>2013-01-09T13:27:44Z</updated_at>
+      <description>ntop [Network Top]:
+
+
+ntop is a network probe that shows network usage in a way similar to what top does for processes. In interactive mode, it displays the network status on the user's terminal. In Web mode, it acts as a Web server, creating an HTML dump of the network status. It sports a NetFlow/sFlow emitter/collector, an HTTP-based client interface for creating ntop-centric monitoring applications, and RRD for persistently storing traffic statistics.</description>
+      <homepage_url>http://freshmeat.net/urls/4fd648e0c06548b54dc17fe685a1f07b</homepage_url>
+      <download_url>http://freshmeat.net/urls/e9949c704e3f73c9c0bf8ab4ab85fbc1</download_url>
+      <url_name>ntop</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11656/ntop_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11656/ntop_logo_small.png</small_logo_url>
+      <user_count>76</user_count>
+      <average_rating>3.6875</average_rating>
+      <rating_count>16</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1621567</analysis_id>
+      <tags>
+        <tag>analysis</tag>
+        <tag>sniffer</tag>
+        <tag>networking</tag>
+        <tag>monitoring_tools</tag>
+        <tag>monitoring</tag>
+      </tags>
+      <analysis>
+        <id>1621567</id>
+        <url>http://www.ohloh.net/analyses/1621567.xml</url>
+        <project_id>4679</project_id>
+        <updated_at>2010-12-14T19:07:26Z</updated_at>
+        <logged_at>2008-06-12T13:35:06Z</logged_at>
+        <min_month></min_month>
+        <max_month></max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ntop/analyses/1621567/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

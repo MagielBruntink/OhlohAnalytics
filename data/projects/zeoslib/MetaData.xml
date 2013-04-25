@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10095</id>
+      <name>zeoslib</name>
+      <url>http://www.ohloh.net/p/zeoslib.xml</url>
+      <html_url>http://www.ohloh.net/p/zeoslib</html_url>
+      <created_at>2007-12-06T22:45:20Z</created_at>
+      <updated_at>2013-04-22T08:22:24Z</updated_at>
+      <description>The ZeosLib is a set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite for Delphi, FreePascal/Lazarus, Kylix and C++ Builder.
+It connects to the chosen database using it's native API, so no database middleware (eg. BDE) is needed.</description>
+      <homepage_url>http://zeos.firmos.at/portal.php</homepage_url>
+      <download_url>http://zeosdownloads.firmos.at/downloads/</download_url>
+      <url_name>zeoslib</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/21361/ZeosLogo_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/21361/ZeosLogo_64_small.png</small_logo_url>
+      <user_count>50</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>15</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13679370</analysis_id>
+      <tags>
+        <tag>postgresql</tag>
+        <tag>delphi</tag>
+        <tag>ado</tag>
+        <tag>programming</tag>
+        <tag>oracle</tag>
+        <tag>database</tag>
+        <tag>firebird</tag>
+        <tag>mysql</tag>
+        <tag>database_abstraction</tag>
+        <tag>mssql</tag>
+        <tag>sqlite</tag>
+        <tag>freepascal</tag>
+        <tag>components</tag>
+        <tag>interbase</tag>
+        <tag>sybase</tag>
+      </tags>
+      <analysis>
+        <id>13679370</id>
+        <url>http://www.ohloh.net/analyses/13679370.xml</url>
+        <project_id>10095</project_id>
+        <updated_at>2013-04-22T08:22:24Z</updated_at>
+        <logged_at>2013-04-22T08:21:13Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>288649</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zeoslib/analyses/13679370/languages.png">
+          <language color="D15600" percentage="90" id="14">
+Pascal          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

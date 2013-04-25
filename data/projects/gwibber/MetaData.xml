@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15635</id>
+      <name>Gwibber</name>
+      <url>http://www.ohloh.net/p/gwibber.xml</url>
+      <html_url>http://www.ohloh.net/p/gwibber</html_url>
+      <created_at>2008-07-21T06:19:04Z</created_at>
+      <updated_at>2013-04-23T14:30:18Z</updated_at>
+      <description>Gwibber is an open source microblogging client for GNOME developed with Python and GTK. It supports Twitter, Jaiku, Identi.ca, Facebook, and Digg.</description>
+      <homepage_url>https://launchpad.net/gwibber</homepage_url>
+      <download_url>https://launchpad.net/gwibber/+download</download_url>
+      <url_name>gwibber</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14390/gwibber.64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14390/gwibber.64x64_small.png</small_logo_url>
+      <user_count>36</user_count>
+      <average_rating>4.11111</average_rating>
+      <rating_count>18</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13693525</analysis_id>
+      <tags>
+        <tag>ubuntu</tag>
+        <tag>twitter</tag>
+        <tag>social</tag>
+        <tag>identica</tag>
+        <tag>microblog</tag>
+        <tag>facebook</tag>
+        <tag>unity</tag>
+      </tags>
+      <analysis>
+        <id>13693525</id>
+        <url>http://www.ohloh.net/analyses/13693525.xml</url>
+        <project_id>15635</project_id>
+        <updated_at>2013-04-23T14:30:18Z</updated_at>
+        <logged_at>2013-04-23T14:26:37Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>1232</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gwibber/analyses/13693525/languages.png">
+          <language color="EEE" percentage="79" id="95">
+QML          </language>
+          <language color="F35F1F" percentage="7" id="44">
+C++          </language>
+          <language color="EEE" percentage="5" id="50">
+Automake          </language>
+          <language color="000000" percentage="9" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>95</main_language_id>
+        <main_language_name>QML</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

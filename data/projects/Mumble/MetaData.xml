@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7067</id>
+      <name>Mumble</name>
+      <url>http://www.ohloh.net/p/Mumble.xml</url>
+      <html_url>http://www.ohloh.net/p/Mumble</html_url>
+      <created_at>2007-08-02T09:24:42Z</created_at>
+      <updated_at>2013-04-23T13:48:20Z</updated_at>
+      <description>Mumble is a low-latency, high quality voice chat software primarily intended for use while gaming</description>
+      <homepage_url>http://mumble.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=147372&amp;package_id=162594</download_url>
+      <url_name>Mumble</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18722/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18722/logo_small.png</small_logo_url>
+      <user_count>38</user_count>
+      <average_rating>4.92308</average_rating>
+      <rating_count>13</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13693329</analysis_id>
+      <tags>
+        <tag>qt</tag>
+        <tag>speex</tag>
+        <tag>mumble</tag>
+        <tag>voip</tag>
+        <tag>celt</tag>
+        <tag>overlay</tag>
+        <tag>talk</tag>
+        <tag>communication</tag>
+      </tags>
+      <analysis>
+        <id>13693329</id>
+        <url>http://www.ohloh.net/analyses/13693329.xml</url>
+        <project_id>7067</project_id>
+        <updated_at>2013-04-23T13:48:20Z</updated_at>
+        <logged_at>2013-04-23T13:44:52Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>34</twelve_month_contributor_count>
+        <total_code_lines>362005</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Mumble/analyses/13693329/languages.png">
+          <language color="555555" percentage="49" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="22" id="42">
+C          </language>
+          <language color="F35F1F" percentage="18" id="44">
+C++          </language>
+          <language color="000000" percentage="11" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

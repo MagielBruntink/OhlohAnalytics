@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3405</id>
+      <name>GeoTools</name>
+      <url>http://www.ohloh.net/p/geotools.xml</url>
+      <html_url>http://www.ohloh.net/p/geotools</html_url>
+      <created_at>2006-10-27T03:03:48Z</created_at>
+      <updated_at>2013-04-24T02:41:33Z</updated_at>
+      <description>GeoTools is an open source (LGPL) Java code library which provides standards compliant methods for the manipulation of geospatial data, for example to implement Geographic Information Systems (GIS). The GeoTools library implements Open Geospatial Consortium (OGC) specifications as they are developed, in close collaboration with the GeoAPI and GeoWidgets projects.</description>
+      <homepage_url>http://geotools.org</homepage_url>
+      <download_url></download_url>
+      <url_name>geotools</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60342/logo-GeoTools_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60342/logo-GeoTools_small.png</small_logo_url>
+      <user_count>39</user_count>
+      <average_rating>4.38462</average_rating>
+      <rating_count>13</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13697885</analysis_id>
+      <tags>
+        <tag>postgis</tag>
+        <tag>mapping</tag>
+        <tag>gis</tag>
+        <tag>geo</tag>
+        <tag>osgeo</tag>
+        <tag>java</tag>
+        <tag>toolkit</tag>
+      </tags>
+      <analysis>
+        <id>13697885</id>
+        <url>http://www.ohloh.net/analyses/13697885.xml</url>
+        <project_id>3405</project_id>
+        <updated_at>2013-04-24T02:41:33Z</updated_at>
+        <logged_at>2013-04-24T02:36:02Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>66</twelve_month_contributor_count>
+        <total_code_lines>3202404</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geotools/analyses/13697885/languages.png">
+          <language color="9A63AD" percentage="63" id="5">
+Java          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="556677" percentage="6" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="2" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485814</id>
+      <name>NuGet</name>
+      <url>http://www.ohloh.net/p/nuget.xml</url>
+      <html_url>http://www.ohloh.net/p/nuget</html_url>
+      <created_at>2010-10-06T19:39:53Z</created_at>
+      <updated_at>2013-04-23T05:56:36Z</updated_at>
+      <description>NuGet is a free, open source developer focused package management system for the .NET platform intent on simplifying the process of incorporating third party libraries into a .NET application during development.</description>
+      <homepage_url>http://nuget.codeplex.com/</homepage_url>
+      <download_url>http://nuget.codeplex.com/releases/</download_url>
+      <url_name>nuget</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40032/nuget-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40032/nuget-64x64_small.png</small_logo_url>
+      <user_count>45</user_count>
+      <average_rating>4.61538</average_rating>
+      <rating_count>13</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13689979</analysis_id>
+      <tags>
+        <tag>packagemanager</tag>
+        <tag>visualstudioplugin</tag>
+        <tag>visualstudio2010</tag>
+        <tag>net</tag>
+      </tags>
+      <analysis>
+        <id>13689979</id>
+        <url>http://www.ohloh.net/analyses/13689979.xml</url>
+        <project_id>485814</project_id>
+        <updated_at>2013-04-23T05:56:36Z</updated_at>
+        <logged_at>2013-04-23T05:56:07Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>46</twelve_month_contributor_count>
+        <total_code_lines>60989</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nuget/analyses/13689979/languages.png">
+          <language color="4096EE" percentage="88" id="17">
+C#          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

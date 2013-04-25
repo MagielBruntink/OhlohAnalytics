@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13364</id>
+      <name>LXDE</name>
+      <url>http://www.ohloh.net/p/lxde.xml</url>
+      <html_url>http://www.ohloh.net/p/lxde</html_url>
+      <created_at>2008-04-15T07:22:15Z</created_at>
+      <updated_at>2013-04-22T17:25:05Z</updated_at>
+      <description>LXDE is a free desktop environment for Unix and other POSIX compliant platforms, such as Linux or BSD. The name LXDE stands for &quot;Lightweight X11 Desktop Environment&quot;.
+
+LXDE is a project aimed to provide a new desktop environment which is lightweight and fast. It's not designed to be powerful and bloated, but to be usable and slim enough, and keep the resource usage low. Different from other desktop environments, we don't tightly integrate every component. Instead, we tried to make all components independent, and each of them can be used independently with few dependencies.
+
+LXDE uses Openbox as its default Window Manager and aims at offering a lightweight and fast desktop based on mutually independents components.</description>
+      <homepage_url>http://lxde.org</homepage_url>
+      <download_url>http://download.lxde.org</download_url>
+      <url_name>lxde</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26029/Lxde-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26029/Lxde-logo_small.png</small_logo_url>
+      <user_count>40</user_count>
+      <average_rating>4.71429</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13684163</analysis_id>
+      <tags>
+        <tag>openbsd</tag>
+        <tag>cross-platform</tag>
+        <tag>lxde</tag>
+        <tag>dbus</tag>
+        <tag>linux</tag>
+        <tag>cmake</tag>
+        <tag>gui</tag>
+        <tag>x-windows</tag>
+        <tag>gtk+</tag>
+        <tag>x11</tag>
+        <tag>lowresource</tag>
+        <tag>ui</tag>
+        <tag>interface</tag>
+        <tag>apps</tag>
+        <tag>xdg</tag>
+        <tag>environment</tag>
+        <tag>os</tag>
+        <tag>unix</tag>
+        <tag>desktop_environment</tag>
+        <tag>c++</tag>
+      </tags>
+      <analysis>
+        <id>13684163</id>
+        <url>http://www.ohloh.net/analyses/13684163.xml</url>
+        <project_id>13364</project_id>
+        <updated_at>2013-04-22T17:25:05Z</updated_at>
+        <logged_at>2013-04-22T17:23:31Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>66</twelve_month_contributor_count>
+        <total_code_lines>223658</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lxde/analyses/13684163/languages.png">
+          <language color="FF8F00" percentage="81" id="42">
+C          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

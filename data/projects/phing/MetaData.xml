@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5336</id>
+      <name>Phing</name>
+      <url>http://www.ohloh.net/p/phing.xml</url>
+      <html_url>http://www.ohloh.net/p/phing</html_url>
+      <created_at>2007-05-14T08:40:06Z</created_at>
+      <updated_at>2013-04-23T21:05:52Z</updated_at>
+      <description>PHing Is Not GNU make; it's a project build system based on Apache Ant. You can do anything with it that you could do with a traditional build system like GNU make, and its use of simple XML build files and extensible PHP &quot;task&quot; classes make it an easy-to-use and highly flexible build framework. Features include file transformations (e.g. token replacement, XSLT transformation, Smarty template transformations), file system operations, interactive build support, SQL execution, CVS operations, tools for creating PEAR packages, and much more.</description>
+      <homepage_url>http://www.phing.info/</homepage_url>
+      <download_url>http://www.phing.info/trac/wiki/Users/Download</download_url>
+      <url_name>phing</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4790/phinglogo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4790/phinglogo_small.gif</small_logo_url>
+      <user_count>108</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>30</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691423</analysis_id>
+      <tags>
+        <tag>jenkins</tag>
+        <tag>pear</tag>
+        <tag>development</tag>
+        <tag>unit-testing</tag>
+        <tag>php</tag>
+        <tag>xml</tag>
+        <tag>deployment</tag>
+        <tag>scm</tag>
+        <tag>automation</tag>
+        <tag>build_tools</tag>
+        <tag>make</tag>
+        <tag>ant</tag>
+        <tag>build</tag>
+        <tag>phpunit</tag>
+        <tag>subversion</tag>
+        <tag>cvs</tag>
+        <tag>docblox</tag>
+      </tags>
+      <analysis>
+        <id>13691423</id>
+        <url>http://www.ohloh.net/analyses/13691423.xml</url>
+        <project_id>5336</project_id>
+        <updated_at>2013-04-23T07:06:03Z</updated_at>
+        <logged_at>2013-04-23T07:05:29Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>45</twelve_month_contributor_count>
+        <total_code_lines>89076</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phing/analyses/13691423/languages.png">
+          <language color="356AA0" percentage="41" id="2">
+PHP          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="47A400" percentage="22" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

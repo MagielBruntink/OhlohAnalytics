@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>156</id>
+      <name>wxPython</name>
+      <url>http://www.ohloh.net/p/wxpython.xml</url>
+      <html_url>http://www.ohloh.net/p/wxpython</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-24T02:10:56Z</updated_at>
+      <description>wxPython is a Python extension module that wraps the wxWidgets cross-platform GUI library and provides an alternative to Tkinter and PythonWin. It attempts to mirror the class hierarchy of wxWidgets as closely as possible and is very versatile. It can be used to create standalone GUI applications or can be used in situations in which Python is embedded in a wxWidgets C++ application as an internal scripting or macro language. The currently supported GUIs are Win32, GTK/X-Windows, and Mac OS X.
+
+NOTE: Up until 2007 the wxPython source was located in the wxWidgets repository.  See that project here on ohloh for more history details.</description>
+      <homepage_url>http://wxPython.org</homepage_url>
+      <download_url>http://wxpython.org/download.php</download_url>
+      <url_name>wxpython</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53226/Snake-small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53226/Snake-small_small.png</small_logo_url>
+      <user_count>89</user_count>
+      <average_rating>4.29032</average_rating>
+      <rating_count>31</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13697805</analysis_id>
+      <tags>
+        <tag>toolkit</tag>
+        <tag>gui</tag>
+        <tag>code</tag>
+        <tag>wx</tag>
+        <tag>python</tag>
+        <tag>script</tag>
+        <tag>api</tag>
+        <tag>ui</tag>
+        <tag>windows</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>library</tag>
+        <tag>graphics</tag>
+        <tag>technology</tag>
+        <tag>widgets</tag>
+        <tag>wxwidgets</tag>
+      </tags>
+      <analysis>
+        <id>13697805</id>
+        <url>http://www.ohloh.net/analyses/13697805.xml</url>
+        <project_id>156</project_id>
+        <updated_at>2013-04-24T02:10:56Z</updated_at>
+        <logged_at>2013-04-24T01:57:07Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>2563785</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wxpython/analyses/13697805/languages.png">
+          <language color="F35F1F" percentage="82" id="44">
+C++          </language>
+          <language color="4A246B" percentage="17" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>wx_windows</name>
+          <nice_name>wxWindows Library License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

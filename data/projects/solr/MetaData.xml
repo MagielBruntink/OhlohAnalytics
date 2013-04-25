@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5455</id>
+      <name>Apache Solr</name>
+      <url>http://www.ohloh.net/p/solr.xml</url>
+      <html_url>http://www.ohloh.net/p/solr</html_url>
+      <created_at>2007-05-18T21:05:31Z</created_at>
+      <updated_at>2013-04-23T11:50:04Z</updated_at>
+      <description>Solr is an open source enterprise search server based on the Lucene Java search library, with XML/HTTP and JSON APIs, hit highlighting, faceted search, caching, replication, and a web administration interface. It typically runs in a Java servlet container such as Tomcat.</description>
+      <homepage_url>http://lucene.apache.org/solr/</homepage_url>
+      <download_url>http://www.apache.org/dyn/closer.cgi/lucene/solr/</download_url>
+      <url_name>solr</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13297/solr_FC_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13297/solr_FC_small.jpg</small_logo_url>
+      <user_count>116</user_count>
+      <average_rating>4.65789</average_rating>
+      <rating_count>38</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>13692661</analysis_id>
+      <tags>
+        <tag>search</tag>
+        <tag>json</tag>
+        <tag>enterprise</tag>
+        <tag>java</tag>
+        <tag>lucene</tag>
+        <tag>spellchecker</tag>
+        <tag>api</tag>
+        <tag>faceted-search</tag>
+        <tag>vertical-search</tag>
+      </tags>
+      <analysis>
+        <id>13692661</id>
+        <url>http://www.ohloh.net/analyses/13692661.xml</url>
+        <project_id>5455</project_id>
+        <updated_at>2013-04-23T11:50:03Z</updated_at>
+        <logged_at>2013-04-23T11:46:34Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>228265</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/solr/analyses/13692661/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="A4007E" percentage="13" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

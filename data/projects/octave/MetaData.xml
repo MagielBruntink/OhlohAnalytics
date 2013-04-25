@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>144</id>
+      <name>GNU Octave</name>
+      <url>http://www.ohloh.net/p/octave.xml</url>
+      <html_url>http://www.ohloh.net/p/octave</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-23T19:52:34Z</updated_at>
+      <description>Octave is a high-level language, primarily intended for numerical computations. It provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments. It may also be used as a batch-oriented language.</description>
+      <homepage_url>http://www.octave.org</homepage_url>
+      <download_url>http://www.octave.org/download.html</download_url>
+      <url_name>octave</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54209/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54209/logo_small.png</small_logo_url>
+      <user_count>107</user_count>
+      <average_rating>4.26829</average_rating>
+      <rating_count>41</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13695759</analysis_id>
+      <tags>
+        <tag>gnu</tag>
+        <tag>statistics</tag>
+        <tag>engineering</tag>
+        <tag>symmetric_multi-processing</tag>
+        <tag>matlab</tag>
+        <tag>windows</tag>
+        <tag>tools</tag>
+        <tag>science</tag>
+        <tag>coding</tag>
+        <tag>math</tag>
+        <tag>numerical</tag>
+        <tag>graphics</tag>
+        <tag>language</tag>
+        <tag>linux</tag>
+        <tag>mathematics</tag>
+        <tag>maths</tag>
+        <tag>programming</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>13695759</id>
+        <url>http://www.ohloh.net/analyses/13695759.xml</url>
+        <project_id>144</project_id>
+        <updated_at>2013-04-23T19:52:33Z</updated_at>
+        <logged_at>2013-04-23T19:44:48Z</logged_at>
+        <min_month>1993-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>88</twelve_month_contributor_count>
+        <total_code_lines>769198</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/octave/analyses/13695759/languages.png">
+          <language color="F35F1F" percentage="50" id="44">
+C++          </language>
+          <language color="EEE" percentage="21" id="72">
+Octave          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="000000" percentage="23" id="">
+23 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

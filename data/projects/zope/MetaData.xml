@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>67</id>
+      <name>Zope</name>
+      <url>http://www.ohloh.net/p/zope.xml</url>
+      <html_url>http://www.ohloh.net/p/zope</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T01:35:26Z</updated_at>
+      <description>Zope is an open source application server for building content management systems, intranets, portals, and custom applications. The Zope community consists of hundreds of companies and thousands of developers all over the world, working on building the platform and Zope applications. Zope is written in Python, a highly-productive, object-oriented scripting language.</description>
+      <homepage_url>http://zope2.zope.org</homepage_url>
+      <download_url>http://pypi.python.org/pypi/Zope2</download_url>
+      <url_name>zope</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2555/zope-logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2555/zope-logo_small.gif</small_logo_url>
+      <user_count>148</user_count>
+      <average_rating>4.225</average_rating>
+      <rating_count>40</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13675615</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>library</tag>
+        <tag>web</tag>
+        <tag>python</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>13675615</id>
+        <url>http://www.ohloh.net/analyses/13675615.xml</url>
+        <project_id>67</project_id>
+        <updated_at>2013-04-22T01:35:26Z</updated_at>
+        <logged_at>2013-04-22T01:04:50Z</logged_at>
+        <min_month>1996-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>41</twelve_month_contributor_count>
+        <total_code_lines>390481</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zope/analyses/13675615/languages.png">
+          <language color="4A246B" percentage="65" id="9">
+Python          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="8" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Zope_Public_License_ZPL_Version_2_1</name>
+          <nice_name>Zope Public License 2.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

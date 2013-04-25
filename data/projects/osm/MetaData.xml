@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6540</id>
+      <name>OpenStreetMap</name>
+      <url>http://www.ohloh.net/p/osm.xml</url>
+      <html_url>http://www.ohloh.net/p/osm</html_url>
+      <created_at>2007-07-10T20:54:26Z</created_at>
+      <updated_at>2013-04-23T17:49:05Z</updated_at>
+      <description>OpenStreetMap is a free editable map of the whole world. It is made by people like you.
+
+OpenStreetMap allows you to view, edit and use geographical data in a collaborative way from anywhere on Earth.</description>
+      <homepage_url>http://www.openstreetmap.org/</homepage_url>
+      <download_url>http://svn.openstreetmap.org/</download_url>
+      <url_name>osm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2621/Wiki_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2621/Wiki_small.png</small_logo_url>
+      <user_count>125</user_count>
+      <average_rating>4.69388</average_rating>
+      <rating_count>49</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11196705</analysis_id>
+      <tags>
+        <tag>maps</tag>
+        <tag>geography</tag>
+        <tag>fun</tag>
+        <tag>map</tag>
+        <tag>globe</tag>
+        <tag>world</tag>
+        <tag>osgeo</tag>
+        <tag>gps</tag>
+        <tag>openstreetmap</tag>
+        <tag>geo</tag>
+        <tag>earth</tag>
+        <tag>gpx</tag>
+        <tag>gis</tag>
+        <tag>mapping</tag>
+        <tag>visualization</tag>
+      </tags>
+      <analysis>
+        <id>11196705</id>
+        <url>http://www.ohloh.net/analyses/11196705.xml</url>
+        <project_id>6540</project_id>
+        <updated_at>2012-11-12T13:10:52Z</updated_at>
+        <logged_at>2012-11-11T19:37:38Z</logged_at>
+        <min_month>2004-11-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>105</twelve_month_contributor_count>
+        <total_code_lines>5536711</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/osm/analyses/11196705/languages.png">
+          <language color="493625" percentage="67" id="30">
+SQL          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="7" id="5">
+Java          </language>
+          <language color="000000" percentage="12" id="">
+30 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

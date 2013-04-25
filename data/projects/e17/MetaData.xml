@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5578</id>
+      <name>Enlightenment (e17)</name>
+      <url>http://www.ohloh.net/p/e17.xml</url>
+      <html_url>http://www.ohloh.net/p/e17</html_url>
+      <created_at>2007-05-24T12:57:22Z</created_at>
+      <updated_at>2013-04-19T20:46:12Z</updated_at>
+      <description>Enlightenment has grown to be much more than a window manager. It has many systems that have grown on their own to support development of the next version (0.17) and all the effort is going into solidifying these systems to be more than solid to build on. This has lead to a lot of code being produced that is useful far and beyond a window manager. The idea is to share as much code as possible with other programs, and so a small army of shared libraries has evolved for Enlightenment. This page attempts to cover some of these (especially the more interesting ones) to give a good insight into why they exist, what they do, how to use them, and where they are going.</description>
+      <homepage_url>http://www.enlightenment.org</homepage_url>
+      <download_url>http://www.enlightenment.org/p.php?p=download&amp;l=en</download_url>
+      <url_name>e17</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9136/logo-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9136/logo-64_small.png</small_logo_url>
+      <user_count>66</user_count>
+      <average_rating>4.475</average_rating>
+      <rating_count>40</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>12775048</analysis_id>
+      <tags>
+        <tag>wm</tag>
+        <tag>eye-candy</tag>
+        <tag>fast</tag>
+        <tag>window_manager</tag>
+      </tags>
+      <analysis>
+        <id>12775048</id>
+        <url>http://www.ohloh.net/analyses/12775048.xml</url>
+        <project_id>5578</project_id>
+        <updated_at>2013-02-24T12:56:46Z</updated_at>
+        <logged_at>2013-02-24T12:51:33Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>42</twelve_month_contributor_count>
+        <total_code_lines>327153</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/e17/analyses/12775048/languages.png">
+          <language color="FF8F00" percentage="89" id="42">
+C          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="5" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

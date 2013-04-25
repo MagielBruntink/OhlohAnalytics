@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7758</id>
+      <name>ClamWin Free Antivirus</name>
+      <url>http://www.ohloh.net/p/clamwin.xml</url>
+      <html_url>http://www.ohloh.net/p/clamwin</html_url>
+      <created_at>2007-08-16T02:16:21Z</created_at>
+      <updated_at>2013-04-12T16:22:19Z</updated_at>
+      <description>ClamWin is a Free Antivirus for Microsoft Windows 98/Me/2000/XP and 2003 which includes an easy installer and open source code. You may download and use it absolutely free of charge. It features:
+
+    * High detection rates for viruses and spyware;
+    * Scanning Scheduler;
+    * Automatic downloads of regularly updated Virus Database.
+    * Standalone virus scanner and right-click menu integration to Microsoft Windows Explorer;
+    * Addin to Microsoft Outlook to remove virus-infected attachments automatically.
+
+Please note that ClamWin Free Antivirus does not include an on-access real-time scanner. You need to manually scan a file in order to detect a virus or spyware.
+
+ClamWin Free Antivirus uses ClamAV scanning engine.</description>
+      <homepage_url>http://www.clamwin.com/</homepage_url>
+      <download_url>http://www.clamwin.com/content/view/18/46/</download_url>
+      <url_name>clamwin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18323/clamwin_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18323/clamwin_small.png</small_logo_url>
+      <user_count>55</user_count>
+      <average_rating>3.46667</average_rating>
+      <rating_count>15</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13420654</analysis_id>
+      <tags>
+        <tag>security</tag>
+        <tag>antivirus</tag>
+        <tag>clamav</tag>
+        <tag>virus</tag>
+        <tag>windows</tag>
+        <tag>scanner</tag>
+        <tag>systems_administration</tag>
+        <tag>sysadmin</tag>
+      </tags>
+      <analysis>
+        <id>13420654</id>
+        <url>http://www.ohloh.net/analyses/13420654.xml</url>
+        <project_id>7758</project_id>
+        <updated_at>2013-04-22T01:52:58Z</updated_at>
+        <logged_at>2013-04-22T01:52:54Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>458887</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/clamwin/analyses/13420654/languages.png">
+          <language color="FF8F00" percentage="54" id="42">
+C          </language>
+          <language color="EEE" percentage="16" id="51">
+Autoconf          </language>
+          <language color="4A246B" percentage="6" id="9">
+Python          </language>
+          <language color="000000" percentage="24" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

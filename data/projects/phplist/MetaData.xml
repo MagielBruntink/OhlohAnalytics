@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>101</id>
+      <name>phpList</name>
+      <url>http://www.ohloh.net/p/phplist.xml</url>
+      <html_url>http://www.ohloh.net/p/phplist</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-24T19:57:04Z</updated_at>
+      <description>PHPlist is a mailing list and newsletter manager that allows posting via a Web page. It works well when used for announcements, and can handle very large email address lists. Users can sign up to multiple lists, but will only receive a single copy of cross-posted messages. When signing up, users can identify their geographical location, and messages can be targetted to these. You can add place holders in your email that will be replaced with personal details (such as the person's name). Users can update their own information, and unlike many other mailing list systems, they can change their email address. HTML emails are supported.</description>
+      <homepage_url>http://www.phplist.com</homepage_url>
+      <download_url>http://www.phplist.com/download</download_url>
+      <url_name>phplist</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64266/phplist-touch-icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64266/phplist-touch-icon_small.png</small_logo_url>
+      <user_count>70</user_count>
+      <average_rating>3.375</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13679211</analysis_id>
+      <tags>
+        <tag>marketing</tag>
+        <tag>email</tag>
+        <tag>communications</tag>
+        <tag>newsletter</tag>
+        <tag>dynamic_content</tag>
+        <tag>list</tag>
+        <tag>mailing</tag>
+        <tag>maillist</tag>
+        <tag>server</tag>
+        <tag>campaign</tag>
+        <tag>php</tag>
+        <tag>mailing_list_servers</tag>
+      </tags>
+      <analysis>
+        <id>13679211</id>
+        <url>http://www.ohloh.net/analyses/13679211.xml</url>
+        <project_id>101</project_id>
+        <updated_at>2013-04-22T08:01:27Z</updated_at>
+        <logged_at>2013-04-22T08:00:02Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>54803</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phplist/analyses/13679211/languages.png">
+          <language color="356AA0" percentage="64" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="18" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

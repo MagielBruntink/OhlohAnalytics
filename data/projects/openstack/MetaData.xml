@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484348</id>
+      <name>OpenStack</name>
+      <url>http://www.ohloh.net/p/openstack.xml</url>
+      <html_url>http://www.ohloh.net/p/openstack</html_url>
+      <created_at>2010-07-27T09:34:28Z</created_at>
+      <updated_at>2013-04-24T18:19:12Z</updated_at>
+      <description>Open source, open standards cloud. 
+
+Innovative, open source cloud computing software for building reliable cloud infrastructure.</description>
+      <homepage_url>http://www.openstack.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>openstack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35697/os64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35697/os64_small.png</small_logo_url>
+      <user_count>48</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13697852</analysis_id>
+      <tags>
+        <tag>openstack</tag>
+        <tag>system</tag>
+        <tag>operating</tag>
+        <tag>cloud</tag>
+        <tag>cloudcomputing</tag>
+        <tag>iaas</tag>
+      </tags>
+      <analysis>
+        <id>13697852</id>
+        <url>http://www.ohloh.net/analyses/13697852.xml</url>
+        <project_id>484348</project_id>
+        <updated_at>2013-04-24T02:29:49Z</updated_at>
+        <logged_at>2013-04-24T01:32:47Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>732</twelve_month_contributor_count>
+        <total_code_lines>836220</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openstack/analyses/13697852/languages.png">
+          <language color="4A246B" percentage="67" id="9">
+Python          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="12" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

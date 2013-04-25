@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14979</id>
+      <name>Quassel IRC</name>
+      <url>http://www.ohloh.net/p/quassel.xml</url>
+      <html_url>http://www.ohloh.net/p/quassel</html_url>
+      <created_at>2008-06-16T14:30:31Z</created_at>
+      <updated_at>2013-04-23T10:44:37Z</updated_at>
+      <description>Quassel IRC is a modern, cross-platform, distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core -- much like the popular combination of screen and a text-based IRC client such as WeeChat, but graphical.</description>
+      <homepage_url>http://quassel-irc.org/</homepage_url>
+      <download_url>http://quassel-irc.org/downloads</download_url>
+      <url_name>quassel</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27578/quassel_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27578/quassel_small.png</small_logo_url>
+      <user_count>35</user_count>
+      <average_rating>4.5625</average_rating>
+      <rating_count>16</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691989</analysis_id>
+      <tags>
+        <tag>qt</tag>
+        <tag>kde</tag>
+        <tag>chat</tag>
+        <tag>cross-platform</tag>
+        <tag>qt4</tag>
+        <tag>bouncer</tag>
+        <tag>client_server</tag>
+        <tag>bnc</tag>
+        <tag>irc</tag>
+      </tags>
+      <analysis>
+        <id>13691989</id>
+        <url>http://www.ohloh.net/analyses/13691989.xml</url>
+        <project_id>14979</project_id>
+        <updated_at>2013-04-23T10:44:37Z</updated_at>
+        <logged_at>2013-04-23T10:42:45Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>71767</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/quassel/analyses/13691989/languages.png">
+          <language color="F35F1F" percentage="72" id="44">
+C++          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="777777" percentage="9" id="11">
+shell script          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
