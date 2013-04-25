@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>256946</id>
+      <name>Chef</name>
+      <url>http://www.ohloh.net/p/opscode-chef.xml</url>
+      <html_url>http://www.ohloh.net/p/opscode-chef</html_url>
+      <created_at>2009-01-20T01:11:49Z</created_at>
+      <updated_at>2013-04-23T18:00:37Z</updated_at>
+      <description>Chef is a systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.</description>
+      <homepage_url>http://www.opscode.com/chef</homepage_url>
+      <download_url>http://github.com/opscode/chef/tree/master</download_url>
+      <url_name>opscode-chef</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63062/chef_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63062/chef_small.png</small_logo_url>
+      <user_count>44</user_count>
+      <average_rating>4.58824</average_rating>
+      <rating_count>17</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13687739</analysis_id>
+      <tags>
+        <tag>management</tag>
+        <tag>system-management</tag>
+        <tag>admin</tag>
+        <tag>server</tag>
+        <tag>itsm</tag>
+        <tag>infrastructure</tag>
+        <tag>systemadministration</tag>
+        <tag>automated</tag>
+        <tag>ruby</tag>
+        <tag>deployment</tag>
+        <tag>enterprise</tag>
+        <tag>configurationmanagement</tag>
+        <tag>software</tag>
+        <tag>systems_administration</tag>
+        <tag>chef</tag>
+        <tag>automation</tag>
+        <tag>provisioning</tag>
+        <tag>itil</tag>
+        <tag>tool</tag>
+        <tag>configuration</tag>
+        <tag>systems_management</tag>
+        <tag>administration</tag>
+      </tags>
+      <analysis>
+        <id>13687739</id>
+        <url>http://www.ohloh.net/analyses/13687739.xml</url>
+        <project_id>256946</project_id>
+        <updated_at>2013-04-23T01:29:38Z</updated_at>
+        <logged_at>2013-04-23T01:27:10Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>114</twelve_month_contributor_count>
+        <total_code_lines>87708</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opscode-chef/analyses/13687739/languages.png">
+          <language color="A40011" percentage="94" id="12">
+Ruby          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

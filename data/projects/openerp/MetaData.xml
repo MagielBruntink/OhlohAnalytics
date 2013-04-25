@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15991</id>
+      <name>OpenERP</name>
+      <url>http://www.ohloh.net/p/openerp.xml</url>
+      <html_url>http://www.ohloh.net/p/openerp</html_url>
+      <created_at>2008-08-10T07:15:40Z</created_at>
+      <updated_at>2013-04-24T01:59:59Z</updated_at>
+      <description>OpenERP is an Open Source enterprise management software.	 
+It covers and integrates most enterprise needs and processes: accounting, hr, sales, crm, purchase, stock, production, services management, project management, marketing campaign, management by affairs, ...
+	
+Once in production, it automates and help you to control all activities: sales triggers manufacturing orders, accounting entries are updated by stock operations, incoming mails are tracked in the system, the integrated document management system helps your team to collaborate, ...
+
+-&gt; Formerly known as &quot;Tiny ERP&quot;.</description>
+      <homepage_url>http://www.openerp.com</homepage_url>
+      <download_url>http://www.openerp.com/downloads</download_url>
+      <url_name>openerp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10428/openerp_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10428/openerp_small.gif</small_logo_url>
+      <user_count>60</user_count>
+      <average_rating>4.20833</average_rating>
+      <rating_count>24</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>13692752</analysis_id>
+      <tags>
+        <tag>postgresql</tag>
+        <tag>invoice</tag>
+        <tag>commerce</tag>
+        <tag>crm</tag>
+        <tag>framework</tag>
+        <tag>e-commerce</tag>
+        <tag>inventory</tag>
+        <tag>erp</tag>
+        <tag>finance</tag>
+        <tag>manufacturing</tag>
+        <tag>business</tag>
+        <tag>python</tag>
+        <tag>sales</tag>
+        <tag>accounting</tag>
+        <tag>point-of-sale</tag>
+        <tag>invoicing</tag>
+        <tag>enterprise</tag>
+        <tag>workflow</tag>
+        <tag>web</tag>
+        <tag>gtk2</tag>
+        <tag>product</tag>
+      </tags>
+      <analysis>
+        <id>13692752</id>
+        <url>http://www.ohloh.net/analyses/13692752.xml</url>
+        <project_id>15991</project_id>
+        <updated_at>2013-04-23T12:43:12Z</updated_at>
+        <logged_at>2013-04-23T11:26:31Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>243</twelve_month_contributor_count>
+        <total_code_lines>697388</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openerp/analyses/13692752/languages.png">
+          <language color="555555" percentage="53" id="3">
+XML          </language>
+          <language color="4A246B" percentage="21" id="9">
+Python          </language>
+          <language color="A4007E" percentage="21" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="5" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3</name>
+          <nice_name>GNU Affero General Public License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

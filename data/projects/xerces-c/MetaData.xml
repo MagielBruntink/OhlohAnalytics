@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3465</id>
+      <name>Apache Xerces C++</name>
+      <url>http://www.ohloh.net/p/xerces-c.xml</url>
+      <html_url>http://www.ohloh.net/p/xerces-c</html_url>
+      <created_at>2006-10-28T19:22:34Z</created_at>
+      <updated_at>2013-04-15T19:20:18Z</updated_at>
+      <description>Xerces-C++ is a validating XML parser written in a portable subset of C++. A shared library is provided for parsing, generating, manipulating, and validating XML documents. Xerces-C++ is faithful to the XML 1.0 recommendation and many associated standards. Source code, samples and API documentation are provided with the parser. For portability, care has been taken to make minimal use of templates, no RTTI, and minimal use of #ifdefs.</description>
+      <homepage_url>http://xml.apache.org/xerces-c/</homepage_url>
+      <download_url>http://xml.apache.org/xerces-c/download.cgi</download_url>
+      <url_name>xerces-c</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3856/xerces_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3856/xerces_small.jpg</small_logo_url>
+      <user_count>149</user_count>
+      <average_rating>3.64286</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>13293588</analysis_id>
+      <tags>
+        <tag>xerces</tag>
+        <tag>dtd</tag>
+        <tag>xinclude</tag>
+        <tag>dom</tag>
+        <tag>sax</tag>
+        <tag>xmlschema</tag>
+        <tag>c++</tag>
+        <tag>c</tag>
+        <tag>parser</tag>
+        <tag>asf</tag>
+        <tag>schema</tag>
+        <tag>apache</tag>
+        <tag>xsd</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>13293588</id>
+        <url>http://www.ohloh.net/analyses/13293588.xml</url>
+        <project_id>3465</project_id>
+        <updated_at>2013-04-22T08:14:24Z</updated_at>
+        <logged_at>2013-04-22T08:14:17Z</logged_at>
+        <min_month>1999-11-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>287096</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xerces-c/analyses/13293588/languages.png">
+          <language color="F35F1F" percentage="59" id="44">
+C++          </language>
+          <language color="555555" percentage="36" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5580</id>
+      <name>The LLVM Compiler Infrastructure</name>
+      <url>http://www.ohloh.net/p/llvm.xml</url>
+      <html_url>http://www.ohloh.net/p/llvm</html_url>
+      <created_at>2007-05-24T15:48:19Z</created_at>
+      <updated_at>2013-04-22T12:01:30Z</updated_at>
+      <description>LLVM is a robust system, particularly well suited for developing new mid-level language-independent analyses and optimizations of all sorts, including those that require extensive interprocedural analysis. LLVM is also a great target for front-end development for conventional or research programming languages, including those which require compile-time, link-time, or run-time optimization for effective implementation, proper tail calls or garbage collection. We have an incomplete list of projects which have used LLVM for various purposes, showing that you can get up-and-running quickly with LLVM, giving time to do interesting things, even if you only have a semester in a University course. We also have a list of ideas for projects in LLVM.</description>
+      <homepage_url>http://llvm.org/</homepage_url>
+      <download_url>http://llvm.org/releases/</download_url>
+      <url_name>llvm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22495/DragonSmall_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22495/DragonSmall_small.png</small_logo_url>
+      <user_count>99</user_count>
+      <average_rating>4.86667</average_rating>
+      <rating_count>45</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13681455</analysis_id>
+      <tags>
+        <tag>stacker</tag>
+        <tag>devtool</tag>
+        <tag>cpp</tag>
+        <tag>optimization</tag>
+        <tag>gcc</tag>
+        <tag>framework</tag>
+        <tag>clang</tag>
+        <tag>performance</tag>
+        <tag>optimizer</tag>
+        <tag>c++</tag>
+        <tag>forth</tag>
+        <tag>scheme</tag>
+        <tag>compiler</tag>
+        <tag>java</tag>
+        <tag>tuning</tag>
+        <tag>c</tag>
+        <tag>programming</tag>
+        <tag>objective_c</tag>
+        <tag>vm</tag>
+        <tag>optimize</tag>
+        <tag>virtual_machines</tag>
+        <tag>llvm</tag>
+        <tag>cross-platform</tag>
+      </tags>
+      <analysis>
+        <id>13681455</id>
+        <url>http://www.ohloh.net/analyses/13681455.xml</url>
+        <project_id>5580</project_id>
+        <updated_at>2013-04-22T12:01:30Z</updated_at>
+        <logged_at>2013-04-22T11:50:00Z</logged_at>
+        <min_month>2001-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>194</twelve_month_contributor_count>
+        <total_code_lines>1135959</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/llvm/analyses/13681455/languages.png">
+          <language color="F35F1F" percentage="58" id="44">
+C++          </language>
+          <language color="333333" percentage="18" id="19">
+Assembly          </language>
+          <language color="FF8F00" percentage="16" id="42">
+C          </language>
+          <language color="000000" percentage="8" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>u_of_i_ncsa</name>
+          <nice_name>University of Illinois/NCSA Open Source License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

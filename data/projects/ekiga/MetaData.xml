@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7285</id>
+      <name>Ekiga</name>
+      <url>http://www.ohloh.net/p/ekiga.xml</url>
+      <html_url>http://www.ohloh.net/p/ekiga</html_url>
+      <created_at>2007-08-08T04:11:16Z</created_at>
+      <updated_at>2013-04-23T04:43:29Z</updated_at>
+      <description>Ekiga (formely known as GnomeMeeting) is an open source VoIP and video conferencing application for GNOME. Ekiga uses both the H.323 and SIP protocols. It supports many audio and video codecs, and is interoperable with other SIP compliant software and also with Microsoft NetMeeting.</description>
+      <homepage_url>http://ekiga.org/</homepage_url>
+      <download_url>http://ekiga.org/?rub=5</download_url>
+      <url_name>ekiga</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1308/ekiga_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1308/ekiga_small.png</small_logo_url>
+      <user_count>65</user_count>
+      <average_rating>3.77273</average_rating>
+      <rating_count>22</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13689086</analysis_id>
+      <tags>
+        <tag>sip</tag>
+        <tag>instant_messenger</tag>
+        <tag>voip</tag>
+        <tag>conferencing</tag>
+        <tag>video</tag>
+        <tag>softphone</tag>
+        <tag>client</tag>
+      </tags>
+      <analysis>
+        <id>13689086</id>
+        <url>http://www.ohloh.net/analyses/13689086.xml</url>
+        <project_id>7285</project_id>
+        <updated_at>2013-04-23T04:43:29Z</updated_at>
+        <logged_at>2013-04-23T04:39:18Z</logged_at>
+        <min_month>2001-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>51</twelve_month_contributor_count>
+        <total_code_lines>86095</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ekiga/analyses/13689086/languages.png">
+          <language color="F35F1F" percentage="57" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="37" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

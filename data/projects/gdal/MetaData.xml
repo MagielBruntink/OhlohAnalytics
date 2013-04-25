@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3693</id>
+      <name>GDAL</name>
+      <url>http://www.ohloh.net/p/gdal.xml</url>
+      <html_url>http://www.ohloh.net/p/gdal</html_url>
+      <created_at>2006-11-28T18:54:40Z</created_at>
+      <updated_at>2013-04-22T22:57:15Z</updated_at>
+      <description>GDAL is a translator library for raster geospatial data formats. The related OGR library (which lives within the GDAL source tree) provides a similar capability for simple features vector data.</description>
+      <homepage_url>http://www.gdal.org</homepage_url>
+      <download_url>http://trac.osgeo.org/gdal/wiki/DownloadSource</download_url>
+      <url_name>gdal</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/30943/gdal-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/30943/gdal-logo_small.png</small_logo_url>
+      <user_count>101</user_count>
+      <average_rating>4.83784</average_rating>
+      <rating_count>37</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13686558</analysis_id>
+      <tags>
+        <tag>gdal</tag>
+        <tag>osgeo</tag>
+        <tag>ogr</tag>
+        <tag>mapping</tag>
+        <tag>gis</tag>
+      </tags>
+      <analysis>
+        <id>13686558</id>
+        <url>http://www.ohloh.net/analyses/13686558.xml</url>
+        <project_id>3693</project_id>
+        <updated_at>2013-04-22T22:57:15Z</updated_at>
+        <logged_at>2013-04-22T22:41:10Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>905863</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gdal/analyses/13686558/languages.png">
+          <language color="F35F1F" percentage="68" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="9" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

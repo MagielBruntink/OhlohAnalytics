@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6688</id>
+      <name>XULRunner</name>
+      <url>http://www.ohloh.net/p/xulrunner.xml</url>
+      <html_url>http://www.ohloh.net/p/xulrunner</html_url>
+      <created_at>2007-07-17T21:22:06Z</created_at>
+      <updated_at>2013-04-11T20:23:08Z</updated_at>
+      <description>XULRunner is a Mozilla runtime package that can be used to bootstrap XUL+XPCOM applications that are as rich as Firefox and Thunderbird.
+It will provide mechanisms for installing, upgrading, and uninstalling these applications. 
+XULRunner will also provide libxul, a solution which allows the embedding of Mozilla technologies in other projects and products.</description>
+      <homepage_url>http://developer.mozilla.org/en/docs/XULRunner</homepage_url>
+      <download_url>http://developer.mozilla.org/en/docs/XULRunner_Hall_of_Fame</download_url>
+      <url_name>xulrunner</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5087/ir1_1__med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5087/ir1_1__small.jpg</small_logo_url>
+      <user_count>47</user_count>
+      <average_rating>3.81818</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13390536</analysis_id>
+      <tags>
+        <tag>firefox</tag>
+        <tag>javascript</tag>
+        <tag>html</tag>
+        <tag>http</tag>
+        <tag>development</tag>
+        <tag>www</tag>
+        <tag>xul</tag>
+        <tag>xhtml</tag>
+        <tag>css</tag>
+        <tag>gecko</tag>
+        <tag>chrome</tag>
+        <tag>mozilla</tag>
+      </tags>
+      <analysis>
+        <id>13390536</id>
+        <url>http://www.ohloh.net/analyses/13390536.xml</url>
+        <project_id>6688</project_id>
+        <updated_at>2013-04-24T07:40:46Z</updated_at>
+        <logged_at>2013-04-24T07:40:43Z</logged_at>
+        <min_month>2004-08-01T00:00:00Z</min_month>
+        <max_month>2008-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2399</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xulrunner/analyses/13390536/languages.png">
+          <language color="F35F1F" percentage="58" id="44">
+C++          </language>
+          <language color="EEE" percentage="23" id="52">
+Make          </language>
+          <language color="777777" percentage="9" id="11">
+shell script          </language>
+          <language color="000000" percentage="10" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

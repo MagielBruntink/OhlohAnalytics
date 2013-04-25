@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4477</id>
+      <name>avahi</name>
+      <url>http://www.ohloh.net/p/avahi.xml</url>
+      <html_url>http://www.ohloh.net/p/avahi</html_url>
+      <created_at>2007-02-18T12:09:13Z</created_at>
+      <updated_at>2013-04-17T22:16:19Z</updated_at>
+      <description>Avahi is an Implementation the DNS Service Discovery and Multicast DNS specifications for Zeroconf Computing. It uses D-Bus for communication between user applications and a system daemon. The daemon is used to coordinate application efforts in caching replies, necessary to minimize the traffic imposed on networks.</description>
+      <homepage_url>http://avahi.org</homepage_url>
+      <download_url>http://www.avahi.org/wiki/DownloadAvahi</download_url>
+      <url_name>avahi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5876/avahi-trac_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5876/avahi-trac_small.png</small_logo_url>
+      <user_count>110</user_count>
+      <average_rating>4.16</average_rating>
+      <rating_count>25</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13355649</analysis_id>
+      <tags>
+        <tag>zeroconf</tag>
+        <tag>mdns</tag>
+        <tag>bonjour</tag>
+      </tags>
+      <analysis>
+        <id>13355649</id>
+        <url>http://www.ohloh.net/analyses/13355649.xml</url>
+        <project_id>4477</project_id>
+        <updated_at>2013-04-22T21:29:32Z</updated_at>
+        <logged_at>2013-04-22T21:29:30Z</logged_at>
+        <min_month>2004-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>59740</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/avahi/analyses/13355649/languages.png">
+          <language color="FF8F00" percentage="67" id="42">
+C          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="13" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

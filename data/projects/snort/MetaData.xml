@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>83</id>
+      <name>Snort</name>
+      <url>http://www.ohloh.net/p/snort.xml</url>
+      <html_url>http://www.ohloh.net/p/snort</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-19T19:09:50Z</updated_at>
+      <description>Snort&#174; is an open source network intrusion prevention and detection system using a flexible rule-driven language, which combines the benefits of signature, protocol and anomaly based inspection methods. 
+With millions of downloads to date, Snort is the most widely deployed intrusion detection and prevention technology worldwide and has become the de facto standard for the industry.</description>
+      <homepage_url>http://www.snort.org</homepage_url>
+      <download_url>http://www.snort.org/snort-downloads?</download_url>
+      <url_name>snort</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/589/snort_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/589/snort_small.png</small_logo_url>
+      <user_count>88</user_count>
+      <average_rating>4.16</average_rating>
+      <rating_count>25</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8257629</analysis_id>
+      <tags>
+        <tag>ethernet</tag>
+        <tag>sguil</tag>
+        <tag>pcap</tag>
+        <tag>network</tag>
+        <tag>logging</tag>
+        <tag>tcpip</tag>
+        <tag>packetfiltering</tag>
+        <tag>tcpdump</tag>
+        <tag>vlan</tag>
+        <tag>tcp</tag>
+        <tag>osx</tag>
+        <tag>ipv6</tag>
+        <tag>bsd</tag>
+        <tag>c</tag>
+        <tag>packet-analyzer</tag>
+        <tag>sniffer</tag>
+        <tag>infosec</tag>
+        <tag>linux</tag>
+        <tag>security</tag>
+        <tag>technology</tag>
+        <tag>utilities</tag>
+        <tag>web</tag>
+        <tag>detection</tag>
+        <tag>windows</tag>
+        <tag>firewall</tag>
+        <tag>unix</tag>
+        <tag>networking</tag>
+        <tag>hacking</tag>
+        <tag>ids</tag>
+        <tag>monitoring</tag>
+        <tag>tools</tag>
+        <tag>intrusion</tag>
+        <tag>sysadmin</tag>
+        <tag>snort</tag>
+        <tag>packet-inspection</tag>
+        <tag>inline</tag>
+        <tag>ips</tag>
+        <tag>ipv4</tag>
+        <tag>ssh</tag>
+        <tag>snortrules</tag>
+        <tag>packetcapture</tag>
+        <tag>packetinspection</tag>
+        <tag>packets</tag>
+        <tag>analysis</tag>
+      </tags>
+      <analysis>
+        <id>8257629</id>
+        <url>http://www.ohloh.net/analyses/8257629.xml</url>
+        <project_id>83</project_id>
+        <updated_at>2012-05-23T01:26:13Z</updated_at>
+        <logged_at>2012-05-23T01:25:58Z</logged_at>
+        <min_month>2000-08-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>220955</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/snort/analyses/8257629/languages.png">
+          <language color="FF8F00" percentage="88" id="42">
+C          </language>
+          <language color="000080" percentage="7" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="5" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

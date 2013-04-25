@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>163</id>
+      <name>Stellarium</name>
+      <url>http://www.ohloh.net/p/stellarium.xml</url>
+      <html_url>http://www.ohloh.net/p/stellarium</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-24T13:29:14Z</updated_at>
+      <description>Stellarium renders 3D photo-realistic skies in real time with OpenGL. It displays stars, constellations, planets and nebulae, and has many other features including multiple panoramic landscapes, fog, light pollution simulation and a built-in scripting engine.
+
+Stellarium comes with a star catalogue of about 600 thousand stars and it is possible to download extra catalogues with up to 210 million stars.
+
+Stellarium has multiple sky cultures - see the constellations from the traditions of Polynesian, Inuit, Navajo, Korean, Lakota, Egyptian and Chinese astronomers, as well as the traditional Western constellations. 
+
+It is also possible to visit other planets in the solar system - see what the sky looked like to the Apollo astronauts, or what the rings of Saturn looks like from Titan.</description>
+      <homepage_url>http://stellarium.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/stellarium/files/</download_url>
+      <url_name>stellarium</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60074/stellarium-icon-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60074/stellarium-icon-64x64_small.png</small_logo_url>
+      <user_count>88</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>30</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13701006</analysis_id>
+      <tags>
+        <tag>satellite</tag>
+        <tag>stars</tag>
+        <tag>graphics</tag>
+        <tag>simulation</tag>
+        <tag>linux</tag>
+        <tag>3d</tag>
+        <tag>education</tag>
+        <tag>opengl</tag>
+        <tag>windows</tag>
+        <tag>space</tag>
+        <tag>science</tag>
+        <tag>planetarium</tag>
+        <tag>maps</tag>
+        <tag>qt4</tag>
+        <tag>star</tag>
+        <tag>macosx</tag>
+        <tag>astronomy</tag>
+        <tag>stellarium</tag>
+      </tags>
+      <analysis>
+        <id>13701006</id>
+        <url>http://www.ohloh.net/analyses/13701006.xml</url>
+        <project_id>163</project_id>
+        <updated_at>2013-04-24T13:29:14Z</updated_at>
+        <logged_at>2013-04-24T13:18:09Z</logged_at>
+        <min_month>2002-07-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>43</twelve_month_contributor_count>
+        <total_code_lines>890600</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/stellarium/analyses/13701006/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="F35F1F" percentage="18" id="44">
+C++          </language>
+          <language color="000000" percentage="6" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>cc-by-3</name>
+          <nice_name>Creative Commons Attribution 3.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

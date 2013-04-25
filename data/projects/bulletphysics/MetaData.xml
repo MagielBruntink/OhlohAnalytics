@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3984</id>
+      <name>Bullet Physics Engine</name>
+      <url>http://www.ohloh.net/p/bulletphysics.xml</url>
+      <html_url>http://www.ohloh.net/p/bulletphysics</html_url>
+      <created_at>2007-01-12T20:37:31Z</created_at>
+      <updated_at>2013-04-23T04:05:56Z</updated_at>
+      <description>Bullet is a 3D Collision Detection and Rigid Body Dynamics Library for games and special effects for film and animations. Bullet is integrated into many 3d modelers including Maya, Houdini, Cinema 4D, LightWave and Blender. It is free for commercial use and open source under the permissive ZLib License.
+
+Bullet is cross-platform for Windows, Linux, Mac OSX, Playstation 3, XBox 360, Wii, iOS, Android with special optimizations for x86 SIMD SSE, Cell SPE and OpenCL.</description>
+      <homepage_url>http://bulletphysics.org</homepage_url>
+      <download_url>http://code.google.com/p/bullet/downloads/list</download_url>
+      <url_name>bulletphysics</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10087/2_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10087/2_small.gif</small_logo_url>
+      <user_count>52</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13688719</analysis_id>
+      <tags>
+        <tag>simulation</tag>
+        <tag>collision_detection</tag>
+        <tag>mathematics</tag>
+        <tag>visualization</tag>
+        <tag>c++</tag>
+        <tag>rigid_body</tag>
+        <tag>physics</tag>
+        <tag>animation</tag>
+      </tags>
+      <analysis>
+        <id>13688719</id>
+        <url>http://www.ohloh.net/analyses/13688719.xml</url>
+        <project_id>3984</project_id>
+        <updated_at>2013-04-23T04:05:56Z</updated_at>
+        <logged_at>2013-04-23T04:02:59Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>412901</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bulletphysics/analyses/13688719/languages.png">
+          <language color="F35F1F" percentage="54" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="33" id="42">
+C          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

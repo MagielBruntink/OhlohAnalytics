@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3989</id>
+      <name>Horde</name>
+      <url>http://www.ohloh.net/p/horde.xml</url>
+      <html_url>http://www.ohloh.net/p/horde</html_url>
+      <created_at>2007-01-12T22:40:47Z</created_at>
+      <updated_at>2013-03-19T13:02:12Z</updated_at>
+      <description>Horde is both an Open Source software project and an application framework written in PHP.
+The application framework is currently the basis for 50 applications written by developers from around the world, including the flagship IMP Webmail client, the popular Chora repository viewer, and a complete groupware suite. The guiding principles of the Horde Project are to create solid standard-based applications using intelligent object oriented design, and wide-ranging platform and backend support. There is great emphasis on making Horde as friendly to non-English speakers as possible.  The Horde Framework currently supports many localization features such as unicode and right-to-left text, and is shipped with translations in over 40 languages.</description>
+      <homepage_url>http://www.horde.org/</homepage_url>
+      <download_url>http://www.horde.org/download/</download_url>
+      <url_name>horde</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1600/horde3_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1600/horde3_small.png</small_logo_url>
+      <user_count>53</user_count>
+      <average_rating>3.72727</average_rating>
+      <rating_count>22</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13175099</analysis_id>
+      <tags>
+        <tag>imap</tag>
+        <tag>maildrop</tag>
+        <tag>subversion</tag>
+        <tag>kolab</tag>
+        <tag>plesk</tag>
+        <tag>version-control</tag>
+        <tag>mobile</tag>
+        <tag>php</tag>
+        <tag>xmlrpc</tag>
+        <tag>procmail</tag>
+        <tag>pop</tag>
+        <tag>notes</tag>
+        <tag>syncml</tag>
+        <tag>tracking</tag>
+        <tag>webmail</tag>
+        <tag>request</tag>
+        <tag>contacts</tag>
+        <tag>filemanager</tag>
+        <tag>xml-rpc</tag>
+        <tag>sieve</tag>
+        <tag>imsp</tag>
+        <tag>freebusy</tag>
+        <tag>sql</tag>
+        <tag>webdav</tag>
+        <tag>ajax</tag>
+        <tag>soap</tag>
+        <tag>helpdesk</tag>
+        <tag>cvs</tag>
+        <tag>ticket</tag>
+        <tag>email</tag>
+        <tag>password</tag>
+        <tag>spam</tag>
+        <tag>ldap</tag>
+        <tag>web</tag>
+        <tag>time</tag>
+        <tag>filter</tag>
+        <tag>collaboration</tag>
+        <tag>pda</tag>
+        <tag>forwards</tag>
+        <tag>framework</tag>
+        <tag>repository</tag>
+        <tag>horde</tag>
+        <tag>bug</tag>
+        <tag>synchronisation</tag>
+        <tag>calendar</tag>
+        <tag>vacation</tag>
+        <tag>vfs</tag>
+        <tag>scheduling</tag>
+      </tags>
+      <analysis>
+        <id>13175099</id>
+        <url>http://www.ohloh.net/analyses/13175099.xml</url>
+        <project_id>3989</project_id>
+        <updated_at>2013-03-19T13:02:12Z</updated_at>
+        <logged_at>2013-03-19T10:51:48Z</logged_at>
+        <min_month>1998-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>27</twelve_month_contributor_count>
+        <total_code_lines>1065934</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/horde/analyses/13175099/languages.png">
+          <language color="356AA0" percentage="59" id="2">
+PHP          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_ish</name>
+          <nice_name>Apache-ish License</nice_name>
+        </license>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

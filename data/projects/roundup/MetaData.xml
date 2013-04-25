@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488</id>
+      <name>Roundup Issue Tracker</name>
+      <url>http://www.ohloh.net/p/roundup.xml</url>
+      <html_url>http://www.ohloh.net/p/roundup</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-24T03:17:26Z</updated_at>
+      <description>Roundup is a simple-to-use and -install issue- tracking system with command-line, Web, and e- mail interfaces. It manages a number of issues (with flexible properties such as &quot;description&quot;, &quot;priority&quot;, and so on) and provides the ability to (a) submit new issues, (b) find and edit existing issues, and (c) discuss issues with other participants. The system will facilitate communication among the participants by managing discussions, and notifying interested parties when issues are edited.</description>
+      <homepage_url>http://roundup-tracker.org/</homepage_url>
+      <download_url>http://cheeseshop.python.org/pypi/roundup/</download_url>
+      <url_name>roundup</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>37</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13697997</analysis_id>
+      <tags>
+        <tag>management</tag>
+        <tag>qa</tag>
+        <tag>python</tag>
+        <tag>cms</tag>
+        <tag>code</tag>
+        <tag>support</tag>
+        <tag>tracking</tag>
+        <tag>helpdesk</tag>
+        <tag>development</tag>
+        <tag>scm</tag>
+        <tag>web</tag>
+        <tag>programming</tag>
+        <tag>email</tag>
+        <tag>issue</tag>
+        <tag>bug_tracking</tag>
+        <tag>office</tag>
+        <tag>bug</tag>
+        <tag>tools</tag>
+        <tag>business</tag>
+      </tags>
+      <analysis>
+        <id>13697997</id>
+        <url>http://www.ohloh.net/analyses/13697997.xml</url>
+        <project_id>488</project_id>
+        <updated_at>2013-04-24T03:17:25Z</updated_at>
+        <logged_at>2013-04-24T03:16:55Z</logged_at>
+        <min_month>2001-07-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>58390</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/roundup/analyses/13697997/languages.png">
+          <language color="4A246B" percentage="56" id="9">
+Python          </language>
+          <language color="47A400" percentage="25" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="15" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11264</id>
+      <name>Zope Object Database (ZODB)</name>
+      <url>http://www.ohloh.net/p/zodb.xml</url>
+      <html_url>http://www.ohloh.net/p/zodb</html_url>
+      <created_at>2008-01-25T16:28:47Z</created_at>
+      <updated_at>2013-04-18T18:35:19Z</updated_at>
+      <description>The Zope Object Database provides an object-oriented database for Python that provides a high-degree of transparency. Applications can take advantage of object database features with few, if any, changes to application logic. ZODB includes features such as a plugable storage interface, rich transaction support, and undo.</description>
+      <homepage_url>http://www.zope.org/Products/ZODB3</homepage_url>
+      <download_url>http://pypi.python.org/pypi/ZODB3</download_url>
+      <url_name>zodb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>42</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13608857</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>oodbms</tag>
+        <tag>objectdatabase</tag>
+        <tag>persistence</tag>
+        <tag>database</tag>
+        <tag>storage</tag>
+      </tags>
+      <analysis>
+        <id>13608857</id>
+        <url>http://www.ohloh.net/analyses/13608857.xml</url>
+        <project_id>11264</project_id>
+        <updated_at>2013-04-22T01:07:41Z</updated_at>
+        <logged_at>2013-04-22T01:05:24Z</logged_at>
+        <min_month>1997-02-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>16628</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zodb/analyses/13608857/languages.png">
+          <language color="4A246B" percentage="98" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Zope_Public_License_ZPL_Version_2_1</name>
+          <nice_name>Zope Public License 2.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

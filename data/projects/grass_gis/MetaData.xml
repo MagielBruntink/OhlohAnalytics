@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3666</id>
+      <name>GRASS GIS</name>
+      <url>http://www.ohloh.net/p/grass_gis.xml</url>
+      <html_url>http://www.ohloh.net/p/grass_gis</html_url>
+      <created_at>2006-11-24T18:03:46Z</created_at>
+      <updated_at>2013-04-23T16:24:48Z</updated_at>
+      <description>GRASS GIS, commonly referred to as GRASS (Geographic Resources Analysis Support System), is a free Geographic Information System (GIS) software used for geospatial data management and analysis, image processing, graphics/maps production, spatial modeling, and visualization. GRASS GIS is currently used in academic and commercial settings around the world, as well as by many governmental agencies and environmental consulting companies. GRASS GIS is an official project of the Open Source Geospatial Foundation (OSGeo).</description>
+      <homepage_url>http://grass.osgeo.org</homepage_url>
+      <download_url>http://grass.osgeo.org/download/index.php</download_url>
+      <url_name>grass_gis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11093/grass-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11093/grass-logo_small.png</small_logo_url>
+      <user_count>63</user_count>
+      <average_rating>4.76471</average_rating>
+      <rating_count>17</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13694352</analysis_id>
+      <tags>
+        <tag>free_software</tag>
+        <tag>image_processing</tag>
+        <tag>maps</tag>
+        <tag>spatial</tag>
+        <tag>mapping</tag>
+        <tag>gis</tag>
+        <tag>visualization</tag>
+        <tag>grass</tag>
+        <tag>remote_sensing</tag>
+        <tag>map</tag>
+        <tag>osgeo</tag>
+        <tag>geo</tag>
+      </tags>
+      <analysis>
+        <id>13694352</id>
+        <url>http://www.ohloh.net/analyses/13694352.xml</url>
+        <project_id>3666</project_id>
+        <updated_at>2013-04-23T16:24:48Z</updated_at>
+        <logged_at>2013-04-23T16:03:24Z</logged_at>
+        <min_month>1999-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>1289935</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grass_gis/analyses/13694352/languages.png">
+          <language color="FF8F00" percentage="64" id="42">
+C          </language>
+          <language color="4A246B" percentage="13" id="9">
+Python          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="16" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

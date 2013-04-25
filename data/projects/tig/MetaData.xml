@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7988</id>
+      <name>Tig</name>
+      <url>http://www.ohloh.net/p/tig.xml</url>
+      <html_url>http://www.ohloh.net/p/tig</html_url>
+      <created_at>2007-08-26T23:35:30Z</created_at>
+      <updated_at>2013-04-23T05:44:07Z</updated_at>
+      <description>Tig is a git repository browser that additionally can act as a pager for output from various git commands.
+
+When browsing repositories, it uses the underlying git commands to present the user with various views, such as summarized revision log and showing the commit with the log message, diffstat, and the diff.
+
+Using it as a pager, it will display input from stdin and colorize it.</description>
+      <homepage_url>http://jonas.nitro.dk/tig/</homepage_url>
+      <download_url>http://jonas.nitro.dk/tig/releases/</download_url>
+      <url_name>tig</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>45</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>12</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13689720</analysis_id>
+      <tags>
+        <tag>git</tag>
+        <tag>scm</tag>
+        <tag>development</tag>
+        <tag>version_control</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>13689720</id>
+        <url>http://www.ohloh.net/analyses/13689720.xml</url>
+        <project_id>7988</project_id>
+        <updated_at>2013-04-23T05:44:06Z</updated_at>
+        <logged_at>2013-04-23T05:42:22Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>18510</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tig/analyses/13689720/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="5" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5411</id>
+      <name>PowerTOP</name>
+      <url>http://www.ohloh.net/p/powertop.xml</url>
+      <html_url>http://www.ohloh.net/p/powertop</html_url>
+      <created_at>2007-05-16T08:13:40Z</created_at>
+      <updated_at>2013-04-22T11:15:37Z</updated_at>
+      <description>PowerTOP is a Linux tool that finds the software component(s) that make your laptop use more power than necessary while it is idle. As of Linux kernel version 2.6.21, the kernel no longer has a fixed 1000Hz timer tick. This will (in theory) give a huge power savings because the CPU stays in low power mode for longer periods of time during system idle.</description>
+      <homepage_url>http://www.linuxpowertop.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>powertop</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>98</user_count>
+      <average_rating>4.52174</average_rating>
+      <rating_count>23</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13680862</analysis_id>
+      <tags>
+        <tag>laptop</tag>
+        <tag>battery</tag>
+        <tag>energy</tag>
+        <tag>monitoring</tag>
+        <tag>power</tag>
+        <tag>system</tag>
+        <tag>environment</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>13680862</id>
+        <url>http://www.ohloh.net/analyses/13680862.xml</url>
+        <project_id>5411</project_id>
+        <updated_at>2013-04-22T11:15:37Z</updated_at>
+        <logged_at>2013-04-22T11:11:38Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>31</twelve_month_contributor_count>
+        <total_code_lines>21327</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/powertop/analyses/13680862/languages.png">
+          <language color="F35F1F" percentage="61" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="33" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

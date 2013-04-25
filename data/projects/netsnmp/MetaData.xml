@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>176</id>
+      <name>Net-SNMP</name>
+      <url>http://www.ohloh.net/p/netsnmp.xml</url>
+      <html_url>http://www.ohloh.net/p/netsnmp</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T22:18:10Z</updated_at>
+      <description>The NET-SNMP (formerly UCD-SNMP) package contains various tools relating to the Simple Network Management Protocol including an extensible agent, an SNMP library, tools to request or set information from SNMP agents, tools to generate and handle SNMP traps, a version of the unix 'netstat' command using SNMP and a Tk/perl mib browser. It was originally based on the Carnegie Mellon University SNMP implementation (version 2.1.2.1), but has been greatly enhanced, ported and fixed and barely resembles the original package anymore.</description>
+      <homepage_url>http://www.net-snmp.org</homepage_url>
+      <download_url></download_url>
+      <url_name>netsnmp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>69</user_count>
+      <average_rating>4.36842</average_rating>
+      <rating_count>19</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13686403</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>monitoring</tag>
+        <tag>tools</tag>
+        <tag>snmp</tag>
+        <tag>research</tag>
+        <tag>information</tag>
+        <tag>programming</tag>
+        <tag>work</tag>
+        <tag>osx</tag>
+        <tag>utility</tag>
+        <tag>sysadmin</tag>
+        <tag>development</tag>
+        <tag>net</tag>
+        <tag>technology</tag>
+        <tag>admin</tag>
+        <tag>monitoring_tools</tag>
+        <tag>reference</tag>
+        <tag>mac</tag>
+        <tag>management</tag>
+        <tag>networking</tag>
+        <tag>system_administration</tag>
+      </tags>
+      <analysis>
+        <id>13686403</id>
+        <url>http://www.ohloh.net/analyses/13686403.xml</url>
+        <project_id>176</project_id>
+        <updated_at>2013-04-22T22:18:09Z</updated_at>
+        <logged_at>2013-04-22T22:12:48Z</logged_at>
+        <min_month>1994-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>381393</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/netsnmp/analyses/13686403/languages.png">
+          <language color="FF8F00" percentage="77" id="42">
+C          </language>
+          <language color="EEE" percentage="11" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="000000" percentage="7" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>
