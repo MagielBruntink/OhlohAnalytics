@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12671</id>
+      <name>NagVis</name>
+      <url>http://www.ohloh.net/p/nagvis.xml</url>
+      <html_url>http://www.ohloh.net/p/nagvis</html_url>
+      <created_at>2008-03-11T09:31:10Z</created_at>
+      <updated_at>2013-04-25T13:08:10Z</updated_at>
+      <description>NagVis is a visualization addon for the well known network management system Nagios.
+
+NagVis can be used to visualize Nagios Data, e.g. to display IT processes like a mail system or a network infrastructure.
+
+Key features are:
+
+* Display of single Hosts and Services
+* Visualize a complete Host- or Servicegroup with one icon
+* Display the state of a Host dependent on the state of its services
+* Display only the real problems
+* Define Sub-Map icons which represent a complete NagVis Map of Hosts/Services/Groups in one icon (drill down)
+* Visualization/Documentation of complete IT Processes and Infrastructures using self drawn graphics</description>
+      <homepage_url>http://www.nagvis.org</homepage_url>
+      <download_url>http://www.nagvis.org/downloads</download_url>
+      <url_name>nagvis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20538/Teaser_NagVis-big_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20538/Teaser_NagVis-big_small.jpg</small_logo_url>
+      <user_count>28</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>13706417</analysis_id>
+      <tags>
+        <tag>it</tag>
+        <tag>nagios</tag>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>ndo</tag>
+        <tag>networkmap</tag>
+        <tag>map</tag>
+        <tag>web</tag>
+        <tag>systemmonitoring</tag>
+        <tag>visualisation</tag>
+        <tag>mapping</tag>
+        <tag>linux</tag>
+        <tag>monitoring</tag>
+      </tags>
+      <analysis>
+        <id>13706417</id>
+        <url>http://www.ohloh.net/analyses/13706417.xml</url>
+        <project_id>12671</project_id>
+        <updated_at>2013-04-25T13:08:10Z</updated_at>
+        <logged_at>2013-04-25T13:07:41Z</logged_at>
+        <min_month>2005-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>59891</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nagvis/analyses/13706417/languages.png">
+          <language color="356AA0" percentage="56" id="2">
+PHP          </language>
+          <language color="47A400" percentage="18" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="16" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

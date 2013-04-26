@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11664</id>
+      <name>zc.buildout</name>
+      <url>http://www.ohloh.net/p/zc-buildout.xml</url>
+      <html_url>http://www.ohloh.net/p/zc-buildout</html_url>
+      <created_at>2008-02-12T14:54:15Z</created_at>
+      <updated_at>2013-04-23T04:31:45Z</updated_at>
+      <description>The Buildout project provides support for creating applications, especially Python applications. It provides tools for assembling applications from multiple parts, Python or otherwise. An application may actually contain multiple programs, processes, and configuration settings.
+
+The word &quot;buildout&quot; refers to a description of a set of parts and the software to create and assemble them. It is often used informally to refer to an installed system based on a buildout definition. For example, if we are creating an application named &quot;Foo&quot;, then &quot;the Foo buildout&quot; is the collection of configuration and application-specific software that allows an instance of the application to be created. We may refer to such an instance of the application informally as &quot;a Foo buildout&quot;.</description>
+      <homepage_url>http://pypi.python.org/pypi/zc.buildout</homepage_url>
+      <download_url>http://pypi.python.org/pypi/zc.buildout#download</download_url>
+      <url_name>zc-buildout</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>33</user_count>
+      <average_rating>4.2</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13688948</analysis_id>
+      <tags>
+        <tag>deployment</tag>
+        <tag>python</tag>
+        <tag>automation</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>13688948</id>
+        <url>http://www.ohloh.net/analyses/13688948.xml</url>
+        <project_id>11664</project_id>
+        <updated_at>2013-04-23T04:31:45Z</updated_at>
+        <logged_at>2013-04-23T04:30:43Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>4491</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zc-buildout/analyses/13688948/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zope</name>
+          <nice_name>Zope Public License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

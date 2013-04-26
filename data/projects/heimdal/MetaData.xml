@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5897</id>
+      <name>Heimdal Kerberos</name>
+      <url>http://www.ohloh.net/p/heimdal.xml</url>
+      <html_url>http://www.ohloh.net/p/heimdal</html_url>
+      <created_at>2007-06-08T15:00:01Z</created_at>
+      <updated_at>2013-04-22T19:08:04Z</updated_at>
+      <description>Heimdal is an implementation of Kerberos 5, largely written in Sweden (which was important when we started writing it, less so now). It is freely available under a three clause BSD style license.</description>
+      <homepage_url>http://www.h5l.org/</homepage_url>
+      <download_url>http://www.h5l.org/dist/</download_url>
+      <url_name>heimdal</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19859/keyhole_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19859/keyhole_small.png</small_logo_url>
+      <user_count>22</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13684989</analysis_id>
+      <tags>
+        <tag>security</tag>
+        <tag>gssapi</tag>
+        <tag>authentication</tag>
+        <tag>kerberos</tag>
+      </tags>
+      <analysis>
+        <id>13684989</id>
+        <url>http://www.ohloh.net/analyses/13684989.xml</url>
+        <project_id>5897</project_id>
+        <updated_at>2013-04-22T19:08:04Z</updated_at>
+        <logged_at>2013-04-22T19:06:17Z</logged_at>
+        <min_month>1992-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>371573</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/heimdal/analyses/13684989/languages.png">
+          <language color="FF8F00" percentage="92" id="42">
+C          </language>
+          <language color="000000" percentage="8" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

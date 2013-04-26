@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16503</id>
+      <name>Virtual MIDI Piano Keyboard</name>
+      <url>http://www.ohloh.net/p/VMPK.xml</url>
+      <html_url>http://www.ohloh.net/p/VMPK</html_url>
+      <created_at>2008-09-04T22:18:32Z</created_at>
+      <updated_at>2013-04-13T22:14:11Z</updated_at>
+      <description>VMPK is a virtual MIDI piano keyboard for Linux, Windows and OSX. Based on Qt4 and RtMIDI, the program is a MIDI event generator using the computer's alphanumeric keyboard and the mouse. It may be used also to display received MIDI notes.</description>
+      <homepage_url>http://vmpk.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=236429</download_url>
+      <url_name>VMPK</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8456/vmpk_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8456/vmpk_64x64_small.png</small_logo_url>
+      <user_count>29</user_count>
+      <average_rating>4.85714</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>13447782</analysis_id>
+      <tags>
+        <tag>multimedia</tag>
+        <tag>midi</tag>
+        <tag>qt4</tag>
+        <tag>composition</tag>
+        <tag>music</tag>
+        <tag>qt</tag>
+        <tag>app</tag>
+        <tag>application</tag>
+        <tag>desktop</tag>
+        <tag>alsa</tag>
+        <tag>linux</tag>
+        <tag>sound</tag>
+      </tags>
+      <analysis>
+        <id>13447782</id>
+        <url>http://www.ohloh.net/analyses/13447782.xml</url>
+        <project_id>16503</project_id>
+        <updated_at>2013-04-23T18:29:45Z</updated_at>
+        <logged_at>2013-04-23T18:29:40Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>43750</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/VMPK/analyses/13447782/languages.png">
+          <language color="555555" percentage="67" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="22" id="44">
+C++          </language>
+          <language color="000000" percentage="11" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

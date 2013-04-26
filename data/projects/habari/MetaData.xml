@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5534</id>
+      <name>Habari</name>
+      <url>http://www.ohloh.net/p/habari.xml</url>
+      <html_url>http://www.ohloh.net/p/habari</html_url>
+      <created_at>2007-05-22T22:20:50Z</created_at>
+      <updated_at>2013-04-25T21:05:41Z</updated_at>
+      <description>Habari is a collaborative open source blogging platform in active development. With Habari, you are given the power to create a blog or web journal of your own.</description>
+      <homepage_url>http://habariproject.org/</homepage_url>
+      <download_url>http://www.habariproject.org/</download_url>
+      <url_name>habari</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3667/habari-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3667/habari-logo_small.png</small_logo_url>
+      <user_count>30</user_count>
+      <average_rating>4.45455</average_rating>
+      <rating_count>22</rating_count>
+      <review_count>6</review_count>
+      <analysis_id>13693880</analysis_id>
+      <tags>
+        <tag>sqlite</tag>
+        <tag>publishing</tag>
+        <tag>web</tag>
+        <tag>postgresql</tag>
+        <tag>cms</tag>
+        <tag>content</tag>
+        <tag>pdo</tag>
+        <tag>blog</tag>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>plugin</tag>
+        <tag>oop</tag>
+      </tags>
+      <analysis>
+        <id>13693880</id>
+        <url>http://www.ohloh.net/analyses/13693880.xml</url>
+        <project_id>5534</project_id>
+        <updated_at>2013-04-23T15:25:47Z</updated_at>
+        <logged_at>2013-04-23T15:22:46Z</logged_at>
+        <min_month>2006-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>50942</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/habari/analyses/13693880/languages.png">
+          <language color="356AA0" percentage="75" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="7" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

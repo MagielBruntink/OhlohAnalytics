@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5148</id>
+      <name>IzPack</name>
+      <url>http://www.ohloh.net/p/izpack.xml</url>
+      <html_url>http://www.ohloh.net/p/izpack</html_url>
+      <created_at>2007-05-08T07:54:40Z</created_at>
+      <updated_at>2013-04-04T11:17:00Z</updated_at>
+      <description>IzPack is a one-stop solution for packaging, distributing and deploying applications.
+
+It is fully cross-platform and generates a single installer. As such, it is an alternative to native solutions such as platform-specific installers and package managers.
+
+IzPack-generated installers only require a Java virtual machine to run.</description>
+      <homepage_url>http://izpack.org/</homepage_url>
+      <download_url>http://izpack.org/downloads/</download_url>
+      <url_name>izpack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2911/izpack-logo-big_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2911/izpack-logo-big_small.png</small_logo_url>
+      <user_count>34</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>13297804</analysis_id>
+      <tags>
+        <tag>macos</tag>
+        <tag>windows</tag>
+        <tag>setup</tag>
+        <tag>installer</tag>
+        <tag>installers</tag>
+        <tag>installation</tag>
+        <tag>software_installation</tag>
+        <tag>install</tag>
+        <tag>mac</tag>
+        <tag>unix</tag>
+        <tag>software_distribution</tag>
+        <tag>java</tag>
+        <tag>deployment</tag>
+      </tags>
+      <analysis>
+        <id>13297804</id>
+        <url>http://www.ohloh.net/analyses/13297804.xml</url>
+        <project_id>5148</project_id>
+        <updated_at>2013-04-23T18:51:58Z</updated_at>
+        <logged_at>2013-04-23T18:50:45Z</logged_at>
+        <min_month>2002-07-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>3240549</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/izpack/analyses/13297804/languages.png">
+          <language color="9A63AD" percentage="70" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

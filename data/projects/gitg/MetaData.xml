@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>321145</id>
+      <name>gitg</name>
+      <url>http://www.ohloh.net/p/gitg.xml</url>
+      <html_url>http://www.ohloh.net/p/gitg</html_url>
+      <created_at>2009-04-07T18:53:26Z</created_at>
+      <updated_at>2013-04-24T02:09:32Z</updated_at>
+      <description>gitg is a git repository viewer targeting gtk+/GNOME. One of its main objectives is to provide a more unified user experience for git frontends across multiple desktops. It does this not be writing a cross-platform application, but by close collaboration with similar clients for other operating systems (like GitX for OS X).</description>
+      <homepage_url>http://trac.novowork.com/gitg/</homepage_url>
+      <download_url></download_url>
+      <url_name>gitg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16827/gitg64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16827/gitg64x64_small.png</small_logo_url>
+      <user_count>31</user_count>
+      <average_rating>4.21429</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13697756</analysis_id>
+      <tags>
+        <tag>git</tag>
+        <tag>gtk+</tag>
+        <tag>gui</tag>
+        <tag>tools</tag>
+        <tag>frontend</tag>
+      </tags>
+      <analysis>
+        <id>13697756</id>
+        <url>http://www.ohloh.net/analyses/13697756.xml</url>
+        <project_id>321145</project_id>
+        <updated_at>2013-04-24T02:09:32Z</updated_at>
+        <logged_at>2013-04-24T01:51:31Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>14637</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gitg/analyses/13697756/languages.png">
+          <language color="729FCF" percentage="44" id="34">
+Vala          </language>
+          <language color="FF8F00" percentage="34" id="42">
+C          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="13" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

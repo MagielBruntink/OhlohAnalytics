@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11514</id>
+      <name>socat</name>
+      <url>http://www.ohloh.net/p/socat.xml</url>
+      <html_url>http://www.ohloh.net/p/socat</html_url>
+      <created_at>2008-02-05T18:21:29Z</created_at>
+      <updated_at>2013-04-17T21:55:53Z</updated_at>
+      <description>Socat is a relay for bidirectional data transfer between two independent data channels. Each of these data channels may be a file, pipe, device (terminal or modem, etc.), socket (Unix, IP4, IP6 - raw, UDP, TCP), SSL, a client for SOCKS4, or proxy CONNECT. It supports broadcasts and multicasts, abstract Unix sockets, Linux tun/tap, GNU readline, and PTYs. It provides forking, logging, and dumping and different modes for interprocess communication. Many options are available for tuning socat and its channels. Socat can be used, for example, as a TCP relay (one-shot or daemon), as a daemon-based socksifier, as a shell interface to Unix sockets, as an IP6 relay, or for redirecting TCP-oriented programs to a serial line.</description>
+      <homepage_url>http://www.dest-unreach.org/socat/</homepage_url>
+      <download_url>http://www.dest-unreach.org/socat/download/</download_url>
+      <url_name>socat</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>27</user_count>
+      <average_rating>4.27273</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13580747</analysis_id>
+      <tags>
+        <tag>networking</tag>
+        <tag>utility</tag>
+        <tag>netcat</tag>
+      </tags>
+      <analysis>
+        <id>13580747</id>
+        <url>http://www.ohloh.net/analyses/13580747.xml</url>
+        <project_id>11514</project_id>
+        <updated_at>2013-04-24T12:01:28Z</updated_at>
+        <logged_at>2013-04-24T12:01:26Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>39974</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/socat/analyses/13580747/languages.png">
+          <language color="FF8F00" percentage="68" id="42">
+C          </language>
+          <language color="777777" percentage="25" id="11">
+shell script          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

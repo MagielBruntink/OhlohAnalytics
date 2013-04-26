@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22843</id>
+      <name>qmmp</name>
+      <url>http://www.ohloh.net/p/qmmp.xml</url>
+      <html_url>http://www.ohloh.net/p/qmmp</html_url>
+      <created_at>2008-10-07T15:07:37Z</created_at>
+      <updated_at>2013-04-23T11:40:51Z</updated_at>
+      <description>This program is an audio-player, written with help of Qt library. The program has user interface, similar winamp or xmms. 
+
+Extra features:
+- xmms and Winamp 2.x skins support;
+- 10-band equalizer;
+- MP3, Vorbis, AAC, AAC+ streams support;
+- MMS support;
+- MPRIS;
+- removable device detection;
+- video playback via Mplayer;
+- lyrics (using lyrics.wikia.com);
+- cover art support;
+- CUE sheet support;
+- embedded CUE support (for FLAC and WavPack);
+- multiple playlists;
+- automatic charset detection for cue files and ShoutCast metadata;
+- playlist formats: m3u, pls, xspf;
+- ReplayGain support;
+- Last.fm/Libre.fm scrobbler;
+- CDDB support;
+- stream browser.</description>
+      <homepage_url>http://code.google.com/p/qmmp</homepage_url>
+      <download_url>http://code.google.com/p/qmmp/downloads/list</download_url>
+      <url_name>qmmp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32858/qmmp_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32858/qmmp_small.png</small_logo_url>
+      <user_count>23</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13692638</analysis_id>
+      <tags>
+        <tag>cda</tag>
+        <tag>qt</tag>
+        <tag>oggvorbis</tag>
+        <tag>multimediaplayer</tag>
+        <tag>flac</tag>
+        <tag>cue</tag>
+        <tag>linux</tag>
+        <tag>mp3</tag>
+        <tag>audioplayer</tag>
+        <tag>musepack</tag>
+        <tag>midi</tag>
+        <tag>freebsd</tag>
+      </tags>
+      <analysis>
+        <id>13692638</id>
+        <url>http://www.ohloh.net/analyses/13692638.xml</url>
+        <project_id>22843</project_id>
+        <updated_at>2013-04-23T11:40:51Z</updated_at>
+        <logged_at>2013-04-23T11:37:21Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>311553</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qmmp/analyses/13692638/languages.png">
+          <language color="555555" percentage="62" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="20" id="44">
+C++          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

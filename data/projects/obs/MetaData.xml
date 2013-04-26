@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16642</id>
+      <name>Open Build Service</name>
+      <url>http://www.ohloh.net/p/obs.xml</url>
+      <html_url>http://www.ohloh.net/p/obs</html_url>
+      <created_at>2008-09-11T14:22:55Z</created_at>
+      <updated_at>2013-04-24T10:04:20Z</updated_at>
+      <description>The Open Build Service (OBS) is an open and complete software distribution development platform. It provides the infrastructure to create software packages for a wide range of operating systems and hardware architectures as well as add-ons, appliance images or entire linux distributions.
+
+OBS provides the tools to work collaboratively, supporting access rights, merge requests and review functionality. Users can access OBS via a convenient web interface, as well as a commandline tool or via the extensive API.
+
+Rather than using &quot;compiler farms&quot; of different hardware to build packages for different architectures and multiple Linux distributions like Fedora, Debian, Ubuntu, the OBS creates a clean virtual instance for each build, saving the user time and resources.</description>
+      <homepage_url>https://build.opensuse.org/</homepage_url>
+      <download_url>http://en.opensuse.org/Build_Service</download_url>
+      <url_name>obs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27664/Obs-logo64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27664/Obs-logo64_small.png</small_logo_url>
+      <user_count>24</user_count>
+      <average_rating>4.88889</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13699959</analysis_id>
+      <tags>
+        <tag>deb</tag>
+        <tag>perl</tag>
+        <tag>package</tag>
+        <tag>build</tag>
+        <tag>ruby</tag>
+        <tag>webservice</tag>
+        <tag>rails</tag>
+        <tag>rpm</tag>
+        <tag>web</tag>
+        <tag>opensuse</tag>
+        <tag>interface</tag>
+        <tag>service</tag>
+        <tag>python</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>13699959</id>
+        <url>http://www.ohloh.net/analyses/13699959.xml</url>
+        <project_id>16642</project_id>
+        <updated_at>2013-04-24T10:04:20Z</updated_at>
+        <logged_at>2013-04-23T15:15:41Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>50</twelve_month_contributor_count>
+        <total_code_lines>175587</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/obs/analyses/13699959/languages.png">
+          <language color="A40011" percentage="26" id="12">
+Ruby          </language>
+          <language color="D2C690" percentage="25" id="8">
+Perl          </language>
+          <language color="4A246B" percentage="18" id="9">
+Python          </language>
+          <language color="000000" percentage="31" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

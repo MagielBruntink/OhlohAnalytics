@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4681</id>
+      <name>StatSVN</name>
+      <url>http://www.ohloh.net/p/StatSVN.xml</url>
+      <html_url>http://www.ohloh.net/p/StatSVN</html_url>
+      <created_at>2007-03-13T11:37:22Z</created_at>
+      <updated_at>2013-04-10T23:38:06Z</updated_at>
+      <description>StatSVN retrieves information from a Subversion repository and generates various tables and charts describing the project development.
+
+    *  Timeline for the lines of code
+    * Lines of code for each developer
+    * Activity by Clock time
+    * Authors Activity
+    * Author activity per Module
+    * Author Most Recent Commits with links to ViewVc
+    * Stats per directory
+    * Average file size
+    * Files with most revisions
+    * Directory Sizes
+    * Repository Tags Number of LOC per version.
+    * Repository tree with file count and lines of code
+    * LOC and Churn the evolution of LOC and the amount of change per day
+    * Repo Map the dynamic hierarchical view of your repo for the last 30 days
+
+The current version of StatSVN generates a static suite of HTML or XDOC documents</description>
+      <homepage_url>http://www.statsvn.org</homepage_url>
+      <download_url></download_url>
+      <url_name>StatSVN</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4572/statsvn_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4572/statsvn_small.png</small_logo_url>
+      <user_count>29</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13365819</analysis_id>
+      <tags>
+        <tag>maven</tag>
+        <tag>version_control</tag>
+        <tag>ant</tag>
+        <tag>management</tag>
+        <tag>statsvn</tag>
+        <tag>version-control</tag>
+        <tag>subversion</tag>
+        <tag>java</tag>
+        <tag>project_management</tag>
+        <tag>scm</tag>
+        <tag>charting</tag>
+        <tag>statistics</tag>
+      </tags>
+      <analysis>
+        <id>13365819</id>
+        <url>http://www.ohloh.net/analyses/13365819.xml</url>
+        <project_id>4681</project_id>
+        <updated_at>2013-04-23T03:55:53Z</updated_at>
+        <logged_at>2013-04-23T03:55:34Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>48414</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/StatSVN/analyses/13365819/languages.png">
+          <language color="555555" percentage="88" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="11" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

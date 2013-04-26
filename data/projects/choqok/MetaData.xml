@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>51096</id>
+      <name>Choqok</name>
+      <url>http://www.ohloh.net/p/choqok.xml</url>
+      <html_url>http://www.ohloh.net/p/choqok</html_url>
+      <created_at>2008-12-16T14:23:34Z</created_at>
+      <updated_at>2013-04-25T18:30:39Z</updated_at>
+      <description>KDE micro-blogging client.
+Currently supports Twitter.com and Identi.ca services.
+A quick and efficient client for KDE 4 Desktops.
+It has a System tray Icon, and use notifications to notify user about updates, and fair configurable.</description>
+      <homepage_url>http://choqok.gnufolks.org</homepage_url>
+      <download_url>http://choqok.gnufolks.org/download/</download_url>
+      <url_name>choqok</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22780/hi128-app-choqok_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22780/hi128-app-choqok_small.png</small_logo_url>
+      <user_count>23</user_count>
+      <average_rating>4.875</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13708181</analysis_id>
+      <tags>
+        <tag>laconica</tag>
+        <tag>qt4</tag>
+        <tag>twitter</tag>
+        <tag>identica</tag>
+        <tag>microblogging</tag>
+        <tag>c++</tag>
+        <tag>kde4</tag>
+        <tag>kde</tag>
+        <tag>client</tag>
+        <tag>web</tag>
+        <tag>qt</tag>
+      </tags>
+      <analysis>
+        <id>13708181</id>
+        <url>http://www.ohloh.net/analyses/13708181.xml</url>
+        <project_id>51096</project_id>
+        <updated_at>2013-04-25T18:30:38Z</updated_at>
+        <logged_at>2013-04-22T16:54:33Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>27690</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/choqok/analyses/13708181/languages.png">
+          <language color="F35F1F" percentage="75" id="44">
+C++          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

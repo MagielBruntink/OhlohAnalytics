@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9138</id>
+      <name>Apache Felix</name>
+      <url>http://www.ohloh.net/p/ApacheFelix.xml</url>
+      <html_url>http://www.ohloh.net/p/ApacheFelix</html_url>
+      <created_at>2007-10-14T15:25:25Z</created_at>
+      <updated_at>2013-04-23T07:58:20Z</updated_at>
+      <description>Apache Felix is a community effort to implement the OSGi R4 Service Platform and other interesting OSGi-related technologies under the Apache license. The OSGi specifications originally targeted embedded devices and home services gateways, but they are ideally suited for any project interested in the principles of modularity, component-orientation, and/or service-orientation. OSGi technology combines aspects of these aforementioned principles to define a dynamic service deployment framework that is amenable to remote management.</description>
+      <homepage_url>http://felix.apache.org</homepage_url>
+      <download_url>http://felix.apache.org/site/downloads.cgi</download_url>
+      <url_name>ApacheFelix</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5165/Felix64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5165/Felix64x64_small.png</small_logo_url>
+      <user_count>32</user_count>
+      <average_rating>4.9</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691710</analysis_id>
+      <tags>
+        <tag>osgi</tag>
+        <tag>java</tag>
+        <tag>platform</tag>
+        <tag>apache</tag>
+      </tags>
+      <analysis>
+        <id>13691710</id>
+        <url>http://www.ohloh.net/analyses/13691710.xml</url>
+        <project_id>9138</project_id>
+        <updated_at>2013-04-23T07:58:20Z</updated_at>
+        <logged_at>2013-04-23T07:41:01Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>690795</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ApacheFelix/analyses/13691710/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

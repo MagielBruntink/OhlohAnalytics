@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11736</id>
+      <name>xmobar</name>
+      <url>http://www.ohloh.net/p/xmobar.xml</url>
+      <html_url>http://www.ohloh.net/p/xmobar</html_url>
+      <created_at>2008-02-15T06:27:00Z</created_at>
+      <updated_at>2013-04-23T10:26:21Z</updated_at>
+      <description>Xmobar is a minimalistic text based status bar.  Inspired by the Ion3 status bar, it supports similar features, like dynamic color management, output templates, and extensibility through plugins.</description>
+      <homepage_url>http://projects.haskell.org/xmobar/</homepage_url>
+      <download_url>http://projects.haskell.org/xmobar/</download_url>
+      <url_name>xmobar</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>33</user_count>
+      <average_rating>4.5625</average_rating>
+      <rating_count>16</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691842</analysis_id>
+      <tags>
+        <tag>status</tag>
+        <tag>haskell</tag>
+        <tag>wm</tag>
+        <tag>programming</tag>
+        <tag>window_manager</tag>
+        <tag>xmonad</tag>
+      </tags>
+      <analysis>
+        <id>13691842</id>
+        <url>http://www.ohloh.net/analyses/13691842.xml</url>
+        <project_id>11736</project_id>
+        <updated_at>2013-04-23T10:26:21Z</updated_at>
+        <logged_at>2013-04-23T10:25:12Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>3693</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xmobar/analyses/13691842/languages.png">
+          <language color="007B7C" percentage="96" id="38">
+Haskell          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
