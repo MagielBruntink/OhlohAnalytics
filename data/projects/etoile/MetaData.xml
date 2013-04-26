@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4841</id>
+      <name>&#201;toil&#233;</name>
+      <url>http://www.ohloh.net/p/etoile.xml</url>
+      <html_url>http://www.ohloh.net/p/etoile</html_url>
+      <created_at>2007-04-09T10:04:03Z</created_at>
+      <updated_at>2013-04-24T16:13:21Z</updated_at>
+      <description>The Etoile project aims to produce a document-centric desktop and post-desktop environment. The project is built on top of GNUstep, a high-quality Free Software implementation of the OpenStep specification from Sun and NeXT and popularised by Apple as Cocoa.
+
+The basic unit within an Etoile system is the Object. These are arranged within Projects; an abstraction combining aspects of both folders and virtual desktops. Etoile uses highly modular and lightweight components in order to allow users to create their own workflow by reshaping or recombining provided activities, known as Services.</description>
+      <homepage_url>http://etoileos.com/</homepage_url>
+      <download_url>http://etoileos.com/downloads/etoile/</download_url>
+      <url_name>etoile</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1482/etoile_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1482/etoile_small.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13701833</analysis_id>
+      <tags>
+        <tag>bsd</tag>
+        <tag>etoile</tag>
+        <tag>desktop</tag>
+        <tag>linux</tag>
+        <tag>desktop_environment</tag>
+        <tag>gnustep</tag>
+        <tag>wm</tag>
+        <tag>openstep</tag>
+        <tag>interface</tag>
+        <tag>nextstep</tag>
+        <tag>gui</tag>
+        <tag>window_manager</tag>
+      </tags>
+      <analysis>
+        <id>13701833</id>
+        <url>http://www.ohloh.net/analyses/13701833.xml</url>
+        <project_id>4841</project_id>
+        <updated_at>2013-04-24T16:13:21Z</updated_at>
+        <logged_at>2013-04-24T16:04:56Z</logged_at>
+        <min_month>2004-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>490898</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/etoile/analyses/13701833/languages.png">
+          <language color="C7932C" percentage="36" id="16">
+Objective-C          </language>
+          <language color="FF8F00" percentage="31" id="42">
+C          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="23" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7272</id>
+      <name>smolt</name>
+      <url>http://www.ohloh.net/p/smolt.xml</url>
+      <html_url>http://www.ohloh.net/p/smolt</html_url>
+      <created_at>2007-08-07T23:40:45Z</created_at>
+      <updated_at>2013-04-26T09:49:33Z</updated_at>
+      <description>Smolt is developed to collect hardware profiles from end users in a opt-in method. It was originally written for Fedora and now also supports SuSE, Debian and Ubuntu. Support for Archlinux, Frugalware, Mythvantage, and Crux is in the support queue. It should be compatible with any system that uses HAL. Developers are encouraged to port it and make it available in other Linux distributions and operating systems.</description>
+      <homepage_url>https://fedorahosted.org/smolt/</homepage_url>
+      <download_url>https://fedorahosted.org/releases/s/m/smolt/</download_url>
+      <url_name>smolt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13712039</analysis_id>
+      <tags>
+        <tag>turbogears</tag>
+        <tag>client</tag>
+        <tag>server</tag>
+        <tag>stats</tag>
+        <tag>client-server</tag>
+        <tag>gentoo</tag>
+        <tag>fedora</tag>
+        <tag>clientserver</tag>
+        <tag>hardware</tag>
+        <tag>alchemy</tag>
+        <tag>statistics</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>13712039</id>
+        <url>http://www.ohloh.net/analyses/13712039.xml</url>
+        <project_id>7272</project_id>
+        <updated_at>2013-04-26T09:49:32Z</updated_at>
+        <logged_at>2013-04-26T09:43:25Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>35799</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/smolt/analyses/13712039/languages.png">
+          <language color="4A246B" percentage="58" id="9">
+Python          </language>
+          <language color="47A400" percentage="21" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="14" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

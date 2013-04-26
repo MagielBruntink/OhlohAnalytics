@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4331</id>
+      <name>mevenide2</name>
+      <url>http://www.ohloh.net/p/mevenide2.xml</url>
+      <html_url>http://www.ohloh.net/p/mevenide2</html_url>
+      <created_at>2007-02-06T20:33:35Z</created_at>
+      <updated_at>2013-04-02T02:25:04Z</updated_at>
+      <description>Maven 2 projects integration for Netbeans IDE. Allows to open any Maven2 project straight away and start coding. No project metadata synchronization.
+
+The downloadable version works in NetBeans 6.1. Alternatively, check the default NetBeans update center.
+
+Please note that NetBeans 6.5 Beta has a more uptodate version of Maven support on the update center and the Mevenide binaries shall not be used there.
+
+The sources of NetBeans Maven integration have been moved to hg.netbeans.org</description>
+      <homepage_url>http://mevenide.codehaus.org/m2-site</homepage_url>
+      <download_url>http://mevenide.codehaus.org/release/mevenide2-netbeans-3.1.4.zip</download_url>
+      <url_name>mevenide2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13270949</analysis_id>
+      <tags>
+        <tag>build_tools</tag>
+        <tag>netbeans</tag>
+        <tag>project_management</tag>
+        <tag>maven</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>13270949</id>
+        <url>http://www.ohloh.net/analyses/13270949.xml</url>
+        <project_id>4331</project_id>
+        <updated_at>2013-04-25T23:46:45Z</updated_at>
+        <logged_at>2013-04-25T23:46:40Z</logged_at>
+        <min_month>2004-08-01T00:00:00Z</min_month>
+        <max_month>2008-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>13428</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mevenide2/analyses/13270949/languages.png">
+          <language color="9A63AD" percentage="54" id="5">
+Java          </language>
+          <language color="556677" percentage="25" id="35">
+XML Schema          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

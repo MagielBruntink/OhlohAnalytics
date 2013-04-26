@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482978</id>
+      <name>Unity Shell (Ubuntu)</name>
+      <url>http://www.ohloh.net/p/ubuntu-unity.xml</url>
+      <html_url>http://www.ohloh.net/p/ubuntu-unity</html_url>
+      <created_at>2010-05-13T17:16:33Z</created_at>
+      <updated_at>2013-04-25T07:08:21Z</updated_at>
+      <description>Unity is a powerful desktop and netbook environment that brings consistency and elegance to the Ubuntu experience.</description>
+      <homepage_url>https://launchpad.net/unity</homepage_url>
+      <download_url></download_url>
+      <url_name>ubuntu-unity</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45187/unity-logo-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45187/unity-logo-64_small.png</small_logo_url>
+      <user_count>21</user_count>
+      <average_rating>3.8</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13702530</analysis_id>
+      <tags>
+        <tag>x11</tag>
+        <tag>launcher</tag>
+        <tag>dbus</tag>
+        <tag>c++0x</tag>
+        <tag>desktop_environment</tag>
+        <tag>window_manager</tag>
+        <tag>canonical</tag>
+        <tag>panel</tag>
+        <tag>netbook</tag>
+        <tag>ubuntu</tag>
+        <tag>dock</tag>
+        <tag>light</tag>
+        <tag>desktop</tag>
+        <tag>c++</tag>
+        <tag>c++11</tag>
+        <tag>cmake</tag>
+        <tag>shell</tag>
+        <tag>compiz</tag>
+      </tags>
+      <analysis>
+        <id>13702530</id>
+        <url>http://www.ohloh.net/analyses/13702530.xml</url>
+        <project_id>482978</project_id>
+        <updated_at>2013-04-24T20:53:38Z</updated_at>
+        <logged_at>2013-04-24T20:45:51Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>96</twelve_month_contributor_count>
+        <total_code_lines>158766</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ubuntu-unity/analyses/13702530/languages.png">
+          <language color="F35F1F" percentage="73" id="44">
+C++          </language>
+          <language color="EEE" percentage="9" id="95">
+QML          </language>
+          <language color="4A246B" percentage="7" id="9">
+Python          </language>
+          <language color="000000" percentage="11" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

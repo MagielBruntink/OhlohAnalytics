@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7894</id>
+      <name>Hibernate Search</name>
+      <url>http://www.ohloh.net/p/hibernate-search.xml</url>
+      <html_url>http://www.ohloh.net/p/hibernate-search</html_url>
+      <created_at>2007-08-23T02:56:28Z</created_at>
+      <updated_at>2013-04-23T19:19:52Z</updated_at>
+      <description>Hibernate Search brings the power of full text search engines to the persistence domain model and Hibernate experience, through transparent configuration via annotations and a common API.
+
+Full text search engines like Apache Lucene(tm) allow applications to execute free-text search queries. However, it becomes increasingly more difficult to index a more complex object domain model - keeping the index up to date, dealing with the mismatch between the index structure and the domain model, querying mismatches, and so on.
+
+Hibernate Search help to tackle these problems and provides additional features such an easy to use Query DSL, JPA integration, advanced filtering, scalable clustering and monitoring features.</description>
+      <homepage_url>http://search.hibernate.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=40712&amp;package_id=225205</download_url>
+      <url_name>hibernate-search</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27732/hibernate_icon-120_120px_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27732/hibernate_icon-120_120px_small.gif</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>4.2</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13688434</analysis_id>
+      <tags>
+        <tag>jpa</tag>
+        <tag>development</tag>
+        <tag>dynamic_content</tag>
+        <tag>information_retrieval</tag>
+        <tag>search_engine</tag>
+        <tag>database</tag>
+        <tag>persistence</tag>
+        <tag>lucene</tag>
+        <tag>java</tag>
+        <tag>orm</tag>
+        <tag>hibernate</tag>
+        <tag>indexing</tag>
+        <tag>fulltext-search</tag>
+      </tags>
+      <analysis>
+        <id>13688434</id>
+        <url>http://www.ohloh.net/analyses/13688434.xml</url>
+        <project_id>7894</project_id>
+        <updated_at>2013-04-23T03:16:16Z</updated_at>
+        <logged_at>2013-04-23T02:21:10Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>143968</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hibernate-search/analyses/13688434/languages.png">
+          <language color="9A63AD" percentage="86" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

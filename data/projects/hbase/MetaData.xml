@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15957</id>
+      <name>HBase</name>
+      <url>http://www.ohloh.net/p/hbase.xml</url>
+      <html_url>http://www.ohloh.net/p/hbase</html_url>
+      <created_at>2008-08-08T03:41:29Z</created_at>
+      <updated_at>2013-04-23T07:09:35Z</updated_at>
+      <description>HBase is the Hadoop database. Its an open-source, distributed, column-oriented store modeled after the Google paper, Bigtable: A Distributed Storeage System for Structured Data by Chang et al. Just as Bigtable leverages the distributed data storage provided by the Google File System, HBase provides Bigtable-like capabilities on top of Hadoop.
+
+HBase's goal is the hosting of very large tables -- billions of rows X millions of columns -- atop clusters of commodity hardward. Try it if your plans for a data store run to big.</description>
+      <homepage_url>http://hbase.apache.org/</homepage_url>
+      <download_url>http://www.apache.org/dyn/closer.cgi/hbase/</download_url>
+      <url_name>hbase</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46411/HBase_Logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46411/HBase_Logo_small.png</small_logo_url>
+      <user_count>19</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691474</analysis_id>
+      <tags>
+        <tag>bigtable</tag>
+        <tag>database</tag>
+        <tag>hadoop</tag>
+        <tag>hbase</tag>
+        <tag>columnstore</tag>
+      </tags>
+      <analysis>
+        <id>13691474</id>
+        <url>http://www.ohloh.net/analyses/13691474.xml</url>
+        <project_id>15957</project_id>
+        <updated_at>2013-04-23T07:09:34Z</updated_at>
+        <logged_at>2013-04-23T07:07:14Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>26</twelve_month_contributor_count>
+        <total_code_lines>604116</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hbase/analyses/13691474/languages.png">
+          <language color="9A63AD" percentage="84" id="5">
+Java          </language>
+          <language color="000000" percentage="16" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

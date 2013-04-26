@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>383</id>
+      <name>The Spirit Parser Library</name>
+      <url>http://www.ohloh.net/p/spirit.xml</url>
+      <html_url>http://www.ohloh.net/p/spirit</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-03-24T18:59:39Z</updated_at>
+      <description>Spirit is an object-oriented, recursive descent parser generator framework implemented using template meta-programming techniques. Expression templates allow Spirit to approximate the syntax of Extended Backus Normal Form (EBNF) completely in C++. The Spirit framework enables a target grammar to be written exclusively in C++. EBNF grammar specifications can mix freely with other C++ code and, thanks to the generative power of C++ templates, are immediately executable.</description>
+      <homepage_url>http://spirit.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=28447</download_url>
+      <url_name>spirit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13215752</analysis_id>
+      <tags>
+        <tag>parser</tag>
+        <tag>bnf</tag>
+        <tag>spirit</tag>
+        <tag>templates</tag>
+        <tag>metaprogramming</tag>
+        <tag>framework</tag>
+        <tag>boost</tag>
+        <tag>grammar</tag>
+        <tag>ebnf</tag>
+        <tag>compiler</tag>
+        <tag>c++</tag>
+        <tag>programming</tag>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>parsing</tag>
+        <tag>language</tag>
+      </tags>
+      <analysis>
+        <id>13215752</id>
+        <url>http://www.ohloh.net/analyses/13215752.xml</url>
+        <project_id>383</project_id>
+        <updated_at>2013-04-24T07:56:48Z</updated_at>
+        <logged_at>2013-04-24T07:48:22Z</logged_at>
+        <min_month>2001-07-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>234630</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/spirit/analyses/13215752/languages.png">
+          <language color="F35F1F" percentage="90" id="44">
+C++          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Boost_Software_License</name>
+          <nice_name>Boost Software License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

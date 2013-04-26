@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9605</id>
+      <name>Sugar</name>
+      <url>http://www.ohloh.net/p/sugar.xml</url>
+      <html_url>http://www.ohloh.net/p/sugar</html_url>
+      <created_at>2007-11-09T13:09:19Z</created_at>
+      <updated_at>2013-04-25T20:48:32Z</updated_at>
+      <description>Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface.</description>
+      <homepage_url>http://sugarlabs.org</homepage_url>
+      <download_url>http://sugarlabs.org/go/Supported_systems</download_url>
+      <url_name>sugar</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12608/Logo_square_white_8_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12608/Logo_square_white_8_small.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13689603</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>sugar</tag>
+        <tag>xo</tag>
+        <tag>olpc</tag>
+        <tag>pygtk</tag>
+        <tag>education</tag>
+        <tag>constructionism</tag>
+        <tag>mitmedialabs</tag>
+        <tag>fedora</tag>
+      </tags>
+      <analysis>
+        <id>13689603</id>
+        <url>http://www.ohloh.net/analyses/13689603.xml</url>
+        <project_id>9605</project_id>
+        <updated_at>2013-04-23T05:34:01Z</updated_at>
+        <logged_at>2013-04-23T05:29:56Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>82892</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sugar/analyses/13689603/languages.png">
+          <language color="4A246B" percentage="67" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="27" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

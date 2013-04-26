@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4171</id>
+      <name>Tigase Jabber/XMPP Server</name>
+      <url>http://www.ohloh.net/p/tigasexmpp.xml</url>
+      <html_url>http://www.ohloh.net/p/tigasexmpp</html_url>
+      <created_at>2007-01-27T21:16:21Z</created_at>
+      <updated_at>2013-04-25T17:49:53Z</updated_at>
+      <description>Tigase Jabber/XMPP Server is Open Source and Free (AGPLv3) Java server using all available features in last JDKs. It uses NIO for network communication, selectors, concurrent JDK framework, security library and so on. All these functionalities are available directly from JDK so the need for external libraries is limited to minimum. Actually it doesn't use any external library at run-time. A few third-party libraries are used for development such as JUnit, Forrest, UnitTestsGen and ANT</description>
+      <homepage_url>http://www.tigase.org/</homepage_url>
+      <download_url>http://www.tigase.org/filebrowser/tigase-server</download_url>
+      <url_name>tigasexmpp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1807/tiger_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1807/tiger_small.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13693921</analysis_id>
+      <tags>
+        <tag>clustering</tag>
+        <tag>jabber</tag>
+        <tag>instant_messaging</tag>
+        <tag>chat</tag>
+        <tag>xmpp</tag>
+        <tag>testing</tag>
+        <tag>server</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>13693921</id>
+        <url>http://www.ohloh.net/analyses/13693921.xml</url>
+        <project_id>4171</project_id>
+        <updated_at>2013-04-23T15:28:53Z</updated_at>
+        <logged_at>2013-04-23T15:22:57Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>87837</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tigasexmpp/analyses/13693921/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="000000" percentage="12" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3_or_later</name>
+          <nice_name>GNU Affero General Public License 3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

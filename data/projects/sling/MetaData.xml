@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9137</id>
+      <name>Apache Sling</name>
+      <url>http://www.ohloh.net/p/sling.xml</url>
+      <html_url>http://www.ohloh.net/p/sling</html_url>
+      <created_at>2007-10-14T15:11:25Z</created_at>
+      <updated_at>2013-04-22T11:40:42Z</updated_at>
+      <description>Apache Sling is a Web application framework based on REST principles that provides easy development of content-oriented applications. Sling uses a JCR repository, such as Apache Jackrabbit, as its data store.
+
+Sling graduated from the Apache Incubator on June 17th, 2009, and is now an Apache top-level project.
+
+All of Sling's code is under the Apache License 2.0 (quite obvious for an Apache project, but there was some confusion about this at some point).</description>
+      <homepage_url>http://sling.apache.org</homepage_url>
+      <download_url>http://sling.apache.org/site/downloads.cgi</download_url>
+      <url_name>sling</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8717/sling_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8717/sling_small.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.3</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13681330</analysis_id>
+      <tags>
+        <tag>jackrabbit</tag>
+        <tag>equinox</tag>
+        <tag>jsr-170</tag>
+        <tag>framework</tag>
+        <tag>esp</tag>
+        <tag>javascript</tag>
+        <tag>jsp</tag>
+        <tag>jcr</tag>
+        <tag>apache</tag>
+        <tag>incubator</tag>
+        <tag>dynamic_content</tag>
+        <tag>content</tag>
+        <tag>restful</tag>
+        <tag>ajax</tag>
+        <tag>rest</tag>
+        <tag>scalable</tag>
+        <tag>servlet</tag>
+        <tag>content_management</tag>
+        <tag>java_content_repository</tag>
+        <tag>content_centric_architecture</tag>
+        <tag>rhino</tag>
+        <tag>felix</tag>
+        <tag>java</tag>
+        <tag>json</tag>
+        <tag>osgi</tag>
+      </tags>
+      <analysis>
+        <id>13681330</id>
+        <url>http://www.ohloh.net/analyses/13681330.xml</url>
+        <project_id>9137</project_id>
+        <updated_at>2013-04-22T11:40:42Z</updated_at>
+        <logged_at>2013-04-22T11:12:17Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>224416</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sling/analyses/13681330/languages.png">
+          <language color="9A63AD" percentage="82" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
