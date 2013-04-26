@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>137005</id>
+      <name>PNP 4 Nagios</name>
+      <url>http://www.ohloh.net/p/pnp4nagios.xml</url>
+      <html_url>http://www.ohloh.net/p/pnp4nagios</html_url>
+      <created_at>2009-01-09T07:11:29Z</created_at>
+      <updated_at>2013-04-03T13:39:18Z</updated_at>
+      <description>PNP4Nagios is an addon to nagios which analyzes performance data provided by plugins and stores them automatically into RRD-databases (Round Robin Databases, see RRDTool).
+
+During development of PNP we set value on easy installation and little maintenance while running it. An administrator should do other things than configure graphing tools.
+
+To achieve this task we focused on using standards. PNP only processes performance data built according to the Developer Guidelines for nagios plugins. With this limitation we want to honour the work of Nagios Plugin Developers who stick to the guidelines.</description>
+      <homepage_url>http://docs.pnp4nagios.org</homepage_url>
+      <download_url>http://docs.pnp4nagios.org/pnp-0.6/dwnld</download_url>
+      <url_name>pnp4nagios</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13286829</analysis_id>
+      <tags>
+        <tag>rrdtool</tag>
+        <tag>network_monitoring</tag>
+        <tag>statistics</tag>
+        <tag>nagios</tag>
+        <tag>graphing</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>13286829</id>
+        <url>http://www.ohloh.net/analyses/13286829.xml</url>
+        <project_id>137005</project_id>
+        <updated_at>2013-04-23T19:12:53Z</updated_at>
+        <logged_at>2013-04-23T19:12:46Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>59317</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pnp4nagios/analyses/13286829/languages.png">
+          <language color="356AA0" percentage="43" id="2">
+PHP          </language>
+          <language color="47A400" percentage="22" id="1">
+HTML          </language>
+          <language color="EEE" percentage="11" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="24" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

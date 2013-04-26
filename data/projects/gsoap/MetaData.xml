@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3629</id>
+      <name>gSOAP</name>
+      <url>http://www.ohloh.net/p/gsoap.xml</url>
+      <html_url>http://www.ohloh.net/p/gsoap</html_url>
+      <created_at>2006-11-17T20:12:46Z</created_at>
+      <updated_at>2013-04-11T21:24:19Z</updated_at>
+      <description>The gSOAP toolkit is a cross-platform development toolkit for C and C++ XML Web services (SOAP1.1/1.2; WSDL1.1/2.0) and general XML data bindings. The toolkit offers a seamless XML databinding for C and C++. Auto-serializes C/C++ data in XML. Includes SOAP/XML engine, Web server, stub/skeleton and serialization code generator, WSDL/XSD tools, XML-RPC, JSON, UDDI, and more.
+
+The software is available in source code form under GPLv2 or a commercial-use license for non-GPL use, offered by Genivia (http://www.genivia.com).
+
+For more information about the gSOAP project, visit:
+
+http://gsoap2.sourceforge.net</description>
+      <homepage_url>http://gsoap2.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/projects/gsoap2/files/latest/download</download_url>
+      <url_name>gsoap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50417/gsoapicon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50417/gsoapicon_small.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.2</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13392213</analysis_id>
+      <tags>
+        <tag>ws-addressing</tag>
+        <tag>ws-securitypolicy</tag>
+        <tag>ws-policy</tag>
+        <tag>soa</tag>
+        <tag>soap11</tag>
+        <tag>databinding</tag>
+        <tag>wsdl</tag>
+        <tag>c++</tag>
+        <tag>c</tag>
+        <tag>web_services</tag>
+        <tag>soap</tag>
+        <tag>xml</tag>
+        <tag>interoperability</tag>
+        <tag>serialization</tag>
+        <tag>soap12</tag>
+        <tag>ws-security</tag>
+        <tag>ws-reliablemessaging</tag>
+        <tag>ws-discovery</tag>
+        <tag>ws-trust</tag>
+        <tag>webserver</tag>
+      </tags>
+      <analysis>
+        <id>13392213</id>
+        <url>http://www.ohloh.net/analyses/13392213.xml</url>
+        <project_id>3629</project_id>
+        <updated_at>2013-04-24T07:13:13Z</updated_at>
+        <logged_at>2013-04-24T07:13:00Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>629572</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gsoap/analyses/13392213/languages.png">
+          <language color="F35F1F" percentage="39" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="23" id="42">
+C          </language>
+          <language color="47A400" percentage="18" id="1">
+HTML          </language>
+          <language color="000000" percentage="20" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Commercial</name>
+          <nice_name>Commercial license available</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

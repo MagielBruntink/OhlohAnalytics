@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>378</id>
+      <name>bogofilter -- Fast Bayesian Spam Filter</name>
+      <url>http://www.ohloh.net/p/bogofilter.xml</url>
+      <html_url>http://www.ohloh.net/p/bogofilter</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T00:16:43Z</updated_at>
+      <description>Bogofilter is a Bayesian spam filter. In its normal mode of operation, it takes an email message or other text on standard input, does a statistical check against lists of &quot;good&quot; and &quot;bad&quot; words, and returns a status code indicating whether or not the message is spam. Bogofilter is designed with fast algorithms (including Berkeley DB system), coded directly in C, and tuned for speed, so it can be used for production by sites that process a lot of mail.</description>
+      <homepage_url>http://bogofilter.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>bogofilter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5852/bogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5852/bogo_small.png</small_logo_url>
+      <user_count>16</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13675004</analysis_id>
+      <tags>
+        <tag>antispam</tag>
+        <tag>bayesian</tag>
+        <tag>server</tag>
+        <tag>linux</tag>
+        <tag>spam</tag>
+        <tag>email</tag>
+        <tag>c</tag>
+        <tag>filter</tag>
+        <tag>c++</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>13675004</id>
+        <url>http://www.ohloh.net/analyses/13675004.xml</url>
+        <project_id>378</project_id>
+        <updated_at>2013-04-25T11:09:09Z</updated_at>
+        <logged_at>2013-04-25T11:09:05Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>49243</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bogofilter/analyses/13675004/languages.png">
+          <language color="FF8F00" percentage="70" id="42">
+C          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="777777" percentage="8" id="11">
+shell script          </language>
+          <language color="000000" percentage="14" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

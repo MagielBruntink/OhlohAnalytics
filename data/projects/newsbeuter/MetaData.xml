@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7832</id>
+      <name>newsbeuter</name>
+      <url>http://www.ohloh.net/p/newsbeuter.xml</url>
+      <html_url>http://www.ohloh.net/p/newsbeuter</html_url>
+      <created_at>2007-08-20T13:43:18Z</created_at>
+      <updated_at>2013-04-23T19:32:44Z</updated_at>
+      <description>newsbeuter is a text-based Atom and RSS feed reader.</description>
+      <homepage_url>http://www.newsbeuter.org/</homepage_url>
+      <download_url>http://www.newsbeuter.org/download.html</download_url>
+      <url_name>newsbeuter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13695585</analysis_id>
+      <tags>
+        <tag>atom</tag>
+        <tag>podcast</tag>
+        <tag>sqlite</tag>
+        <tag>stfl</tag>
+        <tag>feedreader</tag>
+        <tag>http</tag>
+        <tag>ncurses</tag>
+        <tag>c++</tag>
+        <tag>aggregator</tag>
+        <tag>rss</tag>
+        <tag>opml</tag>
+      </tags>
+      <analysis>
+        <id>13695585</id>
+        <url>http://www.ohloh.net/analyses/13695585.xml</url>
+        <project_id>7832</project_id>
+        <updated_at>2013-04-23T19:32:44Z</updated_at>
+        <logged_at>2013-04-23T19:32:08Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>20339</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/newsbeuter/analyses/13695585/languages.png">
+          <language color="F35F1F" percentage="87" id="44">
+C++          </language>
+          <language color="A40011" percentage="9" id="12">
+Ruby          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

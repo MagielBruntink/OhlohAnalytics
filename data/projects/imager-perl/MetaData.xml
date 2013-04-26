@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5723</id>
+      <name>Imager (perl)</name>
+      <url>http://www.ohloh.net/p/imager-perl.xml</url>
+      <html_url>http://www.ohloh.net/p/imager-perl</html_url>
+      <created_at>2007-05-31T23:55:56Z</created_at>
+      <updated_at>2013-04-26T05:28:16Z</updated_at>
+      <description>Imager is a toolkit for manipulating images from perl.</description>
+      <homepage_url>http://imager.perl.org/</homepage_url>
+      <download_url>http://www.cpan.org/modules/by-module/Imager/</download_url>
+      <url_name>imager-perl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13710658</analysis_id>
+      <tags>
+        <tag>tiff</tag>
+        <tag>graphics</tag>
+        <tag>jpeg</tag>
+        <tag>image_processing</tag>
+        <tag>png</tag>
+        <tag>ico</tag>
+        <tag>perl</tag>
+        <tag>gif</tag>
+        <tag>image</tag>
+        <tag>sgi_rgb</tag>
+        <tag>image_transformation</tag>
+        <tag>wbmp</tag>
+        <tag>rotation</tag>
+      </tags>
+      <analysis>
+        <id>13710658</id>
+        <url>http://www.ohloh.net/analyses/13710658.xml</url>
+        <project_id>5723</project_id>
+        <updated_at>2013-04-26T05:28:15Z</updated_at>
+        <logged_at>2013-04-26T05:27:15Z</logged_at>
+        <min_month>2001-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>68527</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/imager-perl/analyses/13710658/languages.png">
+          <language color="D2C690" percentage="50" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="47" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

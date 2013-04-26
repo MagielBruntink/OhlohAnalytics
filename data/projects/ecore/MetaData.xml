@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8497</id>
+      <name>Ecore</name>
+      <url>http://www.ohloh.net/p/ecore.xml</url>
+      <html_url>http://www.ohloh.net/p/ecore</html_url>
+      <created_at>2007-09-15T07:14:09Z</created_at>
+      <updated_at>2012-11-30T08:15:15Z</updated_at>
+      <description>A core event, loop, abstraction, IPC, Data structure etc. library used to share out commonly useful routines that lots of applications need/use.</description>
+      <homepage_url>http://www.enlightenment.org</homepage_url>
+      <download_url>http://www.enlightenment.org</download_url>
+      <url_name>ecore</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11471712</analysis_id>
+      <tags>
+        <tag>fb</tag>
+        <tag>xcb</tag>
+        <tag>development</tag>
+        <tag>x11</tag>
+        <tag>data</tag>
+        <tag>directfb</tag>
+        <tag>types</tag>
+        <tag>evas</tag>
+        <tag>xlib</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>11471712</id>
+        <url>http://www.ohloh.net/analyses/11471712.xml</url>
+        <project_id>8497</project_id>
+        <updated_at>2012-11-30T08:15:15Z</updated_at>
+        <logged_at>2012-11-30T08:13:57Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>31</twelve_month_contributor_count>
+        <total_code_lines>131675</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ecore/analyses/11471712/languages.png">
+          <language color="FF8F00" percentage="93" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

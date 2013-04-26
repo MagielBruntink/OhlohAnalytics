@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10078</id>
+      <name>Flot</name>
+      <url>http://www.ohloh.net/p/flot.xml</url>
+      <html_url>http://www.ohloh.net/p/flot</html_url>
+      <created_at>2007-12-06T01:22:34Z</created_at>
+      <updated_at>2013-04-24T20:55:17Z</updated_at>
+      <description>Flot is a pure Javascript plotting library for jQuery. It produces graphical plots of arbitrary datasets on-the-fly client-side.
+
+
+The focus is on simple usage (all settings are optional), attractive looks and interactive features like zooming.
+
+
+Although Flot is easy to use, it is also advanced enough to be suitable for Web 2.0 data mining/business intelligence purposes which is its original application.
+
+
+The plugin is targeting all newer browsers. If you find a problem, please report it. Drawing is done with the  tag introduced by Safari and now available on all major browsers, except Internet Explorer where the excanvas Javascript emulation helper is used.</description>
+      <homepage_url>http://code.google.com/p/flot/</homepage_url>
+      <download_url>http://code.google.com/p/flot/</download_url>
+      <url_name>flot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.85714</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13702554</analysis_id>
+      <tags>
+        <tag>plotting</tag>
+        <tag>chart</tag>
+        <tag>jquery</tag>
+        <tag>javascript</tag>
+      </tags>
+      <analysis>
+        <id>13702554</id>
+        <url>http://www.ohloh.net/analyses/13702554.xml</url>
+        <project_id>10078</project_id>
+        <updated_at>2013-04-24T20:55:17Z</updated_at>
+        <logged_at>2013-04-24T20:53:11Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>33</twelve_month_contributor_count>
+        <total_code_lines>28520</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flot/analyses/13702554/languages.png">
+          <language color="A4007E" percentage="92" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

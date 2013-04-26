@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7107</id>
+      <name>Perlbal</name>
+      <url>http://www.ohloh.net/p/perlbal.xml</url>
+      <html_url>http://www.ohloh.net/p/perlbal</html_url>
+      <created_at>2007-08-03T17:34:34Z</created_at>
+      <updated_at>2013-04-19T16:02:30Z</updated_at>
+      <description>Reverse proxy load balancer and web server, extensible (plugins!), and full of fun tricks like internal (user-transparent) redirects.  Can have its config changed on the fly without restarts, and supports a lot of management port commands for observability.</description>
+      <homepage_url>http://danga.com/perlbal/</homepage_url>
+      <download_url>http://search.cpan.org/dist/Perlbal/</download_url>
+      <url_name>perlbal</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>13633100</analysis_id>
+      <tags>
+        <tag>reverseproxy</tag>
+        <tag>perl</tag>
+        <tag>extensible</tag>
+        <tag>http</tag>
+        <tag>server</tag>
+        <tag>proxy</tag>
+        <tag>web_server</tag>
+        <tag>loadbalancing</tag>
+        <tag>web</tag>
+        <tag>highavailability</tag>
+      </tags>
+      <analysis>
+        <id>13633100</id>
+        <url>http://www.ohloh.net/analyses/13633100.xml</url>
+        <project_id>7107</project_id>
+        <updated_at>2013-04-22T16:48:34Z</updated_at>
+        <logged_at>2013-04-22T16:48:32Z</logged_at>
+        <min_month>2004-05-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>11706</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/perlbal/analyses/13633100/languages.png">
+          <language color="D2C690" percentage="99" id="8">
+Perl          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

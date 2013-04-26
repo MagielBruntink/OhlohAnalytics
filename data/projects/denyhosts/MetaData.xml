@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10335</id>
+      <name>DenyHosts</name>
+      <url>http://www.ohloh.net/p/denyhosts.xml</url>
+      <html_url>http://www.ohloh.net/p/denyhosts</html_url>
+      <created_at>2007-12-16T22:24:08Z</created_at>
+      <updated_at>2013-04-15T04:29:47Z</updated_at>
+      <description>DenyHosts is a script intended to be run by Linux system administrators to help thwart SSH server attacks (also known as dictionary based attacks and brute force attacks).
+
+If you've ever looked at your ssh log (/var/log/secure on Redhat, /var/log/auth.log on Mandrake, etc...) you may be alarmed to see how many hackers attempted to gain access to your server. Hopefully, none of them were successful (but then again, how would you know?). Wouldn't it be better to automatically prevent that attacker from continuing to gain entry into your system?
+
+DenyHosts attempts to address the above... and more.</description>
+      <homepage_url>http://denyhosts.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=131204</download_url>
+      <url_name>denyhosts</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13477386</analysis_id>
+      <tags>
+        <tag>service</tag>
+        <tag>iptables</tag>
+        <tag>security</tag>
+        <tag>ssh</tag>
+        <tag>banned_ip</tag>
+        <tag>tcp_wrappers</tag>
+        <tag>networking</tag>
+        <tag>log_analysis</tag>
+        <tag>python</tag>
+        <tag>sysadmin</tag>
+        <tag>netfilter</tag>
+        <tag>blacklist</tag>
+      </tags>
+      <analysis>
+        <id>13477386</id>
+        <url>http://www.ohloh.net/analyses/13477386.xml</url>
+        <project_id>10335</project_id>
+        <updated_at>2013-04-24T20:00:08Z</updated_at>
+        <logged_at>2013-04-24T20:00:04Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2089</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/denyhosts/analyses/13477386/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

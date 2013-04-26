@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5122</id>
+      <name>WSO2 WSF/PHP</name>
+      <url>http://www.ohloh.net/p/wsf_php.xml</url>
+      <html_url>http://www.ohloh.net/p/wsf_php</html_url>
+      <created_at>2007-05-07T10:24:31Z</created_at>
+      <updated_at>2012-10-20T17:43:56Z</updated_at>
+      <description>WSF/PHP is an extension for PHP that supports SOAP 1.1, SOAP 1.2, and other advanced Web Services standards such as WS-Addressing, WS-RM, WS-Security, MTOM, easily in PHP.
+
+WSO2 Web Services Framework/PHP (WSO2 WSF/PHP), is a PHP extension based on Apache Axis2/C and WSO2 WSF/C for providing and consuming Web Services in PHP.
+
+WSO2 WSF/PHP supports both SOAP 1.2 and SOAP 1.1, WSDL 1.1 and WSDL 2.0 in WSDL mode and WSDL generation, WS-Security (UsernameToken, signing and encryption), binary attachments with SOAP MTOM, WS-Addressing and WS-ReliableMessaging. It also has the provision for REST style invocations</description>
+      <homepage_url>http://wso2.org/projects/wsf/php</homepage_url>
+      <download_url>http://wso2.org/downloads/wsf/php</download_url>
+      <url_name>wsf_php</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>19</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1869912</analysis_id>
+      <tags>
+        <tag>soa</tag>
+        <tag>ws-addressing</tag>
+        <tag>wsdl20</tag>
+        <tag>php</tag>
+        <tag>ws-security</tag>
+        <tag>mtom</tag>
+        <tag>axis2</tag>
+        <tag>wsdl</tag>
+        <tag>xsd</tag>
+        <tag>apache</tag>
+        <tag>soap</tag>
+        <tag>wsdl11</tag>
+        <tag>wssec</tag>
+        <tag>web_services</tag>
+        <tag>ws-reliablemessaging</tag>
+        <tag>soap12</tag>
+        <tag>webservices</tag>
+        <tag>framework</tag>
+        <tag>wso2</tag>
+        <tag>ws-policy</tag>
+        <tag>middleware</tag>
+        <tag>wsrm</tag>
+        <tag>soap11</tag>
+      </tags>
+      <analysis>
+        <id>1869912</id>
+        <url>http://www.ohloh.net/analyses/1869912.xml</url>
+        <project_id>5122</project_id>
+        <updated_at>2011-04-23T06:10:04Z</updated_at>
+        <logged_at>2011-04-23T06:09:58Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>58405</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wsf_php/analyses/1869912/languages.png">
+          <language color="356AA0" percentage="28" id="2">
+PHP          </language>
+          <language color="47A400" percentage="20" id="1">
+HTML          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="000000" percentage="34" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

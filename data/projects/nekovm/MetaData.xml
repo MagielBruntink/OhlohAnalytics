@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8644</id>
+      <name>Neko</name>
+      <url>http://www.ohloh.net/p/nekovm.xml</url>
+      <html_url>http://www.ohloh.net/p/nekovm</html_url>
+      <created_at>2007-09-21T10:36:58Z</created_at>
+      <updated_at>2013-03-31T19:22:21Z</updated_at>
+      <description>Neko is a high-level dynamically typed programming language which can also be used as an embedded scripting language. It has been designed to provide a common runtime for several different languages. Neko is not only very easy to learn and use, but also has the flexibility of being able to extend the language with C libraries.
+
+Neko has a compiler and virtual machine. The Virtual Machine is both very lightweight and extremely well optimised so that it can run very quickly. The VM can be easily embedded into any application and your libraries are directly accessable using the C foreign function interface.</description>
+      <homepage_url>http://nekovm.org/</homepage_url>
+      <download_url>http://nekovm.org/download</download_url>
+      <url_name>nekovm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8563/neko_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8563/neko_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>4.9</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1781511</analysis_id>
+      <tags>
+        <tag>neko</tag>
+        <tag>embedded</tag>
+        <tag>haxe</tag>
+        <tag>programming_language</tag>
+        <tag>dynamic</tag>
+        <tag>scripting</tag>
+        <tag>virtual_machines</tag>
+        <tag>vm</tag>
+      </tags>
+      <analysis>
+        <id>1781511</id>
+        <url>http://www.ohloh.net/analyses/1781511.xml</url>
+        <project_id>8644</project_id>
+        <updated_at>2011-03-23T14:31:50Z</updated_at>
+        <logged_at>2011-03-23T14:31:45Z</logged_at>
+        <min_month>2005-01-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>57018</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nekovm/analyses/1781511/languages.png">
+          <language color="FF8F00" percentage="75" id="42">
+C          </language>
+          <language color="EEE" percentage="8" id="61">
+Objective Caml          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

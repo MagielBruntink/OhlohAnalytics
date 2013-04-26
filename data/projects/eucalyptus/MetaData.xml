@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15964</id>
+      <name>Eucalyptus</name>
+      <url>http://www.ohloh.net/p/eucalyptus.xml</url>
+      <html_url>http://www.ohloh.net/p/eucalyptus</html_url>
+      <created_at>2008-08-08T15:20:45Z</created_at>
+      <updated_at>2013-04-22T19:29:22Z</updated_at>
+      <description>EUCALYPTUS - Elastic Utility Computing Architecture for Linking Your Programs To Useful Systems - is an open-source software infrastructure for implementing &quot;cloud computing&quot; on clusters. The current interface to EUCALYPTUS is compatible with Amazon's EC2 interface, but the infrastructure is designed to support multiple client-side interfaces. EUCALYPTUS is implemented using commonly available Linux tools and basic Web-service technologies making it easy to install and maintain.</description>
+      <homepage_url>http://www.eucalyptus.com</homepage_url>
+      <download_url>http://www.eucalyptus.com/downloads</download_url>
+      <url_name>eucalyptus</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49804/Untitled-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49804/Untitled-64x64_small.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13685155</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>ec2</tag>
+        <tag>aws</tag>
+        <tag>cloud</tag>
+        <tag>management</tag>
+        <tag>cloud_computing</tag>
+        <tag>s3</tag>
+      </tags>
+      <analysis>
+        <id>13685155</id>
+        <url>http://www.ohloh.net/analyses/13685155.xml</url>
+        <project_id>15964</project_id>
+        <updated_at>2013-04-22T19:29:22Z</updated_at>
+        <logged_at>2013-04-22T19:21:09Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>50</twelve_month_contributor_count>
+        <total_code_lines>1340429</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eucalyptus/analyses/13685155/languages.png">
+          <language color="9A63AD" percentage="46" id="5">
+Java          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="FF8F00" percentage="12" id="42">
+C          </language>
+          <language color="000000" percentage="25" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

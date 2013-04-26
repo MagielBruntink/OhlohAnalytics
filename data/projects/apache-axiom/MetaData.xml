@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6368</id>
+      <name>Apache Axiom</name>
+      <url>http://www.ohloh.net/p/apache-axiom.xml</url>
+      <html_url>http://www.ohloh.net/p/apache-axiom</html_url>
+      <created_at>2007-07-02T07:02:49Z</created_at>
+      <updated_at>2013-04-25T13:35:50Z</updated_at>
+      <description>AXIOM stands for AXis Object Model (also known as OM - Object Model) and refers to the XML infoset model that was initially developed for Apache Axis2. XML infoset refers to the information included inside the XML and for programmatical manipulation it is convenient to have a representation of this XML infoset in a language specific manner. For an object oriented language the obvious choice is a model made up of objects. DOM and JDOM are two such XML models. OM is conceptually similar to such an XML model by its external behavior but deep down it is very much different.</description>
+      <homepage_url>http://ws.apache.org/commons/axiom/index.html</homepage_url>
+      <download_url>http://ws.apache.org/commons/axiom/download.cgi</download_url>
+      <url_name>apache-axiom</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34057/axiom-ohloh-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34057/axiom-ohloh-logo_small.png</small_logo_url>
+      <user_count>16</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13706715</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>java</tag>
+        <tag>stax</tag>
+        <tag>soap</tag>
+        <tag>mtom</tag>
+        <tag>apache</tag>
+        <tag>soap11</tag>
+        <tag>dom</tag>
+        <tag>soap12</tag>
+      </tags>
+      <analysis>
+        <id>13706715</id>
+        <url>http://www.ohloh.net/analyses/13706715.xml</url>
+        <project_id>6368</project_id>
+        <updated_at>2013-04-25T13:35:50Z</updated_at>
+        <logged_at>2013-04-25T13:34:56Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>89301</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/apache-axiom/analyses/13706715/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

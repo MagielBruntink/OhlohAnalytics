@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4697</id>
+      <name>Apache Forrest</name>
+      <url>http://www.ohloh.net/p/forrest.xml</url>
+      <html_url>http://www.ohloh.net/p/forrest</html_url>
+      <created_at>2007-03-14T14:40:19Z</created_at>
+      <updated_at>2013-04-25T21:02:57Z</updated_at>
+      <description>Apache Forrest is a publishing framework that transforms input from various sources into a unified presentation in one or more output formats. The modular and extensible plugin architecture is based on Apache Cocoon and relevant standards, which separates presentation from content. Forrest can generate static documents, or be used as a dynamic server, or be deployed by its automated facility.</description>
+      <homepage_url>http://forrest.apache.org</homepage_url>
+      <download_url>http://forrest.apache.org/mirrors.cgi</download_url>
+      <url_name>forrest</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13708557</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>publishing</tag>
+        <tag>pdf</tag>
+        <tag>html</tag>
+        <tag>xhtml</tag>
+        <tag>apache</tag>
+        <tag>content</tag>
+        <tag>xml</tag>
+        <tag>management</tag>
+        <tag>xslt</tag>
+        <tag>integration</tag>
+        <tag>doap</tag>
+      </tags>
+      <analysis>
+        <id>13708557</id>
+        <url>http://www.ohloh.net/analyses/13708557.xml</url>
+        <project_id>4697</project_id>
+        <updated_at>2013-04-25T21:02:57Z</updated_at>
+        <logged_at>2013-04-25T21:02:11Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>234506</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/forrest/analyses/13708557/languages.png">
+          <language color="555555" percentage="59" id="3">
+XML          </language>
+          <language color="556655" percentage="16" id="36">
+XSL Transformation          </language>
+          <language color="EEE" percentage="9" id="81">
+Modula-2          </language>
+          <language color="000000" percentage="16" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

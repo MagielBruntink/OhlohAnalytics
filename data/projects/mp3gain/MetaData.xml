@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>386</id>
+      <name>MP3Gain</name>
+      <url>http://www.ohloh.net/p/mp3gain.xml</url>
+      <html_url>http://www.ohloh.net/p/mp3gain</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-25T14:02:11Z</updated_at>
+      <description>MP3Gain analyzes and adjusts mp3 files so that they have the same volume. It does not just do peak normalization, as many normalizers do. Instead, it does some statistical analysis to determine how loud the file actually sounds to the human ear. Also, the changes MP3Gain makes are completely lossless. There is no quality lost in the change because the program adjusts the mp3 file directly, without decoding and re-encoding.</description>
+      <homepage_url>http://mp3gain.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>mp3gain</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5789/mp3gainlogosmall_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5789/mp3gainlogosmall_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13706888</analysis_id>
+      <tags>
+        <tag>mixers</tag>
+        <tag>tools</tag>
+        <tag>editors</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+        <tag>utilities</tag>
+        <tag>volume</tag>
+        <tag>sound</tag>
+        <tag>download</tag>
+        <tag>podcast</tag>
+        <tag>analysis</tag>
+        <tag>mp3</tag>
+        <tag>music</tag>
+        <tag>ipod</tag>
+        <tag>audio</tag>
+        <tag>multimedia</tag>
+      </tags>
+      <analysis>
+        <id>13706888</id>
+        <url>http://www.ohloh.net/analyses/13706888.xml</url>
+        <project_id>386</project_id>
+        <updated_at>2013-04-25T14:02:10Z</updated_at>
+        <logged_at>2013-04-25T13:57:54Z</logged_at>
+        <min_month>2002-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>26938</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mp3gain/analyses/13706888/languages.png">
+          <language color="FF8F00" percentage="44" id="42">
+C          </language>
+          <language color="2C5DC7" percentage="32" id="15">
+Visual Basic          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="14" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

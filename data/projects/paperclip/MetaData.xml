@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15744</id>
+      <name>Paperclip</name>
+      <url>http://www.ohloh.net/p/paperclip.xml</url>
+      <html_url>http://www.ohloh.net/p/paperclip</html_url>
+      <created_at>2008-07-26T07:20:01Z</created_at>
+      <updated_at>2013-04-25T16:20:15Z</updated_at>
+      <description>Paperclip is intended as an easy file attachment library for ActiveRecord. The intent behind it was to keep setup as easy as possible and to treat files as much like other attributes as possible. This means they aren&#8217;t saved to their final locations on disk, nor are they deleted if set to nil, until ActiveRecord::Base#save is called. It manages validations based on size and presence, if required. It can transform its assigned image into thumbnails if needed, and the prerequisites are as simple as installing ImageMagick (which, for most modern Unix-based systems, is as easy as installing the right packages). Attached files are saved to the filesystem and referenced in the browser by an easily understandable specification, which has sensible and useful defaults.</description>
+      <homepage_url>http://www.thoughtbot.com/projects/paperclip</homepage_url>
+      <download_url>http://github.com/thoughtbot/paperclip/tree/master</download_url>
+      <url_name>paperclip</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22925/paperclip_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22925/paperclip_small.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13707718</analysis_id>
+      <analysis>
+        <id>13707718</id>
+        <url>http://www.ohloh.net/analyses/13707718.xml</url>
+        <project_id>15744</project_id>
+        <updated_at>2013-04-25T16:20:15Z</updated_at>
+        <logged_at>2013-04-25T16:18:59Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>73</twelve_month_contributor_count>
+        <total_code_lines>9994</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/paperclip/analyses/13707718/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
