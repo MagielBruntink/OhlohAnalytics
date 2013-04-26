@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8209</id>
+      <name>gwt-ext</name>
+      <url>http://www.ohloh.net/p/gwt-ext.xml</url>
+      <html_url>http://www.ohloh.net/p/gwt-ext</html_url>
+      <created_at>2007-09-05T14:40:47Z</created_at>
+      <updated_at>2013-04-04T16:22:11Z</updated_at>
+      <description>GWT-Ext is a library that integrates Ext with GWT.
+
+GWT provides a great platform for building rich web applications using a Swing like Java API. However the widgets that GWT provides out of the box are fairly primitive and requires a lot of work by the user (widget extension and beautifying using CSS) in order to build nicer looking UI's. Ext on the other hand has a large number of polished widgets but requires the developer to be proficient in Javascript in order to build larger well designed web apps. This project makes Ext more accessible to Java developers by integrating the Ext API's with the GWT framework.</description>
+      <homepage_url>http://code.google.com/p/gwt-ext/</homepage_url>
+      <download_url>http://code.google.com/p/gwt-ext/downloads/list</download_url>
+      <url_name>gwt-ext</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>20</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13301459</analysis_id>
+      <tags>
+        <tag>extjs</tag>
+        <tag>gwt</tag>
+      </tags>
+      <analysis>
+        <id>13301459</id>
+        <url>http://www.ohloh.net/analyses/13301459.xml</url>
+        <project_id>8209</project_id>
+        <updated_at>2013-04-24T16:35:31Z</updated_at>
+        <logged_at>2013-04-24T16:35:25Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2009-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>56107</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gwt-ext/analyses/13301459/languages.png">
+          <language color="9A63AD" percentage="50" id="5">
+Java          </language>
+          <language color="47A400" percentage="23" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="19" id="4">
+CSS          </language>
+          <language color="000000" percentage="8" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

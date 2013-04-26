@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>547</id>
+      <name>MLDonkey</name>
+      <url>http://www.ohloh.net/p/mldonkey.xml</url>
+      <html_url>http://www.ohloh.net/p/mldonkey</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T09:21:00Z</updated_at>
+      <description>mldonkey is a multi-networks (edonkey, overnet, bittorrent, fasttrack-kazaa, gnutella, dc++...) file-sharing client written in Objective-Caml (ocaml). It runs as a daemon, and comes with its own GTK GUI, an HTTP interface, a telnet interface and also supports giFT interface</description>
+      <homepage_url>http://mldonkey.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>mldonkey</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>22</user_count>
+      <average_rating>4.45455</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13679715</analysis_id>
+      <tags>
+        <tag>p2p</tag>
+        <tag>ocaml</tag>
+        <tag>c</tag>
+        <tag>bittorrent</tag>
+        <tag>ed2k</tag>
+        <tag>peer-to-peer</tag>
+        <tag>directconnect</tag>
+        <tag>kademlia</tag>
+        <tag>peer</tag>
+        <tag>multi-network</tag>
+      </tags>
+      <analysis>
+        <id>13679715</id>
+        <url>http://www.ohloh.net/analyses/13679715.xml</url>
+        <project_id>547</project_id>
+        <updated_at>2013-04-25T13:44:11Z</updated_at>
+        <logged_at>2013-04-25T13:42:19Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>225943</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mldonkey/analyses/13679715/languages.png">
+          <language color="EEE" percentage="69" id="61">
+Objective Caml          </language>
+          <language color="9A63AD" percentage="8" id="5">
+Java          </language>
+          <language color="FF8F00" percentage="7" id="42">
+C          </language>
+          <language color="000000" percentage="16" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

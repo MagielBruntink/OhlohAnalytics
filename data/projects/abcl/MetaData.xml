@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16553</id>
+      <name>ArmedBear Common Lisp (ABCL)</name>
+      <url>http://www.ohloh.net/p/abcl.xml</url>
+      <html_url>http://www.ohloh.net/p/abcl</html_url>
+      <created_at>2008-09-07T20:19:27Z</created_at>
+      <updated_at>2013-04-22T11:15:00Z</updated_at>
+      <description>ABCL is an implementation of Common Lisp (CL) running in the JVM: it can run in the same JVM as your Java code, allowing full mixture of Lisp and Java code.
+Being a full CL implementation, it runs many existing libraries and applications, such as Maxima, a computer algebra system.
+With support for JSR-223, you easily extend any JSR-223 compatible application with Lisp as a macro language. This includes integration with the Ant build system using its script-tag.
+
+Note: Ohloh indicates few source code comments, based on an average of 32% comment ratio in Java projects. However, in Lisp projects, 19% is much more common. ABCL is nearly 50% Lisp, so the comment rating is underrated.</description>
+      <homepage_url>http://common-lisp.net/project/armedbear/</homepage_url>
+      <download_url>http://common-lisp.net/project/armedbear/</download_url>
+      <url_name>abcl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>21</user_count>
+      <average_rating>3.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13680890</analysis_id>
+      <tags>
+        <tag>programminglanguage</tag>
+        <tag>linux</tag>
+        <tag>jsr223</tag>
+        <tag>cross-platform</tag>
+        <tag>programming</tag>
+        <tag>commonlisp</tag>
+        <tag>development</tag>
+        <tag>gae</tag>
+        <tag>java</tag>
+        <tag>windows</tag>
+        <tag>google_app_engine</tag>
+        <tag>common_lisp</tag>
+        <tag>jsr-223</tag>
+        <tag>programming_language</tag>
+        <tag>common-lisp</tag>
+        <tag>unix</tag>
+        <tag>lisp</tag>
+        <tag>win32</tag>
+        <tag>gaej</tag>
+        <tag>software_development</tag>
+      </tags>
+      <analysis>
+        <id>13680890</id>
+        <url>http://www.ohloh.net/analyses/13680890.xml</url>
+        <project_id>16553</project_id>
+        <updated_at>2013-04-22T11:15:00Z</updated_at>
+        <logged_at>2013-04-22T11:14:12Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>125475</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/abcl/analyses/13680890/languages.png">
+          <language color="9A63AD" percentage="46" id="5">
+Java          </language>
+          <language color="93D290" percentage="45" id="22">
+Lisp          </language>
+          <language color="000000" percentage="9" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl_classpath</name>
+          <nice_name>GPL + Classpath Exception</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

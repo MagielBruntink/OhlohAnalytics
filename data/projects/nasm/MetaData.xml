@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>465</id>
+      <name>The Netwide Assembler</name>
+      <url>http://www.ohloh.net/p/nasm.xml</url>
+      <html_url>http://www.ohloh.net/p/nasm</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-04-22T08:14:10Z</updated_at>
+      <description>NASM is an 80x86 assembler designed for portability and modularity. It supports a range of object file formats including Linux a.out and ELF, COFF, Microsoft 16-bit OBJ and Win32. It will also output plain binary files. Its syntax is designed to be simple and easy to understand, similar to Intel's but less complex. It supports all current x86 opcodes, and has macro capability. It includes a disassembler as well.</description>
+      <homepage_url>http://www.nasm.us/</homepage_url>
+      <download_url>http://www.nasm.us/pub/nasm/releasebuilds/?C=M;O=D</download_url>
+      <url_name>nasm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>32</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13679332</analysis_id>
+      <tags>
+        <tag>c++</tag>
+        <tag>disassembler</tag>
+        <tag>programming</tag>
+        <tag>build_tools</tag>
+        <tag>cross_compiler</tag>
+        <tag>assembler</tag>
+        <tag>compiler</tag>
+        <tag>system_shells</tag>
+      </tags>
+      <analysis>
+        <id>13679332</id>
+        <url>http://www.ohloh.net/analyses/13679332.xml</url>
+        <project_id>465</project_id>
+        <updated_at>2013-04-22T08:14:09Z</updated_at>
+        <logged_at>2013-04-22T08:09:35Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>59126</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nasm/analyses/13679332/languages.png">
+          <language color="FF8F00" percentage="58" id="42">
+C          </language>
+          <language color="333333" percentage="23" id="19">
+Assembly          </language>
+          <language color="D2C690" percentage="14" id="8">
+Perl          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>331418</id>
+      <name>Open_ACS</name>
+      <url>http://www.ohloh.net/p/Open_ACS.xml</url>
+      <html_url>http://www.ohloh.net/p/Open_ACS</html_url>
+      <created_at>2009-04-28T16:59:23Z</created_at>
+      <updated_at>2013-04-25T09:38:06Z</updated_at>
+      <description>Automatic configuration server (ACS) implementing CPE configuration protocol CWMP as specified in TR-069.</description>
+      <homepage_url>http://sourceforge.net/projects/openacs</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=210960</download_url>
+      <url_name>Open_ACS</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33890/acs_med.PNG</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33890/acs_small.PNG</small_logo_url>
+      <user_count>23</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13638139</analysis_id>
+      <tags>
+        <tag>auto-configurationserver</tag>
+        <tag>cwmp</tag>
+        <tag>acs</tag>
+        <tag>dslforum</tag>
+        <tag>tr-069</tag>
+        <tag>tr069</tag>
+      </tags>
+      <analysis>
+        <id>13638139</id>
+        <url>http://www.ohloh.net/analyses/13638139.xml</url>
+        <project_id>331418</project_id>
+        <updated_at>2013-04-26T03:26:12Z</updated_at>
+        <logged_at>2013-04-26T03:26:10Z</logged_at>
+        <min_month>2012-08-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>107567</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Open_ACS/analyses/13638139/languages.png">
+          <language color="555555" percentage="85" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="15" id="5">
+Java          </language>
+          <language color="000000" percentage="&lt;1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

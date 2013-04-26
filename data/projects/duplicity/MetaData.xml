@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>809</id>
+      <name>duplicity</name>
+      <url>http://www.ohloh.net/p/duplicity.xml</url>
+      <html_url>http://www.ohloh.net/p/duplicity</html_url>
+      <created_at>2006-10-11T05:58:54Z</created_at>
+      <updated_at>2013-04-26T04:11:16Z</updated_at>
+      <description>Duplicity backs up directories by producing encrypted tar-format volumes and uploading them to a remote or local file server. Because duplicity uses librsync, the incremental archives are space efficient and only record the parts of files that have changed since the last backup. Because duplicity uses GnuPG to encrypt and/or sign these archives, they will be safe from spying and/or modification by the server.
+The duplicity package also includes the rdiffdir utility. Rdiffdir is an extension of librsync's rdiff to directories---it can be used to produce signatures and deltas of directories as well as regular files. These signatures and deltas are in GNU tar format.</description>
+      <homepage_url>http://duplicity.nongnu.org/</homepage_url>
+      <download_url>https://launchpad.net/duplicity/+download</download_url>
+      <url_name>duplicity</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>31</user_count>
+      <average_rating>4.38462</average_rating>
+      <rating_count>13</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13710321</analysis_id>
+      <tags>
+        <tag>tahoe</tag>
+        <tag>gnupg</tag>
+        <tag>cli</tag>
+        <tag>rsync</tag>
+        <tag>archive</tag>
+        <tag>hsi</tag>
+        <tag>encrypted</tag>
+        <tag>imap</tag>
+        <tag>remote</tag>
+        <tag>rdiffdir</tag>
+        <tag>s3</tag>
+        <tag>python</tag>
+        <tag>cloudfront</tag>
+        <tag>incremental</tag>
+        <tag>scp</tag>
+        <tag>backup</tag>
+        <tag>duplicity</tag>
+      </tags>
+      <analysis>
+        <id>13710321</id>
+        <url>http://www.ohloh.net/analyses/13710321.xml</url>
+        <project_id>809</project_id>
+        <updated_at>2013-04-26T04:11:16Z</updated_at>
+        <logged_at>2013-04-26T04:06:55Z</logged_at>
+        <min_month>2002-10-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>16477</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/duplicity/analyses/13710321/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>attribution_assurance</name>
+          <nice_name>Attribution Assurance License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

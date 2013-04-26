@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3595</id>
+      <name>Apache ORO</name>
+      <url>http://www.ohloh.net/p/oro.xml</url>
+      <html_url>http://www.ohloh.net/p/oro</html_url>
+      <created_at>2006-11-15T14:32:41Z</created_at>
+      <updated_at>2013-04-20T05:37:14Z</updated_at>
+      <description>The Jakarta-ORO Java classes are a set of text-processing Java classes that provide Perl5 compatible regular expressions, AWK-like regular expressions, glob expressions, and utility classes for performing substitutions, splits, filtering filenames, etc. This library is the successor to the OROMatcher, AwkTools, PerlTools, and TextTools libraries originally from ORO, Inc.</description>
+      <homepage_url>http://jakarta.apache.org/oro/</homepage_url>
+      <download_url></download_url>
+      <url_name>oro</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>30</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13647036</analysis_id>
+      <tags>
+        <tag>regexp</tag>
+        <tag>apache</tag>
+        <tag>perl</tag>
+        <tag>java</tag>
+        <tag>awk</tag>
+        <tag>jakarta</tag>
+      </tags>
+      <analysis>
+        <id>13647036</id>
+        <url>http://www.ohloh.net/analyses/13647036.xml</url>
+        <project_id>3595</project_id>
+        <updated_at>2013-04-23T14:01:43Z</updated_at>
+        <logged_at>2013-04-23T14:01:30Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>33762</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/oro/analyses/13647036/languages.png">
+          <language color="47A400" percentage="73" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="22" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

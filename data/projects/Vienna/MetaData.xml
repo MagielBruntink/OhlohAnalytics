@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4954</id>
+      <name>Vienna</name>
+      <url>http://www.ohloh.net/p/Vienna.xml</url>
+      <html_url>http://www.ohloh.net/p/Vienna</html_url>
+      <created_at>2007-04-21T09:26:21Z</created_at>
+      <updated_at>2013-04-23T04:16:07Z</updated_at>
+      <description>Vienna is an open-source Mac OSX RSS/Atom newsreader written entirely in Cocoa for Mac OSX 10.5 or later.</description>
+      <homepage_url>http://www.vienna-rss.org/</homepage_url>
+      <download_url>http://www.vienna-rss.org/vienna_files.php</download_url>
+      <url_name>Vienna</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/330/vienna2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/330/vienna2_small.png</small_logo_url>
+      <user_count>20</user_count>
+      <average_rating>4.44444</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13688836</analysis_id>
+      <tags>
+        <tag>news</tag>
+        <tag>opml</tag>
+        <tag>rss</tag>
+        <tag>mac</tag>
+        <tag>feed</tag>
+        <tag>feedreader</tag>
+        <tag>syndication</tag>
+        <tag>reader</tag>
+        <tag>osx</tag>
+        <tag>atom</tag>
+        <tag>rdf</tag>
+      </tags>
+      <analysis>
+        <id>13688836</id>
+        <url>http://www.ohloh.net/analyses/13688836.xml</url>
+        <project_id>4954</project_id>
+        <updated_at>2013-04-23T04:16:07Z</updated_at>
+        <logged_at>2013-04-23T04:14:42Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>241397</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Vienna/analyses/13688836/languages.png">
+          <language color="555555" percentage="85" id="3">
+XML          </language>
+          <language color="C7932C" percentage="9" id="16">
+Objective-C          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

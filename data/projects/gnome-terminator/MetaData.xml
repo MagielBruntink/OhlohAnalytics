@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308693</id>
+      <name>GNOME Terminator</name>
+      <url>http://www.ohloh.net/p/gnome-terminator.xml</url>
+      <html_url>http://www.ohloh.net/p/gnome-terminator</html_url>
+      <created_at>2009-01-27T13:15:50Z</created_at>
+      <updated_at>2013-04-23T19:01:45Z</updated_at>
+      <description>The goal of this project is to produce a useful tool for arranging terminals.
+It is inspired by programs such as gnome-multi-term, quadkonsole, etc. in that the main focus is arranging terminals in grids (tabs is the most common default method, which Terminator also supports).
+
+Much of the behaviour of Terminator is based on GNOME Terminal, and we are adding more features from that as time goes by, but we also want to extend out in different directions with useful features for sysadmins and other users. If you have any suggestions, please file wishlist bugs!</description>
+      <homepage_url>http://www.tenshu.net/terminator/</homepage_url>
+      <download_url>https://launchpad.net/terminator/+download</download_url>
+      <url_name>gnome-terminator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13369/terminator_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13369/terminator_small.png</small_logo_url>
+      <user_count>29</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>12</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13695116</analysis_id>
+      <tags>
+        <tag>terminals</tag>
+        <tag>gtk2</tag>
+        <tag>python</tag>
+        <tag>terminal</tag>
+        <tag>unix</tag>
+        <tag>terminal_emulators</tag>
+      </tags>
+      <analysis>
+        <id>13695116</id>
+        <url>http://www.ohloh.net/analyses/13695116.xml</url>
+        <project_id>308693</project_id>
+        <updated_at>2013-04-23T18:37:45Z</updated_at>
+        <logged_at>2013-04-23T18:36:23Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>12873</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnome-terminator/analyses/13695116/languages.png">
+          <language color="4A246B" percentage="71" id="9">
+Python          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

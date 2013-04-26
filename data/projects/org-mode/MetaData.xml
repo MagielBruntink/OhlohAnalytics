@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>506291</id>
+      <name>org-mode</name>
+      <url>http://www.ohloh.net/p/org-mode.xml</url>
+      <html_url>http://www.ohloh.net/p/org-mode</html_url>
+      <created_at>2011-04-20T20:01:16Z</created_at>
+      <updated_at>2013-04-26T06:55:00Z</updated_at>
+      <description>An organization and note-taking mode for Emacs, by Carsten Dominik</description>
+      <homepage_url>http://orgmode.org</homepage_url>
+      <download_url>http://orgmode.org</download_url>
+      <url_name>org-mode</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53263/worg-unicorn_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53263/worg-unicorn_small.png</small_logo_url>
+      <user_count>24</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13711174</analysis_id>
+      <tags>
+        <tag>literate-programming</tag>
+        <tag>note-taking</tag>
+        <tag>organizer</tag>
+        <tag>noweb</tag>
+        <tag>docbook</tag>
+        <tag>html</tag>
+        <tag>emacs</tag>
+        <tag>org</tag>
+        <tag>planner</tag>
+        <tag>outliner</tag>
+      </tags>
+      <analysis>
+        <id>13711174</id>
+        <url>http://www.ohloh.net/analyses/13711174.xml</url>
+        <project_id>506291</project_id>
+        <updated_at>2013-04-26T06:55:00Z</updated_at>
+        <logged_at>2013-04-26T06:49:15Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>105</twelve_month_contributor_count>
+        <total_code_lines>115408</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/org-mode/analyses/13711174/languages.png">
+          <language color="2B6B24" percentage="92" id="10">
+Emacs Lisp          </language>
+          <language color="000080" percentage="5" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="3" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

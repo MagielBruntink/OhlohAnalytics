@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4971</id>
+      <name>DeSmuME</name>
+      <url>http://www.ohloh.net/p/desmume.xml</url>
+      <html_url>http://www.ohloh.net/p/desmume</html_url>
+      <created_at>2007-04-22T06:12:59Z</created_at>
+      <updated_at>2013-04-23T19:53:52Z</updated_at>
+      <description>DeSmuME is a freeware emulator for the Nintendo DS created by YopYop156. DeSmuME is also known as YopYop DS is written in C++ for Microsoft Windows and can play Nintendo DS homebrew and commercial nds roms. The emulator its self is in French (with user translations to English and other languages). But even French version of DeSmuME is easy to navigate through menus as it has a similar users interface to DSemu. It supports many homebrew nds rom demoes as well as a handful of Wireless Multiboot demo nds roms. DeSmuME is also able to emulate some of the commercial nds rom titles which other DS Emulators like iDeaS and Dualis aren't capable of doing so.</description>
+      <homepage_url>http://desmume.org</homepage_url>
+      <download_url>http://desmume.org/download</download_url>
+      <url_name>desmume</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11956/DeSmuME_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11956/DeSmuME_small.png</small_logo_url>
+      <user_count>20</user_count>
+      <average_rating>3.625</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13695784</analysis_id>
+      <tags>
+        <tag>nds</tag>
+        <tag>emulator</tag>
+        <tag>gamedev</tag>
+        <tag>game</tag>
+        <tag>nintendo</tag>
+        <tag>emulation</tag>
+        <tag>ds</tag>
+        <tag>entertainment</tag>
+        <tag>gaming</tag>
+        <tag>emulators</tag>
+      </tags>
+      <analysis>
+        <id>13695784</id>
+        <url>http://www.ohloh.net/analyses/13695784.xml</url>
+        <project_id>4971</project_id>
+        <updated_at>2013-04-23T19:53:52Z</updated_at>
+        <logged_at>2013-04-23T19:52:36Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>595624</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/desmume/analyses/13695784/languages.png">
+          <language color="F35F1F" percentage="55" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="26" id="42">
+C          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

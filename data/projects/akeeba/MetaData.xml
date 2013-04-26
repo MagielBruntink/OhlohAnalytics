@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14345</id>
+      <name>Akeeba Backup</name>
+      <url>http://www.ohloh.net/p/akeeba.xml</url>
+      <html_url>http://www.ohloh.net/p/akeeba</html_url>
+      <created_at>2008-05-26T05:09:16Z</created_at>
+      <updated_at>2013-04-25T16:25:29Z</updated_at>
+      <description>Akeeba Backup (formerly JoomlaPack) is a backup component for
+Joomla! which allows full site backups
+and database only backups. You can also
+use Akeeba Backup to create site packages
+that you can easily deploy to client
+sites.</description>
+      <homepage_url>https://www.akeebabackup.com</homepage_url>
+      <download_url>https://www.akeebabackup.com/download/akeeba-backup.html</download_url>
+      <url_name>akeeba</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10168/square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10168/square_small.png</small_logo_url>
+      <user_count>30</user_count>
+      <average_rating>4.8125</average_rating>
+      <rating_count>16</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13707749</analysis_id>
+      <tags>
+        <tag>joomla</tag>
+        <tag>php5</tag>
+        <tag>php4</tag>
+        <tag>php</tag>
+        <tag>joomla_15</tag>
+      </tags>
+      <analysis>
+        <id>13707749</id>
+        <url>http://www.ohloh.net/analyses/13707749.xml</url>
+        <project_id>14345</project_id>
+        <updated_at>2013-04-25T16:25:29Z</updated_at>
+        <logged_at>2013-04-25T16:16:03Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>281966</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/akeeba/analyses/13707749/languages.png">
+          <language color="356AA0" percentage="43" id="2">
+PHP          </language>
+          <language color="D15600" percentage="24" id="14">
+Pascal          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

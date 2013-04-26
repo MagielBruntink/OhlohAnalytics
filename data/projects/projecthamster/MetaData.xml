@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15148</id>
+      <name>Project Hamster</name>
+      <url>http://www.ohloh.net/p/projecthamster.xml</url>
+      <html_url>http://www.ohloh.net/p/projecthamster</html_url>
+      <created_at>2008-06-25T23:06:41Z</created_at>
+      <updated_at>2013-04-16T08:38:17Z</updated_at>
+      <description>Nifty time tracking applet for Gnome</description>
+      <homepage_url>http://projecthamster.wordpress.com/</homepage_url>
+      <download_url></download_url>
+      <url_name>projecthamster</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6099/hamster_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6099/hamster_64x64_small.png</small_logo_url>
+      <user_count>23</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13525511</analysis_id>
+      <tags>
+        <tag>pygtk</tag>
+        <tag>time</tag>
+        <tag>time-tracking</tag>
+        <tag>time_tracking</tag>
+        <tag>tracking</tag>
+        <tag>gnome</tag>
+        <tag>linux</tag>
+        <tag>productivity</tag>
+        <tag>python</tag>
+        <tag>gtk</tag>
+        <tag>applet</tag>
+      </tags>
+      <analysis>
+        <id>13525511</id>
+        <url>http://www.ohloh.net/analyses/13525511.xml</url>
+        <project_id>15148</project_id>
+        <updated_at>2013-04-26T02:51:24Z</updated_at>
+        <logged_at>2013-04-26T02:46:10Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>18774</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/projecthamster/analyses/13525511/languages.png">
+          <language color="4A246B" percentage="79" id="9">
+Python          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

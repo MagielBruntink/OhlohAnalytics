@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3496</id>
+      <name>Mule</name>
+      <url>http://www.ohloh.net/p/mule.xml</url>
+      <html_url>http://www.ohloh.net/p/mule</html_url>
+      <created_at>2006-10-31T20:59:01Z</created_at>
+      <updated_at>2013-04-23T18:05:22Z</updated_at>
+      <description>Mule is an ESB (Enterprise Service Bus) and integration platform. It is a scalable, highly distributable object broker that can seamlessly handle interactions with services and applications using disparate transport and messaging technologies.</description>
+      <homepage_url>http://www.mulesoft.org</homepage_url>
+      <download_url>http://www.mulesoft.org/download</download_url>
+      <url_name>mule</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31919/favicon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31919/favicon_small.png</small_logo_url>
+      <user_count>22</user_count>
+      <average_rating>3.92857</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13262710</analysis_id>
+      <tags>
+        <tag>transactions</tag>
+        <tag>esb</tag>
+        <tag>javaee</tag>
+        <tag>framework</tag>
+        <tag>messaging</tag>
+        <tag>j2ee</tag>
+        <tag>mule</tag>
+        <tag>java</tag>
+        <tag>soa</tag>
+        <tag>jms</tag>
+        <tag>distributed</tag>
+        <tag>integration</tag>
+        <tag>broker</tag>
+        <tag>groovy</tag>
+      </tags>
+      <analysis>
+        <id>13262710</id>
+        <url>http://www.ohloh.net/analyses/13262710.xml</url>
+        <project_id>3496</project_id>
+        <updated_at>2013-04-25T07:59:45Z</updated_at>
+        <logged_at>2013-04-25T07:58:22Z</logged_at>
+        <min_month>2005-02-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>1361702</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mule/analyses/13262710/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="556655" percentage="7" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="6" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cpal</name>
+          <nice_name>Common Public Attribution License 1.0 </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
