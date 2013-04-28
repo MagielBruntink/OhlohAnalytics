@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7220</id>
+      <name>enblend</name>
+      <url>http://www.ohloh.net/p/enblend.xml</url>
+      <html_url>http://www.ohloh.net/p/enblend</html_url>
+      <created_at>2007-08-06T07:22:31Z</created_at>
+      <updated_at>2013-04-04T15:17:16Z</updated_at>
+      <description>Enblend is a tool for compositing images. Given a set of images that overlap in some irregular way, Enblend overlays them in such a way that the seam between the images is invisible, or at least very difficult to see. Enblend does not line up the images for you. Use a tool like Hugin to do that.</description>
+      <homepage_url>http://enblend.sourceforge.net/</homepage_url>
+      <download_url>http://enblend.sourceforge.net/</download_url>
+      <url_name>enblend</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5415/enblend_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5415/enblend_small.gif</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13300391</analysis_id>
+      <tags>
+        <tag>photos</tag>
+        <tag>stitch</tag>
+        <tag>composite</tag>
+        <tag>composition</tag>
+        <tag>image</tag>
+        <tag>pictures</tag>
+        <tag>photo</tag>
+        <tag>panorama</tag>
+        <tag>editor</tag>
+        <tag>photography</tag>
+        <tag>graphics</tag>
+      </tags>
+      <analysis>
+        <id>13300391</id>
+        <url>http://www.ohloh.net/analyses/13300391.xml</url>
+        <project_id>7220</project_id>
+        <updated_at>2013-04-25T05:37:56Z</updated_at>
+        <logged_at>2013-04-25T05:37:06Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>94410</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/enblend/analyses/13300391/languages.png">
+          <language color="F35F1F" percentage="84" id="44">
+C++          </language>
+          <language color="000080" percentage="5" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="11" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

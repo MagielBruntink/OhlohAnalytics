@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>428793</id>
+      <name>Observium</name>
+      <url>http://www.ohloh.net/p/observium.xml</url>
+      <html_url>http://www.ohloh.net/p/observium</html_url>
+      <created_at>2009-09-04T15:10:14Z</created_at>
+      <updated_at>2013-04-24T13:18:49Z</updated_at>
+      <description>Observium is an autodiscovering PHP/MySQL/SNMP based network monitoring which includes support for a wide range of network hardware and operating systems including Cisco, Linux, FreeBSD, Juniper, Foundry, HP and many more.
+
+Observium has grown out of a lack of easy to configure and easy use NMSes. It is intended to provide a more navigable interface to the health and performance of your network. Its design goals include collecting as much historical data about devices as possible, being completely auto-discovered with little or no manual intervention, and having a very intuitive interface.
+
+Observium is not intended to replace a Nagios-type up/down monitoring system, but rather to complement it with an easy to manage, intuitive representation of historical and current performance statistic</description>
+      <homepage_url>http://www.observium.org</homepage_url>
+      <download_url>http://observium.org/wiki/Download</download_url>
+      <url_name>observium</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35369/observium-logo-square-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35369/observium-logo-square-64_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13700959</analysis_id>
+      <tags>
+        <tag>dashboard</tag>
+        <tag>performance</tag>
+        <tag>notification</tag>
+        <tag>cdp</tag>
+        <tag>router</tag>
+        <tag>graphing</tag>
+        <tag>php</tag>
+        <tag>cisco</tag>
+        <tag>servers</tag>
+        <tag>monitoring_tools</tag>
+        <tag>rddtool</tag>
+        <tag>management</tag>
+        <tag>networking</tag>
+        <tag>mysql</tag>
+        <tag>topology</tag>
+        <tag>system_administration</tag>
+        <tag>nms</tag>
+        <tag>statistics</tag>
+        <tag>monitor</tag>
+        <tag>discovery</tag>
+        <tag>rrdtool</tag>
+        <tag>graph</tag>
+        <tag>network_monitoring</tag>
+        <tag>network</tag>
+        <tag>rrd</tag>
+        <tag>logging</tag>
+        <tag>system</tag>
+        <tag>lldp</tag>
+        <tag>monitoring</tag>
+        <tag>snmp</tag>
+        <tag>linux</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>13700959</id>
+        <url>http://www.ohloh.net/analyses/13700959.xml</url>
+        <project_id>428793</project_id>
+        <updated_at>2013-04-24T13:18:48Z</updated_at>
+        <logged_at>2013-04-24T12:57:13Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>84405</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/observium/analyses/13700959/languages.png">
+          <language color="356AA0" percentage="64" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="18" id="4">
+CSS          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>qt_public</name>
+          <nice_name>Q Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

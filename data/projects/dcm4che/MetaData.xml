@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5005</id>
+      <name>dcm4che 2</name>
+      <url>http://www.ohloh.net/p/dcm4che.xml</url>
+      <html_url>http://www.ohloh.net/p/dcm4che</html_url>
+      <created_at>2007-04-27T11:24:36Z</created_at>
+      <updated_at>2012-02-22T19:08:42Z</updated_at>
+      <description>dcm4che is a collection of open source applications and utilities for the healthcare enterprise. These applications have been developed in the Java programming language for performance and portability, supporting deployment on JDK 5 and up.
+
+At the core of the dcm4che project is a robust implementation of the DICOM standard. The dcm4che-2.x DICOM toolkit is used in many production applications across the world and has been architected for high performance and flexibility.
+
+Other components of the dcm4che project are dcm4chee, Xero, and Oviyam.</description>
+      <homepage_url>http://www.dcm4che.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=37982&amp;package_id=192320</download_url>
+      <url_name>dcm4che</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1726795</analysis_id>
+      <tags>
+        <tag>medical</tag>
+        <tag>java</tag>
+        <tag>imaging</tag>
+        <tag>healthcare</tag>
+        <tag>dicom</tag>
+      </tags>
+      <analysis>
+        <id>1726795</id>
+        <url>http://www.ohloh.net/analyses/1726795.xml</url>
+        <project_id>5005</project_id>
+        <updated_at>2011-02-17T09:27:19Z</updated_at>
+        <logged_at>2011-02-17T09:26:49Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>386745</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dcm4che/analyses/1726795/languages.png">
+          <language color="555555" percentage="79" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

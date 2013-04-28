@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>339063</id>
+      <name>hgview</name>
+      <url>http://www.ohloh.net/p/hgview.xml</url>
+      <html_url>http://www.ohloh.net/p/hgview</html_url>
+      <created_at>2009-05-04T10:22:31Z</created_at>
+      <updated_at>2011-12-23T15:37:19Z</updated_at>
+      <description>A faster implementation of hgk (hg view) using pygtk/pyqt4. Its primary purpose was to be able to browse the linux kernel mercurial repository and have a better looking view of mercurial repos.</description>
+      <homepage_url>http://www.logilab.org/project/hgview</homepage_url>
+      <download_url>http://www.logilab.org/project/hgview</download_url>
+      <url_name>hgview</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5674052</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>mercurial</tag>
+        <tag>hg</tag>
+        <tag>extension</tag>
+      </tags>
+      <analysis>
+        <id>5674052</id>
+        <url>http://www.ohloh.net/analyses/5674052.xml</url>
+        <project_id>339063</project_id>
+        <updated_at>2011-12-23T15:37:18Z</updated_at>
+        <logged_at>2011-12-23T15:36:54Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>6853</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hgview/analyses/5674052/languages.png">
+          <language color="4A246B" percentage="94" id="9">
+Python          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

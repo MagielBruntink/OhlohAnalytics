@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6765</id>
+      <name>Asterisk-Java</name>
+      <url>http://www.ohloh.net/p/freshmeat_asterisk-java.xml</url>
+      <html_url>http://www.ohloh.net/p/freshmeat_asterisk-java</html_url>
+      <created_at>2007-07-22T11:00:39Z</created_at>
+      <updated_at>2013-01-23T18:15:17Z</updated_at>
+      <description>Asterisk-Java, a free Java library for Asterisk PBX integration, consists of a set of Java classes that allow you to easily build Java applications that interact with an Asterisk PBX Server.
+
+Asterisk-Java supports both interfaces that Asterisk provides for this scenario: The FastAGI protocol and the Manager API.
+The FastAGI implementation supports all commands currently available from Asterisk.
+The Manager API implementation supports receiving events from the Asterisk server (e.g. call progess, registered peers, channel state) and sending actions to Asterisk (e.g. originate call, agent login/logoff, start/stop voice recording).</description>
+      <homepage_url>http://asterisk-java.org</homepage_url>
+      <download_url>http://asterisk-java.org</download_url>
+      <url_name>freshmeat_asterisk-java</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.875</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6587455</analysis_id>
+      <tags>
+        <tag>voip</tag>
+        <tag>library</tag>
+        <tag>java</tag>
+        <tag>asterisk</tag>
+        <tag>sip</tag>
+        <tag>iax</tag>
+      </tags>
+      <analysis>
+        <id>6587455</id>
+        <url>http://www.ohloh.net/analyses/6587455.xml</url>
+        <project_id>6765</project_id>
+        <updated_at>2012-02-29T08:56:01Z</updated_at>
+        <logged_at>2012-02-29T08:54:54Z</logged_at>
+        <min_month>2004-09-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>34162</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freshmeat_asterisk-java/analyses/6587455/languages.png">
+          <language color="9A63AD" percentage="97" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

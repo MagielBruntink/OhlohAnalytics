@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480683</id>
+      <name>GeeXboX</name>
+      <url>http://www.ohloh.net/p/geexbox.xml</url>
+      <html_url>http://www.ohloh.net/p/geexbox</html_url>
+      <created_at>2010-01-23T11:42:09Z</created_at>
+      <updated_at>2013-04-23T10:38:57Z</updated_at>
+      <description>GeeXboX is a free embedded Linux distribution which aims at turning your computer into a so called HTPC (Home Theater PC) or Media Center. It targets multiple devices, from regular x86 or PowerPC based computers to ARM and MIPS embedded devices.
+
+Despite his tiny size, the distribution comes with a complete and automatic hardware detection, not requiring any driver to be added. It supports playback of nearly any kind of audio/video and image files and all known codecs and containers are shipped in, allowing playing them through various physical supports, either being CD, DVD, Blu-ray HDD, LAN or Internet.</description>
+      <homepage_url>http://www.geexbox.org/</homepage_url>
+      <download_url>http://www.geexbox.org/download/</download_url>
+      <url_name>geexbox</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29307/manchot2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29307/manchot2_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691903</analysis_id>
+      <tags>
+        <tag>mplayer</tag>
+        <tag>htpc</tag>
+        <tag>dvd</tag>
+        <tag>lirc</tag>
+        <tag>video</tag>
+        <tag>linux</tag>
+        <tag>enna</tag>
+        <tag>distro</tag>
+        <tag>music</tag>
+        <tag>livecd</tag>
+        <tag>tv</tag>
+        <tag>geexbox</tag>
+        <tag>photo</tag>
+        <tag>cdda</tag>
+        <tag>bluray</tag>
+        <tag>mediacenter</tag>
+        <tag>multimedia</tag>
+        <tag>dlna</tag>
+        <tag>embedded</tag>
+        <tag>dvb</tag>
+        <tag>upnp</tag>
+      </tags>
+      <analysis>
+        <id>13691903</id>
+        <url>http://www.ohloh.net/analyses/13691903.xml</url>
+        <project_id>480683</project_id>
+        <updated_at>2013-04-23T10:38:57Z</updated_at>
+        <logged_at>2013-04-23T10:37:29Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>26195</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geexbox/analyses/13691903/languages.png">
+          <language color="FF8F00" percentage="55" id="42">
+C          </language>
+          <language color="777777" percentage="40" id="11">
+shell script          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

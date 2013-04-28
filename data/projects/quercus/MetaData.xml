@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13879</id>
+      <name>Quercus</name>
+      <url>http://www.ohloh.net/p/quercus.xml</url>
+      <html_url>http://www.ohloh.net/p/quercus</html_url>
+      <created_at>2008-05-09T08:29:50Z</created_at>
+      <updated_at>2013-01-16T06:14:11Z</updated_at>
+      <description>Quercus is a 100% Java implementation of PHP 5. It allows for tight integration of Java services with PHP scripts, so using PHP with JMS or Grails is a quick and painless endeavor.
+
+With Quercus, PHP applications automatically take advantage of Java application server features just as connection pooling and clustered sessions.
+
+Quercus implements PHP 5 and a growing list of PHP extensions including APC, iconv, GD, gettext, JSON, MySQL, Oracle, PDF, and Postgres. Many popular PHP applications will run as well as, if not better, than the standard PHP interpreter straight out of the box.
+
+PHP applications can choose to use Java libraries and technologies like JMS, EJB, SOA frameworks, Hibernate, and Spring. Quercus allows PHP applications and Java libraries to talk directly with one another.</description>
+      <homepage_url>http://quercus.caucho.com/</homepage_url>
+      <download_url>http://quercus.caucho.com/#Downloads</download_url>
+      <url_name>quercus</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47053/CauchoFLY_blu32_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47053/CauchoFLY_blu32_small.gif</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8919768</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>resin</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>8919768</id>
+        <url>http://www.ohloh.net/analyses/8919768.xml</url>
+        <project_id>13879</project_id>
+        <updated_at>2012-07-01T17:25:02Z</updated_at>
+        <logged_at>2012-06-29T09:44:42Z</logged_at>
+        <min_month>2005-03-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>131098</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/quercus/analyses/8919768/languages.png">
+          <language color="9A63AD" percentage="100" id="5">
+Java          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

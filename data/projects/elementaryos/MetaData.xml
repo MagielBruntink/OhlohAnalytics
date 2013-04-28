@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605012</id>
+      <name>elementary OS</name>
+      <url>http://www.ohloh.net/p/elementaryos.xml</url>
+      <html_url>http://www.ohloh.net/p/elementaryos</html_url>
+      <created_at>2012-09-03T17:26:16Z</created_at>
+      <updated_at>2013-02-24T17:45:12Z</updated_at>
+      <description>elementary is a software platform; a unified computer operating system. We have a commitment to a particular toolkit (GTK+) and support a preferred programming language (Vala). We decide how our apps will behave. Sometimes we take control and shape the out-of-the-box experience as much as we possibly can by creating our own apps. We've created an application development framework (Granite) and other developer tools that are designed to help developers build apps specifically for our platform.</description>
+      <homepage_url>http://elementaryos.org/</homepage_url>
+      <download_url>http://elementaryos.org/downloads</download_url>
+      <url_name>elementaryos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56535/200x200__2__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56535/200x200__2__small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11187604</analysis_id>
+      <tags>
+        <tag>granite</tag>
+        <tag>os</tag>
+        <tag>linux</tag>
+        <tag>desktop</tag>
+        <tag>pantheon</tag>
+        <tag>desktop_environment</tag>
+        <tag>elementaryos</tag>
+        <tag>distribution</tag>
+        <tag>distro</tag>
+        <tag>operating_system</tag>
+        <tag>deb</tag>
+        <tag>gtk3</tag>
+      </tags>
+      <analysis>
+        <id>11187604</id>
+        <url>http://www.ohloh.net/analyses/11187604.xml</url>
+        <project_id>605012</project_id>
+        <updated_at>2012-11-11T15:37:23Z</updated_at>
+        <logged_at>2012-11-11T15:33:04Z</logged_at>
+        <min_month>2005-03-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>188</twelve_month_contributor_count>
+        <total_code_lines>496886</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/elementaryos/analyses/11187604/languages.png">
+          <language color="FF8F00" percentage="29" id="42">
+C          </language>
+          <language color="EEE" percentage="24" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="15" id="11">
+shell script          </language>
+          <language color="000000" percentage="32" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

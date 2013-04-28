@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11082</id>
+      <name>Tiles</name>
+      <url>http://www.ohloh.net/p/tiles.xml</url>
+      <html_url>http://www.ohloh.net/p/tiles</html_url>
+      <created_at>2008-01-18T13:58:54Z</created_at>
+      <updated_at>2013-04-11T14:31:52Z</updated_at>
+      <description>Apache Tiles  is a templating framework built to simplify the development of web application user interfaces.
+Tiles allows authors to define page fragments which can be assembled into a complete page at runtime. These fragments, or tiles, can be used as simple includes in order to reduce the duplication of common page elements or embedded within other tiles to develop a series of reusable templates.
+These templates streamline the development of a consistent look and feel across an entire application.</description>
+      <homepage_url>http://tiles.apache.org/</homepage_url>
+      <download_url>http://tiles.apache.org/download.html</download_url>
+      <url_name>tiles</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>3.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13384015</analysis_id>
+      <tags>
+        <tag>javaee</tag>
+        <tag>java</tag>
+        <tag>struts</tag>
+        <tag>template_engine</tag>
+        <tag>jsp</tag>
+        <tag>templates</tag>
+      </tags>
+      <analysis>
+        <id>13384015</id>
+        <url>http://www.ohloh.net/analyses/13384015.xml</url>
+        <project_id>11082</project_id>
+        <updated_at>2013-04-24T05:27:36Z</updated_at>
+        <logged_at>2013-04-24T05:27:31Z</logged_at>
+        <min_month>2004-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>31201</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tiles/analyses/13384015/languages.png">
+          <language color="9A63AD" percentage="51" id="5">
+Java          </language>
+          <language color="47A400" percentage="33" id="1">
+HTML          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache</name>
+          <nice_name>Apache License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

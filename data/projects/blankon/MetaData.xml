@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15003</id>
+      <name>BlankOn</name>
+      <url>http://www.ohloh.net/p/blankon.xml</url>
+      <html_url>http://www.ohloh.net/p/blankon</html_url>
+      <created_at>2008-06-17T10:06:19Z</created_at>
+      <updated_at>2012-08-01T21:41:21Z</updated_at>
+      <description>BlankOn Linux, an Indonesian distribution</description>
+      <homepage_url>http://www.blankonlinux.or.id</homepage_url>
+      <download_url>http://www.blankonlinux.or.id</download_url>
+      <url_name>blankon</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36332/128x128_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36332/128x128_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>5967741</analysis_id>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>5967741</id>
+        <url>http://www.ohloh.net/analyses/5967741.xml</url>
+        <project_id>15003</project_id>
+        <updated_at>2012-01-14T05:08:39Z</updated_at>
+        <logged_at>2011-12-08T23:17:40Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>9931</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blankon/analyses/5967741/languages.png">
+          <language color="EEE" percentage="66" id="51">
+Autoconf          </language>
+          <language color="729FCF" percentage="22" id="34">
+Vala          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5454</id>
+      <name>Openfiler</name>
+      <url>http://www.ohloh.net/p/openfiler.xml</url>
+      <html_url>http://www.ohloh.net/p/openfiler</html_url>
+      <created_at>2007-05-18T17:14:38Z</created_at>
+      <updated_at>2012-08-31T04:49:13Z</updated_at>
+      <description>Openfiler is a powerful, intuitive browser-based network storage software distribution. Openfiler delivers file-based Network Attached Storage and block-based Storage Area Networking in a single framework.
+
+Openfiler uses the rPath Linux metadistribution. It is distributed as a stand-alone Linux distribution. The entire software stack interfaces with third-party software that is all open source.
+
+File-based networking protocols supported by Openfiler include: NFS, SMB/CIFS, HTTP/WebDAV and FTP. Network directories supported by Openfiler include NIS, LDAP (with support for SMB/CIFS encrypted passwords), Active Directory (in native and mixed modes) and Hesiod. Authentication protocols include Kerberos 5.
+
+Openfiler includes support for volume-based partitioning, iSCSI (target and initiator),</description>
+      <homepage_url>http://www.openfiler.com</homepage_url>
+      <download_url></download_url>
+      <url_name>openfiler</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1779767</analysis_id>
+      <tags>
+        <tag>ldap</tag>
+        <tag>php5</tag>
+        <tag>nfs</tag>
+        <tag>raid</tag>
+        <tag>centos</tag>
+        <tag>iscsi</tag>
+        <tag>distro</tag>
+        <tag>linux</tag>
+        <tag>server</tag>
+        <tag>samba</tag>
+        <tag>storage</tag>
+        <tag>nas</tag>
+        <tag>rpath</tag>
+        <tag>php</tag>
+        <tag>nis</tag>
+        <tag>cifs</tag>
+      </tags>
+      <analysis>
+        <id>1779767</id>
+        <url>http://www.ohloh.net/analyses/1779767.xml</url>
+        <project_id>5454</project_id>
+        <updated_at>2011-03-17T15:49:25Z</updated_at>
+        <logged_at>2009-05-05T09:18:39Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>52433</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openfiler/analyses/1779767/languages.png">
+          <language color="356AA0" percentage="33" id="2">
+PHP          </language>
+          <language color="47A400" percentage="30" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

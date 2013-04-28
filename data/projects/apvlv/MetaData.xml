@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>65229</id>
+      <name>apvlv</name>
+      <url>http://www.ohloh.net/p/apvlv.xml</url>
+      <html_url>http://www.ohloh.net/p/apvlv</html_url>
+      <created_at>2008-12-18T15:14:29Z</created_at>
+      <updated_at>2012-12-24T07:44:10Z</updated_at>
+      <description>Introductionapvlv is a PDF Viewer Under Linux and its behaviour like Vim. 
+
+Apvlv is a open source software, and was created by Alf. Now, it is still growing. 
+
+Like Vim, Apvlv makes people reading their PDF files just like using Vim. 
+
+So, Apvlv bindings lots of Vim command and its behaviour is like Vim. For example, &lt; Ctrl-f &gt; to forward page, &lt; Ctrl-b &gt; to previous page, 'k','j','h','l' to scrolling a page up, down, left or right, and so on.  
+
+And, Apvlv can understand that how many times you want to run the command. 
+
+The only thing you need to do is typing the number before the command. For example, typing '50' and &lt; Ctrl-f &gt; will go forward 50 pages, typing '30' and &lt; Ctrl-b &gt; will go previous 30 pages. 
+
+What's more import is apvlv can support view a directory as content of a pdf document. Pressing 'k' or 'j' to move selected up or down, 'h' or 'l' to collapse or expand a dir, and press 't' will open the selected document in a new tab. 
+
+NEWSI stopped all the new features developing of apvlv and started to fix its bugs from now.So, please report more and more bugs to issues page.LicenceThis software is licensed under the GNU General Public License (GPL). 
+
+RequirementsGTK+ version 2.6.0 or higher ( http://www.gtk.org/ ) Poppler version 0.5.0 with glib bindings ( http://poppler.freedesktop.org/ ) Package DownloadsDebian: Debian user can install by apt-get Archlinux: Arch user can install by pacman. Slackware Linux: http://slackbuilds.org/repository/13.0/office/apvlv/ Windows XP/2000: http://apvlv.googlecode.com/files/apvlv-win32-0.0.9.4-full.rar Bugreport or AdviceAlf &lt; naihe2010@gmail.com &gt; google groups &lt; apvlv@googlegroups.com &gt;</description>
+      <homepage_url>http://code.google.com/p/apvlv</homepage_url>
+      <download_url></download_url>
+      <url_name>apvlv</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11824417</analysis_id>
+      <tags>
+        <tag>pdfviewer</tag>
+        <tag>pdf</tag>
+        <tag>vim</tag>
+      </tags>
+      <analysis>
+        <id>11824417</id>
+        <url>http://www.ohloh.net/analyses/11824417.xml</url>
+        <project_id>65229</project_id>
+        <updated_at>2012-12-29T23:57:39Z</updated_at>
+        <logged_at>2012-12-29T23:56:50Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>114178</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/apvlv/analyses/11824417/languages.png">
+          <language color="F35F1F" percentage="85" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="14" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

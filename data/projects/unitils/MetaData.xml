@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5002</id>
+      <name>Unitils</name>
+      <url>http://www.ohloh.net/p/unitils.xml</url>
+      <html_url>http://www.ohloh.net/p/unitils</html_url>
+      <created_at>2007-04-27T09:10:51Z</created_at>
+      <updated_at>2012-02-23T21:29:15Z</updated_at>
+      <description>Utilities to simplify unit testing with JUnit or TestNG. 
+Unitils builds further on DBUnit and EasyMock and integrates with Hibernate and Spring. 
+
+Features include: 
+- Equality assertion through reflection, with options like ignoring Java default/null values and ignoring order of collections 
+- Support for database testing involving test data management with DbUnit, automatic maintenance of unit test databases and automatic constraints disabling 
+- Hibernate integration features such as session management and testing the mapping with the database 
+- Integration with Spring, involving ApplicationContext management and injection of Spring managed beans 
+- Integration with EasyMock and injection of mocks into other objects</description>
+      <homepage_url>http://www.unitils.org</homepage_url>
+      <download_url>http://sourceforge.net/projects/unitils/files/</download_url>
+      <url_name>unitils</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3557114</analysis_id>
+      <analysis>
+        <id>3557114</id>
+        <url>http://www.ohloh.net/analyses/3557114.xml</url>
+        <project_id>5002</project_id>
+        <updated_at>2011-09-27T17:47:25Z</updated_at>
+        <logged_at>2011-09-27T17:47:19Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>32500</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/unitils/analyses/3557114/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
