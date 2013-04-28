@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>103831</id>
+      <name>Extended VS Presentation</name>
+      <url>http://www.ohloh.net/p/skin4eclipse.xml</url>
+      <html_url>http://www.ohloh.net/p/skin4eclipse</html_url>
+      <created_at>2008-12-25T09:29:14Z</created_at>
+      <updated_at>2013-03-27T03:45:47Z</updated_at>
+      <description>Extended VS Presentation plugin  for Eclipse contributes powerful editing sessions management and highly customisable and very useful Eclipse skin (&quot;look and feel&quot;). 
+
+&quot;Editing sessions&quot; management allows you remember opened editors set (session) and reload it any time later. This is useful if you often switch from one to another context (see also bug 105896). If you ever used Opera browser, you know the trick ;-)  
+
+The skin does not only have all &quot;default&quot; Eclipse presentation features but adds much more useful things like fully customizable opened/closed editor lists, really useful tab area with predictable tab ordering policy, clear and space - saving look, much more customization options like the tab size / padding / border / color / fonts, &quot;on-the-fly&quot; themes switch.</description>
+      <homepage_url>http://andrei.gmxhome.de/skins/</homepage_url>
+      <download_url>http://code.google.com/a/eclipselabs.org/p/skin4eclipse/downloads/list</download_url>
+      <url_name>skin4eclipse</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17414/eclipse_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17414/eclipse_small.gif</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13232938</analysis_id>
+      <tags>
+        <tag>software_development</tag>
+        <tag>look</tag>
+        <tag>skin</tag>
+        <tag>java</tag>
+        <tag>presentation</tag>
+        <tag>plugin</tag>
+        <tag>eclipse</tag>
+        <tag>feel</tag>
+      </tags>
+      <analysis>
+        <id>13232938</id>
+        <url>http://www.ohloh.net/analyses/13232938.xml</url>
+        <project_id>103831</project_id>
+        <updated_at>2013-04-26T05:50:52Z</updated_at>
+        <logged_at>2013-04-26T05:50:50Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11176</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/skin4eclipse/analyses/13232938/languages.png">
+          <language color="9A63AD" percentage="90" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

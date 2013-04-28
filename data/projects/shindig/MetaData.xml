@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10942</id>
+      <name>Apache Shindig</name>
+      <url>http://www.ohloh.net/p/shindig.xml</url>
+      <html_url>http://www.ohloh.net/p/shindig</html_url>
+      <created_at>2008-01-15T11:07:36Z</created_at>
+      <updated_at>2013-04-24T08:04:21Z</updated_at>
+      <description>Shindig is an OpenSocial container.</description>
+      <homepage_url>http://shindig.apache.org/</homepage_url>
+      <download_url>http://shindig.apache.org/</download_url>
+      <url_name>shindig</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13699168</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>gadgets</tag>
+        <tag>opensocial</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>13699168</id>
+        <url>http://www.ohloh.net/analyses/13699168.xml</url>
+        <project_id>10942</project_id>
+        <updated_at>2013-04-24T08:04:20Z</updated_at>
+        <logged_at>2013-04-24T08:03:20Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>210278</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/shindig/analyses/13699168/languages.png">
+          <language color="9A63AD" percentage="53" id="5">
+Java          </language>
+          <language color="A4007E" percentage="27" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="12" id="2">
+PHP          </language>
+          <language color="000000" percentage="8" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

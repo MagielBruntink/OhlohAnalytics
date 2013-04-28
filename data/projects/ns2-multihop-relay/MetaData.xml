@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21907</id>
+      <name>ns2-multihop-relay</name>
+      <url>http://www.ohloh.net/p/ns2-multihop-relay.xml</url>
+      <html_url>http://www.ohloh.net/p/ns2-multihop-relay</html_url>
+      <created_at>2008-10-07T14:21:58Z</created_at>
+      <updated_at>2012-02-22T20:04:29Z</updated_at>
+      <description>IntroductionRecently, IEEE 802.16j multi-hop relay network is proposed to increase data rate and coverage of the IEEE 802.16e networks. The Relay Station (RS) is introduced to relay the data from MR-BS to SS/MS or from SS/MS to MR-RS.  We have studied the research area for a whole, and we proposed some improvements that could decrease the congestion opportunity of non-transparent RS using distributed scheduling.  We have to modify the NIST WiMAX module which is implemented under the NS-2 in order to test the correctness of our proposed scheme. Subversion and Google-code-hosting are used to manage the project versions, thus we could be easy to modify the NIST module to support the functions of RS.</description>
+      <homepage_url>http://code.google.com/p/ns2-multihop-relay</homepage_url>
+      <download_url></download_url>
+      <url_name>ns2-multihop-relay</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>411491</analysis_id>
+      <tags>
+        <tag>wimax</tag>
+        <tag>80216j</tag>
+        <tag>ns2</tag>
+        <tag>nist</tag>
+        <tag>tcl</tag>
+        <tag>cc</tag>
+      </tags>
+      <analysis>
+        <id>411491</id>
+        <url>http://www.ohloh.net/analyses/411491.xml</url>
+        <project_id>21907</project_id>
+        <updated_at>2009-01-10T07:47:58Z</updated_at>
+        <logged_at>2009-01-10T07:34:55Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2008-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>13209</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ns2-multihop-relay/analyses/411491/languages.png">
+          <language color="F35F1F" percentage="77" id="44">
+C++          </language>
+          <language color="D290A8" percentage="18" id="25">
+Tcl          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

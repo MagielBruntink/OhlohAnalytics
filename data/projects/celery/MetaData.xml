@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>379383</id>
+      <name>celery</name>
+      <url>http://www.ohloh.net/p/celery.xml</url>
+      <html_url>http://www.ohloh.net/p/celery</html_url>
+      <created_at>2009-08-14T18:27:00Z</created_at>
+      <updated_at>2013-04-23T19:24:15Z</updated_at>
+      <description>celery is a distributed task queue framework for Django.
+
+It is used for executing tasks asynchronously, routed to one or more worker servers, running concurrently using multiprocessing.
+
+It is designed to solve certain problems related to running websites demanding high-availability and performance.
+
+It is perfect for filling caches, posting updates to twitter, mass downloading data like syndication feeds or web scraping. Use-cases are plentiful. Implementing these features asynchronously using celery is easy and fun, and the performance improvements can make it more than worthwhile.</description>
+      <homepage_url>http://github.com/ask/celery</homepage_url>
+      <download_url>http://pypi.python.org/pypi/celery</download_url>
+      <url_name>celery</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/30307/celery-icon-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/30307/celery-icon-64_small.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13695470</analysis_id>
+      <tags>
+        <tag>rabbitmq</tag>
+        <tag>taskqueue</tag>
+        <tag>amqp</tag>
+        <tag>distributed</tag>
+        <tag>job-queue</tag>
+      </tags>
+      <analysis>
+        <id>13695470</id>
+        <url>http://www.ohloh.net/analyses/13695470.xml</url>
+        <project_id>379383</project_id>
+        <updated_at>2013-04-23T19:24:15Z</updated_at>
+        <logged_at>2013-04-23T19:21:42Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>165</twelve_month_contributor_count>
+        <total_code_lines>96973</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/celery/analyses/13695470/languages.png">
+          <language color="4A246B" percentage="71" id="9">
+Python          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

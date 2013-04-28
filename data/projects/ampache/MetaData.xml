@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4825</id>
+      <name>Ampache</name>
+      <url>http://www.ohloh.net/p/ampache.xml</url>
+      <html_url>http://www.ohloh.net/p/ampache</html_url>
+      <created_at>2007-04-04T21:37:29Z</created_at>
+      <updated_at>2013-04-24T03:52:43Z</updated_at>
+      <description>Ampache is a Web-based Audio file manager. It is implemented with MySQL, and PHP. It allows you to view, edit, and play your audio files via the web. It has support for playlists, artist and album views, album art, random play, playback via Http/On the Fly Transcoding and Downsampling, Vote based playback, Mpd and Icecast, Integrated Flash Player, as well as per user themes and song play tracking. You can also Link multiple Ampache servers togeather using XML-RPC. Ampache supports GETTEXT translations and has a full translation of many languages</description>
+      <homepage_url>http://ampache.org</homepage_url>
+      <download_url>http://ampache.org/download.php</download_url>
+      <url_name>ampache</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3974/iconampache1_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3974/iconampache1_small.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13698130</analysis_id>
+      <tags>
+        <tag>streaming</tag>
+        <tag>amazon</tag>
+        <tag>radio</tag>
+        <tag>multimedia</tag>
+        <tag>gettext</tag>
+        <tag>coherence</tag>
+        <tag>mediacenter</tag>
+        <tag>audio</tag>
+        <tag>french</tag>
+        <tag>music</tag>
+        <tag>php</tag>
+        <tag>lastfm</tag>
+        <tag>cross-platform</tag>
+        <tag>media</tag>
+        <tag>amarok</tag>
+        <tag>mpd</tag>
+        <tag>organization</tag>
+        <tag>stream</tag>
+      </tags>
+      <analysis>
+        <id>13698130</id>
+        <url>http://www.ohloh.net/analyses/13698130.xml</url>
+        <project_id>4825</project_id>
+        <updated_at>2013-04-24T03:52:43Z</updated_at>
+        <logged_at>2013-04-24T03:49:23Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>3794</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ampache/analyses/13698130/languages.png">
+          <language color="356AA0" percentage="100" id="2">
+PHP          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

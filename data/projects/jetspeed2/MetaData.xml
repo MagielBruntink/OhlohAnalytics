@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4359</id>
+      <name>JetSpeed 2</name>
+      <url>http://www.ohloh.net/p/jetspeed2.xml</url>
+      <html_url>http://www.ohloh.net/p/jetspeed2</html_url>
+      <created_at>2007-02-08T18:12:25Z</created_at>
+      <updated_at>2013-04-23T17:41:59Z</updated_at>
+      <description>Jetspeed is an Open Source implementation of an Enterprise Information Portal, written in Java and XML. Within a Jetspeed portal, individual portlets can be aggregated to create a page. Each portlet is an independent application with Jetspeed acting as the central hub making information from multiple sources available in an easy to use manner.</description>
+      <homepage_url>http://portals.apache.org/jetspeed-2/</homepage_url>
+      <download_url>http://portals.apache.org/jetspeed-2/download.html</download_url>
+      <url_name>jetspeed2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13694775</analysis_id>
+      <tags>
+        <tag>portal</tag>
+        <tag>mysql</tag>
+        <tag>enterprise</tag>
+        <tag>java</tag>
+        <tag>single_sign_on</tag>
+        <tag>jsf</tag>
+        <tag>ajax</tag>
+        <tag>maven2</tag>
+        <tag>web</tag>
+        <tag>maven</tag>
+        <tag>hippo-ecm</tag>
+        <tag>portlet</tag>
+        <tag>dynamic_content</tag>
+        <tag>apache</tag>
+        <tag>mvc</tag>
+        <tag>framework</tag>
+        <tag>myfaces</tag>
+        <tag>j2ee</tag>
+        <tag>javascript</tag>
+        <tag>jsr-168</tag>
+        <tag>spring</tag>
+      </tags>
+      <analysis>
+        <id>13694775</id>
+        <url>http://www.ohloh.net/analyses/13694775.xml</url>
+        <project_id>4359</project_id>
+        <updated_at>2013-04-23T17:41:58Z</updated_at>
+        <logged_at>2013-04-23T17:24:39Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>287140</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jetspeed2/analyses/13694775/languages.png">
+          <language color="9A63AD" percentage="67" id="5">
+Java          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

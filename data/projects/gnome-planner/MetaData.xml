@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4517</id>
+      <name>GNOME Planner</name>
+      <url>http://www.ohloh.net/p/gnome-planner.xml</url>
+      <html_url>http://www.ohloh.net/p/gnome-planner</html_url>
+      <created_at>2007-02-20T22:16:14Z</created_at>
+      <updated_at>2013-04-26T04:53:46Z</updated_at>
+      <description>Planner is a project management tool. It was originally created by Richard Hult and Mikael Hallendal at Imendio and now managed by Gnome.</description>
+      <homepage_url>http://live.gnome.org/Planner</homepage_url>
+      <download_url>http://live.gnome.org/Planner/Downloads</download_url>
+      <url_name>gnome-planner</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38420/gnome-planner_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38420/gnome-planner_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>3.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13710409</analysis_id>
+      <tags>
+        <tag>planning</tag>
+        <tag>wbs</tag>
+        <tag>productivity</tag>
+        <tag>tool</tag>
+        <tag>project_management</tag>
+        <tag>scheduling</tag>
+        <tag>gantt</tag>
+        <tag>business</tag>
+        <tag>tasks</tag>
+      </tags>
+      <analysis>
+        <id>13710409</id>
+        <url>http://www.ohloh.net/analyses/13710409.xml</url>
+        <project_id>4517</project_id>
+        <updated_at>2013-04-26T04:53:46Z</updated_at>
+        <logged_at>2013-04-26T04:47:20Z</logged_at>
+        <min_month>2003-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>88851</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnome-planner/analyses/13710409/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

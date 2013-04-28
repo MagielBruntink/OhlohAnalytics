@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8615</id>
+      <name>Epsilon</name>
+      <url>http://www.ohloh.net/p/epsilon.xml</url>
+      <html_url>http://www.ohloh.net/p/epsilon</html_url>
+      <created_at>2007-09-20T13:20:28Z</created_at>
+      <updated_at>2013-04-27T10:41:22Z</updated_at>
+      <description>Epsilon is a family of integrated model management languages for tasks such as model navigation and modification, transformation, validation, comparison, merging etc. 
+
+Epsilon can be used to manage models of different modeling technologies (EMF, MDR) and is supported by Eclipse plugins (editors, outline viewers, launch configurations etc). 
+
+Epsilon also provides a number of Eclipse-based tools such as tools for code profiling and monitoring, an ANT-based workflow for defining complex chains of model management operations, an extension of the built-in reflective EMF editor (Exeed) that enables users to customize its appearence (icons and labels), and a multi-tab editor (ModeLink) that enables users to establish arbitrary links between different EMF models.</description>
+      <homepage_url>http://www.eclipse.org/gmt/epsilon/</homepage_url>
+      <download_url>http://www.eclipse.org/gmt/epsilon/download.php</download_url>
+      <url_name>epsilon</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43169/epsilonlogo_reasonably_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43169/epsilonlogo_reasonably_small_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13718983</analysis_id>
+      <tags>
+        <tag>eclipse_plugin</tag>
+        <tag>mof</tag>
+        <tag>framework</tag>
+        <tag>metamodel</tag>
+        <tag>modelling</tag>
+        <tag>mda</tag>
+        <tag>modeling</tag>
+        <tag>mdd</tag>
+        <tag>transformation</tag>
+        <tag>model_validation</tag>
+        <tag>language</tag>
+        <tag>emf</tag>
+        <tag>uml</tag>
+        <tag>gmf</tag>
+        <tag>development</tag>
+        <tag>mde</tag>
+        <tag>uml2</tag>
+        <tag>xmi</tag>
+        <tag>refactoring</tag>
+        <tag>model</tag>
+        <tag>m2m</tag>
+        <tag>eclipse</tag>
+      </tags>
+      <analysis>
+        <id>13718983</id>
+        <url>http://www.ohloh.net/analyses/13718983.xml</url>
+        <project_id>8615</project_id>
+        <updated_at>2013-04-27T10:41:21Z</updated_at>
+        <logged_at>2013-04-27T10:41:05Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>2415241</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/epsilon/analyses/13718983/languages.png">
+          <language color="555555" percentage="85" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="14" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

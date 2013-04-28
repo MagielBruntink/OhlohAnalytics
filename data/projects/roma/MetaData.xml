@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8647</id>
+      <name>Roma Meta Framework</name>
+      <url>http://www.ohloh.net/p/roma.xml</url>
+      <html_url>http://www.ohloh.net/p/roma</html_url>
+      <created_at>2007-09-21T12:47:50Z</created_at>
+      <updated_at>2012-10-16T09:14:26Z</updated_at>
+      <description>Roma is an Open Source initiative to make Java application development easy. The approach is totally DDD: let's think to the domain of your application and Roma will make the rest: persistence (database), presentation (HTML + Ajax), logging, user management, sessions, workflow, scheduler, etc.
+
+Roma is a Meta Framework namely a tool that aims to remove dependencies between your application code and frameworks and tools you use. This allows you to change the technology at zero cost without any changes to your application code.
+
+Roma is also a MDA implementation since takes its concepts and philosophy but it's totally based on POJOs without to learn other micro languages and complex standards.</description>
+      <homepage_url>http://www.romaframework.org</homepage_url>
+      <download_url>https://sourceforge.net/project/platformdownload.php?group_id=162641</download_url>
+      <url_name>roma</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7736/roma64x64_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7736/roma64x64_small.jpg</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10622504</analysis_id>
+      <tags>
+        <tag>ddd</tag>
+        <tag>object</tag>
+        <tag>object_oriented</tag>
+        <tag>framework</tag>
+        <tag>aspect</tag>
+        <tag>metaprogramming</tag>
+        <tag>metamodel</tag>
+        <tag>ruby</tag>
+        <tag>mda</tag>
+        <tag>jdo</tag>
+        <tag>echo2</tag>
+        <tag>ajax</tag>
+        <tag>domain</tag>
+        <tag>web</tag>
+        <tag>pojo</tag>
+        <tag>lightweight</tag>
+        <tag>persistence</tag>
+        <tag>objectoriented</tag>
+        <tag>java</tag>
+        <tag>jee</tag>
+      </tags>
+      <analysis>
+        <id>10622504</id>
+        <url>http://www.ohloh.net/analyses/10622504.xml</url>
+        <project_id>8647</project_id>
+        <updated_at>2012-10-16T09:14:19Z</updated_at>
+        <logged_at>2012-10-16T09:09:48Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>296365</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/roma/analyses/10622504/languages.png">
+          <language color="9A63AD" percentage="54" id="5">
+Java          </language>
+          <language color="A4007E" percentage="29" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

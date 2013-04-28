@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7270</id>
+      <name>Virtual Machine Manager</name>
+      <url>http://www.ohloh.net/p/virt-manager.xml</url>
+      <html_url>http://www.ohloh.net/p/virt-manager</html_url>
+      <created_at>2007-08-07T23:32:14Z</created_at>
+      <updated_at>2013-04-24T16:58:14Z</updated_at>
+      <description>The &quot;Virtual Machine Manager&quot; application (virt-manager for short package name) is a desktop user interface for managing virtual machines. It presents a summary view of running domains and their live performance &amp; resource utilization statistics. A detailed view presents graphs showing performance &amp; utilization over time. Ultimately it will allow creation of new domains, and configuration &amp; adjustment of a domain's resource allocation &amp; virtual hardware. Finally an embedded VNC client viewer presents a full graphical console to the guest domain.</description>
+      <homepage_url>http://virt-manager.org</homepage_url>
+      <download_url>http://virt-manager.org/download.html</download_url>
+      <url_name>virt-manager</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13702010</analysis_id>
+      <tags>
+        <tag>virtualisation</tag>
+        <tag>system-management</tag>
+        <tag>monitoring</tag>
+        <tag>sysadmin</tag>
+        <tag>kvm</tag>
+        <tag>libvirt</tag>
+        <tag>virtual_machines</tag>
+        <tag>xen</tag>
+        <tag>vm</tag>
+        <tag>managementconsole</tag>
+        <tag>systemsmanagement</tag>
+        <tag>management</tag>
+      </tags>
+      <analysis>
+        <id>13702010</id>
+        <url>http://www.ohloh.net/analyses/13702010.xml</url>
+        <project_id>7270</project_id>
+        <updated_at>2013-04-24T16:58:14Z</updated_at>
+        <logged_at>2013-04-24T16:53:43Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>77273</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/virt-manager/analyses/13702010/languages.png">
+          <language color="4A246B" percentage="52" id="9">
+Python          </language>
+          <language color="555555" percentage="48" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

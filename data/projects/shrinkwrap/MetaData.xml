@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480466</id>
+      <name>ShrinkWrap</name>
+      <url>http://www.ohloh.net/p/shrinkwrap.xml</url>
+      <html_url>http://www.ohloh.net/p/shrinkwrap</html_url>
+      <created_at>2010-01-13T14:49:14Z</created_at>
+      <updated_at>2013-04-22T21:46:31Z</updated_at>
+      <description>Shrinkwrap provides a simple API to assemble archives like JARs, WARs, and EARs in Java.
+
+However useful, archives typically require the addition of a build step within the development lifecycle, either via a script or extra tool.  The ShrinkWrap project provides a simple API to declaratively assemble archives in code, optionally allowing for export into ZIP or Exploded File formats.  This makes is very fast to prototype &quot;virtual&quot; archives from resources scattered about the classpath, the filesystem or remote URLs.</description>
+      <homepage_url>http://jboss.org/shrinkwrap</homepage_url>
+      <download_url>http://jboss.org/shrinkwrap/downloads.html</download_url>
+      <url_name>shrinkwrap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29823/shrinkwrap_icon_64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29823/shrinkwrap_icon_64px_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13686196</analysis_id>
+      <tags>
+        <tag>classes</tag>
+        <tag>virtualfilesystem</tag>
+        <tag>tomcat</tag>
+        <tag>jboss</tag>
+        <tag>java</tag>
+        <tag>ear</tag>
+        <tag>jar</tag>
+        <tag>testing</tag>
+        <tag>archive</tag>
+        <tag>war</tag>
+        <tag>javaee</tag>
+        <tag>jetty</tag>
+        <tag>glassfish</tag>
+        <tag>classpath</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>13686196</id>
+        <url>http://www.ohloh.net/analyses/13686196.xml</url>
+        <project_id>480466</project_id>
+        <updated_at>2013-04-22T21:46:30Z</updated_at>
+        <logged_at>2013-04-22T21:40:25Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>714609</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/shrinkwrap/analyses/13686196/languages.png">
+          <language color="47A400" percentage="78" id="1">
+HTML          </language>
+          <language color="556677" percentage="8" id="35">
+XML Schema          </language>
+          <language color="9A63AD" percentage="6" id="5">
+Java          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3305</id>
+      <name>Dizkus</name>
+      <url>http://www.ohloh.net/p/dizkus.xml</url>
+      <html_url>http://www.ohloh.net/p/dizkus</html_url>
+      <created_at>2006-10-22T16:30:29Z</created_at>
+      <updated_at>2012-05-19T06:04:03Z</updated_at>
+      <description>Dizkus, formerly pnForum, is a fully integrated forum module for the Zikula/Postnuke.
+
+It uses smarty-based pnRender templates, the Zikula-API and permission system.
+
+Originally based on phpBB 1.4 there is not a single line of original code left over as it is a more or less total rewrite.</description>
+      <homepage_url>http://code.zikula.org/dizkus/</homepage_url>
+      <download_url>http://code.zikula.org/dizkus/</download_url>
+      <url_name>dizkus</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34545/admin_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34545/admin_small.gif</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>3609988</analysis_id>
+      <tags>
+        <tag>permission</tag>
+        <tag>forum</tag>
+        <tag>zikula</tag>
+        <tag>template</tag>
+        <tag>postnuke</tag>
+        <tag>php</tag>
+        <tag>api</tag>
+        <tag>community</tag>
+        <tag>pnrender</tag>
+        <tag>smarty</tag>
+      </tags>
+      <analysis>
+        <id>3609988</id>
+        <url>http://www.ohloh.net/analyses/3609988.xml</url>
+        <project_id>3305</project_id>
+        <updated_at>2011-09-05T15:34:16Z</updated_at>
+        <logged_at>2011-09-05T15:34:03Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>13700</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dizkus/analyses/3609988/languages.png">
+          <language color="356AA0" percentage="59" id="2">
+PHP          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

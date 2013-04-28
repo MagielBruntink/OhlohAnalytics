@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484417</id>
+      <name>ROS</name>
+      <url>http://www.ohloh.net/p/ROSorg.xml</url>
+      <html_url>http://www.ohloh.net/p/ROSorg</html_url>
+      <created_at>2010-07-30T02:25:37Z</created_at>
+      <updated_at>2013-04-25T08:22:51Z</updated_at>
+      <description>ROS (Robot Operating System) provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more.
+
+This is just the core part of the ros platform, common tools and stacks can be found in this project:
+https://www.ohloh.net/p/ros-pkg</description>
+      <homepage_url>http://ros.org</homepage_url>
+      <download_url>http://www.ros.org/wiki/ROS/Installation</download_url>
+      <url_name>ROSorg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51993/ros64x64_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51993/ros64x64_small.jpg</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13705455</analysis_id>
+      <tags>
+        <tag>network</tag>
+        <tag>framework</tag>
+        <tag>python</tag>
+        <tag>ros</tag>
+        <tag>robotics</tag>
+        <tag>robot</tag>
+        <tag>c++</tag>
+        <tag>research</tag>
+        <tag>communication</tag>
+      </tags>
+      <analysis>
+        <id>13705455</id>
+        <url>http://www.ohloh.net/analyses/13705455.xml</url>
+        <project_id>484417</project_id>
+        <updated_at>2013-04-25T08:22:51Z</updated_at>
+        <logged_at>2013-04-25T07:52:38Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>77</twelve_month_contributor_count>
+        <total_code_lines>251896</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ROSorg/analyses/13705455/languages.png">
+          <language color="4A246B" percentage="41" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="40" id="44">
+C++          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

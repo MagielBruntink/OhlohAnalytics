@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>427448</id>
+      <name>DUNE-project</name>
+      <url>http://www.ohloh.net/p/dune-project.xml</url>
+      <html_url>http://www.ohloh.net/p/dune-project</html_url>
+      <created_at>2009-09-03T20:13:59Z</created_at>
+      <updated_at>2013-04-24T11:23:12Z</updated_at>
+      <description>DUNE, the Distributed and Unified Numerics Environment is a modular toolbox for solving partial differential equations (PDEs) with grid-based methods. It supports the easy implementation of methods like Finite Elements (FE), Finite Volumes (FV), and also Finite Differences (FD).</description>
+      <homepage_url>http://www.dune-project.org/</homepage_url>
+      <download_url>http://www.dune-project.org/downloadsvn.html</download_url>
+      <url_name>dune-project</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23913/dunelogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23913/dunelogo_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13700419</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>simulation</tag>
+        <tag>numericalmodeling</tag>
+        <tag>numerical</tag>
+        <tag>fem</tag>
+        <tag>programming</tag>
+        <tag>numeric</tag>
+        <tag>c</tag>
+        <tag>parallel</tag>
+        <tag>mathematics</tag>
+        <tag>maths</tag>
+        <tag>c++</tag>
+        <tag>science</tag>
+        <tag>numerics</tag>
+        <tag>framework</tag>
+        <tag>numericalrecipes</tag>
+        <tag>numericalalgorithm</tag>
+        <tag>gnu</tag>
+        <tag>differential_equations</tag>
+        <tag>physical_systems_modeling</tag>
+        <tag>high_performance_computing</tag>
+        <tag>algorithm</tag>
+      </tags>
+      <analysis>
+        <id>13700419</id>
+        <url>http://www.ohloh.net/analyses/13700419.xml</url>
+        <project_id>427448</project_id>
+        <updated_at>2013-04-24T11:23:11Z</updated_at>
+        <logged_at>2013-04-24T01:33:01Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>26</twelve_month_contributor_count>
+        <total_code_lines>373995</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dune-project/analyses/13700419/languages.png">
+          <language color="F35F1F" percentage="90" id="44">
+C++          </language>
+          <language color="000000" percentage="10" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>490015</id>
+      <name>Minetest</name>
+      <url>http://www.ohloh.net/p/minetest-c55.xml</url>
+      <html_url>http://www.ohloh.net/p/minetest-c55</html_url>
+      <created_at>2011-04-18T18:26:52Z</created_at>
+      <updated_at>2013-04-24T16:33:26Z</updated_at>
+      <description>Minetest is an infinite-world block sandbox game and a game engine, inspired by InfiniMiner, Minecraft and the like.</description>
+      <homepage_url>http://c55.me/minetest/</homepage_url>
+      <download_url>http://c55.me/minetest/download</download_url>
+      <url_name>minetest-c55</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53774/minetest-icon-120_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53774/minetest-icon-120_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13691314</analysis_id>
+      <tags>
+        <tag>game_engine</tag>
+        <tag>infinite_world</tag>
+        <tag>mining</tag>
+        <tag>game</tag>
+        <tag>3d</tag>
+        <tag>exploration</tag>
+        <tag>multiplayer</tag>
+        <tag>sandbox</tag>
+        <tag>sandbox_game</tag>
+      </tags>
+      <analysis>
+        <id>13691314</id>
+        <url>http://www.ohloh.net/analyses/13691314.xml</url>
+        <project_id>490015</project_id>
+        <updated_at>2013-04-23T07:00:16Z</updated_at>
+        <logged_at>2013-04-23T06:56:57Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>79</twelve_month_contributor_count>
+        <total_code_lines>85622</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/minetest-c55/analyses/13691314/languages.png">
+          <language color="F35F1F" percentage="84" id="44">
+C++          </language>
+          <language color="A42E00" percentage="11" id="27">
+Lua          </language>
+          <language color="000000" percentage="5" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

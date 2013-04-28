@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11861</id>
+      <name>hpodder</name>
+      <url>http://www.ohloh.net/p/hpodder.xml</url>
+      <html_url>http://www.ohloh.net/p/hpodder</html_url>
+      <created_at>2008-02-18T18:45:15Z</created_at>
+      <updated_at>2012-02-22T19:25:45Z</updated_at>
+      <description>Hpodder is a tool to scan and download podcasts. Such tools are often called podcatchers.
+
+hpodder is a command-line tool for Linux. It has quite a few features. A few highlights are that it is easy to learn and use, has automatic discovery of feed metadata, and can import iPodder settings.</description>
+      <homepage_url>http://software.complete.org/hpodder</homepage_url>
+      <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/hpodder</download_url>
+      <url_name>hpodder</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2750741</analysis_id>
+      <tags>
+        <tag>haskell</tag>
+        <tag>podcast</tag>
+        <tag>sound</tag>
+        <tag>mp3</tag>
+        <tag>podcasting</tag>
+        <tag>ipod</tag>
+      </tags>
+      <analysis>
+        <id>2750741</id>
+        <url>http://www.ohloh.net/analyses/2750741.xml</url>
+        <project_id>11861</project_id>
+        <updated_at>2011-07-16T20:36:53Z</updated_at>
+        <logged_at>2011-07-16T20:36:12Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3864</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hpodder/analyses/2750741/languages.png">
+          <language color="007B7C" percentage="93" id="38">
+Haskell          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

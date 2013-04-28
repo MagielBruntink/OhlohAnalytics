@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7148</id>
+      <name>LAPACK</name>
+      <url>http://www.ohloh.net/p/lapack.xml</url>
+      <html_url>http://www.ohloh.net/p/lapack</html_url>
+      <created_at>2007-08-04T05:48:44Z</created_at>
+      <updated_at>2013-01-18T12:38:24Z</updated_at>
+      <description>LAPACK provides routines for solving systems of simultaneous linear equations, least-squares solutions of linear systems of equations, eigenvalue problems, and singular value problems. The associated matrix factorizations (LU, Cholesky, QR, SVD, Schur, generalized Schur) are also provided, as are related computations such as reordering of the Schur factorizations and estimating condition numbers. Dense and banded matrices are handled, but not general sparse matrices. In all areas, similar functionality is provided for real and complex matrices, in both single and double precision.
+
+Note: Ohloh's statistics are not accurate.  LAPACK has dozens of major contributors, but most do not use any form of source control.  Contributions are merged by only a few people, and then only in bursts.</description>
+      <homepage_url>http://www.netlib.org/lapack/</homepage_url>
+      <download_url>http://www.netlib.org/lapack/</download_url>
+      <url_name>lapack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9919/Lapack_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9919/Lapack_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>1802528</analysis_id>
+      <tags>
+        <tag>floatingpoint</tag>
+        <tag>linearsolve</tag>
+        <tag>eigenvalue</tag>
+        <tag>svd</tag>
+        <tag>linearsystems</tag>
+        <tag>qr</tag>
+        <tag>maths</tag>
+        <tag>mathematics</tag>
+        <tag>eigenvector</tag>
+        <tag>math</tag>
+        <tag>numerical</tag>
+        <tag>linearalgebra</tag>
+        <tag>fortran</tag>
+        <tag>singularvalue</tag>
+      </tags>
+      <analysis>
+        <id>1802528</id>
+        <url>http://www.ohloh.net/analyses/1802528.xml</url>
+        <project_id>7148</project_id>
+        <updated_at>2011-03-25T02:56:34Z</updated_at>
+        <logged_at>2009-08-11T03:29:00Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>3072030</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lapack/analyses/1802528/languages.png">
+          <language color="EEE" percentage="79" id="40">
+Fortran (Fixed-format)          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>40</main_language_id>
+        <main_language_name>Fortran (Fixed-format)</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

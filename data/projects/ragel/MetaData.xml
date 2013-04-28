@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7967</id>
+      <name>Ragel</name>
+      <url>http://www.ohloh.net/p/ragel.xml</url>
+      <html_url>http://www.ohloh.net/p/ragel</html_url>
+      <created_at>2007-08-25T17:42:00Z</created_at>
+      <updated_at>2012-04-28T10:57:46Z</updated_at>
+      <description>Ragel compiles finite state machines from regular languages into executable C, C++, Objective-C, D, Java or Ruby code. Ragel state machines can not only recognize byte sequences as regular expression machines do, but can also execute code at arbitrary points in the recognition of a regular language. Code embedding is done using inline operators that do not disrupt the regular language syntax.</description>
+      <homepage_url>http://www.complang.org/ragel/</homepage_url>
+      <download_url>http://www.complang.org/ragel/</download_url>
+      <url_name>ragel</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.83333</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7891453</analysis_id>
+      <tags>
+        <tag>compiler</tag>
+        <tag>scanner</tag>
+        <tag>code_generator</tag>
+        <tag>development</tag>
+        <tag>lexical_analysis</tag>
+        <tag>parser</tag>
+        <tag>programming</tag>
+        <tag>lexer</tag>
+        <tag>parsing</tag>
+        <tag>grammar</tag>
+        <tag>utilities</tag>
+      </tags>
+      <analysis>
+        <id>7891453</id>
+        <url>http://www.ohloh.net/analyses/7891453.xml</url>
+        <project_id>7967</project_id>
+        <updated_at>2012-04-28T10:57:46Z</updated_at>
+        <logged_at>2012-04-28T10:47:07Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>40889</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ragel/analyses/7891453/languages.png">
+          <language color="F35F1F" percentage="85" id="44">
+C++          </language>
+          <language color="000080" percentage="7" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="8" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
