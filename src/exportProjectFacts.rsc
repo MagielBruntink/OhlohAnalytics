@@ -14,11 +14,11 @@ public void exportFactsForAllProjects() {
 	
 	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
 	allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-	//logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
-	//writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
+	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
+	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
 	
 	logToConsole("exportFactsForAllProject", "Calculating grouped monthly facts by year for all projects...");
-	allYearlyFacts=groupMonthlyFactsByYear(allMonthlyFacts);
+	allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
 	logToConsole("exportFactsForAllProject", "Exporting all yearly facts grouped to CSV for all projects: " + "allYearlyFacts.csv");
 	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
 	
