@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20133</id>
+      <name>h5py</name>
+      <url>http://www.ohloh.net/p/h5py.xml</url>
+      <html_url>http://www.ohloh.net/p/h5py</html_url>
+      <created_at>2008-10-07T12:56:23Z</created_at>
+      <updated_at>2013-01-29T11:35:10Z</updated_at>
+      <description>The h5py package is a Pythonic interface to the HDF5 binary data format.
+
+It lets you store huge amounts of numerical data, and easily manipulate that data from NumPy. For example, you can slice into multi-terabyte datasets stored on disk, as if they were real NumPy arrays. Thousands of datasets can be stored in a single file, categorized and tagged however you want.
+
+H5py uses straightforward NumPy and Python metaphors, like dictionary and NumPy array syntax. You can iterate over datasets in a file, or check out the .shape or .dtype attributes of datasets; you don't need to know anything special about HDF5 to get started.
+
+Best of all, the files you create are in a standard binary format you can exchange with other people, including those who use programs like IDL and MATLAB.</description>
+      <homepage_url>http://code.google.com/p/h5py</homepage_url>
+      <download_url></download_url>
+      <url_name>h5py</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60674/grav_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60674/grav_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11867462</analysis_id>
+      <tags>
+        <tag>cython</tag>
+        <tag>netcdf</tag>
+        <tag>numerical</tag>
+        <tag>hdf</tag>
+        <tag>pyrex</tag>
+        <tag>science</tag>
+        <tag>scipy</tag>
+        <tag>wrapper</tag>
+        <tag>hdf5</tag>
+        <tag>physics</tag>
+        <tag>swig</tag>
+        <tag>binding</tag>
+        <tag>python</tag>
+        <tag>numpy</tag>
+        <tag>h5</tag>
+      </tags>
+      <analysis>
+        <id>11867462</id>
+        <url>http://www.ohloh.net/analyses/11867462.xml</url>
+        <project_id>20133</project_id>
+        <updated_at>2012-12-27T21:25:32Z</updated_at>
+        <logged_at>2012-12-27T21:15:34Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>4842</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/h5py/analyses/11867462/languages.png">
+          <language color="4A246B" percentage="83" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="13" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

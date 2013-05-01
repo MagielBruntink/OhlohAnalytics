@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8680</id>
+      <name>Instant Picture Creator</name>
+      <url>http://www.ohloh.net/p/instant-picture-creator.xml</url>
+      <html_url>http://www.ohloh.net/p/instant-picture-creator</html_url>
+      <created_at>2007-09-22T12:09:34Z</created_at>
+      <updated_at>2013-01-30T11:14:51Z</updated_at>
+      <description>Instant Picture Creator is a wrapper to produce images on demand for Web sites. It has filter management, and it's possible to add new filters. It can cache filtered images, works independently (no backend is needed), and is easy to integrate with existing Web sites.
+
+It includes two basic filters for resizing images and manipulating colour palettes.
+
+Currently it supports PNG, GIF, and JPEG.</description>
+      <homepage_url>http://eye48.com/go/ipc</homepage_url>
+      <download_url>https://github.com/haschek/Instant-Picture-Creator/archives/master</download_url>
+      <url_name>instant-picture-creator</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12365786</analysis_id>
+      <tags>
+        <tag>picture</tag>
+        <tag>resize</tag>
+        <tag>photo</tag>
+        <tag>manipulation</tag>
+        <tag>png</tag>
+        <tag>gif</tag>
+        <tag>image</tag>
+        <tag>filter</tag>
+        <tag>php</tag>
+        <tag>jpeg</tag>
+        <tag>gd</tag>
+        <tag>image_transform</tag>
+        <tag>image_processing</tag>
+        <tag>instant</tag>
+        <tag>resizing</tag>
+        <tag>processing</tag>
+        <tag>transform</tag>
+      </tags>
+      <analysis>
+        <id>12365786</id>
+        <url>http://www.ohloh.net/analyses/12365786.xml</url>
+        <project_id>8680</project_id>
+        <updated_at>2013-02-07T02:46:20Z</updated_at>
+        <logged_at>2013-02-07T02:45:22Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2233</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/instant-picture-creator/analyses/12365786/languages.png">
+          <language color="356AA0" percentage="99" id="2">
+PHP          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6169</id>
+      <name>Hypermail</name>
+      <url>http://www.ohloh.net/p/hypermail.xml</url>
+      <html_url>http://www.ohloh.net/p/hypermail</html_url>
+      <created_at>2007-06-21T13:43:53Z</created_at>
+      <updated_at>2011-03-13T17:46:14Z</updated_at>
+      <description>Hypermail is a free (GPL) program to convert email from Unix mbox format to html.</description>
+      <homepage_url>http://www.hypermail-project.org/</homepage_url>
+      <download_url>http://www.hypermail-project.org/</download_url>
+      <url_name>hypermail</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1770167</analysis_id>
+      <tags>
+        <tag>html</tag>
+        <tag>mbox</tag>
+        <tag>conversion</tag>
+      </tags>
+      <analysis>
+        <id>1770167</id>
+        <url>http://www.ohloh.net/analyses/1770167.xml</url>
+        <project_id>6169</project_id>
+        <updated_at>2011-03-13T17:46:14Z</updated_at>
+        <logged_at>2009-11-03T19:29:48Z</logged_at>
+        <min_month>2000-05-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>91455</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hypermail/analyses/1770167/languages.png">
+          <language color="FF8F00" percentage="36" id="42">
+C          </language>
+          <language color="777777" percentage="27" id="11">
+shell script          </language>
+          <language color="EEE" percentage="21" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="16" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

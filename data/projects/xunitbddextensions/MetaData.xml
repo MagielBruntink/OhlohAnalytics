@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>78479</id>
+      <name>xunitbddextensions</name>
+      <url>http://www.ohloh.net/p/xunitbddextensions.xml</url>
+      <html_url>http://www.ohloh.net/p/xunitbddextensions</html_url>
+      <created_at>2008-12-20T04:26:53Z</created_at>
+      <updated_at>2012-02-23T01:50:33Z</updated_at>
+      <description>A little framework build on top of xUnit which enables a context/specification style of testing with xUnit.net.  
+
+Besides an emphasis on a &quot;test case class per fixture&quot; organization scheme for tests and AAA (Arrange, Act and Assert) style of writing tests, this framework also provides Rhino.Mocks integration out of the box. 
+
+The framework is based on JP Boodhoos BDD extensions for MBUnit used in his &quot;Nothing but .NET&quot; bootcamps.</description>
+      <homepage_url>http://github.com/BjRo/xunitbddextensions</homepage_url>
+      <download_url>http://code.google.com/p/xunitbddextensions/downloads/list</download_url>
+      <url_name>xunitbddextensions</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15216/dotnet_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15216/dotnet_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1887632</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>bdd</tag>
+        <tag>xunit</tag>
+      </tags>
+      <analysis>
+        <id>1887632</id>
+        <url>http://www.ohloh.net/analyses/1887632.xml</url>
+        <project_id>78479</project_id>
+        <updated_at>2011-04-05T04:18:58Z</updated_at>
+        <logged_at>2011-02-14T16:32:36Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>62766</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xunitbddextensions/analyses/1887632/languages.png">
+          <language color="555555" percentage="72" id="3">
+XML          </language>
+          <language color="4096EE" percentage="27" id="17">
+C#          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

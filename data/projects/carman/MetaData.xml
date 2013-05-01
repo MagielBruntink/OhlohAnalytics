@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7370</id>
+      <name>Carman</name>
+      <url>http://www.ohloh.net/p/carman.xml</url>
+      <html_url>http://www.ohloh.net/p/carman</html_url>
+      <created_at>2007-08-11T01:21:07Z</created_at>
+      <updated_at>2009-09-08T19:51:01Z</updated_at>
+      <description>Carman is an OBD-II analyzer for Maemo.</description>
+      <homepage_url>https://garage.maemo.org/projects/carman/</homepage_url>
+      <download_url></download_url>
+      <url_name>carman</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5282/carman_64x54_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5282/carman_64x54_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>697844</analysis_id>
+      <tags>
+        <tag>nokia</tag>
+        <tag>openbossa</tag>
+        <tag>maemo</tag>
+        <tag>garage</tag>
+      </tags>
+      <analysis>
+        <id>697844</id>
+        <url>http://www.ohloh.net/analyses/697844.xml</url>
+        <project_id>7370</project_id>
+        <updated_at>2010-01-15T04:25:32Z</updated_at>
+        <logged_at>2010-01-15T03:59:16Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>61800</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/carman/analyses/697844/languages.png">
+          <language color="FF8F00" percentage="56" id="42">
+C          </language>
+          <language color="4A246B" percentage="34" id="9">
+Python          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

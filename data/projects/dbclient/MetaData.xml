@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>2912</id>
+      <name>dbclient</name>
+      <url>http://www.ohloh.net/p/dbclient.xml</url>
+      <html_url>http://www.ohloh.net/p/dbclient</html_url>
+      <created_at>2006-10-12T09:40:04Z</created_at>
+      <updated_at>2011-03-09T22:50:43Z</updated_at>
+      <description>Simple yet Powerful Jdbc Tool for browsing Relational databases.
+DBClient provides both a convenient SQL Editor (highlighting, auto-complete, ...) and automated Browsing and Refactoring Actions (Select, Drop, etc...).
+Since release 0.3, it is massively based on Plugins architecture which makes it very extensible.</description>
+      <homepage_url>https://dbclient.dev.java.net</homepage_url>
+      <download_url>http://dbclient.dev.java.net/release/0.4/dbclient-0.4.zip</download_url>
+      <url_name>dbclient</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7577/dbclient128_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7577/dbclient128_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>1761767</analysis_id>
+      <tags>
+        <tag>hsqldb</tag>
+        <tag>jdbc</tag>
+        <tag>swing</tag>
+        <tag>database</tag>
+        <tag>odbc</tag>
+        <tag>sql</tag>
+        <tag>derby</tag>
+        <tag>postgresql</tag>
+        <tag>mysql</tag>
+        <tag>front-ends</tag>
+        <tag>java</tag>
+        <tag>oracle</tag>
+        <tag>db2</tag>
+        <tag>gui</tag>
+      </tags>
+      <analysis>
+        <id>1761767</id>
+        <url>http://www.ohloh.net/analyses/1761767.xml</url>
+        <project_id>2912</project_id>
+        <updated_at>2011-03-09T22:50:43Z</updated_at>
+        <logged_at>2011-02-28T13:04:10Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>127258</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dbclient/analyses/1761767/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587602</id>
+      <name>LEAP ORM for Kohana</name>
+      <url>http://www.ohloh.net/p/leap-orm-for-kohana.xml</url>
+      <html_url>http://www.ohloh.net/p/leap-orm-for-kohana</html_url>
+      <created_at>2011-12-05T10:35:46Z</created_at>
+      <updated_at>2012-04-14T20:52:28Z</updated_at>
+      <description>LEAP is Object Relation Modeling (ORM) library for the Kohana PHP Framework.  It is a completely independent module.  It handles everything from managing database connections to query building to table modeling.  It is simple to use and only takes a few minutes to install.  LEAP works with all major databases, not just MySQL.  It works with DB2, Firebird, MariaDB, MS SQL, MySQL, Oracle, PostgreSQL, and SQLite.  It allows the user to select the type of database driver to use.
+
+LEAP has a number of cool features, such as aliasing, a set of field adaptor classes, a handful of helper functions, and a database connection pool.  It can also handle composite keys.  All features are well documented and classes easily extendible.</description>
+      <homepage_url>http://orm.spadefootcode.com/</homepage_url>
+      <download_url>https://github.com/spadefoot/kohana-orm-leap/downloads</download_url>
+      <url_name>leap-orm-for-kohana</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7378380</analysis_id>
+      <tags>
+        <tag>databases</tag>
+        <tag>orm_(object-relational_mapping)</tag>
+        <tag>crud</tag>
+        <tag>activerecord</tag>
+        <tag>kohana</tag>
+        <tag>active_record</tag>
+        <tag>objectrelationalmapping</tag>
+        <tag>ormmapper</tag>
+        <tag>kohanaphp</tag>
+        <tag>pdo</tag>
+        <tag>php</tag>
+        <tag>orm</tag>
+        <tag>database</tag>
+        <tag>orm_mapper</tag>
+        <tag>kohana3</tag>
+        <tag>sql</tag>
+        <tag>dal</tag>
+        <tag>querybuilder</tag>
+        <tag>datamodeling</tag>
+      </tags>
+      <analysis>
+        <id>7378380</id>
+        <url>http://www.ohloh.net/analyses/7378380.xml</url>
+        <project_id>587602</project_id>
+        <updated_at>2012-04-02T16:21:49Z</updated_at>
+        <logged_at>2012-04-02T16:21:45Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>12656</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/leap-orm-for-kohana/analyses/7378380/languages.png">
+          <language color="356AA0" percentage="81" id="2">
+PHP          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

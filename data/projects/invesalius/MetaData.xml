@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480833</id>
+      <name>InVesalius</name>
+      <url>http://www.ohloh.net/p/invesalius.xml</url>
+      <html_url>http://www.ohloh.net/p/invesalius</html_url>
+      <created_at>2010-01-30T12:58:56Z</created_at>
+      <updated_at>2013-04-26T08:51:29Z</updated_at>
+      <description>InVesalius is a medical public software which aims to assist diagnosis and surgical planning. Based on a sequence of two dimensional (2D) DICOM images, acquired through computed tomography or magnetic resonance equipments, InVesalius software allows the reconstruction of virtual three dimensional (3D) models, correspondent to the anatomical region of interest. Both volume rendering and 3D surface export to STL, OBJ and other file-formats are supported.
+
+The software has shown to be versatile, contributing with various fields, among which medicine, odontology, veterinary, archeology and engineering.
+
+InVesalius is multi-platform (GNU Linux, Windows and MacOS X) and internationalized (English, Portuguese, French and Spanish).</description>
+      <homepage_url>http://svn.softwarepublico.gov.br/trac/invesalius</homepage_url>
+      <download_url>http://svn.softwarepublico.gov.br/trac/invesalius/wiki/downloads/3.0-beta-1</download_url>
+      <url_name>invesalius</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29635/invesalius_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29635/invesalius_logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3354221</analysis_id>
+      <tags>
+        <tag>pil</tag>
+        <tag>spb</tag>
+        <tag>processing</tag>
+        <tag>itk</tag>
+        <tag>visualization</tag>
+        <tag>stl</tag>
+        <tag>dicom</tag>
+        <tag>medical</tag>
+        <tag>vtk</tag>
+        <tag>software-publico</tag>
+        <tag>numpy</tag>
+        <tag>python</tag>
+        <tag>wxpython</tag>
+        <tag>gdcm</tag>
+      </tags>
+      <analysis>
+        <id>3354221</id>
+        <url>http://www.ohloh.net/analyses/3354221.xml</url>
+        <project_id>480833</project_id>
+        <updated_at>2011-08-17T02:26:29Z</updated_at>
+        <logged_at>2011-08-17T02:25:51Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>286653</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/invesalius/analyses/3354221/languages.png">
+          <language color="4A246B" percentage="85" id="9">
+Python          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

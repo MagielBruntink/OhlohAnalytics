@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13512</id>
+      <name>RIMARO</name>
+      <url>http://www.ohloh.net/p/rimaro.xml</url>
+      <html_url>http://www.ohloh.net/p/rimaro</html_url>
+      <created_at>2008-04-23T12:20:30Z</created_at>
+      <updated_at>2011-03-19T12:27:52Z</updated_at>
+      <description>CMS and Web Framework hybrid written in PHP.
+
+Philosophy.
+  * DRY
+  * KISS
+  * TDD
+  * MVC
+  * ORM</description>
+      <homepage_url>http://rimaro.evp.lt</homepage_url>
+      <download_url>http://rimaro.evp.lt</download_url>
+      <url_name>rimaro</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1787343</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>php</tag>
+        <tag>framework</tag>
+        <tag>mvc</tag>
+        <tag>cms</tag>
+        <tag>php5</tag>
+      </tags>
+      <analysis>
+        <id>1787343</id>
+        <url>http://www.ohloh.net/analyses/1787343.xml</url>
+        <project_id>13512</project_id>
+        <updated_at>2011-03-19T12:27:52Z</updated_at>
+        <logged_at>2008-12-21T05:31:44Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>27221</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rimaro/analyses/1787343/languages.png">
+          <language color="356AA0" percentage="77" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

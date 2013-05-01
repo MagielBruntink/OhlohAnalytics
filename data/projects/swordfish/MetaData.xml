@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>316678</id>
+      <name>Eclipse Swordfish</name>
+      <url>http://www.ohloh.net/p/swordfish.xml</url>
+      <html_url>http://www.ohloh.net/p/swordfish</html_url>
+      <created_at>2009-02-19T09:08:24Z</created_at>
+      <updated_at>2011-03-25T16:51:43Z</updated_at>
+      <description>The goal of the Swordfish project is to provide an extensible SOA framework based on the proven Eclipse Equinox runtime technology. The framework is designed to be complemented by additional open source components such as a service registry, a messaging system, a process engine etc. to form a comprehensive open source SOA runtime environment based on both established and emerging open standards.</description>
+      <homepage_url>http://www.eclipse.org/swordfish/</homepage_url>
+      <download_url>http://www.eclipse.org/swordfish/downloads/</download_url>
+      <url_name>swordfish</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14669/SWORDFISH64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14669/SWORDFISH64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1809932</analysis_id>
+      <tags>
+        <tag>serviceorientedarchitecture</tag>
+        <tag>framework</tag>
+        <tag>equinox</tag>
+        <tag>eclipse</tag>
+        <tag>services</tag>
+        <tag>osgi</tag>
+        <tag>jbi</tag>
+        <tag>soa</tag>
+      </tags>
+      <analysis>
+        <id>1809932</id>
+        <url>http://www.ohloh.net/analyses/1809932.xml</url>
+        <project_id>316678</project_id>
+        <updated_at>2011-03-25T16:51:42Z</updated_at>
+        <logged_at>2010-02-15T21:46:31Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>95428</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/swordfish/analyses/1809932/languages.png">
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="32" id="5">
+Java          </language>
+          <language color="556677" percentage="16" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="18" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

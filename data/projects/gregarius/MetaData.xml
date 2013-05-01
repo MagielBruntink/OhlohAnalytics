@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3470</id>
+      <name>Gregarius</name>
+      <url>http://www.ohloh.net/p/gregarius.xml</url>
+      <html_url>http://www.ohloh.net/p/gregarius</html_url>
+      <created_at>2006-10-28T22:56:31Z</created_at>
+      <updated_at>2011-03-11T02:13:12Z</updated_at>
+      <description>Gregarius is a web-based RSS/RDF/ATOM feed aggregator, designed to run on your web server, allowing you to access your news sources from wherever you want.</description>
+      <homepage_url>http://gregarius.net</homepage_url>
+      <download_url></download_url>
+      <url_name>gregarius</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1764431</analysis_id>
+      <tags>
+        <tag>rss_aggregator</tag>
+        <tag>rss</tag>
+        <tag>opml</tag>
+        <tag>aggregator</tag>
+        <tag>feedreader</tag>
+        <tag>syndication</tag>
+        <tag>feed</tag>
+        <tag>mysql</tag>
+        <tag>postgresql</tag>
+        <tag>web</tag>
+        <tag>atom</tag>
+        <tag>ajax</tag>
+        <tag>reader</tag>
+      </tags>
+      <analysis>
+        <id>1764431</id>
+        <url>http://www.ohloh.net/analyses/1764431.xml</url>
+        <project_id>3470</project_id>
+        <updated_at>2011-03-11T02:13:12Z</updated_at>
+        <logged_at>2010-08-15T12:24:22Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2009-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>19329</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gregarius/analyses/1764431/languages.png">
+          <language color="356AA0" percentage="83" id="2">
+PHP          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="7" id="4">
+CSS          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

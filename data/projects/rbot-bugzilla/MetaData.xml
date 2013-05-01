@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10564</id>
+      <name>rbot-bugzilla</name>
+      <url>http://www.ohloh.net/p/rbot-bugzilla.xml</url>
+      <html_url>http://www.ohloh.net/p/rbot-bugzilla</html_url>
+      <created_at>2007-12-28T14:40:47Z</created_at>
+      <updated_at>2011-03-18T01:00:39Z</updated_at>
+      <description>A simple Bugzilla (and Issuezilla) trackers client, allows you to get a basic summary of a bug (number, title, product/component, resolution, reporter and assignee) in IRC, by using the XML data related to the bug.</description>
+      <homepage_url>http://www.flameeyes.eu/projects#rbot-bugzilla</homepage_url>
+      <download_url>http://www.flameeyes.eu/downloads#rbot-bugzilla</download_url>
+      <url_name>rbot-bugzilla</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1781437</analysis_id>
+      <tags>
+        <tag>bugzilla</tag>
+        <tag>bot</tag>
+        <tag>xml</tag>
+        <tag>rbot</tag>
+        <tag>irc</tag>
+        <tag>bugs</tag>
+        <tag>ruby</tag>
+      </tags>
+      <analysis>
+        <id>1781437</id>
+        <url>http://www.ohloh.net/analyses/1781437.xml</url>
+        <project_id>10564</project_id>
+        <updated_at>2011-03-18T01:00:38Z</updated_at>
+        <logged_at></logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2008-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>738</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rbot-bugzilla/analyses/1781437/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
