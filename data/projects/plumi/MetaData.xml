@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10110</id>
+      <name>Plumi</name>
+      <url>http://www.ohloh.net/p/plumi.xml</url>
+      <html_url>http://www.ohloh.net/p/plumi</html_url>
+      <created_at>2007-12-07T17:43:00Z</created_at>
+      <updated_at>2011-04-03T06:52:32Z</updated_at>
+      <description>Plumi is a Free Software video sharing Content Management System based on Plone.
+ 
+Plumi enables you to create your own sophisticated video sharing site; by adding it to an existing Plone instance you can quickly have a wide array of functionality to facilitate video distribution and community creation.
+
+In a net landscape where almost all video sharing sites keep their distribution platform under lock and key, Plumi is one contribution to creating a truly democratic media.</description>
+      <homepage_url>http://www.plumi.org</homepage_url>
+      <download_url>http://www.plone.org/products/plumi/</download_url>
+      <url_name>plumi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28872/Plumilogo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28872/Plumilogo_small.jpg</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1873693</analysis_id>
+      <tags>
+        <tag>zope</tag>
+        <tag>plone</tag>
+        <tag>media</tag>
+        <tag>video</tag>
+        <tag>independent</tag>
+      </tags>
+      <analysis>
+        <id>1873693</id>
+        <url>http://www.ohloh.net/analyses/1873693.xml</url>
+        <project_id>10110</project_id>
+        <updated_at>2011-04-03T06:52:31Z</updated_at>
+        <logged_at>2010-11-21T11:32:30Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>9474</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/plumi/analyses/1873693/languages.png">
+          <language color="4A246B" percentage="58" id="9">
+Python          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>zope</name>
+          <nice_name>Zope Public License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16038</id>
+      <name>PDF Renderer</name>
+      <url>http://www.ohloh.net/p/pdf-renderer.xml</url>
+      <html_url>http://www.ohloh.net/p/pdf-renderer</html_url>
+      <created_at>2008-08-12T12:21:33Z</created_at>
+      <updated_at>2011-03-19T09:25:20Z</updated_at>
+      <description>The PDF Renderer is just what the name implies: an open source, all Java library which renders PDF documents to the screen using Java2D. Typically this means drawing into a Swing panel, but it could also draw to other Graphics2D implementations. We hope you will come up with cool things to do with it that we never thought of.
+
+PDF is one of the core file formats of the Internet, so it is very important for Java programmers to be able to both read and write PDFs. Great open source libraries like iText have long handled the writing half, but until now there has not been a good way to read PDFs using open source Java libraries. It could be used to draw on top of PDFs, share them over a network, convert PDFs to PNG images, or maybe even project PDFs into a 3D scene.</description>
+      <homepage_url>https://pdf-renderer.dev.java.net</homepage_url>
+      <download_url></download_url>
+      <url_name>pdf-renderer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1786657</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>java</tag>
+        <tag>pdf</tag>
+        <tag>viewer</tag>
+      </tags>
+      <analysis>
+        <id>1786657</id>
+        <url>http://www.ohloh.net/analyses/1786657.xml</url>
+        <project_id>16038</project_id>
+        <updated_at>2011-03-19T09:25:19Z</updated_at>
+        <logged_at>2011-03-03T12:11:48Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2010-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>90227</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pdf-renderer/analyses/1786657/languages.png">
+          <language color="47A400" percentage="74" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="21" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

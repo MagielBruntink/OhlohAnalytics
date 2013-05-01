@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6355</id>
+      <name>OpenGL-Image</name>
+      <url>http://www.ohloh.net/p/opengl-image.xml</url>
+      <html_url>http://www.ohloh.net/p/opengl-image</html_url>
+      <created_at>2007-07-01T06:49:00Z</created_at>
+      <updated_at>2011-03-14T20:20:38Z</updated_at>
+      <description>Perl module that provides tight integration between OpenGL and various imaging libraries.
+
+In the case of ImageMagick, C pointers may be shared between GPU and IM's image cache for optimized performance.</description>
+      <homepage_url>http://graphcomp.com/opengl/imaging</homepage_url>
+      <download_url>http://graphcomp.com/opengl/downloads</download_url>
+      <url_name>opengl-image</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1773051</analysis_id>
+      <tags>
+        <tag>gpgpu</tag>
+        <tag>opengl</tag>
+        <tag>rendering</tag>
+        <tag>gpu</tag>
+        <tag>3d</tag>
+        <tag>cross-platform</tag>
+        <tag>imagemagick</tag>
+        <tag>graphics</tag>
+        <tag>3d_rendering</tag>
+        <tag>perl-module</tag>
+      </tags>
+      <analysis>
+        <id>1773051</id>
+        <url>http://www.ohloh.net/analyses/1773051.xml</url>
+        <project_id>6355</project_id>
+        <updated_at>2011-03-14T20:20:38Z</updated_at>
+        <logged_at>2009-12-23T20:23:10Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2008-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1572</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opengl-image/analyses/1773051/languages.png">
+          <language color="D2C690" percentage="100" id="8">
+Perl          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

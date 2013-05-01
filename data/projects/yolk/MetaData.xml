@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6952</id>
+      <name>yolk</name>
+      <url>http://www.ohloh.net/p/yolk.xml</url>
+      <html_url>http://www.ohloh.net/p/yolk</html_url>
+      <created_at>2007-07-28T23:18:04Z</created_at>
+      <updated_at>2013-01-19T02:17:30Z</updated_at>
+      <description>Command-line tool querying PyPI (The Python Package Index) and Python packages installed on your system.</description>
+      <homepage_url>http://tools.assembla.com/yolk</homepage_url>
+      <download_url>http://cheeseshop.python.org/pypi/yolk/</download_url>
+      <url_name>yolk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12246012</analysis_id>
+      <analysis>
+        <id>12246012</id>
+        <url>http://www.ohloh.net/analyses/12246012.xml</url>
+        <project_id>6952</project_id>
+        <updated_at>2013-02-18T13:40:55Z</updated_at>
+        <logged_at>2013-02-18T13:40:17Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>2735</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yolk/analyses/12246012/languages.png">
+          <language color="4A246B" percentage="95" id="9">
+Python          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

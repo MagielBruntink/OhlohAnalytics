@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13140</id>
+      <name>PasteBot</name>
+      <url>http://www.ohloh.net/p/pastebot.xml</url>
+      <html_url>http://www.ohloh.net/p/pastebot</html_url>
+      <created_at>2008-04-03T10:25:24Z</created_at>
+      <updated_at>2012-05-22T19:24:56Z</updated_at>
+      <description>PasteBot is a simple pastebot written in mod_perl (only supports apache2/mod_perl2) that leverages the Text::VimColor Perl module to do syntax highlighting.</description>
+      <homepage_url>http://dollyfish.net.nz/projects/pastebot</homepage_url>
+      <download_url>http://dollyfish.net.nz/projects/pastebot</download_url>
+      <url_name>pastebot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8239618</analysis_id>
+      <analysis>
+        <id>8239618</id>
+        <url>http://www.ohloh.net/analyses/8239618.xml</url>
+        <project_id>13140</project_id>
+        <updated_at>2012-06-13T08:18:30Z</updated_at>
+        <logged_at>2012-06-13T08:17:56Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2009-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>389</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pastebot/analyses/8239618/languages.png">
+          <language color="D2C690" percentage="100" id="8">
+Perl          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25762</id>
+      <name>gaeutilities</name>
+      <url>http://www.ohloh.net/p/gaeutilities.xml</url>
+      <html_url>http://www.ohloh.net/p/gaeutilities</html_url>
+      <created_at>2008-10-22T02:39:52Z</created_at>
+      <updated_at>2013-02-21T21:15:10Z</updated_at>
+      <description>gaeutilities is a collection of utility classes to assist in development on Google's Appengine. It includes a sessions library built on the memcache and datastore, as well as a caching library built on the same principles. The purpose of the project is not only to provide extra functionality for the developer to build off of, but to make sure it performs as well as possible to create a low impact on quotas.</description>
+      <homepage_url>http://gaeutilities.appspot.com/</homepage_url>
+      <download_url>http://code.google.com/p/gaeutitlies/downloads/list</download_url>
+      <url_name>gaeutilities</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13550/appengine-library-grey-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13550/appengine-library-grey-64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10488890</analysis_id>
+      <tags>
+        <tag>utilities</tag>
+        <tag>appengine</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>10488890</id>
+        <url>http://www.ohloh.net/analyses/10488890.xml</url>
+        <project_id>25762</project_id>
+        <updated_at>2012-10-28T11:04:58Z</updated_at>
+        <logged_at>2012-10-27T20:03:10Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9132</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gaeutilities/analyses/10488890/languages.png">
+          <language color="FF1A00" percentage="58" id="4">
+CSS          </language>
+          <language color="4A246B" percentage="32" id="9">
+Python          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

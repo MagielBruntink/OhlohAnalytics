@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4310</id>
+      <name>climm</name>
+      <url>http://www.ohloh.net/p/climm.xml</url>
+      <html_url>http://www.ohloh.net/p/climm</html_url>
+      <created_at>2007-02-05T21:40:40Z</created_at>
+      <updated_at>2011-03-16T05:23:27Z</updated_at>
+      <description>climm is a very portable text-mode instant messenger &#8211; it is known to compile under Linux, BSD, AIX, HPUX, Windows, AmigaOS and with restrictions BeOS.
+
+climm was named mICQ in the past and started as ICQ-clone. It's intended to be a multi-messenger which supports other networks like Jabber/XMPP as well.</description>
+      <homepage_url>http://www.climm.org/</homepage_url>
+      <download_url>http://www.climm.org/download.shtml.en</download_url>
+      <url_name>climm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1776292</analysis_id>
+      <tags>
+        <tag>icq</tag>
+        <tag>chat</tag>
+        <tag>cli</tag>
+        <tag>messenger</tag>
+        <tag>jabber</tag>
+      </tags>
+      <analysis>
+        <id>1776292</id>
+        <url>http://www.ohloh.net/analyses/1776292.xml</url>
+        <project_id>4310</project_id>
+        <updated_at>2011-03-16T05:23:27Z</updated_at>
+        <logged_at>2010-09-13T11:34:27Z</logged_at>
+        <min_month>2001-01-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>84685</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/climm/analyses/1776292/languages.png">
+          <language color="FF8F00" percentage="82" id="42">
+C          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

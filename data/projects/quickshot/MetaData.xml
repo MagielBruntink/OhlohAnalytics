@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482513</id>
+      <name>Quickshot</name>
+      <url>http://www.ohloh.net/p/quickshot.xml</url>
+      <html_url>http://www.ohloh.net/p/quickshot</html_url>
+      <created_at>2010-04-20T12:02:46Z</created_at>
+      <updated_at>2012-08-14T04:44:00Z</updated_at>
+      <description>Quickshot is a program designed for capturing a large number of screenshots in different languages. It's principally designed for use with the Ubuntu Manual Project, but should be able to be tweaked for different projects and uses.</description>
+      <homepage_url>http://ubuntu-manual.org/quickshot</homepage_url>
+      <download_url></download_url>
+      <url_name>quickshot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32667/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32667/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9557794</analysis_id>
+      <analysis>
+        <id>9557794</id>
+        <url>http://www.ohloh.net/analyses/9557794.xml</url>
+        <project_id>482513</project_id>
+        <updated_at>2012-08-29T22:51:19Z</updated_at>
+        <logged_at>2012-08-29T22:51:12Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4656</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/quickshot/analyses/9557794/languages.png">
+          <language color="4A246B" percentage="57" id="9">
+Python          </language>
+          <language color="555555" percentage="43" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
