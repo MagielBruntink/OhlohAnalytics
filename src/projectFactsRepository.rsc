@@ -2,6 +2,7 @@ module projectFactsRepository
 
 import Prelude;
 import lang::xml::DOM;
+import Logging;
 
 private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
 private loc ProjectNamesListFile = LocalOhlohProjectsRepository + "ProjectNamesList.txt";
@@ -72,29 +73,31 @@ public monthlyFactsMap mergeFactsForAllProjects () {
 public activityFactsMap getActivityFacts(str projectName)
 {	   
     result = ();
-	top-down visit(getActivityFactsDOM(projectName)) {
-		case element(none(),"activity_fact",
-				[
-				 element(_,"month",[charData(str monthAsString)]),
-				 element(_,"code_added",[charData(str LOCAddedAsString)]),
-				 element(_,"code_removed",[charData(str LOCDeletedAsString)]),
-				 Node*,
-				 element(_,"commits",[charData(str CommitsAsString)]),
-				 element(_,"contributors",[charData(str ContributorsAsString)])
-				]):
-        {
-			 str year = getYear(monthAsString);
-			 str month = getMonth(monthAsString);
-			 result += (projectName + "-" + year + "-" + month :
-			            <projectName,
-                         year,
-			 			 month,
-			 			 LOCAddedAsString,
-			 			 LOCDeletedAsString,
-			 			 CommitsAsString,
-			 			 ContributorsAsString>);
-        }
-	}
+    try 
+    	top-down visit(getActivityFactsDOM(projectName)) {
+			case element(none(),"activity_fact",
+					[
+					 element(_,"month",[charData(str monthAsString)]),
+					 element(_,"code_added",[charData(str LOCAddedAsString)]),
+					 element(_,"code_removed",[charData(str LOCDeletedAsString)]),
+					 Node*,
+					 element(_,"commits",[charData(str CommitsAsString)]),
+					 element(_,"contributors",[charData(str ContributorsAsString)])
+					]):
+	        {
+				 str year = getYear(monthAsString);
+				 str month = getMonth(monthAsString);
+				 result += (projectName + "-" + year + "-" + month :
+				            <projectName,
+	                         year,
+				 			 month,
+				 			 LOCAddedAsString,
+				 			 LOCDeletedAsString,
+				 			 CommitsAsString,
+				 			 ContributorsAsString>);
+	        }
+		}
+	catch: logToConsole("getActivityFacts", "WARNING error while getting activity facts for project <projectName>.");
 	return result;
 }
 
@@ -106,23 +109,25 @@ public activityFactsMap getActivityFacts(str projectName)
 }
 public sizeFactsMap getSizeFacts(str projectName) {	   
 	result = ();
-	top-down visit(getSizeFactsDOM(projectName)) {
-		case element(none(),"size_fact",
-				[
-				 element(_,"month",[charData(str monthAsString)]),
-				 element(_,"code",[charData(str LOCTotalAsString)]),
-				 Node*
-				]):
-		{
-             str year = getYear(monthAsString);
-             str month = getMonth(monthAsString);
-             result += (projectName + "-" + year + "-" + month :
-			           <projectName,
-			 			year,
-			 			month,
-			 			LOCTotalAsString>);
+	try
+		top-down visit(getSizeFactsDOM(projectName)) {
+			case element(none(),"size_fact",
+					[
+					 element(_,"month",[charData(str monthAsString)]),
+					 element(_,"code",[charData(str LOCTotalAsString)]),
+					 Node*
+					]):
+			{
+	             str year = getYear(monthAsString);
+	             str month = getMonth(monthAsString);
+	             result += (projectName + "-" + year + "-" + month :
+				           <projectName,
+				 			year,
+				 			month,
+				 			LOCTotalAsString>);
+			}
 		}
-	}
+	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project <projectName>.");
 	return validateAndFilterSizeFacts(result);
 }
 
