@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484951</id>
+      <name>Blackbird metrics system</name>
+      <url>http://www.ohloh.net/p/blackbirdmetrics.xml</url>
+      <html_url>http://www.ohloh.net/p/blackbirdmetrics</html_url>
+      <created_at>2010-08-23T17:42:48Z</created_at>
+      <updated_at>2013-04-18T07:33:05Z</updated_at>
+      <description>Blackbird is a free &amp; open source system to automatically retrieve and analyze data about software projects.</description>
+      <homepage_url>https://projects.libresoft.es/wiki/blackbird</homepage_url>
+      <download_url>https://projects.libresoft.es/projects/list_files/blackbird</download_url>
+      <url_name>blackbirdmetrics</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13590980</analysis_id>
+      <analysis>
+        <id>13590980</id>
+        <url>http://www.ohloh.net/analyses/13590980.xml</url>
+        <project_id>484951</project_id>
+        <updated_at>2013-04-29T14:12:09Z</updated_at>
+        <logged_at>2013-04-29T14:12:07Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3984</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blackbirdmetrics/analyses/13590980/languages.png">
+          <language color="4A246B" percentage="67" id="9">
+Python          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

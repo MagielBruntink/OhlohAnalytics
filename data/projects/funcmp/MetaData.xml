@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12209</id>
+      <name>Functional MetaPost</name>
+      <url>http://www.ohloh.net/p/funcmp.xml</url>
+      <html_url>http://www.ohloh.net/p/funcmp</html_url>
+      <created_at>2008-02-23T23:40:38Z</created_at>
+      <updated_at>2013-04-25T17:17:34Z</updated_at>
+      <description>Functional MetaPost is a Haskell frontend to the MetaPost language by John Hobby. Users write their graphics as Haskell programs, which then emit MetaPost code that can be compiled into encapsulated PostScript files and smoothly included into e.g. LaTeX.</description>
+      <homepage_url>http://hackage.haskell.org/package/funcmp</homepage_url>
+      <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/funcmp</download_url>
+      <url_name>funcmp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13683487</analysis_id>
+      <tags>
+        <tag>graphics</tag>
+        <tag>latex</tag>
+        <tag>haskell</tag>
+        <tag>tex</tag>
+      </tags>
+      <analysis>
+        <id>13683487</id>
+        <url>http://www.ohloh.net/analyses/13683487.xml</url>
+        <project_id>12209</project_id>
+        <updated_at>2013-04-22T16:24:57Z</updated_at>
+        <logged_at>2013-04-22T16:24:45Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4834</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/funcmp/analyses/13683487/languages.png">
+          <language color="007B7C" percentage="96" id="38">
+Haskell          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
