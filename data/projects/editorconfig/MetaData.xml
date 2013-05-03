@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587374</id>
+      <name>EditorConfig</name>
+      <url>http://www.ohloh.net/p/editorconfig.xml</url>
+      <html_url>http://www.ohloh.net/p/editorconfig</html_url>
+      <created_at>2011-11-21T16:05:29Z</created_at>
+      <updated_at>2013-04-28T00:54:29Z</updated_at>
+      <description>EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readibly and they work nicely with version control systems.</description>
+      <homepage_url>http://editorconfig.org</homepage_url>
+      <download_url></download_url>
+      <url_name>editorconfig</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50332/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50332/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13724487</analysis_id>
+      <tags>
+        <tag>coding-style</tag>
+        <tag>code::blocks</tag>
+        <tag>gedit</tag>
+        <tag>notepad++</tag>
+        <tag>vim</tag>
+        <tag>text_editors</tag>
+        <tag>texteditor</tag>
+        <tag>emacs</tag>
+        <tag>jedit</tag>
+        <tag>geany</tag>
+        <tag>indentation</tag>
+        <tag>visual-studio</tag>
+        <tag>sublime-text</tag>
+      </tags>
+      <analysis>
+        <id>13724487</id>
+        <url>http://www.ohloh.net/analyses/13724487.xml</url>
+        <project_id>587374</project_id>
+        <updated_at>2013-04-28T00:54:28Z</updated_at>
+        <logged_at>2013-04-28T00:25:59Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>5487</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/editorconfig/analyses/13724487/languages.png">
+          <language color="F35F1F" percentage="32" id="44">
+C++          </language>
+          <language color="4A246B" percentage="24" id="9">
+Python          </language>
+          <language color="EEE" percentage="8" id="48">
+Vim Script          </language>
+          <language color="000000" percentage="36" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
