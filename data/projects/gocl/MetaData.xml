@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>622794</id>
+      <name>gocl</name>
+      <url>http://www.ohloh.net/p/gocl.xml</url>
+      <html_url>http://www.ohloh.net/p/gocl</html_url>
+      <created_at>2012-12-11T18:33:51Z</created_at>
+      <updated_at>2013-05-03T12:33:22Z</updated_at>
+      <description>GLib/GObject wrapper for OpenCL</description>
+      <homepage_url>https://github.com/elima/gocl</homepage_url>
+      <download_url></download_url>
+      <url_name>gocl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13766226</analysis_id>
+      <analysis>
+        <id>13766226</id>
+        <url>http://www.ohloh.net/analyses/13766226.xml</url>
+        <project_id>622794</project_id>
+        <updated_at>2013-05-03T12:33:22Z</updated_at>
+        <logged_at>2013-05-03T12:33:11Z</logged_at>
+        <min_month>2012-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2648</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gocl/analyses/13766226/languages.png">
+          <language color="FF8F00" percentage="83" id="42">
+C          </language>
+          <language color="EEE" percentage="7" id="50">
+Automake          </language>
+          <language color="000000" percentage="10" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpv3_or_later</name>
+          <nice_name>GNU Lesser General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

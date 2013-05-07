@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13133</id>
+      <name>siproxd</name>
+      <url>http://www.ohloh.net/p/siproxd.xml</url>
+      <html_url>http://www.ohloh.net/p/siproxd</html_url>
+      <created_at>2008-04-02T18:23:54Z</created_at>
+      <updated_at>2012-08-17T03:42:43Z</updated_at>
+      <description>siproxd is a proxy/masquerading daemon for the SIP protocol. It handles registrations of SIP clients on a private IP network and performs rewriting of the SIP message bodies to make SIP connections work via a masquerading firewall (NAT).
+
+It allows SIP software clients (like kphone, linphone) or SIP hardware clients (Voice over IP phones which are SIP-compatible, such as those from Cisco, Grandstream or Snom) to work behind an IP masquerading firewall or NAT router.</description>
+      <homepage_url>http://siproxd.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>siproxd</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>proxy</tag>
+        <tag>voip</tag>
+        <tag>sip</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

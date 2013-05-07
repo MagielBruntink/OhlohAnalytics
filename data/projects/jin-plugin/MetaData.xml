@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486106</id>
+      <name>jin-plugin</name>
+      <url>http://www.ohloh.net/p/jin-plugin.xml</url>
+      <html_url>http://www.ohloh.net/p/jin-plugin</html_url>
+      <created_at>2010-10-22T04:34:06Z</created_at>
+      <updated_at>2012-02-24T18:37:16Z</updated_at>
+      <description>jin-plugin is a simple plugin framework for Java and PHP.
+
+There are some existing plugin framework for Java (OSGI, jpf, etc.) and PHP, but all of them was too complex for my needs. jin-plugin is a minimalistic solution.</description>
+      <homepage_url>http://code.google.com/p/jin-plugin/</homepage_url>
+      <download_url>http://code.google.com/p/jin-plugin/</download_url>
+      <url_name>jin-plugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5039364</analysis_id>
+      <tags>
+        <tag>application</tag>
+        <tag>app</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>5039364</id>
+        <url>http://www.ohloh.net/analyses/5039364.xml</url>
+        <project_id>486106</project_id>
+        <updated_at>2011-11-21T05:42:55Z</updated_at>
+        <logged_at>2011-11-21T05:42:52Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1107</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jin-plugin/analyses/5039364/languages.png">
+          <language color="356AA0" percentage="74" id="2">
+PHP          </language>
+          <language color="9A63AD" percentage="22" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
