@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>207367</id>
+      <name>Portofino</name>
+      <url>http://www.ohloh.net/p/portofino.xml</url>
+      <html_url>http://www.ohloh.net/p/portofino</html_url>
+      <created_at>2009-01-17T19:09:48Z</created_at>
+      <updated_at>2013-04-18T00:16:36Z</updated_at>
+      <description>Portofino is a free and open source web framework that helps developers create outstanding enterprise applications by addressing three specific needs: productivity, features and architecture. Among its features: content management, CRUD, database connectivity, calendars, charts, security and easy customization using Groovy. A wizard allows the developer to create a web application by connecting to an existing database quickly and easily.</description>
+      <homepage_url>http://www.manydesigns.com/</homepage_url>
+      <download_url>http://www.manydesigns.com/en/portofino/download</download_url>
+      <url_name>portofino</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56628/icon-64x64-transparent_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56628/icon-64x64-transparent_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13583429</analysis_id>
+      <tags>
+        <tag>databasetool</tag>
+        <tag>enterprise</tag>
+        <tag>cms</tag>
+        <tag>content-management</tag>
+        <tag>crud</tag>
+        <tag>calendar</tag>
+        <tag>forms</tag>
+      </tags>
+      <analysis>
+        <id>13583429</id>
+        <url>http://www.ohloh.net/analyses/13583429.xml</url>
+        <project_id>207367</project_id>
+        <updated_at>2013-05-04T18:55:23Z</updated_at>
+        <logged_at>2013-05-04T18:55:18Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>72939</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/portofino/analyses/13583429/languages.png">
+          <language color="9A63AD" percentage="69" id="5">
+Java          </language>
+          <language color="493625" percentage="10" id="30">
+SQL          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="13" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpv3_or_later</name>
+          <nice_name>GNU Lesser General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

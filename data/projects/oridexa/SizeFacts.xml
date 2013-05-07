@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>3</items_returned>
+  <items_available>3</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <size_fact>
+      <month>2009-10-01T00:00:00Z</month>
+      <code>31600</code>
+      <comments>7584</comments>
+      <blanks>6281</blanks>
+      <comment_ratio>0.193548387096774</comment_ratio>
+      <commits>6</commits>
+      <man_months>6</man_months>
+    </size_fact>
+    <size_fact>
+      <month>2009-11-01T00:00:00Z</month>
+      <code>31845</code>
+      <comments>7515</comments>
+      <blanks>6357</blanks>
+      <comment_ratio>0.19092987804878</comment_ratio>
+      <commits>44</commits>
+      <man_months>10</man_months>
+    </size_fact>
+    <size_fact>
+      <month>2009-12-01T00:00:00Z</month>
+      <code>31091</code>
+      <comments>7408</comments>
+      <blanks>6214</blanks>
+      <comment_ratio>0.192420582352788</comment_ratio>
+      <commits>88</commits>
+      <man_months>14</man_months>
+    </size_fact>
+  </result>
+</response>
