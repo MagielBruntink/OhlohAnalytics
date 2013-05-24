@@ -2,7 +2,7 @@ require(ggplot2)
 require(survival)
 options(scipen=100)
 
-analysis_dir <- "~/git/OhlohAnalytics/analysis/amerish/"
+analysis_dir <- "~/git/OhlohAnalytics/analysis/esamir/"
 
 monthlyFactsByYear <- read.csv(file=paste(analysis_dir,"allYearlyFacts.csv",sep="/"),header=TRUE,sep=",")
 projectDeath <- read.csv(file=paste(analysis_dir, "projectDeathStatus.csv",sep="/"),header=TRUE,sep=",")
