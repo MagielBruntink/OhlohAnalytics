@@ -11,12 +11,13 @@ projectDeath <- read.csv(file=paste(analysis_dir, "projectDeathStatus.csv",sep="
 
 ### Boxplots
 boxPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE,text=TRUE) {
-  whiskerLimits    = boxplot.stats(dataFrame$yData)$stats[c(1, 5)]
+  allWhiskerLimits = ddply(dataFrame, .(xData), summarise, 
+                           whiskerLimMin = boxplot.stats(yData)$stats[c(1)], 
+                           whiskerLimMax = boxplot.stats(yData)$stats[c(5)])
   allObsCounts     = ddply(dataFrame, .(xData), summarise, obsCount = length(yData))
   allOutlierCounts = ddply(dataFrame, .(xData), summarise, outlierCount = length(boxplot.stats(yData)$out))  
   allMedians       = ddply(dataFrame, .(xData), summarise, medianValue = round(median(yData),digits=3))
   allLabelData     = cbind(allObsCounts,allOutlierCounts,allMedians)
-  print (allLabelData)
   
   plotObj <- ggplot(dataFrame,aes(x=xData,y=yData)) +
     geom_boxplot() +
@@ -28,19 +29,23 @@ boxPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE,text=TRUE) {
               geom_text(data=allLabelData,
                         aes(x = xData,
                             y = medianValue,
-                            label = paste("Med. =", medianValue,
-                                          "Obs. =", obsCount,
-                                          "Out. =", outlierCount,
-                                          sep=" ")),
+#                             label = paste("Med. =", medianValue,
+#                                           "Obs. =", obsCount,
+#                                           "Out. =", outlierCount,
+#                                           sep=" ")),
+                            label = medianValue),
               size = 3, vjust = -1.5)
   }
   
   if(zoom) {
+    whiskerLimits = c(min(allWhiskerLimits$whiskerLimMin),max(allWhiskerLimits$whiskerLimMax))
     plotObj = plotObj + coord_cartesian(ylim = whiskerLimits*1.05)
   }
   
   ggsave(file=paste(output_dir,fileName,sep="/"),plot=plotObj)
 }
+
+######### CODE GROWTH
 
 dataToPlot <- data.frame(xData="All project years",yData=monthlyFactsByYear$prod_loc_growth_factor)
 boxPlot(dataToPlot,
@@ -55,44 +60,59 @@ boxPlot(dataToPlot,
         "boxplots-codegrowth-by-age.pdf",
         TRUE,FALSE)
 
+dataSelection = subset(monthlyFactsByYear,age<=5)
+dataToPlot <- data.frame(xData=factor(dataSelection$age),yData=dataSelection$prod_loc_growth_factor)
+boxPlot(dataToPlot,
+        "Project age (years)",
+        "Code Growth (CG)",
+        "boxplots-codegrowth-by-age-5-years.pdf",
+        TRUE,FALSE)
 
-### Plot of project ages in 2012
-projectAgesIn2012 <- subset(monthlyFactsByYear,year==2012,select=age)
-pdf(file=paste(output_dir,"hist-project-age.pdf",sep="/"))
-hist(projectAgesIn2012$age, xlab="Project age in years",
-     ylab="Number of occurrences", 
-     main=paste("Histogram of the age of", length(projectAgesIn2012$age), "projects in 2012", sep=" " ),
-     freq=TRUE,
-     breaks=40)
-dev.off()
+######### TEAM ACTIVITY
 
-### Plot of monthly growth facts aggregated by year
-plotObj <- qplot(age,prod_loc_growth_factor,data=monthlyFactsByYear, group=age,geom="boxplot", log="y",
-                 xlab="Project age in years",                    
-                 ylab="Yearly LOC growth factor",
-                 main=paste("Boxplots of yearly growth factor for each project age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
-ggsave(file=paste(output_dir,"boxplots-codegrowth-by-age.pdf",sep="/"),plot=plotObj)
+dataToPlot <- data.frame(xData="All project years",yData=monthlyFactsByYear$sum_commits)
+boxPlot(dataToPlot,
+        "",
+        "Team Activity (TA)",
+        "boxplot-teamactivity.pdf")
 
-### Plot of monthly commits summed by year
-plotObj <- qplot(age,sum_commits,data=monthlyFactsByYear, group=age,geom="boxplot", log="y",
-                 xlab="Project age in years",
-                 ylab="Yearly sum of commits",
-                 main=paste("Boxplots of yearly number of commits for each project age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
-ggsave(file=paste(output_dir,"boxplots-commits-by-age.pdf",sep="/"),plot=plotObj)
+dataToPlot <- data.frame(xData=factor(monthlyFactsByYear$age),yData=monthlyFactsByYear$sum_commits)
+boxPlot(dataToPlot,
+        "Project age (years)",
+        "Team Activity (TA)",
+        "boxplots-teamactivity-by-age.pdf",
+        TRUE,FALSE)
 
-### Plot of monthly contributors averaged (median) by year for each project age
-plotObj <- qplot(age,median_contributors,data=monthlyFactsByYear, group=age,geom="boxplot", log="y",
-                 xlab="Project age in years",
-                 ylab="Yearly median of contributors",
-                 main=paste("Boxplots of yearly average (median) contributors for each project age, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
-ggsave(file=paste(output_dir,"boxplots-contributors-by-age.pdf",sep="/"),plot=plotObj)
+dataSelection = subset(monthlyFactsByYear,age<=5)
+dataToPlot <- data.frame(xData=factor(dataSelection$age),yData=dataSelection$sum_commits)
+boxPlot(dataToPlot,
+        "Project age (years)",
+        "Team Activity (TA)",
+        "boxplots-teamactivity-by-age-5-years.pdf",
+        TRUE,FALSE)
 
-### Plot of monthly contributors averaged (median) by year
-plotObj <- qplot(year,median_contributors,data=monthlyFactsByYear, group=year,geom="boxplot", log="y",
-                 xlab="Year",
-                 ylab="Yearly median of contributors",
-                 main=paste("Boxplots of yearly average (median) contributors in a calendar year, for",length(monthlyFactsByYear$projectName),"project years",sep=" "))
-ggsave(file=paste(output_dir,"boxplots-contributors-by-year.pdf",sep="/"),plot=plotObj)
+######### TEAM ACTIVITY
+
+dataToPlot <- data.frame(xData="All project years",yData=monthlyFactsByYear$median_contributors)
+boxPlot(dataToPlot,
+        "",
+        "Team Size (TS)",
+        "boxplot-teamsize.pdf")
+
+dataToPlot <- data.frame(xData=factor(monthlyFactsByYear$age),yData=monthlyFactsByYear$median_contributors)
+boxPlot(dataToPlot,
+        "Project age (years)",
+        "Team Size (TS)",
+        "boxplots-teamsize-by-age.pdf",
+        TRUE,FALSE)
+
+dataSelection = subset(monthlyFactsByYear,age<=5)
+dataToPlot <- data.frame(xData=factor(dataSelection$age),yData=dataSelection$median_contributors)
+boxPlot(dataToPlot,
+        "Project age (years)",
+        "Team Size (TS)",
+        "boxplots-teamsize-by-age-5-years.pdf",
+        TRUE,FALSE)
 
 ### Plot of project survival curve
 survivalCurve <- survfit(Surv(age,status) ~ 1, data=projectDeath)
