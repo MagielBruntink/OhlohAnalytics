@@ -1,6 +1,7 @@
 require(ggplot2)
 require(survival)
 require(plyr)
+
 options(scipen=100)
 
 analysis_dir <- "~/git/OhlohAnalytics/analysis/esamir/"
@@ -45,6 +46,16 @@ boxPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE,text=TRUE) {
   
   ggsave(file=paste(output_dir,fileName,sep="/"),plot=plotObj)
 }
+
+### Scatter plots
+scatterPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE) {
+  plotObj <- ggplot(dataFrame,aes(x=xData,y=yData)) +
+    geom_point() +
+    labs (x=xLabel,y=yLabel)
+  
+  ggsave(file=paste(output_dir,fileName,sep="/"),plot=plotObj)
+}
+
 
 ######### CODE SIZE
 
@@ -94,7 +105,16 @@ boxPlot(dataToPlot,
         "boxplots-codegrowth-indexed-by-age-5-years.pdf",
         TRUE,FALSE)
 
-######### CODE GROWTH ABOSLUTE
+dataSelection = subset(monthlyFactsByYear,age<=20)
+dataToPlot <- data.frame(xData=factor(dataSelection$age),yData=dataSelection$prod_loc_growth_factor)
+boxPlot(dataToPlot,
+        "Project age (years)",
+        "Code Growth indexed (CGi)",
+        "boxplots-codegrowth-indexed-by-age-20-years.pdf",
+        TRUE,FALSE)
+
+
+######### CODE GROWTH ABSOLUTE
 
 dataToPlot <- data.frame(xData="All project years",yData=monthlyFactsByYear$sum_abs_loc_growth)
 boxPlot(dataToPlot,
@@ -199,4 +219,48 @@ hist(yearOfDeath$yearOfEvent, xlab="Year of death",
      freq=TRUE)
 dev.off()
 
+### Projects that died
+projectsThatDied <- subset(projectDeath, status==2, select=projectName)
+yearlyFactsOnDeadProjects <- subset(monthlyFactsByYear, projectName %in% projectsThatDied$projectName)
 
+dataToPlot<-data.frame(xData=c(rep("Dying projects",length(yearlyFactsOnDeadProjects$projectName)),
+                    rep("Base rate",length(monthlyFactsByYear$projectName))),
+               yData=c(yearlyFactsOnDeadProjects$prod_loc_growth_factor,
+                       monthlyFactsByYear$prod_loc_growth_factor))
+
+boxPlot(dataToPlot,
+        "",
+        "Code Growth indexed (CGi)",
+        "boxplot-codegrowth-indexed-dead-projects.pdf",
+        TRUE,TRUE)
+
+######### EXAMPLES
+
+dataSelection = subset(monthlyFactsByYear,projectName %in% c("apache","firefox","emacs","gcc","mysql"))
+dataToPlot <- data.frame(xData=dataSelection$projectName,yData=dataSelection$prod_loc_growth_factor)
+boxPlot(dataToPlot,
+        "",
+        "Code Growth indexed (CGi)",
+        "boxplot-codegrowth-indexed-examples.pdf",
+        TRUE,FALSE)
+
+dataToPlot <- data.frame(xData=dataSelection$projectName,yData=dataSelection$sum_abs_loc_growth)
+boxPlot(dataToPlot,
+        "",
+        "Code Growth absolute (CGa)",
+        "boxplot-codegrowth-absolute-examples.pdf",
+        TRUE,FALSE)
+
+dataSelection = subset(monthlyFactsByYear,select=c(prod_loc_growth_factor,median_contributors))
+dataToPlot <- data.frame(xData=dataSelection$median_contributors,yData=dataSelection$prod_loc_growth_factor)
+scatterPlot(dataToPlot,
+        "Yearly median contributors",
+        "Code Growth indexed (CGi)",
+        "scatterplot-contributors-codegrowth-indexed.pdf")
+
+dataSelection = subset(monthlyFactsByYear,select=c(sum_abs_loc_growth,median_contributors))
+dataToPlot <- data.frame(xData=dataSelection$median_contributors,yData=dataSelection$sum_abs_loc_growth)
+scatterPlot(dataToPlot,
+            "Yearly median contributors",
+            "Code Growth absolute (CGa)",
+            "scatterplot-contributors-codegrowth-absolute.pdf")
