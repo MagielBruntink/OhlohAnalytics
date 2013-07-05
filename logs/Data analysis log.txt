@@ -32,7 +32,25 @@ April 9, 2013:
 	Project age (in years) has a -0.43 correlation with the yearly growth factor.
 	Not too strong, but very significant with N=21000 (about).
 
-April 23, 2012:
+April 23, 2013:
 	Some project data are broken! The following projects have only zeros for some years
 	in the amerish data set:
 		vuze (2011)
+		
+July 5th, 2013:
+	Some projects are including all branches/tags in their code counts, some aren't.
+	This is a major problem for the code size and growth metrics as they can be
+	inconsistently calculated among projects. Examples:
+	
+	including all branches/tags
+		- dd-wrt (SVN, really showing the problem well)
+		
+	proper:
+		- vuze (SVN)
+		
+	I guess filtering out all projects that use SVN and not have trunk
+	at the end of their code location is an approach. For git the same
+	could be done with 'master'?
+	
+	
+

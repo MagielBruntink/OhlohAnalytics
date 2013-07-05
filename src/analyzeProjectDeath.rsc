@@ -93,15 +93,14 @@ public projectDeathStatus getProjectDeathStatus (projectActivityStatus stats, st
 		<projectName,  [Years*, <year,age,isActive>, MoreYears*]> := projectHistory,
 		toInt(year) <= toInt(cutoffYear),
 		(isActive == false &&
-			<_, [_*,<cutoffYear,_,false>]> := projectHistory && 
+			//<_, [_*,<cutoffYear,_,false>]> := projectHistory && 
 			[_*,<_,_,true>] := Years &&
 			![_*,<_,_,true>,_*] := MoreYears &&
 			int status := 2)
 		||
-		((isActive == true && year == cutoffYear ||
-		  isActive == false && year != cutoffYear) &&
-		 	[] := MoreYears &&
-		 	int status := 1)
+		((isActive == true && (year == cutoffYear || 
+							  (year != cutoffYear && [] := MoreYears)))
+		  && int status := 1)
 	};
 }
 
