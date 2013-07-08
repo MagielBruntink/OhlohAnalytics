@@ -10,7 +10,7 @@ import util::Math;
 private loc OhlohAPIKeyFile = |project://OhlohAnalytics/OhlohAPIKeys.txt|;
 private str OhlohBaseURL = "www.ohloh.net";
 private int timeToSleepBetweenQueries = 500; //milliseconds
-private int projectsPerAPIKey = 100; 
+private int projectsPerAPIKey = 80; 
 
 public void obtainProjectListFromOhloh(int endAtPage) {
 	obtainProjectListFromOhloh(1, endAtPage);
@@ -37,7 +37,7 @@ public void obtainProjectListFromOhloh(int startAtPage, int endAtPage) {
 	int numberOfProjects : number of projects to obtain starting at startAtProject.
 }
 public void obtainProjectDataFromOhloh(int startAtProject, int numberOfProjects) {
-	return obtainProjectDataFromOhloh(slice(getProjectNamesListFromRepository(),
+	return obtainProjectDataFromOhloh(slice(getProjectNamesOnList(),
 											startAtProject-1,
 											numberOfProjects));
 }
@@ -49,6 +49,8 @@ public void obtainProjectDataFromOhloh(list[str] projectNames) {
 		for (str p <- slice(projectNames,projectsDone,min(size(projectNames) - projectsDone,
 													      projectsPerAPIKey))) {
 			obtainMetaDataFromOhloh(p, APIKey, logFile);
+			sleep(timeToSleepBetweenQueries);
+			obtainEnlistmentsFromOhloh(p, APIKey, logFile);
 			sleep(timeToSleepBetweenQueries);
 			obtainActivityFactsFromOhloh(p, APIKey, logFile);
 			sleep(timeToSleepBetweenQueries);
@@ -67,6 +69,13 @@ public void obtainMetaDataFromOhloh(str projectName, str APIKey, loc logFile) {
 	logToFile(logFile,"obtainMetaDataFromOhloh", "Reading meta data for project <projectName> from Ohloh.");
 	try addMetaDataToRepository(readFile(projectMetaDataURI), projectName);
 	catch: logToFile(logFile,"obtainMetaDataFromOhloh", "WARNING: problem when reading meta data for project <projectName> from Ohloh, skipped.");
+}
+
+public void obtainEnlistmentsFromOhloh(str projectName, str APIKey, loc logFile) {
+	loc projectEnlistmentsURI = |http://<OhlohBaseURL>/projects/<projectName>/enlistments.xml?api_key=<APIKey>|;
+	logToFile(logFile,"obtainEnlistmentsFromOhloh", "Reading enlistments for project <projectName> from Ohloh.");
+	try addEnlistmentsToRepository(readFile(projectEnlistmentsURI), projectName);
+	catch: logToFile(logFile,"obtainEnlistmentsFromOhloh", "WARNING: problem when reading enlistments for project <projectName> from Ohloh, skipped.");
 }
 
 public void obtainActivityFactsFromOhloh(str projectName, str APIKey, loc logFile) {
