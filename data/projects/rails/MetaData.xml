@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>34</id>
+      <name>Ruby on Rails</name>
+      <url>http://www.ohloh.net/p/rails.xml</url>
+      <html_url>http://www.ohloh.net/p/rails</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-08T01:02:00Z</updated_at>
+      <description>Ruby on Rails is a full-stack MVC framework for database-backed web applications that's optimized for programmer happiness and sustainable productivity. It lets you write beautiful code by favoring convention over configuration.
+
+From the Ajax in the view, to the request and response in the controller, to the domain model wrapping the database, Rails gives you a pure-Ruby development environment. To go live, all you need to add is a database and a web server.</description>
+      <homepage_url>http://rubyonrails.org</homepage_url>
+      <download_url>http://rubyonrails.org/download</download_url>
+      <url_name>rails</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2290/rails_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2290/rails_small.png</small_logo_url>
+      <user_count>941</user_count>
+      <average_rating>4.3931</average_rating>
+      <rating_count>290</rating_count>
+      <review_count>4</review_count>
+      <analysis_id>14565372</analysis_id>
+      <tags>
+        <tag>rapid_development</tag>
+        <tag>rubygem</tag>
+        <tag>development</tag>
+        <tag>active_record</tag>
+        <tag>rails</tag>
+        <tag>ruby</tag>
+        <tag>mvc</tag>
+        <tag>framework</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14565372</id>
+        <url>http://www.ohloh.net/analyses/14565372.xml</url>
+        <project_id>34</project_id>
+        <updated_at>2013-07-08T01:01:59Z</updated_at>
+        <logged_at>2013-07-08T00:22:38Z</logged_at>
+        <min_month>2004-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>783</twelve_month_contributor_count>
+        <total_code_lines>167080</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rails/analyses/14565372/languages.png">
+          <language color="A40011" percentage="96" id="12">
+Ruby          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

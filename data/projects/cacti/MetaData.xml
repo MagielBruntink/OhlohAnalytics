@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4566</id>
+      <name>Cacti</name>
+      <url>http://www.ohloh.net/p/cacti.xml</url>
+      <html_url>http://www.ohloh.net/p/cacti</html_url>
+      <created_at>2007-02-23T20:23:33Z</created_at>
+      <updated_at>2013-06-30T17:43:32Z</updated_at>
+      <description>Cacti is a complete network graphing solution designed to harness the power of RRDTool's data storage and graphing functionality. Cacti provides a fast poller, advanced graph templating, multiple data acquisition methods, and user management features out of the box. All of this is wrapped in an intuitive, easy to use interface that makes sense for LAN-sized installations up to complex networks with hundreds of devices.</description>
+      <homepage_url>http://www.cacti.net</homepage_url>
+      <download_url>http://cacti.net/download_cacti.php</download_url>
+      <url_name>cacti</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47555/cacti_med.Png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47555/cacti_small.Png</small_logo_url>
+      <user_count>110</user_count>
+      <average_rating>3.94444</average_rating>
+      <rating_count>36</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14481595</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>graphing</tag>
+        <tag>plugin</tag>
+        <tag>management</tag>
+        <tag>rddtool</tag>
+        <tag>mysql</tag>
+        <tag>performance</tag>
+        <tag>systems_administration</tag>
+        <tag>rrdtool</tag>
+        <tag>web</tag>
+        <tag>graph</tag>
+        <tag>network_monitoring</tag>
+        <tag>network</tag>
+        <tag>logging</tag>
+        <tag>sysadmin</tag>
+        <tag>rrd</tag>
+        <tag>reports</tag>
+        <tag>gui</tag>
+        <tag>phpweathermap</tag>
+        <tag>nms</tag>
+        <tag>monitor</tag>
+        <tag>discovery</tag>
+        <tag>statistics</tag>
+        <tag>cacti</tag>
+        <tag>monitoring</tag>
+        <tag>tools</tag>
+        <tag>snmp</tag>
+        <tag>perl</tag>
+        <tag>weathermap</tag>
+      </tags>
+      <analysis>
+        <id>14481595</id>
+        <url>http://www.ohloh.net/analyses/14481595.xml</url>
+        <project_id>4566</project_id>
+        <updated_at>2013-06-30T17:43:32Z</updated_at>
+        <logged_at>2013-06-30T17:39:47Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>3071697</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cacti/analyses/14481595/languages.png">
+          <language color="356AA0" percentage="65" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="19" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

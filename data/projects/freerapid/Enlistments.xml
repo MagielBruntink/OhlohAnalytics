@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>493976</id>
+      <project_id>16843</project_id>
+      <repository_id>493115</repository_id>
+      <repository>
+        <id>493115</id>
+        <type>SvnRepository</type>
+        <url>http://svn.wordrider.net/svn/freerapid-plugins/trunk</url>
+        <username>wordrider</username>
+        <password>wordrider</password>
+        <logged_at>2013-07-06T18:56:54Z</logged_at>
+        <commits>2599</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>491734</id>
+      <project_id>16843</project_id>
+      <repository_id>490443</repository_id>
+      <repository>
+        <id>490443</id>
+        <type>SvnRepository</type>
+        <url>http://svn.wordrider.net/svn/freerapid/trunk</url>
+        <username>wordrider</username>
+        <password>wordrider</password>
+        <logged_at>2013-07-06T18:54:18Z</logged_at>
+        <commits>1388</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

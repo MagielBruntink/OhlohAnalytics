@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>14161</id>
+      <project_id>6827</project_id>
+      <repository_id>13709</repository_id>
+      <repository>
+        <id>13709</id>
+        <type>SvnRepository</type>
+        <url>http://llvm.org/svn/llvm-project/cfe/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T19:58:46Z</logged_at>
+        <commits>45283</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>489735</id>
+      <project_id>6827</project_id>
+      <repository_id>491066</repository_id>
+      <repository>
+        <id>491066</id>
+        <type>SvnRepository</type>
+        <url>http://llvm.org/svn/llvm-project/clang-tools-extra/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T19:58:43Z</logged_at>
+        <commits>220</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

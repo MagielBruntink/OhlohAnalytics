@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3266</id>
+      <name>WebKit</name>
+      <url>http://www.ohloh.net/p/WebKit.xml</url>
+      <html_url>http://www.ohloh.net/p/WebKit</html_url>
+      <created_at>2006-10-20T03:40:51Z</created_at>
+      <updated_at>2013-07-07T01:59:27Z</updated_at>
+      <description>WebKit is an open source web browser engine. WebKit is also the name of the Mac OS X system framework version of the engine that's used by Safari, Dashboard, Mail, and many other OS X applications. WebKit's HTML and JavaScript code began as a branch of the KHTML and KJS libraries from KDE.</description>
+      <homepage_url>http://webkit.org</homepage_url>
+      <download_url>http://nightly.webkit.org/</download_url>
+      <url_name>WebKit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/221/webkit_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/221/webkit_small.png</small_logo_url>
+      <user_count>282</user_count>
+      <average_rating>4.6962</average_rating>
+      <rating_count>79</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14557930</analysis_id>
+      <tags>
+        <tag>html5</tag>
+        <tag>web_browser</tag>
+        <tag>kjs</tag>
+        <tag>css</tag>
+        <tag>xhtml</tag>
+        <tag>web</tag>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>html</tag>
+        <tag>webkit</tag>
+        <tag>javascript</tag>
+        <tag>khtml</tag>
+        <tag>framework</tag>
+        <tag>browser</tag>
+        <tag>www</tag>
+      </tags>
+      <analysis>
+        <id>14557930</id>
+        <url>http://www.ohloh.net/analyses/14557930.xml</url>
+        <project_id>3266</project_id>
+        <updated_at>2013-07-07T01:59:27Z</updated_at>
+        <logged_at>2013-07-06T22:27:07Z</logged_at>
+        <min_month>2001-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>307</twelve_month_contributor_count>
+        <total_code_lines>4624788</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/WebKit/analyses/14557930/languages.png">
+          <language color="47A400" percentage="37" id="1">
+HTML          </language>
+          <language color="F35F1F" percentage="28" id="44">
+C++          </language>
+          <language color="A4007E" percentage="18" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="17" id="">
+26 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

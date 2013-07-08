@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26868</id>
+      <name>Clojure</name>
+      <url>http://www.ohloh.net/p/clojure.xml</url>
+      <html_url>http://www.ohloh.net/p/clojure</html_url>
+      <created_at>2008-11-20T22:07:10Z</created_at>
+      <updated_at>2013-06-28T02:26:52Z</updated_at>
+      <description>Clojure is a dynamic programming language for the JVM. It is interactive, yet compiled, with a robust infrastructure for concurrency (STM). It is a functional dialect of Lisp, with a rich set of immutable, persistent data structures and a macro system.</description>
+      <homepage_url>http://www.clojure.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=137961</download_url>
+      <url_name>clojure</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20441/clojure-icon_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20441/clojure-icon_small.gif</small_logo_url>
+      <user_count>62</user_count>
+      <average_rating>4.76667</average_rating>
+      <rating_count>30</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14440353</analysis_id>
+      <tags>
+        <tag>language</tag>
+        <tag>development</tag>
+        <tag>programming</tag>
+        <tag>compiler</tag>
+        <tag>interpreter</tag>
+        <tag>dynamic</tag>
+        <tag>jvm</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14440353</id>
+        <url>http://www.ohloh.net/analyses/14440353.xml</url>
+        <project_id>26868</project_id>
+        <updated_at>2013-06-28T02:26:51Z</updated_at>
+        <logged_at>2013-06-27T18:45:10Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>62457</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/clojure/analyses/14440353/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="EEE" percentage="39" id="80">
+Clojure          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

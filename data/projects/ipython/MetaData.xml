@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6565</id>
+      <name>IPython</name>
+      <url>http://www.ohloh.net/p/ipython.xml</url>
+      <html_url>http://www.ohloh.net/p/ipython</html_url>
+      <created_at>2007-07-12T07:53:29Z</created_at>
+      <updated_at>2013-07-07T18:34:42Z</updated_at>
+      <description>IPython: Productive Interactive Computing
+
+IPython provides a rich toolkit to help you make the most out of using Python interactively.  Its main components are:
+
+- Powerful interactive Python shells (terminal-, Qt- and web-based).
+- Support for interactive data visualization and use of GUI toolkits.
+- Flexible, embeddable interpreters to load into your own projects.
+- Tools for high level and interactive parallel computing.</description>
+      <homepage_url>http://ipython.org/</homepage_url>
+      <download_url>http://ipython.org/download.html</download_url>
+      <url_name>ipython</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48667/IPython_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48667/IPython_logo_small.png</small_logo_url>
+      <user_count>326</user_count>
+      <average_rating>4.69792</average_rating>
+      <rating_count>96</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14474472</analysis_id>
+      <tags>
+        <tag>parallelcomputing</tag>
+        <tag>python</tag>
+        <tag>shell</tag>
+        <tag>library</tag>
+        <tag>interactive</tag>
+        <tag>visualization</tag>
+      </tags>
+      <analysis>
+        <id>14474472</id>
+        <url>http://www.ohloh.net/analyses/14474472.xml</url>
+        <project_id>6565</project_id>
+        <updated_at>2013-06-30T06:51:15Z</updated_at>
+        <logged_at>2013-06-30T06:45:56Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>126</twelve_month_contributor_count>
+        <total_code_lines>70624</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ipython/analyses/14474472/languages.png">
+          <language color="4A246B" percentage="85" id="9">
+Python          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3620</id>
+      <name>mod_perl</name>
+      <url>http://www.ohloh.net/p/mod_perl.xml</url>
+      <html_url>http://www.ohloh.net/p/mod_perl</html_url>
+      <created_at>2006-11-16T23:39:08Z</created_at>
+      <updated_at>2013-06-29T20:42:08Z</updated_at>
+      <description>mod_perl brings together the full power of the Perl programming language and the Apache HTTP server. You can use Perl to manage Apache, respond to requests for web pages and much more.</description>
+      <homepage_url>http://perl.apache.org</homepage_url>
+      <download_url></download_url>
+      <url_name>mod_perl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5570/mod-perl_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5570/mod-perl_small.gif</small_logo_url>
+      <user_count>161</user_count>
+      <average_rating>4.4375</average_rating>
+      <rating_count>32</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14467993</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>apache</tag>
+        <tag>perl</tag>
+        <tag>mod_perl</tag>
+      </tags>
+      <analysis>
+        <id>14467993</id>
+        <url>http://www.ohloh.net/analyses/14467993.xml</url>
+        <project_id>3620</project_id>
+        <updated_at>2013-06-29T20:42:08Z</updated_at>
+        <logged_at>2013-06-29T20:41:07Z</logged_at>
+        <min_month>1999-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>67767</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mod_perl/analyses/14467993/languages.png">
+          <language color="D2C690" percentage="79" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="20" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache</name>
+          <nice_name>Apache License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

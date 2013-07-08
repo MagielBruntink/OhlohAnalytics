@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6869</id>
+      <name>xmonad</name>
+      <url>http://www.ohloh.net/p/xmonad.xml</url>
+      <html_url>http://www.ohloh.net/p/xmonad</html_url>
+      <created_at>2007-07-25T18:37:22Z</created_at>
+      <updated_at>2013-07-07T18:21:57Z</updated_at>
+      <description>xmonad is a tiling window manager for X. Windows are arranged automatically to tile the screen without gaps or overlap, maximising screen use. All features of the window manager are accessible from the keyboard: a mouse is strictly optional. xmonad is written and extensible in Haskell. Custom layout algorithms, and other extensions, may be written by the user in config files. Layouts are applied dynamically, and different layouts may be used on each workspace. Xinerama is fully supported, allowing windows to be tiled on several screens.</description>
+      <homepage_url>http://xmonad.org/</homepage_url>
+      <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/xmonad</download_url>
+      <url_name>xmonad</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/393/xmonad64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/393/xmonad64_small.png</small_logo_url>
+      <user_count>121</user_count>
+      <average_rating>4.76271</average_rating>
+      <rating_count>59</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10620757</analysis_id>
+      <tags>
+        <tag>x11</tag>
+        <tag>haskell</tag>
+        <tag>tiling</tag>
+        <tag>wm</tag>
+        <tag>keyboard</tag>
+        <tag>window_manager</tag>
+        <tag>minimalist</tag>
+        <tag>gui</tag>
+        <tag>x</tag>
+      </tags>
+      <analysis>
+        <id>10620757</id>
+        <url>http://www.ohloh.net/analyses/10620757.xml</url>
+        <project_id>6869</project_id>
+        <updated_at>2012-11-06T16:49:27Z</updated_at>
+        <logged_at>2012-11-06T16:49:25Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2065</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xmonad/analyses/10620757/languages.png">
+          <language color="007B7C" percentage="97" id="38">
+Haskell          </language>
+          <language color="000080" percentage="3" id="37">
+TeX/LaTeX          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

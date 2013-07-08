@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3783</id>
+      <name>Deluge</name>
+      <url>http://www.ohloh.net/p/deluge.xml</url>
+      <html_url>http://www.ohloh.net/p/deluge</html_url>
+      <created_at>2006-12-10T16:39:49Z</created_at>
+      <updated_at>2013-06-06T09:32:58Z</updated_at>
+      <description>Deluge is a full-featured  BitTorrent client for Linux, OS X, Unix and Windows. It uses  libtorrent in its backend and features multiple user-interfaces including: GTK+, web and console. It has been designed using the client server model with a daemon process that handles all the bittorrent activity. The Deluge daemon is able to run on headless machines with the user-interfaces being able to connect remotely from any platform.
+
+Deluge features a rich plugin collection; in fact, most of Deluge's functionality is available in the form of plugins.
+
+Deluge was created with the intention of being lightweight and unobtrusive. It is our belief that downloading shouldn't be the primary task on your computer and therefore shouldn't monopolize system resources.</description>
+      <homepage_url>http://deluge-torrent.org/</homepage_url>
+      <download_url>http://deluge-torrent.org/downloads.php</download_url>
+      <url_name>deluge</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3582/92px-deluge-logo.svg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3582/92px-deluge-logo.svg_small.png</small_logo_url>
+      <user_count>86</user_count>
+      <average_rating>4.43243</average_rating>
+      <rating_count>37</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14177905</analysis_id>
+      <tags>
+        <tag>gtk</tag>
+        <tag>bt</tag>
+        <tag>torrents</tag>
+        <tag>multi-platform</tag>
+        <tag>download</tag>
+        <tag>p2p</tag>
+        <tag>sharing</tag>
+        <tag>mac</tag>
+        <tag>file_sharing</tag>
+        <tag>windows</tag>
+        <tag>client</tag>
+        <tag>torrent</tag>
+        <tag>web</tag>
+        <tag>bittorrent</tag>
+        <tag>linux</tag>
+        <tag>search</tag>
+        <tag>python</tag>
+        <tag>rasterbar</tag>
+      </tags>
+      <analysis>
+        <id>14177905</id>
+        <url>http://www.ohloh.net/analyses/14177905.xml</url>
+        <project_id>3783</project_id>
+        <updated_at>2013-07-04T16:55:07Z</updated_at>
+        <logged_at>2013-07-04T16:55:04Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>85182</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/deluge/analyses/14177905/languages.png">
+          <language color="4A246B" percentage="39" id="9">
+Python          </language>
+          <language color="A4007E" percentage="24" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="000000" percentage="14" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

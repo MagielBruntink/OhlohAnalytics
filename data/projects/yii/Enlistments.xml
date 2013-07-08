@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>536577</id>
+      <project_id>25367</project_id>
+      <repository_id>538844</repository_id>
+      <repository>
+        <id>538844</id>
+        <type>GitRepository</type>
+        <url>git://github.com/yiisoft/yii2.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T00:21:30Z</logged_at>
+        <commits>1854</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>469224</id>
+      <project_id>25367</project_id>
+      <repository_id>466047</repository_id>
+      <repository>
+        <id>466047</id>
+        <type>GitRepository</type>
+        <url>git://github.com/yiisoft/yii.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T00:22:02Z</logged_at>
+        <commits>5534</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>107</id>
+      <name>Nagios</name>
+      <url>http://www.ohloh.net/p/nagios.xml</url>
+      <html_url>http://www.ohloh.net/p/nagios</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-03T07:37:55Z</updated_at>
+      <description>Nagios (formerly Netsaint) is a daemon written in C that is designed to monitor networked hosts and services. It has the ability to notify contacts (via email, pager or other methods) when problems arise and are resolved. Host and service checks are performed by external &quot;plugins&quot;, making it easy to write custom checks in your language of choice. Several CGIs are included in order to allow you to view the current and historical status via a Web browser, and a WAP interface is also provided to allow you to acknowledge problems and disable notifications from an internet-ready cellphone.</description>
+      <homepage_url>http://www.nagios.org</homepage_url>
+      <download_url>http://library.nagios.com/library/products/nagiosxi/downloads/main</download_url>
+      <url_name>nagios</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5135/smalllogo7_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5135/smalllogo7_small.gif</small_logo_url>
+      <user_count>258</user_count>
+      <average_rating>4.07407</average_rating>
+      <rating_count>81</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14512806</analysis_id>
+      <tags>
+        <tag>networking</tag>
+        <tag>management</tag>
+        <tag>unix</tag>
+        <tag>service</tag>
+        <tag>sysadmin</tag>
+        <tag>hosting</tag>
+        <tag>web</tag>
+        <tag>administration</tag>
+        <tag>security</tag>
+        <tag>server</tag>
+        <tag>monitor</tag>
+        <tag>statistics</tag>
+        <tag>linux</tag>
+        <tag>nms</tag>
+        <tag>admin</tag>
+        <tag>snmp</tag>
+        <tag>tools</tag>
+        <tag>monitoring</tag>
+      </tags>
+      <analysis>
+        <id>14512806</id>
+        <url>http://www.ohloh.net/analyses/14512806.xml</url>
+        <project_id>107</project_id>
+        <updated_at>2013-07-03T07:37:54Z</updated_at>
+        <logged_at>2013-07-03T04:42:10Z</logged_at>
+        <min_month>2001-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>227121</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nagios/analyses/14512806/languages.png">
+          <language color="FF8F00" percentage="44" id="42">
+C          </language>
+          <language color="EEE" percentage="25" id="51">
+Autoconf          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="22" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4510</id>
+      <name>Arch Linux Packages</name>
+      <url>http://www.ohloh.net/p/archlinux-packages.xml</url>
+      <html_url>http://www.ohloh.net/p/archlinux-packages</html_url>
+      <created_at>2007-02-20T20:14:07Z</created_at>
+      <updated_at>2013-06-28T16:25:26Z</updated_at>
+      <description>All repositories used to create packages for the Arch Linux distro.</description>
+      <homepage_url>http://www.archlinux.org</homepage_url>
+      <download_url></download_url>
+      <url_name>archlinux-packages</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6029/archlogo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6029/archlogo_small.jpg</small_logo_url>
+      <user_count>94</user_count>
+      <average_rating>4.68966</average_rating>
+      <rating_count>29</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14446243</analysis_id>
+      <tags>
+        <tag>packaging</tag>
+        <tag>arch_linux</tag>
+        <tag>operating_system</tag>
+        <tag>os</tag>
+        <tag>packages</tag>
+        <tag>arch</tag>
+        <tag>gnu_linux</tag>
+        <tag>linux</tag>
+        <tag>pacman</tag>
+        <tag>package_management</tag>
+      </tags>
+      <analysis>
+        <id>14446243</id>
+        <url>http://www.ohloh.net/analyses/14446243.xml</url>
+        <project_id>4510</project_id>
+        <updated_at>2013-06-28T16:25:26Z</updated_at>
+        <logged_at>2013-06-27T21:34:02Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>65</twelve_month_contributor_count>
+        <total_code_lines>31661</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/archlinux-packages/analyses/14446243/languages.png">
+          <language color="777777" percentage="48" id="11">
+shell script          </language>
+          <language color="FF8F00" percentage="33" id="42">
+C          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="13" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

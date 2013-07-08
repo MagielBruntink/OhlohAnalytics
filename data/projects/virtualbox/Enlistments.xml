@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>108518</id>
+      <project_id>4032</project_id>
+      <repository_id>106779</repository_id>
+      <repository>
+        <id>106779</id>
+        <type>SvnRepository</type>
+        <url>http://www.virtualbox.org/svn/kbuild-mirror/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T19:18:27Z</logged_at>
+        <commits>2591</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>8082</id>
+      <project_id>4032</project_id>
+      <repository_id>7984</repository_id>
+      <repository>
+        <id>7984</id>
+        <type>SvnRepository</type>
+        <url>http://www.virtualbox.org/svn/vbox/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T19:18:13Z</logged_at>
+        <commits>46995</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

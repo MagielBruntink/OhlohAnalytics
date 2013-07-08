@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487905</id>
+      <name>Jenkins</name>
+      <url>http://www.ohloh.net/p/jenkins.xml</url>
+      <html_url>http://www.ohloh.net/p/jenkins</html_url>
+      <created_at>2011-02-01T21:47:12Z</created_at>
+      <updated_at>2013-07-06T22:22:05Z</updated_at>
+      <description>Jenkins is a continuous integration server, allowing you to automatically monitor source repositories, build software and run tests.
+
+One-click installation and out-of-the-box cluster support make it easy to get started improving your software, or just giving you greater control of your daily task automation.
+
+With an extensive library of over 300 plugins, Jenkins can be used to build, test, log, analyse, graph and notify you in a great number of different ways about your jobs.
+
+Founded by Kohsuke Kawaguchi  while at Sun in 2004, the Hudson project forked in January 2011 to become Jenkins, with Oracle Corporation continuing the development of Hudson, and the bulk of the Hudson community, including Kawaguchi, moving on to work on Jenkins.</description>
+      <homepage_url>http://jenkins-ci.org/</homepage_url>
+      <download_url>http://jenkins-ci.org/</download_url>
+      <url_name>jenkins</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43796/headshot_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43796/headshot_small.png</small_logo_url>
+      <user_count>212</user_count>
+      <average_rating>4.81633</average_rating>
+      <rating_count>49</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14556065</analysis_id>
+      <tags>
+        <tag>build</tag>
+        <tag>quality_assurance</tag>
+        <tag>hudson</tag>
+        <tag>integration</tag>
+        <tag>regression</tag>
+        <tag>java</tag>
+        <tag>automation</tag>
+        <tag>continuous-integration</tag>
+        <tag>ci</tag>
+        <tag>unit-testing</tag>
+        <tag>jobscheduling</tag>
+        <tag>qa</tag>
+        <tag>development</tag>
+        <tag>process_automation</tag>
+        <tag>ant</tag>
+        <tag>continuous_integration</tag>
+      </tags>
+      <analysis>
+        <id>14556065</id>
+        <url>http://www.ohloh.net/analyses/14556065.xml</url>
+        <project_id>487905</project_id>
+        <updated_at>2013-07-06T22:22:04Z</updated_at>
+        <logged_at>2013-07-06T21:56:56Z</logged_at>
+        <min_month>2004-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>327</twelve_month_contributor_count>
+        <total_code_lines>904914</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jenkins/analyses/14556065/languages.png">
+          <language color="9A63AD" percentage="49" id="5">
+Java          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

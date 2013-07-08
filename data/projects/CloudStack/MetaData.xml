@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484396</id>
+      <name>Apache CloudStack</name>
+      <url>http://www.ohloh.net/p/CloudStack.xml</url>
+      <html_url>http://www.ohloh.net/p/CloudStack</html_url>
+      <created_at>2010-07-28T22:55:52Z</created_at>
+      <updated_at>2013-07-08T11:01:29Z</updated_at>
+      <description>Apache CloudStack (Incubating) is an open source Cloud Computing platform used to deliver Infrastructure as a Service (IaaS). CloudStack enables users to build, manage and deploy compute cloud environments. 
+
+CloudStack forms the foundation for infrastructure clouds, data center operators can quickly and easily build cloud services within their existing infrastructure to offer on-demand, elastic cloud services. CloudStack users can take full advantage of cloud computing to deliver higher efficiency, limitless scale and faster deployment of new services and systems to the end-user. CloudStack will allow user to coordinate virtualized servers, networking and network storage to provide infrastructure-as-a-service (IaaS) just like hosting providers but on their own hardware.</description>
+      <homepage_url>http://www.cloudstack.org</homepage_url>
+      <download_url>http://www.cloudstack.org/download.html</download_url>
+      <url_name>CloudStack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57788/cloudstack_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57788/cloudstack_small.png</small_logo_url>
+      <user_count>73</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569081</analysis_id>
+      <tags>
+        <tag>system</tag>
+        <tag>xen</tag>
+        <tag>clustering</tag>
+        <tag>distributed_computing</tag>
+        <tag>kvm</tag>
+        <tag>platform</tag>
+        <tag>management</tag>
+        <tag>cloud</tag>
+        <tag>computing</tag>
+        <tag>java</tag>
+        <tag>cloudcomputing</tag>
+        <tag>virtualization</tag>
+        <tag>citrix</tag>
+        <tag>hypervisor</tag>
+        <tag>system_administration</tag>
+        <tag>virtual_server</tag>
+        <tag>vmware</tag>
+        <tag>operating</tag>
+      </tags>
+      <analysis>
+        <id>14569081</id>
+        <url>http://www.ohloh.net/analyses/14569081.xml</url>
+        <project_id>484396</project_id>
+        <updated_at>2013-07-08T11:01:29Z</updated_at>
+        <logged_at>2013-07-08T06:32:05Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>165</twelve_month_contributor_count>
+        <total_code_lines>2700510</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/CloudStack/analyses/14569081/languages.png">
+          <language color="9A63AD" percentage="40" id="5">
+Java          </language>
+          <language color="47A400" percentage="40" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="14" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3993</id>
+      <name>SQLAlchemy</name>
+      <url>http://www.ohloh.net/p/sqlalchemy.xml</url>
+      <html_url>http://www.ohloh.net/p/sqlalchemy</html_url>
+      <created_at>2007-01-13T17:16:08Z</created_at>
+      <updated_at>2013-06-29T11:12:03Z</updated_at>
+      <description>SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+
+It provides a full suite of well known enterprise-level persistence patterns, designed for efficient and high-performing database access, adapted into a simple and Pythonic domain language.
+
+SQL databases behave less and less like object collections the more size and performance start to matter; object collections behave less and less like tables and rows the more abstraction starts to matter. SQLAlchemy aims to accommodate both of these principles.</description>
+      <homepage_url>http://www.sqlalchemy.org/</homepage_url>
+      <download_url>http://www.sqlalchemy.org/download.html</download_url>
+      <url_name>sqlalchemy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52526/sqla-logo6-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52526/sqla-logo6-64x64_small.png</small_logo_url>
+      <user_count>228</user_count>
+      <average_rating>4.59574</average_rating>
+      <rating_count>94</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14455686</analysis_id>
+      <tags>
+        <tag>persistence</tag>
+        <tag>database_abstraction</tag>
+        <tag>python</tag>
+        <tag>orm</tag>
+        <tag>database</tag>
+      </tags>
+      <analysis>
+        <id>14455686</id>
+        <url>http://www.ohloh.net/analyses/14455686.xml</url>
+        <project_id>3993</project_id>
+        <updated_at>2013-07-08T07:52:34Z</updated_at>
+        <logged_at>2013-07-08T07:52:31Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>129312</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sqlalchemy/analyses/14455686/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

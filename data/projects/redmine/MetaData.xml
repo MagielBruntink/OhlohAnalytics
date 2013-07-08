@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8267</id>
+      <name>Redmine</name>
+      <url>http://www.ohloh.net/p/redmine.xml</url>
+      <html_url>http://www.ohloh.net/p/redmine</html_url>
+      <created_at>2007-09-06T13:21:21Z</created_at>
+      <updated_at>2013-07-07T18:20:58Z</updated_at>
+      <description>A flexible project management web application written using Ruby on Rails framework.  Key features include:
+* Multiple projects support
+* Flexible role based access control.
+* Flexible issue tracking system
+* Gantt chart and calendar
+* News, documents &amp; files management
+* Feeds &amp; email notifications.
+* Per project wiki
+* Per project forums
+* Simple time tracking functionality
+* Custom fields for issues, projects and users
+* Repository integration (SVN, CVS, Git, Mercurial, Bazaar and Darcs)
+* Multiple LDAP authentication support
+* User self-registration support
+* Multilanguage support
+* Multiple databases support</description>
+      <homepage_url>http://www.redmine.org/</homepage_url>
+      <download_url>http://rubyforge.org/frs/?group_id=1850</download_url>
+      <url_name>redmine</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50980/redmine_fluid_icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50980/redmine_fluid_icon_small.png</small_logo_url>
+      <user_count>272</user_count>
+      <average_rating>4.50485</average_rating>
+      <rating_count>103</rating_count>
+      <review_count>5</review_count>
+      <analysis_id>14541437</analysis_id>
+      <tags>
+        <tag>plug_ins</tag>
+        <tag>scm</tag>
+        <tag>timemanagement</tag>
+        <tag>rubyonrails</tag>
+        <tag>planning</tag>
+        <tag>bug_tracking</tag>
+        <tag>ruby</tag>
+        <tag>issue_tracker</tag>
+        <tag>issue_tracking</tag>
+        <tag>bugtracking</tag>
+        <tag>project_management</tag>
+        <tag>time_tracking</tag>
+        <tag>chart</tag>
+        <tag>helpdesk</tag>
+        <tag>gantt</tag>
+        <tag>bugtracker</tag>
+        <tag>issuetracker</tag>
+        <tag>management</tag>
+        <tag>bug_tracker</tag>
+        <tag>mysql</tag>
+      </tags>
+      <analysis>
+        <id>14541437</id>
+        <url>http://www.ohloh.net/analyses/14541437.xml</url>
+        <project_id>8267</project_id>
+        <updated_at>2013-07-05T19:47:45Z</updated_at>
+        <logged_at>2013-07-05T19:46:12Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>88465</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/redmine/analyses/14541437/languages.png">
+          <language color="A40011" percentage="93" id="12">
+Ruby          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

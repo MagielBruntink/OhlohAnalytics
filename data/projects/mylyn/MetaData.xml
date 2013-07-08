@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4188</id>
+      <name>Eclipse Mylyn</name>
+      <url>http://www.ohloh.net/p/mylyn.xml</url>
+      <html_url>http://www.ohloh.net/p/mylyn</html_url>
+      <created_at>2007-01-29T17:44:47Z</created_at>
+      <updated_at>2013-07-07T05:10:55Z</updated_at>
+      <description>Mylyn is a Task-Focused Interface for Eclipse that reduces information overload and makes multi-tasking easy. It does this by making tasks a first class part of Eclipse, and integrating rich and offline editing for repositories such as Bugzilla, Trac, and JIRA. Once your tasks are integrated, Mylyn monitors your work activity to identify information relevant to the task-at-hand, and uses this task context to focus the Eclipse UI on the interesting information, hide the uninteresting, and automatically find what's related. This puts the information you need to get work done at your fingertips and improves productivity by reducing searching, scrolling, and navigation. By making task context explicit Mylyn also facilitates multitasking, planning, reusing past efforts, and sharing expertise.</description>
+      <homepage_url>http://www.eclipse.org/mylyn/</homepage_url>
+      <download_url>http://www.eclipse.org/mylyn/downloads/</download_url>
+      <url_name>mylyn</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10220/downloads_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10220/downloads_small.png</small_logo_url>
+      <user_count>232</user_count>
+      <average_rating>4.36923</average_rating>
+      <rating_count>65</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559385</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>tasks</tag>
+        <tag>ui</tag>
+        <tag>eclipse</tag>
+        <tag>mylar</tag>
+        <tag>mylyn</tag>
+        <tag>bug_tracking</tag>
+        <tag>wikitext</tag>
+      </tags>
+      <analysis>
+        <id>14559385</id>
+        <url>http://www.ohloh.net/analyses/14559385.xml</url>
+        <project_id>4188</project_id>
+        <updated_at>2013-07-07T05:10:55Z</updated_at>
+        <logged_at>2013-07-07T04:53:23Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>397549</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mylyn/analyses/14559385/languages.png">
+          <language color="9A63AD" percentage="79" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

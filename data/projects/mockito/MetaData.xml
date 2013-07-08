@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16994</id>
+      <name>Mockito</name>
+      <url>http://www.ohloh.net/p/mockito.xml</url>
+      <html_url>http://www.ohloh.net/p/mockito</html_url>
+      <created_at>2008-09-30T17:46:23Z</created_at>
+      <updated_at>2013-06-11T16:30:04Z</updated_at>
+      <description>Java mocking is dominated by expect-run-verify libraries like EasyMock or jMock. Mockito offers simpler and more intuitive approach: you ask questions about interactions after execution. Using mockito, you can verify what you want. Using expect-run-verify libraries you are often forced to look after irrelevant interactions.</description>
+      <homepage_url>http://code.google.com/p/mockito/</homepage_url>
+      <download_url>http://code.google.com/p/mockito/downloads/list</download_url>
+      <url_name>mockito</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29847/logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29847/logo_small.jpg</small_logo_url>
+      <user_count>86</user_count>
+      <average_rating>4.72222</average_rating>
+      <rating_count>36</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14220712</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>mock</tag>
+        <tag>testing</tag>
+        <tag>mockobjects</tag>
+        <tag>unit-testing</tag>
+        <tag>test</tag>
+      </tags>
+      <analysis>
+        <id>14220712</id>
+        <url>http://www.ohloh.net/analyses/14220712.xml</url>
+        <project_id>16994</project_id>
+        <updated_at>2013-07-04T21:21:07Z</updated_at>
+        <logged_at>2013-07-04T21:21:06Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>57214</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mockito/analyses/14220712/languages.png">
+          <language color="9A63AD" percentage="91" id="5">
+Java          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

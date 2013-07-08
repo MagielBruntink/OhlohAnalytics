@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>216069</id>
+      <project_id>3238</project_id>
+      <repository_id>214074</repository_id>
+      <repository>
+        <id>214074</id>
+        <type>GitRepository</type>
+        <url>git://cmake.org/cmake.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-05-18T13:40:56Z</logged_at>
+        <commits>20959</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>463391</id>
+      <project_id>3238</project_id>
+      <repository_id>256686</repository_id>
+      <repository>
+        <id>256686</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Kitware/CMake.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-05-11T12:21:50Z</logged_at>
+        <commits>20891</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

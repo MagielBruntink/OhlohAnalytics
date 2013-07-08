@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>76</id>
+      <name>ImageMagick</name>
+      <url>http://www.ohloh.net/p/imagemagick.xml</url>
+      <html_url>http://www.ohloh.net/p/imagemagick</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-06T17:19:53Z</updated_at>
+      <description>ImageMagick&#174; is a software suite to create, edit, and compose bitmap images. It can read, convert and write images in a variety of formats (over 100) including DPX, EXR, GIF, JPEG, JPEG-2000, PDF, PhotoCD, PNG, Postscript, SVG, and TIFF. Use ImageMagick to translate, flip, mirror, rotate, scale, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and B&#233;zier curves.
+
+The functionality of ImageMagick is typically utilized from the command line or you can use the features from programs written in your favorite programming language.
+
+ImageMagick is free software delivered as a ready-to-run binary distribution or as source code that you may freely use, copy, modify, and distribute in both open and proprietary applications.</description>
+      <homepage_url>http://www.imagemagick.org/</homepage_url>
+      <download_url>http://www.imagemagick.org/script/download.php</download_url>
+      <url_name>imagemagick</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16977/wizard_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16977/wizard_small.png</small_logo_url>
+      <user_count>1215</user_count>
+      <average_rating>4.24153</average_rating>
+      <rating_count>236</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14507646</analysis_id>
+      <tags>
+        <tag>sharpening</tag>
+        <tag>scripting</tag>
+        <tag>graphics</tag>
+        <tag>photography</tag>
+        <tag>ch</tag>
+        <tag>rotate</tag>
+        <tag>test_images</tag>
+        <tag>raster</tag>
+        <tag>linux</tag>
+        <tag>openmp</tag>
+        <tag>graphics2d</tag>
+        <tag>border</tag>
+        <tag>fourier_analysis</tag>
+        <tag>fourier_transform</tag>
+        <tag>image_resizing</tag>
+        <tag>video</tag>
+        <tag>image_manipulation</tag>
+        <tag>large_image</tag>
+        <tag>frame</tag>
+        <tag>osx</tag>
+        <tag>c</tag>
+        <tag>transparency</tag>
+        <tag>image_convolution</tag>
+        <tag>sharpen</tag>
+        <tag>format_conversion</tag>
+        <tag>library</tag>
+        <tag>comparison</tag>
+        <tag>resize</tag>
+        <tag>graphics_conversion</tag>
+        <tag>pascal</tag>
+        <tag>blurring</tag>
+        <tag>gamma</tag>
+        <tag>screen_capture</tag>
+        <tag>iphone</tag>
+        <tag>draw</tag>
+        <tag>visualbasic</tag>
+        <tag>tcltk</tag>
+        <tag>ada</tag>
+        <tag>perl</tag>
+        <tag>exif</tag>
+        <tag>batch</tag>
+        <tag>raster-based</tag>
+        <tag>thumbnail</tag>
+        <tag>blur</tag>
+        <tag>c++</tag>
+        <tag>image</tag>
+        <tag>hdr</tag>
+        <tag>batch_processing</tag>
+        <tag>windows</tag>
+        <tag>java</tag>
+        <tag>multicore</tag>
+        <tag>com+</tag>
+        <tag>presentation</tag>
+        <tag>xmlrpc</tag>
+        <tag>php</tag>
+        <tag>ruby</tag>
+        <tag>tools</tag>
+        <tag>composite</tag>
+        <tag>motion_picture</tag>
+        <tag>crop</tag>
+        <tag>trim</tag>
+        <tag>pixel</tag>
+        <tag>annotation</tag>
+        <tag>thumbnailer</tag>
+        <tag>image_transform</tag>
+        <tag>unix</tag>
+        <tag>pixels</tag>
+        <tag>command_line</tag>
+        <tag>realbasic</tag>
+        <tag>mac</tag>
+        <tag>viewer</tag>
+        <tag>morphology</tag>
+        <tag>high_bit_depth_images</tag>
+        <tag>image_processing</tag>
+        <tag>image_warping</tag>
+        <tag>shapes</tag>
+        <tag>drawing</tag>
+        <tag>image_sharpening</tag>
+        <tag>imported_delicious</tag>
+        <tag>image_histogram</tag>
+        <tag>fourier</tag>
+        <tag>labview</tag>
+        <tag>treshold</tag>
+        <tag>neko</tag>
+        <tag>lisp</tag>
+        <tag>flip</tag>
+        <tag>perspective</tag>
+        <tag>thumbnail_production</tag>
+        <tag>python</tag>
+        <tag>dft</tag>
+        <tag>layers</tag>
+        <tag>tint</tag>
+        <tag>warping</tag>
+        <tag>text</tag>
+        <tag>image_filtering</tag>
+        <tag>image_compositing</tag>
+        <tag>multi-platform</tag>
+        <tag>rotation</tag>
+        <tag>digital_film</tag>
+        <tag>image_format</tag>
+        <tag>net</tag>
+        <tag>opencl</tag>
+        <tag>antialiasing</tag>
+        <tag>animation</tag>
+        <tag>compositing</tag>
+      </tags>
+      <analysis>
+        <id>14507646</id>
+        <url>http://www.ohloh.net/analyses/14507646.xml</url>
+        <project_id>76</project_id>
+        <updated_at>2013-07-02T22:30:14Z</updated_at>
+        <logged_at>2013-07-02T22:23:44Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>512777</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/imagemagick/analyses/14507646/languages.png">
+          <language color="FF8F00" percentage="62" id="42">
+C          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="EEE" percentage="9" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="14" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

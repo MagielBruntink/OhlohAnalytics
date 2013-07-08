@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5522</id>
+      <name>Red5</name>
+      <url>http://www.ohloh.net/p/red5.xml</url>
+      <html_url>http://www.ohloh.net/p/red5</html_url>
+      <created_at>2007-05-22T16:14:12Z</created_at>
+      <updated_at>2013-07-07T19:33:48Z</updated_at>
+      <description>Red5 is an Open Source Flash Server written in Java that supports:
+
+- Streaming Audio/Video (FLV and MP3)
+- Recording Client Streams (FLV only)
+- Shared Objects
+- Live Stream Publishing
+- Remoting</description>
+      <homepage_url>http://code.google.com/p/red5/</homepage_url>
+      <download_url>http://jira.red5.org/confluence/display/downloads/Home</download_url>
+      <url_name>red5</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6575/red5_top_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6575/red5_top_small.png</small_logo_url>
+      <user_count>54</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>20</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12094701</analysis_id>
+      <tags>
+        <tag>flex</tag>
+        <tag>spring</tag>
+        <tag>flv</tag>
+        <tag>server</tag>
+        <tag>jetty</tag>
+        <tag>rtmp</tag>
+        <tag>amf</tag>
+        <tag>remoting</tag>
+        <tag>flash</tag>
+        <tag>streaming</tag>
+        <tag>multimedia</tag>
+        <tag>tomcat</tag>
+        <tag>java</tag>
+        <tag>rtmpt</tag>
+        <tag>amf3</tag>
+        <tag>mp3</tag>
+        <tag>mina</tag>
+        <tag>rtmps</tag>
+      </tags>
+      <analysis>
+        <id>12094701</id>
+        <url>http://www.ohloh.net/analyses/12094701.xml</url>
+        <project_id>5522</project_id>
+        <updated_at>2013-01-08T13:53:34Z</updated_at>
+        <logged_at>2013-01-08T13:52:00Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>590608</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/red5/analyses/12094701/languages.png">
+          <language color="47A400" percentage="68" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="17" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

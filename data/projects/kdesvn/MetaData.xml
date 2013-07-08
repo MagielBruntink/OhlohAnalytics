@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6942</id>
+      <name>kdesvn</name>
+      <url>http://www.ohloh.net/p/kdesvn.xml</url>
+      <html_url>http://www.ohloh.net/p/kdesvn</html_url>
+      <created_at>2007-07-28T10:37:28Z</created_at>
+      <updated_at>2013-06-24T02:35:50Z</updated_at>
+      <description>KDESvn is a frontend to the subversion vcs. In difference to most other tools it uses the subversion C-Api direct via a c++ wrapper made by Rapid SVN and doesn't parse the output of the subversion client. So it is a real client itself instead of a frontend to the command line tool.</description>
+      <homepage_url>http://kdesvn.alwins-world.de/</homepage_url>
+      <download_url>http://kdesvn.alwins-world.de/wiki/DownLoads</download_url>
+      <url_name>kdesvn</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3480/kdesvn_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3480/kdesvn_small.png</small_logo_url>
+      <user_count>61</user_count>
+      <average_rating>4.31818</average_rating>
+      <rating_count>22</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14371244</analysis_id>
+      <tags>
+        <tag>qt4</tag>
+        <tag>development</tag>
+        <tag>version-control</tag>
+        <tag>gui</tag>
+        <tag>client</tag>
+        <tag>svn</tag>
+        <tag>subversion</tag>
+        <tag>kde</tag>
+        <tag>c++</tag>
+        <tag>qt</tag>
+        <tag>scm</tag>
+      </tags>
+      <analysis>
+        <id>14371244</id>
+        <url>http://www.ohloh.net/analyses/14371244.xml</url>
+        <project_id>6942</project_id>
+        <updated_at>2013-07-04T22:06:48Z</updated_at>
+        <logged_at>2013-07-04T22:06:38Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>43792</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kdesvn/analyses/14371244/languages.png">
+          <language color="F35F1F" percentage="76" id="44">
+C++          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

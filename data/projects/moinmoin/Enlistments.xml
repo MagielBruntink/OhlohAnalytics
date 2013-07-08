@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>241041</id>
+      <project_id>4439</project_id>
+      <repository_id>238715</repository_id>
+      <repository>
+        <id>238715</id>
+        <type>HgRepository</type>
+        <url>http://hg.moinmo.in/moin/1.9</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-27T08:22:35Z</logged_at>
+        <commits>5998</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>246877</id>
+      <project_id>4439</project_id>
+      <repository_id>244399</repository_id>
+      <repository>
+        <id>244399</id>
+        <type>HgRepository</type>
+        <url>http://hg.moinmo.in/moin/2.0</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-27T08:22:00Z</logged_at>
+        <commits>2118</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

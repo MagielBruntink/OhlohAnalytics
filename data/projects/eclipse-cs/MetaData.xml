@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6568</id>
+      <name>Eclipse Checkstyle Plugin</name>
+      <url>http://www.ohloh.net/p/eclipse-cs.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse-cs</html_url>
+      <created_at>2007-07-12T14:16:13Z</created_at>
+      <updated_at>2013-07-04T04:38:03Z</updated_at>
+      <description>The Eclipse Checkstyle plug-in integrates the Checkstyle Java code auditor into the Eclipse IDE. The plug-in provides real-time feedback to the user about violations of rules that check for coding style and possible error prone code constructs.</description>
+      <homepage_url>http://eclipse-cs.sourceforge.net</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=80344</download_url>
+      <url_name>eclipse-cs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15041/eclipse-cs-little_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15041/eclipse-cs-little_small.png</small_logo_url>
+      <user_count>86</user_count>
+      <average_rating>4.26087</average_rating>
+      <rating_count>23</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14522200</analysis_id>
+      <tags>
+        <tag>quality</tag>
+        <tag>java</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>style</tag>
+        <tag>standards</tag>
+        <tag>eclipse</tag>
+        <tag>tools</tag>
+        <tag>plugin</tag>
+        <tag>standard</tag>
+        <tag>conventions</tag>
+        <tag>code_analysis</tag>
+        <tag>checkstyle</tag>
+      </tags>
+      <analysis>
+        <id>14522200</id>
+        <url>http://www.ohloh.net/analyses/14522200.xml</url>
+        <project_id>6568</project_id>
+        <updated_at>2013-07-04T04:38:03Z</updated_at>
+        <logged_at>2013-07-04T04:28:12Z</logged_at>
+        <min_month>2003-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>61039</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse-cs/analyses/14522200/languages.png">
+          <language color="9A63AD" percentage="74" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

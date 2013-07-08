@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>155</id>
+      <name>LAME (Lame Ain't an MP3 Encoder)</name>
+      <url>http://www.ohloh.net/p/lame.xml</url>
+      <html_url>http://www.ohloh.net/p/lame</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-04T00:09:32Z</updated_at>
+      <description>LAME (LAME Ain't an MP3 Encoder) is a research project for learning about and improving MP3 encoding technology. LAME includes an MP3 encoding library, simple frontend application, a much-improved psycho-acoustic model (GPSYCHO), and a graphical frame analyzer (MP3x). Please note that any commercial use (including distributing the LAME encoding engine in a free encoder) may require a patent license from Thomson Multimedia.</description>
+      <homepage_url>http://lame.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>lame</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1764/lame_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1764/lame_small.png</small_logo_url>
+      <user_count>703</user_count>
+      <average_rating>4.56098</average_rating>
+      <rating_count>123</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14511689</analysis_id>
+      <tags>
+        <tag>decoder</tag>
+        <tag>mpeg-1</tag>
+        <tag>mp3</tag>
+        <tag>mpeg</tag>
+        <tag>encoder</tag>
+        <tag>lame</tag>
+      </tags>
+      <analysis>
+        <id>14511689</id>
+        <url>http://www.ohloh.net/analyses/14511689.xml</url>
+        <project_id>155</project_id>
+        <updated_at>2013-07-03T05:06:48Z</updated_at>
+        <logged_at>2013-07-03T04:39:47Z</logged_at>
+        <min_month>1999-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>117144</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lame/analyses/14511689/languages.png">
+          <language color="FF8F00" percentage="34" id="42">
+C          </language>
+          <language color="EEE" percentage="23" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="12" id="11">
+shell script          </language>
+          <language color="000000" percentage="31" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

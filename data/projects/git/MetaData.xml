@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>278</id>
+      <name>Git</name>
+      <url>http://www.ohloh.net/p/git.xml</url>
+      <html_url>http://www.ohloh.net/p/git</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-08T01:15:58Z</updated_at>
+      <description>Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.</description>
+      <homepage_url>http://git-scm.com/</homepage_url>
+      <download_url>http://git-scm.com/downloads</download_url>
+      <url_name>git</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/514/git-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/514/git-logo_small.png</small_logo_url>
+      <user_count>3646</user_count>
+      <average_rating>4.69533</average_rating>
+      <rating_count>1070</rating_count>
+      <review_count>6</review_count>
+      <analysis_id>14505343</analysis_id>
+      <tags>
+        <tag>tools</tag>
+        <tag>source-control</tag>
+        <tag>distributed</tag>
+        <tag>collaboration</tag>
+        <tag>programming</tag>
+        <tag>revision-control</tag>
+        <tag>dscm</tag>
+        <tag>development</tag>
+        <tag>dvcs</tag>
+        <tag>scm</tag>
+        <tag>code</tag>
+        <tag>version-control</tag>
+        <tag>git</tag>
+        <tag>vcs</tag>
+        <tag>gui</tag>
+        <tag>console</tag>
+        <tag>repository</tag>
+      </tags>
+      <analysis>
+        <id>14505343</id>
+        <url>http://www.ohloh.net/analyses/14505343.xml</url>
+        <project_id>278</project_id>
+        <updated_at>2013-07-02T19:04:40Z</updated_at>
+        <logged_at>2013-07-02T18:05:06Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>239</twelve_month_contributor_count>
+        <total_code_lines>407503</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/git/analyses/14505343/languages.png">
+          <language color="FF8F00" percentage="42" id="42">
+C          </language>
+          <language color="777777" percentage="34" id="11">
+shell script          </language>
+          <language color="D290A8" percentage="10" id="25">
+Tcl          </language>
+          <language color="000000" percentage="14" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

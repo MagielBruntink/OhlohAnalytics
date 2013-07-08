@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3607</id>
+      <name>Apache Ant</name>
+      <url>http://www.ohloh.net/p/ant.xml</url>
+      <html_url>http://www.ohloh.net/p/ant</html_url>
+      <created_at>2006-11-16T10:18:28Z</created_at>
+      <updated_at>2013-07-02T08:18:25Z</updated_at>
+      <description>Apache Ant is a Java-based build tool. In theory, it is kind of like Make, but without Make's wrinkles.</description>
+      <homepage_url>http://ant.apache.org</homepage_url>
+      <download_url>http://ant.apache.org/bindownload.cgi</download_url>
+      <url_name>ant</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1156/ant_logo_large_square_med.PNG</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1156/ant_logo_large_square_small.PNG</small_logo_url>
+      <user_count>1258</user_count>
+      <average_rating>4.00388</average_rating>
+      <rating_count>258</rating_count>
+      <review_count>4</review_count>
+      <analysis_id>14501549</analysis_id>
+      <tags>
+        <tag>build_tools</tag>
+        <tag>junit</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>subversion</tag>
+        <tag>continuous_integration</tag>
+        <tag>build</tag>
+        <tag>java</tag>
+        <tag>deployment</tag>
+        <tag>xml</tag>
+        <tag>ant</tag>
+        <tag>tools</tag>
+        <tag>eclipse</tag>
+        <tag>ivy</tag>
+        <tag>code</tag>
+        <tag>testing</tag>
+        <tag>make</tag>
+        <tag>automation</tag>
+        <tag>scm</tag>
+        <tag>cvs</tag>
+        <tag>unit-testing</tag>
+      </tags>
+      <analysis>
+        <id>14501549</id>
+        <url>http://www.ohloh.net/analyses/14501549.xml</url>
+        <project_id>3607</project_id>
+        <updated_at>2013-07-02T08:18:25Z</updated_at>
+        <logged_at>2013-07-02T07:59:07Z</logged_at>
+        <min_month>2000-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>261674</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ant/analyses/14501549/languages.png">
+          <language color="9A63AD" percentage="50" id="5">
+Java          </language>
+          <language color="555555" percentage="28" id="3">
+XML          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
