@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>213</id>
+      <name>HyperSQL Database Engine</name>
+      <url>http://www.ohloh.net/p/hsqldb.xml</url>
+      <html_url>http://www.ohloh.net/p/hsqldb</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-08T05:13:47Z</updated_at>
+      <description>hsqldb is a relational database engine written in Java with a JDBC driver that supports a subset of ANSI SQL:1999. It offers a small, fast database engine. Embedded and server modes are available. It includes tools such as a minimal Web server, in-memory query and management tools (which can be run as applets or servlets, too), a test framework, PHP compatibility, Eclipse and NetBeans IDE compatibility, and a number of demonstration examples.</description>
+      <homepage_url>http://hsqldb.org/</homepage_url>
+      <download_url>https://sourceforge.net/projects/hsqldb/files/</download_url>
+      <url_name>hsqldb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5099/line-1_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5099/line-1_small.gif</small_logo_url>
+      <user_count>229</user_count>
+      <average_rating>4.06818</average_rating>
+      <rating_count>44</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14567255</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>rdbms</tag>
+        <tag>persistance</tag>
+        <tag>jdbc</tag>
+        <tag>tools</tag>
+        <tag>hsqldb</tag>
+        <tag>hsql</tag>
+        <tag>server</tag>
+        <tag>development</tag>
+        <tag>embedded</tag>
+        <tag>sql</tag>
+        <tag>relational</tag>
+        <tag>http_server</tag>
+        <tag>java</tag>
+        <tag>front-ends</tag>
+        <tag>database_server</tag>
+        <tag>dbms</tag>
+        <tag>engine</tag>
+        <tag>gis</tag>
+        <tag>lamp</tag>
+        <tag>linux</tag>
+        <tag>macosx</tag>
+        <tag>mysql</tag>
+        <tag>net</tag>
+        <tag>odbc</tag>
+        <tag>oltp</tag>
+        <tag>posix</tag>
+        <tag>python</tag>
+        <tag>replication</tag>
+        <tag>software_development</tag>
+        <tag>solaris</tag>
+        <tag>transactions</tag>
+        <tag>udf</tag>
+        <tag>unicode</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14567255</id>
+        <url>http://www.ohloh.net/analyses/14567255.xml</url>
+        <project_id>213</project_id>
+        <updated_at>2013-07-08T05:13:47Z</updated_at>
+        <logged_at>2013-07-07T21:49:07Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>579199</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hsqldb/analyses/14567255/languages.png">
+          <language color="9A63AD" percentage="51" id="5">
+Java          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="30" id="">
+18 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

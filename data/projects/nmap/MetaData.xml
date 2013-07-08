@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5502</id>
+      <name>Nmap Security Scanner</name>
+      <url>http://www.ohloh.net/p/nmap.xml</url>
+      <html_url>http://www.ohloh.net/p/nmap</html_url>
+      <created_at>2007-05-21T03:56:35Z</created_at>
+      <updated_at>2013-07-02T16:15:50Z</updated_at>
+      <description>Nmap (&quot;Network Mapper&quot;) is a free open source utility for network exploration or security auditing. It was designed to rapidly scan large networks, although it works fine against single hosts. Nmap uses raw IP packets in novel ways to determine what hosts are available on the network, what services (application name and version) those hosts are offering, what operating systems (and OS versions) they are running, what type of packet filters/firewalls are in use, and dozens of other characteristics. Nmap runs on most types of computers and both console and graphical versions are available.</description>
+      <homepage_url>http://nmap.org/</homepage_url>
+      <download_url>http://nmap.org/download.html</download_url>
+      <url_name>nmap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1685/nmap-eye1_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1685/nmap-eye1_small.png</small_logo_url>
+      <user_count>909</user_count>
+      <average_rating>4.59375</average_rating>
+      <rating_count>160</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14504217</analysis_id>
+      <tags>
+        <tag>security</tag>
+        <tag>networking</tag>
+        <tag>network</tag>
+        <tag>sysadmin</tag>
+        <tag>ping</tag>
+        <tag>monitor</tag>
+        <tag>netadmin</tag>
+        <tag>portscanner</tag>
+      </tags>
+      <analysis>
+        <id>14504217</id>
+        <url>http://www.ohloh.net/analyses/14504217.xml</url>
+        <project_id>5502</project_id>
+        <updated_at>2013-07-02T16:15:50Z</updated_at>
+        <logged_at>2013-07-02T15:00:11Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>9044222</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nmap/analyses/14504217/languages.png">
+          <language color="A42E00" percentage="23" id="27">
+Lua          </language>
+          <language color="FF8F00" percentage="22" id="42">
+C          </language>
+          <language color="EEE" percentage="17" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="38" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

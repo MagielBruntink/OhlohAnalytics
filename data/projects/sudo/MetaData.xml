@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5418</id>
+      <name>sudo</name>
+      <url>http://www.ohloh.net/p/sudo.xml</url>
+      <html_url>http://www.ohloh.net/p/sudo</html_url>
+      <created_at>2007-05-16T14:01:14Z</created_at>
+      <updated_at>2013-07-05T17:00:33Z</updated_at>
+      <description>Sudo (su &quot;do&quot;) allows a system administrator to give certain users (or groups of users) the ability to run some (or all) commands as root or another user while logging the commands and arguments.</description>
+      <homepage_url>http://www.sudo.ws/sudo/sudo.html</homepage_url>
+      <download_url>http://www.sudo.ws/sudo/download.html</download_url>
+      <url_name>sudo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64718/imagesCAHNQ0CX_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64718/imagesCAHNQ0CX_small.jpg</small_logo_url>
+      <user_count>3123</user_count>
+      <average_rating>4.45082</average_rating>
+      <rating_count>488</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14503849</analysis_id>
+      <tags>
+        <tag>sysadmin</tag>
+        <tag>administration</tag>
+        <tag>admin</tag>
+        <tag>root</tag>
+      </tags>
+      <analysis>
+        <id>14503849</id>
+        <url>http://www.ohloh.net/analyses/14503849.xml</url>
+        <project_id>5418</project_id>
+        <updated_at>2013-07-02T15:07:26Z</updated_at>
+        <logged_at>2013-07-02T15:06:35Z</logged_at>
+        <min_month>1993-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>98564</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sudo/analyses/14503849/languages.png">
+          <language color="FF8F00" percentage="44" id="42">
+C          </language>
+          <language color="EEE" percentage="34" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="19" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

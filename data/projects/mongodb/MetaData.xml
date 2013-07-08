@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>339183</id>
+      <name>MongoDB</name>
+      <url>http://www.ohloh.net/p/mongodb.xml</url>
+      <html_url>http://www.ohloh.net/p/mongodb</html_url>
+      <created_at>2009-05-07T13:22:59Z</created_at>
+      <updated_at>2013-07-07T20:41:37Z</updated_at>
+      <description>MongoDB is a high-performance, open source, schema-free document-oriented  data store that's easy to deploy, manage and use. It's network accessible, written in C++ and offers the following features :
+
+    * Full index support, including on inner objects
+    * Query profiling
+    * Replication and fail-over support
+    * Efficient storage of binary data including large objects (e.g. videos)
+    * Auto-sharding for cloud-level scalability (Q209)
+
+High performance, scalability, and reasonable depth of functionality are the goals for the project.  Deep transaction support is not a goal of the system.</description>
+      <homepage_url>http://www.mongodb.org/</homepage_url>
+      <download_url>http://www.mongodb.org/display/DOCS/Downloads</download_url>
+      <url_name>mongodb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19674/twitter_bigger_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19674/twitter_bigger_small.png</small_logo_url>
+      <user_count>242</user_count>
+      <average_rating>4.5873</average_rating>
+      <rating_count>63</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560117</analysis_id>
+      <tags>
+        <tag>json</tag>
+        <tag>mongodb</tag>
+        <tag>document-oriented</tag>
+        <tag>replication</tag>
+        <tag>non-relational</tag>
+        <tag>c++</tag>
+        <tag>database</tag>
+        <tag>bson</tag>
+        <tag>nosql</tag>
+      </tags>
+      <analysis>
+        <id>14560117</id>
+        <url>http://www.ohloh.net/analyses/14560117.xml</url>
+        <project_id>339183</project_id>
+        <updated_at>2013-07-07T07:18:29Z</updated_at>
+        <logged_at>2013-07-07T07:11:07Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>87</twelve_month_contributor_count>
+        <total_code_lines>510186</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mongodb/analyses/14560117/languages.png">
+          <language color="F35F1F" percentage="50" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="A4007E" percentage="14" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

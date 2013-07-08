@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5506</id>
+      <name>TrueCrypt</name>
+      <url>http://www.ohloh.net/p/truecrypt.xml</url>
+      <html_url>http://www.ohloh.net/p/truecrypt</html_url>
+      <created_at>2007-05-21T08:54:15Z</created_at>
+      <updated_at>2013-06-30T13:02:04Z</updated_at>
+      <description>On-the-fly encryption software which can create a virtual encrypted disk within a file and mount it as a real disk. It can also encrypt a hard disk partition or storage device, such as USB flash drive. Moreover, TrueCrypt supports plausible deniability.</description>
+      <homepage_url>http://www.truecrypt.org/</homepage_url>
+      <download_url>http://www.truecrypt.org/downloads.php</download_url>
+      <url_name>truecrypt</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18255/truecrypt_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18255/truecrypt_small.png</small_logo_url>
+      <user_count>254</user_count>
+      <average_rating>4.62338</average_rating>
+      <rating_count>76</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14478814</analysis_id>
+      <tags>
+        <tag>crypto</tag>
+        <tag>cryptography</tag>
+        <tag>security</tag>
+        <tag>cross-platform</tag>
+        <tag>encryption</tag>
+        <tag>privacy</tag>
+        <tag>aes</tag>
+        <tag>file-system</tag>
+      </tags>
+      <analysis>
+        <id>14478814</id>
+        <url>http://www.ohloh.net/analyses/14478814.xml</url>
+        <project_id>5506</project_id>
+        <updated_at>2013-06-30T13:02:04Z</updated_at>
+        <logged_at>2013-06-30T13:01:45Z</logged_at>
+        <min_month>2011-11-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>108817</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/truecrypt/analyses/14478814/languages.png">
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="F35F1F" percentage="33" id="44">
+C++          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>TrueCrypt_Collective_License</name>
+          <nice_name>TrueCrypt Collective License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

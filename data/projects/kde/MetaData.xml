@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>272</id>
+      <name>KDE</name>
+      <url>http://www.ohloh.net/p/kde.xml</url>
+      <html_url>http://www.ohloh.net/p/kde</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-08T03:06:28Z</updated_at>
+      <description>KDE is a development platform, a set of applications and a graphical desktop; it's all of these things. It is created by a community of people dedicated to create a free, open-source and user-friendly computing experience. KDE offers all the necessary means to easily build all kinds of applications upon our libraries, as well as offers many applications out of the box. From a media player, to a text editor, to a workspace, a web browser, a file manager, and so on.
+
+KDE has been around since 1996, with the code change history dating back at least to 1997.
+
+KDE is one of the biggest free software C++ projects around and one of the two leaders of UNIX desktops. Not only this, but KDE also runs on Windows and OS X.</description>
+      <homepage_url>http://www.kde.org</homepage_url>
+      <download_url>http://www.kde.org/download/</download_url>
+      <url_name>kde</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/622/128px-KDE_logo.svg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/622/128px-KDE_logo.svg_small.png</small_logo_url>
+      <user_count>1159</user_count>
+      <average_rating>4.53222</average_rating>
+      <rating_count>419</rating_count>
+      <review_count>4</review_count>
+      <analysis_id>14564162</analysis_id>
+      <tags>
+        <tag>mac_os_x</tag>
+        <tag>qt</tag>
+        <tag>c++</tag>
+        <tag>ui</tag>
+        <tag>x11</tag>
+        <tag>solaris</tag>
+        <tag>x-windows</tag>
+        <tag>linux</tag>
+        <tag>cross-platform</tag>
+        <tag>dbus</tag>
+        <tag>gui</tag>
+        <tag>cmake</tag>
+        <tag>window_manager</tag>
+        <tag>freedesktoporg</tag>
+        <tag>win32</tag>
+        <tag>unix</tag>
+        <tag>openbsd</tag>
+        <tag>desktop_environment</tag>
+        <tag>xdg</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14564162</id>
+        <url>http://www.ohloh.net/analyses/14564162.xml</url>
+        <project_id>272</project_id>
+        <updated_at>2013-07-08T03:06:27Z</updated_at>
+        <logged_at>2013-07-06T17:13:29Z</logged_at>
+        <min_month>1997-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>690</twelve_month_contributor_count>
+        <total_code_lines>23210072</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kde/analyses/14564162/languages.png">
+          <language color="F35F1F" percentage="59" id="44">
+C++          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="10" id="42">
+C          </language>
+          <language color="000000" percentage="13" id="">
+50 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>426</id>
+      <name>phpPgAdmin</name>
+      <url>http://www.ohloh.net/p/phppgadmin.xml</url>
+      <html_url>http://www.ohloh.net/p/phppgadmin</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-25T14:58:29Z</updated_at>
+      <description>phpPgAdmin is a fully functional PHP-based administration package for PostgreSQL. It has all the basic functionality you need to completely administer a PosgreSQL server and/or database, including the ability to administer views, sequences, stored procedures, and triggers. Features include the ability to create and drop databases; create, copy, drop, and alter tables/views/sequences/functions/triggers; edit and add fields (to the extent Postgres allows); execute any SQL-statement, even batch-queries; manage keys on fields; create and read dumps of database and tables; and administer one single database, multiple servers, and Postgres users/groups/roles.</description>
+      <homepage_url>http://phppgadmin.sourceforge.net/</homepage_url>
+      <download_url>http://phppgadmin.sourceforge.net/?page=download</download_url>
+      <url_name>phppgadmin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>84</user_count>
+      <average_rating>3.96429</average_rating>
+      <rating_count>28</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3387818</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>postgres</tag>
+        <tag>front-ends</tag>
+        <tag>administration</tag>
+        <tag>systems_administration</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>sql</tag>
+        <tag>floss</tag>
+        <tag>ajax</tag>
+        <tag>i18n</tag>
+        <tag>dynamic_content</tag>
+        <tag>webapps</tag>
+        <tag>apache</tag>
+        <tag>postgresql</tag>
+        <tag>gpl</tag>
+        <tag>tools</tag>
+        <tag>postgre</tag>
+        <tag>database</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>3387818</id>
+        <url>http://www.ohloh.net/analyses/3387818.xml</url>
+        <project_id>426</project_id>
+        <updated_at>2011-08-10T16:20:11Z</updated_at>
+        <logged_at>2011-08-09T23:38:18Z</logged_at>
+        <min_month>2001-04-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>311773</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phppgadmin/analyses/3387818/languages.png">
+          <language color="356AA0" percentage="75" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

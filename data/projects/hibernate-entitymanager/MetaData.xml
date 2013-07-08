@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7896</id>
+      <name>Hibernate Entity Manager</name>
+      <url>http://www.ohloh.net/p/hibernate-entitymanager.xml</url>
+      <html_url>http://www.ohloh.net/p/hibernate-entitymanager</html_url>
+      <created_at>2007-08-23T03:06:21Z</created_at>
+      <updated_at>2013-03-08T21:30:46Z</updated_at>
+      <description>Hibernate EntityManager implements:
+
+    * The standard Java Persistence management API
+    * The standard Java Persistence Query Language
+    * The standard Java Persistence object lifecycle rules
+    * The standard Java Persistence configuration and packaging
+
+Hibernate EntityManager wraps the powerful and mature Hibernate Core. You can fall back to Hibernate native APIs, native SQL, and native JDBC whenever necessary.
+
+The Hibernate Java Persistence provider is the default persistence provider of the JBoss EJB 3.0 implementation and bundled with the JBoss Application Server.</description>
+      <homepage_url>http://entitymanager.hibernate.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=40712&amp;package_id=156160</download_url>
+      <url_name>hibernate-entitymanager</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45772/hibernate_icon-120_120px_med_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45772/hibernate_icon-120_120px_med_small.gif</small_logo_url>
+      <user_count>72</user_count>
+      <average_rating>4.45455</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1772394</analysis_id>
+      <tags>
+        <tag>jpa</tag>
+        <tag>hibernate</tag>
+        <tag>orm</tag>
+        <tag>java</tag>
+        <tag>persistence</tag>
+        <tag>database</tag>
+        <tag>javaee</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>1772394</id>
+        <url>http://www.ohloh.net/analyses/1772394.xml</url>
+        <project_id>7896</project_id>
+        <updated_at>2011-03-14T15:33:35Z</updated_at>
+        <logged_at>2008-10-01T06:25:17Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2008-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>139399</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hibernate-entitymanager/analyses/1772394/languages.png">
+          <language color="555555" percentage="53" id="3">
+XML          </language>
+          <language color="556655" percentage="32" id="36">
+XSL Transformation          </language>
+          <language color="9A63AD" percentage="9" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4406</id>
+      <name>Parrot</name>
+      <url>http://www.ohloh.net/p/parrot.xml</url>
+      <html_url>http://www.ohloh.net/p/parrot</html_url>
+      <created_at>2007-02-12T18:18:09Z</created_at>
+      <updated_at>2013-07-03T17:52:05Z</updated_at>
+      <description>Parrot is a virtual machine designed to efficiently compile and execute bytecode for dynamic languages. Parrot currently hosts a variety of language implementations in various stages of completion, including Tcl, Javascript, Ruby, Lua, Scheme, PHP, Python, Perl 6, APL, and a .NET bytecode translator. Parrot is not about parrots, though we are rather fond of them for obvious reasons.</description>
+      <homepage_url>http://www.parrot.org</homepage_url>
+      <download_url>http://www.parrot.org/download</download_url>
+      <url_name>parrot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11769/parrot_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11769/parrot_logo_small.png</small_logo_url>
+      <user_count>61</user_count>
+      <average_rating>4.77419</average_rating>
+      <rating_count>31</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14503080</analysis_id>
+      <tags>
+        <tag>compiler</tag>
+        <tag>integration</tag>
+        <tag>dynamic</tag>
+        <tag>interpreter</tag>
+        <tag>language</tag>
+        <tag>scripting</tag>
+        <tag>development</tag>
+        <tag>vm</tag>
+        <tag>programming</tag>
+        <tag>perl</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>14503080</id>
+        <url>http://www.ohloh.net/analyses/14503080.xml</url>
+        <project_id>4406</project_id>
+        <updated_at>2013-07-02T13:19:19Z</updated_at>
+        <logged_at>2013-07-02T13:14:48Z</logged_at>
+        <min_month>2001-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>31</twelve_month_contributor_count>
+        <total_code_lines>283896</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/parrot/analyses/14503080/languages.png">
+          <language color="D2C690" percentage="51" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="47" id="42">
+C          </language>
+          <language color="000000" percentage="2" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

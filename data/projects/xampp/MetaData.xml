@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5549</id>
+      <name>XAMPP</name>
+      <url>http://www.ohloh.net/p/xampp.xml</url>
+      <html_url>http://www.ohloh.net/p/xampp</html_url>
+      <created_at>2007-05-23T18:18:00Z</created_at>
+      <updated_at>2013-07-07T18:32:12Z</updated_at>
+      <description>XAMPP is an easy to (optionally) install Apache distribution containing MySQL, PHP and Perl. XAMPP is really very easy to install and to use - just download, extract and start.
+
+This includes XAMPP Lite, an additional extra small XAMPP edition. It's the successor of the old MiniXAMPP.
+
+Get a fully functional web server within minutes under Windows, Mac OS X, Linux and Solaris.</description>
+      <homepage_url>http://www.apachefriends.org/en/xampp.html</homepage_url>
+      <download_url>http://www.apachefriends.org/download.php?xampp-linux-1.7.7.tar.gz</download_url>
+      <url_name>xampp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7876/xlogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7876/xlogo_small.png</small_logo_url>
+      <user_count>364</user_count>
+      <average_rating>4.4252</average_rating>
+      <rating_count>127</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14548699</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>mysql</tag>
+        <tag>simple</tag>
+        <tag>lamp</tag>
+        <tag>hosting</tag>
+        <tag>programming</tag>
+        <tag>web</tag>
+        <tag>development</tag>
+        <tag>apache</tag>
+        <tag>server</tag>
+        <tag>httpd</tag>
+        <tag>intranet</tag>
+        <tag>publishing</tag>
+        <tag>windows</tag>
+        <tag>wamp</tag>
+        <tag>perl</tag>
+        <tag>xampp</tag>
+      </tags>
+      <analysis>
+        <id>14548699</id>
+        <url>http://www.ohloh.net/analyses/14548699.xml</url>
+        <project_id>5549</project_id>
+        <updated_at>2013-07-06T11:06:34Z</updated_at>
+        <logged_at>2013-07-06T11:06:05Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>136743</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xampp/analyses/14548699/languages.png">
+          <language color="D2C690" percentage="23" id="8">
+Perl          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="356AA0" percentage="17" id="2">
+PHP          </language>
+          <language color="000000" percentage="38" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

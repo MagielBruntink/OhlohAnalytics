@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3399</id>
+      <name>Haiku</name>
+      <url>http://www.ohloh.net/p/haiku.xml</url>
+      <html_url>http://www.ohloh.net/p/haiku</html_url>
+      <created_at>2006-10-27T01:34:26Z</created_at>
+      <updated_at>2013-07-03T16:50:06Z</updated_at>
+      <description>Haiku is an open-source desktop operating system with the goal to create an innovative and seamless computing experience. Our first release will be an improved remake of BeOS R5, which was a commercial operating system created by Be Inc. After the company closed its doors a group of developers decided to continue the BeOS as an open source effort.</description>
+      <homepage_url>http://haiku-os.org/</homepage_url>
+      <download_url>http://haiku-os.org/downloads</download_url>
+      <url_name>haiku</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43675/App_Haiku3d_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43675/App_Haiku3d_64_small.png</small_logo_url>
+      <user_count>63</user_count>
+      <average_rating>4.89189</average_rating>
+      <rating_count>37</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14516270</analysis_id>
+      <tags>
+        <tag>operating_system</tag>
+        <tag>os</tag>
+        <tag>desktop_environment</tag>
+        <tag>alternative</tag>
+        <tag>binary_compatibility</tag>
+        <tag>beos</tag>
+        <tag>legacy</tag>
+        <tag>modern</tag>
+        <tag>gui</tag>
+        <tag>symmetric_multi-processing</tag>
+        <tag>multithreaded</tag>
+        <tag>microkernel</tag>
+        <tag>x86</tag>
+        <tag>bfs</tag>
+        <tag>object_oriented</tag>
+      </tags>
+      <analysis>
+        <id>14516270</id>
+        <url>http://www.ohloh.net/analyses/14516270.xml</url>
+        <project_id>3399</project_id>
+        <updated_at>2013-07-03T16:50:06Z</updated_at>
+        <logged_at>2013-07-03T16:42:20Z</logged_at>
+        <min_month>2002-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>70</twelve_month_contributor_count>
+        <total_code_lines>5683798</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/haiku/analyses/14516270/languages.png">
+          <language color="FF8F00" percentage="41" id="42">
+C          </language>
+          <language color="F35F1F" percentage="34" id="44">
+C++          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="19" id="">
+28 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

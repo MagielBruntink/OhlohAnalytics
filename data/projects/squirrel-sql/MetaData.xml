@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3969</id>
+      <name>SQuirreL SQL Client</name>
+      <url>http://www.ohloh.net/p/squirrel-sql.xml</url>
+      <html_url>http://www.ohloh.net/p/squirrel-sql</html_url>
+      <created_at>2007-01-12T00:04:18Z</created_at>
+      <updated_at>2013-07-05T07:48:53Z</updated_at>
+      <description>SQuirreL SQL Client is a graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.</description>
+      <homepage_url>http://sourceforge.net/projects/squirrel-sql/</homepage_url>
+      <download_url>https://sourceforge.net/projects/squirrel-sql/files/</download_url>
+      <url_name>squirrel-sql</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36958/acorn_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36958/acorn_small.png</small_logo_url>
+      <user_count>91</user_count>
+      <average_rating>3.8</average_rating>
+      <rating_count>25</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14534015</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>dba</tag>
+        <tag>msaccess</tag>
+        <tag>java</tag>
+        <tag>oracle</tag>
+        <tag>db2</tag>
+        <tag>derby</tag>
+        <tag>devtool</tag>
+        <tag>gui</tag>
+        <tag>sql</tag>
+        <tag>jdbc</tag>
+        <tag>hsqldb</tag>
+        <tag>swing</tag>
+        <tag>client</tag>
+        <tag>mysql</tag>
+      </tags>
+      <analysis>
+        <id>14534015</id>
+        <url>http://www.ohloh.net/analyses/14534015.xml</url>
+        <project_id>3969</project_id>
+        <updated_at>2013-07-05T07:48:53Z</updated_at>
+        <logged_at>2013-07-05T06:40:11Z</logged_at>
+        <min_month>2001-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>1391230</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/squirrel-sql/analyses/14534015/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="493625" percentage="15" id="30">
+SQL          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

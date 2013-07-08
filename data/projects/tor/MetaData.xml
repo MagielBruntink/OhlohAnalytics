@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5675</id>
+      <name>Tor</name>
+      <url>http://www.ohloh.net/p/tor.xml</url>
+      <html_url>http://www.ohloh.net/p/tor</html_url>
+      <created_at>2007-05-30T14:19:19Z</created_at>
+      <updated_at>2013-07-05T00:50:38Z</updated_at>
+      <description>Tor is a toolset for a wide range of organizations and people that want to improve their safety and security on the Internet. Using Tor can help you anonymize web browsing and publishing, instant messaging, IRC, SSH, and other applications that use the TCP protocol. Tor also provides a platform on which software developers can build new applications with built-in anonymity, safety, and privacy features.
+
+Tor aims to defend against traffic analysis, a form of network surveillance that threatens personal anonymity and privacy, confidential business activities and relationships, and state security. Communications are bounced around a distributed network of servers called onion routers, protecting you from websites that build profiles of your interests, local eavesdroppers that read your data</description>
+      <homepage_url>http://www.torproject.org/</homepage_url>
+      <download_url>http://www.torproject.org/download.html</download_url>
+      <url_name>tor</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4093/tor_med.jpeg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4093/tor_small.jpeg</small_logo_url>
+      <user_count>122</user_count>
+      <average_rating>4.35135</average_rating>
+      <rating_count>37</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14531155</analysis_id>
+      <tags>
+        <tag>anonymous</tag>
+        <tag>distributed</tag>
+        <tag>crypto</tag>
+        <tag>tls</tag>
+        <tag>cryptography</tag>
+        <tag>anonymity</tag>
+        <tag>onion</tag>
+        <tag>security</tag>
+        <tag>encryption</tag>
+        <tag>anonymizer</tag>
+        <tag>networking</tag>
+        <tag>p2p</tag>
+        <tag>tor</tag>
+        <tag>privacy</tag>
+        <tag>censorship</tag>
+      </tags>
+      <analysis>
+        <id>14531155</id>
+        <url>http://www.ohloh.net/analyses/14531155.xml</url>
+        <project_id>5675</project_id>
+        <updated_at>2013-07-05T00:50:37Z</updated_at>
+        <logged_at>2013-07-05T00:39:36Z</logged_at>
+        <min_month>2002-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>47</twelve_month_contributor_count>
+        <total_code_lines>320283</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tor/analyses/14531155/languages.png">
+          <language color="FF8F00" percentage="54" id="42">
+C          </language>
+          <language color="4A246B" percentage="21" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="8" id="44">
+C++          </language>
+          <language color="000000" percentage="17" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

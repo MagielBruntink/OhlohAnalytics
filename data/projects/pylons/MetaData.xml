@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3962</id>
+      <name>Pylons</name>
+      <url>http://www.ohloh.net/p/pylons.xml</url>
+      <html_url>http://www.ohloh.net/p/pylons</html_url>
+      <created_at>2007-01-10T21:25:56Z</created_at>
+      <updated_at>2013-07-04T11:14:30Z</updated_at>
+      <description>Pylons combines the very best ideas from the worlds of Ruby, Python and Perl, providing a structured but extremely flexible Python web framework. It's also one of the first projects to leverage the emerging WSGI standard, which allows extensive re-use and flexibility but only if you need it. Out of the box, Pylons aims to make web development fast, flexible and easy.</description>
+      <homepage_url>http://pylonsproject.org</homepage_url>
+      <download_url>http://pypi.python.org/packages/source/p/pyramid/pyramid-1.2.tar.gz</download_url>
+      <url_name>pylons</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38972/pylons-large_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38972/pylons-large_small.png</small_logo_url>
+      <user_count>138</user_count>
+      <average_rating>4.48077</average_rating>
+      <rating_count>52</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14525032</analysis_id>
+      <tags>
+        <tag>routes</tag>
+        <tag>templating</tag>
+        <tag>rest</tag>
+        <tag>paste</tag>
+        <tag>web</tag>
+        <tag>pylons</tag>
+        <tag>wsgi</tag>
+        <tag>python</tag>
+        <tag>framework</tag>
+        <tag>pyramid</tag>
+      </tags>
+      <analysis>
+        <id>14525032</id>
+        <url>http://www.ohloh.net/analyses/14525032.xml</url>
+        <project_id>3962</project_id>
+        <updated_at>2013-07-04T11:14:30Z</updated_at>
+        <logged_at>2013-07-04T10:48:58Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>130</twelve_month_contributor_count>
+        <total_code_lines>239205</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pylons/analyses/14525032/languages.png">
+          <language color="4A246B" percentage="60" id="9">
+Python          </language>
+          <language color="A4007E" percentage="25" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

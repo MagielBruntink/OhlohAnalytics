@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3991</id>
+      <name>Gentoo Linux</name>
+      <url>http://www.ohloh.net/p/gentoo.xml</url>
+      <html_url>http://www.ohloh.net/p/gentoo</html_url>
+      <created_at>2007-01-13T13:22:48Z</created_at>
+      <updated_at>2013-07-07T20:45:27Z</updated_at>
+      <description>Gentoo is a free operating system based on either Linux or FreeBSD that can be automatically optimized and customized for just about any application or need. Extreme configurability, performance and a top-notch user and developer community are all hallmarks of the Gentoo experience.</description>
+      <homepage_url>http://www.gentoo.org/</homepage_url>
+      <download_url>http://www.gentoo.org/main/en/where.xml</download_url>
+      <url_name>gentoo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65630/gblend_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65630/gblend_med_small.png</small_logo_url>
+      <user_count>683</user_count>
+      <average_rating>4.67626</average_rating>
+      <rating_count>278</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13797085</analysis_id>
+      <tags>
+        <tag>science</tag>
+        <tag>gentoolinux</tag>
+        <tag>x86_64</tag>
+        <tag>gentoo</tag>
+        <tag>os</tag>
+        <tag>operating_system</tag>
+        <tag>hppa</tag>
+        <tag>hardened</tag>
+        <tag>s390</tag>
+        <tag>m68k</tag>
+        <tag>amd64</tag>
+        <tag>ppc</tag>
+        <tag>mips</tag>
+        <tag>gnu_linux</tag>
+        <tag>ebuild</tag>
+        <tag>alpha</tag>
+        <tag>ppc32</tag>
+        <tag>ppc64</tag>
+        <tag>sparc</tag>
+        <tag>ia64</tag>
+        <tag>sh</tag>
+        <tag>arm</tag>
+        <tag>portage</tag>
+        <tag>linux</tag>
+        <tag>distribution</tag>
+        <tag>distro</tag>
+        <tag>x86</tag>
+        <tag>live-cd</tag>
+      </tags>
+      <analysis>
+        <id>13797085</id>
+        <url>http://www.ohloh.net/analyses/13797085.xml</url>
+        <project_id>3991</project_id>
+        <updated_at>2013-05-06T14:09:08Z</updated_at>
+        <logged_at>2013-05-04T10:35:21Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>372</twelve_month_contributor_count>
+        <total_code_lines>6740256</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gentoo/analyses/13797085/languages.png">
+          <language color="555555" percentage="68" id="3">
+XML          </language>
+          <language color="EEE" percentage="22" id="49">
+Ebuild          </language>
+          <language color="000000" percentage="10" id="">
+35 Other          </language>
+        </languages>
+        <main_language_id>49</main_language_id>
+        <main_language_name>Ebuild</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

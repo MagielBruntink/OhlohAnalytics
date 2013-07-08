@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>349663</id>
+      <name>Synergy</name>
+      <url>http://www.ohloh.net/p/synergy.xml</url>
+      <html_url>http://www.ohloh.net/p/synergy</html_url>
+      <created_at>2009-07-09T15:31:55Z</created_at>
+      <updated_at>2013-07-02T13:44:15Z</updated_at>
+      <description>Synergy lets you easily share your mouse and keyboard between multiple computers on your desk, and it's Free and Open Source. Just move your mouse off the edge of one computer's screen on to another. You can even share all of your clipboards. All you need is a network connection. Synergy is cross-platform (works on Windows, Mac OS X and Linux).</description>
+      <homepage_url>http://synergy-foss.org</homepage_url>
+      <download_url>http://synergy-foss.org/download</download_url>
+      <url_name>synergy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63898/synergy-plus-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63898/synergy-plus-logo_small.png</small_logo_url>
+      <user_count>164</user_count>
+      <average_rating>4.55556</average_rating>
+      <rating_count>18</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14503343</analysis_id>
+      <tags>
+        <tag>x_windows</tag>
+        <tag>cmake</tag>
+        <tag>c++</tag>
+        <tag>cross_platform</tag>
+        <tag>windows</tag>
+        <tag>linux</tag>
+        <tag>sysadmin</tag>
+        <tag>remote</tag>
+        <tag>mouse</tag>
+        <tag>screen</tag>
+        <tag>kvm</tag>
+        <tag>keyboard</tag>
+        <tag>macosx</tag>
+        <tag>python</tag>
+        <tag>cocoa</tag>
+      </tags>
+      <analysis>
+        <id>14503343</id>
+        <url>http://www.ohloh.net/analyses/14503343.xml</url>
+        <project_id>349663</project_id>
+        <updated_at>2013-07-02T13:44:15Z</updated_at>
+        <logged_at>2013-06-30T20:10:47Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>164669</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/synergy/analyses/14503343/languages.png">
+          <language color="F35F1F" percentage="60" id="44">
+C++          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

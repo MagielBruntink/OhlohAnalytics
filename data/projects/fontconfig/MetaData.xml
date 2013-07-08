@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6405</id>
+      <name>fontconfig</name>
+      <url>http://www.ohloh.net/p/fontconfig.xml</url>
+      <html_url>http://www.ohloh.net/p/fontconfig</html_url>
+      <created_at>2007-07-03T21:54:09Z</created_at>
+      <updated_at>2013-06-27T23:29:26Z</updated_at>
+      <description>Fontconfig is a library for font customization and configuration.</description>
+      <homepage_url>http://www.fontconfig.org</homepage_url>
+      <download_url>http://fontconfig.org/release/</download_url>
+      <url_name>fontconfig</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>90</user_count>
+      <average_rating>3.35294</average_rating>
+      <rating_count>17</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14438066</analysis_id>
+      <tags>
+        <tag>internationalization</tag>
+        <tag>configuration</tag>
+        <tag>x11</tag>
+        <tag>library</tag>
+        <tag>unicode</tag>
+        <tag>font</tag>
+      </tags>
+      <analysis>
+        <id>14438066</id>
+        <url>http://www.ohloh.net/analyses/14438066.xml</url>
+        <project_id>6405</project_id>
+        <updated_at>2013-06-27T23:29:26Z</updated_at>
+        <logged_at>2013-06-27T08:28:57Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>30348</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fontconfig/analyses/14438066/languages.png">
+          <language color="FF8F00" percentage="72" id="42">
+C          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

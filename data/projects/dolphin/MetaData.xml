@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6423</id>
+      <name>Dolphin (KDE)</name>
+      <url>http://www.ohloh.net/p/dolphin.xml</url>
+      <html_url>http://www.ohloh.net/p/dolphin</html_url>
+      <created_at>2007-07-04T20:41:58Z</created_at>
+      <updated_at>2013-07-06T13:05:16Z</updated_at>
+      <description>Dolphin is a file manager for KDE focusing on usability. The main features of Dolphin are:
+ * Navigation bar for URLs, which allows to navigate quickly through the file hierarchy.
+ * View properties are remembered for each folder.
+ * Split of views is supported.
+ * Network transparency.
+ * Undo functionality.
+ * Renaming of a variable number of selected items in one step.
+
+Dolphin is not intended to be a competitor to Konqueror: Konqueror acts as universal viewer being able to show HTML pages, text documents, directories and a lot more, whereas Dolphin focuses on being only a file manager. This approach allows to optimize the user interface for the task of file management.</description>
+      <homepage_url>http://dolphin.kde.org/</homepage_url>
+      <download_url>http://download.kde.org/</download_url>
+      <url_name>dolphin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/635/128px-Dolphin-icon.svg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/635/128px-Dolphin-icon.svg_small.png</small_logo_url>
+      <user_count>121</user_count>
+      <average_rating>4.35417</average_rating>
+      <rating_count>48</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14550299</analysis_id>
+      <tags>
+        <tag>filemanager</tag>
+        <tag>desktop</tag>
+        <tag>kde</tag>
+        <tag>metadata</tag>
+        <tag>c++</tag>
+        <tag>file_management</tag>
+      </tags>
+      <analysis>
+        <id>14550299</id>
+        <url>http://www.ohloh.net/analyses/14550299.xml</url>
+        <project_id>6423</project_id>
+        <updated_at>2013-07-06T13:05:15Z</updated_at>
+        <logged_at>2013-07-06T12:52:37Z</logged_at>
+        <min_month>1997-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>59</twelve_month_contributor_count>
+        <total_code_lines>33837</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dolphin/analyses/14550299/languages.png">
+          <language color="F35F1F" percentage="91" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

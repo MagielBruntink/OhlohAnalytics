@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10424</id>
+      <name>Vala</name>
+      <url>http://www.ohloh.net/p/vala.xml</url>
+      <html_url>http://www.ohloh.net/p/vala</html_url>
+      <created_at>2007-12-20T20:19:10Z</created_at>
+      <updated_at>2013-07-08T01:10:37Z</updated_at>
+      <description>Vala is a new programming language that aims to bring modern programming language features to GNOME developers without imposing any additional runtime requirements and without using a different ABI compared to applications and libraries written in C.</description>
+      <homepage_url>http://live.gnome.org/Vala</homepage_url>
+      <download_url>http://live.gnome.org/Vala/Release</download_url>
+      <url_name>vala</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>64</user_count>
+      <average_rating>4.75676</average_rating>
+      <rating_count>37</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14565609</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>language</tag>
+        <tag>compiler</tag>
+        <tag>vala</tag>
+      </tags>
+      <analysis>
+        <id>14565609</id>
+        <url>http://www.ohloh.net/analyses/14565609.xml</url>
+        <project_id>10424</project_id>
+        <updated_at>2013-07-08T01:10:36Z</updated_at>
+        <logged_at>2013-07-03T03:33:12Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>43</twelve_month_contributor_count>
+        <total_code_lines>244833</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vala/analyses/14565609/languages.png">
+          <language color="555555" percentage="68" id="3">
+XML          </language>
+          <language color="729FCF" percentage="28" id="34">
+Vala          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3857</id>
+      <name>FreeBSD</name>
+      <url>http://www.ohloh.net/p/freebsd.xml</url>
+      <html_url>http://www.ohloh.net/p/freebsd</html_url>
+      <created_at>2006-12-21T19:32:21Z</created_at>
+      <updated_at>2013-07-07T18:00:46Z</updated_at>
+      <description>FreeBSD is an advanced operating system for x86 compatible (including Pentium and Athlon), amd64 compatible (including Opteron, Athlon64, and EM64T), UltraSPARC, IA-64, PC-98, (32-bit and 64-bit) MIPS and ARM architectures. It is derived from BSD, the version of UNIX developed at the University of California, Berkeley. It is developed and maintained by a large team of individuals. Additional platforms are in various stages of development.</description>
+      <homepage_url>http://www.freebsd.org</homepage_url>
+      <download_url>http://www.freebsd.org/where.html</download_url>
+      <url_name>freebsd</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/592/freebsd_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/592/freebsd_small.png</small_logo_url>
+      <user_count>388</user_count>
+      <average_rating>4.75159</average_rating>
+      <rating_count>157</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14533838</analysis_id>
+      <tags>
+        <tag>filesystem</tag>
+        <tag>operating</tag>
+        <tag>mips32</tag>
+        <tag>system</tag>
+        <tag>x86</tag>
+        <tag>distro</tag>
+        <tag>sparc64</tag>
+        <tag>freebsd</tag>
+        <tag>pf</tag>
+        <tag>desktop</tag>
+        <tag>arm</tag>
+        <tag>i386</tag>
+        <tag>itanium</tag>
+        <tag>posix</tag>
+        <tag>ia64</tag>
+        <tag>ppc32</tag>
+        <tag>ppc</tag>
+        <tag>kernel</tag>
+        <tag>bsd</tag>
+        <tag>operating_system_kernels</tag>
+        <tag>multithreaded</tag>
+        <tag>symmetric_multi-processing</tag>
+        <tag>macppc</tag>
+        <tag>x86-64</tag>
+        <tag>ia32</tag>
+        <tag>amd64</tag>
+        <tag>smp</tag>
+        <tag>desktop_environment</tag>
+        <tag>operating_system</tag>
+        <tag>os</tag>
+        <tag>unix</tag>
+        <tag>powerpc</tag>
+        <tag>soekris</tag>
+        <tag>sparc</tag>
+      </tags>
+      <analysis>
+        <id>14533838</id>
+        <url>http://www.ohloh.net/analyses/14533838.xml</url>
+        <project_id>3857</project_id>
+        <updated_at>2013-07-05T08:08:50Z</updated_at>
+        <logged_at>2013-07-05T06:27:21Z</logged_at>
+        <min_month>1993-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>205</twelve_month_contributor_count>
+        <total_code_lines>4886992</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freebsd/analyses/14533838/languages.png">
+          <language color="FF8F00" percentage="92" id="42">
+C          </language>
+          <language color="000000" percentage="8" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-2-Clause</name>
+          <nice_name>BSD 2-clause &quot;FreeBSD&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>187</id>
+      <name>Jetty - Java HTTP Servlet Server</name>
+      <url>http://www.ohloh.net/p/jetty.xml</url>
+      <html_url>http://www.ohloh.net/p/jetty</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-29T20:09:33Z</updated_at>
+      <description>Jetty is an Open Source HTTP Servlet Server written in Java. It is a full featured HTTP/1.1 server and a Servlet container. It is designed to be small, fast, embeddable and extensible. It supports HTTP/1.1, websockets, servlets , and JSP.</description>
+      <homepage_url>http://www.eclipse.org/jetty</homepage_url>
+      <download_url>http://download.eclipse.org/jetty/</download_url>
+      <url_name>jetty</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1793/jetty_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1793/jetty_small.png</small_logo_url>
+      <user_count>514</user_count>
+      <average_rating>4.62931</average_rating>
+      <rating_count>116</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14466978</analysis_id>
+      <tags>
+        <tag>dynamic_content</tag>
+        <tag>application_server</tag>
+        <tag>web-server</tag>
+        <tag>web</tag>
+        <tag>servlet</tag>
+        <tag>ajax</tag>
+        <tag>http</tag>
+        <tag>usability</tag>
+        <tag>http_server</tag>
+        <tag>java</tag>
+        <tag>jsp</tag>
+        <tag>j2ee</tag>
+        <tag>servlet_container</tag>
+        <tag>embedded</tag>
+      </tags>
+      <analysis>
+        <id>14466978</id>
+        <url>http://www.ohloh.net/analyses/14466978.xml</url>
+        <project_id>187</project_id>
+        <updated_at>2013-06-29T20:09:33Z</updated_at>
+        <logged_at>2013-06-29T20:01:08Z</logged_at>
+        <min_month>1998-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>620003</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jetty/analyses/14466978/languages.png">
+          <language color="9A63AD" percentage="79" id="5">
+Java          </language>
+          <language color="A4007E" percentage="7" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3404</id>
+      <name>GeoServer</name>
+      <url>http://www.ohloh.net/p/geoserver.xml</url>
+      <html_url>http://www.ohloh.net/p/geoserver</html_url>
+      <created_at>2006-10-27T02:19:32Z</created_at>
+      <updated_at>2013-07-07T20:36:38Z</updated_at>
+      <description>GeoServer connects your information to the Geospatial Web.
+
+With GeoServer you can publish and edit data using open standards. Your information is made available in a large variety of formats as maps/images or actual geospatial data. GeoServer's transactional capabilities offer robust support for shared editing. GeoServer's focus is ease of use and support for standards.</description>
+      <homepage_url>http://www.geoserver.org</homepage_url>
+      <download_url>http://geoserver.org/display/GEOS/Stable</download_url>
+      <url_name>geoserver</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9714/GeoServer_MARK_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9714/GeoServer_MARK_small.png</small_logo_url>
+      <user_count>71</user_count>
+      <average_rating>4.72727</average_rating>
+      <rating_count>22</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14509054</analysis_id>
+      <tags>
+        <tag>geo</tag>
+        <tag>kml</tag>
+        <tag>google_earth</tag>
+        <tag>gis</tag>
+        <tag>wms</tag>
+        <tag>wfs</tag>
+        <tag>gml</tag>
+      </tags>
+      <analysis>
+        <id>14509054</id>
+        <url>http://www.ohloh.net/analyses/14509054.xml</url>
+        <project_id>3404</project_id>
+        <updated_at>2013-07-03T01:13:27Z</updated_at>
+        <logged_at>2013-07-03T01:07:49Z</logged_at>
+        <min_month>2002-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>73</twelve_month_contributor_count>
+        <total_code_lines>722976</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geoserver/analyses/14509054/languages.png">
+          <language color="9A63AD" percentage="54" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="556677" percentage="15" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="14" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

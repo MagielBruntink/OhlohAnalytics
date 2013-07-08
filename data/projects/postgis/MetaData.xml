@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3900</id>
+      <name>PostGIS</name>
+      <url>http://www.ohloh.net/p/postgis.xml</url>
+      <html_url>http://www.ohloh.net/p/postgis</html_url>
+      <created_at>2006-12-30T06:09:18Z</created_at>
+      <updated_at>2013-07-07T17:37:41Z</updated_at>
+      <description>PostGIS is a spatial database extension for PostgreSQL.  PostGIS complies with the OpenGIS &quot;Simple Features for SQL&quot; specification, and provides high-performance spatial SQL access to GIS objects in the database.</description>
+      <homepage_url>http://postgis.net</homepage_url>
+      <download_url>http://www.postgis.org/download/</download_url>
+      <url_name>postgis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7605/out_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7605/out_small.png</small_logo_url>
+      <user_count>149</user_count>
+      <average_rating>4.79592</average_rating>
+      <rating_count>49</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14544249</analysis_id>
+      <tags>
+        <tag>spatial</tag>
+        <tag>gis</tag>
+        <tag>database</tag>
+        <tag>opengis</tag>
+        <tag>sql</tag>
+      </tags>
+      <analysis>
+        <id>14544249</id>
+        <url>http://www.ohloh.net/analyses/14544249.xml</url>
+        <project_id>3900</project_id>
+        <updated_at>2013-07-06T00:22:56Z</updated_at>
+        <logged_at>2013-07-06T00:14:54Z</logged_at>
+        <min_month>2001-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>283926</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/postgis/analyses/14544249/languages.png">
+          <language color="493625" percentage="42" id="30">
+SQL          </language>
+          <language color="FF8F00" percentage="35" id="42">
+C          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

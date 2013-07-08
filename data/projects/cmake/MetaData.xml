@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3238</id>
+      <name>CMake</name>
+      <url>http://www.ohloh.net/p/cmake.xml</url>
+      <html_url>http://www.ohloh.net/p/cmake</html_url>
+      <created_at>2006-10-18T19:37:45Z</created_at>
+      <updated_at>2013-07-07T19:18:04Z</updated_at>
+      <description>CMake is a cross-platform, open-source build system. It is used to control the software compilation process using simple platform and compiler independent configuration files. CMake generates native makefiles and workspaces that can be used in the compiler environment of your choice, such as GNU Make, Visual Studio, and Xcode.</description>
+      <homepage_url>http://www.cmake.org</homepage_url>
+      <download_url>http://www.cmake.org/HTML/Download.html</download_url>
+      <url_name>cmake</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/920/CMake-logo-triangle-high-res_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/920/CMake-logo-triangle-high-res_small.png</small_logo_url>
+      <user_count>422</user_count>
+      <average_rating>4.41045</average_rating>
+      <rating_count>134</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13857182</analysis_id>
+      <tags>
+        <tag>autoconf</tag>
+        <tag>automake</tag>
+        <tag>install</tag>
+        <tag>generator</tag>
+        <tag>configuration</tag>
+        <tag>visualstudio2005</tag>
+        <tag>build_tools</tag>
+        <tag>make</tag>
+        <tag>configure</tag>
+        <tag>autotools</tag>
+        <tag>development</tag>
+        <tag>scm</tag>
+        <tag>visualstudio2008</tag>
+        <tag>build</tag>
+        <tag>build_system</tag>
+        <tag>libtool</tag>
+        <tag>makefile</tag>
+      </tags>
+      <analysis>
+        <id>13857182</id>
+        <url>http://www.ohloh.net/analyses/13857182.xml</url>
+        <project_id>3238</project_id>
+        <updated_at>2013-05-11T12:32:20Z</updated_at>
+        <logged_at>2013-05-11T12:21:50Z</logged_at>
+        <min_month>2000-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>75</twelve_month_contributor_count>
+        <total_code_lines>783848</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cmake/analyses/13857182/languages.png">
+          <language color="F35F1F" percentage="44" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="37" id="42">
+C          </language>
+          <language color="EEE" percentage="14" id="74">
+CMake          </language>
+          <language color="000000" percentage="5" id="">
+26 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>106047</id>
+      <project_id>353</project_id>
+      <repository_id>104384</repository_id>
+      <repository>
+        <id>104384</id>
+        <type>SvnRepository</type>
+        <url>http://subversion.jackaudio.org/jack/jack2/trunk/jackmp</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-02T18:53:21Z</logged_at>
+        <commits>2474</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>11407</id>
+      <project_id>353</project_id>
+      <repository_id>11142</repository_id>
+      <repository>
+        <id>11142</id>
+        <type>SvnRepository</type>
+        <url>http://subversion.jackaudio.org/jack/trunk/jack</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-02T18:53:33Z</logged_at>
+        <commits>1390</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

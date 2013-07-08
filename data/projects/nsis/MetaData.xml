@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>147</id>
+      <name>Nullsoft Scriptable Install System</name>
+      <url>http://www.ohloh.net/p/nsis.xml</url>
+      <html_url>http://www.ohloh.net/p/nsis</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-08T04:40:15Z</updated_at>
+      <description>Nullsoft Scriptable Install System is a tool for creating quick and user-friendly installers for Microsoft Windows operating systems. It is a script-based system that adds a very small overhead, only 34 KB. It features LZMA compression, support for multiple languages, and an easy-to-use plugins system</description>
+      <homepage_url>http://nsis.sourceforge.net/</homepage_url>
+      <download_url>http://nsis.sourceforge.net/Download</download_url>
+      <url_name>nsis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2281/NSIS-Box_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2281/NSIS-Box_small.png</small_logo_url>
+      <user_count>82</user_count>
+      <average_rating>4.45652</average_rating>
+      <rating_count>46</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567158</analysis_id>
+      <tags>
+        <tag>setup</tag>
+        <tag>development</tag>
+        <tag>software_installation</tag>
+        <tag>installer</tag>
+        <tag>nullsoft</tag>
+        <tag>scripting</tag>
+        <tag>nsis</tag>
+        <tag>install</tag>
+        <tag>deployment</tag>
+        <tag>windows</tag>
+        <tag>installation</tag>
+        <tag>win32</tag>
+        <tag>installers</tag>
+        <tag>software_distribution</tag>
+        <tag>lzma</tag>
+        <tag>i18n</tag>
+      </tags>
+      <analysis>
+        <id>14567158</id>
+        <url>http://www.ohloh.net/analyses/14567158.xml</url>
+        <project_id>147</project_id>
+        <updated_at>2013-07-08T04:40:15Z</updated_at>
+        <logged_at>2013-07-07T23:38:39Z</logged_at>
+        <min_month>2002-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>5544327</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nsis/analyses/14567158/languages.png">
+          <language color="F35F1F" percentage="37" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="EEE" percentage="23" id="87">
+NSIS          </language>
+          <language color="000000" percentage="8" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
