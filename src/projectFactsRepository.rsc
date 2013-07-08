@@ -8,12 +8,19 @@ private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
 private loc ProjectNamesListFile = LocalOhlohProjectsRepository + "ProjectNamesList.txt";
 private loc ProjectsFile = LocalOhlohProjectsRepository + "Projects.xml";
 private str MetaDataFileName = "MetaData.xml";
+private str EnlistmentsFileName = "Enlistments.xml";
 private str SizeFactsFileName = "SizeFacts.xml";
 private str ActivityFactsFileName = "ActivityFacts.xml";
+
 
 public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
 }
+
+public list[str] getProjectNamesOnList() {
+	return readFileLines(ProjectNamesListFile);
+}
+
 
 alias factsKey = tuple[str projectName, str year, str month];
 
@@ -141,6 +148,10 @@ private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFact
 
 public void addMetaDataToRepository(str metaDataXML, str projectName) {
 	addXMLFileToRepository(metaDataXML, projectName, MetaDataFileName);
+}
+
+public void addEnlistmentsToRepository(str enlistmentsXML, str projectName) {
+	addXMLFileToRepository(enlistmentsXML, projectName, EnlistmentsFileName);
 }
 
 public void addActivityFactsToRepository(str activityFactsXML, str projectName) {
