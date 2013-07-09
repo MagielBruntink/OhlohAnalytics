@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>252</id>
+      <name>eXist-db</name>
+      <url>http://www.ohloh.net/p/exist.xml</url>
+      <html_url>http://www.ohloh.net/p/exist</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-07T20:59:48Z</updated_at>
+      <description>eXist-db is an open source database management system built using XML technology. It stores XML data according to the XML data model and features efficient, index-based XQuery processing.
+
+eXist-db supports many Web 2.0 technology standards, making it an excellent platform and a powerful environment for the (rapid) development of web applications based on XQuery and related standards. Entire web applications can be written in XQuery, using XSLT, XHTML, XForms, CSS and Javascript (for AJAX functionality).</description>
+      <homepage_url>http://exist-db.org</homepage_url>
+      <download_url>http://exist-db.org/download.html</download_url>
+      <url_name>exist</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59710/jnlp_icon_64x64_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59710/jnlp_icon_64x64_small.gif</small_logo_url>
+      <user_count>32</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14522018</analysis_id>
+      <tags>
+        <tag>fulltext_search</tag>
+        <tag>xquery</tag>
+        <tag>xmlrpc</tag>
+        <tag>xml</tag>
+        <tag>applicationserver</tag>
+        <tag>rapidapplicationdevelopment</tag>
+        <tag>nxd</tag>
+        <tag>webservices</tag>
+        <tag>soap</tag>
+        <tag>xmldb</tag>
+        <tag>dbms</tag>
+        <tag>database</tag>
+        <tag>server</tag>
+        <tag>rest</tag>
+        <tag>ajax</tag>
+        <tag>webdav</tag>
+        <tag>xpath</tag>
+        <tag>xslt</tag>
+        <tag>xupdate</tag>
+        <tag>xforms</tag>
+      </tags>
+      <analysis>
+        <id>14522018</id>
+        <url>http://www.ohloh.net/analyses/14522018.xml</url>
+        <project_id>252</project_id>
+        <updated_at>2013-07-04T04:18:30Z</updated_at>
+        <logged_at>2013-07-04T04:12:11Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>1008172</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/exist/analyses/14522018/languages.png">
+          <language color="555555" percentage="43" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="40" id="5">
+Java          </language>
+          <language color="556677" percentage="7" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="10" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

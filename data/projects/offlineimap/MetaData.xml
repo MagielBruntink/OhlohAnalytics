@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14897</id>
+      <name>OfflineIMAP</name>
+      <url>http://www.ohloh.net/p/offlineimap.xml</url>
+      <html_url>http://www.ohloh.net/p/offlineimap</html_url>
+      <created_at>2008-06-12T20:44:13Z</created_at>
+      <updated_at>2013-06-25T21:32:44Z</updated_at>
+      <description>OfflineIMAP is a bidirectional IMAP/Maildir synchronization tool aimed to augment your mail reader.  With OfflineIMAP, you can read the same mailbox from multiple computers and have your changes (deletions, flags, etc.) be automatically reflected on all computers.  It also lets you read mail offline (perhaps on a laptop) and synchronize all changes when you get connected again.
+
+You can also use OfflineIMAP to read IMAP mail with mail readers that do not support IMAP, or support it poorly (as most do).</description>
+      <homepage_url>http://offlineimap.org</homepage_url>
+      <download_url>https://github.com/spaetz/offlineimap/downloads</download_url>
+      <url_name>offlineimap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49710/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49710/logo_small.png</small_logo_url>
+      <user_count>20</user_count>
+      <average_rating>4.22222</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408976</analysis_id>
+      <tags>
+        <tag>email</tag>
+        <tag>mail</tag>
+        <tag>maildir</tag>
+        <tag>synchronization</tag>
+        <tag>imap</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14408976</id>
+        <url>http://www.ohloh.net/analyses/14408976.xml</url>
+        <project_id>14897</project_id>
+        <updated_at>2013-07-07T02:42:02Z</updated_at>
+        <logged_at>2013-07-07T02:42:01Z</logged_at>
+        <min_month>2002-06-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6304</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/offlineimap/analyses/14408976/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

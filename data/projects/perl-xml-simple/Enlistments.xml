@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>8172</id>
+      <project_id>4062</project_id>
+      <repository_id>8056</repository_id>
+      <repository>
+        <id>8056</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@perl-xml.cvs.sourceforge.net:/cvsroot/perl-xml</url>
+        <module_name>xml-simple</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-06T10:15:23Z</logged_at>
+        <commits>126</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

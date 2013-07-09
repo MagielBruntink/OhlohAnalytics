@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>21060</id>
+      <project_id>6020</project_id>
+      <repository_id>20358</repository_id>
+      <repository>
+        <id>20358</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.forge.objectweb.org/svnroot/acceleo/trunk/modules</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-12-26T02:40:25Z</logged_at>
+        <commits>893</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>17230</id>
+      <project_id>6020</project_id>
+      <repository_id>16693</repository_id>
+      <repository>
+        <id>16693</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.forge.objectweb.org/svnroot/acceleo/trunk/softwares</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-12-26T14:40:25Z</logged_at>
+        <commits>852</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

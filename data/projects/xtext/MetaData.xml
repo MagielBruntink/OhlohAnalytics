@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16732</id>
+      <name>Xtext</name>
+      <url>http://www.ohloh.net/p/xtext.xml</url>
+      <html_url>http://www.ohloh.net/p/xtext</html_url>
+      <created_at>2008-09-16T19:26:00Z</created_at>
+      <updated_at>2013-07-03T05:26:42Z</updated_at>
+      <description>Common things are easy, special things are possible
+
+
+Xtext is a framework/tool for development of external textual DSLs. Just describe your very own DSL using Xtext's simple EBNF grammar language and the generator will create a parser, an AST-meta model (implemented in EMF) as well as a full-featured Eclipse Text Editor from that. 
+
+The Framework integrates with technology from Eclipse Modeling such as EMF, GMF, M2T and parts of EMFT. Development with Xtext is optimized for short turn-arounds, so that adding new features to an existing DSL can be done in seconds. Still with the new version more sophisticated programming languages can be implemented. 
+
+Language development has never been so easy.</description>
+      <homepage_url>http://www.xtext.org</homepage_url>
+      <download_url>http://wiki.eclipse.org/Xtext_Repository_Details</download_url>
+      <url_name>xtext</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>37</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14511800</analysis_id>
+      <tags>
+        <tag>modelling</tag>
+        <tag>mdsd</tag>
+        <tag>dsl_tools</tag>
+        <tag>dsl</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>xtext</tag>
+        <tag>eclipse</tag>
+        <tag>emf</tag>
+        <tag>textual_dsl</tag>
+      </tags>
+      <analysis>
+        <id>14511800</id>
+        <url>http://www.ohloh.net/analyses/14511800.xml</url>
+        <project_id>16732</project_id>
+        <updated_at>2013-07-03T05:26:42Z</updated_at>
+        <logged_at>2013-07-03T05:16:01Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>2673497</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xtext/analyses/14511800/languages.png">
+          <language color="9A63AD" percentage="90" id="5">
+Java          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

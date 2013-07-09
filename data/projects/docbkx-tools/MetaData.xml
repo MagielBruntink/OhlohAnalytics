@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>18933</id>
+      <name>docbkx-tools</name>
+      <url>http://www.ohloh.net/p/docbkx-tools.xml</url>
+      <html_url>http://www.ohloh.net/p/docbkx-tools</html_url>
+      <created_at>2008-10-07T12:00:19Z</created_at>
+      <updated_at>2013-07-05T03:29:25Z</updated_at>
+      <description>Docbkx Tools(Latest version: 2.0.10) 
+
+
+
+
+
+
+
+ 
+
+What is it?The Docbkx Tools project provides a number of tools supporting DocBook in a Maven environment. This may seem odd to you, since 1) Maven 2 is supposed to support DocBook natively, relying on Doxia, and 2) there is already another DocBook plugin at mojo.codehaus.org. 
+
+The thruth however is that DocBook support in Doxia is fairly limited, mainly because Doxia as a framework supports only a small fraction of the concepts found in DocBook. The subset of DocBook supported by Doxia is not even close to simplified DocBook. 
+
+The DocBook plugin at mojo.codehaus.org is supporting a wider range of DocBook markup, and is in fact more similar to the DocBook tools provided with this project. There are however some significant differences. 
+
+Differences with other Maven pluginsThe focus is on ease of use. You should not be required to install additional stuff to your hard disk in order to generate content from your DocBook sources. Simply adding a reference to the plugin in your POM should be sufficient. This project focuses on providing dedicated support for particular DocBook XSL stylesheet distributions. That means you can rely on the dedicated parameterization mechanism of Maven Plugins to pass in the XSLT parameters defined for a particular version and type of XSLT stylesheet. In the DocBook Plugin found at mojo.codehaus.org, you will be required to download a specific version of the DocBook XSL stylesheets manually. The plugins packaged contain the stylesheets as well. (In this project, a particular version of the stylesheets is closely tied to a particular version of the plugin. That you means you can always rely on the plugin's documentation to know which parameters you could pass in.) The DocBook plugin found at mojo.codehaus.org requires you to have access to the Internet in order allow the plugin to resolve URI's. The plugins provided in this project act differently: if your DocBook sources are referening to a DTD, then you can simply add a dependency to a jar file containing the DTD and related entities, and the plugin will make sure that all references will be resolved correctly. How does this compare the DocBook Tools at SourceForge?This project builds on these tools; the main purpose is to provide something that integrates easily with Maven based builds. 
+
+I want to know moreFind the User Guide of the Maven Docbkx Plugin http://docbkx-tools.sourceforge.net/docbkx-maven-plugin/plugin-info.html.</description>
+      <homepage_url>http://code.google.com/p/docbkx-tools</homepage_url>
+      <download_url></download_url>
+      <url_name>docbkx-tools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>19</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532191</analysis_id>
+      <tags>
+        <tag>docbook</tag>
+        <tag>maven</tag>
+        <tag>documentation</tag>
+      </tags>
+      <analysis>
+        <id>14532191</id>
+        <url>http://www.ohloh.net/analyses/14532191.xml</url>
+        <project_id>18933</project_id>
+        <updated_at>2013-07-05T03:29:25Z</updated_at>
+        <logged_at>2013-07-05T03:28:51Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11852</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/docbkx-tools/analyses/14532191/languages.png">
+          <language color="555555" percentage="71" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="21" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308442</id>
+      <name>960 Grid System</name>
+      <url>http://www.ohloh.net/p/ninesixtygridsystem.xml</url>
+      <html_url>http://www.ohloh.net/p/ninesixtygridsystem</html_url>
+      <created_at>2009-01-25T02:58:25Z</created_at>
+      <updated_at>2013-07-03T12:21:19Z</updated_at>
+      <description>The 960 Grid System is an effort to streamline web development workflow by providing commonly used dimensions, based on a width of 960 pixels.
+
+The 12 column grid is divided into portions that are 60 pixels wide. The 16 column grid consists of 40 pixel increments. Each column has 10 pixels of margin on the left and right, which create 20 pixel wide gutters between columns.
+
+The premise of the system is ideally suited to rapid prototyping, but it would work equally well when integrated into a production environment. There are printable sketch sheets, design layouts, and a CSS file that have identical measurements.</description>
+      <homepage_url>http://960.gs/</homepage_url>
+      <download_url>https://github.com/nathansmith/960-Grid-System/</download_url>
+      <url_name>ninesixtygridsystem</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41167/960_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41167/960_small.gif</small_logo_url>
+      <user_count>23</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514534</analysis_id>
+      <tags>
+        <tag>browser</tag>
+        <tag>grid</tag>
+        <tag>framework</tag>
+        <tag>webdesign</tag>
+        <tag>csslibrary</tag>
+        <tag>css_library</tag>
+        <tag>css_framework</tag>
+        <tag>css</tag>
+        <tag>cssframework</tag>
+        <tag>web</tag>
+        <tag>library</tag>
+        <tag>design</tag>
+      </tags>
+      <analysis>
+        <id>14514534</id>
+        <url>http://www.ohloh.net/analyses/14514534.xml</url>
+        <project_id>308442</project_id>
+        <updated_at>2013-07-03T12:21:19Z</updated_at>
+        <logged_at>2013-07-03T12:11:55Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6718</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ninesixtygridsystem/analyses/14514534/languages.png">
+          <language color="FF1A00" percentage="51" id="4">
+CSS          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="47A400" percentage="23" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>4</main_language_id>
+        <main_language_name>CSS</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

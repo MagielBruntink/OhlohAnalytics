@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9559</id>
+      <name>django-tagging</name>
+      <url>http://www.ohloh.net/p/django-tagging.xml</url>
+      <html_url>http://www.ohloh.net/p/django-tagging</html_url>
+      <created_at>2007-11-07T14:17:02Z</created_at>
+      <updated_at>2013-06-11T15:15:35Z</updated_at>
+      <description>A generic tagging application for use in Django projects, which allows association of a number of tags with any Model instance and makes retrieval of tags simple.</description>
+      <homepage_url>http://code.google.com/p/django-tagging/</homepage_url>
+      <download_url>http://code.google.com/p/django-tagging/downloads/</download_url>
+      <url_name>django-tagging</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>21</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14230551</analysis_id>
+      <tags>
+        <tag>django</tag>
+        <tag>tagging</tag>
+      </tags>
+      <analysis>
+        <id>14230551</id>
+        <url>http://www.ohloh.net/analyses/14230551.xml</url>
+        <project_id>9559</project_id>
+        <updated_at>2013-06-29T17:34:21Z</updated_at>
+        <logged_at>2013-06-29T17:34:18Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1577</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-tagging/analyses/14230551/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

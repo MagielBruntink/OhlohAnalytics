@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10422</id>
+      <name>ISPConfig</name>
+      <url>http://www.ohloh.net/p/ispconfig.xml</url>
+      <html_url>http://www.ohloh.net/p/ispconfig</html_url>
+      <created_at>2007-12-20T17:12:00Z</created_at>
+      <updated_at>2013-07-07T19:34:15Z</updated_at>
+      <description>ISPConfig is an open source hosting control panel for Linux.
+
+ISPconfig 3 is capable of managing multiple servers from one control panel.
+
+Managed Services and Features
+*Manage one or more Servers from one Controlpanel (Multiserver Management)
+*Different permission levels (Administrators, Resellers and Clients) + Email user level provided by a roundcube plugin for ISPConfig
+*Httpd (virtual hosts, domain and IP based)
+*FTP, SFTP, SCP
+*DNS (A, CNAME, MX, SRV and TXT Records)
+*POP3, IMAP
+*Email-Autoresponder
+*Server based mail filtering
+*Advanced email spamfilter and antivirus filter
+*MySQL client-databases
+*Webalizer statistics
+*Harddisk quota
+*Mail-Quota
+*Traffic limits and statistics
+*IP-addresses
+*SSL
+*SSI
+*PHP
+*Shell-access
+*Jailed shell access
+*Firewall
+*Server monitoring 
+*phpMyAdmin</description>
+      <homepage_url>http://www.ispconfig.org/</homepage_url>
+      <download_url>http://www.ispconfig.org/downloads.htm</download_url>
+      <url_name>ispconfig</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38700/ispconfig_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38700/ispconfig_logo_small.png</small_logo_url>
+      <user_count>25</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14140621</analysis_id>
+      <tags>
+        <tag>sysadmin</tag>
+        <tag>fail2ban</tag>
+        <tag>systems_administration</tag>
+        <tag>control_panel</tag>
+        <tag>managed</tag>
+        <tag>administration</tag>
+        <tag>isp</tag>
+        <tag>virtual</tag>
+        <tag>roundcube</tag>
+        <tag>awstats</tag>
+        <tag>pop</tag>
+        <tag>tool</tag>
+        <tag>httpd</tag>
+        <tag>smtp</tag>
+        <tag>admin</tag>
+        <tag>system_administration</tag>
+        <tag>spamassassin</tag>
+        <tag>management</tag>
+        <tag>ftp</tag>
+        <tag>firewall</tag>
+        <tag>clamav</tag>
+        <tag>mysql</tag>
+        <tag>webhosting</tag>
+        <tag>virtual_host</tag>
+        <tag>php</tag>
+        <tag>antivirus</tag>
+        <tag>webalizer</tag>
+        <tag>imap</tag>
+        <tag>squirrelmail</tag>
+        <tag>postfix</tag>
+        <tag>ssl</tag>
+        <tag>mydns</tag>
+        <tag>antispam</tag>
+        <tag>control</tag>
+        <tag>soap</tag>
+        <tag>domain</tag>
+        <tag>hosting</tag>
+        <tag>powerdns</tag>
+        <tag>phpmyadmin</tag>
+        <tag>email</tag>
+        <tag>quota</tag>
+        <tag>server</tag>
+        <tag>linux</tag>
+        <tag>hostingcontrolpanel</tag>
+        <tag>pop3</tag>
+        <tag>configuration</tag>
+        <tag>dns</tag>
+      </tags>
+      <analysis>
+        <id>14140621</id>
+        <url>http://www.ohloh.net/analyses/14140621.xml</url>
+        <project_id>10422</project_id>
+        <updated_at>2013-06-22T21:43:47Z</updated_at>
+        <logged_at>2013-06-22T21:20:11Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>320371</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ispconfig/analyses/14140621/languages.png">
+          <language color="356AA0" percentage="76" id="2">
+PHP          </language>
+          <language color="47A400" percentage="18" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

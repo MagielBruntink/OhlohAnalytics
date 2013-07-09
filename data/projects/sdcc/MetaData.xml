@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>425</id>
+      <name>Small Device C Compiler</name>
+      <url>http://www.ohloh.net/p/sdcc.xml</url>
+      <html_url>http://www.ohloh.net/p/sdcc</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-02T16:37:52Z</updated_at>
+      <description>SDCC is a retargettable, optimizing ANSI - C compiler that targets the Intel 8051, Maxim 80DS390, Zilog Z80 and the Motorola 68HC08 based MCUs. Work is in progress on supporting the Microchip PIC16 and PIC18 series. SDCC is Free Open Source Software, distributed under GNU General Public License (GPL).</description>
+      <homepage_url>http://sdcc.sourceforge.net</homepage_url>
+      <download_url>https://sourceforge.net/projects/sdcc/files/</download_url>
+      <url_name>sdcc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57636/sdcc_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57636/sdcc_small.png</small_logo_url>
+      <user_count>27</user_count>
+      <average_rating>4.625</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14504432</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>c</tag>
+        <tag>programming</tag>
+        <tag>linux</tag>
+        <tag>language</tag>
+        <tag>mac</tag>
+        <tag>tools</tag>
+        <tag>microcontroller</tag>
+        <tag>c++</tag>
+        <tag>compiler</tag>
+        <tag>windows</tag>
+        <tag>hardware</tag>
+        <tag>electronics</tag>
+        <tag>embedded</tag>
+        <tag>project_management</tag>
+        <tag>engineering</tag>
+        <tag>source</tag>
+      </tags>
+      <analysis>
+        <id>14504432</id>
+        <url>http://www.ohloh.net/analyses/14504432.xml</url>
+        <project_id>425</project_id>
+        <updated_at>2013-07-02T16:37:52Z</updated_at>
+        <logged_at>2013-07-02T16:33:34Z</logged_at>
+        <min_month>1999-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>2438998</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sdcc/analyses/14504432/languages.png">
+          <language color="FF8F00" percentage="82" id="42">
+C          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="000000" percentage="7" id="">
+18 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3927</id>
+      <name>XChat-GNOME</name>
+      <url>http://www.ohloh.net/p/xchat-gnome.xml</url>
+      <html_url>http://www.ohloh.net/p/xchat-gnome</html_url>
+      <created_at>2007-01-04T22:37:07Z</created_at>
+      <updated_at>2013-06-06T20:51:42Z</updated_at>
+      <description>XChat-GNOME is a new frontend to the popular X-Chat IRC client which is designed with the user interface foremost in mind. Historically, the OSS desktop has been steadily improving in usability, accessibility, and general slickness, yet the world of IRC clients has not kept up.
+
+GNOME&#8217;s philosophy in terms of user interfaces has been progressing towards presenting the user with few options and sane defaults.
+
+The authors decided that the GTK+ frontend provided excessive customizability without sufficient organization, which lead to clutter and confusion.
+
+As such, XChat-GNOME was born, and is gaining popularity as an IRC client for people who care more about chatting than tweaking settings. If anyone is interested in helping out with the project, stop by #xchat-gnome on irc.freenode.net.</description>
+      <homepage_url>http://xchat-gnome.navi.cx/</homepage_url>
+      <download_url>http://ftp.gnome.org/mirror/gnome.org/sources/xchat-gnome/</download_url>
+      <url_name>xchat-gnome</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5933/xchat-gnome_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5933/xchat-gnome_small.png</small_logo_url>
+      <user_count>38</user_count>
+      <average_rating>3.33333</average_rating>
+      <rating_count>12</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14182455</analysis_id>
+      <tags>
+        <tag>xchat</tag>
+        <tag>client</tag>
+        <tag>chatting</tag>
+        <tag>gnome</tag>
+        <tag>chat</tag>
+        <tag>irc</tag>
+      </tags>
+      <analysis>
+        <id>14182455</id>
+        <url>http://www.ohloh.net/analyses/14182455.xml</url>
+        <project_id>3927</project_id>
+        <updated_at>2013-07-06T04:49:06Z</updated_at>
+        <logged_at>2013-07-06T04:49:04Z</logged_at>
+        <min_month>2004-01-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>54405</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xchat-gnome/analyses/14182455/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

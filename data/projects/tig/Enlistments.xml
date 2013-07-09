@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>480990</id>
+      <project_id>7988</project_id>
+      <repository_id>481327</repository_id>
+      <repository>
+        <id>481327</id>
+        <type>GitRepository</type>
+        <url>git://github.com/jonas/tig.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T12:15:17Z</logged_at>
+        <commits>1284</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>29910</id>
+      <project_id>7988</project_id>
+      <repository_id>28930</repository_id>
+      <repository>
+        <id>28930</id>
+        <type>GitRepository</type>
+        <url>git://repo.or.cz/tig.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T12:07:44Z</logged_at>
+        <commits>1284</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

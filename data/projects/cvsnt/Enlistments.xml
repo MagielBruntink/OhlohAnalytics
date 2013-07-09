@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>6527</id>
+      <project_id>3759</project_id>
+      <repository_id>6458</repository_id>
+      <repository>
+        <id>6458</id>
+        <type>CvsRepository</type>
+        <url>:pserver:cvs:@cvs.cvsnt.org:/usr/local/cvs</url>
+        <module_name>cvsnt</module_name>
+        <username>cvs</username>
+        <password></password>
+        <logged_at>2008-12-28T14:39:03Z</logged_at>
+        <commits>546</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

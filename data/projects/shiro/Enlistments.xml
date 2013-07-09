@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>16636</id>
+      <project_id>8433</project_id>
+      <repository_id>16120</repository_id>
+      <repository>
+        <id>16120</id>
+        <type>SvnRepository</type>
+        <url>https://jsecurity.svn.sourceforge.net/svnroot/jsecurity/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-30T03:55:49Z</logged_at>
+        <commits>810</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>333200</id>
+      <project_id>8433</project_id>
+      <repository_id>330601</repository_id>
+      <repository>
+        <id>330601</id>
+        <type>SvnRepository</type>
+        <url>http://svn.apache.org/repos/asf/shiro/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-30T03:57:58Z</logged_at>
+        <commits>1577</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

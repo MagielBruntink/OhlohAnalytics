@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25484</id>
+      <name>OpenGrok</name>
+      <url>http://www.ohloh.net/p/opengrok.xml</url>
+      <html_url>http://www.ohloh.net/p/opengrok</html_url>
+      <created_at>2008-10-08T09:50:00Z</created_at>
+      <updated_at>2013-07-06T19:13:05Z</updated_at>
+      <description>OpenGrok is a fast and usable source code search and cross reference engine. It helps you search, cross-reference and navigate your source tree. It can understand various program file formats and version control histories like Mercurial, Git, SCCS, RCS, CVS, Subversion, Teamware, ClearCase, Perforce and Bazaar. In other words it lets you grok (profoundly understand) the open source, hence the name OpenGrok. It is written in Java.</description>
+      <homepage_url>http://opensolaris.org/os/project/opengrok/</homepage_url>
+      <download_url>http://opensolaris.org/os/project/opengrok/files/</download_url>
+      <url_name>opengrok</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62314/opengrok_icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62314/opengrok_icon_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>4.28571</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14553519</analysis_id>
+      <tags>
+        <tag>source_browser</tag>
+        <tag>cvs</tag>
+        <tag>svn</tag>
+        <tag>java</tag>
+        <tag>auroraux</tag>
+        <tag>mercurial</tag>
+      </tags>
+      <analysis>
+        <id>14553519</id>
+        <url>http://www.ohloh.net/analyses/14553519.xml</url>
+        <project_id>25484</project_id>
+        <updated_at>2013-07-06T19:13:05Z</updated_at>
+        <logged_at>2013-07-06T19:11:09Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>47331</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opengrok/analyses/14553519/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>common_development_and_distribution</name>
+          <nice_name>Common Development and Distribution License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

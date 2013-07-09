@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9470</id>
+      <name>LuxRender</name>
+      <url>http://www.ohloh.net/p/luxrender.xml</url>
+      <html_url>http://www.ohloh.net/p/luxrender</html_url>
+      <created_at>2007-11-03T10:58:42Z</created_at>
+      <updated_at>2013-07-07T19:34:27Z</updated_at>
+      <description>LuxRender is a free software rendering system for photo-realistic and physicaly unbiased image synthesis. It is written in C++ and built around PBRT, providing a flexible ray tracing core and an extensible object-oriented design.
+
+Our goal is to extend PBRT into a complete renderer for artistic use, including :
+
+- Flexible multi-threading of integrators
+- GUI with real time tonemapping controls, renderer configuration dialogs, etc...
+- Robust scene file format and API, exporters for Blender and other 3D packages
+- Speed optimisations with SSE/SIMD implementation
+- Semi-programmabe shading/materials &amp; GUI material editor(s)
+- Physical sky/daylight model
+- etc...</description>
+      <homepage_url>http://www.luxrender.net</homepage_url>
+      <download_url>http://www.luxrender.net/v/download</download_url>
+      <url_name>luxrender</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32862/logo_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32862/logo_med_small.png</small_logo_url>
+      <user_count>22</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>12</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542061</analysis_id>
+      <tags>
+        <tag>blender3d</tag>
+        <tag>rendering</tag>
+        <tag>3d</tag>
+        <tag>animation</tag>
+        <tag>render</tag>
+        <tag>3ds_max</tag>
+        <tag>blender</tag>
+        <tag>multi-platform</tag>
+        <tag>effects</tag>
+        <tag>macosx</tag>
+        <tag>digital_content_creation</tag>
+        <tag>linux</tag>
+        <tag>renderer</tag>
+        <tag>cross-platform</tag>
+        <tag>render_pipeline</tag>
+        <tag>lighting</tag>
+        <tag>raytracing</tag>
+        <tag>3d_rendering</tag>
+        <tag>ray_tracing</tag>
+        <tag>cinema_4d</tag>
+        <tag>graphics</tag>
+        <tag>maya</tag>
+        <tag>special_effects</tag>
+        <tag>shader</tag>
+        <tag>windows</tag>
+        <tag>render_engine</tag>
+      </tags>
+      <analysis>
+        <id>14542061</id>
+        <url>http://www.ohloh.net/analyses/14542061.xml</url>
+        <project_id>9470</project_id>
+        <updated_at>2013-07-05T20:43:24Z</updated_at>
+        <logged_at>2013-07-05T20:36:00Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>407892</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/luxrender/analyses/14542061/languages.png">
+          <language color="F35F1F" percentage="58" id="44">
+C++          </language>
+          <language color="4A246B" percentage="18" id="9">
+Python          </language>
+          <language color="356AA0" percentage="8" id="2">
+PHP          </language>
+          <language color="000000" percentage="16" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

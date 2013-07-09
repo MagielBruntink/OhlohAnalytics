@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>354</id>
+      <name>ettercap</name>
+      <url>http://www.ohloh.net/p/ettercap.xml</url>
+      <html_url>http://www.ohloh.net/p/ettercap</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-29T07:32:16Z</updated_at>
+      <description>Ettercap is a network sniffer/interceptor/logger for ethernet LANs. It supports active and passive dissection of many protocols (even ciphered ones, like SSH and HTTPS). Data injection in an established connection and filtering on the fly is also possible, keeping the connection synchronized. Many sniffing modes were implemented to give you a powerful and complete sniffing suite. Plugins are supported. It has the ability to check whether you are in a switched LAN or not, and to use OS fingerprints (active or passive) to let you know the geometry of the LAN.</description>
+      <homepage_url>http://ettercap.github.io/ettercap/</homepage_url>
+      <download_url>https://github.com/Ettercap/ettercap/tags</download_url>
+      <url_name>ettercap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64254/tshirt_design_net_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64254/tshirt_design_net_small.jpg</small_logo_url>
+      <user_count>35</user_count>
+      <average_rating>4.625</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14453859</analysis_id>
+      <tags>
+        <tag>exploitation</tag>
+        <tag>man_in_the_middle</tag>
+        <tag>wireless</tag>
+        <tag>mitm</tag>
+        <tag>wifi</tag>
+        <tag>infosec</tag>
+        <tag>lan</tag>
+        <tag>technology</tag>
+        <tag>linux</tag>
+        <tag>security</tag>
+        <tag>tools</tag>
+        <tag>monitoring</tag>
+        <tag>networking</tag>
+        <tag>hacking</tag>
+        <tag>hack</tag>
+        <tag>unix</tag>
+        <tag>mac</tag>
+        <tag>sniffer</tag>
+        <tag>windows</tag>
+        <tag>systems_administration</tag>
+      </tags>
+      <analysis>
+        <id>14453859</id>
+        <url>http://www.ohloh.net/analyses/14453859.xml</url>
+        <project_id>354</project_id>
+        <updated_at>2013-06-29T07:32:16Z</updated_at>
+        <logged_at>2013-06-27T21:24:28Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>49799</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ettercap/analyses/14453859/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="A42E00" percentage="7" id="27">
+Lua          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

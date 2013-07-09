@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5471</id>
+      <name>Apache XML Commons</name>
+      <url>http://www.ohloh.net/p/xml-commons.xml</url>
+      <html_url>http://www.ohloh.net/p/xml-commons</html_url>
+      <created_at>2007-05-20T01:02:57Z</created_at>
+      <updated_at>2013-07-07T19:40:58Z</updated_at>
+      <description>Apache XML Commons provides an Apache-hosted set of SAX, DOM, StAX and JAXP interfaces for use in other xml-based projects. It is also home to the XML Commons Resolver, a component which can be used in a wide variety of XML parsing, processing and related programs to resolve various public or system identifiers into accessible URLs for use by your application. The resolver supports several catalog types for mapping, including OASIS XML, OASIS TR 9401 and XCatalog styles.</description>
+      <homepage_url>http://xerces.apache.org/xml-commons/</homepage_url>
+      <download_url>http://xerces.apache.org/mirrors.cgi</download_url>
+      <url_name>xml-commons</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3859/xerces_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3859/xerces_small.jpg</small_logo_url>
+      <user_count>31</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14213672</analysis_id>
+      <tags>
+        <tag>jaxp</tag>
+        <tag>java</tag>
+        <tag>sax</tag>
+        <tag>dom</tag>
+        <tag>xml</tag>
+        <tag>apache</tag>
+        <tag>stax</tag>
+        <tag>asf</tag>
+      </tags>
+      <analysis>
+        <id>14213672</id>
+        <url>http://www.ohloh.net/analyses/14213672.xml</url>
+        <project_id>5471</project_id>
+        <updated_at>2013-07-08T08:13:59Z</updated_at>
+        <logged_at>2013-07-08T08:10:11Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>287247</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xml-commons/analyses/14213672/languages.png">
+          <language color="47A400" percentage="61" id="1">
+HTML          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="17" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>w3c</name>
+          <nice_name>W3C License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

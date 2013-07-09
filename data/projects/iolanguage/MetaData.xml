@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5031</id>
+      <name>Io Language</name>
+      <url>http://www.ohloh.net/p/iolanguage.xml</url>
+      <html_url>http://www.ohloh.net/p/iolanguage</html_url>
+      <created_at>2007-04-29T03:26:11Z</created_at>
+      <updated_at>2013-07-08T03:09:03Z</updated_at>
+      <description>Io is a small, prototype-based programming language. The ideas in Io are mostly inspired by Smalltalk (all values are objects), Self (prototype-based), NewtonScript (differential inheritance), Act1 (actors and futures for concurrency), LISP (code is a runtime inspectable/modifiable tree) and Lua (small, embeddable).</description>
+      <homepage_url>http://www.iolanguage.com/</homepage_url>
+      <download_url>http://www.iolanguage.com/downloads/</download_url>
+      <url_name>iolanguage</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>20</user_count>
+      <average_rating>4.53846</average_rating>
+      <rating_count>13</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566233</analysis_id>
+      <tags>
+        <tag>object_oriented</tag>
+        <tag>code</tag>
+        <tag>scripting</tag>
+        <tag>language</tag>
+        <tag>interpreted</tag>
+        <tag>cross-platform</tag>
+        <tag>programming</tag>
+        <tag>embedded</tag>
+        <tag>development</tag>
+        <tag>vm</tag>
+        <tag>multi-platform</tag>
+        <tag>small</tag>
+        <tag>prototype</tag>
+        <tag>script</tag>
+        <tag>interpreter</tag>
+        <tag>programming_language</tag>
+        <tag>dynamic</tag>
+      </tags>
+      <analysis>
+        <id>14566233</id>
+        <url>http://www.ohloh.net/analyses/14566233.xml</url>
+        <project_id>5031</project_id>
+        <updated_at>2013-07-08T03:09:03Z</updated_at>
+        <logged_at>2013-07-08T02:59:40Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>213404</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/iolanguage/analyses/14566233/languages.png">
+          <language color="FF8F00" percentage="50" id="42">
+C          </language>
+          <language color="555555" percentage="28" id="3">
+XML          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

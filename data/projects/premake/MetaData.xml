@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8273</id>
+      <name>Premake</name>
+      <url>http://www.ohloh.net/p/premake.xml</url>
+      <html_url>http://www.ohloh.net/p/premake</html_url>
+      <created_at>2007-09-06T14:24:10Z</created_at>
+      <updated_at>2013-07-05T12:40:03Z</updated_at>
+      <description>Premake is a build configuration tool. Describe your project using the full-featured Lua scripting language and then let Premake create the input files for Visual Studio, GNU make, Xcode, SharpDevelop, MonoDevelop, Code::Blocks, and CodeLite...with more tools on the way!</description>
+      <homepage_url>http://industriousone.com/premake</homepage_url>
+      <download_url>http://industriousone.com/premake/download</download_url>
+      <url_name>premake</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27055/premake_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27055/premake_logo_small.png</small_logo_url>
+      <user_count>31</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14536275</analysis_id>
+      <tags>
+        <tag>automation</tag>
+        <tag>cross-platform</tag>
+        <tag>build_tools</tag>
+        <tag>make</tag>
+        <tag>lua</tag>
+        <tag>build_system</tag>
+        <tag>tools</tag>
+        <tag>build</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>14536275</id>
+        <url>http://www.ohloh.net/analyses/14536275.xml</url>
+        <project_id>8273</project_id>
+        <updated_at>2013-07-05T12:40:03Z</updated_at>
+        <logged_at>2013-07-05T12:37:06Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>96552</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/premake/analyses/14536275/languages.png">
+          <language color="FF8F00" percentage="41" id="42">
+C          </language>
+          <language color="A42E00" percentage="37" id="27">
+Lua          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

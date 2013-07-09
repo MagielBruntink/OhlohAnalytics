@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11881</id>
+      <name>Haddock</name>
+      <url>http://www.ohloh.net/p/haddock.xml</url>
+      <html_url>http://www.ohloh.net/p/haddock</html_url>
+      <created_at>2008-02-19T05:40:22Z</created_at>
+      <updated_at>2013-06-29T23:41:03Z</updated_at>
+      <description>a tool for automatically generating documentation from annotated Haskell source code. It is primarily intended for documenting libraries, but it should be useful for any kind of Haskell code.</description>
+      <homepage_url>http://haskell.org/haddock/</homepage_url>
+      <download_url>http://haskell.org/haddock/</download_url>
+      <url_name>haddock</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50567/HaskellLogoStyPreview-1_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50567/HaskellLogoStyPreview-1_small.png</small_logo_url>
+      <user_count>19</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14469181</analysis_id>
+      <tags>
+        <tag>html</tag>
+        <tag>haskell</tag>
+        <tag>documentation</tag>
+        <tag>development</tag>
+        <tag>man</tag>
+      </tags>
+      <analysis>
+        <id>14469181</id>
+        <url>http://www.ohloh.net/analyses/14469181.xml</url>
+        <project_id>11881</project_id>
+        <updated_at>2013-06-29T23:41:03Z</updated_at>
+        <logged_at>2013-06-29T23:39:51Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>21478</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/haddock/analyses/14469181/languages.png">
+          <language color="47A400" percentage="51" id="1">
+HTML          </language>
+          <language color="007B7C" percentage="30" id="38">
+Haskell          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

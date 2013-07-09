@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7895</id>
+      <name>Hibernate Tools</name>
+      <url>http://www.ohloh.net/p/hibernate-tools.xml</url>
+      <html_url>http://www.ohloh.net/p/hibernate-tools</html_url>
+      <created_at>2007-08-23T02:59:44Z</created_at>
+      <updated_at>2013-06-22T07:11:20Z</updated_at>
+      <description>Working with Hibernate is very easy and developers enjoy using the APIs and the query language. Even creating mapping metadata is not an overly complex task once you've mastered the basics. Hibernate Tools makes working with Hibernate or EJB 3.0 persistence even more pleasant.
+
+Hibernate Tools is an entirely new toolset for Hibernate3 (see this page for an overview of the Hibernate 2.x toolset), implemented as an integrated suite of Eclipse plugins, together with a unified Ant task for integration into the build cycle. Hibernate Tools is a core component of JBoss Tools and hence also part of Red Hat Developer Studio. See the documentation and screenshots for more information or download Hibernate Tools now!</description>
+      <homepage_url>http://tools.hibernate.org/</homepage_url>
+      <download_url>http://www.hibernate.org/6.html</download_url>
+      <url_name>hibernate-tools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>45</user_count>
+      <average_rating>3.875</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14338581</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>mapping</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>java</tag>
+        <tag>persistence</tag>
+        <tag>database</tag>
+        <tag>seam</tag>
+        <tag>hibernate</tag>
+        <tag>reverse_engineering</tag>
+        <tag>orm</tag>
+      </tags>
+      <analysis>
+        <id>14338581</id>
+        <url>http://www.ohloh.net/analyses/14338581.xml</url>
+        <project_id>7895</project_id>
+        <updated_at>2013-07-02T22:24:01Z</updated_at>
+        <logged_at>2013-07-02T22:23:56Z</logged_at>
+        <min_month>2003-05-01T00:00:00Z</min_month>
+        <max_month>2006-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>24209</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hibernate-tools/analyses/14338581/languages.png">
+          <language color="9A63AD" percentage="79" id="5">
+Java          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
