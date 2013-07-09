@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4648</id>
+      <name>picocontainer</name>
+      <url>http://www.ohloh.net/p/picocontainer.xml</url>
+      <html_url>http://www.ohloh.net/p/picocontainer</html_url>
+      <created_at>2007-03-09T13:51:23Z</created_at>
+      <updated_at>2013-07-07T18:28:29Z</updated_at>
+      <description>PicoContainer is a lightweight and highly embeddable container for components that honour Dependency Injection.
+
+Despite it being very compact in size (the core is ~100K and it has no mandatory dependencies outside the JDK),
+PicoContainer supports different dependency injection types (both CDI and SDI) and offers totally customisable lifecycles.
+
+PicoContainer has originally been implemented in Java but is also available for other platforms and
+languages.</description>
+      <homepage_url>http://www.picocontainer.org/</homepage_url>
+      <download_url>http://www.picocontainer.org/downloads.html</download_url>
+      <url_name>picocontainer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4581/pico_container_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4581/pico_container_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14556580</analysis_id>
+      <tags>
+        <tag>di</tag>
+        <tag>java</tag>
+        <tag>embedded</tag>
+        <tag>dependency_injection</tag>
+        <tag>inversion_of_control</tag>
+        <tag>ioc</tag>
+        <tag>codehaus</tag>
+        <tag>container</tag>
+      </tags>
+      <analysis>
+        <id>14556580</id>
+        <url>http://www.ohloh.net/analyses/14556580.xml</url>
+        <project_id>4648</project_id>
+        <updated_at>2013-07-06T22:43:11Z</updated_at>
+        <logged_at>2013-07-06T22:37:37Z</logged_at>
+        <min_month>2003-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>2432676</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/picocontainer/analyses/14556580/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>PicoContainer_license</name>
+          <nice_name>PicoContainer license</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

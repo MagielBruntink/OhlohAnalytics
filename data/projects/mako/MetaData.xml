@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4822</id>
+      <name>Mako</name>
+      <url>http://www.ohloh.net/p/mako.xml</url>
+      <html_url>http://www.ohloh.net/p/mako</html_url>
+      <created_at>2007-04-04T12:16:02Z</created_at>
+      <updated_at>2013-06-14T14:13:40Z</updated_at>
+      <description>Mako is a template library written in Python. It provides a familiar, non-XML syntax which compiles into Python modules for maximum performance. Mako's syntax and API borrows from the best ideas of many others, including Django templates, Cheetah, Myghty, and Genshi. Conceptually, Mako is an embedded Python (i.e. Python Server Page) language, which refines the familiar ideas of componentized layout and inheritance to produce one of the most straightforward and flexible models available, while also maintaining close ties to Python calling and scoping semantics.</description>
+      <homepage_url>http://www.makotemplates.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>mako</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>46</user_count>
+      <average_rating>4.45</average_rating>
+      <rating_count>20</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13888569</analysis_id>
+      <tags>
+        <tag>templates</tag>
+        <tag>template_engine</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>13888569</id>
+        <url>http://www.ohloh.net/analyses/13888569.xml</url>
+        <project_id>4822</project_id>
+        <updated_at>2013-05-14T03:34:27Z</updated_at>
+        <logged_at>2013-05-14T03:34:06Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>11534</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mako/analyses/13888569/languages.png">
+          <language color="4A246B" percentage="85" id="9">
+Python          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

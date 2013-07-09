@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>143</id>
+      <name>Dillo</name>
+      <url>http://www.ohloh.net/p/dillo.xml</url>
+      <html_url>http://www.ohloh.net/p/dillo</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-03T18:11:56Z</updated_at>
+      <description>Dillo is a very fast, extremely small web browser, written in C and C++. 
+The version 2.x is now UNICODE aware using FLTK2. Dillo renders a good subset of HTML, excluding frames, JavaScript, and JVM support.
+
+Older Dillo 0.x versions used GTK1 (with source and binary ~400kb each) under GPLv2+, but are deprecated.</description>
+      <homepage_url>http://www.dillo.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>dillo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14905/logo1s_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14905/logo1s_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>12</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14427756</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>x11</tag>
+        <tag>c</tag>
+        <tag>web_browser</tag>
+        <tag>linux</tag>
+        <tag>tools</tag>
+        <tag>html</tag>
+        <tag>c++</tag>
+        <tag>www</tag>
+        <tag>finance</tag>
+        <tag>packages</tag>
+        <tag>embedded</tag>
+        <tag>fltk</tag>
+        <tag>browser</tag>
+        <tag>code</tag>
+        <tag>download</tag>
+        <tag>fltk2</tag>
+      </tags>
+      <analysis>
+        <id>14427756</id>
+        <url>http://www.ohloh.net/analyses/14427756.xml</url>
+        <project_id>143</project_id>
+        <updated_at>2013-06-27T03:24:15Z</updated_at>
+        <logged_at>2013-06-27T02:26:34Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>53473</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dillo/analyses/14427756/languages.png">
+          <language color="F35F1F" percentage="60" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="35" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

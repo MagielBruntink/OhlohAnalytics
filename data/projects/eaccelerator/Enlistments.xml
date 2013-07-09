@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>11372</id>
+      <project_id>115</project_id>
+      <repository_id>11108</repository_id>
+      <repository>
+        <id>11108</id>
+        <type>SvnRepository</type>
+        <url>http://dev.eaccelerator.net/eaccelerator/trunk</url>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2010-05-30T21:06:06Z</logged_at>
+        <commits>339</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>11375</id>
+      <project_id>115</project_id>
+      <repository_id>11111</repository_id>
+      <repository>
+        <id>11111</id>
+        <type>SvnRepository</type>
+        <url>http://dev.eaccelerator.net/test_suite/trunk</url>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2010-05-30T21:05:56Z</logged_at>
+        <commits>1</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

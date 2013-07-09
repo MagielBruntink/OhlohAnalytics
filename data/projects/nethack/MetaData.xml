@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7986</id>
+      <name>NetHack</name>
+      <url>http://www.ohloh.net/p/nethack.xml</url>
+      <html_url>http://www.ohloh.net/p/nethack</html_url>
+      <created_at>2007-08-26T22:34:19Z</created_at>
+      <updated_at>2013-06-25T20:36:36Z</updated_at>
+      <description>NetHack is a popular single player dungeon exploration game that runs on a wide variety of computer systems.</description>
+      <homepage_url>http://nethack.org</homepage_url>
+      <download_url>http://nethack.org/v343/downloads.html</download_url>
+      <url_name>nethack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9222/nethack_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9222/nethack_small.png</small_logo_url>
+      <user_count>50</user_count>
+      <average_rating>4.81818</average_rating>
+      <rating_count>22</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408554</analysis_id>
+      <tags>
+        <tag>nethack</tag>
+        <tag>rogue</tag>
+        <tag>roguelike</tag>
+        <tag>game</tag>
+      </tags>
+      <analysis>
+        <id>14408554</id>
+        <url>http://www.ohloh.net/analyses/14408554.xml</url>
+        <project_id>7986</project_id>
+        <updated_at>2013-06-25T20:36:36Z</updated_at>
+        <logged_at>2013-06-25T18:58:06Z</logged_at>
+        <min_month>1984-12-01T00:00:00Z</min_month>
+        <max_month>2003-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>207455</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nethack/analyses/14408554/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>nethack</name>
+          <nice_name>Nethack General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

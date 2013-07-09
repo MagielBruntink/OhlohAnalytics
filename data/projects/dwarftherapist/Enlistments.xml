@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>101393</id>
+      <project_id>350490</project_id>
+      <repository_id>99785</repository_id>
+      <repository>
+        <id>99785</id>
+        <type>SvnSyncRepository</type>
+        <url>http://dwarftherapist.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-08T08:09:46Z</logged_at>
+        <commits>292</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>220696</id>
+      <project_id>350490</project_id>
+      <repository_id>218648</repository_id>
+      <repository>
+        <id>218648</id>
+        <type>HgRepository</type>
+        <url>https://dwarftherapist.googlecode.com/hg/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-08T08:05:31Z</logged_at>
+        <commits>572</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

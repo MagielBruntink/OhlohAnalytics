@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4740</id>
+      <name>Apache PDFBox</name>
+      <url>http://www.ohloh.net/p/pdfbox.xml</url>
+      <html_url>http://www.ohloh.net/p/pdfbox</html_url>
+      <created_at>2007-03-20T22:40:00Z</created_at>
+      <updated_at>2013-07-06T08:29:49Z</updated_at>
+      <description>Apache PDFBox is an open source Java PDF library for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities.
+
+* PDF to text extraction
+* Merge PDF Documents
+* PDF Document Encryption/Decryption
+* Lucene Search Engine Integration
+* Fill in form data FDF and XFDF
+* Create a PDF from a text file
+* Create image</description>
+      <homepage_url>http://pdfbox.apache.org/</homepage_url>
+      <download_url>http://pdfbox.apache.org/download.html</download_url>
+      <url_name>pdfbox</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31722/Logo_neu_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31722/Logo_neu_small.gif</small_logo_url>
+      <user_count>22</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14547946</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>library</tag>
+        <tag>parser</tag>
+        <tag>lucene</tag>
+        <tag>pdf</tag>
+      </tags>
+      <analysis>
+        <id>14547946</id>
+        <url>http://www.ohloh.net/analyses/14547946.xml</url>
+        <project_id>4740</project_id>
+        <updated_at>2013-07-06T08:29:48Z</updated_at>
+        <logged_at>2013-07-06T08:23:28Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>111468</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pdfbox/analyses/14547946/languages.png">
+          <language color="9A63AD" percentage="96" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

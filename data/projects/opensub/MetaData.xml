@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4614</id>
+      <name>Open Subtitle Translator</name>
+      <url>http://www.ohloh.net/p/opensub.xml</url>
+      <html_url>http://www.ohloh.net/p/opensub</html_url>
+      <created_at>2007-03-05T13:35:41Z</created_at>
+      <updated_at>2013-07-06T00:14:39Z</updated_at>
+      <description>This program is designed to help teams translating subtitles for movies in SRT files. It provides an automatic translation done using the translation tool Google Translator. Within minutes you can have the first version of its translated subtitle.</description>
+      <homepage_url>http://opensub.sourceforge.net/</homepage_url>
+      <download_url>https://sourceforge.net/projects/opensub/files/</download_url>
+      <url_name>opensub</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28711/big_icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28711/big_icon_small.png</small_logo_url>
+      <user_count>24</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14544209</analysis_id>
+      <tags>
+        <tag>subtitles</tag>
+        <tag>srt</tag>
+        <tag>movies</tag>
+        <tag>entertainment</tag>
+        <tag>subtitle</tag>
+        <tag>translator</tag>
+        <tag>translation</tag>
+        <tag>editor</tag>
+        <tag>video</tag>
+        <tag>language</tag>
+      </tags>
+      <analysis>
+        <id>14544209</id>
+        <url>http://www.ohloh.net/analyses/14544209.xml</url>
+        <project_id>4614</project_id>
+        <updated_at>2013-07-06T00:14:39Z</updated_at>
+        <logged_at>2013-07-06T00:09:59Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11624</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opensub/analyses/14544209/languages.png">
+          <language color="555555" percentage="70" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="29" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

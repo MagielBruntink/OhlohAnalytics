@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3734</id>
+      <name>Gendarme</name>
+      <url>http://www.ohloh.net/p/gendarme.xml</url>
+      <html_url>http://www.ohloh.net/p/gendarme</html_url>
+      <created_at>2006-12-05T14:11:46Z</created_at>
+      <updated_at>2013-07-08T02:28:25Z</updated_at>
+      <description>Gendarme is a extensible rule-based tool to find problems in .NET applications and libraries. Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET) and looks for common problems with the code, problems that compiler do not typically check or have not historically checked.
+
+Gendarme uses the Cecil library to introspect code.</description>
+      <homepage_url>http://www.mono-project.com/Gendarme</homepage_url>
+      <download_url>http://groups.google.com/group/gendarme/files?hl=en</download_url>
+      <url_name>gendarme</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10887/gendarme64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10887/gendarme64_small.png</small_logo_url>
+      <user_count>45</user_count>
+      <average_rating>4.31579</average_rating>
+      <rating_count>19</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566013</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>code</tag>
+        <tag>multi-platform</tag>
+        <tag>code_analysis</tag>
+        <tag>dotnet</tag>
+        <tag>cil</tag>
+        <tag>static</tag>
+        <tag>mono</tag>
+        <tag>bug</tag>
+        <tag>cecil</tag>
+        <tag>tools</tag>
+        <tag>qa</tag>
+        <tag>msil</tag>
+        <tag>il</tag>
+        <tag>c#</tag>
+        <tag>analysis</tag>
+        <tag>c_sharp</tag>
+        <tag>gendarme</tag>
+        <tag>development</tag>
+        <tag>quality</tag>
+        <tag>programming</tag>
+      </tags>
+      <analysis>
+        <id>14566013</id>
+        <url>http://www.ohloh.net/analyses/14566013.xml</url>
+        <project_id>3734</project_id>
+        <updated_at>2013-07-08T02:28:25Z</updated_at>
+        <logged_at>2013-07-08T02:16:24Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>84010</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gendarme/analyses/14566013/languages.png">
+          <language color="4096EE" percentage="89" id="17">
+C#          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

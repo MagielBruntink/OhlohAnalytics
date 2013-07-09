@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5796</id>
+      <name>Chicken</name>
+      <url>http://www.ohloh.net/p/chicken.xml</url>
+      <html_url>http://www.ohloh.net/p/chicken</html_url>
+      <created_at>2007-06-05T05:36:50Z</created_at>
+      <updated_at>2013-07-07T18:56:38Z</updated_at>
+      <description>Chicken is a compiler for the Scheme programming language. Chicken produces portable, efficient C, supports almost all of the current Scheme language standard, R5RS and includes many enhancements and extensions.</description>
+      <homepage_url>http://www.call-with-current-continuation.org/</homepage_url>
+      <download_url>http://code.call-cc.org</download_url>
+      <url_name>chicken</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19097/chicken4-low_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19097/chicken4-low_small.png</small_logo_url>
+      <user_count>21</user_count>
+      <average_rating>4.92308</average_rating>
+      <rating_count>13</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14443510</analysis_id>
+      <tags>
+        <tag>optimizing</tag>
+        <tag>lisp</tag>
+        <tag>language</tag>
+        <tag>scheme</tag>
+        <tag>compiler</tag>
+        <tag>interpreter</tag>
+        <tag>ffi</tag>
+      </tags>
+      <analysis>
+        <id>14443510</id>
+        <url>http://www.ohloh.net/analyses/14443510.xml</url>
+        <project_id>5796</project_id>
+        <updated_at>2013-06-28T11:49:23Z</updated_at>
+        <logged_at>2013-06-28T10:20:00Z</logged_at>
+        <min_month>2002-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>221807</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/chicken/analyses/14443510/languages.png">
+          <language color="90C0D2" percentage="81" id="20">
+Scheme          </language>
+          <language color="FF8F00" percentage="11" id="42">
+C          </language>
+          <language color="000000" percentage="8" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>20</main_language_id>
+        <main_language_name>Scheme</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

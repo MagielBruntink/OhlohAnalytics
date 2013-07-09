@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3791</id>
+      <name>SwiftMailer</name>
+      <url>http://www.ohloh.net/p/swiftmailer.xml</url>
+      <html_url>http://www.ohloh.net/p/swiftmailer</html_url>
+      <created_at>2006-12-12T06:08:09Z</created_at>
+      <updated_at>2013-06-30T04:33:41Z</updated_at>
+      <description>Swift is a fully OOP Library for sending e-mails from PHP websites and applications. It does not rely on PHP's native mail() function which is known for using high server resources when sending multiple emails. Instead, Swift communicates directly with an SMTP server or a MTA binary to send mail quickly and efficiently.
+
+Early versions of Swift were comparable to PHPMailer. Swift has since evolved and matured into a fully-fledged object-oriented mailing solution. Compared with PHPMailer, the interface for Swift is both tighter and more intuitive.</description>
+      <homepage_url>http://swiftmailer.org</homepage_url>
+      <download_url></download_url>
+      <url_name>swiftmailer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>25</user_count>
+      <average_rating>4.44444</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14472261</analysis_id>
+      <tags>
+        <tag>mailing</tag>
+        <tag>php</tag>
+        <tag>oop</tag>
+        <tag>email</tag>
+        <tag>mailer</tag>
+        <tag>smtp</tag>
+        <tag>mail</tag>
+        <tag>swiftmailer</tag>
+      </tags>
+      <analysis>
+        <id>14472261</id>
+        <url>http://www.ohloh.net/analyses/14472261.xml</url>
+        <project_id>3791</project_id>
+        <updated_at>2013-06-30T04:33:41Z</updated_at>
+        <logged_at>2013-06-30T04:14:10Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>160022</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/swiftmailer/analyses/14472261/languages.png">
+          <language color="356AA0" percentage="62" id="2">
+PHP          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

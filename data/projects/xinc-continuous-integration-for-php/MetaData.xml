@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9498</id>
+      <name>Xinc</name>
+      <url>http://www.ohloh.net/p/xinc-continuous-integration-for-php.xml</url>
+      <html_url>http://www.ohloh.net/p/xinc-continuous-integration-for-php</html_url>
+      <created_at>2007-11-04T16:20:41Z</created_at>
+      <updated_at>2013-07-07T19:31:38Z</updated_at>
+      <description>Xinc is a continuous integration server written in PHP 5. It has built-in support for Subversion and Phing (and therefore PHPUnit), and can be easily extended to work with alternative version control or build tools.</description>
+      <homepage_url>http://code.google.com/p/xinc/</homepage_url>
+      <download_url>http://code.google.com/p/xinc/downloads/list</download_url>
+      <url_name>xinc-continuous-integration-for-php</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3243/xinc-logo-small_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3243/xinc-logo-small_small.jpg</small_logo_url>
+      <user_count>24</user_count>
+      <average_rating>4.77778</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14500165</analysis_id>
+      <tags>
+        <tag>svn</tag>
+        <tag>subversion</tag>
+        <tag>continuous_integration</tag>
+        <tag>deployment</tag>
+        <tag>phpunit</tag>
+        <tag>php</tag>
+        <tag>agile</tag>
+        <tag>testing</tag>
+        <tag>build_tools</tag>
+        <tag>automation</tag>
+        <tag>phing</tag>
+        <tag>scm</tag>
+        <tag>build</tag>
+        <tag>unit-testing</tag>
+        <tag>php5</tag>
+        <tag>git</tag>
+      </tags>
+      <analysis>
+        <id>14500165</id>
+        <url>http://www.ohloh.net/analyses/14500165.xml</url>
+        <project_id>9498</project_id>
+        <updated_at>2013-07-01T10:25:45Z</updated_at>
+        <logged_at>2013-07-01T10:25:30Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>22922</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xinc-continuous-integration-for-php/analyses/14500165/languages.png">
+          <language color="356AA0" percentage="54" id="2">
+PHP          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="556655" percentage="18" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="9" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

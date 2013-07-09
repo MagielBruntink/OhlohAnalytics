@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3163</id>
+      <name>Jinja</name>
+      <url>http://www.ohloh.net/p/jinja.xml</url>
+      <html_url>http://www.ohloh.net/p/jinja</html_url>
+      <created_at>2006-10-15T09:29:47Z</created_at>
+      <updated_at>2013-07-07T20:33:03Z</updated_at>
+      <description>Jinja is a sandboxed  template engine written in pure Python  licensed under the BSD license. It provides a Django-like non-XML syntax and compiles templates into executable python code. It's basically a combination of Django templates and python code.</description>
+      <homepage_url>http://jinja.pocoo.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>jinja</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13145/logo_mini_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13145/logo_mini_small.png</small_logo_url>
+      <user_count>47</user_count>
+      <average_rating>4.7</average_rating>
+      <rating_count>20</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514809</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>html</tag>
+        <tag>template_engine</tag>
+        <tag>templating</tag>
+        <tag>compiler</tag>
+        <tag>code_generators</tag>
+        <tag>development</tag>
+        <tag>python</tag>
+        <tag>templates</tag>
+        <tag>template</tag>
+        <tag>web</tag>
+        <tag>text</tag>
+        <tag>xhtml</tag>
+      </tags>
+      <analysis>
+        <id>14514809</id>
+        <url>http://www.ohloh.net/analyses/14514809.xml</url>
+        <project_id>3163</project_id>
+        <updated_at>2013-07-03T13:06:49Z</updated_at>
+        <logged_at>2013-07-03T13:00:54Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>31</twelve_month_contributor_count>
+        <total_code_lines>10771</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jinja/analyses/14514809/languages.png">
+          <language color="4A246B" percentage="94" id="9">
+Python          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

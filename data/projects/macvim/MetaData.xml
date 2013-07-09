@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>48715</id>
+      <name>macvim</name>
+      <url>http://www.ohloh.net/p/macvim.xml</url>
+      <html_url>http://www.ohloh.net/p/macvim</html_url>
+      <created_at>2008-12-16T08:16:09Z</created_at>
+      <updated_at>2013-07-08T05:19:09Z</updated_at>
+      <description>MacVim is a port of the text editor Vim to Mac OS X. 
+
+ 
+
+MacVim supports multiple windows with tabbed editing and a host of other features such as: 
+
+bindings to standard OS X keyboard shortcuts (&#8984;Z, &#8984;V, &#8984;A, &#8984;G, etc.), transparent backgrounds, full-screen mode, multibyte editing with OS X input methods and automatic font substitution, ODB editor support, and more.  Most importantly, MacVim brings you the full power of Vim 7.2 to Mac OS X. 
+
+Note: MacVim is in no way connected with http://macvim.org.  That site is no longer being maintained and only provides outdated binaries of the old Carbon port of Vim. 
+
+Snow LeopardMacVim now builds as 64 bit by default on Snow Leopard (10.6).  I simplified the build process as well, so check out the Building wiki page on how to build your own binary. 
+
+The stable build seems to run fine on Snow Leopard, but please consider using a snapshot instead as they are built specifically for Snow Leopard (the snapshot also runs on Leopard). 
+
+DownloadThere are two official binaries of MacVim to choose from: 
+
+Stable: The latest stable release is MacVim 7.2 stable 1.2 which was released on the 21st of August 2008.  It is a universal binary which runs on Mac OS X 10.4 and 10.5.  Mac OS X 10.6 (&quot;Snow Leopard&quot;) seems to work fine as well but I strongly suggest using the latest snapshot build on Snow Leopard. Snapshot: A new snapshot is released every month or so and contains several features and bug-fixes which have not yet been included in the stable build.  The latest version can be downloaded here. If the download fails for some reason then try using the download mirror. 
+
+You may also build your own version from the source code.  Please consider contributing to the MacVim project if you are able. 
+
+MacVim is distributed free as charityware (type :h license inside MacVim for details).  If you find MacVim a useful addition to your life please consider helping needy children in Uganda. 
+
+Getting startedThe book A Byte of Vim is freely available online and is suitable for newcomers as well as more experienced users of Vim.  Another freely available online book is Vim Recipies which serves as a cookbook where you can look up different ways to perform a specific task. 
+
+There are also several Vim tutorials available online, such as this Vim introduction and tutorial.  Once familiar with the basics you may benefit from using the following article on Efficient Editing With Vim as a quick reference.  Before diving into all that material, you may want to read the article &quot;Why use Vim?&quot; which dispels common misconceptions about Vim and also provides examples which illustrate some of its many features. 
+
+Vim comes bundled with a tutor which can be quite helpful to go through since it encourages you to experiment as you read. At the moment it requires some trickery to get going, but once there it should be easy to follow.  The tutor is a text file which needs to be copied to a folder where it can be modified.  To copy the tutor to your home folder, open MacVim and type (make sure you are in normal mode first by hitting Esc): 
+
+:!cp $VIMRUNTIME/tutor/tutor ~/then hit enter. This will place a file named tutor in your home folder.  Now, to start the tutor simply open that file in MacVim, e.g. by pressing &#8984;O to show the file open dialog and then browsing to the tutor file. 
+
+How to get helpThere is a fairly active mailing list called vim_mac where you can post questions about MacVim and request new features. Before posting a question, you should consult the FAQ, search the vim_mac archives, and consult the built-in Vim help by typing :h macvim inside MacVim. 
+
+Since the binary releases always are a couple of versions behind the source code it is also possible that any problems you encounter may already have been fixed.  Check the change log for the latest updates to the source code. 
+
+Help me!If you find a bug, then please file an Issue report but first make sure that it has not already been reported by searching for old Issues. Unless you are absolutely sure that you have really found a bug you should probably post a question on the vim_mac mailing list first. (Note that there are several people answering questions on the mailing list whereas there is only one of me responding to Issue reports.)</description>
+      <homepage_url>http://code.google.com/p/macvim</homepage_url>
+      <download_url></download_url>
+      <url_name>macvim</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25409/Sans_titre_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25409/Sans_titre_small.png</small_logo_url>
+      <user_count>32</user_count>
+      <average_rating>4.72727</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567282</analysis_id>
+      <tags>
+        <tag>mac</tag>
+        <tag>vim</tag>
+        <tag>cocoa</tag>
+        <tag>editor</tag>
+        <tag>osx</tag>
+        <tag>objective-c</tag>
+      </tags>
+      <analysis>
+        <id>14567282</id>
+        <url>http://www.ohloh.net/analyses/14567282.xml</url>
+        <project_id>48715</project_id>
+        <updated_at>2013-07-08T05:19:09Z</updated_at>
+        <logged_at>2013-07-08T02:53:57Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>531907</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/macvim/analyses/14567282/languages.png">
+          <language color="FF8F00" percentage="58" id="42">
+C          </language>
+          <language color="EEE" percentage="30" id="48">
+Vim Script          </language>
+          <language color="000000" percentage="12" id="">
+20 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

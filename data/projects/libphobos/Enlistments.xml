@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>244553</id>
+      <project_id>11020</project_id>
+      <repository_id>242145</repository_id>
+      <repository>
+        <id>242145</id>
+        <type>GitRepository</type>
+        <url>git://github.com/D-Programming-Language/phobos.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T07:26:22Z</logged_at>
+        <commits>5360</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>20860</id>
+      <project_id>11020</project_id>
+      <repository_id>20163</repository_id>
+      <repository>
+        <id>20163</id>
+        <type>SvnRepository</type>
+        <url>http://svn.dsource.org/projects/phobos/trunk/phobos</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T07:32:16Z</logged_at>
+        <commits>1470</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

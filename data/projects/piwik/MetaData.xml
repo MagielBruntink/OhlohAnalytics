@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10720</id>
+      <name>Piwik</name>
+      <url>http://www.ohloh.net/p/piwik.xml</url>
+      <html_url>http://www.ohloh.net/p/piwik</html_url>
+      <created_at>2008-01-03T23:28:52Z</created_at>
+      <updated_at>2013-07-03T12:12:48Z</updated_at>
+      <description>Piwik is an open source (GPL license) web analytics software. It gives interesting reports on your website visitors, your popular pages, the search engines keywords they used, the language they speak&#8230; and so much more.
+
+Piwik aims to be an open source alternative to Google Analytics.
+
+The software is used by more than 50,000 active users, is translated in 40+ languages and is actively growing. Check it out!</description>
+      <homepage_url>http://piwik.org</homepage_url>
+      <download_url>http://piwik.org/latest.zip</download_url>
+      <url_name>piwik</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57164/square_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57164/square_logo_small.png</small_logo_url>
+      <user_count>40</user_count>
+      <average_rating>4.58824</average_rating>
+      <rating_count>17</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514515</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>plugin</tag>
+        <tag>php</tag>
+        <tag>statistics</tag>
+        <tag>gpl</tag>
+        <tag>analysis</tag>
+        <tag>webanalytics</tag>
+        <tag>visitors</tag>
+        <tag>opensourcestat</tag>
+        <tag>web</tag>
+        <tag>analytics</tag>
+        <tag>log</tag>
+        <tag>stats</tag>
+        <tag>monitor</tag>
+      </tags>
+      <analysis>
+        <id>14514515</id>
+        <url>http://www.ohloh.net/analyses/14514515.xml</url>
+        <project_id>10720</project_id>
+        <updated_at>2013-07-03T12:12:47Z</updated_at>
+        <logged_at>2013-07-03T11:55:55Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>37</twelve_month_contributor_count>
+        <total_code_lines>374036</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/piwik/analyses/14514515/languages.png">
+          <language color="356AA0" percentage="48" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="27" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

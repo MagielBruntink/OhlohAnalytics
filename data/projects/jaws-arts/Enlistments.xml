@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>512431</id>
+      <project_id>13225</project_id>
+      <repository_id>513335</repository_id>
+      <repository>
+        <id>513335</id>
+        <type>GitRepository</type>
+        <url>git://github.com/jaws-project/themes.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T12:45:18Z</logged_at>
+        <commits>14</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>24146</id>
+      <project_id>13225</project_id>
+      <repository_id>23356</repository_id>
+      <repository>
+        <id>23356</id>
+        <type>SvnRepository</type>
+        <url>http://code.jaws-project.com/svn/jaws/art/themes</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T12:45:26Z</logged_at>
+        <commits>273</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

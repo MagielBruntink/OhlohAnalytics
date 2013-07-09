@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>216601</id>
+      <project_id>481125</project_id>
+      <repository_id>214598</repository_id>
+      <repository>
+        <id>214598</id>
+        <type>SvnSyncRepository</type>
+        <url>https://mw-enhanced.svn.sourceforge.net/svnroot/mw-enhanced/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-11-05T09:10:38Z</logged_at>
+        <commits>103</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>217511</id>
+      <project_id>481125</project_id>
+      <repository_id>215493</repository_id>
+      <repository>
+        <id>215493</id>
+        <type>HgRepository</type>
+        <url>https://trinity.mwenhanced.googlecode.com/hg/</url>
+        <username></username>
+        <password></password>
+        <logged_at></logged_at>
+        <commits>59</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

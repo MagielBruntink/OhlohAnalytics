@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483548</id>
+      <name>Flask</name>
+      <url>http://www.ohloh.net/p/flask.xml</url>
+      <html_url>http://www.ohloh.net/p/flask</html_url>
+      <created_at>2010-06-12T12:32:53Z</created_at>
+      <updated_at>2013-07-04T14:00:25Z</updated_at>
+      <description>Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It's BSD licensed!</description>
+      <homepage_url>http://flask.pocoo.org/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/Flask</download_url>
+      <url_name>flask</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34625/flask_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34625/flask_small.png</small_logo_url>
+      <user_count>42</user_count>
+      <average_rating>4.77778</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14527435</analysis_id>
+      <tags>
+        <tag>jinja2</tag>
+        <tag>microframework</tag>
+        <tag>framework</tag>
+        <tag>wsgi</tag>
+        <tag>python</tag>
+        <tag>werkzeug</tag>
+        <tag>web</tag>
+        <tag>lightweight</tag>
+      </tags>
+      <analysis>
+        <id>14527435</id>
+        <url>http://www.ohloh.net/analyses/14527435.xml</url>
+        <project_id>483548</project_id>
+        <updated_at>2013-07-04T14:00:25Z</updated_at>
+        <logged_at>2013-07-04T13:58:14Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>58</twelve_month_contributor_count>
+        <total_code_lines>8297</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flask/analyses/14527435/languages.png">
+          <language color="4A246B" percentage="90" id="9">
+Python          </language>
+          <language color="000000" percentage="10" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

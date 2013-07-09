@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5324</id>
+      <name>gkrellm</name>
+      <url>http://www.ohloh.net/p/gkrellm.xml</url>
+      <html_url>http://www.ohloh.net/p/gkrellm</html_url>
+      <created_at>2007-05-13T22:30:22Z</created_at>
+      <updated_at>2013-06-22T22:10:59Z</updated_at>
+      <description>GKrellM is a single process stack of system monitors which supports applying themes to match its appearance to your window manager, Gtk, or any other theme.</description>
+      <homepage_url>http://gkrellm.net</homepage_url>
+      <download_url></download_url>
+      <url_name>gkrellm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>45</user_count>
+      <average_rating>4.4375</average_rating>
+      <rating_count>16</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14347497</analysis_id>
+      <tags>
+        <tag>sysmon</tag>
+        <tag>monitoring</tag>
+      </tags>
+      <analysis>
+        <id>14347497</id>
+        <url>http://www.ohloh.net/analyses/14347497.xml</url>
+        <project_id>5324</project_id>
+        <updated_at>2013-07-03T23:57:48Z</updated_at>
+        <logged_at>2013-07-03T23:57:46Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>61435</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gkrellm/analyses/14347497/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

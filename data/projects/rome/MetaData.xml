@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>413</id>
+      <name>rome</name>
+      <url>http://www.ohloh.net/p/rome.xml</url>
+      <html_url>http://www.ohloh.net/p/rome</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-05-24T09:07:00Z</updated_at>
+      <description>Rome is a set of Atom/RSS Java utilities that make it easy to work in Java with most syndication formats. Today it accepts all flavors of RSS (0.90, 0.91, 0.92, 0.93, 0.94, 1.0 and 2.0) and Atom 0.3 feeds. Rome includes a set of parsers and generators for the various flavors of feeds, as well as converters to convert from one format to another. The parsers can give you back Java objects that are either specific for the format you want to work with, or a generic normalized SyndFeed object that lets you work on with the data without bothering about the underlying format.</description>
+      <homepage_url>https://www.rometools.org</homepage_url>
+      <download_url></download_url>
+      <url_name>rome</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52710/global.logo_med.jpeg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52710/global.logo_small.jpeg</small_logo_url>
+      <user_count>38</user_count>
+      <average_rating>4.18182</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1759415</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>atom</tag>
+        <tag>web</tag>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>blog</tag>
+        <tag>feeds</tag>
+        <tag>tools</tag>
+        <tag>syndication</tag>
+        <tag>java</tag>
+        <tag>feed</tag>
+        <tag>parser</tag>
+        <tag>rss</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>1759415</id>
+        <url>http://www.ohloh.net/analyses/1759415.xml</url>
+        <project_id>413</project_id>
+        <updated_at>2011-03-09T14:35:27Z</updated_at>
+        <logged_at>2011-03-02T08:36:58Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1132702</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rome/analyses/1759415/languages.png">
+          <language color="47A400" percentage="90" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

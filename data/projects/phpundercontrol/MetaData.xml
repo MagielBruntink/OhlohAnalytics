@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9758</id>
+      <name>phpUnderControl</name>
+      <url>http://www.ohloh.net/p/phpundercontrol.xml</url>
+      <html_url>http://www.ohloh.net/p/phpundercontrol</html_url>
+      <created_at>2007-11-19T10:26:16Z</created_at>
+      <updated_at>2013-07-07T17:35:59Z</updated_at>
+      <description>phpUnderControl aims to make the first steps with CruiseControl and PHP as easy as possible. It integrates three of the best PHP development tools into CruiseControl, combined with an easy setup routine and a small example project. With the provided XSL stylesheets, the generated output of PHPUnit, PHPMD, PHPCPD, PHP_CodeSniffer and phpDocumentor can be visualized in CruiseControl.</description>
+      <homepage_url>http://phpundercontrol.org/</homepage_url>
+      <download_url>http://github.com/phpundercontrol/phpUnderControl/zipball/0.6.0</download_url>
+      <url_name>phpundercontrol</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4173/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4173/logo_small.png</small_logo_url>
+      <user_count>34</user_count>
+      <average_rating>4.14286</average_rating>
+      <rating_count>14</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7289476</analysis_id>
+      <tags>
+        <tag>build_tools</tag>
+        <tag>unit-testing</tag>
+        <tag>phpunit</tag>
+        <tag>build</tag>
+        <tag>deployment</tag>
+        <tag>cruisecontrol</tag>
+        <tag>ant</tag>
+        <tag>php</tag>
+        <tag>agile</tag>
+        <tag>testing</tag>
+        <tag>automation</tag>
+        <tag>scm</tag>
+        <tag>continuous_integration</tag>
+      </tags>
+      <analysis>
+        <id>7289476</id>
+        <url>http://www.ohloh.net/analyses/7289476.xml</url>
+        <project_id>9758</project_id>
+        <updated_at>2012-03-24T14:44:24Z</updated_at>
+        <logged_at>2012-03-24T14:43:33Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>137884</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phpundercontrol/analyses/7289476/languages.png">
+          <language color="356AA0" percentage="40" id="2">
+PHP          </language>
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="14" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

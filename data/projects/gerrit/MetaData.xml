@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>309007</id>
+      <name>Gerrit Code Review</name>
+      <url>http://www.ohloh.net/p/gerrit.xml</url>
+      <html_url>http://www.ohloh.net/p/gerrit</html_url>
+      <created_at>2009-02-01T03:09:34Z</created_at>
+      <updated_at>2013-06-27T17:30:23Z</updated_at>
+      <description>Web based code review and project management for Git based projects.
+
+Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system.
+
+Gerrit makes reviews easier by showing changes in a side-by-side display, and allowing inline comments to be added by any reviewer.
+
+Gerrit simplifies Git based project maintainership by permitting any authorized user to submit changes to the master Git repository, rather than requiring all approved changes to be merged in by hand by the project maintainer. This functionality enables a more centralized usage of Git.</description>
+      <homepage_url>http://code.google.com/p/gerrit</homepage_url>
+      <download_url>http://code.google.com/p/gerrit/downloads/list</download_url>
+      <url_name>gerrit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>44</user_count>
+      <average_rating>4.73333</average_rating>
+      <rating_count>15</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14434699</analysis_id>
+      <tags>
+        <tag>scm</tag>
+        <tag>version_control</tag>
+        <tag>codereview</tag>
+        <tag>java</tag>
+        <tag>collaboration</tag>
+        <tag>git</tag>
+        <tag>development</tag>
+        <tag>code_review</tag>
+      </tags>
+      <analysis>
+        <id>14434699</id>
+        <url>http://www.ohloh.net/analyses/14434699.xml</url>
+        <project_id>309007</project_id>
+        <updated_at>2013-06-27T17:30:23Z</updated_at>
+        <logged_at>2013-06-27T17:20:18Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>76</twelve_month_contributor_count>
+        <total_code_lines>136611</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gerrit/analyses/14434699/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

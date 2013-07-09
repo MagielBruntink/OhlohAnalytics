@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>467507</id>
+      <project_id>8653</project_id>
+      <repository_id>464283</repository_id>
+      <repository>
+        <id>464283</id>
+        <type>GitRepository</type>
+        <url>git://github.com/ldc-developers/ldc</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-02T09:56:33Z</logged_at>
+        <commits>3158</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>222981</id>
+      <project_id>8653</project_id>
+      <repository_id>220823</repository_id>
+      <repository>
+        <id>220823</id>
+        <type>HgRepository</type>
+        <url>http://bitbucket.org/lindquist/ldc</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-01T10:02:02Z</logged_at>
+        <commits>1997</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

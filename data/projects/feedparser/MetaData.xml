@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>441</id>
+      <name>feedparser</name>
+      <url>http://www.ohloh.net/p/feedparser.xml</url>
+      <html_url>http://www.ohloh.net/p/feedparser</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-07T18:26:24Z</updated_at>
+      <description>Parse RSS and Atom feeds in Python</description>
+      <homepage_url>http://code.google.com/p/feedparser/</homepage_url>
+      <download_url>http://code.google.com/p/feedparser/downloads/list</download_url>
+      <url_name>feedparser</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>23</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14228067</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>feed</tag>
+        <tag>interoperability</tag>
+        <tag>library</tag>
+        <tag>parser</tag>
+        <tag>atom</tag>
+        <tag>rss</tag>
+        <tag>python</tag>
+        <tag>rdf</tag>
+        <tag>syndication</tag>
+        <tag>feeds</tag>
+      </tags>
+      <analysis>
+        <id>14228067</id>
+        <url>http://www.ohloh.net/analyses/14228067.xml</url>
+        <project_id>441</project_id>
+        <updated_at>2013-07-05T10:09:54Z</updated_at>
+        <logged_at>2013-07-05T10:09:43Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>16857</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/feedparser/analyses/14228067/languages.png">
+          <language color="555555" percentage="76" id="3">
+XML          </language>
+          <language color="4A246B" percentage="24" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="&lt;1" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
