@@ -9,14 +9,16 @@ private str separator = "   ";
 private str extension = ".txt";
 
 
-public void logToConsole(str identification, str message) {
-	println(toString(now()) + separator + identification + separator + message); 
+public bool logToConsole(str identification, str message) {
+	println(toString(now()) + separator + identification + separator + message);
+	return true; 
 }
 
 public loc openLogFile(str name) {
 	return LogsDirectory + (printDateTime(now(),"YYYYMMdd-HHmm") + "-" + name + extension);
 }
 
-public void logToFile(loc logFile, str identification, str message) {
+public bool logToFile(loc logFile, str identification, str message) {
 	appendToFile(logFile, toString(now()) + separator + identification + separator + message + "\n");
+	return true;
 }

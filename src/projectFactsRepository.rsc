@@ -12,6 +12,7 @@ private str EnlistmentsFileName = "Enlistments.xml";
 private str SizeFactsFileName = "SizeFacts.xml";
 private str ActivityFactsFileName = "ActivityFacts.xml";
 
+private str RepositoryTypeSVN = "SvnRepository";
 
 public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
@@ -21,6 +22,7 @@ public list[str] getProjectNamesOnList() {
 	return readFileLines(ProjectNamesListFile);
 }
 
+alias repositoriesRel = rel[str projectName, str repositoryType, str repositoryURL];
 
 alias factsKey = tuple[str projectName, str year, str month];
 
@@ -58,6 +60,8 @@ public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
      			loc_total_fact(toInt(loc_total_str))
      		 } |
                    str projectName <- projectNames,
+                   !(true := hasInvalidSVNRepositories(projectName) &&
+                     logToConsole("mergeFactsForProjects", "WARNING project excluded because its SVN repositories can include tags or branches: <projectName>.")),
                    activityFactsMap activityFacts := getActivityFacts(projectName),
                    sizeFactsMap sizeFacts := getSizeFacts(projectName),
                    str key <- activityFacts,
@@ -69,6 +73,63 @@ public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
 
 public monthlyFactsMap mergeFactsForAllProjects () { 
 	return mergeFactsForProjects(getProjectNamesInRepository());
+}
+
+public repositoriesRel getRepositoryFactsForProjects(list[str] projectNames) {
+	return {
+		<projectName, repositoryType, repositoryURL> |
+		projectName <- projectNames,
+		<projectName,repositoryType,repositoryURL> <- getRepositoryFacts(projectName)
+	};
+}
+
+public repositoriesRel findInvalidSVNRepositories(repositoriesRel repositoryFacts) {
+	return {
+		<projectName, repositoryType, repositoryURL> |
+		<str projectName, str repositoryType, str repositoryURL> <- repositoryFacts,
+		repositoryType := RepositoryTypeSVN,
+		!(
+		 /.*\/trunk\/?/i      := repositoryURL ||
+		 /.*\/head\/?/i       := repositoryURL ||
+		 /.*\/sandbox\/?/i    := repositoryURL ||
+		 /.*\/site\/?/i       := repositoryURL ||
+		 /.*\/branches\/\w+/i := repositoryURL ||
+		 /.*\/tags\/\w+/i     := repositoryURL
+		)
+	};
+}
+
+public repositoriesRel findAllInvalidSVNRepositories() {
+	return findInvalidSVNRepositories(
+	         getRepositoryFactsForProjects(
+	           getProjectNamesInRepository()));
+}
+
+public bool hasInvalidSVNRepositories(str projectName) {
+	return size(findInvalidSVNRepositories(
+		          getRepositoryFactsForProjects([projectName])))
+		   > 0;
+}
+
+public repositoriesRel getRepositoryFacts(str projectName) {	   
+	result = {};
+	try
+		top-down visit(getProjectEnlistmentsDOM(projectName)) {
+			case element(_,"repository",
+					[
+					 _,
+					 element(_,"type",[charData(str repositoryType)]),
+					 element(_,"url",[charData(str repositoryURL)]),
+					 Node*
+					]):
+			{
+	             result += <projectName,
+				 			repositoryType,
+				 			repositoryURL>;
+			}
+		}
+	catch: logToConsole("getRepositoryFacts", "WARNING error while getting repository facts for project: <projectName>.");
+	return result;
 }
 
 @doc{
@@ -104,7 +165,7 @@ public activityFactsMap getActivityFacts(str projectName)
 				 			 ContributorsAsString>);
 	        }
 		}
-	catch: logToConsole("getActivityFacts", "WARNING error while getting activity facts for project <projectName>.");
+	catch: logToConsole("getActivityFacts", "WARNING error while getting activity facts for project: <projectName>.");
 	return result;
 }
 
@@ -134,7 +195,7 @@ public sizeFactsMap getSizeFacts(str projectName) {
 				 			LOCTotalAsString>);
 			}
 		}
-	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project <projectName>.");
+	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project: <projectName>.");
 	return validateAndFilterSizeFacts(result);
 }
 
@@ -142,7 +203,7 @@ private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFact
 	return (key : <projectName, year, month, loc_total> |
 		str key <- unfilteredSizeFacts,
 		<str projectName, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
-		toInt(loc_total) >= 0
+		!(toInt(loc_total) < 0 && logToConsole("validateAndFilterSizeFacts", "WARNING data excluded because lines of code count is below 0 for project: <projectName> in year/month: <year>/<month>"))
 	);
 }
 
@@ -165,7 +226,7 @@ public void addSizeFactsToRepository(str sizeFactsXML, str projectName) {
 
 private void addXMLFileToRepository(str XML, str projectName, str fileName) {
 	loc file = LocalOhlohProjectsRepository + "projects" + projectName + fileName;
-	if (!validateXML(XML)) throw "addXMLFileToRepository: Validation of XML contents failed while adding <fileName> for project <projectName>";
+	if (!validateXML(XML)) throw "addXMLFileToRepository: Validation of XML contents failed while adding <fileName> for project: <projectName>";
 	else writeFile(file, XML);
 }
 
@@ -196,6 +257,10 @@ public Node getProjectMetaDataDOM(str projectName) {
 	return getXMLContentsDOM(projectName, MetaDataFileName);
 }
 
+public Node getProjectEnlistmentsDOM(str projectName) {
+	return getXMLContentsDOM(projectName, EnlistmentsFileName);
+}
+
 private Node getActivityFactsDOM(str projectName) {
 	return getXMLContentsDOM(projectName, ActivityFactsFileName);
 }
@@ -207,7 +272,7 @@ private Node getSizeFactsDOM(str projectName) {
 private Node getXMLContentsDOM(str projectName, str fileName) {
 	loc file = LocalOhlohProjectsRepository + "projects" + projectName + fileName;
 	str XML = readFile(file);
-	if (!validateXML(XML)) throw "getXMLContentsDOM: Validation of XML contents failed while reading <fileName> for project <projectName>";
+	if (!validateXML(XML)) throw "getXMLContentsDOM: Validation of XML contents failed while reading <fileName> for project: <projectName>";
 	XMLContentsDOM = parseXMLDOMTrim(XML);
 	return XMLContentsDOM;
 }
