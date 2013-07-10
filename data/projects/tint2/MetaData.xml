@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>24553</id>
+      <name>tint2</name>
+      <url>http://www.ohloh.net/p/tint2.xml</url>
+      <html_url>http://www.ohloh.net/p/tint2</html_url>
+      <created_at>2008-10-07T16:33:58Z</created_at>
+      <updated_at>2013-07-07T18:06:12Z</updated_at>
+      <description>tint2 is a simple panel/taskbar unintrusive and light (memory / cpu / aestetic). We try to get 'virtual desktop' and 'multi-monitor' easier to use. We follow freedesktop specifications.  
+
+0.9 featurespanel with taskbar, systray, clock and battery status easy to customize : color/transparency on font, icon, border and background pager like capability : send task from one workspace to another, switch workspace multi-monitor capability : one panel per monitor, show task from current monitor customize mouse event window manager's menu tooltip autohide clock timezones fake &amp; real transparency Other projectLightweight calendar http://code.google.com/p/gsimplecal/ Graphical config tool http://code.google.com/p/tintwizard/ Command line theme switcher http://github.com/dbbolton/scripts/blob/master/tint2theme Snapshot</description>
+      <homepage_url>http://code.google.com/p/tint2</homepage_url>
+      <download_url></download_url>
+      <url_name>tint2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14563367</analysis_id>
+      <tags>
+        <tag>panel</tag>
+        <tag>pager</tag>
+        <tag>tint2</tag>
+        <tag>lightweight</tag>
+        <tag>taskbar</tag>
+        <tag>desktop</tag>
+        <tag>openbox</tag>
+      </tags>
+      <analysis>
+        <id>14563367</id>
+        <url>http://www.ohloh.net/analyses/14563367.xml</url>
+        <project_id>24553</project_id>
+        <updated_at>2013-07-07T18:06:12Z</updated_at>
+        <logged_at>2013-07-07T18:02:14Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12293</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tint2/analyses/14563367/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="4A246B" percentage="12" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

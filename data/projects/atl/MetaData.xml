@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5644</id>
+      <name>ATL</name>
+      <url>http://www.ohloh.net/p/atl.xml</url>
+      <html_url>http://www.ohloh.net/p/atl</html_url>
+      <created_at>2007-05-29T14:13:24Z</created_at>
+      <updated_at>2013-07-09T15:14:05Z</updated_at>
+      <description>ATL (Atlas Transformation Language) is a model transformation language and toolkit. In the field of Model-Driven Engineering (MDE), ATL provides ways to produce a set of target models from a set of source models. Developed on top of the Eclipse platform, the ATL Integrated Development Environment (IDE) provides a number of standard development tools (syntax highlighting, debugger, etc.) that aim to ease the development of ATL transformations.</description>
+      <homepage_url>http://www.eclipse.org/m2m/atl/</homepage_url>
+      <download_url>http://www.eclipse.org/modeling/m2m/downloads/index.php?project=atl</download_url>
+      <url_name>atl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32906/atl_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32906/atl_small.png</small_logo_url>
+      <user_count>17</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14573634</analysis_id>
+      <tags>
+        <tag>emftvm</tag>
+        <tag>metamodel</tag>
+        <tag>emf</tag>
+        <tag>modeling</tag>
+        <tag>transformation</tag>
+        <tag>mda</tag>
+        <tag>model</tag>
+        <tag>toolkit</tag>
+        <tag>mde</tag>
+        <tag>qvt</tag>
+        <tag>eclipse</tag>
+        <tag>m2m</tag>
+        <tag>ocl</tag>
+      </tags>
+      <analysis>
+        <id>14573634</id>
+        <url>http://www.ohloh.net/analyses/14573634.xml</url>
+        <project_id>5644</project_id>
+        <updated_at>2013-07-09T15:14:04Z</updated_at>
+        <logged_at>2013-07-09T15:13:42Z</logged_at>
+        <min_month>2004-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>925724</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/atl/analyses/14573634/languages.png">
+          <language color="333333" percentage="46" id="19">
+Assembly          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="000000" percentage="11" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>19</main_language_id>
+        <main_language_name>Assembly</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

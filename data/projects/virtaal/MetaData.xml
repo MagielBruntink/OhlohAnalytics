@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13174</id>
+      <name>Virtaal</name>
+      <url>http://www.ohloh.net/p/virtaal.xml</url>
+      <html_url>http://www.ohloh.net/p/virtaal</html_url>
+      <created_at>2008-04-05T18:39:01Z</created_at>
+      <updated_at>2013-07-09T21:48:02Z</updated_at>
+      <description>Virtaal is a localization and translation tool, also called a CAT tool.  It builds on the Translate Toolkit to offer translators a rich translation experience.
+
+It support the editing of the following translation formats: XLIFF, Gettext PO, Qt Linguist, Gettext MO, Wordfast TM and others.
+
+Its simple interface design focuses on removing the clutter associated with most localisation tools and allowing the translator to focus on task at hand with the information they need to complete the current task.</description>
+      <homepage_url>http://translate.sourceforge.net/wiki/virtaal/index</homepage_url>
+      <download_url></download_url>
+      <url_name>virtaal</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10867/virtaal_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10867/virtaal_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14488073</analysis_id>
+      <tags>
+        <tag>xliff</tag>
+        <tag>python</tag>
+        <tag>l10n</tag>
+        <tag>wordfast</tag>
+        <tag>localization</tag>
+        <tag>translation</tag>
+        <tag>ts</tag>
+        <tag>gettext</tag>
+        <tag>po</tag>
+        <tag>translator</tag>
+        <tag>language</tag>
+        <tag>internationalization</tag>
+        <tag>editor</tag>
+        <tag>tmx</tag>
+      </tags>
+      <analysis>
+        <id>14488073</id>
+        <url>http://www.ohloh.net/analyses/14488073.xml</url>
+        <project_id>13174</project_id>
+        <updated_at>2013-06-30T22:24:29Z</updated_at>
+        <logged_at>2013-06-30T22:24:05Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>22730</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/virtaal/analyses/14488073/languages.png">
+          <language color="4A246B" percentage="67" id="9">
+Python          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

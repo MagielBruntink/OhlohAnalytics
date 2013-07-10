@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3877</id>
+      <name>OpenACS</name>
+      <url>http://www.ohloh.net/p/openacs.xml</url>
+      <html_url>http://www.ohloh.net/p/openacs</html_url>
+      <created_at>2006-12-24T00:57:42Z</created_at>
+      <updated_at>2013-07-06T14:51:46Z</updated_at>
+      <description>OpenACS (Open Architecture Community System) is a toolkit for building scalable, community-oriented web applications.
+
+OpenACS is the foundation for many products and websites, including the .LRN e-learning platform.
+
+OpenACS is open source and is available under the GNU General Public License.</description>
+      <homepage_url>http://openacs.org</homepage_url>
+      <download_url>http://openacs.org/projects/openacs/download/</download_url>
+      <url_name>openacs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13646/openacs_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13646/openacs_small.gif</small_logo_url>
+      <user_count>16</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551300</analysis_id>
+      <tags>
+        <tag>openacs</tag>
+        <tag>framework</tag>
+        <tag>aolserver</tag>
+        <tag>postgresql</tag>
+        <tag>naviserver</tag>
+        <tag>xotcl</tag>
+        <tag>cms</tag>
+        <tag>tcl</tag>
+        <tag>tdom</tag>
+        <tag>web</tag>
+        <tag>toolkit</tag>
+        <tag>wiki</tag>
+        <tag>oracle</tag>
+        <tag>dotlrn</tag>
+      </tags>
+      <analysis>
+        <id>14551300</id>
+        <url>http://www.ohloh.net/analyses/14551300.xml</url>
+        <project_id>3877</project_id>
+        <updated_at>2013-07-06T14:51:46Z</updated_at>
+        <logged_at>2013-07-06T14:42:53Z</logged_at>
+        <min_month>2001-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>2734416</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openacs/analyses/14551300/languages.png">
+          <language color="D290A8" percentage="24" id="25">
+Tcl          </language>
+          <language color="A4007E" percentage="23" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="32" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>25</main_language_id>
+        <main_language_name>Tcl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

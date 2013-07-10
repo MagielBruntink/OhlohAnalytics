@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10905</id>
+      <name>FreeCAD</name>
+      <url>http://www.ohloh.net/p/freecad.xml</url>
+      <html_url>http://www.ohloh.net/p/freecad</html_url>
+      <created_at>2008-01-13T17:07:22Z</created_at>
+      <updated_at>2013-07-09T21:48:17Z</updated_at>
+      <description>FreeCAD will be a general purpose 3D CAD modeller. The development will be completely Open Source. As modern 3D CAX modellers it will have a 2D component to extract design drawings from the 3D model, but 2D (like AutoCAD) is not the focus, neither are animation and organic shapes (Maya, 3D StudioMAX, Cinema 4D). FreeCAD will aim directly to mechanical engineering, product design and related features (like CatiaV4 and V5, and SolidWorks). It will be a feature based parametric modeler.</description>
+      <homepage_url>http://www.freecadweb.org</homepage_url>
+      <download_url>http://sourceforge.net/projects/free-cad/files/</download_url>
+      <url_name>freecad</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32993/FreeCAD05_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32993/FreeCAD05_small.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14539286</analysis_id>
+      <tags>
+        <tag>geometry</tag>
+        <tag>opencascade</tag>
+        <tag>solid_modeling</tag>
+        <tag>cae</tag>
+        <tag>cad</tag>
+        <tag>3d</tag>
+        <tag>parametric</tag>
+        <tag>python</tag>
+        <tag>2d</tag>
+        <tag>modeler</tag>
+        <tag>3d_modeling</tag>
+        <tag>brep</tag>
+      </tags>
+      <analysis>
+        <id>14539286</id>
+        <url>http://www.ohloh.net/analyses/14539286.xml</url>
+        <project_id>10905</project_id>
+        <updated_at>2013-07-05T17:45:42Z</updated_at>
+        <logged_at>2013-07-05T17:33:58Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>1962715</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freecad/analyses/14539286/languages.png">
+          <language color="F35F1F" percentage="58" id="44">
+C++          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="4A246B" percentage="12" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

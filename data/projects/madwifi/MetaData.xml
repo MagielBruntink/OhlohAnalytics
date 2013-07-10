@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7748</id>
+      <name>MadWifi</name>
+      <url>http://www.ohloh.net/p/madwifi.xml</url>
+      <html_url>http://www.ohloh.net/p/madwifi</html_url>
+      <created_at>2007-08-15T15:31:44Z</created_at>
+      <updated_at>2013-06-14T06:07:43Z</updated_at>
+      <description>MadWifi is a Linux driver for IEEE 802.11 Wireless LAN devices that are based on chipsets from Atheros. It supports all relevant modes of operation (client, Access Point, 802.11 IBSS aka ad-hoc, ahdemo, WDS, monitor), state-of-the-art encryption (WPA, WPA2, 802.1x), Multi-SSID operation, and more.
+
+Older versions of the driver depend on a binary Hardware Abstraction Layer (HAL). Meanwhile, the source for the HAL has been released under a permissive license and is now included in the MadWifi source.
+
+Development of MadWifi has more or less ceased, the driver is superseded by ath5k and ath9k (which are part of the Linux kernel).</description>
+      <homepage_url>http://madwifi-project.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=82936&amp;package_id=85233</download_url>
+      <url_name>madwifi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37988/madwifi-icon-ohloh-20101006_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37988/madwifi-icon-ohloh-20101006_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.16667</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14255584</analysis_id>
+      <tags>
+        <tag>wireless</tag>
+        <tag>wlan</tag>
+        <tag>networking</tag>
+        <tag>wi-fi</tag>
+        <tag>11g</tag>
+        <tag>drivers</tag>
+        <tag>kernel_module</tag>
+        <tag>driver</tag>
+        <tag>11b</tag>
+        <tag>wifi</tag>
+        <tag>network</tag>
+        <tag>atheros</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14255584</id>
+        <url>http://www.ohloh.net/analyses/14255584.xml</url>
+        <project_id>7748</project_id>
+        <updated_at>2013-07-06T12:29:30Z</updated_at>
+        <logged_at>2013-07-06T12:25:22Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>114383</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/madwifi/analyses/14255584/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

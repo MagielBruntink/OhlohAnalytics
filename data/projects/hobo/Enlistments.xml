@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>75127</id>
+      <project_id>5370</project_id>
+      <repository_id>73605</repository_id>
+      <repository>
+        <id>73605</id>
+        <type>GitRepository</type>
+        <url>git://github.com/tablatom/hobo.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T19:59:03Z</logged_at>
+        <commits>4889</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>534076</id>
+      <project_id>5370</project_id>
+      <repository_id>536459</repository_id>
+      <repository>
+        <id>536459</id>
+        <type>GitRepository</type>
+        <url>https://github.com/Hobo/hobo.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T20:08:28Z</logged_at>
+        <commits>4899</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>102910</id>
+      <project_id>218700</project_id>
+      <repository_id>101259</repository_id>
+      <repository>
+        <id>101259</id>
+        <type>SvnRepository</type>
+        <url>http://anonsvn.jboss.org/repos/railo/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-02-18T03:06:39Z</logged_at>
+        <commits>90</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>237978</id>
+      <project_id>218700</project_id>
+      <repository_id>235732</repository_id>
+      <repository>
+        <id>235732</id>
+        <type>GitRepository</type>
+        <url>http://github.com/getrailo/railo.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-02-15T11:06:13Z</logged_at>
+        <commits>1582</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

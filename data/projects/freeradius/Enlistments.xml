@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>505724</id>
+      <project_id>4229</project_id>
+      <repository_id>506697</repository_id>
+      <repository>
+        <id>506697</id>
+        <type>GitRepository</type>
+        <url>git://github.com/FreeRADIUS/freeradius-server.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T16:37:24Z</logged_at>
+        <commits>13207</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>505723</id>
+      <project_id>4229</project_id>
+      <repository_id>506696</repository_id>
+      <repository>
+        <id>506696</id>
+        <type>GitRepository</type>
+        <url>git://github.com/FreeRADIUS/mod_auth_radius.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T16:37:16Z</logged_at>
+        <commits>61</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

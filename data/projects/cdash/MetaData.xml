@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12782</id>
+      <name>CDash</name>
+      <url>http://www.ohloh.net/p/cdash.xml</url>
+      <html_url>http://www.ohloh.net/p/cdash</html_url>
+      <created_at>2008-03-16T04:28:49Z</created_at>
+      <updated_at>2013-07-02T11:53:39Z</updated_at>
+      <description>CDash is an open source, web-based software testing server. CDash aggregates, analyzes and displays the results of software testing processes submitted from clients located around the world. Developers depend on CDash to convey the state of a software system, and to continually improve its quality. CDash is a part of a larger software process that integrates Kitware's CMake, CTest, and CPack tools, as well as other external packages used to design, manage and maintain large-scale software systems.</description>
+      <homepage_url>http://cdash.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>cdash</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/507/CDash64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/507/CDash64x64_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14502486</analysis_id>
+      <tags>
+        <tag>ctest</tag>
+        <tag>testing</tag>
+        <tag>automatic</tag>
+        <tag>dashboard</tag>
+        <tag>php</tag>
+        <tag>continuousintegration</tag>
+        <tag>cmake</tag>
+        <tag>c++</tag>
+        <tag>quality</tag>
+        <tag>continuous-integration</tag>
+        <tag>web</tag>
+        <tag>build</tag>
+        <tag>unit-testing</tag>
+        <tag>cplusplus</tag>
+        <tag>integration</tag>
+      </tags>
+      <analysis>
+        <id>14502486</id>
+        <url>http://www.ohloh.net/analyses/14502486.xml</url>
+        <project_id>12782</project_id>
+        <updated_at>2013-07-02T11:53:38Z</updated_at>
+        <logged_at>2013-07-02T11:49:35Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>231770</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cdash/analyses/14502486/languages.png">
+          <language color="555555" percentage="67" id="3">
+XML          </language>
+          <language color="356AA0" percentage="21" id="2">
+PHP          </language>
+          <language color="556655" percentage="5" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

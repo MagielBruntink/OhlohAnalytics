@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>18854</id>
+      <name>django-rosetta</name>
+      <url>http://www.ohloh.net/p/django-rosetta.xml</url>
+      <html_url>http://www.ohloh.net/p/django-rosetta</html_url>
+      <created_at>2008-10-07T11:56:26Z</created_at>
+      <updated_at>2013-06-14T18:43:25Z</updated_at>
+      <description>RosettaAboutRosetta is a Django application that eases the translation process of your Django projects. 
+
+Because it doesn't export any models, Rosetta doesn't create any tables in your project's database. Rosetta can be installed and uninstalled by simply adding and removing a single entry in your project's INSTALLED_APPS and a single line in your main urls.py file.  
+
+FeaturesDatabase independent  Reads and writes your project's gettext catalogs (po and mo files) Installed and uninstalled in under a minute Uses Django's admin interface CSS Translation suggestions via Google AJAX Language API InstallationTo install Rosetta: 
+
+Download the application and place the rosetta folder anywhere in your Python path (your project directory is fine, but anywhere else in your python path will do), o</description>
+      <homepage_url>https://github.com/mbi/django-rosetta</homepage_url>
+      <download_url></download_url>
+      <url_name>django-rosetta</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14259836</analysis_id>
+      <tags>
+        <tag>django</tag>
+        <tag>gettext</tag>
+        <tag>l10n</tag>
+        <tag>python</tag>
+        <tag>rosetta</tag>
+        <tag>internationalization</tag>
+        <tag>i18n</tag>
+        <tag>po</tag>
+      </tags>
+      <analysis>
+        <id>14259836</id>
+        <url>http://www.ohloh.net/analyses/14259836.xml</url>
+        <project_id>18854</project_id>
+        <updated_at>2013-07-07T21:37:37Z</updated_at>
+        <logged_at>2013-07-07T21:37:34Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1887</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-rosetta/analyses/14259836/languages.png">
+          <language color="4A246B" percentage="83" id="9">
+Python          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

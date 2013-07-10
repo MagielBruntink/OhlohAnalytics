@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9577</id>
+      <name>Mozilla Prism</name>
+      <url>http://www.ohloh.net/p/prism.xml</url>
+      <html_url>http://www.ohloh.net/p/prism</html_url>
+      <created_at>2007-11-08T05:44:26Z</created_at>
+      <updated_at>2013-07-06T01:08:15Z</updated_at>
+      <description>Prism is an experiment in desktop enabling web applications. Prism is a multi-component project consisting of a web application hosting environment (formerly called WebRunner) and a Firefox extension that allows users to convert a web application to a desktop enabled application.</description>
+      <homepage_url>http://wiki.mozilla.org/Prism</homepage_url>
+      <download_url>http://wiki.mozilla.org/Prism</download_url>
+      <url_name>prism</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3579/prism_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3579/prism_logo_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>3.71429</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14544460</analysis_id>
+      <analysis>
+        <id>14544460</id>
+        <url>http://www.ohloh.net/analyses/14544460.xml</url>
+        <project_id>9577</project_id>
+        <updated_at>2013-07-06T01:08:15Z</updated_at>
+        <logged_at>2013-07-06T01:04:35Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17696</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/prism/analyses/14544460/languages.png">
+          <language color="F35F1F" percentage="27" id="44">
+C++          </language>
+          <language color="9A63AD" percentage="21" id="5">
+Java          </language>
+          <language color="A4007E" percentage="21" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="31" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1</name>
+          <nice_name>Mozilla Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

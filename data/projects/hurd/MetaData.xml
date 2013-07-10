@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5272</id>
+      <name>GNU Hurd</name>
+      <url>http://www.ohloh.net/p/hurd.xml</url>
+      <html_url>http://www.ohloh.net/p/hurd</html_url>
+      <created_at>2007-05-11T18:29:50Z</created_at>
+      <updated_at>2013-07-05T18:40:56Z</updated_at>
+      <description>The GNU Hurd is the GNU project's replacement for the Unix kernel. The Hurd is a collection of servers that run on the Mach microkernel to implement file systems, network protocols, file access control, and other features that are implemented by the Unix kernel or similar kernels (such as Linux).</description>
+      <homepage_url>http://www.gnu.org/software/hurd/hurd.html</homepage_url>
+      <download_url></download_url>
+      <url_name>hurd</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16150/gnu-hurd-boxes-redrawn_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16150/gnu-hurd-boxes-redrawn_small.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.3</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14539684</analysis_id>
+      <tags>
+        <tag>posix</tag>
+        <tag>symmetric_multi-processing</tag>
+        <tag>microkernel</tag>
+        <tag>operating_system_kernels</tag>
+        <tag>multiserver</tag>
+      </tags>
+      <analysis>
+        <id>14539684</id>
+        <url>http://www.ohloh.net/analyses/14539684.xml</url>
+        <project_id>5272</project_id>
+        <updated_at>2013-07-05T18:40:55Z</updated_at>
+        <logged_at>2013-07-05T18:05:37Z</logged_at>
+        <min_month>1991-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>2177760</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hurd/analyses/14539684/languages.png">
+          <language color="FF8F00" percentage="93" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

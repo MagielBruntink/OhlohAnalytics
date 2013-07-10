@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>303</id>
+      <name>QCad</name>
+      <url>http://www.ohloh.net/p/qcad.xml</url>
+      <html_url>http://www.ohloh.net/p/qcad</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-19T12:17:52Z</updated_at>
+      <description>QCad is an application for computer aided drafting in two dimensions (2d). With QCad you can create technical drawings such as plans for buildings, interiors, mechanical parts or schemas and diagrams. QCad works on Windows, Mac OS X and many Linux and Unix Systems.</description>
+      <homepage_url>http://www.qcad.org</homepage_url>
+      <download_url>http://www.qcad.org/en/qcad-downloads-trial</download_url>
+      <url_name>qcad</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65834/0afc820c6e211aaa477b31dcc8c09553_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65834/0afc820c6e211aaa477b31dcc8c09553_small.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14307140</analysis_id>
+      <tags>
+        <tag>geometry</tag>
+        <tag>drawing</tag>
+        <tag>testing</tag>
+        <tag>quality_assurance</tag>
+        <tag>xml</tag>
+        <tag>cad</tag>
+        <tag>2d</tag>
+        <tag>computer_aided_design</tag>
+      </tags>
+      <analysis>
+        <id>14307140</id>
+        <url>http://www.ohloh.net/analyses/14307140.xml</url>
+        <project_id>303</project_id>
+        <updated_at>2013-06-19T12:17:52Z</updated_at>
+        <logged_at>2012-04-18T23:25:03Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2158740</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qcad/analyses/14307140/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>106069</id>
+      <project_id>28703</project_id>
+      <repository_id>101324</repository_id>
+      <repository>
+        <id>101324</id>
+        <type>SvnSyncRepository</type>
+        <url>https://gar.svn.sourceforge.net/svnroot/gar/csw/mgar</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-03T07:47:15Z</logged_at>
+        <commits>21250</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>102974</id>
+      <project_id>28703</project_id>
+      <repository_id>101323</repository_id>
+      <repository>
+        <id>101323</id>
+        <type>SvnSyncRepository</type>
+        <url>https://opencsw.svn.sourceforge.net/svnroot/opencsw</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-03T07:47:09Z</logged_at>
+        <commits>659</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

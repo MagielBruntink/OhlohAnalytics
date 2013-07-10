@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4980</id>
+      <name>Cayenne</name>
+      <url>http://www.ohloh.net/p/cayenne.xml</url>
+      <html_url>http://www.ohloh.net/p/cayenne</html_url>
+      <created_at>2007-04-23T10:13:43Z</created_at>
+      <updated_at>2013-07-02T11:17:41Z</updated_at>
+      <description>Apache Cayenne is an open source persistence framework licensed under the Apache License, providing object-relational mapping (ORM) and remoting services. With a wealth of unique and powerful features, Cayenne can address a wide range of persistence needs. Cayenne seamlessly binds one or more database schemas directly to Java objects, managing atomic commit and rollbacks, SQL generation, joins, sequences, and more. With Cayenne's Remote Object Persistence, those Java objects can even be persisted out to clients via Web Services. Or, with native XML serialization, objects can be even further persisted to non-Java clients - such as an Ajax-capable browser.</description>
+      <homepage_url>http://cayenne.apache.org</homepage_url>
+      <download_url>http://cayenne.apache.org/download.html</download_url>
+      <url_name>cayenne</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7882/cayenne_logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7882/cayenne_logo_small.jpg</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14502228</analysis_id>
+      <tags>
+        <tag>sql</tag>
+        <tag>model</tag>
+        <tag>orm</tag>
+        <tag>devtool</tag>
+        <tag>automation</tag>
+        <tag>jpa</tag>
+        <tag>mysql</tag>
+        <tag>hsqldb</tag>
+        <tag>tools</tag>
+        <tag>mssql</tag>
+        <tag>oracle</tag>
+        <tag>java</tag>
+        <tag>persistence</tag>
+        <tag>database</tag>
+        <tag>development</tag>
+        <tag>programming</tag>
+        <tag>modeling</tag>
+        <tag>postgresql</tag>
+        <tag>modelling</tag>
+        <tag>ormapper</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14502228</id>
+        <url>http://www.ohloh.net/analyses/14502228.xml</url>
+        <project_id>4980</project_id>
+        <updated_at>2013-07-02T11:17:41Z</updated_at>
+        <logged_at>2013-07-02T10:32:33Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>232174</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cayenne/analyses/14502228/languages.png">
+          <language color="9A63AD" percentage="84" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

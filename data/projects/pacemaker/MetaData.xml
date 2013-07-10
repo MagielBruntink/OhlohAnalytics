@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>319420</id>
+      <name>pacemaker</name>
+      <url>http://www.ohloh.net/p/pacemaker.xml</url>
+      <html_url>http://www.ohloh.net/p/pacemaker</html_url>
+      <created_at>2009-03-17T17:20:25Z</created_at>
+      <updated_at>2013-07-08T01:51:01Z</updated_at>
+      <description>The scalable High-Availability cluster resource manager formerly part of Heartbeat.
+
+Pacemaker makes use of your cluster infrastructure (either OpenAIS or Heartbeat) to stop, start and monitor the health of the applications you want the cluster to make highly available.</description>
+      <homepage_url>http://www.clusterlabs.org/</homepage_url>
+      <download_url>http://www.clusterlabs.org/wiki/Install</download_url>
+      <url_name>pacemaker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22139/Wiki-Logo-Red_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22139/Wiki-Logo-Red_small.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14565771</analysis_id>
+      <analysis>
+        <id>14565771</id>
+        <url>http://www.ohloh.net/analyses/14565771.xml</url>
+        <project_id>319420</project_id>
+        <updated_at>2013-07-08T01:51:01Z</updated_at>
+        <logged_at>2013-07-08T00:56:39Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>108738</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pacemaker/analyses/14565771/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="4A246B" percentage="8" id="9">
+Python          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

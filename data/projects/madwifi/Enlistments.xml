@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>36273</id>
+      <project_id>7748</project_id>
+      <repository_id>35016</repository_id>
+      <repository>
+        <id>35016</id>
+        <type>SvnRepository</type>
+        <url>http://svn.madwifi-project.org/madwifi/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T12:29:23Z</logged_at>
+        <commits>669</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>15462</id>
+      <project_id>7748</project_id>
+      <repository_id>14982</repository_id>
+      <repository>
+        <id>14982</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@madwifi.cvs.sourceforge.net:/cvsroot/madwifi</url>
+        <module_name>madwifi</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-06T12:25:22Z</logged_at>
+        <commits>597</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

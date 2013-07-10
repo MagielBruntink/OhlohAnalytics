@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5839</id>
+      <name>Hamcrest</name>
+      <url>http://www.ohloh.net/p/hamcrest.xml</url>
+      <html_url>http://www.ohloh.net/p/hamcrest</html_url>
+      <created_at>2007-06-05T21:08:45Z</created_at>
+      <updated_at>2013-07-02T08:20:46Z</updated_at>
+      <description>Provides a library of matcher objects (also known as constraints or predicates) allowing 'match' rules to be defined declaratively, to be used in other frameworks. Typical scenarios include testing frameworks, mocking libraries and UI validation rules.</description>
+      <homepage_url>http://code.google.com/p/hamcrest/</homepage_url>
+      <download_url>https://github.com/hamcrest/JavaHamcrest/downloads</download_url>
+      <url_name>hamcrest</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.28571</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14501560</analysis_id>
+      <tags>
+        <tag>matchers</tag>
+        <tag>predicates</tag>
+        <tag>testing</tag>
+        <tag>validation</tag>
+        <tag>tdd</tag>
+        <tag>unit_testing</tag>
+        <tag>constraints</tag>
+      </tags>
+      <analysis>
+        <id>14501560</id>
+        <url>http://www.ohloh.net/analyses/14501560.xml</url>
+        <project_id>5839</project_id>
+        <updated_at>2013-07-02T08:20:46Z</updated_at>
+        <logged_at>2013-07-01T06:38:38Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>28973</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hamcrest/analyses/14501560/languages.png">
+          <language color="9A63AD" percentage="26" id="5">
+Java          </language>
+          <language color="356AA0" percentage="25" id="2">
+PHP          </language>
+          <language color="C7932C" percentage="19" id="16">
+Objective-C          </language>
+          <language color="000000" percentage="30" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
