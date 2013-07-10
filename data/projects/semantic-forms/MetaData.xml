@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8805</id>
+      <name>Semantic Forms</name>
+      <url>http://www.ohloh.net/p/semantic-forms.xml</url>
+      <html_url>http://www.ohloh.net/p/semantic-forms</html_url>
+      <created_at>2007-09-28T14:32:09Z</created_at>
+      <updated_at>2013-07-06T13:55:39Z</updated_at>
+      <description>Semantic Forms is an extension to MediaWiki that allows users to add and edit data using forms. It is heavily tied in with the Semantic MediaWiki extension, and is meant to be used for structured data that has semantic markup.</description>
+      <homepage_url>http://www.mediawiki.org/wiki/Extension:Semantic_Forms</homepage_url>
+      <download_url>http://www.mediawiki.org/wiki/Extension:Semantic_Forms#Code_and_download</download_url>
+      <url_name>semantic-forms</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18889/mw-ohloh_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18889/mw-ohloh_med_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550554</analysis_id>
+      <tags>
+        <tag>forms</tag>
+        <tag>mediawiki</tag>
+        <tag>smw</tag>
+      </tags>
+      <analysis>
+        <id>14550554</id>
+        <url>http://www.ohloh.net/analyses/14550554.xml</url>
+        <project_id>8805</project_id>
+        <updated_at>2013-07-06T13:55:39Z</updated_at>
+        <logged_at>2013-07-06T13:53:08Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>23380</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/semantic-forms/analyses/14550554/languages.png">
+          <language color="356AA0" percentage="86" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

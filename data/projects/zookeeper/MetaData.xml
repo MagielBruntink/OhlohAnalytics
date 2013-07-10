@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>32447</id>
+      <name>Apache ZooKeeper</name>
+      <url>http://www.ohloh.net/p/zookeeper.xml</url>
+      <html_url>http://www.ohloh.net/p/zookeeper</html_url>
+      <created_at>2008-12-06T22:10:05Z</created_at>
+      <updated_at>2013-07-10T09:13:51Z</updated_at>
+      <description>ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds of services are used in some form or another by distributed applications. Each time they are implemented there is a lot of work that goes into fixing the bugs and race conditions that are inevitable. Because of the difficulty of implementing these kinds of services, applications initially usually skimp on them ,which make them brittle in the presence of change and difficult to manage. Even when done correctly, different implementations of these services lead to management complexity when the applications are deployed.</description>
+      <homepage_url>http://zookeeper.apache.org/</homepage_url>
+      <download_url>http://zookeeper.apache.org/releases.html#download</download_url>
+      <url_name>zookeeper</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53254/zookeeper_small_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53254/zookeeper_small_small.gif</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580280</analysis_id>
+      <tags>
+        <tag>naming</tag>
+        <tag>coordination</tag>
+        <tag>synchronization</tag>
+        <tag>c</tag>
+        <tag>java</tag>
+        <tag>distributed</tag>
+        <tag>apache</tag>
+        <tag>group</tag>
+        <tag>configuration</tag>
+        <tag>replicated</tag>
+      </tags>
+      <analysis>
+        <id>14580280</id>
+        <url>http://www.ohloh.net/analyses/14580280.xml</url>
+        <project_id>32447</project_id>
+        <updated_at>2013-07-10T09:13:50Z</updated_at>
+        <logged_at>2013-07-10T09:12:16Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>125264</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zookeeper/analyses/14580280/languages.png">
+          <language color="9A63AD" percentage="45" id="5">
+Java          </language>
+          <language color="A4007E" percentage="16" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="28" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

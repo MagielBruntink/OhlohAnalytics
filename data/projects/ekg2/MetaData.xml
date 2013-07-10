@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7291</id>
+      <name>ekg2</name>
+      <url>http://www.ohloh.net/p/ekg2.xml</url>
+      <html_url>http://www.ohloh.net/p/ekg2</html_url>
+      <created_at>2007-08-08T07:51:19Z</created_at>
+      <updated_at>2013-07-09T17:51:11Z</updated_at>
+      <description>Plugin based multi-IM communicator. ncurses or gtk2 (in progress) based GUI.
+Support for different protocols: irc, jabber (including gmail), gg (gadu-gadu largest polish IM), tlen, nntp (read only).</description>
+      <homepage_url>http://ekg2.org/</homepage_url>
+      <download_url>http://ekg2.org/download.php</download_url>
+      <url_name>ekg2</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34838/ekg2_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34838/ekg2_small.gif</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.42857</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574348</analysis_id>
+      <tags>
+        <tag>application</tag>
+        <tag>ncurses</tag>
+        <tag>networking</tag>
+        <tag>python</tag>
+        <tag>rss</tag>
+        <tag>chatting</tag>
+        <tag>linux</tag>
+        <tag>console</tag>
+        <tag>gtk2</tag>
+        <tag>xmpp</tag>
+        <tag>internet_relay_chat</tag>
+        <tag>scripting</tag>
+        <tag>protocol</tag>
+        <tag>im</tag>
+        <tag>utilities</tag>
+        <tag>bindings</tag>
+        <tag>c</tag>
+        <tag>network</tag>
+        <tag>instant_messaging</tag>
+        <tag>perl</tag>
+        <tag>jabber</tag>
+        <tag>irc</tag>
+        <tag>gmail</tag>
+        <tag>communication</tag>
+        <tag>gadu-gadu</tag>
+        <tag>messenger</tag>
+        <tag>gtalk</tag>
+        <tag>ruby</tag>
+      </tags>
+      <analysis>
+        <id>14574348</id>
+        <url>http://www.ohloh.net/analyses/14574348.xml</url>
+        <project_id>7291</project_id>
+        <updated_at>2013-07-09T17:51:11Z</updated_at>
+        <logged_at>2013-07-09T17:18:32Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>183085</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ekg2/analyses/14574348/languages.png">
+          <language color="FF8F00" percentage="89" id="42">
+C          </language>
+          <language color="000000" percentage="11" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

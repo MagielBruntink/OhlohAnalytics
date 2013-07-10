@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>21012</id>
+      <project_id>11117</project_id>
+      <repository_id>20310</repository_id>
+      <repository>
+        <id>20310</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@sphinx.mythic-beasts.com:/home/pdw/vcvs/repos</url>
+        <module_name>iftop</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-07T19:15:20Z</logged_at>
+        <commits>236</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

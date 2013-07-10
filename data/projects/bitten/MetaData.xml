@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4164</id>
+      <name>Bitten</name>
+      <url>http://www.ohloh.net/p/bitten.xml</url>
+      <html_url>http://www.ohloh.net/p/bitten</html_url>
+      <created_at>2007-01-26T22:08:11Z</created_at>
+      <updated_at>2013-07-04T01:42:31Z</updated_at>
+      <description>Bitten is a Python-based framework for collecting various software metrics via continuous integration. It builds on Trac to provide an integrated web-based user interface.</description>
+      <homepage_url>http://bitten.edgewall.org/</homepage_url>
+      <download_url>http://bitten.edgewall.org/wiki/Download</download_url>
+      <url_name>bitten</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34776/bitten_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34776/bitten_small.png</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>4.71429</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14520123</analysis_id>
+      <tags>
+        <tag>continuous_integration</tag>
+        <tag>subversion</tag>
+        <tag>testing</tag>
+        <tag>metrics</tag>
+        <tag>trac</tag>
+        <tag>automation</tag>
+        <tag>scm</tag>
+        <tag>development</tag>
+        <tag>quality</tag>
+        <tag>build</tag>
+      </tags>
+      <analysis>
+        <id>14520123</id>
+        <url>http://www.ohloh.net/analyses/14520123.xml</url>
+        <project_id>4164</project_id>
+        <updated_at>2013-07-04T01:42:30Z</updated_at>
+        <logged_at>2013-07-04T01:38:44Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>16001</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bitten/analyses/14520123/languages.png">
+          <language color="4A246B" percentage="74" id="9">
+Python          </language>
+          <language color="A4007E" percentage="18" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

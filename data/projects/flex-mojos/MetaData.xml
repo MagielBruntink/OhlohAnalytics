@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>46234</id>
+      <name>flex-mojos</name>
+      <url>http://www.ohloh.net/p/flex-mojos.xml</url>
+      <html_url>http://www.ohloh.net/p/flex-mojos</html_url>
+      <created_at>2008-12-16T00:52:58Z</created_at>
+      <updated_at>2012-11-03T10:48:33Z</updated_at>
+      <description>Attention:New project site http://flexmojos.sonatype.org/ 
+
+What is flex-mojos?A collection of maven plugins to allow maven to compile, optimize, test and ... Flex SWF, Flex SWC, Air SWF and Air SWC. 
+
+The main goal is to provide a full support to all mxmlc/compc options. 
+
+Those two projects are great, but I believe I can be a good alternative. I made this choice of create a new project when I tried to compile the Adobe Open Source SDK and figure out that will not be possible with none of these. 
+
+Major features: 
+
+SWF, SWC, AIR and Flex versions; RSL and caching framework support; Modules support; full cover to MXMLC and COMPC options; flex 3; use FLEX-OEM-COMPILER, means it faster, uses less memory, no need of references to local drive; flex unit support; asdoc support; no set</description>
+      <homepage_url>http://code.google.com/p/flex-mojos</homepage_url>
+      <download_url></download_url>
+      <url_name>flex-mojos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1860032</analysis_id>
+      <tags>
+        <tag>maven</tag>
+        <tag>mojos</tag>
+        <tag>asdoc</tag>
+        <tag>flex3</tag>
+        <tag>mavenplugin</tag>
+        <tag>ria</tag>
+        <tag>flex</tag>
+        <tag>java</tag>
+        <tag>compiler</tag>
+        <tag>actionscript</tag>
+        <tag>air</tag>
+        <tag>flex2</tag>
+      </tags>
+      <analysis>
+        <id>1860032</id>
+        <url>http://www.ohloh.net/analyses/1860032.xml</url>
+        <project_id>46234</project_id>
+        <updated_at>2011-04-12T09:39:42Z</updated_at>
+        <logged_at>2011-04-12T09:37:57Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>50702</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flex-mojos/analyses/1860032/languages.png">
+          <language color="555555" percentage="41" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="37" id="5">
+Java          </language>
+          <language color="EEE" percentage="14" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

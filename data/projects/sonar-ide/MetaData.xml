@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480632</id>
+      <name>Sonar IDE</name>
+      <url>http://www.ohloh.net/p/sonar-ide.xml</url>
+      <html_url>http://www.ohloh.net/p/sonar-ide</html_url>
+      <created_at>2010-01-21T05:16:57Z</created_at>
+      <updated_at>2013-07-05T20:38:44Z</updated_at>
+      <description>Integrates Sonar in Eclipse.</description>
+      <homepage_url>http://sonar-ide.codehaus.org/</homepage_url>
+      <download_url>http://dist.sonar-ide.codehaus.org/</download_url>
+      <url_name>sonar-ide</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34323/sonar-ide_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34323/sonar-ide_small.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541985</analysis_id>
+      <tags>
+        <tag>sonar</tag>
+        <tag>maven2</tag>
+        <tag>quality</tag>
+        <tag>findbugs</tag>
+        <tag>eclipse</tag>
+        <tag>qa</tag>
+        <tag>intellijidea</tag>
+        <tag>netbeans</tag>
+        <tag>ide</tag>
+        <tag>agile</tag>
+        <tag>checkstyle</tag>
+        <tag>code_analysis</tag>
+        <tag>pmd</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14541985</id>
+        <url>http://www.ohloh.net/analyses/14541985.xml</url>
+        <project_id>480632</project_id>
+        <updated_at>2013-07-05T20:38:44Z</updated_at>
+        <logged_at>2013-07-05T20:35:51Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>26584</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sonar-ide/analyses/14541985/languages.png">
+          <language color="9A63AD" percentage="73" id="5">
+Java          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

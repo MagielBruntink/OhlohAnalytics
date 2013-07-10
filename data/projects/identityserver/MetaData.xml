@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5827</id>
+      <name>WSO2 Identity Server</name>
+      <url>http://www.ohloh.net/p/identityserver.xml</url>
+      <html_url>http://www.ohloh.net/p/identityserver</html_url>
+      <created_at>2007-06-05T13:37:47Z</created_at>
+      <updated_at>2013-07-09T19:35:08Z</updated_at>
+      <description>The WSO2 Identity Server is an open source identity &amp; entitlemment management server having support for Information Cards, OpenID &amp; XACML.
+
+1. Entitlement Engine with XACML 2.0 support.
+2. Claim based Security Token Service.
+3. Information Cards provider supporting Managed Information Cards backed by user name / password and self-issued cards.
+4. Information cards support for SAML 1.1/2.0.
+5. OpenID Provider.
+6. Multi-factor authentication with Information Cards
+7. Extension points for SAML assertion handling.
+8. XMPP based multi-factor authentication.
+9. Improved User Management.
+10. Claim Management.
+11. User Profiles and Profile Management.
+12. XKMS.
+13. Separable front-end &amp; back-end - a single front-end server can be used to administer several back-end servers.</description>
+      <homepage_url>http://wso2.org/projects/identity</homepage_url>
+      <download_url>http://wso2.org/downloads/identity</download_url>
+      <url_name>identityserver</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14502078</analysis_id>
+      <tags>
+        <tag>infocard</tag>
+        <tag>wso2</tag>
+        <tag>mod_cspace</tag>
+        <tag>cardspace</tag>
+        <tag>container</tag>
+        <tag>servlet</tag>
+        <tag>c</tag>
+        <tag>web</tag>
+        <tag>programming</tag>
+        <tag>identity20</tag>
+        <tag>openid</tag>
+        <tag>apache</tag>
+        <tag>module</tag>
+        <tag>axis2</tag>
+        <tag>httpd</tag>
+        <tag>security</tag>
+        <tag>xacml</tag>
+        <tag>authentication</tag>
+        <tag>token</tag>
+        <tag>identity</tag>
+        <tag>application</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14502078</id>
+        <url>http://www.ohloh.net/analyses/14502078.xml</url>
+        <project_id>5827</project_id>
+        <updated_at>2013-07-02T10:50:26Z</updated_at>
+        <logged_at>2013-07-02T09:37:58Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>5144</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/identityserver/analyses/14502078/languages.png">
+          <language color="555555" percentage="88" id="3">
+XML          </language>
+          <language color="493625" percentage="12" id="30">
+SQL          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

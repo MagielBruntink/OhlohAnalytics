@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11465</id>
+      <name>JAMin</name>
+      <url>http://www.ohloh.net/p/jamin.xml</url>
+      <html_url>http://www.ohloh.net/p/jamin</html_url>
+      <created_at>2008-02-03T21:29:32Z</created_at>
+      <updated_at>2013-06-23T05:07:00Z</updated_at>
+      <description>JAMin is the JACK Audio Mastering interface.  JAMin is designed to perform professional audio mastering of any number of input streams.  It consists of a number of tools to do this: a 1024 band hand drawn EQ with modifiable parametric controls, a 31 band graphic EQ, 3 band compressor, 3 band stereo width control, lookahead limiter, boost, and a number of other features.</description>
+      <homepage_url>http://jamin.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=78441</download_url>
+      <url_name>jamin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14352319</analysis_id>
+      <tags>
+        <tag>recording</tag>
+        <tag>filter</tag>
+        <tag>capture</tag>
+        <tag>processing</tag>
+        <tag>multimedia</tag>
+        <tag>dsp</tag>
+        <tag>sound</tag>
+        <tag>signal</tag>
+        <tag>linux</tag>
+        <tag>jack</tag>
+        <tag>music</tag>
+        <tag>mastering</tag>
+        <tag>audio</tag>
+        <tag>application</tag>
+      </tags>
+      <analysis>
+        <id>14352319</id>
+        <url>http://www.ohloh.net/analyses/14352319.xml</url>
+        <project_id>11465</project_id>
+        <updated_at>2013-07-01T06:31:32Z</updated_at>
+        <logged_at>2013-07-01T06:31:13Z</logged_at>
+        <min_month>2003-04-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>45055</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jamin/analyses/14352319/languages.png">
+          <language color="555555" percentage="47" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="43" id="42">
+C          </language>
+          <language color="777777" percentage="8" id="11">
+shell script          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

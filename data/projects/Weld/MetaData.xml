@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>77325</id>
+      <name>Weld</name>
+      <url>http://www.ohloh.net/p/Weld.xml</url>
+      <html_url>http://www.ohloh.net/p/Weld</html_url>
+      <created_at>2008-12-20T01:26:29Z</created_at>
+      <updated_at>2013-03-08T21:37:57Z</updated_at>
+      <description>JSR-299: Contexts and Dependency Management for Java EE is a new Java standard for dependency injection and contextual lifecycle management.
+
+CDI defines a set of services for the Java EE environment that makes applications much easier to develop. CDI layers an enhanced lifecycle and interaction model over existing Java component types including JavaBeans and Enterprise Java Beans.
+
+Weld is the reference implementation of JSR-299</description>
+      <homepage_url>http://www.seamframework.org/Weld</homepage_url>
+      <download_url>http://www.seamframework.org/Weld</download_url>
+      <url_name>Weld</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51604/logo-weld_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51604/logo-weld_small.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10689519</analysis_id>
+      <tags>
+        <tag>dependency_injection</tag>
+        <tag>java</tag>
+        <tag>aop</tag>
+      </tags>
+      <analysis>
+        <id>10689519</id>
+        <url>http://www.ohloh.net/analyses/10689519.xml</url>
+        <project_id>77325</project_id>
+        <updated_at>2012-10-20T21:52:26Z</updated_at>
+        <logged_at>2012-10-20T18:51:32Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>189738</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Weld/analyses/10689519/languages.png">
+          <language color="9A63AD" percentage="72" id="5">
+Java          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

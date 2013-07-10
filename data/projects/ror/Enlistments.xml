@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>248321</id>
+      <project_id>308972</project_id>
+      <repository_id>245770</repository_id>
+      <repository>
+        <id>245770</id>
+        <type>SvnSyncRepository</type>
+        <url>https://rigsofrods.svn.sourceforge.net/svnroot/rigsofrods/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-30T04:03:03Z</logged_at>
+        <commits>2436</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>248322</id>
+      <project_id>308972</project_id>
+      <repository_id>245771</repository_id>
+      <repository>
+        <id>245771</id>
+        <type>SvnSyncRepository</type>
+        <url>https://rorserver.svn.sourceforge.net/svnroot/rorserver/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-30T04:01:44Z</logged_at>
+        <commits>512</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

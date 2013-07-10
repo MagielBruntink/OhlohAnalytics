@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11891</id>
+      <name>Blueman</name>
+      <url>http://www.ohloh.net/p/blueman.xml</url>
+      <html_url>http://www.ohloh.net/p/blueman</html_url>
+      <created_at>2008-02-19T09:01:32Z</created_at>
+      <updated_at>2013-07-06T13:06:54Z</updated_at>
+      <description>Blueman is a GTK+ bluetooth management utility for GNOME using bluez dbus backend. The aim is to create a full featured graphical bluetooth manager for Linux.
+
+Features:
+
+    * Easy to use interface
+    * Storing Favourite devices
+    * Send files
+    * Browse files on devices
+    * List all seen devices
+    * View Local/Remote Device information
+    * View transfer speeds and link quality
+    * Configure local devices
+    * Manage Pairing (Bonding)
+    * Host/Connect to Personal Area Networks
+    * Bind services to /dev/rfcomm ports, for eg. connecting via gprs
+    * Connect and receive connections from: audio, network, input and serial devices</description>
+      <homepage_url>http://blueman-project.org</homepage_url>
+      <download_url>http://blueman.tuxfamily.org/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=56</download_url>
+      <url_name>blueman</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12947/blueman_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12947/blueman_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550329</analysis_id>
+      <tags>
+        <tag>bluetooth</tag>
+      </tags>
+      <analysis>
+        <id>14550329</id>
+        <url>http://www.ohloh.net/analyses/14550329.xml</url>
+        <project_id>11891</project_id>
+        <updated_at>2013-07-06T13:06:54Z</updated_at>
+        <logged_at>2013-07-06T13:04:19Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17639</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blueman/analyses/14550329/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>240287</id>
+      <project_id>321086</project_id>
+      <repository_id>237979</repository_id>
+      <repository>
+        <id>237979</id>
+        <type>GitRepository</type>
+        <url>http://git.gitorious.org/foocorp/gnu-fm.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T14:02:13Z</logged_at>
+        <commits>2997</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>240286</id>
+      <project_id>321086</project_id>
+      <repository_id>237978</repository_id>
+      <repository>
+        <id>237978</id>
+        <type>GitRepository</type>
+        <url>http://git.gitorious.org/foocorp/librefm.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T14:02:32Z</logged_at>
+        <commits>380</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

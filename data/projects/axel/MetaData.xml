@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10027</id>
+      <name>Axel</name>
+      <url>http://www.ohloh.net/p/axel.xml</url>
+      <html_url>http://www.ohloh.net/p/axel</html_url>
+      <created_at>2007-12-03T11:14:35Z</created_at>
+      <updated_at>2013-06-24T12:24:29Z</updated_at>
+      <description>Axel is a command line download accelerator for linux.
+Axel tries to accelerate HTTP/FTP downloading process by using multiple connections for one file. It can use multiple mirrors for a download. Axel has no dependencies and is lightweight, so it might be useful as a wget clone on byte-critical systems.</description>
+      <homepage_url>http://axel.alioth.debian.org/</homepage_url>
+      <download_url>http://alioth.debian.org/frs/?group_id=100070</download_url>
+      <url_name>axel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14378612</analysis_id>
+      <tags>
+        <tag>download_manager</tag>
+        <tag>download</tag>
+      </tags>
+      <analysis>
+        <id>14378612</id>
+        <url>http://www.ohloh.net/analyses/14378612.xml</url>
+        <project_id>10027</project_id>
+        <updated_at>2013-06-24T12:24:29Z</updated_at>
+        <logged_at>2013-06-24T12:16:54Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2661</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/axel/analyses/14378612/languages.png">
+          <language color="FF8F00" percentage="89" id="42">
+C          </language>
+          <language color="EEE" percentage="8" id="51">
+Autoconf          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12666</id>
+      <name>gEDA</name>
+      <url>http://www.ohloh.net/p/gEDA.xml</url>
+      <html_url>http://www.ohloh.net/p/gEDA</html_url>
+      <created_at>2008-03-10T22:56:46Z</created_at>
+      <updated_at>2013-07-07T02:38:47Z</updated_at>
+      <description>The gEDA project has produced and continues working on a full GPL'd suite of Electronic Design Automation tools. These tools are used for electrical circuit design, schematic capture, simulation, prototyping, and production. Currently, the gEDA project offers a mature suite of free software applications for electronics design, including schematic capture, attribute management, bill of materials (BOM) generation, netlisting into over 20 netlist formats, analog and digital simulation, and printed circuit board (PCB) layout.</description>
+      <homepage_url>http://www.geda.seul.org/</homepage_url>
+      <download_url>http://www.geda.seul.org/download.html</download_url>
+      <url_name>gEDA</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10975/geda-logo-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10975/geda-logo-64_small.png</small_logo_url>
+      <user_count>16</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558436</analysis_id>
+      <tags>
+        <tag>eda</tag>
+        <tag>electronics</tag>
+        <tag>circuit_board</tag>
+        <tag>design</tag>
+        <tag>electronic_schematic_diagrams</tag>
+        <tag>electronic_design_automation</tag>
+        <tag>cad</tag>
+      </tags>
+      <analysis>
+        <id>14558436</id>
+        <url>http://www.ohloh.net/analyses/14558436.xml</url>
+        <project_id>12666</project_id>
+        <updated_at>2013-07-07T02:38:46Z</updated_at>
+        <logged_at>2013-07-07T02:37:23Z</logged_at>
+        <min_month>1999-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>149653</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gEDA/analyses/14558436/languages.png">
+          <language color="FF8F00" percentage="44" id="42">
+C          </language>
+          <language color="47A400" percentage="41" id="1">
+HTML          </language>
+          <language color="90C0D2" percentage="8" id="20">
+Scheme          </language>
+          <language color="000000" percentage="7" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

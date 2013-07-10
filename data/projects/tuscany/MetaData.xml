@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3491</id>
+      <name>Apache Tuscany</name>
+      <url>http://www.ohloh.net/p/tuscany.xml</url>
+      <html_url>http://www.ohloh.net/p/tuscany</html_url>
+      <created_at>2006-10-31T18:13:31Z</created_at>
+      <updated_at>2013-06-07T07:32:44Z</updated_at>
+      <description>Apache Tuscany simplifies the task of developing SOA solutions by providing a comprehensive infrastructure for SOA development and management that is based on Service Component Architecture (SCA) standard. With SCA as it's foundation, Tuscany offers solution developers the following advantages:
+
+    * Provides a model for creating composite applications by defining the services in the fabric and their relationships with one another. The services can be implemented in any technology.
+    * Enables service developers to create reusable services that only contain business logic. Protocols are pushed out of business logic and are handled through pluggable bindings. This lowers development cost.
+    * Applications can easily adapt to infrastructure changes without recoding since protocols are h</description>
+      <homepage_url>http://tuscany.apache.org/</homepage_url>
+      <download_url>http://tuscany.apache.org/tuscany-downloads-documentations.html</download_url>
+      <url_name>tuscany</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41284/TuscanyLogo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41284/TuscanyLogo_small.jpg</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14185472</analysis_id>
+      <tags>
+        <tag>xmlschema</tag>
+        <tag>webservices</tag>
+        <tag>framework</tag>
+        <tag>xsd</tag>
+        <tag>das</tag>
+        <tag>tuscany</tag>
+        <tag>soap</tag>
+        <tag>sca</tag>
+        <tag>xpath</tag>
+        <tag>sdo</tag>
+        <tag>soa</tag>
+        <tag>java</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>14185472</id>
+        <url>http://www.ohloh.net/analyses/14185472.xml</url>
+        <project_id>3491</project_id>
+        <updated_at>2013-07-01T04:50:31Z</updated_at>
+        <logged_at>2013-07-01T04:35:07Z</logged_at>
+        <min_month>2005-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>738381</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tuscany/analyses/14185472/languages.png">
+          <language color="9A63AD" percentage="66" id="5">
+Java          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+18 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

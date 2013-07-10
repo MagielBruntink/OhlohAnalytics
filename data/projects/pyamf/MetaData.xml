@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9243</id>
+      <name>PyAMF</name>
+      <url>http://www.ohloh.net/p/pyamf.xml</url>
+      <html_url>http://www.ohloh.net/p/pyamf</html_url>
+      <created_at>2007-10-19T23:54:12Z</created_at>
+      <updated_at>2013-07-09T17:36:07Z</updated_at>
+      <description>PyAMF provides Action Message Format (AMF) support for Python that is compatible with the Adobe Flash Player. It includes integration with Python web frameworks like Django, Pylons, Twisted, SQLAlchemy, web2py and more.
+
+The Adobe Integrated Runtime and Adobe Flash Player use AMF to communicate between an application and a remote server. AMF encodes remote procedure calls (RPC) into a compact binary representation that can be transferred over HTTP/HTTPS or the RTMP/RTMPS protocol. Objects and data values are serialized into this binary format, which increases performance, allowing applications to load data up to 10 times faster than with text-based formats such as XML or SOAP.</description>
+      <homepage_url>http://pyamf.org</homepage_url>
+      <download_url>http://www.pyamf.org/community/download.html</download_url>
+      <url_name>pyamf</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>4.625</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14434755</analysis_id>
+      <tags>
+        <tag>elixir</tag>
+        <tag>amf3</tag>
+        <tag>amf0</tag>
+        <tag>python</tag>
+        <tag>amf</tag>
+        <tag>remoting</tag>
+        <tag>wsgi</tag>
+        <tag>bytearray</tag>
+        <tag>flash</tag>
+        <tag>twisted</tag>
+        <tag>rpc</tag>
+        <tag>pylons</tag>
+        <tag>sqlalchemy</tag>
+        <tag>flashplayer</tag>
+        <tag>remoteobject</tag>
+        <tag>web2py</tag>
+        <tag>flex</tag>
+        <tag>django</tag>
+        <tag>google_app_engine</tag>
+      </tags>
+      <analysis>
+        <id>14434755</id>
+        <url>http://www.ohloh.net/analyses/14434755.xml</url>
+        <project_id>9243</project_id>
+        <updated_at>2013-07-06T23:53:38Z</updated_at>
+        <logged_at>2013-07-06T23:53:14Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>23913</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyamf/analyses/14434755/languages.png">
+          <language color="4A246B" percentage="80" id="9">
+Python          </language>
+          <language color="EEE" percentage="10" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="10" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

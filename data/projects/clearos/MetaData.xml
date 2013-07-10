@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>459726</id>
+      <name>ClearOS</name>
+      <url>http://www.ohloh.net/p/clearos.xml</url>
+      <html_url>http://www.ohloh.net/p/clearos</html_url>
+      <created_at>2009-10-06T03:44:48Z</created_at>
+      <updated_at>2013-07-09T19:20:42Z</updated_at>
+      <description>ClearOS is an integrated network server gateway solution for small and distributed organizations. The software provides all the necessary server tools to run an organization including email, antivirus, antispam, file sharing, groupware, VPN, firewall, intrusion detection/prevention, content filtering, bandwidth management, multi-WAN and more. Through the intuitive web-based management console, an administrator can configure local ClearOS server software along with integrated cloud-based services.</description>
+      <homepage_url>http://www.clearfoundation.com</homepage_url>
+      <download_url>http://www.clearfoundation.com/Software/downloads</download_url>
+      <url_name>clearos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25540/ClearOS-Icon-xs_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25540/ClearOS-Icon-xs_small.png</small_logo_url>
+      <user_count>15</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14563002</analysis_id>
+      <tags>
+        <tag>proxy</tag>
+        <tag>vpn</tag>
+        <tag>google_apps</tag>
+        <tag>antivirus</tag>
+        <tag>qos</tag>
+        <tag>samba</tag>
+        <tag>clearos</tag>
+        <tag>ids</tag>
+        <tag>flexshare</tag>
+        <tag>sbs</tag>
+        <tag>smb</tag>
+        <tag>ips</tag>
+        <tag>content_filter</tag>
+        <tag>cloud</tag>
+        <tag>distro</tag>
+        <tag>server</tag>
+        <tag>zarafa</tag>
+        <tag>antispam</tag>
+        <tag>ipsec</tag>
+        <tag>multiwan</tag>
+      </tags>
+      <analysis>
+        <id>14563002</id>
+        <url>http://www.ohloh.net/analyses/14563002.xml</url>
+        <project_id>459726</project_id>
+        <updated_at>2013-07-07T16:58:03Z</updated_at>
+        <logged_at>2013-07-07T15:28:17Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>3806150</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/clearos/analyses/14563002/languages.png">
+          <language color="356AA0" percentage="71" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="14" id="6">
+JavaScript          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="10" id="">
+18 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

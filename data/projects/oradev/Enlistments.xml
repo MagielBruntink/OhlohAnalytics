@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>45011</id>
+      <project_id>40147</project_id>
+      <repository_id>43709</repository_id>
+      <repository>
+        <id>43709</id>
+        <type>SvnSyncRepository</type>
+        <url>https://oradev.svn.sourceforge.net/svnroot/oradev/CSO</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T13:23:12Z</logged_at>
+        <commits>1</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>45012</id>
+      <project_id>40147</project_id>
+      <repository_id>43710</repository_id>
+      <repository>
+        <id>43710</id>
+        <type>SvnSyncRepository</type>
+        <url>https://oradev.svn.sourceforge.net/svnroot/oradev/PDMSudoku</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-04T13:21:27Z</logged_at>
+        <commits>66</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

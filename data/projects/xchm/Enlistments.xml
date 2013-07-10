@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>1862</id>
+      <project_id>420</project_id>
+      <repository_id>1851</repository_id>
+      <repository>
+        <id>1851</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@xchm.cvs.sourceforge.net:/cvsroot/xchm</url>
+        <module_name>xchm</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-06T11:29:01Z</logged_at>
+        <commits>513</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

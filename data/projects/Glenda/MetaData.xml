@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12022</id>
+      <name>Plan 9 from Bell Labs</name>
+      <url>http://www.ohloh.net/p/Glenda.xml</url>
+      <html_url>http://www.ohloh.net/p/Glenda</html_url>
+      <created_at>2008-02-21T19:29:00Z</created_at>
+      <updated_at>2013-06-20T17:22:19Z</updated_at>
+      <description>Plan 9 from Bell Labs is a research system developed at Bell Labs starting in the late 1980s. Its original designers and authors were Ken Thompson, Rob Pike, Dave Presotto, and Phil Winterbottom. They were joined by many others as development continued throughout the 1990s to the present.
+
+Plan 9 demonstrates a new and often cleaner way to solve most systems problems. The system as a whole is likely to feel tantalizingly familiar to Unix users but at the same time quite foreign.
+
+In Plan 9, each process has its own mutable name space. A process may rearrange, add to, and remove from its own name space without affecting the name spaces of unrelated processes. Included in the name space mutations is the ability to mount a connection to a file server speaking 9P, a simple file protocol.</description>
+      <homepage_url>http://plan9.bell-labs.com/plan9</homepage_url>
+      <download_url>http://plan9.bell-labs.com/plan9/download.html</download_url>
+      <url_name>Glenda</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>utf-8</tag>
+        <tag>plan9</tag>
+        <tag>distributed_monitoring</tag>
+        <tag>programming</tag>
+        <tag>portable</tag>
+        <tag>9p</tag>
+        <tag>development</tag>
+        <tag>distributed</tag>
+        <tag>distributed_computing</tag>
+        <tag>bell_labs</tag>
+        <tag>research</tag>
+        <tag>distributed_systems</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>lucent_plan9</name>
+          <nice_name>Lucent Public License 1.0  (Plan9)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22394</id>
+      <name>phusion-passenger</name>
+      <url>http://www.ohloh.net/p/phusion-passenger.xml</url>
+      <html_url>http://www.ohloh.net/p/phusion-passenger</html_url>
+      <created_at>2008-10-07T14:45:32Z</created_at>
+      <updated_at>2013-07-09T19:39:16Z</updated_at>
+      <description>Passenger is a deployment system for Ruby web applications on Apache. Ruby deployment becomes an &quot;upload &amp; done&quot; process. 
+
+Please visit http://www.modrails.com/ for the main website.</description>
+      <homepage_url>http://code.google.com/p/phusion-passenger</homepage_url>
+      <download_url></download_url>
+      <url_name>phusion-passenger</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>12</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574642</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>rubyonrails</tag>
+        <tag>apache</tag>
+        <tag>deployment</tag>
+      </tags>
+      <analysis>
+        <id>14574642</id>
+        <url>http://www.ohloh.net/analyses/14574642.xml</url>
+        <project_id>22394</project_id>
+        <updated_at>2013-07-09T19:39:16Z</updated_at>
+        <logged_at>2013-07-09T19:17:06Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>446517</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phusion-passenger/analyses/14574642/languages.png">
+          <language color="F35F1F" percentage="66" id="44">
+C++          </language>
+          <language color="EEE" percentage="15" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="000000" percentage="12" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

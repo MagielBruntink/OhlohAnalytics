@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>216922</id>
+      <project_id>24592</project_id>
+      <repository_id>214908</repository_id>
+      <repository>
+        <id>214908</id>
+        <type>SvnSyncRepository</type>
+        <url>http://tonatiuh.googlecode.com/svn/trunk/TonatiuhProject/plugins/</url>
+        <username>manuel.jesus.blanco@gmail.com</username>
+        <password>tA9BD5fv5Cc8</password>
+        <logged_at>2013-07-06T21:50:27Z</logged_at>
+        <commits>211</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>216921</id>
+      <project_id>24592</project_id>
+      <repository_id>214907</repository_id>
+      <repository>
+        <id>214907</id>
+        <type>SvnSyncRepository</type>
+        <url>http://tonatiuh.googlecode.com/svn/trunk/TonatiuhProject/src/source</url>
+        <username>manuel.jesus.blanco@gmail.com</username>
+        <password>tA9BD5fv5Cc8</password>
+        <logged_at>2013-07-06T21:55:27Z</logged_at>
+        <commits>257</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

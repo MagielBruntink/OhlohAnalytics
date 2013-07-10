@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8109</id>
+      <name>tesseract-ocr</name>
+      <url>http://www.ohloh.net/p/tesseract-ocr.xml</url>
+      <html_url>http://www.ohloh.net/p/tesseract-ocr</html_url>
+      <created_at>2007-08-31T22:17:25Z</created_at>
+      <updated_at>2013-07-09T19:27:16Z</updated_at>
+      <description>The Tesseract OCR engine was one of the top 3 engines in the 1995 UNLV Accuracy test. Between 1995 and 2006 it had little work done on it, but it is probably one of the most accurate open source OCR engines available. The source code will read a binary, grey or color image and output text. A tiff reader is built in that will read uncompressed TIFF images, or libtiff can be added to read compressed images.</description>
+      <homepage_url>http://code.google.com/p/tesseract-ocr/</homepage_url>
+      <download_url>http://code.google.com/p/tesseract-ocr/downloads/list</download_url>
+      <url_name>tesseract-ocr</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>3.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558171</analysis_id>
+      <tags>
+        <tag>character_recognition</tag>
+        <tag>recognition</tag>
+        <tag>document</tag>
+        <tag>ocr</tag>
+      </tags>
+      <analysis>
+        <id>14558171</id>
+        <url>http://www.ohloh.net/analyses/14558171.xml</url>
+        <project_id>8109</project_id>
+        <updated_at>2013-07-07T02:05:44Z</updated_at>
+        <logged_at>2013-07-07T01:59:59Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>134110</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tesseract-ocr/analyses/14558171/languages.png">
+          <language color="F35F1F" percentage="75" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="9" id="42">
+C          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

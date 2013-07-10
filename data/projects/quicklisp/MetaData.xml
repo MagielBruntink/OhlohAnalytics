@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>535940</id>
+      <name>Quicklisp</name>
+      <url>http://www.ohloh.net/p/quicklisp.xml</url>
+      <html_url>http://www.ohloh.net/p/quicklisp</html_url>
+      <created_at>2011-05-03T18:29:36Z</created_at>
+      <updated_at>2013-06-30T06:48:15Z</updated_at>
+      <description>Quicklisp is a library manager for Common Lisp.  It can download, install, and load any of over 500 libraries with a few simple commands.  Quicklisp is easy to install and works with ABCL, Allegro CL, Clozure CL, CLISP, CMUCL, ECL, LispWorks, SBCL, and Scieneer CL, on Linux, Mac OS X, and Windows.</description>
+      <homepage_url>http://www.quicklisp.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>quicklisp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43402/ql_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43402/ql_small.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14474465</analysis_id>
+      <tags>
+        <tag>asdf</tag>
+        <tag>lisp</tag>
+        <tag>common_lisp</tag>
+        <tag>librarymanagement</tag>
+      </tags>
+      <analysis>
+        <id>14474465</id>
+        <url>http://www.ohloh.net/analyses/14474465.xml</url>
+        <project_id>535940</project_id>
+        <updated_at>2013-06-30T06:48:15Z</updated_at>
+        <logged_at>2013-06-30T06:46:37Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9430</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/quicklisp/analyses/14474465/languages.png">
+          <language color="93D290" percentage="100" id="22">
+Lisp          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>22</main_language_id>
+        <main_language_name>Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

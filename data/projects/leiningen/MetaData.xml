@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481848</id>
+      <name>Leiningen</name>
+      <url>http://www.ohloh.net/p/leiningen.xml</url>
+      <html_url>http://www.ohloh.net/p/leiningen</html_url>
+      <created_at>2010-03-15T21:30:35Z</created_at>
+      <updated_at>2013-07-08T03:09:56Z</updated_at>
+      <description>Leiningen is for automating Clojure projects without setting your hair on fire.</description>
+      <homepage_url>http://leiningen.org</homepage_url>
+      <download_url>http://github.com/technomancy/leiningen/raw/stable/bin/lein</download_url>
+      <url_name>leiningen</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37088/lein-square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37088/lein-square_small.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.85714</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566254</analysis_id>
+      <tags>
+        <tag>clojure</tag>
+        <tag>dependency</tag>
+        <tag>build</tag>
+      </tags>
+      <analysis>
+        <id>14566254</id>
+        <url>http://www.ohloh.net/analyses/14566254.xml</url>
+        <project_id>481848</project_id>
+        <updated_at>2013-07-08T03:09:56Z</updated_at>
+        <logged_at>2013-07-08T02:21:01Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>101</twelve_month_contributor_count>
+        <total_code_lines>7187</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/leiningen/analyses/14566254/languages.png">
+          <language color="EEE" percentage="89" id="80">
+Clojure          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>80</main_language_id>
+        <main_language_name>Clojure</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5704</id>
+      <name>Onepoint Project</name>
+      <url>http://www.ohloh.net/p/opproject.xml</url>
+      <html_url>http://www.ohloh.net/p/opproject</html_url>
+      <created_at>2007-05-31T13:25:20Z</created_at>
+      <updated_at>2013-07-09T19:27:09Z</updated_at>
+      <description>Onepoint Project combines project planning, progress tracking, project monitoring, project controlling and reporting into a single project leadership software solution. You have the choice between a plug &amp; play desktop version or a fully Web 2.0-based multi-user version. The commercial editions feature additional planning and monitoring tools such as an interactive work breakdown structure (WBS), a milestone trend analysis and a project pipeline chart.</description>
+      <homepage_url>http://www.onepoint-project.com</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=177096</download_url>
+      <url_name>opproject</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>13</user_count>
+      <average_rating>4.3</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>14253542</analysis_id>
+      <tags>
+        <tag>work_breakdown_structure</tag>
+        <tag>reporting</tag>
+        <tag>project_management</tag>
+        <tag>accounting</tag>
+        <tag>collaboration</tag>
+        <tag>cost_tracking</tag>
+        <tag>planning</tag>
+        <tag>time_tracking</tag>
+        <tag>web</tag>
+        <tag>gantt</tag>
+        <tag>project_collaboration</tag>
+        <tag>project</tag>
+        <tag>scheduling</tag>
+      </tags>
+      <analysis>
+        <id>14253542</id>
+        <url>http://www.ohloh.net/analyses/14253542.xml</url>
+        <project_id>5704</project_id>
+        <updated_at>2013-07-06T20:03:36Z</updated_at>
+        <logged_at>2013-07-06T20:03:32Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>129989</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opproject/analyses/14253542/languages.png">
+          <language color="9A63AD" percentage="70" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

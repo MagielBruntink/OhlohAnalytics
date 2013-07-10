@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>521520</id>
+      <name>Apache Rave</name>
+      <url>http://www.ohloh.net/p/ApacheRave.xml</url>
+      <html_url>http://www.ohloh.net/p/ApacheRave</html_url>
+      <created_at>2011-04-22T22:31:51Z</created_at>
+      <updated_at>2013-07-09T19:12:08Z</updated_at>
+      <description>Apache Rave is a new web and social mashup engine. It will provide an out-of-the-box as well as an extensible lightweight Java platform to host, serve and aggregate (Open)Social Gadgets and services through a highly customizable and Web 2.0 friendly front-end. Rave is targeted as an engine for internet and intranet portals and as a building block to provide context-aware personalization and collaboration features for multi-site/multi-channel (mobile) oriented and content driven websites and (social) network oriented services and platforms. For the OpenSocial container and services the (Java) Apache Shindig has been be integrated. Apache Rave also transparently supports W3C Widgets using Apache Wookie.</description>
+      <homepage_url>http://rave.apache.org/</homepage_url>
+      <download_url>http://rave.apache.org/downloads.html</download_url>
+      <url_name>ApacheRave</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44681/RAVE-logo_square-logo-light_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44681/RAVE-logo_square-logo-light_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14456649</analysis_id>
+      <tags>
+        <tag>wookie</tag>
+        <tag>gadgets</tag>
+        <tag>java</tag>
+        <tag>opensocial</tag>
+        <tag>widgets</tag>
+        <tag>shindig</tag>
+      </tags>
+      <analysis>
+        <id>14456649</id>
+        <url>http://www.ohloh.net/analyses/14456649.xml</url>
+        <project_id>521520</project_id>
+        <updated_at>2013-06-29T12:36:09Z</updated_at>
+        <logged_at>2013-06-29T12:33:02Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>79343</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ApacheRave/analyses/14456649/languages.png">
+          <language color="9A63AD" percentage="70" id="5">
+Java          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="A4007E" percentage="7" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="8" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4875</id>
+      <name>Apache Directory Studio</name>
+      <url>http://www.ohloh.net/p/elbe.xml</url>
+      <html_url>http://www.ohloh.net/p/elbe</html_url>
+      <created_at>2007-04-13T23:45:45Z</created_at>
+      <updated_at>2013-07-03T21:33:10Z</updated_at>
+      <description>LDAP Studio is a complete LDAP tooling platform intended to be used with any LDAP server however it is particularly designed for use with the Apache Directory Server.
+
+Developed as a sub-project of the Directory Top Level Project, LDAP Studio is an Eclipse RCP application that takes full advantage of the benefits inherent in the Eclipse platform. Composed of several Eclipse (OSGi) plugins, LDAP Studio can be easily upgraded with additional plugins.
+LDAP Studio plugins can even run within a full installation of Eclipse itself.</description>
+      <homepage_url>http://directory.apache.org/studio</homepage_url>
+      <download_url>http://directory.apache.org/studio/downloads.html</download_url>
+      <url_name>elbe</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4486/studio-icon_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4486/studio-icon_64x64_small.png</small_logo_url>
+      <user_count>14</user_count>
+      <average_rating>4.55556</average_rating>
+      <rating_count>9</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14518150</analysis_id>
+      <tags>
+        <tag>eclipse</tag>
+        <tag>java</tag>
+        <tag>ldap_server</tag>
+        <tag>directory</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>ldap</tag>
+      </tags>
+      <analysis>
+        <id>14518150</id>
+        <url>http://www.ohloh.net/analyses/14518150.xml</url>
+        <project_id>4875</project_id>
+        <updated_at>2013-07-03T21:33:10Z</updated_at>
+        <logged_at>2013-07-03T21:25:49Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>277109</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/elbe/analyses/14518150/languages.png">
+          <language color="9A63AD" percentage="70" id="5">
+Java          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

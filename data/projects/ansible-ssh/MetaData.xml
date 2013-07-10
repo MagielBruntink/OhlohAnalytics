@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596190</id>
+      <name>Ansible</name>
+      <url>http://www.ohloh.net/p/ansible-ssh.xml</url>
+      <html_url>http://www.ohloh.net/p/ansible-ssh</html_url>
+      <created_at>2012-03-09T15:43:42Z</created_at>
+      <updated_at>2013-07-03T15:47:29Z</updated_at>
+      <description>Ansible is a radically simple configuration management, deployment, and ad-hoc task execution tool.
+
+It supports a wide variety of distributions, requires no software installed on managed machines, and users can get going in minutes.  Extension modules can be written in any language.</description>
+      <homepage_url>http://ansible.cc</homepage_url>
+      <download_url>http://ansible.github.com</download_url>
+      <url_name>ansible-ssh</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63322/AnsibleLogos-twitter-profile_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63322/AnsibleLogos-twitter-profile_small.png</small_logo_url>
+      <user_count>18</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14515762</analysis_id>
+      <tags>
+        <tag>provisioning</tag>
+        <tag>automation</tag>
+        <tag>parallel</tag>
+        <tag>management</tag>
+        <tag>python</tag>
+        <tag>linux</tag>
+        <tag>orchestration</tag>
+        <tag>configuration</tag>
+        <tag>config</tag>
+        <tag>deployment</tag>
+        <tag>devops</tag>
+        <tag>systemsmanagement</tag>
+        <tag>unix</tag>
+        <tag>facter</tag>
+        <tag>administration</tag>
+        <tag>system_management</tag>
+        <tag>ssh</tag>
+        <tag>openssh</tag>
+        <tag>configuration_management</tag>
+        <tag>modules</tag>
+      </tags>
+      <analysis>
+        <id>14515762</id>
+        <url>http://www.ohloh.net/analyses/14515762.xml</url>
+        <project_id>596190</project_id>
+        <updated_at>2013-07-03T15:47:28Z</updated_at>
+        <logged_at>2013-07-03T15:38:46Z</logged_at>
+        <min_month>2012-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>300</twelve_month_contributor_count>
+        <total_code_lines>33615</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ansible-ssh/analyses/14515762/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="16" id="4">
+CSS          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
