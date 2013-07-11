@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3934</id>
+      <name>RSF</name>
+      <url>http://www.ohloh.net/p/ponderutil.xml</url>
+      <html_url>http://www.ohloh.net/p/ponderutil</html_url>
+      <created_at>2007-01-05T18:41:45Z</created_at>
+      <updated_at>2013-06-24T03:26:15Z</updated_at>
+      <description>RSF is a web programming framework. It has roughly the same scope as Sun's JSF, taking responsibility for the entire request processing cycle through HTTP request decoding, maintaining a bean model, invoking actions, directing errors, intepreting results and rendering views.
+Features:
+Pure-HTML templating
+Uses Spring for IoC throughout
+Ultra-lightweight component tree
+Minimal and fast</description>
+      <homepage_url>http://rsf.fluidproject.org/wiki</homepage_url>
+      <download_url></download_url>
+      <url_name>ponderutil</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23146/rsf_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23146/rsf_logo_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14372686</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>faces</tag>
+        <tag>html</tag>
+        <tag>template</tag>
+        <tag>server</tag>
+        <tag>reasonable</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14372686</id>
+        <url>http://www.ohloh.net/analyses/14372686.xml</url>
+        <project_id>3934</project_id>
+        <updated_at>2013-07-01T06:41:57Z</updated_at>
+        <logged_at>2013-07-01T06:40:55Z</logged_at>
+        <min_month>2004-09-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>103206</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ponderutil/analyses/14372686/languages.png">
+          <language color="9A63AD" percentage="52" id="5">
+Java          </language>
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

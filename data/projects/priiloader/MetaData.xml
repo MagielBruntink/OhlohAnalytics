@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>466539</id>
+      <name>priiloader</name>
+      <url>http://www.ohloh.net/p/priiloader.xml</url>
+      <html_url>http://www.ohloh.net/p/priiloader</html_url>
+      <created_at>2009-10-22T21:11:54Z</created_at>
+      <updated_at>2013-07-01T10:20:43Z</updated_at>
+      <description>What is PriiloaderPriiloader is a modded version of Preloader 0.30 by DacoTaco &amp; Phpgeek . our aim is to get Preloader 100% bugfree and make it as safe/functional as possible. 
+
+quick note: priiloader will NOT save your wii if you fucked up the system menu ios (on 4.2 this is ios70. see here to check which ios that is for you. 
+
+What has been changed since Preloader 0.30 base source?added Bootmii IOS booting option to menu and autoboot (handy for restoring and/or sneek) Support for BOTH HBC title Id's removed need for ES_DIVerify (note: installation still needs the patch on IOS36 or cios but Priiloader it self does NOT) killed the DVD spin bug (crediar forgot to close the dvd drive in ios) fixed temperamental issue with autobooting added our own installer (phpgeek's) which still has various bugs ReA-added the old black theme Added a check on boot so some apps can reboot/launch system menu and force priiloader to show up or start system menu Added start of Wiiware/VC titles &amp; much much more 
+What do i need to install Priiloader?thats the best part! all you need is a way of booting homebrew (Homebrew channel recommended) and having its booting ios ES_DIVerify&amp;trucha patched (when using Homebrew channel this is IOS36). the installer should show what ios its using in case you dont know! 
+
+priiloader itself needs no hacked ios at all (hell, we recommend using unpatched ios's!) 
+
+Can i contact you guys elsewhere?yes you can! me (Daco) can be found in #priiloader and #wiidev on efnet.org</description>
+      <homepage_url>http://code.google.com/p/priiloader/</homepage_url>
+      <download_url></download_url>
+      <url_name>priiloader</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14500014</analysis_id>
+      <tags>
+        <tag>mod</tag>
+        <tag>bootmii</tag>
+        <tag>wii</tag>
+        <tag>homebrewchannel</tag>
+        <tag>preloader</tag>
+        <tag>hacking</tag>
+      </tags>
+      <analysis>
+        <id>14500014</id>
+        <url>http://www.ohloh.net/analyses/14500014.xml</url>
+        <project_id>466539</project_id>
+        <updated_at>2013-07-01T10:20:42Z</updated_at>
+        <logged_at>2013-07-01T10:19:02Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12157</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/priiloader/analyses/14500014/languages.png">
+          <language color="F35F1F" percentage="71" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="25" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

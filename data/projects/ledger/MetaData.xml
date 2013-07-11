@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15369</id>
+      <name>Ledger</name>
+      <url>http://www.ohloh.net/p/ledger.xml</url>
+      <html_url>http://www.ohloh.net/p/ledger</html_url>
+      <created_at>2008-07-07T21:37:07Z</created_at>
+      <updated_at>2013-05-18T17:01:41Z</updated_at>
+      <description>Ledger is a powerful, double-entry accounting system that is accessed from the UNIX command-line. This may put off some users, as there is no flashy UI, but for those who want unparalleled reporting access to their data, there really is no alternative.
+
+Here are some of the features of Ledger which set it apart from other accounting systems:
+* Ledger never creates or modifies your data.
+* Ledger is 100% currency-agnostic.
+* Ledger is international (UTF-8, ISO format dates, US or European decimal formats).
+* Ledger uses a simple set of base commands which can be extended in countless ways.</description>
+      <homepage_url>http://www.newartisans.com/software/ledger.html</homepage_url>
+      <download_url>http://www.newartisans.com/software/ledger.html</download_url>
+      <url_name>ledger</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13964533</analysis_id>
+      <tags>
+        <tag>application</tag>
+        <tag>personal</tag>
+        <tag>mac</tag>
+        <tag>money</tag>
+        <tag>linux</tag>
+        <tag>accounting</tag>
+        <tag>finance</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+        <tag>report</tag>
+        <tag>tools</tag>
+        <tag>business</tag>
+        <tag>cross-platform</tag>
+      </tags>
+      <analysis>
+        <id>13964533</id>
+        <url>http://www.ohloh.net/analyses/13964533.xml</url>
+        <project_id>15369</project_id>
+        <updated_at>2013-05-18T17:01:40Z</updated_at>
+        <logged_at>2013-05-18T14:14:28Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>96901</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ledger/analyses/13964533/languages.png">
+          <language color="F35F1F" percentage="75" id="44">
+C++          </language>
+          <language color="4A246B" percentage="9" id="9">
+Python          </language>
+          <language color="2B6B24" percentage="7" id="10">
+Emacs Lisp          </language>
+          <language color="000000" percentage="9" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

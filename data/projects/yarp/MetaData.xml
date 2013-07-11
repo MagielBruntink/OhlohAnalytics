@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5627</id>
+      <name>YARP</name>
+      <url>http://www.ohloh.net/p/yarp.xml</url>
+      <html_url>http://www.ohloh.net/p/yarp</html_url>
+      <created_at>2007-05-29T09:16:31Z</created_at>
+      <updated_at>2013-07-05T12:21:42Z</updated_at>
+      <description>YARP: Yet Another Robot Platform.  Libraries and applications to support flexible communication between processes and devices spread across a local network.  Especially useful for inhomogeneous networks with a mixture of operating systems and compilers.  Originally developed for large-scale humanoid robot projects such as COG, Kismet, and RobotCub, where many idiosyncratic devices need to be integrated into a single control system without there being any one OS that supports them all.  Uses well-specified protocols across tcp, udp, shared-memory, and multicast, with binary and text-mode variants.</description>
+      <homepage_url>http://yarp0.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=62418</download_url>
+      <url_name>yarp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29163/yarp-logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29163/yarp-logo_small.gif</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14536000</analysis_id>
+      <tags>
+        <tag>middleware</tag>
+        <tag>research</tag>
+        <tag>c++</tag>
+        <tag>vision</tag>
+        <tag>robot</tag>
+        <tag>streaming</tag>
+        <tag>human_machine_interfaces</tag>
+        <tag>ai</tag>
+        <tag>communications</tag>
+        <tag>devices</tag>
+        <tag>programming</tag>
+        <tag>ipc</tag>
+        <tag>artificial_intelligence</tag>
+        <tag>humanoid</tag>
+        <tag>robotics</tag>
+        <tag>cmake</tag>
+      </tags>
+      <analysis>
+        <id>14536000</id>
+        <url>http://www.ohloh.net/analyses/14536000.xml</url>
+        <project_id>5627</project_id>
+        <updated_at>2013-07-05T12:21:41Z</updated_at>
+        <logged_at>2013-07-05T12:14:50Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>1185996</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yarp/analyses/14536000/languages.png">
+          <language color="F35F1F" percentage="39" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="EEE" percentage="11" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="32" id="">
+25 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6482</id>
+      <name>Jamwiki</name>
+      <url>http://www.ohloh.net/p/jamwiki.xml</url>
+      <html_url>http://www.ohloh.net/p/jamwiki</html_url>
+      <created_at>2007-07-07T16:47:50Z</created_at>
+      <updated_at>2013-07-10T17:15:55Z</updated_at>
+      <description>JAMwiki is a state-of-the-art reimplementation of Mediawiki in Java (servlet 2.3 and Java 1.5 compatibility). It can be run with or without a database and is designed to be fast and easy to set up. 
+
+JAM is not the same implementation but supports most of MediaWiki syntax, including advanced constructs like templates. It runs inside Apache Tomcat, Glassfish or similar server.</description>
+      <homepage_url>http://jamwiki.org/</homepage_url>
+      <download_url>http://jamwiki.org/wiki/en/JAMWiki_Release_Archive</download_url>
+      <url_name>jamwiki</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35730/logo_oliver_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35730/logo_oliver_small.gif</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14341864</analysis_id>
+      <tags>
+        <tag>jsp</tag>
+        <tag>j2ee</tag>
+        <tag>cms</tag>
+        <tag>mediawiki</tag>
+        <tag>web</tag>
+        <tag>wiki</tag>
+        <tag>content_management</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14341864</id>
+        <url>http://www.ohloh.net/analyses/14341864.xml</url>
+        <project_id>6482</project_id>
+        <updated_at>2013-07-10T03:53:30Z</updated_at>
+        <logged_at>2013-07-10T03:53:25Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>36164</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jamwiki/analyses/14341864/languages.png">
+          <language color="9A63AD" percentage="81" id="5">
+Java          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

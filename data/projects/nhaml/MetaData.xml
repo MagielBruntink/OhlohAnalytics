@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21837</id>
+      <name>nhaml</name>
+      <url>http://www.ohloh.net/p/nhaml.xml</url>
+      <html_url>http://www.ohloh.net/p/nhaml</html_url>
+      <created_at>2008-10-07T14:18:39Z</created_at>
+      <updated_at>2013-07-06T21:15:21Z</updated_at>
+      <description>NHaml (pronounced enamel) is a pure .NET implementation of the popular Rails Haml view engine. From the Haml website: 
+
+&quot;Haml is a markup language that&#8216;s used to cleanly and simply describe the XHTML of any web document, without the use of inline code. Haml functions as a replacement for inline page templating systems such as PHP, ERB, and ASP. However, Haml avoids the need for explicitly coding XHTML into the template, because it is actually an abstract description of the XHTML, with some code to generate dynamic content.&quot; 
+
+In other words, NHaml is an external DSL for XHTML. It&#8217;s primary qualities are it&#8217;s simplicity, terseness, performance and that it outputs nicely formatted XHTML. Additionally, the NHaml view engine provides support for Rails style layouts and partials and ships w</description>
+      <homepage_url>http://code.google.com/p/nhaml</homepage_url>
+      <download_url>http://code.google.com/p/nhaml/downloads</download_url>
+      <url_name>nhaml</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15216/dotnet_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15216/dotnet_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14555320</analysis_id>
+      <tags>
+        <tag>csharp</tag>
+        <tag>aspnetmvc</tag>
+        <tag>partials</tag>
+        <tag>haml</tag>
+        <tag>layouts</tag>
+        <tag>viewengine</tag>
+      </tags>
+      <analysis>
+        <id>14555320</id>
+        <url>http://www.ohloh.net/analyses/14555320.xml</url>
+        <project_id>21837</project_id>
+        <updated_at>2013-07-06T21:15:20Z</updated_at>
+        <logged_at>2013-07-06T21:12:59Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>61187</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nhaml/analyses/14555320/languages.png">
+          <language color="555555" percentage="70" id="3">
+XML          </language>
+          <language color="4096EE" percentage="23" id="17">
+C#          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

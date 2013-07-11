@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346321</id>
+      <name>Eclipse Plug-in Development Environment</name>
+      <url>http://www.ohloh.net/p/eclipse-pde.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse-pde</html_url>
+      <created_at>2009-06-09T16:49:51Z</created_at>
+      <updated_at>2013-07-09T12:56:03Z</updated_at>
+      <description>The Eclipse Plug-in Development Environment (PDE) provides tools to create, develop, test, debug, build and deploy Eclipse plug-ins, fragments, features, update sites and RCP products.
+
+PDE also provides comprehensive OSGi tooling, which makes it an ideal environment for component programming, not just Eclipse plug-in development.
+
+PDE is built atop the Platform and JDT, and ships as part of the Eclipse SDK.</description>
+      <homepage_url>http://www.eclipse.org/pde/</homepage_url>
+      <download_url>http://www.eclipse.org/downloads/</download_url>
+      <url_name>eclipse-pde</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34999/plugin_med.PNG</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34999/plugin_small.PNG</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14572331</analysis_id>
+      <tags>
+        <tag>eclipse-plugins</tag>
+        <tag>apitools</tag>
+        <tag>eclipseplugin</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>osgi</tag>
+        <tag>eclipseplug-in</tag>
+        <tag>pde</tag>
+        <tag>ds</tag>
+        <tag>eclipse-plugin</tag>
+        <tag>eclipse</tag>
+      </tags>
+      <analysis>
+        <id>14572331</id>
+        <url>http://www.ohloh.net/analyses/14572331.xml</url>
+        <project_id>346321</project_id>
+        <updated_at>2013-07-09T12:56:03Z</updated_at>
+        <logged_at>2013-07-08T11:42:31Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>500332</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse-pde/analyses/14572331/languages.png">
+          <language color="9A63AD" percentage="91" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

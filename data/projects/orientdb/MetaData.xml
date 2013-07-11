@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482254</id>
+      <name>OrientDB</name>
+      <url>http://www.ohloh.net/p/orientdb.xml</url>
+      <html_url>http://www.ohloh.net/p/orientdb</html_url>
+      <created_at>2010-04-04T12:22:54Z</created_at>
+      <updated_at>2013-07-10T11:30:00Z</updated_at>
+      <description>OrientDB is a deeply scalable Document-Graph DBMS with the flexibility of the Document databases and the power to manage links of the Graph databases. It can work in schema-less mode, schema-full or a mix of both. Supports advanced features such as ACID Transactions, Fast Indexes, Native and SQL queries. It imports and exports documents in JSON. Graphs of hundreads of linked documents can be retrieved all in memory in few milliseconds without executing costly JOIN such as the Relational DBMSs do.
+
+OrientDB uses a new indexing algorithm called MVRB-Tree, derived from the Red-Black Tree and from the B+Tree with benefits of both: fast insertion and ultra fast lookup.</description>
+      <homepage_url>http://www.orientechnologies.com</homepage_url>
+      <download_url>http://code.google.com/p/orient/downloads/list</download_url>
+      <url_name>orientdb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32255/orient_sun_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32255/orient_sun_logo_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581166</analysis_id>
+      <tags>
+        <tag>graphdb</tag>
+        <tag>java</tag>
+        <tag>fast</tag>
+        <tag>sql</tag>
+        <tag>nosql</tag>
+        <tag>lightweight</tag>
+        <tag>database</tag>
+        <tag>dbms</tag>
+        <tag>graph</tag>
+      </tags>
+      <analysis>
+        <id>14581166</id>
+        <url>http://www.ohloh.net/analyses/14581166.xml</url>
+        <project_id>482254</project_id>
+        <updated_at>2013-07-10T11:30:00Z</updated_at>
+        <logged_at>2013-07-10T11:29:00Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>33</twelve_month_contributor_count>
+        <total_code_lines>214763</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/orientdb/analyses/14581166/languages.png">
+          <language color="9A63AD" percentage="73" id="5">
+Java          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

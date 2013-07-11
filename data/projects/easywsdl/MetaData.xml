@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>157848</id>
+      <name>EasyWSDL</name>
+      <url>http://www.ohloh.net/p/easywsdl.xml</url>
+      <html_url>http://www.ohloh.net/p/easywsdl</html_url>
+      <created_at>2009-01-14T17:04:04Z</created_at>
+      <updated_at>2013-07-09T22:35:29Z</updated_at>
+      <description>EasyWSDL is a powerful WSDL parsing library. It can be used to parse and manipulate WSDL 1.1 defintions or WSDL 2.0 descriptions.
+
+EasyWSDL (3.0) is under development and is splitted into 4 modules:
+- EasyWSDL11: WSDL 1.1 management.
+- EasyWSDL20: WSDL 2.0 management.
+- SoapBinding11: management of SOAP Binding 1.1.
+- SoapBinding11: management of SOAP Binding 1.2.
+- EasySAWSDL: Semantic annotation handling (according to SAWSDL standard).
+
+This new version aims to cover the same functional perimeter than the older one (transparent WSDL 1.1 and 2.0 handling) with higher stability and test coverage.
+
+
+For any information about old version (2.3 and older), please refer to http://easywsdl.ow2.org</description>
+      <homepage_url>http://research.petalslink.org/display/easywsdl/EasyWSDL+Overview</homepage_url>
+      <download_url></download_url>
+      <url_name>easywsdl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27116/easywsdl-logo-ohloh_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27116/easywsdl-logo-ohloh_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4005810</analysis_id>
+      <tags>
+        <tag>petalslink</tag>
+        <tag>java</tag>
+        <tag>wsdl11</tag>
+        <tag>wsdl</tag>
+        <tag>webservice</tag>
+        <tag>distributed_systems</tag>
+        <tag>semantic</tag>
+        <tag>sawsdl</tag>
+        <tag>wsdl20</tag>
+        <tag>w3c</tag>
+        <tag>handler</tag>
+        <tag>easyschema</tag>
+        <tag>easywsdl</tag>
+      </tags>
+      <analysis>
+        <id>4005810</id>
+        <url>http://www.ohloh.net/analyses/4005810.xml</url>
+        <project_id>157848</project_id>
+        <updated_at>2011-09-17T23:02:39Z</updated_at>
+        <logged_at>2011-09-17T20:00:57Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>179886</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/easywsdl/analyses/4005810/languages.png">
+          <language color="555555" percentage="49" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="32" id="5">
+Java          </language>
+          <language color="556677" percentage="18" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

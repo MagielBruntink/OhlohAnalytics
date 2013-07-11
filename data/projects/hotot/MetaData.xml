@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584323</id>
+      <name>Hotot</name>
+      <url>http://www.ohloh.net/p/hotot.xml</url>
+      <html_url>http://www.ohloh.net/p/hotot</html_url>
+      <created_at>2011-06-05T03:25:20Z</created_at>
+      <updated_at>2013-06-15T10:00:07Z</updated_at>
+      <description>Hotot, is a lightweight &amp; open source microblogging software, coding using Python language and designed for Linux.
+
+It depends less but supports more. It's been developed actively and still in Alpha stage.</description>
+      <homepage_url>http://hotot.org</homepage_url>
+      <download_url>http://hotot.org</download_url>
+      <url_name>hotot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44355/hotot_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44355/hotot_small.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>1.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14265699</analysis_id>
+      <tags>
+        <tag>jquery</tag>
+        <tag>client</tag>
+        <tag>html</tag>
+        <tag>twitter</tag>
+        <tag>python</tag>
+        <tag>javascript</tag>
+        <tag>webkit</tag>
+        <tag>chrome</tag>
+        <tag>extension</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14265699</id>
+        <url>http://www.ohloh.net/analyses/14265699.xml</url>
+        <project_id>584323</project_id>
+        <updated_at>2013-07-08T06:49:21Z</updated_at>
+        <logged_at>2013-07-08T06:49:19Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>38</twelve_month_contributor_count>
+        <total_code_lines>24933</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hotot/analyses/14265699/languages.png">
+          <language color="A4007E" percentage="63" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="12" id="4">
+CSS          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="000000" percentage="15" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

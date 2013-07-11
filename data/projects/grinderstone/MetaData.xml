@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>42543</id>
+      <name>GrinderStone</name>
+      <url>http://www.ohloh.net/p/grinderstone.xml</url>
+      <html_url>http://www.ohloh.net/p/grinderstone</html_url>
+      <created_at>2008-12-15T06:27:18Z</created_at>
+      <updated_at>2013-07-09T19:26:15Z</updated_at>
+      <description>GrinderStone is a plugin to Eclipse for The Grinder, widely used open source performance testing product. The main goal of GrinderStone project is to provide ability to run and debug created scripts for The Grinder in Eclipse.
+
+Main features:
+- debugger for Grinder scripts
+- running scripts from Eclipse
+- ability to create separate running configurations
+- ability to reference Java projects from Jython projects
+- redirect all Grinder outputs to Eclipse terminal</description>
+      <homepage_url>http://code.google.com/p/grinderstone</homepage_url>
+      <download_url>http://code.google.com/p/grinderstone/downloads/list</download_url>
+      <url_name>grinderstone</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/30551/grinderstone-medium_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/30551/grinderstone-medium_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14512764</analysis_id>
+      <tags>
+        <tag>stress-testing</tag>
+        <tag>jython</tag>
+        <tag>performance-testing</tag>
+        <tag>plugin</tag>
+        <tag>eclipse</tag>
+        <tag>test</tag>
+        <tag>performance</tag>
+        <tag>grinder</tag>
+        <tag>grinderstone</tag>
+        <tag>java</tag>
+        <tag>devtool</tag>
+        <tag>python</tag>
+        <tag>testing</tag>
+        <tag>load-testing</tag>
+      </tags>
+      <analysis>
+        <id>14512764</id>
+        <url>http://www.ohloh.net/analyses/14512764.xml</url>
+        <project_id>42543</project_id>
+        <updated_at>2013-07-03T07:28:50Z</updated_at>
+        <logged_at>2013-07-03T07:28:07Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2448</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grinderstone/analyses/14512764/languages.png">
+          <language color="9A63AD" percentage="62" id="5">
+Java          </language>
+          <language color="4A246B" percentage="26" id="9">
+Python          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

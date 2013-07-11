@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>78152</id>
+      <name>mailxel</name>
+      <url>http://www.ohloh.net/p/mailxel.xml</url>
+      <html_url>http://www.ohloh.net/p/mailxel</html_url>
+      <created_at>2008-12-20T03:35:24Z</created_at>
+      <updated_at>2013-06-12T04:54:18Z</updated_at>
+      <description>mailxel is a personal mail store and mail client with focus on management and organization of high volume mail boxes. Like gmail, but private. 
+
+ 
+
+The main features are: fast search, tagging, GTD inbox management workflow, efficient data storage, address management, automated server-side mail folder organization, normal mail functionality (send, recieve, forward etc etc). 
+
+ 
+
+This is the main toolbar, featuring search, compose mail, compose note to self, address book, GTD/tag management, mail download, mail folder reorganization, settings, login and additional functions. 
+
+mailxel, by design, leaves the mails on your server untouched (exceptions: sending mails and folder reorganization do alter the content on the mail server). Also, mails are only downloaded on request, allowing for undistracted working periods. 
+
+ 
+
+This toolbar shows the controls on the mail detail, featuring: forward, reply, previous mail (from serach result list), a choice of quick tags based on the GTD workflow which tag the mail and move to the next with just one click, and next mail. 
+
+ 
+
+This screen illustrates how mailxel helps you with text input with suggestions, here with addresses from the address book. The list is sorted based on usage frequency: the top entry is the one you use most often, allowing for percise and fast text completion. 
+
+ 
+
+This screen points out two important features: search and tabs. mailxel does not take the classical approach to search and does not - as of yet - use full text indices. It turns out that precise results are achieved through the combination of the displayed attributes - most often, the combination of sender and subject leads to the desired match. Note that search patterns currently use the '%' sign als wildcard. 
+
+Tabs are just as important: often, mails are composed based on input from other channels, be that the web or another mail or note. The tabs allow you to compose a mail while collecting this information, e.g. by starting a separate search to display a recent mail thread, or to look up a specific date or fact. 
+
+Getting StartedThe welcome wizard guides you to the basic settings 
+
+ 
+
+Usingthe application should be readily understandable. If not: please tell me use '%' as a wild card for searches start typing or use either ctrl-space; this will produce suggestions if possible    
+
+
+
+
+
+
+
+ 
+
+ back to main tab, displaying search results  edit contacts  upload contact data  download mail from IMAP or POP account  settings  select mails which need action (based on GTD categorization)  categorize currently selected mails  select for more options  manage categories  reorganize mail folder (based on rules)</description>
+      <homepage_url>http://code.google.com/p/mailxel</homepage_url>
+      <download_url></download_url>
+      <url_name>mailxel</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/24646/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/24646/logo_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14236492</analysis_id>
+      <tags>
+        <tag>oss</tag>
+        <tag>archive</tag>
+        <tag>gtd</tag>
+        <tag>java</tag>
+        <tag>zeroinbox</tag>
+        <tag>gwt</tag>
+      </tags>
+      <analysis>
+        <id>14236492</id>
+        <url>http://www.ohloh.net/analyses/14236492.xml</url>
+        <project_id>78152</project_id>
+        <updated_at>2013-07-05T11:19:04Z</updated_at>
+        <logged_at>2013-07-05T11:19:01Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11569</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mailxel/analyses/14236492/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="493625" percentage="5" id="30">
+SQL          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10513</id>
+      <name>rbot</name>
+      <url>http://www.ohloh.net/p/rbot.xml</url>
+      <html_url>http://www.ohloh.net/p/rbot</html_url>
+      <created_at>2007-12-24T08:18:19Z</created_at>
+      <updated_at>2013-07-07T11:10:27Z</updated_at>
+      <description>rbot is a ruby IRC bot. Think of him as a ruby bot framework with a highly modular design based around plugins.
+
+By default he behaves a lot like an infobot.</description>
+      <homepage_url>http://ruby-rbot.org/</homepage_url>
+      <download_url>http://ruby-rbot.org/download</download_url>
+      <url_name>rbot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14561136</analysis_id>
+      <tags>
+        <tag>rubygem</tag>
+        <tag>rbot</tag>
+        <tag>ircbot</tag>
+        <tag>ruby</tag>
+        <tag>irc</tag>
+      </tags>
+      <analysis>
+        <id>14561136</id>
+        <url>http://www.ohloh.net/analyses/14561136.xml</url>
+        <project_id>10513</project_id>
+        <updated_at>2013-07-07T11:10:27Z</updated_at>
+        <logged_at>2013-07-07T11:08:25Z</logged_at>
+        <min_month>2004-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>30928</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rbot/analyses/14561136/languages.png">
+          <language color="A40011" percentage="99" id="12">
+Ruby          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

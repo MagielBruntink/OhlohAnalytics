@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>240359</id>
+      <project_id>13042</project_id>
+      <repository_id>238047</repository_id>
+      <repository>
+        <id>238047</id>
+        <type>GitRepository</type>
+        <url>http://invenio-software.org/repo/invenio</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T05:56:45Z</logged_at>
+        <commits>9976</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>466532</id>
+      <project_id>13042</project_id>
+      <repository_id>463288</repository_id>
+      <repository>
+        <id>463288</id>
+        <type>GitRepository</type>
+        <url>http://invenio-software.org/repo/invenio</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-09-28T21:42:53Z</logged_at>
+        <commits>9417</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

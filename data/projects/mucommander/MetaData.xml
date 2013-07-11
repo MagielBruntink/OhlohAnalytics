@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16423</id>
+      <name>muCommander</name>
+      <url>http://www.ohloh.net/p/mucommander.xml</url>
+      <html_url>http://www.ohloh.net/p/mucommander</html_url>
+      <created_at>2008-08-31T17:04:01Z</created_at>
+      <updated_at>2013-07-10T21:18:39Z</updated_at>
+      <description>muCommander is a lightweight, cross-platform file manager featuring a Norton Commander style interface and running on any operating system with Java support (Mac OS X, Windows, Linux, *BSD, Solaris...).</description>
+      <homepage_url>http://www.mucommander.com/</homepage_url>
+      <download_url>http://www.mucommander.com/index.php#download</download_url>
+      <url_name>mucommander</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8105/mucommander_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8105/mucommander_small.jpg</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14582869</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>bonjour</tag>
+        <tag>filemanager</tag>
+      </tags>
+      <analysis>
+        <id>14582869</id>
+        <url>http://www.ohloh.net/analyses/14582869.xml</url>
+        <project_id>16423</project_id>
+        <updated_at>2013-07-10T21:18:39Z</updated_at>
+        <logged_at>2013-07-10T08:27:56Z</logged_at>
+        <min_month>2002-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>87624</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mucommander/analyses/14582869/languages.png">
+          <language color="9A63AD" percentage="96" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

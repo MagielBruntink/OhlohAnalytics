@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>44045</id>
+      <name>gwt-log</name>
+      <url>http://www.ohloh.net/p/gwt-log.xml</url>
+      <html_url>http://www.ohloh.net/p/gwt-log</html_url>
+      <created_at>2008-12-15T18:30:42Z</created_at>
+      <updated_at>2013-06-24T16:19:48Z</updated_at>
+      <description>SummaryLibrary, providing easy to use logging capabilities, which works transparently on both the client and the server, while providing compile time elimination of client logging code via deferred binding with Google Web Toolkit (GWT). 
+
+Key FeaturesClient-side logging code is compiled out and introduces zero-overhead+ due to GWT compiler dead code elimination when log_level=OFF Serializable classes (domain objects, POJOs, etc.) can utilize the same logging code on client and server via inclusion of a single, common, gwt-log jar on both tiers Server side logging for mobile devices such as the iPhone Server side logging automatically detects Apache log4j, falling back to JDK 1.4 logging Seven out of the box log levels (TRACE, DEBUG, INFO, WARN, ERROR, FATAL, OFF) Several ways to control logging, via *.gwt.xml module file, a gwt:property in your HTML, a log_level URL parameter, at run time via Log.setCurrentLogLevel(...) Ability to independently control compile time and runtime log levels Both client side and server side logging work seamlessly with Google App Engine Wide variety of context sensitive log destinations: 
+
+Logger  Description   ConsoleLogger  Utilizes console.log() for supporting browsers and installed JavaScript libraries.   FirebugLogger  Utilizes Firebug console API logging: http://www.getfirebug.com/console.html   DivLogger  Utilizes a floating/draggable DIV for log messages.   GWTLogger  Utilizes GWT.log(), which will appear in the development shell in hosted mode.   SystemLogger  Utilizes System.err and System.out.   RemoteLogger  Sends copies of client log messages to the server via RPC.   WindowLogger  (Experimental) Logs messages to a separate window.  
+
++ Unless your logging parameters are determined by the GWT compiler to have side effects 
+
+Questions?If you have questions, please post them on http://groups.google.com/group/gwt-log and I (or someone else) will try to answer them as best as possible. Using the forum means that others can benefit from any answers and feedback you get. It is always the fastest way to get an answer to a new question. 
+
+Is your project using gwt-log?I'd like to know if you're using gwt-log on your project, and how useful (or not) this library is to you. You can send me an email at fred@allen-sauer.com. 
+
+Working examplesPlay with the log demo. 
+
+ 
+Getting started with your own gwt-log projectRead the wiki here: http://code.google.com/p/gwt-log/wiki/GettingStarted 
+
+FeedbackPlease let me know what you think. Suggestions are always welcome. 
+
+Projects using gwt-logSend me an email to add your project to this list. 
+
+Be sure to also list your app in the GWT Gallery http://gwtgallery.appspot.com/. 
+
+
+
+Project  Description   http://code.google.com/p/fishtagdisplay/  Fish tag display.   emite  A pure gwt xmpp library.   OpenKM Document Management System  Open source electronic document management system  
+
+Third Party gwt-log Tutorialshttp://developerlife.com/tutorials/?p=229 Other GWT projects by the same author
+
+Project  Description   gwt-dnd  Provides drag and drop support for your GWT applications.   gwt-voices  Provides sound support for your GWT applications.</description>
+      <homepage_url>http://code.google.com/p/gwt-log</homepage_url>
+      <download_url></download_url>
+      <url_name>gwt-log</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14382651</analysis_id>
+      <tags>
+        <tag>systemout</tag>
+        <tag>binding</tag>
+        <tag>systemerr</tag>
+        <tag>jdk</tag>
+        <tag>iphone</tag>
+        <tag>firebug</tag>
+        <tag>gwt</tag>
+        <tag>mobile</tag>
+        <tag>gwtlog</tag>
+        <tag>console</tag>
+        <tag>javautillogging</tag>
+        <tag>deferred</tag>
+        <tag>logging</tag>
+        <tag>log</tag>
+      </tags>
+      <analysis>
+        <id>14382651</id>
+        <url>http://www.ohloh.net/analyses/14382651.xml</url>
+        <project_id>44045</project_id>
+        <updated_at>2013-07-05T20:40:42Z</updated_at>
+        <logged_at>2013-07-05T20:40:40Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4736</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gwt-log/analyses/14382651/languages.png">
+          <language color="9A63AD" percentage="68" id="5">
+Java          </language>
+          <language color="555555" percentage="28" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

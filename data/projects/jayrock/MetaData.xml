@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3887</id>
+      <name>Jayrock</name>
+      <url>http://www.ohloh.net/p/jayrock.xml</url>
+      <html_url>http://www.ohloh.net/p/jayrock</html_url>
+      <created_at>2006-12-28T12:36:21Z</created_at>
+      <updated_at>2013-06-26T21:46:39Z</updated_at>
+      <description>Jayrock is a modest and an open source implementation of JSON and JSON-RPC for the Microsoft .NET Framework (including ASP.NET) and Mono.</description>
+      <homepage_url>http://jayrock.berlios.de/</homepage_url>
+      <download_url>http://code.google.com/p/jayrock/downloads/list</download_url>
+      <url_name>jayrock</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.83333</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14423153</analysis_id>
+      <tags>
+        <tag>dotnet</tag>
+        <tag>json-rpc</tag>
+        <tag>javascript</tag>
+        <tag>ajax</tag>
+        <tag>web_services</tag>
+        <tag>rpc</tag>
+        <tag>mono</tag>
+        <tag>json</tag>
+        <tag>aspnet</tag>
+      </tags>
+      <analysis>
+        <id>14423153</id>
+        <url>http://www.ohloh.net/analyses/14423153.xml</url>
+        <project_id>3887</project_id>
+        <updated_at>2013-07-06T16:22:22Z</updated_at>
+        <logged_at>2013-07-06T16:18:37Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>94275</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jayrock/analyses/14423153/languages.png">
+          <language color="4096EE" percentage="55" id="17">
+C#          </language>
+          <language color="555555" percentage="41" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8908</id>
+      <name>CDO Model Repository</name>
+      <url>http://www.ohloh.net/p/cdo.xml</url>
+      <html_url>http://www.ohloh.net/p/cdo</html_url>
+      <created_at>2007-10-02T19:27:48Z</created_at>
+      <updated_at>2013-07-09T10:12:15Z</updated_at>
+      <description>CDO Model Repository
+=====================
+
+CDO is both a development-time model repository and a run-time persistence framework. Being highly optimized it supports object graphs of arbitrary size.
+
+CDO offers transactions with save points, explicit locking, change notification, queries, temporality, branching, merging, offline and fail-over modes, ...
+
+The storage back-end is pluggable and migrations between direct JDBC, Hibernate, Objectivity/DB, MongoDB or DB4O are seamless for CDO applications.</description>
+      <homepage_url>http://www.eclipse.org/cdo</homepage_url>
+      <download_url>http://www.eclipse.org/cdo/downloads</download_url>
+      <url_name>cdo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38142/Logo-CDO-opaque_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38142/Logo-CDO-opaque_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.72727</average_rating>
+      <rating_count>11</rating_count>
+      <review_count>8</review_count>
+      <analysis_id>14570530</analysis_id>
+      <tags>
+        <tag>client</tag>
+        <tag>unitofwork</tag>
+        <tag>ormap</tag>
+        <tag>mapper</tag>
+        <tag>ormappingframework</tag>
+        <tag>db</tag>
+        <tag>objectrelationalmapping</tag>
+        <tag>technology</tag>
+        <tag>communications</tag>
+        <tag>remoting</tag>
+        <tag>object_oriented</tag>
+        <tag>eclipse</tag>
+        <tag>api</tag>
+        <tag>database_abstraction</tag>
+        <tag>model_repository</tag>
+        <tag>mysql</tag>
+        <tag>networking</tag>
+        <tag>nio</tag>
+        <tag>persistence</tag>
+        <tag>distributed-shared-model</tag>
+        <tag>java</tag>
+        <tag>objectoriented</tag>
+        <tag>orm</tag>
+        <tag>cache</tag>
+        <tag>audit</tag>
+        <tag>programming</tag>
+        <tag>temporal</tag>
+        <tag>model</tag>
+        <tag>network</tag>
+        <tag>development</tag>
+        <tag>orm_mapper</tag>
+        <tag>hibernate</tag>
+        <tag>sql</tag>
+        <tag>library</tag>
+        <tag>cdo</tag>
+        <tag>auditing</tag>
+        <tag>emf</tag>
+        <tag>ormapper</tag>
+        <tag>jpa</tag>
+        <tag>modelling</tag>
+        <tag>non-blocking_io</tag>
+        <tag>modeling</tag>
+        <tag>framework</tag>
+        <tag>repository</tag>
+        <tag>versioning</tag>
+        <tag>model-driven</tag>
+        <tag>database</tag>
+        <tag>distributed</tag>
+        <tag>net4j</tag>
+        <tag>emfstore</tag>
+        <tag>distributed_computing</tag>
+        <tag>osgi</tag>
+        <tag>collaboration</tag>
+        <tag>communication</tag>
+        <tag>mapping</tag>
+        <tag>oop</tag>
+        <tag>ormapping</tag>
+        <tag>ormframework</tag>
+        <tag>databases</tag>
+        <tag>transactions</tag>
+        <tag>persistencerepository</tag>
+        <tag>server</tag>
+        <tag>data</tag>
+      </tags>
+      <analysis>
+        <id>14570530</id>
+        <url>http://www.ohloh.net/analyses/14570530.xml</url>
+        <project_id>8908</project_id>
+        <updated_at>2013-07-09T10:12:14Z</updated_at>
+        <logged_at>2013-07-08T09:11:20Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>3993008</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cdo/analyses/14570530/languages.png">
+          <language color="47A400" percentage="47" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="38" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

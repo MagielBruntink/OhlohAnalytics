@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22273</id>
+      <name>pencil-code</name>
+      <url>http://www.ohloh.net/p/pencil-code.xml</url>
+      <html_url>http://www.ohloh.net/p/pencil-code</html_url>
+      <created_at>2008-10-07T14:39:44Z</created_at>
+      <updated_at>2013-07-11T11:05:14Z</updated_at>
+      <description>The Pencil Code is primarily designed to deal with weakly compressible turbulent flows, which is why we use high-order first and second derivatives. To achieve good parallelization, we use explicit (as opposed to compact) finite differences. Typical scientific targets include driven MHD turbulence in a periodic box, convection in a slab with non-periodic upper and lower boundaries, a convective star embedded in a fully nonperiodic box, accretion disc turbulence in the shearing sheet approximation, self-gravity, non-local radiation transfer, dust particle evolution with feedback on the gas, etc. A range of artificial viscosity and diffusion schemes can be invoked to deal with supersonic flows. For direct simulations regular viscosity and diffusion is being used. 
+
+The code is written in well-commented Fortran90. 
+
+For a more detailed description and a full introduction see the manual.pdf file (see under links on the right). 
+
+Remember to sign up for the Pencil Code User Meeting (see link on the right)!</description>
+      <homepage_url>http://code.google.com/p/pencil-code</homepage_url>
+      <download_url></download_url>
+      <url_name>pencil-code</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10192/pencils_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10192/pencils_64x64_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14588881</analysis_id>
+      <tags>
+        <tag>mhd</tag>
+        <tag>turbulent</tag>
+        <tag>mpi</tag>
+        <tag>gpl</tag>
+        <tag>flowanalysis</tag>
+        <tag>fortran90</tag>
+        <tag>flow</tag>
+      </tags>
+      <analysis>
+        <id>14588881</id>
+        <url>http://www.ohloh.net/analyses/14588881.xml</url>
+        <project_id>22273</project_id>
+        <updated_at>2013-07-11T11:05:13Z</updated_at>
+        <logged_at>2013-07-11T11:02:19Z</logged_at>
+        <min_month>2001-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>42</twelve_month_contributor_count>
+        <total_code_lines>470413</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pencil-code/analyses/14588881/languages.png">
+          <language color="EEE" percentage="79" id="40">
+Fortran (Fixed-format)          </language>
+          <language color="EEE" percentage="7" id="76">
+IDL/PV-WAVE/GDL          </language>
+          <language color="000000" percentage="14" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>40</main_language_id>
+        <main_language_name>Fortran (Fixed-format)</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

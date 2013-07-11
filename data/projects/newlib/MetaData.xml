@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12019</id>
+      <name>Newlib</name>
+      <url>http://www.ohloh.net/p/newlib.xml</url>
+      <html_url>http://www.ohloh.net/p/newlib</html_url>
+      <created_at>2008-02-21T19:23:14Z</created_at>
+      <updated_at>2013-07-09T11:20:18Z</updated_at>
+      <description>Newlib is a C library intended for use on embedded systems. It is a conglomeration of several library parts, all under free software licenses that make them easily usable on embedded products.
+
+Newlib is only available in source form. It can be compiled for a wide array of processors, and will usually work on any architecture with the addition of a few low-level routines. 
+
+Newlib is the C Library used by Cygwin and RTEMS.</description>
+      <homepage_url>http://sourceware.org/newlib/</homepage_url>
+      <download_url>http://sourceware.org/newlib/</download_url>
+      <url_name>newlib</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571298</analysis_id>
+      <analysis>
+        <id>14571298</id>
+        <url>http://www.ohloh.net/analyses/14571298.xml</url>
+        <project_id>12019</project_id>
+        <updated_at>2013-07-09T11:20:18Z</updated_at>
+        <logged_at>2013-07-09T11:11:05Z</logged_at>
+        <min_month>2000-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>1379572</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/newlib/analyses/14571298/languages.png">
+          <language color="EEE" percentage="55" id="51">
+Autoconf          </language>
+          <language color="FF8F00" percentage="36" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

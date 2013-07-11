@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584994</id>
+      <name>Tuleap</name>
+      <url>http://www.ohloh.net/p/tuleap.xml</url>
+      <html_url>http://www.ohloh.net/p/tuleap</html_url>
+      <created_at>2011-07-11T13:49:32Z</created_at>
+      <updated_at>2013-07-11T11:35:51Z</updated_at>
+      <description>Tuleap is an Application Lifecyle Management (ALM) software (aka Software Forge).
+
+Tuleap developers are baking the best Open Source ALM software. Shall you wish to:
+
+- manage your software sources (using Subversion, Git or CVS);
+- share your technical or project documentations;
+- centralize communications towards your customers, developers or third parties;
+- deliver your products;
+- track your defects, from customers to products, through sources;
+- track your customerss' requirements and follow impact on sources, releases and defects;
+- all those features with fine grain permissions on each element...
+- ... and a full traceability and control...
+- ... and much more to discover;
+
+Tuleap can help you!</description>
+      <homepage_url>http://tuleap.com</homepage_url>
+      <download_url>https://tuleap.net/wiki/?group_id=101&amp;pagename=Installation+%26+Administration%2FHow+to+install</download_url>
+      <url_name>tuleap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50738/tuleap_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50738/tuleap_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14589404</analysis_id>
+      <analysis>
+        <id>14589404</id>
+        <url>http://www.ohloh.net/analyses/14589404.xml</url>
+        <project_id>584994</project_id>
+        <updated_at>2013-07-11T11:35:51Z</updated_at>
+        <logged_at>2013-07-11T11:27:14Z</logged_at>
+        <min_month>2001-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>611147</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tuleap/analyses/14589404/languages.png">
+          <language color="356AA0" percentage="56" id="2">
+PHP          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="23" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25745</id>
+      <name>SMI</name>
+      <url>http://www.ohloh.net/p/SMI.xml</url>
+      <html_url>http://www.ohloh.net/p/SMI</html_url>
+      <created_at>2008-10-21T03:40:20Z</created_at>
+      <updated_at>2013-06-25T12:23:33Z</updated_at>
+      <description>SHOUTcast Management Interface , Create and modify shoutcast servers with the ease of a web based interface.</description>
+      <homepage_url>http://www.smiproject.org</homepage_url>
+      <download_url>https://sourceforge.net/project/platformdownload.php?group_id=163208</download_url>
+      <url_name>SMI</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9774/smi_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9774/smi_small.jpg</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>4</review_count>
+      <analysis_id>14403120</analysis_id>
+      <tags>
+        <tag>radio</tag>
+        <tag>streaming</tag>
+        <tag>shoutcast</tag>
+        <tag>radiostation</tag>
+        <tag>controlpanel</tag>
+        <tag>media</tag>
+      </tags>
+      <analysis>
+        <id>14403120</id>
+        <url>http://www.ohloh.net/analyses/14403120.xml</url>
+        <project_id>25745</project_id>
+        <updated_at>2013-07-04T22:39:00Z</updated_at>
+        <logged_at>2013-07-04T22:38:56Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4483</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SMI/analyses/14403120/languages.png">
+          <language color="356AA0" percentage="50" id="2">
+PHP          </language>
+          <language color="47A400" percentage="33" id="1">
+HTML          </language>
+          <language color="493625" percentage="8" id="30">
+SQL          </language>
+          <language color="000000" percentage="9" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>24754</id>
+      <project_id>13600</project_id>
+      <repository_id>11491</repository_id>
+      <repository>
+        <id>11491</id>
+        <type>SvnRepository</type>
+        <url>http://svn.plone.org/svn/collective/i18ndude/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-09-29T08:15:06Z</logged_at>
+        <commits>187</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>24892</id>
+      <project_id>13600</project_id>
+      <repository_id>24074</repository_id>
+      <repository>
+        <id>24074</id>
+        <type>CvsRepository</type>
+        <url>:pserver::@plone-i18n.cvs.sourceforge.net:/cvsroot/plone-i18n</url>
+        <module_name>i18ndude</module_name>
+        <username></username>
+        <password></password>
+        <logged_at>2012-10-02T08:55:19Z</logged_at>
+        <commits>73</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

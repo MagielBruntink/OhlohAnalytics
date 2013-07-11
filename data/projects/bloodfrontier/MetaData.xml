@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9648</id>
+      <name>Blood Frontier</name>
+      <url>http://www.ohloh.net/p/bloodfrontier.xml</url>
+      <html_url>http://www.ohloh.net/p/bloodfrontier</html_url>
+      <created_at>2007-11-12T13:40:29Z</created_at>
+      <updated_at>2013-06-19T04:48:11Z</updated_at>
+      <description>Blood Frontier is a single-player and multi-player first-person shooter game, built as a total conversion of Cube Engine 2 (Sauerbraten).
+
+Humanity has spread throughout the solar system, to Mars and beyond. A vast communications network bridges from colony to colony, human to machine, and machine to human. This seemingly benign keystone of inter-planetary society, however, appears to be the carrier of a mysterious biological plague. Any persons so-connected seem to fall ill and die, only to return as ravenous, sub-human cannibals. You, a machine intelligence, an android, remain unafflicted by this phenomenon. You have been tasked with destroying the growing hordes of the infected, and, hopefully, locating and stopping the source of this epidemic.</description>
+      <homepage_url>http://bloodfrontier.com/</homepage_url>
+      <download_url>http://bloodfrontier.com/Download</download_url>
+      <url_name>bloodfrontier</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6349/bficon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6349/bficon_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14304032</analysis_id>
+      <tags>
+        <tag>first_person_shooters</tag>
+        <tag>game</tag>
+        <tag>3d</tag>
+      </tags>
+      <analysis>
+        <id>14304032</id>
+        <url>http://www.ohloh.net/analyses/14304032.xml</url>
+        <project_id>9648</project_id>
+        <updated_at>2013-07-07T07:11:57Z</updated_at>
+        <logged_at>2013-07-07T07:11:41Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2010-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>135365</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bloodfrontier/analyses/14304032/languages.png">
+          <language color="F35F1F" percentage="49" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="22" id="42">
+C          </language>
+          <language color="EEE" percentage="14" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="15" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

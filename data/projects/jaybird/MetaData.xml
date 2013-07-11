@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14886</id>
+      <name>JayBird JCA/JDBC driver</name>
+      <url>http://www.ohloh.net/p/jaybird.xml</url>
+      <html_url>http://www.ohloh.net/p/jaybird</html_url>
+      <created_at>2008-06-12T05:10:12Z</created_at>
+      <updated_at>2013-07-09T19:46:37Z</updated_at>
+      <description>Jaybird is a JCA/JDBC driver suite for the Firebird database server. Jaybird is developed as a pure Java implementation of the wire protocol, but also includes support for the native client-libraries and embedded Firebird (also through native libraries).
+
+The Jaybird driver is based on both the JCA standard for application server connections to enterprise information systems and the well known JDBC standard.
+
+Jaybird (trunk) requires at least Java 6 to compile and run properly.</description>
+      <homepage_url>http://www.firebirdsql.org/en/jdbc-devel-status/</homepage_url>
+      <download_url>http://www.firebirdsql.org/en/jdbc-driver/</download_url>
+      <url_name>jaybird</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64974/firebird_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64974/firebird_logo_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14457584</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>sql</tag>
+        <tag>driver</tag>
+        <tag>firebird</tag>
+        <tag>jdbc</tag>
+        <tag>java</tag>
+        <tag>jaybird</tag>
+      </tags>
+      <analysis>
+        <id>14457584</id>
+        <url>http://www.ohloh.net/analyses/14457584.xml</url>
+        <project_id>14886</project_id>
+        <updated_at>2013-07-08T09:30:02Z</updated_at>
+        <logged_at>2013-07-08T09:29:50Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>79197</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jaybird/analyses/14457584/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

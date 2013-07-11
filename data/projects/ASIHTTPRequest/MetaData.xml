@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318032</id>
+      <name>ASIHTTPRequest</name>
+      <url>http://www.ohloh.net/p/ASIHTTPRequest.xml</url>
+      <html_url>http://www.ohloh.net/p/ASIHTTPRequest</html_url>
+      <created_at>2009-02-28T09:40:04Z</created_at>
+      <updated_at>2013-06-28T13:00:29Z</updated_at>
+      <description>ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that makes some of the more tedious aspects of communicating with web servers easier. It is written in Objective-C and works in both Mac OS X and iPhone applications.
+
+It is suitable performing basic HTTP requests and interacting with REST-based services (GET / POST / PUT / DELETE). The included ASIFormDataRequest subclass makes it easy to submit POST data and files using multipart/form-data.
+
+* Download data to memory or directly to a file on disk
+* Easy access to request and response HTTP headers
+* Progress tracking for download AND upload progress
+* Track progress accross upload / download queues
+* Basic + Digest authentication support + Keychain
+* Cookie support
+* GZIP support
+* Based on NSOperation
+* Unit tested</description>
+      <homepage_url>http://allseeing-i.com/ASIHTTPRequest</homepage_url>
+      <download_url>http://allseeing-i.com/ASIHTTPRequest</download_url>
+      <url_name>ASIHTTPRequest</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14444241</analysis_id>
+      <analysis>
+        <id>14444241</id>
+        <url>http://www.ohloh.net/analyses/14444241.xml</url>
+        <project_id>318032</project_id>
+        <updated_at>2013-07-09T10:10:15Z</updated_at>
+        <logged_at>2013-07-09T10:10:13Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>23167</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ASIHTTPRequest/analyses/14444241/languages.png">
+          <language color="C7932C" percentage="65" id="16">
+Objective-C          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

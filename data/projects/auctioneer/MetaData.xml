@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10394</id>
+      <name>Auctioneer</name>
+      <url>http://www.ohloh.net/p/auctioneer.xml</url>
+      <html_url>http://www.ohloh.net/p/auctioneer</html_url>
+      <created_at>2007-12-18T21:39:48Z</created_at>
+      <updated_at>2012-08-02T01:51:06Z</updated_at>
+      <description>Auctioneer is an AddOn compilation for World of Warcraft that provides information on the market price of in-game items and other item related information.</description>
+      <homepage_url>http://auctioneeraddon.com</homepage_url>
+      <download_url>http://auctioneeraddon.com/dl</download_url>
+      <url_name>auctioneer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4329/AuctioneerLogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4329/AuctioneerLogo_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9439250</analysis_id>
+      <tags>
+        <tag>addon</tag>
+        <tag>wow</tag>
+        <tag>lua</tag>
+        <tag>worldofwarcraft</tag>
+      </tags>
+      <analysis>
+        <id>9439250</id>
+        <url>http://www.ohloh.net/analyses/9439250.xml</url>
+        <project_id>10394</project_id>
+        <updated_at>2012-08-02T01:50:47Z</updated_at>
+        <logged_at>2012-08-02T01:49:04Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>205823</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/auctioneer/analyses/9439250/languages.png">
+          <language color="A42E00" percentage="99" id="27">
+Lua          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

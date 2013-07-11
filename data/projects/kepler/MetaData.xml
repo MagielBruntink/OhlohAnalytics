@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25971</id>
+      <name>Kepler Project</name>
+      <url>http://www.ohloh.net/p/kepler.xml</url>
+      <html_url>http://www.ohloh.net/p/kepler</html_url>
+      <created_at>2008-10-31T18:44:57Z</created_at>
+      <updated_at>2013-07-05T16:14:40Z</updated_at>
+      <description>The Kepler scientific workflow system is an open source application designed to help scien&#173;tists, analysts, and computer programmers solve the problem of analyzing data stored in a variety of formats with software components deployed and invoked in different ways. Using Kepler's graphical user interface, users simply select and then connect pertinent analytical components and data sources to create a &quot;scientific workflow&quot;&#8212;an executable representation of the steps required to generate results. The Kepler software helps users share and reuse data, workflows, and compo&#173;nents developed by the scientific community to address common needs.</description>
+      <homepage_url>http://kepler-project.org</homepage_url>
+      <download_url>https://kepler-project.org/users/downloads</download_url>
+      <url_name>kepler</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10284/KeplerLogoVector_GreenText_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10284/KeplerLogoVector_GreenText_med_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14538484</analysis_id>
+      <tags>
+        <tag>ptolemy</tag>
+        <tag>workflow</tag>
+        <tag>kepler</tag>
+        <tag>modeling</tag>
+        <tag>simulation_framework</tag>
+        <tag>workflow_engine</tag>
+        <tag>distributed_computing</tag>
+        <tag>scientific_computing</tag>
+      </tags>
+      <analysis>
+        <id>14538484</id>
+        <url>http://www.ohloh.net/analyses/14538484.xml</url>
+        <project_id>25971</project_id>
+        <updated_at>2013-07-05T16:14:39Z</updated_at>
+        <logged_at>2013-07-05T16:02:13Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>3201061</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kepler/analyses/14538484/languages.png">
+          <language color="555555" percentage="46" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="20" id="">
+20 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

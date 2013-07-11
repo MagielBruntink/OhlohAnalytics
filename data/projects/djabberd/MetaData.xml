@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6040</id>
+      <name>DJabberd</name>
+      <url>http://www.ohloh.net/p/djabberd.xml</url>
+      <html_url>http://www.ohloh.net/p/djabberd</html_url>
+      <created_at>2007-06-15T19:33:02Z</created_at>
+      <updated_at>2012-02-26T19:07:23Z</updated_at>
+      <description>DJabberd is a high-performance, scalable, extensible Jabber/XMPP server framework. While it comes with an example server, it's really a set of classes for you to build your own Jabber server without understanding Jabber. Instead of working with XML and protocol-specific details, you subclass parts and work with sane objects and data structures and let DJabberd do all the ugly work.</description>
+      <homepage_url>http://www.danga.com/djabberd/</homepage_url>
+      <download_url></download_url>
+      <url_name>djabberd</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6375963</analysis_id>
+      <tags>
+        <tag>xmpp</tag>
+        <tag>jabber</tag>
+        <tag>instant_messaging</tag>
+        <tag>extensible</tag>
+        <tag>framework</tag>
+        <tag>server</tag>
+        <tag>chat</tag>
+        <tag>perl</tag>
+      </tags>
+      <analysis>
+        <id>6375963</id>
+        <url>http://www.ohloh.net/analyses/6375963.xml</url>
+        <project_id>6040</project_id>
+        <updated_at>2012-02-15T04:28:13Z</updated_at>
+        <logged_at>2012-02-15T04:27:44Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>10956</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/djabberd/analyses/6375963/languages.png">
+          <language color="D2C690" percentage="99" id="8">
+Perl          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

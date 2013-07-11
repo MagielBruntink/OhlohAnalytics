@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486447</id>
+      <name>RhodeCode</name>
+      <url>http://www.ohloh.net/p/rhodecode.xml</url>
+      <html_url>http://www.ohloh.net/p/rhodecode</html_url>
+      <created_at>2010-11-10T20:18:54Z</created_at>
+      <updated_at>2013-07-05T10:45:19Z</updated_at>
+      <description>RhodeCode (formerly hg-app) is Pylons based repository management and serving for mercurial. It's similar to github or bitbucket, but it's supposed to run as standalone app, it's open source and focuses more on restricted access to repositories.
+
+There's no default free access to RhodeCode. You have to create an account in order to use the application. It offers permissions, full text search, many graphs and statistics. It's powered by vcs library that we created to handle many various version control systems.</description>
+      <homepage_url>http://packages.python.org/RhodeCode/index.html</homepage_url>
+      <download_url>http://rhodecode.org</download_url>
+      <url_name>rhodecode</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14535291</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>dvcs</tag>
+        <tag>hg</tag>
+        <tag>python</tag>
+        <tag>development</tag>
+        <tag>mercurial</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14535291</id>
+        <url>http://www.ohloh.net/analyses/14535291.xml</url>
+        <project_id>486447</project_id>
+        <updated_at>2013-07-05T10:45:19Z</updated_at>
+        <logged_at>2013-07-05T10:40:29Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>224890</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rhodecode/analyses/14535291/languages.png">
+          <language color="4A246B" percentage="54" id="9">
+Python          </language>
+          <language color="A4007E" percentage="26" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

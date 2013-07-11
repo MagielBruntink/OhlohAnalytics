@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>34158</id>
+      <name>RESTEasy</name>
+      <url>http://www.ohloh.net/p/resteasy.xml</url>
+      <html_url>http://www.ohloh.net/p/resteasy</html_url>
+      <created_at>2008-12-07T04:47:56Z</created_at>
+      <updated_at>2013-07-04T10:26:54Z</updated_at>
+      <description>RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. JAX-RS is a new JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol.
+
+RESTEasy can run in any Servlet container, but tighter integration with the JBoss Application Server is also available to make the user experience nicer in that environment. While JAX-RS is only a server-side specification, RESTEasy has innovated to bring JAX-RS to the client through the RESTEasy JAX-RS Client Framework. This client-side framework allows you to map outgoing HTTP requests to remote servers using JAX-RS annotations and interface proxies.</description>
+      <homepage_url>http://jboss.org/resteasy</homepage_url>
+      <download_url></download_url>
+      <url_name>resteasy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50714/resteasy_logo_64x_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50714/resteasy_logo_64x_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14524597</analysis_id>
+      <analysis>
+        <id>14524597</id>
+        <url>http://www.ohloh.net/analyses/14524597.xml</url>
+        <project_id>34158</project_id>
+        <updated_at>2013-07-04T10:26:53Z</updated_at>
+        <logged_at>2013-07-04T10:25:08Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>382410</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/resteasy/analyses/14524597/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

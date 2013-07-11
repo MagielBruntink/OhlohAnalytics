@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5943</id>
+      <name>Torque</name>
+      <url>http://www.ohloh.net/p/apache_torque.xml</url>
+      <html_url>http://www.ohloh.net/p/apache_torque</html_url>
+      <created_at>2007-06-11T18:11:59Z</created_at>
+      <updated_at>2013-07-05T18:37:03Z</updated_at>
+      <description>Torque is an object-relational mapper for java. In other words, Torque lets you access and manipulate data in a relational database using java objects. Unlike most other object-relational mappers, Torque does not use reflection to access user-provided classes, but it generates the necessary classes (including the Data Objects) from an XML schema describing the database layout (which can either be written by hand or generated from an existing database). The XML schema can also be used to generate and execute a SQL script which creates all the tables in the database.</description>
+      <homepage_url>http://db.apache.org/torque/</homepage_url>
+      <download_url></download_url>
+      <url_name>apache_torque</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5984/torque-logo-new_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5984/torque-logo-new_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14540087</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>turbine</tag>
+        <tag>ormapper</tag>
+        <tag>sql</tag>
+        <tag>orm</tag>
+        <tag>java</tag>
+        <tag>database_abstraction</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>14540087</id>
+        <url>http://www.ohloh.net/analyses/14540087.xml</url>
+        <project_id>5943</project_id>
+        <updated_at>2013-07-05T18:37:02Z</updated_at>
+        <logged_at>2013-07-05T18:36:04Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>84845</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/apache_torque/analyses/14540087/languages.png">
+          <language color="9A63AD" percentage="73" id="5">
+Java          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

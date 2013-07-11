@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11290</id>
+      <name>IPFire</name>
+      <url>http://www.ohloh.net/p/ipfire.xml</url>
+      <html_url>http://www.ohloh.net/p/ipfire</html_url>
+      <created_at>2008-01-26T23:30:08Z</created_at>
+      <updated_at>2013-07-09T20:41:58Z</updated_at>
+      <description>IPFire is new-developed firewall build with the latest releases of linux 2.6 and tools. You are able to install a lot of addons and you will see a firewall can become a home server.</description>
+      <homepage_url>http://www.ipfire.org/en/index</homepage_url>
+      <download_url>http://www.ipfire.org/en/download</download_url>
+      <url_name>ipfire</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4947/IPFire_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4947/IPFire_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>3.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14503916</analysis_id>
+      <tags>
+        <tag>ip</tag>
+        <tag>streaming</tag>
+        <tag>nfs</tag>
+        <tag>python</tag>
+        <tag>distribution</tag>
+        <tag>proxy</tag>
+        <tag>ipsec</tag>
+        <tag>ids</tag>
+        <tag>home</tag>
+        <tag>networking</tag>
+        <tag>firewall</tag>
+        <tag>operating_system</tag>
+        <tag>distro</tag>
+        <tag>hardened_linux</tag>
+        <tag>http</tag>
+        <tag>pdc</tag>
+        <tag>office</tag>
+        <tag>wpad</tag>
+        <tag>dhcp</tag>
+        <tag>filter</tag>
+        <tag>x86</tag>
+        <tag>router</tag>
+        <tag>interface</tag>
+        <tag>nat</tag>
+        <tag>email</tag>
+        <tag>network</tag>
+        <tag>openvpn</tag>
+        <tag>web</tag>
+        <tag>ntp</tag>
+        <tag>mpd</tag>
+        <tag>nas</tag>
+        <tag>dns</tag>
+        <tag>lan</tag>
+        <tag>gateway</tag>
+        <tag>vpn</tag>
+        <tag>linux</tag>
+        <tag>security</tag>
+        <tag>server</tag>
+        <tag>samba</tag>
+      </tags>
+      <analysis>
+        <id>14503916</id>
+        <url>http://www.ohloh.net/analyses/14503916.xml</url>
+        <project_id>11290</project_id>
+        <updated_at>2013-07-02T15:23:57Z</updated_at>
+        <logged_at>2013-07-01T01:18:13Z</logged_at>
+        <min_month>1981-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>130261</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ipfire/analyses/14503916/languages.png">
+          <language color="D2C690" percentage="55" id="8">
+Perl          </language>
+          <language color="777777" percentage="21" id="11">
+shell script          </language>
+          <language color="FF8F00" percentage="9" id="42">
+C          </language>
+          <language color="000000" percentage="15" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

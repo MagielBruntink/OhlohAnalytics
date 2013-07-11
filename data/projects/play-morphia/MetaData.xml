@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485871</id>
+      <name>play-morphia</name>
+      <url>http://www.ohloh.net/p/play-morphia.xml</url>
+      <html_url>http://www.ohloh.net/p/play-morphia</html_url>
+      <created_at>2010-10-10T03:33:33Z</created_at>
+      <updated_at>2013-07-10T09:20:40Z</updated_at>
+      <description>Seamlessly MongoDB access integration with Play's Model interface. 
+
+* Seamlessly integrate with play.db.Model 
+* Support CRUD/Fixture load 
+* Support automatic index, java field name/mongodb col name mapping, JPA style lifecycle management 
+* Smart Id management: 
+&gt;&gt; Long type ID + ObjectId 
+&gt;&gt; Suppress ID for @Embedded marked entities 
+&gt;&gt; Support user marked ID field 
+* Support &quot;OR&quot; style query. (experimental feature, interface subject to change in the future)</description>
+      <homepage_url>http://github.com/greenlaw110/play-morphia</homepage_url>
+      <download_url>http://www.playframework.org/modules/morphia</download_url>
+      <url_name>play-morphia</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580337</analysis_id>
+      <analysis>
+        <id>14580337</id>
+        <url>http://www.ohloh.net/analyses/14580337.xml</url>
+        <project_id>485871</project_id>
+        <updated_at>2013-07-10T09:20:40Z</updated_at>
+        <logged_at>2013-07-10T09:20:16Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>10977</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/play-morphia/analyses/14580337/languages.png">
+          <language color="9A63AD" percentage="68" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="16" id="4">
+CSS          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="8" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

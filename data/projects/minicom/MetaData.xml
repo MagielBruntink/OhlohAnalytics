@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9124</id>
+      <name>Minicom</name>
+      <url>http://www.ohloh.net/p/minicom.xml</url>
+      <html_url>http://www.ohloh.net/p/minicom</html_url>
+      <created_at>2007-10-13T17:48:38Z</created_at>
+      <updated_at>2012-09-19T20:24:56Z</updated_at>
+      <description>Minicom is a menu driven communications program. It emulates ANSI and VT102 terminals. It has a dialing directory and auto zmodem download.</description>
+      <homepage_url>http://alioth.debian.org/projects/minicom/</homepage_url>
+      <download_url>http://alioth.debian.org/frs/?group_id=30018</download_url>
+      <url_name>minicom</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1773793</analysis_id>
+      <analysis>
+        <id>1773793</id>
+        <url>http://www.ohloh.net/analyses/1773793.xml</url>
+        <project_id>9124</project_id>
+        <updated_at>2011-05-19T23:56:26Z</updated_at>
+        <logged_at>2011-05-19T23:56:18Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15211</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/minicom/analyses/1773793/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="000000" percentage="9" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>521570</id>
+      <name>Eclipse Virgo</name>
+      <url>http://www.ohloh.net/p/eclipse_virgo.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse_virgo</html_url>
+      <created_at>2011-04-26T08:35:31Z</created_at>
+      <updated_at>2013-06-27T22:27:33Z</updated_at>
+      <description>Eclipse Virgo
+
+Virgo Web Server is an OSGi based application server designed to run enterprise Java and Spring-powered OSGi applications. It offers a simple yet comprehensive platform to develop, deploy, and service enterprise OSGi applications.
+
+Virgo Kernel supports the core concepts of Virgo with no web bias, thus enabling other server types to be created. The Kernel can be used stand-alone as a rich OSGi application platform or as a server runtime by deploying suitable bundles on top of the Kernel.
+
+Archeology: https://www.ohloh.net/p/springsource-dm-server</description>
+      <homepage_url>http://www.eclipse.org/virgo</homepage_url>
+      <download_url>http://www.eclipse.org/virgo/download/</download_url>
+      <url_name>eclipse_virgo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48436/virgo-logo__1__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48436/virgo-logo__1__small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14437816</analysis_id>
+      <analysis>
+        <id>14437816</id>
+        <url>http://www.ohloh.net/analyses/14437816.xml</url>
+        <project_id>521570</project_id>
+        <updated_at>2013-07-06T01:05:24Z</updated_at>
+        <logged_at>2013-07-06T01:03:27Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>364160</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse_virgo/analyses/14437816/languages.png">
+          <language color="9A63AD" percentage="52" id="5">
+Java          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="19" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

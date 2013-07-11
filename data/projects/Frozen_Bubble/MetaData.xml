@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>350752</id>
+      <name>Frozen Bubble</name>
+      <url>http://www.ohloh.net/p/Frozen_Bubble.xml</url>
+      <html_url>http://www.ohloh.net/p/Frozen_Bubble</html_url>
+      <created_at>2009-07-26T19:38:45Z</created_at>
+      <updated_at>2013-07-07T15:48:37Z</updated_at>
+      <description>The Frozen Bubble was written in Perl by Guillaume Cottenceau, and uses the Simple DirectMedia Layer (SDL) library. The game features 100 levels and includes a level editor. Like many popular free software/open source games, it features penguins a la Tux, who in this game shoot the coloured frozen bubbles to form groups of the same colour. Such groups disappear and the object is to clear the whole screen in this way before a bubble passes a line at the bottom.</description>
+      <homepage_url>http://www.frozen-bubble.org/</homepage_url>
+      <download_url>http://www.frozen-bubble.org/downloads/</download_url>
+      <url_name>Frozen_Bubble</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34467/frozen-bubble_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34467/frozen-bubble_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13738498</analysis_id>
+      <tags>
+        <tag>multiplayer</tag>
+        <tag>game</tag>
+        <tag>perl</tag>
+        <tag>sdl</tag>
+      </tags>
+      <analysis>
+        <id>13738498</id>
+        <url>http://www.ohloh.net/analyses/13738498.xml</url>
+        <project_id>350752</project_id>
+        <updated_at>2013-05-05T15:01:26Z</updated_at>
+        <logged_at>2013-05-05T14:53:28Z</logged_at>
+        <min_month>2004-05-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>24132</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Frozen_Bubble/analyses/13738498/languages.png">
+          <language color="D2C690" percentage="72" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="27" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

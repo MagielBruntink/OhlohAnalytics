@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340713</id>
+      <name>Apache Hive</name>
+      <url>http://www.ohloh.net/p/Hive.xml</url>
+      <html_url>http://www.ohloh.net/p/Hive</html_url>
+      <created_at>2009-05-15T13:23:02Z</created_at>
+      <updated_at>2013-07-05T13:17:04Z</updated_at>
+      <description>Hive is a data warehouse infrastructure built on top of Hadoop that provides tools to enable easy data summarization, adhoc querying and analysis of large datasets data stored in Hadoop files. It provides a mechanism to put structure on this data and it also provides a simple query language called Hive QL which is based on SQL and which enables users familiar with SQL to query this data. At the same time, this language also allows traditional map/reduce programmers to be able to plug in their custom mappers and reducers to do more sophisticated analysis which may not be supported by the built-in capabilities of the language.</description>
+      <homepage_url>http://hive.apache.org/</homepage_url>
+      <download_url>http://hive.apache.org/releases.html</download_url>
+      <url_name>Hive</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46861/hive_logo_medium_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46861/hive_logo_medium_small.jpg</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14537038</analysis_id>
+      <analysis>
+        <id>14537038</id>
+        <url>http://www.ohloh.net/analyses/14537038.xml</url>
+        <project_id>340713</project_id>
+        <updated_at>2013-07-05T13:17:04Z</updated_at>
+        <logged_at>2013-07-05T13:09:03Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>672834</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Hive/analyses/14537038/languages.png">
+          <language color="9A63AD" percentage="62" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="9" id="44">
+C++          </language>
+          <language color="000000" percentage="16" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

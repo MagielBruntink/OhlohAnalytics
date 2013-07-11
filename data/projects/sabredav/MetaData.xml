@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10243</id>
+      <name>SabreDAV</name>
+      <url>http://www.ohloh.net/p/sabredav.xml</url>
+      <html_url>http://www.ohloh.net/p/sabredav</html_url>
+      <created_at>2007-12-13T00:45:26Z</created_at>
+      <updated_at>2013-07-11T07:39:50Z</updated_at>
+      <description>SabreDAV allows you to easily integrate your existing web application with WebDAV. 
+
+Roadmap for 1.0:
+
+    * Fully WebDAV compliant
+    * Passing all Litmus tests
+    * Supporting class 1 and class 2 webdav servers
+    * Easy to extend
+    * Support Windows' deviations from the standard
+    * Proper support for OS/X and DavFS</description>
+      <homepage_url>http://code.google.com/p/sabredav/</homepage_url>
+      <download_url>http://code.google.com/p/sabredav/downloads/list</download_url>
+      <url_name>sabredav</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46233/64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46233/64x64_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585965</analysis_id>
+      <tags>
+        <tag>network_file_system</tag>
+        <tag>http</tag>
+        <tag>icalendar</tag>
+        <tag>calendar</tag>
+        <tag>caldav</tag>
+        <tag>davfs</tag>
+        <tag>php</tag>
+        <tag>finder</tag>
+        <tag>webdav</tag>
+        <tag>web</tag>
+        <tag>carddav</tag>
+        <tag>addressbook</tag>
+        <tag>calendaring</tag>
+        <tag>vcard</tag>
+        <tag>file_system</tag>
+      </tags>
+      <analysis>
+        <id>14585965</id>
+        <url>http://www.ohloh.net/analyses/14585965.xml</url>
+        <project_id>10243</project_id>
+        <updated_at>2013-07-11T07:39:50Z</updated_at>
+        <logged_at>2013-07-11T04:01:52Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>42688</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sabredav/analyses/14585965/languages.png">
+          <language color="356AA0" percentage="93" id="2">
+PHP          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

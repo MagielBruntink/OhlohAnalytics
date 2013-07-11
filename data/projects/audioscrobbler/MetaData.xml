@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>2451</id>
+      <name>Audioscrobbler</name>
+      <url>http://www.ohloh.net/p/audioscrobbler.xml</url>
+      <html_url>http://www.ohloh.net/p/audioscrobbler</html_url>
+      <created_at>2006-10-12T06:53:26Z</created_at>
+      <updated_at>2013-06-10T18:29:27Z</updated_at>
+      <description>An implementation of the Audioscrobbler plugin protocol, used to submit music playlist history to Last.fm.</description>
+      <homepage_url>http://rubyforge.org/projects/audioscrobbler/</homepage_url>
+      <download_url>http://rubyforge.org/frs/?group_id=979</download_url>
+      <url_name>audioscrobbler</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6038/20130_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6038/20130_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14221519</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>multimedia</tag>
+        <tag>sound</tag>
+        <tag>audio</tag>
+      </tags>
+      <analysis>
+        <id>14221519</id>
+        <url>http://www.ohloh.net/analyses/14221519.xml</url>
+        <project_id>2451</project_id>
+        <updated_at>2013-07-04T22:34:59Z</updated_at>
+        <logged_at>2013-07-04T22:34:57Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2007-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1915</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/audioscrobbler/analyses/14221519/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

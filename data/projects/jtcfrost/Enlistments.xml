@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>21075</id>
+      <project_id>10865</project_id>
+      <repository_id>20373</repository_id>
+      <repository>
+        <id>20373</id>
+        <type>SvnSyncRepository</type>
+        <url>https://jtcfrost.svn.sourceforge.net/svnroot/jtcfrost/trunk/contrib</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T12:11:26Z</logged_at>
+        <commits>44</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>20652</id>
+      <project_id>10865</project_id>
+      <repository_id>19977</repository_id>
+      <repository>
+        <id>19977</id>
+        <type>SvnSyncRepository</type>
+        <url>https://jtcfrost.svn.sourceforge.net/svnroot/jtcfrost/trunk/frost-wot</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T12:01:40Z</logged_at>
+        <commits>3147</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>314536</id>
+      <name>JGraLab</name>
+      <url>http://www.ohloh.net/p/jgralab.xml</url>
+      <html_url>http://www.ohloh.net/p/jgralab</html_url>
+      <created_at>2009-02-11T17:55:13Z</created_at>
+      <updated_at>2013-07-01T07:43:34Z</updated_at>
+      <description>The Java Graph Laboratory (JGraLab) is a Java class library developed at the Institute for Software Technology at the University Koblenz-Landau, Germany.
+
+JGraLab provides a highly efficient API for processing TGraphs. It can create java source code based on schemas defined in files according to the TG Format (also called TG files). These classes can be used in own applications to use TGraphs as data structure. 
+
+JGraLab can create and manipulate TGraphs at runtime.
+
+See the homepage for a full features list.</description>
+      <homepage_url>http://jgralab.uni-koblenz.de</homepage_url>
+      <download_url>http://jgralab.uni-koblenz.de</download_url>
+      <url_name>jgralab</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16160/jgralab-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16160/jgralab-logo_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14494385</analysis_id>
+      <tags>
+        <tag>tgraph</tag>
+        <tag>graph</tag>
+        <tag>java</tag>
+        <tag>academic</tag>
+      </tags>
+      <analysis>
+        <id>14494385</id>
+        <url>http://www.ohloh.net/analyses/14494385.xml</url>
+        <project_id>314536</project_id>
+        <updated_at>2013-07-09T12:06:23Z</updated_at>
+        <logged_at>2013-07-09T12:06:20Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>120884</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jgralab/analyses/14494385/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

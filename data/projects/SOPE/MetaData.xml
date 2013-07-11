@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4497</id>
+      <name>SOPE</name>
+      <url>http://www.ohloh.net/p/SOPE.xml</url>
+      <html_url>http://www.ohloh.net/p/SOPE</html_url>
+      <created_at>2007-02-20T12:21:14Z</created_at>
+      <updated_at>2013-07-08T17:02:21Z</updated_at>
+      <description>The SOPE package is an extensive set of frameworks (16 frameworks, ~1500 classes) which form a complete Web application server environment. Besides the Apple WebObjects compatible appserver extended with Zope concepts, it contains a large set of reusable classes: XML processing (SAX2, DOM, XML-RPC), MIME/IMAP4 processing, LDAP connectivity, RDBMS connectivity, and iCalendar parsing.
+
+The individual frameworks of the package can be used standalone (for example in Cocoa applications) and do not require the application server itself.
+
+For MacOSX developers, the package includes SOPE:X, which contains special Xcode and Cocoa support for SOPE.</description>
+      <homepage_url>http://sope.opengroupware.org/</homepage_url>
+      <download_url>http://www.opengroupware.org/en/devs/source/index.html</download_url>
+      <url_name>SOPE</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569813</analysis_id>
+      <analysis>
+        <id>14569813</id>
+        <url>http://www.ohloh.net/analyses/14569813.xml</url>
+        <project_id>4497</project_id>
+        <updated_at>2013-07-08T17:02:20Z</updated_at>
+        <logged_at>2013-07-08T10:19:58Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>211239</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SOPE/analyses/14569813/languages.png">
+          <language color="C7932C" percentage="72" id="16">
+Objective-C          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="6" id="44">
+C++          </language>
+          <language color="000000" percentage="11" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

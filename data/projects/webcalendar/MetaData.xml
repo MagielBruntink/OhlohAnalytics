@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>38</id>
+      <name>WebCalendar</name>
+      <url>http://www.ohloh.net/p/webcalendar.xml</url>
+      <html_url>http://www.ohloh.net/p/webcalendar</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-16T00:43:21Z</updated_at>
+      <description>WebCalendar is a Web-based calendar application that can be configured as a single-user calendar, a multi-user calendar for groups of users, or as an event calendar viewable by visitors. WebCalendar requires a database such as MySQL, Oracle, PostgreSQL, MS SQL Server, ODBC, or Interbase. Features include email reminders, iCal/vCal import/export, remote subscriptions for Sunbird or Apple iCal, LDAP and NIS support, and translations for 29 languages.</description>
+      <homepage_url>http://www.k5n.us/webcalendar.php</homepage_url>
+      <download_url></download_url>
+      <url_name>webcalendar</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14274389</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>reference</tag>
+        <tag>php</tag>
+        <tag>sunbird</tag>
+        <tag>lightning</tag>
+        <tag>development</tag>
+        <tag>event</tag>
+        <tag>organizer</tag>
+        <tag>ldap</tag>
+        <tag>web</tag>
+        <tag>linux</tag>
+        <tag>design</tag>
+        <tag>icalendar</tag>
+        <tag>postgresql</tag>
+        <tag>todo</tag>
+        <tag>ical</tag>
+        <tag>calendar</tag>
+        <tag>sqlite</tag>
+        <tag>database</tag>
+        <tag>resource_booking</tag>
+      </tags>
+      <analysis>
+        <id>14274389</id>
+        <url>http://www.ohloh.net/analyses/14274389.xml</url>
+        <project_id>38</project_id>
+        <updated_at>2013-07-01T05:25:26Z</updated_at>
+        <logged_at>2013-07-01T05:25:09Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>63370</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/webcalendar/analyses/14274389/languages.png">
+          <language color="356AA0" percentage="56" id="2">
+PHP          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="18" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>academic</name>
+          <nice_name>Academic Free License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

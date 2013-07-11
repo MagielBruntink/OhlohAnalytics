@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15967</id>
+      <name>Infinitest</name>
+      <url>http://www.ohloh.net/p/infinitest.xml</url>
+      <html_url>http://www.ohloh.net/p/infinitest</html_url>
+      <created_at>2008-08-08T17:32:02Z</created_at>
+      <updated_at>2013-07-03T03:37:29Z</updated_at>
+      <description>Infinitest is a continuous test runner designed to facilitate Test Driven Development. Infinitest helps you learn TDD by providing feedback as you work, and helps you master TDD by reducing your feedback cycle from minutes to mere seconds.
+
+Whenever you change a class, Infinitest runs your tests for you. It's smart about what tests to run, and only runs the ones you need. If any errors occur, it reports them clearly and concisely. This gives you instant feedback about the semantic correctness of your code, just as modern IDE's give you instant feedback about syntax errors.</description>
+      <homepage_url>http://www.infinitest.org</homepage_url>
+      <download_url>http://code.google.com/p/infinitest/downloads/list</download_url>
+      <url_name>infinitest</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14510731</analysis_id>
+      <analysis>
+        <id>14510731</id>
+        <url>http://www.ohloh.net/analyses/14510731.xml</url>
+        <project_id>15967</project_id>
+        <updated_at>2013-07-03T03:37:29Z</updated_at>
+        <logged_at>2013-07-03T03:33:28Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>21559</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/infinitest/analyses/14510731/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

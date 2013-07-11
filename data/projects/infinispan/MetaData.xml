@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>329255</id>
+      <name>Infinispan</name>
+      <url>http://www.ohloh.net/p/infinispan.xml</url>
+      <html_url>http://www.ohloh.net/p/infinispan</html_url>
+      <created_at>2009-04-28T01:59:34Z</created_at>
+      <updated_at>2013-07-10T17:17:16Z</updated_at>
+      <description>Infinispan is an open source, JVM based data grid platform. Infinispan is a high performance, distributed and highly concurrent data structure. Also supports JTA transactions, eviction, and passivation/overflow to external storage.</description>
+      <homepage_url>http://www.jboss.org/infinispan</homepage_url>
+      <download_url>http://www.jboss.org/infinispan/downloads.html</download_url>
+      <url_name>infinispan</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26234/infinispan_iconupdate_64x_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26234/infinispan_iconupdate_64x_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14528213</analysis_id>
+      <tags>
+        <tag>elastic</tag>
+        <tag>distributedcomputing</tag>
+        <tag>mapreduce</tag>
+        <tag>java</tag>
+        <tag>performance</tag>
+        <tag>caching</tag>
+        <tag>scalable</tag>
+        <tag>nosql</tag>
+        <tag>grid</tag>
+        <tag>hibernate</tag>
+        <tag>cloud</tag>
+        <tag>search</tag>
+        <tag>cloudstorage</tag>
+        <tag>distribution</tag>
+        <tag>querying</tag>
+        <tag>clustering</tag>
+        <tag>jta</tag>
+        <tag>scalability</tag>
+        <tag>lucene</tag>
+        <tag>distributed_computing</tag>
+        <tag>distributed</tag>
+        <tag>distributedsystems</tag>
+        <tag>datagrid</tag>
+        <tag>gridcomputing</tag>
+      </tags>
+      <analysis>
+        <id>14528213</id>
+        <url>http://www.ohloh.net/analyses/14528213.xml</url>
+        <project_id>329255</project_id>
+        <updated_at>2013-07-04T16:31:10Z</updated_at>
+        <logged_at>2013-07-04T16:18:54Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>39</twelve_month_contributor_count>
+        <total_code_lines>273709</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/infinispan/analyses/14528213/languages.png">
+          <language color="9A63AD" percentage="87" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

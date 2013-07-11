@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>320590</id>
+      <name>CandyCane</name>
+      <url>http://www.ohloh.net/p/candycane.xml</url>
+      <html_url>http://www.ohloh.net/p/candycane</html_url>
+      <created_at>2009-03-26T10:34:03Z</created_at>
+      <updated_at>2013-06-30T04:24:42Z</updated_at>
+      <description>candycane is a implementation of redmine on CakePHP.
+Screenshots are available there.
+http://www.flickr.com/photos/31771109@N05/sets/72157617898135654/</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>candycane</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16779/candycane-icon_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16779/candycane-icon_small.gif</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14472093</analysis_id>
+      <analysis>
+        <id>14472093</id>
+        <url>http://www.ohloh.net/analyses/14472093.xml</url>
+        <project_id>320590</project_id>
+        <updated_at>2013-06-30T04:24:42Z</updated_at>
+        <logged_at>2013-06-30T04:23:36Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>28</twelve_month_contributor_count>
+        <total_code_lines>46495</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/candycane/analyses/14472093/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="25" id="6">
+JavaScript          </language>
+          <language color="493625" percentage="7" id="30">
+SQL          </language>
+          <language color="000000" percentage="&lt;1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

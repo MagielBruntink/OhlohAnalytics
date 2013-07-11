@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3321</id>
+      <name>MultiHook</name>
+      <url>http://www.ohloh.net/p/multihook.xml</url>
+      <html_url>http://www.ohloh.net/p/multihook</html_url>
+      <created_at>2006-10-23T12:41:41Z</created_at>
+      <updated_at>2011-10-17T15:38:24Z</updated_at>
+      <description>MultiHook is a hook module for Zikula Application Framework. It creates xhtml comform abbreviations, acronyms and links and can censor words in any text (e.g. mentioning ohloh can automatically result in a link to http://www.ohloh.com if you want).
+
+It uses the Zikula API, the layout can be adjusted by templates.</description>
+      <homepage_url>http://code.zikula.org/multihook</homepage_url>
+      <download_url>http://code.zikula.org/multihook</download_url>
+      <url_name>multihook</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34569/admin_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34569/admin_small.gif</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4565343</analysis_id>
+      <tags>
+        <tag>autolink</tag>
+        <tag>zikula</tag>
+        <tag>template</tag>
+        <tag>abbreviations</tag>
+        <tag>censor</tag>
+        <tag>acronym</tag>
+        <tag>smarty</tag>
+        <tag>abbr</tag>
+        <tag>pnrender</tag>
+        <tag>postnuke</tag>
+        <tag>api</tag>
+      </tags>
+      <analysis>
+        <id>4565343</id>
+        <url>http://www.ohloh.net/analyses/4565343.xml</url>
+        <project_id>3321</project_id>
+        <updated_at>2011-11-08T06:52:58Z</updated_at>
+        <logged_at>2011-11-08T06:52:52Z</logged_at>
+        <min_month>2004-10-01T00:00:00Z</min_month>
+        <max_month>2010-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2440</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/multihook/analyses/4565343/languages.png">
+          <language color="356AA0" percentage="75" id="2">
+PHP          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="3" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

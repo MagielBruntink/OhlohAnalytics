@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13117</id>
+      <name>rsyslog</name>
+      <url>http://www.ohloh.net/p/rsyslog.xml</url>
+      <html_url>http://www.ohloh.net/p/rsyslog</html_url>
+      <created_at>2008-04-01T18:42:48Z</created_at>
+      <updated_at>2013-07-06T14:40:48Z</updated_at>
+      <description>Rsyslog is an enhanced multi-threaded syslogd supporting, among others, MySQL, syslog/tcp, RFC 3195, permitted sender lists, filtering on any message part, and fine grain output format control. It is quite compatible to stock sysklogd and can be used as a drop-in replacement. Its advanced features make it suitable for enterprise-class, encryption protected syslog relay chains while at the same time being very easy to setup for the novice user. 
+
+Over time, rsyslog has become the default syslogd for the many distributions.</description>
+      <homepage_url>http://www.rsyslog.com/</homepage_url>
+      <download_url>http://www.rsyslog.com/Downloads-index-req-viewdownload-cid-1-orderby-dateD.phtml</download_url>
+      <url_name>rsyslog</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2092/logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2092/logo_small.gif</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551080</analysis_id>
+      <tags>
+        <tag>system_administration</tag>
+        <tag>syslog</tag>
+        <tag>eventlog</tag>
+        <tag>logging</tag>
+      </tags>
+      <analysis>
+        <id>14551080</id>
+        <url>http://www.ohloh.net/analyses/14551080.xml</url>
+        <project_id>13117</project_id>
+        <updated_at>2013-07-06T14:40:47Z</updated_at>
+        <logged_at>2013-07-06T14:37:20Z</logged_at>
+        <min_month>2004-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>42</twelve_month_contributor_count>
+        <total_code_lines>196099</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rsyslog/analyses/14551080/languages.png">
+          <language color="FF8F00" percentage="69" id="42">
+C          </language>
+          <language color="47A400" percentage="18" id="1">
+HTML          </language>
+          <language color="000000" percentage="13" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

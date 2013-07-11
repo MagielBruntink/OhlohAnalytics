@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8495</id>
+      <name>ProjectPier</name>
+      <url>http://www.ohloh.net/p/projectpier.xml</url>
+      <html_url>http://www.ohloh.net/p/projectpier</html_url>
+      <created_at>2007-09-15T06:18:31Z</created_at>
+      <updated_at>2013-06-15T18:23:02Z</updated_at>
+      <description>ProjectPier is a fork of the online collaboration solution activeCollab. It's written in PHP5 and based on a MySQL database. ProjectPier offers an easy to use web based tool and is therefore quite different from traditional project management software. The platform allows small teams to exchange messages, task lists and files very  quickly. There is no Gantt chart or other visual representation, and there is no ressource planning feature either.</description>
+      <homepage_url>http://www.projectpier.org/</homepage_url>
+      <download_url>http://www.projectpier.org/project</download_url>
+      <url_name>projectpier</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14270158</analysis_id>
+      <tags>
+        <tag>collaboration</tag>
+        <tag>file_exchange</tag>
+        <tag>web</tag>
+        <tag>project_management</tag>
+        <tag>project_collaboration</tag>
+        <tag>task_list</tag>
+        <tag>discussion_board</tag>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>project_controlling</tag>
+      </tags>
+      <analysis>
+        <id>14270158</id>
+        <url>http://www.ohloh.net/analyses/14270158.xml</url>
+        <project_id>8495</project_id>
+        <updated_at>2013-07-01T06:28:35Z</updated_at>
+        <logged_at>2013-07-01T06:28:32Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>33023</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/projectpier/analyses/14270158/languages.png">
+          <language color="356AA0" percentage="85" id="2">
+PHP          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="3" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Honest_Public_License_HPL</name>
+          <nice_name>Honest Public License (HPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

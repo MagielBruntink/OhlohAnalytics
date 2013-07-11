@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6944</id>
+      <name>Web Content Viewer</name>
+      <url>http://www.ohloh.net/p/wcv.xml</url>
+      <html_url>http://www.ohloh.net/p/wcv</html_url>
+      <created_at>2007-07-28T10:52:03Z</created_at>
+      <updated_at>2013-07-03T03:14:49Z</updated_at>
+      <description>WCV uses a very extendable handler mechanism to display content managed in directory structures with come version control system or from some other sources (CMS, ...)
+
+Using a user extendable handler mechanism the directories, files, content and meta data may be handled and fetched separately and displayed with different display decorators for different output, like HTML, txt or the original binary.
+
+Mainly used for static cached content, also dynamic user interaction is possible when the content classes are implementing the corresponding interfaces.</description>
+      <homepage_url>http://web-content-viewer.org/</homepage_url>
+      <download_url>http://web-content-viewer.org/download.html</download_url>
+      <url_name>wcv</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6740/wcv_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6740/wcv_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14510427</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>geek</tag>
+        <tag>rst</tag>
+        <tag>php</tag>
+        <tag>cms</tag>
+        <tag>ezc</tag>
+        <tag>svn</tag>
+      </tags>
+      <analysis>
+        <id>14510427</id>
+        <url>http://www.ohloh.net/analyses/14510427.xml</url>
+        <project_id>6944</project_id>
+        <updated_at>2013-07-03T03:14:48Z</updated_at>
+        <logged_at>2013-07-03T03:11:53Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12276</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wcv/analyses/14510427/languages.png">
+          <language color="356AA0" percentage="87" id="2">
+PHP          </language>
+          <language color="556655" percentage="5" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="8" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

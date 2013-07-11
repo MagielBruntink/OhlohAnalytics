@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16800</id>
+      <name>SchemaSpy</name>
+      <url>http://www.ohloh.net/p/schemaspy.xml</url>
+      <html_url>http://www.ohloh.net/p/schemaspy</html_url>
+      <created_at>2008-09-19T11:16:52Z</created_at>
+      <updated_at>2013-07-06T13:40:39Z</updated_at>
+      <description>SchemaSpy analyzes database metadata to reverse engineer dynamic Entity Relationship (ER) diagrams. It works with just about any JDBC-compliant database (Oracle/MySQL/DB2/SQL Server/PostgreSQL/Sybase/etc.) and can identify Ruby on Rails as well as other implied relationships.</description>
+      <homepage_url>http://schemaspy.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=137197</download_url>
+      <url_name>schemaspy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>11</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550476</analysis_id>
+      <tags>
+        <tag>informix</tag>
+        <tag>entity-relationship</tag>
+        <tag>sybase</tag>
+        <tag>reverse_engineering</tag>
+        <tag>sqlserver</tag>
+        <tag>entityrelationshipdiagram</tag>
+        <tag>erdiagram</tag>
+        <tag>report</tag>
+        <tag>relational</tag>
+        <tag>java</tag>
+        <tag>windows</tag>
+        <tag>oracle</tag>
+        <tag>db2</tag>
+        <tag>mssql</tag>
+        <tag>reverse-engineering</tag>
+        <tag>sqlite</tag>
+        <tag>javadb</tag>
+        <tag>entityrelationship</tag>
+        <tag>maxdb</tag>
+        <tag>tools</tag>
+        <tag>relationship</tag>
+        <tag>jdbc</tag>
+        <tag>presentation</tag>
+        <tag>javase</tag>
+        <tag>mysql</tag>
+        <tag>mac</tag>
+        <tag>firebird</tag>
+        <tag>hsqldb</tag>
+        <tag>linux</tag>
+        <tag>teradata</tag>
+        <tag>postgresql</tag>
+        <tag>erd</tag>
+        <tag>er</tag>
+        <tag>database_schema</tag>
+        <tag>reverseengineering</tag>
+        <tag>derby</tag>
+        <tag>jquery</tag>
+        <tag>development</tag>
+        <tag>database</tag>
+      </tags>
+      <analysis>
+        <id>14550476</id>
+        <url>http://www.ohloh.net/analyses/14550476.xml</url>
+        <project_id>16800</project_id>
+        <updated_at>2013-07-06T13:40:39Z</updated_at>
+        <logged_at>2013-07-06T13:40:04Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>13451</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/schemaspy/analyses/14550476/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

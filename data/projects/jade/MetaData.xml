@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584179</id>
+      <name>Jade - template engine</name>
+      <url>http://www.ohloh.net/p/jade.xml</url>
+      <html_url>http://www.ohloh.net/p/jade</html_url>
+      <created_at>2011-05-29T20:13:34Z</created_at>
+      <updated_at>2013-07-02T08:21:35Z</updated_at>
+      <description>Jade - template engine
+
+Jade is a high performance template engine heavily influenced by Haml and implemented with JavaScript for node.
+
+Features
+
+* client-side support
+* great readability
+* flexible indentation
+* block-expansion
+* code is escaped by default for security
+* contextual error reporting at compile &amp; run time
+* executable for compiling jade templates via the command line
+* html 5 mode (using the !!! 5 doctype)
+* optional memory caching
+* combine dynamic and static tag classes
+* parse tree manipulation via filters
+* supports Express JS out of the box
+* transparent iteration over objects, arrays, and even non-enumerables via - each
+* block comments</description>
+      <homepage_url>http://jade-lang.com/</homepage_url>
+      <download_url>https://github.com/visionmedia/jade</download_url>
+      <url_name>jade</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14501581</analysis_id>
+      <tags>
+        <tag>templateengine</tag>
+        <tag>template_engine</tag>
+        <tag>node</tag>
+        <tag>javascript</tag>
+        <tag>nodejs</tag>
+        <tag>template</tag>
+        <tag>template-engine</tag>
+        <tag>haml</tag>
+      </tags>
+      <analysis>
+        <id>14501581</id>
+        <url>http://www.ohloh.net/analyses/14501581.xml</url>
+        <project_id>584179</project_id>
+        <updated_at>2013-07-02T08:21:35Z</updated_at>
+        <logged_at>2013-07-02T08:04:58Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>54</twelve_month_contributor_count>
+        <total_code_lines>9367</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jade/analyses/14501581/languages.png">
+          <language color="A4007E" percentage="90" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

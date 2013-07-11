@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6252</id>
+      <name>MySQL Proxy</name>
+      <url>http://www.ohloh.net/p/mysql-proxy.xml</url>
+      <html_url>http://www.ohloh.net/p/mysql-proxy</html_url>
+      <created_at>2007-06-26T07:18:35Z</created_at>
+      <updated_at>2013-06-24T00:45:51Z</updated_at>
+      <description>MySQL Proxy is a simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication. Its flexibility allows for unlimited uses; common ones include: load balancing; failover; query analysis; query filtering and modification; and many more.</description>
+      <homepage_url>http://forge.mysql.com/wiki/MySQL_Proxy</homepage_url>
+      <download_url>http://dev.mysql.com/downloads/mysql-proxy/</download_url>
+      <url_name>mysql-proxy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22553/Sakila_proxy_256x298_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22553/Sakila_proxy_256x298_small.jpg</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14369429</analysis_id>
+      <tags>
+        <tag>failover</tag>
+        <tag>proxy</tag>
+        <tag>mysql</tag>
+        <tag>loadbalancing</tag>
+        <tag>highavailability</tag>
+      </tags>
+      <analysis>
+        <id>14369429</id>
+        <url>http://www.ohloh.net/analyses/14369429.xml</url>
+        <project_id>6252</project_id>
+        <updated_at>2013-07-11T05:16:52Z</updated_at>
+        <logged_at>2013-07-11T05:16:43Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>41131</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mysql-proxy/analyses/14369429/languages.png">
+          <language color="FF8F00" percentage="74" id="42">
+C          </language>
+          <language color="A42E00" percentage="17" id="27">
+Lua          </language>
+          <language color="EEE" percentage="5" id="74">
+CMake          </language>
+          <language color="000000" percentage="4" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

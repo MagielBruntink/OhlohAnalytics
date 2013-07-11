@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346666</id>
+      <name>PyroScope</name>
+      <url>http://www.ohloh.net/p/pyroscope.xml</url>
+      <html_url>http://www.ohloh.net/p/pyroscope</html_url>
+      <created_at>2009-06-11T22:20:07Z</created_at>
+      <updated_at>2013-07-09T21:01:19Z</updated_at>
+      <description>PyroScope is a collection of tools for the BitTorrent protocol and especially the rTorrent client.
+
+It offers the following components:
+
+    * a modern and versatile rTorrent web interface
+    * rTorrent extensions like a queue manager and statistics
+    * CommandLineTools for automation of common tasks, like metafile creation
+
+Unlike other Python rTorrent projects, it's not in a zombie state.</description>
+      <homepage_url>http://pyroscope.googlecode.com/</homepage_url>
+      <download_url>http://code.google.com/p/pyroscope/downloads/list</download_url>
+      <url_name>pyroscope</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20048/ohloh_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20048/ohloh_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560358</analysis_id>
+      <tags>
+        <tag>yui</tag>
+        <tag>pylons</tag>
+        <tag>python25</tag>
+        <tag>rtorrent</tag>
+        <tag>pythonpaste</tag>
+        <tag>web-ui</tag>
+        <tag>paver</tag>
+        <tag>bittorrentclient</tag>
+        <tag>xmlrpc</tag>
+        <tag>cli</tag>
+        <tag>wsgi</tag>
+        <tag>bittorrent</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14560358</id>
+        <url>http://www.ohloh.net/analyses/14560358.xml</url>
+        <project_id>346666</project_id>
+        <updated_at>2013-07-07T07:56:51Z</updated_at>
+        <logged_at>2013-07-07T07:56:08Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>18079</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyroscope/analyses/14560358/languages.png">
+          <language color="4A246B" percentage="56" id="9">
+Python          </language>
+          <language color="A4007E" percentage="24" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="8" id="4">
+CSS          </language>
+          <language color="000000" percentage="12" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

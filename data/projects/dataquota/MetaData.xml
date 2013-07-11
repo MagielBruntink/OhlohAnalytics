@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>121349</id>
+      <name>Data Quota</name>
+      <url>http://www.ohloh.net/p/dataquota.xml</url>
+      <html_url>http://www.ohloh.net/p/dataquota</html_url>
+      <created_at>2009-01-02T17:24:45Z</created_at>
+      <updated_at>2012-08-26T17:49:41Z</updated_at>
+      <description>Simply shows how much of your packet data quota you've used so far this month.  
+
+  
+
+On the first of each month (or whenever your quota resets on billing day), clear the packet data counter. For example: Tools -&gt; Log -&gt; Packet data -&gt; Options -&gt; Clear counters</description>
+      <homepage_url>http://code.google.com/p/dataquota</homepage_url>
+      <download_url>http://code.google.com/p/dataquota/downloads/list</download_url>
+      <url_name>dataquota</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/21118/icon55x55_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/21118/icon55x55_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4149939</analysis_id>
+      <tags>
+        <tag>freeware</tag>
+        <tag>packetdata</tag>
+        <tag>series60</tag>
+        <tag>quota</tag>
+        <tag>bandwidth</tag>
+        <tag>data</tag>
+        <tag>opensource</tag>
+        <tag>dataquota</tag>
+        <tag>free</tag>
+        <tag>nokia</tag>
+        <tag>symbian</tag>
+        <tag>s60</tag>
+      </tags>
+      <analysis>
+        <id>4149939</id>
+        <url>http://www.ohloh.net/analyses/4149939.xml</url>
+        <project_id>121349</project_id>
+        <updated_at>2011-10-12T10:15:12Z</updated_at>
+        <logged_at>2011-10-12T10:15:09Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1237</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dataquota/analyses/4149939/languages.png">
+          <language color="F35F1F" percentage="92" id="44">
+C++          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

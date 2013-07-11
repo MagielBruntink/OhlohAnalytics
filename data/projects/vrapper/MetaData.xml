@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318170</id>
+      <name>Vrapper</name>
+      <url>http://www.ohloh.net/p/vrapper.xml</url>
+      <html_url>http://www.ohloh.net/p/vrapper</html_url>
+      <created_at>2009-03-03T09:58:19Z</created_at>
+      <updated_at>2013-07-02T13:09:07Z</updated_at>
+      <description>Vrapper is an Eclipse plugin which acts as a wrapper for Eclipse text editors to provide a Vim-like input scheme for moving around and editing text.
+
+Unlike other plugins which embed Vim in Eclipse, Vrapper imitates the behaviour of Vim while still using whatever editor you have opened in the workbench. The goal is to have the comfort and ease which comes with the different modes, complex commands and count/operator/motion combinations which are the key features behind editing with Vim, while preserving the powerful features of the different Eclipse text editors, like code generation and refactoring.
+
+Vrapper tries to offer Eclipse developers the best of both worlds.</description>
+      <homepage_url>http://vrapper.sourceforge.net/home/</homepage_url>
+      <download_url>http://sourceforge.net/projects/vrapper/files/latest/download</download_url>
+      <url_name>vrapper</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50281/vrapper_logo_square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50281/vrapper_logo_square_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14503026</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>gpl</tag>
+        <tag>vim</tag>
+        <tag>vi</tag>
+        <tag>eclipse</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>14503026</id>
+        <url>http://www.ohloh.net/analyses/14503026.xml</url>
+        <project_id>318170</project_id>
+        <updated_at>2013-07-02T13:09:06Z</updated_at>
+        <logged_at>2013-07-02T13:08:28Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>36150</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vrapper/analyses/14503026/languages.png">
+          <language color="9A63AD" percentage="66" id="5">
+Java          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

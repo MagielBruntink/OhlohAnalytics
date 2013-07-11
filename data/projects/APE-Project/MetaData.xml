@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318041</id>
+      <name>Ajax Push Engine</name>
+      <url>http://www.ohloh.net/p/APE-Project.xml</url>
+      <html_url>http://www.ohloh.net/p/APE-Project</html_url>
+      <created_at>2009-03-01T01:41:25Z</created_at>
+      <updated_at>2013-06-29T19:08:18Z</updated_at>
+      <description>APE is a very lightweight scalable HTTP server that does real time data streaming. Unlike Comet, APE does not stream data into a frame, thus your browser will not be flooded with data. APE uses all the lastest browser features and provides backward compatibilty for older ones. Full C written, it has small footprint and does not require any dependencies.</description>
+      <homepage_url>http://www.ape-project.org</homepage_url>
+      <download_url>http://svn.gna.org/viewcvs/ape/trunk/</download_url>
+      <url_name>APE-Project</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61438/ape_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61438/ape_logo_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14465994</analysis_id>
+      <tags>
+        <tag>ajax</tag>
+        <tag>ajaxserver</tag>
+        <tag>push</tag>
+        <tag>ajaxpush</tag>
+        <tag>ajaxpushengine</tag>
+        <tag>httpstreaming</tag>
+        <tag>ape</tag>
+        <tag>http_server</tag>
+        <tag>http_streaming</tag>
+        <tag>httpmodule</tag>
+      </tags>
+      <analysis>
+        <id>14465994</id>
+        <url>http://www.ohloh.net/analyses/14465994.xml</url>
+        <project_id>318041</project_id>
+        <updated_at>2013-07-11T13:08:31Z</updated_at>
+        <logged_at>2013-07-11T10:08:58Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>633855</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/APE-Project/analyses/14465994/languages.png">
+          <language color="F35F1F" percentage="61" id="44">
+C++          </language>
+          <language color="A4007E" percentage="13" id="6">
+JavaScript          </language>
+          <language color="FF8F00" percentage="10" id="42">
+C          </language>
+          <language color="000000" percentage="16" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

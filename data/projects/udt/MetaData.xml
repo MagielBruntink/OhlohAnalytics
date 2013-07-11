@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7999</id>
+      <name>UDT</name>
+      <url>http://www.ohloh.net/p/udt.xml</url>
+      <html_url>http://www.ohloh.net/p/udt</html_url>
+      <created_at>2007-08-27T19:25:54Z</created_at>
+      <updated_at>2013-06-19T16:48:54Z</updated_at>
+      <description>UDT is an application level data transport protocol for the emerging distributed data intensive applications over wide area high-speed networks. UDT uses UDP to transfer bulk data and it has its own reliability control and congestion control mechanism. This new protocol is not only for private or QoS-enabled links, but also for shared networks. Furthermore, UDT is also a highly configurable framework that can accommodate various congestion control algorithms.</description>
+      <homepage_url>http://udt.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/projects/udt</download_url>
+      <url_name>udt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14311009</analysis_id>
+      <tags>
+        <tag>tcp</tag>
+        <tag>protocol</tag>
+        <tag>udp</tag>
+        <tag>firewall</tag>
+        <tag>p2p</tag>
+        <tag>socket</tag>
+        <tag>network</tag>
+      </tags>
+      <analysis>
+        <id>14311009</id>
+        <url>http://www.ohloh.net/analyses/14311009.xml</url>
+        <project_id>7999</project_id>
+        <updated_at>2013-07-02T18:39:20Z</updated_at>
+        <logged_at>2013-07-02T18:13:48Z</logged_at>
+        <min_month>2004-07-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>72156</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/udt/analyses/14311009/languages.png">
+          <language color="F35F1F" percentage="65" id="44">
+C++          </language>
+          <language color="47A400" percentage="25" id="1">
+HTML          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

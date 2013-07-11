@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3683</id>
+      <name>Cream</name>
+      <url>http://www.ohloh.net/p/cream.xml</url>
+      <html_url>http://www.ohloh.net/p/cream</html_url>
+      <created_at>2006-11-28T04:56:47Z</created_at>
+      <updated_at>2013-06-29T20:41:45Z</updated_at>
+      <description>A modern configuration of the Vim text editor.</description>
+      <homepage_url>http://cream.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>cream</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3700/cream_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3700/cream_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14468023</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>editor</tag>
+        <tag>tools</tag>
+        <tag>vim</tag>
+      </tags>
+      <analysis>
+        <id>14468023</id>
+        <url>http://www.ohloh.net/analyses/14468023.xml</url>
+        <project_id>3683</project_id>
+        <updated_at>2013-07-05T11:08:44Z</updated_at>
+        <logged_at>2013-07-05T11:08:38Z</logged_at>
+        <min_month>2003-05-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>33157</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cream/analyses/14468023/languages.png">
+          <language color="EEE" percentage="90" id="48">
+Vim Script          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>48</main_language_id>
+        <main_language_name>Vim Script</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

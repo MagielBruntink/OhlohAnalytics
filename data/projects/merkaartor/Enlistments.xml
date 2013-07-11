@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>492455</id>
+      <project_id>15544</project_id>
+      <repository_id>322377</repository_id>
+      <repository>
+        <id>322377</id>
+        <type>GitRepository</type>
+        <url>git://github.com/openstreetmap/merkaartor.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T09:07:17Z</logged_at>
+        <commits>1923</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>222133</id>
+      <project_id>15544</project_id>
+      <repository_id>219992</repository_id>
+      <repository>
+        <id>219992</id>
+        <type>GitRepository</type>
+        <url>git://gitorious.org/merkaartor/main.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T09:02:31Z</logged_at>
+        <commits>1923</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

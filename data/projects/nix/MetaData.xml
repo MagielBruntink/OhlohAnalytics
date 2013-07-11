@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25547</id>
+      <name>Nix</name>
+      <url>http://www.ohloh.net/p/nix.xml</url>
+      <html_url>http://www.ohloh.net/p/nix</html_url>
+      <created_at>2008-10-11T13:19:47Z</created_at>
+      <updated_at>2013-07-10T00:13:35Z</updated_at>
+      <description>Nix is a purely functional package manager. It allows multiple versions of a package to be installed side-by-side, ensures that dependency specifications are complete, supports atomic upgrades and rollbacks, allows non-root users to install software, and has many other features. It is the basis of the NixOS Linux distribution, but it can be used equally well under other Unix systems.</description>
+      <homepage_url>http://nixos.org/about.html</homepage_url>
+      <download_url>http://nixos.org/releases/nix/unstable/</download_url>
+      <url_name>nix</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39171/nix-wiki_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39171/nix-wiki_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14576082</analysis_id>
+      <tags>
+        <tag>nixos</tag>
+        <tag>nix</tag>
+      </tags>
+      <analysis>
+        <id>14576082</id>
+        <url>http://www.ohloh.net/analyses/14576082.xml</url>
+        <project_id>25547</project_id>
+        <updated_at>2013-07-10T00:13:35Z</updated_at>
+        <logged_at>2013-07-10T00:12:58Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>34648</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nix/analyses/14576082/languages.png">
+          <language color="F35F1F" percentage="50" id="44">
+C++          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="D2C690" percentage="6" id="8">
+Perl          </language>
+          <language color="000000" percentage="17" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

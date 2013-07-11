@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>326712</id>
+      <name>twitter.el</name>
+      <url>http://www.ohloh.net/p/twitter-el.xml</url>
+      <html_url>http://www.ohloh.net/p/twitter-el</html_url>
+      <created_at>2009-04-16T18:51:44Z</created_at>
+      <updated_at>2013-07-11T06:33:22Z</updated_at>
+      <description>A simple Twitter client for Emacs. It can display your friends timeline, make posts and reply to other posts.</description>
+      <homepage_url>http://www.busydoingnothing.co.uk/twitter-el/</homepage_url>
+      <download_url>http://git.busydoingnothing.co.uk/cgit.cgi/twitter.git/plain/twitter.el?id=HEAD</download_url>
+      <url_name>twitter-el</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585379</analysis_id>
+      <analysis>
+        <id>14585379</id>
+        <url>http://www.ohloh.net/analyses/14585379.xml</url>
+        <project_id>326712</project_id>
+        <updated_at>2013-07-11T06:33:22Z</updated_at>
+        <logged_at>2013-07-11T06:33:02Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>688</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/twitter-el/analyses/14585379/languages.png">
+          <language color="2B6B24" percentage="100" id="10">
+Emacs Lisp          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

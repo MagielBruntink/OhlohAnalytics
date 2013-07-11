@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>321125</id>
+      <name>DevCamps</name>
+      <url>http://www.ohloh.net/p/devcamps.xml</url>
+      <html_url>http://www.ohloh.net/p/devcamps</html_url>
+      <created_at>2009-04-06T15:53:08Z</created_at>
+      <updated_at>2013-07-04T07:26:49Z</updated_at>
+      <description>DevCamps are a software system and conventions for making automated development and staging environments called &quot;camps&quot;.
+
+Focused on web applications, camps make it easy to keep development environments up to date, use version control (including in production if desired), and coordinate multiple simultaneous projects and developers.
+
+DevCamps are in extensive use on several dozen sites and adapt well to various workflows.</description>
+      <homepage_url>http://www.devcamps.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>devcamps</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14523585</analysis_id>
+      <tags>
+        <tag>git</tag>
+        <tag>perl</tag>
+        <tag>software_development</tag>
+      </tags>
+      <analysis>
+        <id>14523585</id>
+        <url>http://www.ohloh.net/analyses/14523585.xml</url>
+        <project_id>321125</project_id>
+        <updated_at>2013-07-04T07:26:49Z</updated_at>
+        <logged_at>2013-07-04T07:20:58Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>9804</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/devcamps/analyses/14523585/languages.png">
+          <language color="D2C690" percentage="43" id="8">
+Perl          </language>
+          <language color="A4007E" percentage="36" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

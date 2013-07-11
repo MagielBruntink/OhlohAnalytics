@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9570</id>
+      <name>OpenBIOS</name>
+      <url>http://www.ohloh.net/p/openbios.xml</url>
+      <html_url>http://www.ohloh.net/p/openbios</html_url>
+      <created_at>2007-11-07T21:03:24Z</created_at>
+      <updated_at>2013-07-02T19:50:44Z</updated_at>
+      <description>Open Source Open Firmware implementation. 
+
+The OpenBIOS project provides you with most free and open source Open Firmware implementations available. Here you find several implementations of IEEE 1275-1994 (Referred to as Open Firmware) compliant firmware.
+
+Among its features, Open Firmware provides an instruction set independent device interface. This can be used to boot the operating system from expansion cards without native initialization code.
+
+It is Open Firmware's goal to work on all common platforms, like x86, AMD64, PowerPC, ARM and Mips. With its flexible and modular design, Open Firmware targets servers, workstations and embedded systems, where a sane and unified firmware is a crucial design goal and reduces porting efforts noticably.</description>
+      <homepage_url>http://www.openbios.org/</homepage_url>
+      <download_url>http://www.openbios.org/OpenBIOS</download_url>
+      <url_name>openbios</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14506092</analysis_id>
+      <tags>
+        <tag>boot</tag>
+        <tag>bios</tag>
+        <tag>forth</tag>
+        <tag>firmware</tag>
+        <tag>openfirmware</tag>
+      </tags>
+      <analysis>
+        <id>14506092</id>
+        <url>http://www.ohloh.net/analyses/14506092.xml</url>
+        <project_id>9570</project_id>
+        <updated_at>2013-07-02T19:50:44Z</updated_at>
+        <logged_at>2013-07-02T19:46:30Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>283517</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openbios/analyses/14506092/languages.png">
+          <language color="FF8F00" percentage="77" id="42">
+C          </language>
+          <language color="EEE" percentage="12" id="77">
+F#          </language>
+          <language color="000000" percentage="11" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

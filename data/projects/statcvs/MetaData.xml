@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>119</id>
+      <name>StatCVS - Stat Your Repository</name>
+      <url>http://www.ohloh.net/p/statcvs.xml</url>
+      <html_url>http://www.ohloh.net/p/statcvs</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-26T21:49:24Z</updated_at>
+      <description>StatCVS retrieves information from a CVS repository and generates various tables and charts describing the history of a software project development, such as a timeline for the lines of code, contribution of each developer, etc.</description>
+      <homepage_url>http://statcvs.sf.net</homepage_url>
+      <download_url></download_url>
+      <url_name>statcvs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14423317</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>visualization</tag>
+        <tag>control</tag>
+        <tag>development</tag>
+        <tag>version_control</tag>
+        <tag>ant</tag>
+        <tag>tools</tag>
+        <tag>reporting</tag>
+        <tag>reports</tag>
+        <tag>scm</tag>
+        <tag>cvs</tag>
+        <tag>statistics</tag>
+      </tags>
+      <analysis>
+        <id>14423317</id>
+        <url>http://www.ohloh.net/analyses/14423317.xml</url>
+        <project_id>119</project_id>
+        <updated_at>2013-07-06T04:00:38Z</updated_at>
+        <logged_at>2013-07-06T04:00:28Z</logged_at>
+        <min_month>2002-07-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>19970</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/statcvs/analyses/14423317/languages.png">
+          <language color="9A63AD" percentage="66" id="5">
+Java          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

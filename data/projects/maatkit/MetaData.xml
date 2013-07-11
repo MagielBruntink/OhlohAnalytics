@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10083</id>
+      <name>maatkit</name>
+      <url>http://www.ohloh.net/p/maatkit.xml</url>
+      <html_url>http://www.ohloh.net/p/maatkit</html_url>
+      <created_at>2007-12-06T13:02:16Z</created_at>
+      <updated_at>2013-07-11T06:32:48Z</updated_at>
+      <description>Maatkit is a collection of essential command-line utilities for MySQL:  
+*Table Checksum* checks whether tables have the same data, ie check slaves for consistency with the master.
+
+*Table Sync* efficiently finds/resolves differences between two tables.
+
+*Show Grants* helps extract, compare, change, synchronize, and version control user privileges.
+
+*Slave Restart* monitors a replication slave for errors and tries to restart it.
+
+*Slave Delay* implements delayed replication.
+
+*Find* is the MySQL counterpart to the UNIX &#8216;find&#8217; command, for table metadata.
+
+*Duplicate Key Checker* checks for whole or partial key duplication.
+
+*Archiver* helps purge stale data.
+
+also:
+*Deadlock Logger*
+*Query Profiler*
+*Parallel Dump*
+*Parallel Restore*
+*Heartbeat*
+*Visual Explain*
+
+See homepage for more info</description>
+      <homepage_url>http://maatkit.sourceforge.net/</homepage_url>
+      <download_url>http://maatkit.sourceforge.net/download</download_url>
+      <url_name>maatkit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585368</analysis_id>
+      <tags>
+        <tag>database_administration</tag>
+        <tag>mysql</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>14585368</id>
+        <url>http://www.ohloh.net/analyses/14585368.xml</url>
+        <project_id>10083</project_id>
+        <updated_at>2013-07-11T06:32:48Z</updated_at>
+        <logged_at>2013-07-11T06:27:05Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>367032</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/maatkit/analyses/14585368/languages.png">
+          <language color="D2C690" percentage="97" id="8">
+Perl          </language>
+          <language color="000000" percentage="3" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

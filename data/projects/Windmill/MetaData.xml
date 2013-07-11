@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8990</id>
+      <name>Windmill</name>
+      <url>http://www.ohloh.net/p/Windmill.xml</url>
+      <html_url>http://www.ohloh.net/p/Windmill</html_url>
+      <created_at>2007-10-06T19:03:59Z</created_at>
+      <updated_at>2013-06-05T09:52:08Z</updated_at>
+      <description>Windmill is an Open Source AJAX Web UI Testing framework that was originally built to automate testing for the Chandler Server Project at OSAF. After spending time with Selenium we realized we had a variety of needs that weren't being fulfilled and built Windmill from the ground up.
+
+Windmill implements cross browser testing, in-browser recording and playback, and functionality for fast accurate debugging and test environment integration.
+
+We are a relatively young project, but as far as we know we already implement a larger set of a browser testability than Selenium.</description>
+      <homepage_url>http://www.getwindmill.com</homepage_url>
+      <download_url>https://github.com/windmill/windmill/wiki/Installing</download_url>
+      <url_name>Windmill</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39243/windmill_newlogo_big_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39243/windmill_newlogo_big_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14169010</analysis_id>
+      <tags>
+        <tag>javascript</tag>
+        <tag>test</tag>
+        <tag>ajax</tag>
+        <tag>development</tag>
+        <tag>web</tag>
+        <tag>testing</tag>
+        <tag>python</tag>
+        <tag>testng</tag>
+        <tag>wsgi</tag>
+        <tag>automation</tag>
+        <tag>jsonrpc</tag>
+        <tag>json</tag>
+      </tags>
+      <analysis>
+        <id>14169010</id>
+        <url>http://www.ohloh.net/analyses/14169010.xml</url>
+        <project_id>8990</project_id>
+        <updated_at>2013-07-05T06:32:41Z</updated_at>
+        <logged_at>2013-07-05T06:30:46Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>58928</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Windmill/analyses/14169010/languages.png">
+          <language color="A4007E" percentage="64" id="6">
+JavaScript          </language>
+          <language color="4A246B" percentage="16" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="000000" percentage="9" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

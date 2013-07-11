@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9855</id>
+      <name>PyChess</name>
+      <url>http://www.ohloh.net/p/pychess.xml</url>
+      <html_url>http://www.ohloh.net/p/pychess</html_url>
+      <created_at>2007-11-24T19:21:24Z</created_at>
+      <updated_at>2013-07-03T18:34:05Z</updated_at>
+      <description>Chess game written using pygtk.
+Should be able to do most things xboard does, but in a nicer gtk/svg enviroment.
+ 
+The goal of pychess, is to provide a fully featured, nice looking, easy to use chess client for the gnome-desktop.
+
+The client should be usable both to those totally new to chess, and those who wants to use a computer to further enchance their play.
+
+It has a nice looking tabbed iterface, containing a chessclock and an animimated chess board with drag 'n' drop.
+I has full pgn+epd read/write support and supports all xboard/cecp engines.
+It has full buildtin support for chessrules, and even has its own, working out of the box, python chess engine.
+It can show you bookmoves, hints and tips of what your opponent might move in his/her/its next turn.</description>
+      <homepage_url>http://pychess.org</homepage_url>
+      <download_url>http://pychess.org/download</download_url>
+      <url_name>pychess</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42001/logo__1__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42001/logo__1__small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14516969</analysis_id>
+      <tags>
+        <tag>chess</tag>
+        <tag>pygtk</tag>
+        <tag>gnome</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14516969</id>
+        <url>http://www.ohloh.net/analyses/14516969.xml</url>
+        <project_id>9855</project_id>
+        <updated_at>2013-07-03T18:34:05Z</updated_at>
+        <logged_at>2013-07-03T18:26:13Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>48314</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pychess/analyses/14516969/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="47A400" percentage="13" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

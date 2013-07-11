@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17022</id>
+      <name>RackTables</name>
+      <url>http://www.ohloh.net/p/RackTables.xml</url>
+      <html_url>http://www.ohloh.net/p/RackTables</html_url>
+      <created_at>2008-10-01T21:01:45Z</created_at>
+      <updated_at>2013-07-11T07:10:48Z</updated_at>
+      <description>Open Source solution for datacenter and server room management. RackTables manages rackspace, IP addresses, servers, switches, routers and much more!</description>
+      <homepage_url>http://racktables.org/</homepage_url>
+      <download_url>https://sourceforge.net/projects/racktables/files/</download_url>
+      <url_name>RackTables</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56933/RackTables-logo-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56933/RackTables-logo-64x64_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>3.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14585737</analysis_id>
+      <tags>
+        <tag>servermanagement</tag>
+        <tag>serverfarm</tag>
+        <tag>nat</tag>
+        <tag>inventorymanagementsystem</tag>
+        <tag>ip</tag>
+        <tag>inventory</tag>
+        <tag>noc</tag>
+        <tag>server</tag>
+        <tag>rack</tag>
+        <tag>racktables</tag>
+        <tag>webapp</tag>
+        <tag>admin</tag>
+        <tag>admintools</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>14585737</id>
+        <url>http://www.ohloh.net/analyses/14585737.xml</url>
+        <project_id>17022</project_id>
+        <updated_at>2013-07-11T07:10:48Z</updated_at>
+        <logged_at>2013-07-11T07:10:28Z</logged_at>
+        <min_month>2004-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>51469</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/RackTables/analyses/14585737/languages.png">
+          <language color="356AA0" percentage="84" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="11" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>13772</id>
+      <project_id>5793</project_id>
+      <repository_id>13329</repository_id>
+      <repository>
+        <id>13329</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@prefuse.cvs.sourceforge.net:/cvsroot/prefuse</url>
+        <module_name>prefuse</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-02T18:13:56Z</logged_at>
+        <commits>464</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4407</id>
+      <name>Colorer Library</name>
+      <url>http://www.ohloh.net/p/colorer.xml</url>
+      <html_url>http://www.ohloh.net/p/colorer</html_url>
+      <created_at>2007-02-12T19:27:22Z</created_at>
+      <updated_at>2013-07-11T03:40:17Z</updated_at>
+      <description>Colorer is a syntax highlighting and text parsing library. It provides real-time text parsing services for host editor systems and  transforms results into colored text. Output data allows to search and build list of functions, structures, allows to search and indent programming language constructions (brackets, paired tags). Colorer uses pure C++ and XML, it is fully portable and works on win32/unix/mac platforms. Top level Java language API is also available as well as plugin for Eclipse. There are also ready to use modules and plugins for Far Manager, Midnight Commander and some other programs. Bindings for some other languages and server API are also supported.</description>
+      <homepage_url>http://colorer.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>colorer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14583951</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>highlight</tag>
+        <tag>tools</tag>
+        <tag>syntax</tag>
+        <tag>source</tag>
+      </tags>
+      <analysis>
+        <id>14583951</id>
+        <url>http://www.ohloh.net/analyses/14583951.xml</url>
+        <project_id>4407</project_id>
+        <updated_at>2013-07-11T03:40:16Z</updated_at>
+        <logged_at>2013-07-11T03:39:46Z</logged_at>
+        <min_month>1999-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>314143</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/colorer/analyses/14583951/languages.png">
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="F35F1F" percentage="14" id="44">
+C++          </language>
+          <language color="000000" percentage="42" id="">
+36 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

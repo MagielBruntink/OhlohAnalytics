@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22418</id>
+      <name>pidgin-musictracker</name>
+      <url>http://www.ohloh.net/p/pidgin-musictracker.xml</url>
+      <html_url>http://www.ohloh.net/p/pidgin-musictracker</html_url>
+      <created_at>2008-10-07T14:46:42Z</created_at>
+      <updated_at>2013-06-14T10:33:34Z</updated_at>
+      <description>pidgin-musictracker is a plugin for Pidgin which displays the media currently playing in the status message for any protocol Pidgin supports custom statuses on. 
+
+Currently supported players: 
+
+on Linux: 
+
+Amarok, Audacious, Banshee, Exaile, Last.fm feed, Listen, MOC, MPD, Quod Libet, Rhythmbox, Songbird + DBusBird addon,  SqueezeCenter, Vagalume, XMMS, XMMS2 &gt;= 0.6 plus any player supporting the MPRIS DBus interface (Amarok2, BMPx, dragonplayer,  Exaile &gt;= 0.3, Goggles Music Manager, QMMP &gt;=0.3, Rhythmbox, Songbird + MPRIS addon, VLC &gt;0.9.0, etc.) 
+
+on Windows: 
+
+Foobar2000, iTunes, Last.fm feed, MPD, Winamp, Windows Media Player plus any player with a 'winamp-compatible' interface (AIMP2, MediaMonkey, etc.) plus any player with a 'Send &quot;Now Playing&quot; information to MSN Messenger' feature</description>
+      <homepage_url>http://code.google.com/p/pidgin-musictracker</homepage_url>
+      <download_url></download_url>
+      <url_name>pidgin-musictracker</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14258950</analysis_id>
+      <tags>
+        <tag>nowlistening</tag>
+        <tag>nowplaying</tag>
+        <tag>plugin</tag>
+        <tag>music</tag>
+        <tag>pidgin</tag>
+      </tags>
+      <analysis>
+        <id>14258950</id>
+        <url>http://www.ohloh.net/analyses/14258950.xml</url>
+        <project_id>22418</project_id>
+        <updated_at>2013-07-05T19:15:44Z</updated_at>
+        <logged_at>2013-07-05T19:15:42Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>18712</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pidgin-musictracker/analyses/14258950/languages.png">
+          <language color="F35F1F" percentage="57" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="41" id="42">
+C          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

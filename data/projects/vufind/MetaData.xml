@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10977</id>
+      <name>VuFind</name>
+      <url>http://www.ohloh.net/p/vufind.xml</url>
+      <html_url>http://www.ohloh.net/p/vufind</html_url>
+      <created_at>2008-01-15T22:12:49Z</created_at>
+      <updated_at>2013-07-10T07:30:06Z</updated_at>
+      <description>VuFind is a library resource portal designed and developed for libraries by libraries. The goal of VuFind is to enable your users to search and browse through all of your library's resources by replacing the traditional OPAC to include:
+
+    * Catalog Records
+    * Digital Library Items
+    * Institutional Repository
+    * Institutional Bibliography
+    * Other Library Collections and Resources
+
+VuFind is completely modular so you can implement just the basic system, or all of the components. And since it's open source, you can modify the modules to best fit your needs or you can add new modules to extend your resource offerings.</description>
+      <homepage_url>http://vufind.org</homepage_url>
+      <download_url>http://vufind.org/downloads.php</download_url>
+      <url_name>vufind</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2172/vufind-logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2172/vufind-logo_small.jpg</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14579655</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>lms</tag>
+        <tag>marc</tag>
+        <tag>mysql</tag>
+        <tag>oai</tag>
+        <tag>php</tag>
+        <tag>solrmarc</tag>
+        <tag>code4lib</tag>
+        <tag>ils</tag>
+        <tag>yui</tag>
+        <tag>ajax</tag>
+        <tag>library</tag>
+        <tag>smarty</tag>
+        <tag>web</tag>
+        <tag>lucene</tag>
+        <tag>solr</tag>
+        <tag>opac</tag>
+        <tag>mvc</tag>
+      </tags>
+      <analysis>
+        <id>14579655</id>
+        <url>http://www.ohloh.net/analyses/14579655.xml</url>
+        <project_id>10977</project_id>
+        <updated_at>2013-07-10T07:30:06Z</updated_at>
+        <logged_at>2013-07-10T07:28:23Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>395174</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vufind/analyses/14579655/languages.png">
+          <language color="356AA0" percentage="74" id="2">
+PHP          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="7" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
