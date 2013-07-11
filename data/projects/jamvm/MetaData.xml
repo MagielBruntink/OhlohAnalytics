@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7304</id>
+      <name>JamVM</name>
+      <url>http://www.ohloh.net/p/jamvm.xml</url>
+      <html_url>http://www.ohloh.net/p/jamvm</html_url>
+      <created_at>2007-08-08T15:26:47Z</created_at>
+      <updated_at>2013-07-10T15:08:32Z</updated_at>
+      <description>JamVM is a compact Java Virtual Machine conforming to the JVM specification edition 2 (blue book). It is extremely small; stripped executable on PowerPC ~180K, Intel 150K. However, unlike other small VMs it supports the full J2SE 1.5 specification, inc. soft/weak/phantom references, annotations and JNI.</description>
+      <homepage_url>http://jamvm.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=75148</download_url>
+      <url_name>jamvm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14581787</analysis_id>
+      <tags>
+        <tag>posix</tag>
+        <tag>embedded</tag>
+        <tag>jvm</tag>
+        <tag>java</tag>
+        <tag>interpreters</tag>
+        <tag>vm</tag>
+        <tag>development</tag>
+        <tag>bsd</tag>
+        <tag>linux</tag>
+        <tag>virtual_machines</tag>
+      </tags>
+      <analysis>
+        <id>14581787</id>
+        <url>http://www.ohloh.net/analyses/14581787.xml</url>
+        <project_id>7304</project_id>
+        <updated_at>2013-07-10T15:08:32Z</updated_at>
+        <logged_at>2013-07-09T23:21:35Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>54892</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jamvm/analyses/14581787/languages.png">
+          <language color="FF8F00" percentage="77" id="42">
+C          </language>
+          <language color="333333" percentage="7" id="19">
+Assembly          </language>
+          <language color="F35F1F" percentage="6" id="44">
+C++          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

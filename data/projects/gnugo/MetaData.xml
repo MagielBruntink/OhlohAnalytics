@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13361</id>
+      <name>GNU Go</name>
+      <url>http://www.ohloh.net/p/gnugo.xml</url>
+      <html_url>http://www.ohloh.net/p/gnugo</html_url>
+      <created_at>2008-04-15T00:59:21Z</created_at>
+      <updated_at>2013-07-07T11:58:43Z</updated_at>
+      <description>GNU Go is a free program that plays the game of Go. GNU Go has played thousands of games on the NNGS Go server. GNU Go is now also playing regularly on the Legend Go Server in Taiwan, on the WING server in Japan, and many volunteers run GNU Go clients on KGS. GNU Go has established itself as the leading non-commercial go program in the recent tournaments that it has taken part in.</description>
+      <homepage_url>http://www.gnu.org/software/gnugo/</homepage_url>
+      <download_url>http://www.gnu.org/software/gnugo/download.html</download_url>
+      <url_name>gnugo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.375</average_rating>
+      <rating_count>8</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14561381</analysis_id>
+      <tags>
+        <tag>baduk</tag>
+        <tag>board_games</tag>
+        <tag>sgf</tag>
+        <tag>artificial-intelligence</tag>
+        <tag>board</tag>
+        <tag>w&#233;iq&#237;</tag>
+        <tag>computer-go</tag>
+        <tag>game</tag>
+        <tag>artificial_intelligence</tag>
+        <tag>go</tag>
+        <tag>weiqi</tag>
+      </tags>
+      <analysis>
+        <id>14561381</id>
+        <url>http://www.ohloh.net/analyses/14561381.xml</url>
+        <project_id>13361</project_id>
+        <updated_at>2013-07-07T11:58:42Z</updated_at>
+        <logged_at>2013-07-07T11:54:02Z</logged_at>
+        <min_month>2001-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>85894</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnugo/analyses/14561381/languages.png">
+          <language color="FF8F00" percentage="66" id="42">
+C          </language>
+          <language color="EEE" percentage="9" id="51">
+Autoconf          </language>
+          <language color="000080" percentage="6" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="19" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

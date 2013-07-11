@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>412643</id>
+      <name>Spyder</name>
+      <url>http://www.ohloh.net/p/spyderlib.xml</url>
+      <html_url>http://www.ohloh.net/p/spyderlib</html_url>
+      <created_at>2009-08-21T10:57:23Z</created_at>
+      <updated_at>2013-07-06T03:09:31Z</updated_at>
+      <description>Spyder (previously known as Pydee) is a free open-source Python development environment providing MATLAB-like features in a simple and light-weighted software, available for Windows XP/Vista/7, GNU/Linux (official packages are available for Debian, Ubuntu, archlinux, Fedora, Gentoo or openSUSE) and MacOS X.
+
+Spyder is part of spyderlib, a Python module based on PyQt4, pyflakes, rope and sphinx (QScintilla's dependency has been removed in version 2.0 and rope features have been integrated since this version as well) providing powerful PyQt4 widgets like source code editors, Python console (easy to embed in your own application: see this example) or GUI-based dictionary, lists/tuples and NumPy array editors.</description>
+      <homepage_url>http://code.google.com/p/spyderlib/</homepage_url>
+      <download_url>http://code.google.com/p/spyderlib/downloads/list</download_url>
+      <url_name>spyderlib</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44235/path2747_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44235/path2747_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14545472</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>ide</tag>
+        <tag>scientific</tag>
+        <tag>console</tag>
+      </tags>
+      <analysis>
+        <id>14545472</id>
+        <url>http://www.ohloh.net/analyses/14545472.xml</url>
+        <project_id>412643</project_id>
+        <updated_at>2013-07-06T03:09:31Z</updated_at>
+        <logged_at>2013-07-06T03:06:59Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>70376</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/spyderlib/analyses/14545472/languages.png">
+          <language color="4A246B" percentage="89" id="9">
+Python          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

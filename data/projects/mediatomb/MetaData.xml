@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10715</id>
+      <name>mediatomb</name>
+      <url>http://www.ohloh.net/p/mediatomb.xml</url>
+      <html_url>http://www.ohloh.net/p/mediatomb</html_url>
+      <created_at>2008-01-03T20:31:55Z</created_at>
+      <updated_at>2013-07-04T07:05:48Z</updated_at>
+      <description>MediaTomb is an open source (GPL) UPnP MediaServer with a nice web user interface, it allows you to stream your digital media through your home network and listen to/watch it on a variety of UPnP compatible devices.
+
+MediaTomb implements the UPnP MediaServer V 1.0 specification that can be found on http://www.upnp.org/. The current implementation focuses on parts that are required by the specification, however we look into extending the functionality to cover the optional parts of the spec as well.
+
+MediaTomb should work with any UPnP compliant MediaRenderer, please tell us if you experience difficulties with particular models, also take a look at the Supported Devices list for more information.</description>
+      <homepage_url>http://mediatomb.cc</homepage_url>
+      <download_url>http://mediatomb.cc/pages/download</download_url>
+      <url_name>mediatomb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14523431</analysis_id>
+      <tags>
+        <tag>dlna</tag>
+        <tag>mediaserver</tag>
+        <tag>upnp</tag>
+        <tag>server</tag>
+      </tags>
+      <analysis>
+        <id>14523431</id>
+        <url>http://www.ohloh.net/analyses/14523431.xml</url>
+        <project_id>10715</project_id>
+        <updated_at>2013-07-04T07:05:48Z</updated_at>
+        <logged_at>2013-07-04T07:00:41Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>76666</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mediatomb/analyses/14523431/languages.png">
+          <language color="F35F1F" percentage="45" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="35" id="42">
+C          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="9" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

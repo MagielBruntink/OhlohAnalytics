@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>14573</id>
+      <project_id>6944</project_id>
+      <repository_id>14108</repository_id>
+      <repository>
+        <id>14108</id>
+        <type>SvnRepository</type>
+        <url>svn://kore-nordmann.de/wcv/doc</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-03T03:11:53Z</logged_at>
+        <commits>70</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>14336</id>
+      <project_id>6944</project_id>
+      <repository_id>13877</repository_id>
+      <repository>
+        <id>13877</id>
+        <type>SvnRepository</type>
+        <url>svn://kore-nordmann.de/wcv/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-03T03:14:11Z</logged_at>
+        <commits>657</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

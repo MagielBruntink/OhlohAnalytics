@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318970</id>
+      <name>Whoosh Python Search Library</name>
+      <url>http://www.ohloh.net/p/whoosh.xml</url>
+      <html_url>http://www.ohloh.net/p/whoosh</html_url>
+      <created_at>2009-03-11T22:40:32Z</created_at>
+      <updated_at>2013-06-10T08:33:10Z</updated_at>
+      <description>Whoosh is a fast, featureful full-text indexing and searching library implemented in pure Python.
+
+Some of Whoosh's features include:
+
+* Pythonic API.
+* Pure-Python. No compilation or binary packages needed, no mysterious crashes.
+* Fielded indexing and search.
+* Fast indexing and retrieval -- much faster than any other pure-Python solution.
+* Pluggable scoring algorithm (including BM25F), text analysis, storage, posting format, etc.
+* Powerful query language.
+* Pure Python spell-checker.</description>
+      <homepage_url>http://bitbucket.org/mchaput/whoosh</homepage_url>
+      <download_url>http://pypi.python.org/pypi/Whoosh</download_url>
+      <url_name>whoosh</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43064/whoosh_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43064/whoosh_logo_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>9010256</analysis_id>
+      <tags>
+        <tag>indexer</tag>
+        <tag>search-engine</tag>
+        <tag>spell-checking</tag>
+        <tag>search</tag>
+        <tag>search_engine</tag>
+        <tag>python</tag>
+        <tag>query</tag>
+        <tag>indexing</tag>
+        <tag>scoring</tag>
+        <tag>searchengine</tag>
+        <tag>index</tag>
+      </tags>
+      <analysis>
+        <id>9010256</id>
+        <url>http://www.ohloh.net/analyses/9010256.xml</url>
+        <project_id>318970</project_id>
+        <updated_at>2012-07-07T13:24:46Z</updated_at>
+        <logged_at>2012-07-07T13:24:36Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>34533</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/whoosh/analyses/9010256/languages.png">
+          <language color="4A246B" percentage="98" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

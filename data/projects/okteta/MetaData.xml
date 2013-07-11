@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25640</id>
+      <name>Okteta</name>
+      <url>http://www.ohloh.net/p/okteta.xml</url>
+      <html_url>http://www.ohloh.net/p/okteta</html_url>
+      <created_at>2008-10-15T10:41:07Z</created_at>
+      <updated_at>2013-07-05T05:47:36Z</updated_at>
+      <description>Okteta is a simple editor for the raw data of files. This type of program is also called hex editor or binary editor. 
+
+The data is displayed in two variants: as the numeric values of the bytes and as the characters assigned to the values. Values and characters can be shown either in two columns (the traditional display in hex editors) or in rows with the value on top of the character. Besides the usual editing capabilities Okteta also brings a small set of tools, like a table listing decodings into common simple data types, a table listing all possible bytes with its' character and value equivalents, an info view with a statistic, a checksum calculator, a filter tool and a string extraction tool. All modifications to the data can be endlessly undone or redone.</description>
+      <homepage_url>http://userbase.kde.org/Okteta</homepage_url>
+      <download_url>http://www.kde.org/download/</download_url>
+      <url_name>okteta</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12268/okteta_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12268/okteta_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14533112</analysis_id>
+      <tags>
+        <tag>hexeditor</tag>
+        <tag>editor</tag>
+        <tag>hex</tag>
+        <tag>kde</tag>
+        <tag>kde4</tag>
+        <tag>utility</tag>
+      </tags>
+      <analysis>
+        <id>14533112</id>
+        <url>http://www.ohloh.net/analyses/14533112.xml</url>
+        <project_id>25640</project_id>
+        <updated_at>2013-07-05T05:47:36Z</updated_at>
+        <logged_at>2013-07-05T05:42:03Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>81891</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/okteta/analyses/14533112/languages.png">
+          <language color="F35F1F" percentage="49" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

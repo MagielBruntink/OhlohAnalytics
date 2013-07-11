@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8004</id>
+      <name>Stackless Python</name>
+      <url>http://www.ohloh.net/p/stackless.xml</url>
+      <html_url>http://www.ohloh.net/p/stackless</html_url>
+      <created_at>2007-08-28T01:24:46Z</created_at>
+      <updated_at>2013-07-04T18:01:58Z</updated_at>
+      <description>Stackless Python is an enhanced version of the Python programming language. It allows programmers to reap the benefits of thread-based programming without the performance and complexity problems associated with conventional threads. The microthreads that Stackless adds to Python are a cheap and lightweight convenience which can if used properly, give the following benefits:
+
+    * Improved program structure.
+    * More readable code.
+    * Increased programmer productivity.</description>
+      <homepage_url>http://www.stackless.com/</homepage_url>
+      <download_url>http://zope.stackless.com/download/sdocument_view</download_url>
+      <url_name>stackless</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56853/logo_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56853/logo_small_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14528651</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>threads</tag>
+        <tag>stackless</tag>
+        <tag>threading</tag>
+        <tag>stacklesspython</tag>
+      </tags>
+      <analysis>
+        <id>14528651</id>
+        <url>http://www.ohloh.net/analyses/14528651.xml</url>
+        <project_id>8004</project_id>
+        <updated_at>2013-07-04T18:01:58Z</updated_at>
+        <logged_at>2013-07-04T17:40:12Z</logged_at>
+        <min_month>1990-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>65</twelve_month_contributor_count>
+        <total_code_lines>1886948</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/stackless/analyses/14528651/languages.png">
+          <language color="FF8F00" percentage="43" id="42">
+C          </language>
+          <language color="4A246B" percentage="43" id="9">
+Python          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="9" id="">
+19 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>python_software_foundation</name>
+          <nice_name>Python Software Foundation License 2.1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

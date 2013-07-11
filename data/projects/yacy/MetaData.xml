@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5149</id>
+      <name>YaCy</name>
+      <url>http://www.ohloh.net/p/yacy.xml</url>
+      <html_url>http://www.ohloh.net/p/yacy</html_url>
+      <created_at>2007-05-08T08:15:27Z</created_at>
+      <updated_at>2013-07-08T03:33:12Z</updated_at>
+      <description>YaCy is a P2P search engine for the WWW including a crawler and HTTP proxy</description>
+      <homepage_url>http://yacy.net</homepage_url>
+      <download_url>http://yacy.net/Download.html</download_url>
+      <url_name>yacy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55509/YaCyLogo2011_60_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55509/YaCyLogo2011_60_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566414</analysis_id>
+      <tags>
+        <tag>macosx</tag>
+        <tag>search-engine</tag>
+        <tag>distrubuted-hash-table</tag>
+        <tag>semantic-web</tag>
+        <tag>decentralized</tag>
+        <tag>windows</tag>
+        <tag>search</tag>
+        <tag>p2p</tag>
+        <tag>crawler</tag>
+        <tag>proxy</tag>
+        <tag>opensource</tag>
+        <tag>linux</tag>
+        <tag>peer-to-peer</tag>
+        <tag>dht</tag>
+        <tag>java</tag>
+        <tag>solr</tag>
+      </tags>
+      <analysis>
+        <id>14566414</id>
+        <url>http://www.ohloh.net/analyses/14566414.xml</url>
+        <project_id>5149</project_id>
+        <updated_at>2013-07-08T03:33:11Z</updated_at>
+        <logged_at>2013-07-08T02:43:36Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>179094</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yacy/analyses/14566414/languages.png">
+          <language color="9A63AD" percentage="74" id="5">
+Java          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="11" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

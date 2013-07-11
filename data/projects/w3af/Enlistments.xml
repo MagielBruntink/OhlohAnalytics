@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>534466</id>
+      <project_id>15569</project_id>
+      <repository_id>536823</repository_id>
+      <repository>
+        <id>536823</id>
+        <type>GitRepository</type>
+        <url>https://github.com/andresriancho/w3af.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T19:45:50Z</logged_at>
+        <commits>11196</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>28006</id>
+      <project_id>15569</project_id>
+      <repository_id>27092</repository_id>
+      <repository>
+        <id>27092</id>
+        <type>SvnSyncRepository</type>
+        <url>https://w3af.svn.sourceforge.net/svnroot/w3af/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T18:43:06Z</logged_at>
+        <commits>3400</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

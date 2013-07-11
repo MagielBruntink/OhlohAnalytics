@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482741</id>
+      <name>Vaadin Addon: Lazy Query Container</name>
+      <url>http://www.ohloh.net/p/vaadin-lazyquerycontainer.xml</url>
+      <html_url>http://www.ohloh.net/p/vaadin-lazyquerycontainer</html_url>
+      <created_at>2010-05-02T09:26:14Z</created_at>
+      <updated_at>2013-07-08T04:34:57Z</updated_at>
+      <description>Lazy Query Container is a Vaadin framework addon which provides lazy loading container for Vaadin tables. Lazy Query Container supports buffered reads and writes of items. Data reads and writes are delegated through Query interface to an application specific business delegate.The QueryFactory and Query interface implementations are designed to be application specific and should invoke a  data source like WebService client, JDBC connection, JPA context or Java service class to read and write data items. The data source has to support querying data in batches.Lazy Query Container supports the following features: lazy loading of items, loading Items in batches, item caching with limited cache size, sorting, query statistics, changing item set and changing property set. Since version 1.1.0 Lazy Query Container also supports adding items, modifying items and removing items. The changes are buffered and can be either commited or discarded. Row status icons and status column generator are also included to allow for visualization of row states. See the demo for hands on experience on the features.If you like this add-on please add it to your stack in ohloh by clicking I use this button in the project page: https://www.ohloh.net/p/vaadin-lazyquerycontainer</description>
+      <homepage_url>http://vaadin.com/directory#addon/117</homepage_url>
+      <download_url>http://vaadin.com/directory#addon/117</download_url>
+      <url_name>vaadin-lazyquerycontainer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567100</analysis_id>
+      <tags>
+        <tag>eclipseplugin</tag>
+        <tag>suggestion</tag>
+        <tag>toolkit</tag>
+        <tag>toolkits</tag>
+        <tag>grid</tag>
+        <tag>components</tag>
+        <tag>multi-platform</tag>
+        <tag>layouts</tag>
+        <tag>eclipse-plugins</tag>
+        <tag>source</tag>
+        <tag>gui_framework</tag>
+        <tag>user_interfaces</tag>
+        <tag>googlewebtoolkit</tag>
+        <tag>web-application</tag>
+        <tag>richinternetapplication</tag>
+        <tag>grids</tag>
+        <tag>api</tag>
+        <tag>javascript</tag>
+        <tag>widget</tag>
+        <tag>tools</tag>
+        <tag>eclipseplug-in</tag>
+        <tag>serverside</tag>
+        <tag>gridview</tag>
+        <tag>gwt</tag>
+        <tag>eclipse</tag>
+        <tag>server-driven</tag>
+        <tag>framework</tag>
+        <tag>template_engine</tag>
+        <tag>front-ends</tag>
+        <tag>component</tag>
+        <tag>wysiwyg</tag>
+        <tag>richweb</tag>
+        <tag>ria</tag>
+        <tag>vaadin</tag>
+        <tag>open-source</tag>
+        <tag>html</tag>
+        <tag>menu</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>java</tag>
+        <tag>layoutmanager</tag>
+        <tag>free</tag>
+        <tag>ui</tag>
+        <tag>template</tag>
+        <tag>suggest-as-you-type</tag>
+        <tag>webapplication</tag>
+        <tag>layout</tag>
+        <tag>programming</tag>
+        <tag>web</tag>
+        <tag>ajax</tag>
+        <tag>opensource</tag>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>server-side</tag>
+        <tag>webapp</tag>
+        <tag>button</tag>
+        <tag>widget-set</tag>
+        <tag>community</tag>
+        <tag>layouting</tag>
+        <tag>javaee</tag>
+        <tag>server</tag>
+        <tag>userinterface</tag>
+        <tag>css</tag>
+        <tag>cross-platform</tag>
+        <tag>widgets</tag>
+      </tags>
+      <analysis>
+        <id>14567100</id>
+        <url>http://www.ohloh.net/analyses/14567100.xml</url>
+        <project_id>482741</project_id>
+        <updated_at>2013-07-08T04:34:56Z</updated_at>
+        <logged_at>2013-07-07T22:51:10Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>5888</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vaadin-lazyquerycontainer/analyses/14567100/languages.png">
+          <language color="9A63AD" percentage="87" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="EEE" percentage="&lt;1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

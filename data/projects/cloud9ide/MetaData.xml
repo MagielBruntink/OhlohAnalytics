@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486621</id>
+      <name>Cloud9 IDE</name>
+      <url>http://www.ohloh.net/p/cloud9ide.xml</url>
+      <html_url>http://www.ohloh.net/p/cloud9ide</html_url>
+      <created_at>2010-11-20T10:22:41Z</created_at>
+      <updated_at>2013-06-16T20:15:36Z</updated_at>
+      <description>The Cloud9 IDE is an open source project started by Fabian Jakobs (fjakobs), Ruben Daniels (javruben), Mike de Boer (mikedeboer) and Rik Arends ([rikarends]) from ajax.org, built on top of Node.JS.
+
+This Integrated Development Environment aims to bring all great features from other existing IDE's and source code editors like Eclipse, Netbeans, Textmate, and many others together, bundled as plugins. Cloud9's main focus is on Javascript development, it is able to set a new standard for client and server development integration.
+
+And if you find that functionality is missing? Just write a plugin and patch it yourself!
+
+Written in Javascript, for Javascripters.</description>
+      <homepage_url>http://www.cloud9ide.com/</homepage_url>
+      <download_url>https://github.com/ajaxorg/cloud9/archives/master</download_url>
+      <url_name>cloud9ide</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14282931</analysis_id>
+      <tags>
+        <tag>js</tag>
+        <tag>highlighter</tag>
+        <tag>text_editor</tag>
+        <tag>editor</tag>
+        <tag>source</tag>
+        <tag>syntax-highlighting</tag>
+        <tag>javascript</tag>
+        <tag>ide</tag>
+        <tag>cloud</tag>
+        <tag>integrated_development_environments_(ide)</tag>
+        <tag>syntax_highlighting</tag>
+        <tag>code</tag>
+        <tag>syntax_highlighter</tag>
+        <tag>syntax</tag>
+        <tag>highlight</tag>
+        <tag>highlighting</tag>
+        <tag>nodejs</tag>
+      </tags>
+      <analysis>
+        <id>14282931</id>
+        <url>http://www.ohloh.net/analyses/14282931.xml</url>
+        <project_id>486621</project_id>
+        <updated_at>2013-07-01T11:22:03Z</updated_at>
+        <logged_at>2013-07-01T11:21:53Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>48</twelve_month_contributor_count>
+        <total_code_lines>183830</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cloud9ide/analyses/14282931/languages.png">
+          <language color="A4007E" percentage="79" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

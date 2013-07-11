@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11306</id>
+      <name>Safari AdBlock</name>
+      <url>http://www.ohloh.net/p/safariadblock.xml</url>
+      <html_url>http://www.ohloh.net/p/safariadblock</html_url>
+      <created_at>2008-01-27T19:06:44Z</created_at>
+      <updated_at>2013-06-28T11:49:04Z</updated_at>
+      <description>Safari AdBlock blocks ads in Safari. It is free of charge and under the GPL license.
+
+Safari AdBlock is meant to be extremely simple to use: there is nothing to configure, no filter list to manage, no regular expression, it just works out of the box!</description>
+      <homepage_url>http://safariadblock.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=184231</download_url>
+      <url_name>safariadblock</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14443523</analysis_id>
+      <tags>
+        <tag>macosx</tag>
+        <tag>advertisement</tag>
+        <tag>safari</tag>
+        <tag>plugin</tag>
+        <tag>mac</tag>
+        <tag>web</tag>
+        <tag>osx</tag>
+        <tag>ads</tag>
+        <tag>regexkit</tag>
+      </tags>
+      <analysis>
+        <id>14443523</id>
+        <url>http://www.ohloh.net/analyses/14443523.xml</url>
+        <project_id>11306</project_id>
+        <updated_at>2013-07-10T00:23:50Z</updated_at>
+        <logged_at>2013-07-10T00:23:45Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2008-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4291</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/safariadblock/analyses/14443523/languages.png">
+          <language color="555555" percentage="40" id="3">
+XML          </language>
+          <language color="C7932C" percentage="32" id="16">
+Objective-C          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

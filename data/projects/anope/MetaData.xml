@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5611</id>
+      <name>Anope IRC Services</name>
+      <url>http://www.ohloh.net/p/anope.xml</url>
+      <html_url>http://www.ohloh.net/p/anope</html_url>
+      <created_at>2007-05-28T06:15:10Z</created_at>
+      <updated_at>2013-07-05T16:51:41Z</updated_at>
+      <description>Anope is a set of IRC Services designed for flexibility and ease of use. It forked from Epona early 2003 to pick up where Epona had been abandoned.</description>
+      <homepage_url>http://anope.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=94081</download_url>
+      <url_name>anope</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20863/anopelogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20863/anopelogo_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>2.71429</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14538865</analysis_id>
+      <tags>
+        <tag>module</tag>
+        <tag>modular</tag>
+        <tag>unix</tag>
+        <tag>irc_services</tag>
+        <tag>freebsd</tag>
+        <tag>services</tag>
+        <tag>irc</tag>
+        <tag>mac_os_x</tag>
+        <tag>windows</tag>
+        <tag>daemon</tag>
+        <tag>osx</tag>
+        <tag>cross-platform</tag>
+        <tag>linux</tag>
+        <tag>chatting</tag>
+        <tag>chat</tag>
+        <tag>internet_relay_chat</tag>
+      </tags>
+      <analysis>
+        <id>14538865</id>
+        <url>http://www.ohloh.net/analyses/14538865.xml</url>
+        <project_id>5611</project_id>
+        <updated_at>2013-07-05T16:51:41Z</updated_at>
+        <logged_at>2013-07-05T16:50:28Z</logged_at>
+        <min_month>2004-03-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>151922</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/anope/analyses/14538865/languages.png">
+          <language color="F35F1F" percentage="59" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="31" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

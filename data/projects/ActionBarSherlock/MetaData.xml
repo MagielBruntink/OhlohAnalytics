@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584030</id>
+      <name>ActionBarSherlock</name>
+      <url>http://www.ohloh.net/p/ActionBarSherlock.xml</url>
+      <html_url>http://www.ohloh.net/p/ActionBarSherlock</html_url>
+      <created_at>2011-05-23T19:38:27Z</created_at>
+      <updated_at>2013-07-03T04:26:17Z</updated_at>
+      <description>ActionBarSherlock is an extension of the compatibility library designed to facilitate the use of the action bar design pattern across all versions of Android leveraging the best API available.
+
+The library will automatically use the native ActionBar implementation on Android 3.0 or later. For previous versions which do not include an ActionBar, a custom action bar implementation will automatically be wrapped around the layout. Support for this goes all the way back to Android 1.6.</description>
+      <homepage_url>http://actionbarsherlock.com/</homepage_url>
+      <download_url>http://actionbarsherlock.com/download.html</download_url>
+      <url_name>ActionBarSherlock</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47728/mascot_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47728/mascot_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14511188</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>java</tag>
+        <tag>android</tag>
+        <tag>gui</tag>
+        <tag>compatibility</tag>
+      </tags>
+      <analysis>
+        <id>14511188</id>
+        <url>http://www.ohloh.net/analyses/14511188.xml</url>
+        <project_id>584030</project_id>
+        <updated_at>2013-07-10T06:06:38Z</updated_at>
+        <logged_at>2013-07-10T06:06:36Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>35772</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ActionBarSherlock/analyses/14511188/languages.png">
+          <language color="9A63AD" percentage="74" id="5">
+Java          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

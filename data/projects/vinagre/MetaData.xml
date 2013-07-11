@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13096</id>
+      <name>Vinagre</name>
+      <url>http://www.ohloh.net/p/vinagre.xml</url>
+      <html_url>http://www.ohloh.net/p/vinagre</html_url>
+      <created_at>2008-03-31T16:45:47Z</created_at>
+      <updated_at>2013-07-11T03:11:10Z</updated_at>
+      <description>A VNC Client for the GNOME Desktop.</description>
+      <homepage_url>http://projects.gnome.org/vinagre/</homepage_url>
+      <download_url>http://download.gnome.org/sources/vinagre/</download_url>
+      <url_name>vinagre</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4653/vinagre_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4653/vinagre_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14583759</analysis_id>
+      <tags>
+        <tag>vnc</tag>
+        <tag>gnome</tag>
+        <tag>vnc_client</tag>
+        <tag>remote_desktop</tag>
+        <tag>remote</tag>
+        <tag>ubuntu</tag>
+      </tags>
+      <analysis>
+        <id>14583759</id>
+        <url>http://www.ohloh.net/analyses/14583759.xml</url>
+        <project_id>13096</project_id>
+        <updated_at>2013-07-11T03:11:10Z</updated_at>
+        <logged_at>2013-07-11T03:09:51Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>66</twelve_month_contributor_count>
+        <total_code_lines>17306</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vinagre/analyses/14583759/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

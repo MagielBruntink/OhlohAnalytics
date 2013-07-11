@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>380</id>
+      <name>The Chemistry Development Kit</name>
+      <url>http://www.ohloh.net/p/cdk.xml</url>
+      <html_url>http://www.ohloh.net/p/cdk</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-07T20:28:05Z</updated_at>
+      <description>The Chemistry Development Kit (CDK) is a library of Java classes for chemo-, bioinformatics, computational chemistry, and chemometrics. It provides important algorithms like substructure search, SMILES, Gasteiger charges, QSAR descriptor calculation, 3D structure generation, 2D layout and rendering, many IO formats, atom typing, and more.</description>
+      <homepage_url>http://cdk.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=20024</download_url>
+      <url_name>cdk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14564139</analysis_id>
+      <tags>
+        <tag>cheminformatics</tag>
+        <tag>chemoinformatics</tag>
+        <tag>bio-informatics</tag>
+        <tag>development</tag>
+        <tag>chemistry</tag>
+        <tag>3d_rendering</tag>
+        <tag>bioinformatics</tag>
+        <tag>java</tag>
+        <tag>medical_science</tag>
+      </tags>
+      <analysis>
+        <id>14564139</id>
+        <url>http://www.ohloh.net/analyses/14564139.xml</url>
+        <project_id>380</project_id>
+        <updated_at>2013-07-07T20:28:05Z</updated_at>
+        <logged_at>2013-06-29T20:05:13Z</logged_at>
+        <min_month>2000-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>908020</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cdk/analyses/14564139/languages.png">
+          <language color="9A63AD" percentage="63" id="5">
+Java          </language>
+          <language color="555555" percentage="28" id="3">
+XML          </language>
+          <language color="556677" percentage="7" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="2" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

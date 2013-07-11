@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>329581</id>
+      <name>AllTray</name>
+      <url>http://www.ohloh.net/p/alltray.xml</url>
+      <html_url>http://www.ohloh.net/p/alltray</html_url>
+      <created_at>2009-04-28T06:26:32Z</created_at>
+      <updated_at>2013-07-09T20:34:46Z</updated_at>
+      <description>AllTray is a program you can use on Unix-like systems such as GNU/Linux or FreeBSD running the X Window System to dock any application which doesn&#8217;t have a native tray icon into the system tray/notification area. AllTray works with any desktop environment which fully adheres to the ICCCM and EWMH specifications.  Development takes place at Launchpad.</description>
+      <homepage_url>http://alltray.trausch.us/</homepage_url>
+      <download_url>https://code.launchpad.net/alltray/+download</download_url>
+      <url_name>alltray</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19867/alltray_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19867/alltray_64_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14352010</analysis_id>
+      <tags>
+        <tag>desktop</tag>
+        <tag>gtk</tag>
+        <tag>system-tray</tag>
+        <tag>dock</tag>
+        <tag>system_tray</tag>
+        <tag>vala</tag>
+        <tag>x11</tag>
+        <tag>x-windows</tag>
+      </tags>
+      <analysis>
+        <id>14352010</id>
+        <url>http://www.ohloh.net/analyses/14352010.xml</url>
+        <project_id>329581</project_id>
+        <updated_at>2013-07-11T07:17:09Z</updated_at>
+        <logged_at>2013-07-11T07:17:07Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>22380</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/alltray/analyses/14352010/languages.png">
+          <language color="FF8F00" percentage="69" id="42">
+C          </language>
+          <language color="EEE" percentage="13" id="51">
+Autoconf          </language>
+          <language color="729FCF" percentage="7" id="34">
+Vala          </language>
+          <language color="000000" percentage="11" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

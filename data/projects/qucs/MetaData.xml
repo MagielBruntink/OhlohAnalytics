@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12370</id>
+      <name>Qucs</name>
+      <url>http://www.ohloh.net/p/qucs.xml</url>
+      <html_url>http://www.ohloh.net/p/qucs</html_url>
+      <created_at>2008-02-28T19:01:14Z</created_at>
+      <updated_at>2013-07-03T14:50:00Z</updated_at>
+      <description>Qucs is a integrated circuit simulator for rapid development of analog and digital circuits and wide range of simulations. 
+
+DC, AC, S-parameter, noise and transient analysis are supported, mathematical equations and use of a subcircuit hierarchy are available. Digital circuit models and simulations are supported thanks to integration with FreeHDL and Icarus Verilog.
+Output is may be presented with wide variety of graph and tabular charts. 
+ 
+ The package consists of two utilities:
+Qucs, elegant and powerfull GUI for designing and simulating circuits, with point-and-click interface, based on Qt&#174; by Trolltech&#174;.
+Qucsator, a command line circuit simulator. It takes a network list in a certain format as input and outputs a Qucs dataset. May also be used by applications other than</description>
+      <homepage_url>http://qucs.sourceforge.net/</homepage_url>
+      <download_url>http://qucs.sourceforge.net/download.html</download_url>
+      <url_name>qucs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34481/big.qucs_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34481/big.qucs_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14314756</analysis_id>
+      <tags>
+        <tag>vhdl</tag>
+        <tag>circuit</tag>
+        <tag>analog</tag>
+        <tag>digital</tag>
+        <tag>qt</tag>
+        <tag>simulator</tag>
+        <tag>electronics</tag>
+        <tag>hardware</tag>
+        <tag>verilog</tag>
+        <tag>logic</tag>
+        <tag>simulation</tag>
+        <tag>modeling</tag>
+      </tags>
+      <analysis>
+        <id>14314756</id>
+        <url>http://www.ohloh.net/analyses/14314756.xml</url>
+        <project_id>12370</project_id>
+        <updated_at>2013-07-06T11:14:39Z</updated_at>
+        <logged_at>2013-07-06T11:06:57Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>181375</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qucs/analyses/14314756/languages.png">
+          <language color="F35F1F" percentage="61" id="44">
+C++          </language>
+          <language color="000080" percentage="22" id="37">
+TeX/LaTeX          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

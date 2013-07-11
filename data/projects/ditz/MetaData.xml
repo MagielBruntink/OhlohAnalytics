@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13878</id>
+      <name>ditz</name>
+      <url>http://www.ohloh.net/p/ditz.xml</url>
+      <html_url>http://www.ohloh.net/p/ditz</html_url>
+      <created_at>2008-05-09T05:25:36Z</created_at>
+      <updated_at>2013-07-07T18:03:35Z</updated_at>
+      <description>A simple issue tracker designed to integrate well with distributed version control systems like git and darcs. State is saved to a YAML file kept under version control, allowing issues to be closed/added/modified as part of a commit.</description>
+      <homepage_url>http://ditz.rubyforge.org/</homepage_url>
+      <download_url>http://rubyforge.org/projects/ditz/</download_url>
+      <url_name>ditz</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1774893</analysis_id>
+      <tags>
+        <tag>bug_tracker</tag>
+        <tag>issue_tracking</tag>
+        <tag>yaml</tag>
+        <tag>bugtracking</tag>
+        <tag>development</tag>
+        <tag>bugtracker</tag>
+        <tag>distributed</tag>
+        <tag>bug_tracking</tag>
+        <tag>bug</tag>
+        <tag>ruby</tag>
+        <tag>issue-tracker</tag>
+      </tags>
+      <analysis>
+        <id>1774893</id>
+        <url>http://www.ohloh.net/analyses/1774893.xml</url>
+        <project_id>13878</project_id>
+        <updated_at>2011-03-15T16:57:38Z</updated_at>
+        <logged_at></logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5429</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ditz/analyses/1774893/languages.png">
+          <language color="A40011" percentage="90" id="12">
+Ruby          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="4" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6964</id>
+      <name>MINIX 3</name>
+      <url>http://www.ohloh.net/p/minix3.xml</url>
+      <html_url>http://www.ohloh.net/p/minix3</html_url>
+      <created_at>2007-07-29T20:19:01Z</created_at>
+      <updated_at>2013-07-08T11:52:34Z</updated_at>
+      <description>MINIX 3 is a new open-source operating system designed to be highly reliable, flexible, and secure. It is loosely based somewhat on previous versions of MINIX, but is fundamentally different in many key ways. MINIX 1 and 2 were intended as teaching tools; MINIX 3 adds the new goal of being usable as a serious system on resource-limited and embedded computers and for applications requiring high reliability.
+
+This new OS is extremely small, with the part that runs in kernel mode under 4000 lines of executable code. The parts that run in user mode are divided into small modules, well insulated from one another. For example, each device driver runs as a separate user-mode process so a bug in a driver (by far the biggest source of bugs in any operating system), cannot bring down the entire OS.</description>
+      <homepage_url>http://www.minix3.org/</homepage_url>
+      <download_url>http://www.minix3.org/download/</download_url>
+      <url_name>minix3</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9209/logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9209/logo_small.gif</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569427</analysis_id>
+      <tags>
+        <tag>operating_system_kernels</tag>
+        <tag>microkernel</tag>
+        <tag>ash</tag>
+        <tag>education</tag>
+      </tags>
+      <analysis>
+        <id>14569427</id>
+        <url>http://www.ohloh.net/analyses/14569427.xml</url>
+        <project_id>6964</project_id>
+        <updated_at>2013-07-08T11:52:34Z</updated_at>
+        <logged_at>2013-07-08T08:56:41Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>1490297</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/minix3/analyses/14569427/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="F35F1F" percentage="7" id="44">
+C++          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="11" id="">
+24 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

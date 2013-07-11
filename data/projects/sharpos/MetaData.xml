@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5287</id>
+      <name>SharpOS</name>
+      <url>http://www.ohloh.net/p/sharpos.xml</url>
+      <html_url>http://www.ohloh.net/p/sharpos</html_url>
+      <created_at>2007-05-12T08:29:32Z</created_at>
+      <updated_at>2013-07-09T19:38:51Z</updated_at>
+      <description>The SharpOS Project is a community effort to write an operating system in .NET, with a strong sense of security and managability.
+
+Please note that the GPLv3 license includes the Classpath Linking Exception.</description>
+      <homepage_url>http://sharpos.org</homepage_url>
+      <download_url></download_url>
+      <url_name>sharpos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12733/_os_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12733/_os_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>10</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1772434</analysis_id>
+      <tags>
+        <tag>gc</tag>
+        <tag>portable</tag>
+        <tag>kernel</tag>
+        <tag>managed</tag>
+        <tag>csharp</tag>
+        <tag>dotnet</tag>
+        <tag>assembler</tag>
+        <tag>aot</tag>
+        <tag>api</tag>
+        <tag>os</tag>
+        <tag>jit</tag>
+        <tag>c#</tag>
+        <tag>cli</tag>
+        <tag>microkernel</tag>
+      </tags>
+      <analysis>
+        <id>1772434</id>
+        <url>http://www.ohloh.net/analyses/1772434.xml</url>
+        <project_id>5287</project_id>
+        <updated_at>2011-03-14T15:50:55Z</updated_at>
+        <logged_at>2008-10-01T01:21:22Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2008-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>756476</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sharpos/analyses/1772434/languages.png">
+          <language color="4096EE" percentage="97" id="17">
+C#          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

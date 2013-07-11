@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17027</id>
+      <name>DelphiCodeToDoc</name>
+      <url>http://www.ohloh.net/p/delphicodetodoc.xml</url>
+      <html_url>http://www.ohloh.net/p/delphicodetodoc</html_url>
+      <created_at>2008-10-02T08:19:14Z</created_at>
+      <updated_at>2013-07-09T18:46:02Z</updated_at>
+      <description>DelphiCodeToDoc is a free documentation system for Delphi.
+It uses information about source code symbols and formatted comments in files to produce accurate documentation from your application and component.
+
+This documentation support TEXT file based and HTML style, but will be extend to CHM, PDF, and furthermore other format. DelphiCodeToDoc makes sure the structure of your documentation always stays synchronized with your code. It support JavaDoc style comments, in-line comments, and is open for other &quot;tags based&quot; styles. You can configure DelphiCodeTodoc to extract the code structure from undocumented source files. This is very useful to quickly find your way in large source distributions. You can also visualize the relations between the various source code elements.</description>
+      <homepage_url>http://dephicodetodoc.sourceforge.net/</homepage_url>
+      <download_url>http://dephicodetodoc.sourceforge.net/Download.htm</download_url>
+      <url_name>delphicodetodoc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31561/DelphiCodeToDoc_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31561/DelphiCodeToDoc_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14227914</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>delphi</tag>
+        <tag>chm</tag>
+        <tag>tools</tag>
+        <tag>help</tag>
+        <tag>documentation_generator</tag>
+      </tags>
+      <analysis>
+        <id>14227914</id>
+        <url>http://www.ohloh.net/analyses/14227914.xml</url>
+        <project_id>17027</project_id>
+        <updated_at>2013-07-02T13:31:08Z</updated_at>
+        <logged_at>2013-07-02T13:23:11Z</logged_at>
+        <min_month>2003-12-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>75031</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/delphicodetodoc/analyses/14227914/languages.png">
+          <language color="D15600" percentage="78" id="14">
+Pascal          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

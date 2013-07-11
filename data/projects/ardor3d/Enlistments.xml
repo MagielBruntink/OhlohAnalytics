@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>504745</id>
+      <project_id>309559</project_id>
+      <repository_id>505865</repository_id>
+      <repository>
+        <id>505865</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Renanse/Ardor3D.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-04-10T21:01:08Z</logged_at>
+        <commits>194</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>99289</id>
+      <project_id>309559</project_id>
+      <repository_id>97738</repository_id>
+      <repository>
+        <id>97738</id>
+        <type>SvnRepository</type>
+        <url>http://ardorlabs.svn.cvsdude.com/Ardor3Dv1/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-10-09T05:11:05Z</logged_at>
+        <commits>1801</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

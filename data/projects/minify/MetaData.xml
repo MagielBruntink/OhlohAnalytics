@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5060</id>
+      <name>Minify</name>
+      <url>http://www.ohloh.net/p/minify.xml</url>
+      <html_url>http://www.ohloh.net/p/minify</html_url>
+      <created_at>2007-05-02T00:08:30Z</created_at>
+      <updated_at>2013-07-05T15:48:46Z</updated_at>
+      <description>Combines, minifies, and caches JavaScript and CSS files on demand to speed up page loads.</description>
+      <homepage_url>http://code.google.com/p/minify/</homepage_url>
+      <download_url></download_url>
+      <url_name>minify</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14538361</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>compression</tag>
+        <tag>script</tag>
+        <tag>dynamic</tag>
+        <tag>scripts</tag>
+        <tag>minify</tag>
+        <tag>jsmin</tag>
+        <tag>web</tag>
+        <tag>library</tag>
+        <tag>utility</tag>
+        <tag>optimization</tag>
+        <tag>browser</tag>
+        <tag>css</tag>
+        <tag>javascript</tag>
+        <tag>compress</tag>
+        <tag>html</tag>
+      </tags>
+      <analysis>
+        <id>14538361</id>
+        <url>http://www.ohloh.net/analyses/14538361.xml</url>
+        <project_id>5060</project_id>
+        <updated_at>2013-07-05T15:48:45Z</updated_at>
+        <logged_at>2013-07-05T15:44:11Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>25483</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/minify/analyses/14538361/languages.png">
+          <language color="356AA0" percentage="55" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="22" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="19" id="4">
+CSS          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

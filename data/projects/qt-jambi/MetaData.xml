@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>339898</id>
+      <name>Qt Jambi</name>
+      <url>http://www.ohloh.net/p/qt-jambi.xml</url>
+      <html_url>http://www.ohloh.net/p/qt-jambi</html_url>
+      <created_at>2009-05-11T13:35:03Z</created_at>
+      <updated_at>2013-07-09T23:59:57Z</updated_at>
+      <description>Qt is the de facto standard C++ framework for high performance cross-platform software development. Qt Jambi is the Qt library made available to Java. It is an open source technology aimed at all desktop programmers wanting to write rich GUI clients using the Java language, while at the same time taking advantage of Qt&#8217;s power and efficiency.</description>
+      <homepage_url>http://qt-jambi.org</homepage_url>
+      <download_url>https://sourceforge.net/projects/qtjambi/files/</download_url>
+      <url_name>qt-jambi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38274/QtJambiLogo200_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38274/QtJambiLogo200_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14575952</analysis_id>
+      <tags>
+        <tag>qtjambi</tag>
+        <tag>java</tag>
+        <tag>qt</tag>
+        <tag>gui</tag>
+      </tags>
+      <analysis>
+        <id>14575952</id>
+        <url>http://www.ohloh.net/analyses/14575952.xml</url>
+        <project_id>339898</project_id>
+        <updated_at>2013-07-09T23:59:57Z</updated_at>
+        <logged_at>2013-07-09T23:58:23Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>294204</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qt-jambi/analyses/14575952/languages.png">
+          <language color="F35F1F" percentage="38" id="44">
+C++          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="27" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

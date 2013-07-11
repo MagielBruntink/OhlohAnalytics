@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11363</id>
+      <name>eXtplorer</name>
+      <url>http://www.ohloh.net/p/extplorer.xml</url>
+      <html_url>http://www.ohloh.net/p/extplorer</html_url>
+      <created_at>2008-01-30T08:39:12Z</created_at>
+      <updated_at>2013-07-10T17:27:09Z</updated_at>
+      <description>eXtplorer is a PHP-based File Manager. It allows to browse directories &amp; files, edit, copy, move, delete files, search, upload and download files, create and extract archives, create new files and directories, change file permissions (chmod) and much more, using an intuitive Javascript-based Interface with Ajax, Drag&amp;Drop etc.</description>
+      <homepage_url>http://extplorer.net</homepage_url>
+      <download_url>http://extplorer.net/files</download_url>
+      <url_name>extplorer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46805/eXtplorer-Logo-neu_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46805/eXtplorer-Logo-neu_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14404798</analysis_id>
+      <tags>
+        <tag>ssh2</tag>
+        <tag>php</tag>
+        <tag>javascript</tag>
+        <tag>intranet</tag>
+        <tag>ftp</tag>
+        <tag>web</tag>
+        <tag>editor</tag>
+        <tag>ajax</tag>
+        <tag>filemanager</tag>
+        <tag>extjs</tag>
+      </tags>
+      <analysis>
+        <id>14404798</id>
+        <url>http://www.ohloh.net/analyses/14404798.xml</url>
+        <project_id>11363</project_id>
+        <updated_at>2013-07-06T20:09:08Z</updated_at>
+        <logged_at>2013-07-06T20:09:02Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>159511</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/extplorer/analyses/14404798/languages.png">
+          <language color="A4007E" percentage="57" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="37" id="2">
+PHP          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

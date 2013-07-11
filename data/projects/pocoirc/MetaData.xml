@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8149</id>
+      <name>POE::Component::IRC</name>
+      <url>http://www.ohloh.net/p/pocoirc.xml</url>
+      <html_url>http://www.ohloh.net/p/pocoirc</html_url>
+      <created_at>2007-09-03T01:24:40Z</created_at>
+      <updated_at>2013-07-01T09:57:03Z</updated_at>
+      <description>POE::Component::IRC is a POE component (who'd have guessed?) which acts as an easily controllable IRC client for your other POE components and sessions. You create an IRC component and tell it what events your session cares about and where to connect to, and it sends back interesting IRC events when they happen. You make the client do things by sending it events. That's all there is to it. Cool, no?</description>
+      <homepage_url>http://www.gumbynet.org.uk/poe/</homepage_url>
+      <download_url>http://search.cpan.org/~bingos/POE-Component-IRC/</download_url>
+      <url_name>pocoirc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14499225</analysis_id>
+      <tags>
+        <tag>irc</tag>
+        <tag>perl</tag>
+        <tag>poco</tag>
+        <tag>multitasking</tag>
+        <tag>poe</tag>
+        <tag>programming</tag>
+        <tag>client</tag>
+        <tag>internet_relay_chat</tag>
+        <tag>component</tag>
+        <tag>networking</tag>
+      </tags>
+      <analysis>
+        <id>14499225</id>
+        <url>http://www.ohloh.net/analyses/14499225.xml</url>
+        <project_id>8149</project_id>
+        <updated_at>2013-07-01T09:57:03Z</updated_at>
+        <logged_at>2013-07-01T09:56:45Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>32576</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pocoirc/analyses/14499225/languages.png">
+          <language color="D2C690" percentage="73" id="8">
+Perl          </language>
+          <language color="47A400" percentage="27" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="&lt;1" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

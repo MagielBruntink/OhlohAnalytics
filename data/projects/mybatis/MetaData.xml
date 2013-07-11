@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486149</id>
+      <name>MyBatis</name>
+      <url>http://www.ohloh.net/p/mybatis.xml</url>
+      <html_url>http://www.ohloh.net/p/mybatis</html_url>
+      <created_at>2010-10-24T21:08:43Z</created_at>
+      <updated_at>2013-07-08T00:22:55Z</updated_at>
+      <description>The MyBatis data mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.
+
+To use the MyBatis data mapper, you rely on your own objects, XML, and SQL. There is little to learn that you don't already know. With the MyBatis Data Mapper, you have the full power of both SQL and stored procedures at your fingertips.</description>
+      <homepage_url>http://mybatis.org/</homepage_url>
+      <download_url>http://code.google.com/p/mybatis/downloads/list?can=3</download_url>
+      <url_name>mybatis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63574/mybatis_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63574/mybatis_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14565314</analysis_id>
+      <analysis>
+        <id>14565314</id>
+        <url>http://www.ohloh.net/analyses/14565314.xml</url>
+        <project_id>486149</project_id>
+        <updated_at>2013-07-08T00:22:55Z</updated_at>
+        <logged_at>2013-07-08T00:10:27Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>91464</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mybatis/analyses/14565314/languages.png">
+          <language color="9A63AD" percentage="58" id="5">
+Java          </language>
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

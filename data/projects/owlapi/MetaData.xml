@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25810</id>
+      <name>OWL API</name>
+      <url>http://www.ohloh.net/p/owlapi.xml</url>
+      <html_url>http://www.ohloh.net/p/owlapi</html_url>
+      <created_at>2008-10-24T05:42:34Z</created_at>
+      <updated_at>2013-07-10T11:27:31Z</updated_at>
+      <description>The OWL API is a Java interface and implementation for the W3C Web Ontology Language OWL. The latest version of the API is focused towards OWL 2 which encompasses, OWL-Lite, OWL-DL and some elements of OWL-Full.</description>
+      <homepage_url>http://owlapi.sourceforge.net/</homepage_url>
+      <download_url>http://owlapi.sourceforge.net/releases.html</download_url>
+      <url_name>owlapi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581141</analysis_id>
+      <tags>
+        <tag>semanticweb</tag>
+        <tag>owl2</tag>
+        <tag>owlapi</tag>
+        <tag>owl</tag>
+        <tag>java</tag>
+        <tag>ontology</tag>
+      </tags>
+      <analysis>
+        <id>14581141</id>
+        <url>http://www.ohloh.net/analyses/14581141.xml</url>
+        <project_id>25810</project_id>
+        <updated_at>2013-07-10T11:27:31Z</updated_at>
+        <logged_at>2013-07-10T11:14:42Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>811415</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/owlapi/analyses/14581141/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

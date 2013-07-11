@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>316682</id>
+      <name>qTwitter</name>
+      <url>http://www.ohloh.net/p/qtwitter.xml</url>
+      <html_url>http://www.ohloh.net/p/qtwitter</html_url>
+      <created_at>2009-02-19T13:02:45Z</created_at>
+      <updated_at>2013-06-30T04:09:29Z</updated_at>
+      <description>qTwitter is a Qt-based multiplatform client for Twitter and Identi.ca. Aims to be as compact as possible, still providing outstanding functionality. Compilable and runnable on X11, Windows and MacOS X, with binary packages and/or integration scripts provided for variety of Linux distros.</description>
+      <homepage_url>http://qtwitter.ayoy.net</homepage_url>
+      <download_url>http://www.qt-apps.org/content/show.php/qTwitter?content=99087</download_url>
+      <url_name>qtwitter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17106/qtwitter_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17106/qtwitter_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.2</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471991</analysis_id>
+      <tags>
+        <tag>network</tag>
+        <tag>identica</tag>
+        <tag>client</tag>
+        <tag>twitter</tag>
+        <tag>qt</tag>
+        <tag>microblogging</tag>
+      </tags>
+      <analysis>
+        <id>14471991</id>
+        <url>http://www.ohloh.net/analyses/14471991.xml</url>
+        <project_id>316682</project_id>
+        <updated_at>2013-07-11T06:04:59Z</updated_at>
+        <logged_at>2013-07-11T06:04:57Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>34140</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qtwitter/analyses/14471991/languages.png">
+          <language color="555555" percentage="70" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="29" id="44">
+C++          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

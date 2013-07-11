@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>35409</id>
+      <project_id>8762</project_id>
+      <repository_id>34176</repository_id>
+      <repository>
+        <id>34176</id>
+        <type>SvnRepository</type>
+        <url>svn://www.freewrt.org/branches</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T11:41:44Z</logged_at>
+        <commits>1132</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>17115</id>
+      <project_id>8762</project_id>
+      <repository_id>16583</repository_id>
+      <repository>
+        <id>16583</id>
+        <type>SvnRepository</type>
+        <url>svn://www.freewrt.org/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T11:18:19Z</logged_at>
+        <commits>2998</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

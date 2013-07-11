@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>22750</id>
+      <project_id>12350</project_id>
+      <repository_id>22003</repository_id>
+      <repository>
+        <id>22003</id>
+        <type>SvnSyncRepository</type>
+        <url>https://csstidy.svn.sourceforge.net/svnroot/csstidy/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T05:33:17Z</logged_at>
+        <commits>108</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>22751</id>
+      <project_id>12350</project_id>
+      <repository_id>22004</repository_id>
+      <repository>
+        <id>22004</id>
+        <type>SvnSyncRepository</type>
+        <url>https://csstidy.svn.sourceforge.net/svnroot/csstidy/trunk-cpp</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T05:32:41Z</logged_at>
+        <commits>30</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10228</id>
+      <name>I2P</name>
+      <url>http://www.ohloh.net/p/i2p.xml</url>
+      <html_url>http://www.ohloh.net/p/i2p</html_url>
+      <created_at>2007-12-12T08:36:37Z</created_at>
+      <updated_at>2013-07-08T11:53:45Z</updated_at>
+      <description>I2P is an anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other. The network itself is strictly message based (ala IP), but there is a library available to allow reliable streaming communication on top of it (ala TCP). All communication is end to end encrypted (in total there are four layers of encryption used when sending a message), and even the end points (&quot;destinations&quot;) are cryptographic identifiers (essentially a pair of public keys).</description>
+      <homepage_url>http://www.i2p2.de</homepage_url>
+      <download_url>http://www.i2p2.de/download.html</download_url>
+      <url_name>i2p</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63554/i2picon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63554/i2picon_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569437</analysis_id>
+      <tags>
+        <tag>censorship</tag>
+        <tag>java</tag>
+        <tag>privacy</tag>
+        <tag>networking</tag>
+        <tag>sharing</tag>
+        <tag>p2p</tag>
+        <tag>encryption</tag>
+        <tag>i2p</tag>
+        <tag>proxy</tag>
+        <tag>cryptography</tag>
+        <tag>anonymity</tag>
+        <tag>web</tag>
+        <tag>crypto</tag>
+        <tag>bittorrent</tag>
+        <tag>tunnels</tag>
+        <tag>file_sharing</tag>
+        <tag>distributed</tag>
+        <tag>irc</tag>
+        <tag>anonymous</tag>
+        <tag>eepsite</tag>
+      </tags>
+      <analysis>
+        <id>14569437</id>
+        <url>http://www.ohloh.net/analyses/14569437.xml</url>
+        <project_id>10228</project_id>
+        <updated_at>2013-07-08T11:53:45Z</updated_at>
+        <logged_at>2013-07-08T08:54:42Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>211824</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/i2p/analyses/14569437/languages.png">
+          <language color="9A63AD" percentage="79" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="16" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

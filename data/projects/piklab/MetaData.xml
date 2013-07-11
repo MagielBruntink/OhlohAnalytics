@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9635</id>
+      <name>Piklab</name>
+      <url>http://www.ohloh.net/p/piklab.xml</url>
+      <html_url>http://www.ohloh.net/p/piklab</html_url>
+      <created_at>2007-11-11T16:59:40Z</created_at>
+      <updated_at>2012-06-08T22:02:46Z</updated_at>
+      <description>Piklab is an integrated development environment (IDE) for applications based on Microchip PIC and dsPIC microcontrollers similar to the MPLAB environment. It integrates with several compiler and assembler toolchains (like gputils, sdcc, c18) and with the GPSim simulator. It supports the most common programmers (serial, parallel, ICD2, Pickit2, PicStart+), the ICD2 debugger, and several bootloaders (Tiny, Pickit2, and Picdem).
+
+It was started from Pikdev sources: http://pikdev.free.fr</description>
+      <homepage_url>http://piklab.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=138852</download_url>
+      <url_name>piklab</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2887/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2887/icon_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8491470</analysis_id>
+      <tags>
+        <tag>microcontroller</tag>
+        <tag>assembler</tag>
+        <tag>microchip</tag>
+        <tag>pic</tag>
+        <tag>programming</tag>
+        <tag>pickit2</tag>
+        <tag>usb</tag>
+        <tag>gui</tag>
+        <tag>icd2</tag>
+        <tag>development</tag>
+        <tag>debugging</tag>
+        <tag>ide</tag>
+        <tag>programmer</tag>
+        <tag>robotics</tag>
+        <tag>tools</tag>
+        <tag>debugger</tag>
+        <tag>c++</tag>
+        <tag>c</tag>
+      </tags>
+      <analysis>
+        <id>8491470</id>
+        <url>http://www.ohloh.net/analyses/8491470.xml</url>
+        <project_id>9635</project_id>
+        <updated_at>2012-06-30T04:10:04Z</updated_at>
+        <logged_at>2012-06-30T04:09:55Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>214011</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/piklab/analyses/8491470/languages.png">
+          <language color="555555" percentage="73" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="27" id="44">
+C++          </language>
+          <language color="000000" percentage="&lt;1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

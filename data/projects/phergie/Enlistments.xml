@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>459665</id>
+      <project_id>15636</project_id>
+      <repository_id>456707</repository_id>
+      <repository>
+        <id>456707</id>
+        <type>GitRepository</type>
+        <url>git://github.com/phergie/phergie.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-29T14:19:04Z</logged_at>
+        <commits>767</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>28118</id>
+      <project_id>15636</project_id>
+      <repository_id>27199</repository_id>
+      <repository>
+        <id>27199</id>
+        <type>SvnRepository</type>
+        <url>http://svn2.assembla.com/svn/phergie/trunk/Phergie</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-29T14:13:17Z</logged_at>
+        <commits>339</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4328</id>
+      <name>TeXmacs</name>
+      <url>http://www.ohloh.net/p/texmacs.xml</url>
+      <html_url>http://www.ohloh.net/p/texmacs</html_url>
+      <created_at>2007-02-06T17:36:52Z</created_at>
+      <updated_at>2013-07-09T15:53:41Z</updated_at>
+      <description>GNU TeXmacs is a free wysiwyw (what you see is what you want) editing platform with special features for scientists. The software aims to provide a unified and user friendly framework for editing structured documents with different types of content (text, graphics, mathematics, interactive content, etc.). The rendering engine uses high-quality typesetting algorithms so as to produce professionally looking documents, which can either be printed out or presented from a laptop.
+
+The software includes a text editor with support for mathematical formulas, a small technical picture editor and a tool for making presentations from a laptop. Moreover, TeXmacs can be used as an interface for many external systems for computer algebra, numerical analysis, statistics, etc.</description>
+      <homepage_url>http://www.texmacs.org/</homepage_url>
+      <download_url>http://www.texmacs.org/tmweb/download/download.en.html</download_url>
+      <url_name>texmacs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51398/TeXmacs_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51398/TeXmacs_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>3.83333</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14573856</analysis_id>
+      <tags>
+        <tag>cas</tag>
+        <tag>tex</tag>
+        <tag>text_processing</tag>
+        <tag>scientific</tag>
+        <tag>typography</tag>
+        <tag>mathematics</tag>
+        <tag>typesetting</tag>
+        <tag>layout</tag>
+        <tag>mathml</tag>
+        <tag>scheme</tag>
+      </tags>
+      <analysis>
+        <id>14573856</id>
+        <url>http://www.ohloh.net/analyses/14573856.xml</url>
+        <project_id>4328</project_id>
+        <updated_at>2013-07-09T15:53:40Z</updated_at>
+        <logged_at>2013-07-09T15:47:46Z</logged_at>
+        <min_month>2003-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>350076</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/texmacs/analyses/14573856/languages.png">
+          <language color="F35F1F" percentage="41" id="44">
+C++          </language>
+          <language color="90C0D2" percentage="31" id="20">
+Scheme          </language>
+          <language color="FF8F00" percentage="16" id="42">
+C          </language>
+          <language color="000000" percentage="12" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

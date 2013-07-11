@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308600</id>
+      <name>Wayland</name>
+      <url>http://www.ohloh.net/p/wayland.xml</url>
+      <html_url>http://www.ohloh.net/p/wayland</html_url>
+      <created_at>2009-01-26T14:49:45Z</created_at>
+      <updated_at>2013-07-02T18:46:57Z</updated_at>
+      <description>Wayland is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an X application, or a wayland client itself. The clients can be traditional applications, X servers (rootless or fullscreen) or other display servers.
+
+Weston is the open-source reference implementation of Wayland. Check Weston project here:
+https://www.ohloh.net/p/weston</description>
+      <homepage_url>http://wayland.freedesktop.org/</homepage_url>
+      <download_url>http://wayland.freedesktop.org/building.html</download_url>
+      <url_name>wayland</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38880/wayland_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38880/wayland_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505564</analysis_id>
+      <tags>
+        <tag>graphics3d</tag>
+        <tag>c</tag>
+        <tag>drm</tag>
+        <tag>modesetting</tag>
+        <tag>display-server</tag>
+        <tag>compositing</tag>
+        <tag>linux</tag>
+        <tag>graphics</tag>
+        <tag>weston</tag>
+      </tags>
+      <analysis>
+        <id>14505564</id>
+        <url>http://www.ohloh.net/analyses/14505564.xml</url>
+        <project_id>308600</project_id>
+        <updated_at>2013-07-02T18:46:56Z</updated_at>
+        <logged_at>2013-07-02T18:39:17Z</logged_at>
+        <min_month>2001-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>33</twelve_month_contributor_count>
+        <total_code_lines>12453</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wayland/analyses/14505564/languages.png">
+          <language color="FF8F00" percentage="72" id="42">
+C          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>323310</id>
+      <name>LogicalDOC</name>
+      <url>http://www.ohloh.net/p/logicaldoc.xml</url>
+      <html_url>http://www.ohloh.net/p/logicaldoc</html_url>
+      <created_at>2009-04-11T12:54:02Z</created_at>
+      <updated_at>2013-07-10T12:27:47Z</updated_at>
+      <description>LogicalDOC is a Web-based Document Management System (DMS) easy to use and learn. 
+
+Its architecture leverages best-of-breed Java technology to achieve a powerful and flexible solution. 
+
+It supports its users with a powerful search engine (Lucene), Web service interface (JAX-WS via CXF), and versioning. Documents can be organized into hierarchical folders and searched by Tags or using the integrated search engine.
+
+Features: folder organization, Import from ZIP, full-text Indexing - Search, Versioning, Discussion Forums, Web-Services compatibles with .NET and PHP, WebDAV interface, Tag-Clouds, search by document Similarity, external Authentication from LDAP and Active Directory.</description>
+      <homepage_url>http://www.logicaldoc.com</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=239244</download_url>
+      <url_name>logicaldoc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17082/logicaldoc_med_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17082/logicaldoc_med_small.gif</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>14581498</analysis_id>
+      <tags>
+        <tag>documentmanagement</tag>
+        <tag>documentmanagementsystem</tag>
+        <tag>system</tag>
+        <tag>knowledge</tag>
+        <tag>dms</tag>
+        <tag>search</tag>
+        <tag>business</tag>
+        <tag>groupware</tag>
+        <tag>office</tag>
+        <tag>information</tag>
+        <tag>management</tag>
+        <tag>full_text</tag>
+        <tag>engine</tag>
+        <tag>indexing</tag>
+        <tag>document</tag>
+        <tag>document_management</tag>
+        <tag>document_management_systems</tag>
+        <tag>version_control</tag>
+      </tags>
+      <analysis>
+        <id>14581498</id>
+        <url>http://www.ohloh.net/analyses/14581498.xml</url>
+        <project_id>323310</project_id>
+        <updated_at>2013-07-10T12:27:47Z</updated_at>
+        <logged_at>2013-07-10T12:06:30Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3322041</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/logicaldoc/analyses/14581498/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

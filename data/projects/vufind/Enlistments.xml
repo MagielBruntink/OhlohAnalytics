@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>537748</id>
+      <project_id>10977</project_id>
+      <repository_id>539961</repository_id>
+      <repository>
+        <id>539961</id>
+        <type>GitRepository</type>
+        <url>git://git.code.sf.net/p/vufind/git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T07:28:30Z</logged_at>
+        <commits>1830</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>20821</id>
+      <project_id>10977</project_id>
+      <repository_id>20126</repository_id>
+      <repository>
+        <id>20126</id>
+        <type>SvnSyncRepository</type>
+        <url>https://vufind.svn.sourceforge.net/svnroot/vufind/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T07:28:23Z</logged_at>
+        <commits>3442</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

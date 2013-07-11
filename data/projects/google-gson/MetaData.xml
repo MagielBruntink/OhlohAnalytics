@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19968</id>
+      <name>google-gson</name>
+      <url>http://www.ohloh.net/p/google-gson.xml</url>
+      <html_url>http://www.ohloh.net/p/google-gson</html_url>
+      <created_at>2008-10-07T12:48:16Z</created_at>
+      <updated_at>2013-06-30T05:29:59Z</updated_at>
+      <description>Gson is a Java library that can be used to convert Java Objects into its JSON representation. It can also be used to convert a JSON string to an equivalent Java object. Gson can work with arbitrary Java objects including pre-existing objects that you do not have source-code of.  
+
+There are a few open-source projects that can convert Java objects to JSON. However, most of them require that you place Java annotations in your classes something that you can not do if you do not have access to the source-code. Most also do not fully support the use of Java Generics. Gson considers both of these as very important design goals.  
+
+Gson Goals Provide simple toJson() and fromJson() methods to convert Java objects to JSON and vice-versa Allow pre-existing unmodifiable objects to be converted to and</description>
+      <homepage_url>http://code.google.com/p/google-gson</homepage_url>
+      <download_url></download_url>
+      <url_name>google-gson</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14472832</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>converter</tag>
+        <tag>json</tag>
+        <tag>conversion</tag>
+        <tag>serializer</tag>
+        <tag>gson</tag>
+        <tag>serialization</tag>
+        <tag>marshaller</tag>
+        <tag>marshall</tag>
+      </tags>
+      <analysis>
+        <id>14472832</id>
+        <url>http://www.ohloh.net/analyses/14472832.xml</url>
+        <project_id>19968</project_id>
+        <updated_at>2013-07-10T01:08:50Z</updated_at>
+        <logged_at>2013-07-10T01:08:47Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>22255</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/google-gson/analyses/14472832/languages.png">
+          <language color="9A63AD" percentage="96" id="5">
+Java          </language>
+          <language color="555555" percentage="4" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

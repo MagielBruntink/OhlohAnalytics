@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12322</id>
+      <name>LDAP Synchronization Connector (LSC)</name>
+      <url>http://www.ohloh.net/p/lsc.xml</url>
+      <html_url>http://www.ohloh.net/p/lsc</html_url>
+      <created_at>2008-02-27T08:57:07Z</created_at>
+      <updated_at>2013-07-09T20:30:24Z</updated_at>
+      <description>LDAP Synchronization Connector (LSC) reads from any data source including databases, LDAP directories or files and transforms and compares this data to an LDAP directory. These connectors can then be used to continuously synchronize a data source to a directory, for a one shot import or just to compare differences by outputting CSV or LDIF format reports.
+
+LSC offers a powerful transformation engine, based on a scripting language, to easily manipulate data on the fly.
+
+Various identity management functions are included for directory-specific compatibility &#8212; most notably Active Directory (changing passwords, account status, last logon, etc &#8230;).
+
+LSC is an open source project written in Java, available under the BSD license.</description>
+      <homepage_url>http://lsc-project.org/</homepage_url>
+      <download_url>http://lsc-project.org/wiki/download</download_url>
+      <url_name>lsc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31103/logo-lsc-project_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31103/logo-lsc-project_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14539677</analysis_id>
+      <tags>
+        <tag>audit</tag>
+        <tag>activedirectory</tag>
+        <tag>identityconnectors</tag>
+        <tag>groovy</tag>
+        <tag>maven</tag>
+        <tag>opendj</tag>
+        <tag>ldap</tag>
+        <tag>jndi</tag>
+        <tag>ibatis</tag>
+        <tag>schema</tag>
+        <tag>javascript</tag>
+        <tag>identitymanagement</tag>
+        <tag>rhino</tag>
+        <tag>java</tag>
+        <tag>attributes</tag>
+        <tag>directories</tag>
+        <tag>sync</tag>
+        <tag>connector</tag>
+        <tag>identity</tag>
+        <tag>database</tag>
+        <tag>transformation</tag>
+        <tag>synchronization</tag>
+        <tag>directory</tag>
+        <tag>metadirectory</tag>
+        <tag>provisioning</tag>
+      </tags>
+      <analysis>
+        <id>14539677</id>
+        <url>http://www.ohloh.net/analyses/14539677.xml</url>
+        <project_id>12322</project_id>
+        <updated_at>2013-07-05T18:14:23Z</updated_at>
+        <logged_at>2013-07-05T18:12:00Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>252250</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lsc/analyses/14539677/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="12" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

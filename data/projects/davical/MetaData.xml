@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4400</id>
+      <name>DAViCal CalDAV &amp; CardDAV Server</name>
+      <url>http://www.ohloh.net/p/davical.xml</url>
+      <html_url>http://www.ohloh.net/p/davical</html_url>
+      <created_at>2007-02-12T00:52:16Z</created_at>
+      <updated_at>2013-06-29T20:49:19Z</updated_at>
+      <description>The DAViCal CalDAV &amp; CardDAV Server is a server implementation of the CalDAV and CardDAV protocols for storing calendaring (iCalendar format) and addressbook (VCard) resources on a remote shared server. An increasing number of calendar clients support the maintenance of shared remote calendars through CalDAV including Mozilla Calendar (Sunbird/Lightning), Evolution, Mulberry, Chandler, KDE pim (Koraganizer ) and soon Apple's iCal. DAViCal supports basic delegation of read/write access among calendar users and multiple users or clients reading and writing the same calendar entries over time.</description>
+      <homepage_url>http://www.davical.org/</homepage_url>
+      <download_url>http://wiki.davical.org/w/Downloading</download_url>
+      <url_name>davical</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55170/logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55170/logo_small.gif</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.57143</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14306191</analysis_id>
+      <tags>
+        <tag>caldav</tag>
+        <tag>wcap</tag>
+        <tag>php</tag>
+        <tag>ical</tag>
+        <tag>calendar</tag>
+        <tag>groupdav</tag>
+        <tag>lightning</tag>
+        <tag>sunbird</tag>
+        <tag>collaboration</tag>
+        <tag>webdav</tag>
+        <tag>freebusy</tag>
+        <tag>server</tag>
+        <tag>scheduling</tag>
+        <tag>postgresql</tag>
+      </tags>
+      <analysis>
+        <id>14306191</id>
+        <url>http://www.ohloh.net/analyses/14306191.xml</url>
+        <project_id>4400</project_id>
+        <updated_at>2013-07-04T15:25:09Z</updated_at>
+        <logged_at>2013-07-04T15:25:06Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>71347</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/davical/analyses/14306191/languages.png">
+          <language color="47A400" percentage="54" id="1">
+HTML          </language>
+          <language color="356AA0" percentage="25" id="2">
+PHP          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>316037</id>
+      <name>FeinCMS</name>
+      <url>http://www.ohloh.net/p/feincms.xml</url>
+      <html_url>http://www.ohloh.net/p/feincms</html_url>
+      <created_at>2009-02-16T20:52:47Z</created_at>
+      <updated_at>2013-07-02T16:34:02Z</updated_at>
+      <description>FeinCMS is a very extensible Django-based CMS. It allows you to easily add your own content types, which you can then manage through a javascript-enhanced interface.</description>
+      <homepage_url>http://www.feinheit.ch/</homepage_url>
+      <download_url>http://github.com/feincms/feincms/tree/master</download_url>
+      <url_name>feincms</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14504406</analysis_id>
+      <tags>
+        <tag>django-based-cms</tag>
+        <tag>python</tag>
+        <tag>site_management</tag>
+        <tag>i18n</tag>
+        <tag>cms</tag>
+        <tag>xhtml</tag>
+        <tag>web</tag>
+        <tag>framework</tag>
+        <tag>django</tag>
+        <tag>wysiwyg</tag>
+        <tag>javascript</tag>
+      </tags>
+      <analysis>
+        <id>14504406</id>
+        <url>http://www.ohloh.net/analyses/14504406.xml</url>
+        <project_id>316037</project_id>
+        <updated_at>2013-07-02T16:34:02Z</updated_at>
+        <logged_at>2013-07-02T16:29:58Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>26</twelve_month_contributor_count>
+        <total_code_lines>19254</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/feincms/analyses/14504406/languages.png">
+          <language color="4A246B" percentage="76" id="9">
+Python          </language>
+          <language color="A4007E" percentage="12" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

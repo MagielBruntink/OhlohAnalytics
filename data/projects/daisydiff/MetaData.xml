@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8704</id>
+      <name>DaisyDiff</name>
+      <url>http://www.ohloh.net/p/daisydiff.xml</url>
+      <html_url>http://www.ohloh.net/p/daisydiff</html_url>
+      <created_at>2007-09-23T13:18:34Z</created_at>
+      <updated_at>2013-06-27T08:43:16Z</updated_at>
+      <description>Daisy Diff is a Java library that diffs (compares) HTML files. 
+Added and removed words are highlighted and changes to the styling are annotated.
+
+This project was a Google Summer of Code project for DaisyCMS.
+
+Features
+
+    * Works with badly formed HTML that can be found &quot;in the wild&quot;.
+    * The diffing is more specialized in HTML than XML tree differs. Changing part of a text node will not cause the entire node to be changed.
+    * In addition to the default visual diff, HTML source can be diffed coherently.
+    * Provides easy to understand descriptions of the changes.
+    * Allow easy browsing of the modifications through keyboard shortcuts.</description>
+      <homepage_url>http://code.google.com/p/daisydiff/</homepage_url>
+      <download_url>http://code.google.com/p/daisydiff/downloads/list</download_url>
+      <url_name>daisydiff</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14431685</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>xml</tag>
+        <tag>php</tag>
+        <tag>daisycms</tag>
+        <tag>difference</tag>
+        <tag>compare</tag>
+        <tag>diff</tag>
+        <tag>html</tag>
+        <tag>comparison</tag>
+      </tags>
+      <analysis>
+        <id>14431685</id>
+        <url>http://www.ohloh.net/analyses/14431685.xml</url>
+        <project_id>8704</project_id>
+        <updated_at>2013-07-08T00:04:32Z</updated_at>
+        <logged_at>2013-07-08T00:04:17Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>25871</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/daisydiff/analyses/14431685/languages.png">
+          <language color="A4007E" percentage="45" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="23" id="5">
+Java          </language>
+          <language color="47A400" percentage="17" id="1">
+HTML          </language>
+          <language color="000000" percentage="15" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

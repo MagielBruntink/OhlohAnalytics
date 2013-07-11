@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5254</id>
+      <name>conary</name>
+      <url>http://www.ohloh.net/p/conary.xml</url>
+      <html_url>http://www.ohloh.net/p/conary</html_url>
+      <created_at>2007-05-10T19:48:09Z</created_at>
+      <updated_at>2013-07-05T03:25:20Z</updated_at>
+      <description>Conary is a distributed software management system for Linux distributions. It replaces traditional package management solutions (such as RPM and dpkg) with one designed to enable loose collaboration across the Internet. It enables sets of distributed and loosely connected repositories to define the components which are installed on a Linux system. Rather than having a full distribution come from a single vendor, it allows administrators and developers to branch a distribution, keeping the pieces which fit their environment while grabbing components from other repositories across the Internet.</description>
+      <homepage_url>http://wiki.rpath.com/wiki/Conary</homepage_url>
+      <download_url>http://wiki.rpath.com/wiki/Conary</download_url>
+      <url_name>conary</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532124</analysis_id>
+      <tags>
+        <tag>scm</tag>
+        <tag>release-manager</tag>
+        <tag>version-control</tag>
+        <tag>package-manager</tag>
+      </tags>
+      <analysis>
+        <id>14532124</id>
+        <url>http://www.ohloh.net/analyses/14532124.xml</url>
+        <project_id>5254</project_id>
+        <updated_at>2013-07-05T03:25:20Z</updated_at>
+        <logged_at>2013-07-05T03:19:15Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>185412</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/conary/analyses/14532124/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

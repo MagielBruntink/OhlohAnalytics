@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4007</id>
+      <name>Freevo</name>
+      <url>http://www.ohloh.net/p/freevo.xml</url>
+      <html_url>http://www.ohloh.net/p/freevo</html_url>
+      <created_at>2007-01-15T02:26:55Z</created_at>
+      <updated_at>2013-06-19T16:47:52Z</updated_at>
+      <description>Freevo is an open-source home theatre PC platform based on Linux and a number of open-source audio/video tools. MPlayer and/or Xine can be used to play audio and video files in most popular formats. Freevo can be used both for a standalone PVR computer with a TV+remote, as well as on a regular desktop computer using the monitor and keyboard.
+
+Freevo is easy to download and install for new users. Most hardware is supported (graphic boards, sound cards and video capture devices).
+
+The Freevo core is under heavy development. It is mostly written in the Python programming language which is very well suited for high-level control applications like Freevo.</description>
+      <homepage_url>http://freevo.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>freevo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26445/freevo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26445/freevo_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14310949</analysis_id>
+      <tags>
+        <tag>pvr</tag>
+        <tag>dvb</tag>
+        <tag>htpc</tag>
+      </tags>
+      <analysis>
+        <id>14310949</id>
+        <url>http://www.ohloh.net/analyses/14310949.xml</url>
+        <project_id>4007</project_id>
+        <updated_at>2013-06-30T21:54:15Z</updated_at>
+        <logged_at>2013-06-30T21:50:55Z</logged_at>
+        <min_month>2002-05-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>247020</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freevo/analyses/14310949/languages.png">
+          <language color="4A246B" percentage="72" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="13" id="42">
+C          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

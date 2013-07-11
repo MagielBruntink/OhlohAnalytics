@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7345</id>
+      <name>LedgerSMB</name>
+      <url>http://www.ohloh.net/p/ledger-smb.xml</url>
+      <html_url>http://www.ohloh.net/p/ledger-smb</html_url>
+      <created_at>2007-08-10T15:01:09Z</created_at>
+      <updated_at>2013-07-05T15:09:42Z</updated_at>
+      <description>LedgerSMB is a free software double entry accounting and ERP system. Data is stored in a server-based PostgreSQL database with a web browser based user interface accessible from anywhere in the world. The system uses PL/pgSQL Perl language as its main languages. Screens and customer visible output are defined using Template Toolkit templates allowing easy and fast customization. For output its output in PDF format, LedgerSMB depends on LaTeX or TeLaTeX.
+
+Also as of October 1, 2011 I have told Ohloh to disregard the XML files in doc/database because these automatically generated files are skewing the code analysis.
+
+As of March 13, 2012, I have split off the addons repository onto a separate Ohloh entry, specifically to enable better line counts for a single version of LedgerSMB.</description>
+      <homepage_url>http://ledgersmb.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/ledger-smb/files/</download_url>
+      <url_name>ledger-smb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17065/ledgersmb_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17065/ledgersmb_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14538087</analysis_id>
+      <tags>
+        <tag>business</tag>
+        <tag>framework</tag>
+        <tag>accounts_receivable</tag>
+        <tag>sme</tag>
+        <tag>invoicing</tag>
+        <tag>pos</tag>
+        <tag>finance</tag>
+        <tag>erp</tag>
+        <tag>billing</tag>
+        <tag>web</tag>
+        <tag>inventory</tag>
+        <tag>accounting</tag>
+        <tag>postgresql</tag>
+        <tag>perl</tag>
+        <tag>smallbussiness</tag>
+        <tag>enterprise</tag>
+        <tag>sales</tag>
+        <tag>customers</tag>
+        <tag>vendors</tag>
+        <tag>purchasing</tag>
+      </tags>
+      <analysis>
+        <id>14538087</id>
+        <url>http://www.ohloh.net/analyses/14538087.xml</url>
+        <project_id>7345</project_id>
+        <updated_at>2013-07-05T15:09:42Z</updated_at>
+        <logged_at>2013-07-05T15:02:12Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>128974</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ledger-smb/analyses/14538087/languages.png">
+          <language color="D2C690" percentage="37" id="8">
+Perl          </language>
+          <language color="493625" percentage="32" id="30">
+SQL          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="000000" percentage="12" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

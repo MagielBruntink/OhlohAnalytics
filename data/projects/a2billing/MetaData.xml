@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12735</id>
+      <name>A2Billing</name>
+      <url>http://www.ohloh.net/p/a2billing.xml</url>
+      <html_url>http://www.ohloh.net/p/a2billing</html_url>
+      <created_at>2008-03-13T23:49:09Z</created_at>
+      <updated_at>2013-05-18T07:39:58Z</updated_at>
+      <description>A2Billing complements the Asterisk project by enabling the following features on both TDM and VoIP calls:
+ Traditional calling card services
+ Credit limit on both pre-paid and post-paid customers
+ Callback services
+ Residential VoIP services
+ Wholesale minutes termination
+ Monthly/weekly free calling packages
+ Invoicing
+ Paypal, Moneybookers and Authorize.net integration.
+
+The project is easy to use and is frequently seen on FreePBX installations to bring accountability to small offices' phone usage.
+
+For ITSP and traditional telco wholesale usage it has been seen to easily scale to millions of minutes per month,  with 100,000s rates across many trunks.  Work is in progress to further enhance A2Billing's scalability and availability.</description>
+      <homepage_url>http://trac.asterisk2billing.org/cgi-bin/trac.cgi</homepage_url>
+      <download_url>http://trac.asterisk2billing.org/cgi-bin/trac.cgi</download_url>
+      <url_name>a2billing</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57/a2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57/a2_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>10619957</analysis_id>
+      <tags>
+        <tag>h323</tag>
+        <tag>iax</tag>
+        <tag>ivr</tag>
+        <tag>php</tag>
+        <tag>card</tag>
+        <tag>sip</tag>
+        <tag>calling</tag>
+        <tag>pbx</tag>
+        <tag>communication</tag>
+        <tag>softswitch</tag>
+        <tag>asterisk</tag>
+        <tag>telecommunications</tag>
+        <tag>invoicing</tag>
+        <tag>billing</tag>
+        <tag>web</tag>
+        <tag>voip</tag>
+        <tag>telephony</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>10619957</id>
+        <url>http://www.ohloh.net/analyses/10619957.xml</url>
+        <project_id>12735</project_id>
+        <updated_at>2012-10-16T03:07:58Z</updated_at>
+        <logged_at>2011-11-04T21:11:23Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>560456</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/a2billing/analyses/10619957/languages.png">
+          <language color="356AA0" percentage="48" id="2">
+PHP          </language>
+          <language color="493625" percentage="38" id="30">
+SQL          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

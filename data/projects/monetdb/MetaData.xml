@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10306</id>
+      <name>MonetDB</name>
+      <url>http://www.ohloh.net/p/monetdb.xml</url>
+      <html_url>http://www.ohloh.net/p/monetdb</html_url>
+      <created_at>2007-12-15T16:06:54Z</created_at>
+      <updated_at>2013-07-10T17:25:28Z</updated_at>
+      <description>MonetDB is a open-source columnar database system for high-performance applications. It comes with a feature rich SQL interface, ready to perform analytical queries on large datasets with an unusual speed.</description>
+      <homepage_url>http://www.monetdb.org/</homepage_url>
+      <download_url>http://dev.monetdb.org/downloads/</download_url>
+      <url_name>monetdb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55698/monetdb-ohloh_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55698/monetdb-ohloh_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14572882</analysis_id>
+      <tags>
+        <tag>rdbms</tag>
+        <tag>json</tag>
+        <tag>olap</tag>
+        <tag>database</tag>
+        <tag>odbc</tag>
+        <tag>gis</tag>
+        <tag>data_mining</tag>
+        <tag>sql</tag>
+        <tag>jaql</tag>
+      </tags>
+      <analysis>
+        <id>14572882</id>
+        <url>http://www.ohloh.net/analyses/14572882.xml</url>
+        <project_id>10306</project_id>
+        <updated_at>2013-07-09T14:21:12Z</updated_at>
+        <logged_at>2013-07-09T13:57:10Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>988354</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/monetdb/analyses/14572882/languages.png">
+          <language color="493625" percentage="64" id="30">
+SQL          </language>
+          <language color="FF8F00" percentage="31" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

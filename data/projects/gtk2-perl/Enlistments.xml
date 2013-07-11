@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>222833</id>
+      <project_id>8576</project_id>
+      <repository_id>220679</repository_id>
+      <repository>
+        <id>220679</id>
+        <type>GitRepository</type>
+        <url>git://git.gnome.org/perl-Gtk2</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T19:01:59Z</logged_at>
+        <commits>1950</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>16829</id>
+      <project_id>8576</project_id>
+      <repository_id>16300</repository_id>
+      <repository>
+        <id>16300</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@gtk2-perl.cvs.sourceforge.net:/cvsroot/gtk2-perl</url>
+        <module_name>gtk2-perl-xs</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-07T19:01:31Z</logged_at>
+        <commits>3483</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

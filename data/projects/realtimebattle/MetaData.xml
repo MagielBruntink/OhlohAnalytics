@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9049</id>
+      <name>RealTimeBattle</name>
+      <url>http://www.ohloh.net/p/realtimebattle.xml</url>
+      <html_url>http://www.ohloh.net/p/realtimebattle</html_url>
+      <created_at>2007-10-09T15:47:10Z</created_at>
+      <updated_at>2013-06-25T06:37:03Z</updated_at>
+      <description>RealTimeBattle is a programming game, in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot.
+
+The Game progresses in real time, with the robot programs running as child processes to RealTimeBattle. The robots communicate with the main program using the standard input and output. Robots can be constructed in almost any programming language. Any number of robots can compete simultaneously if allowed by your operating system. A simple messaging language is used for communication, which makes it easy to start constructing robots. Robots behave like real physical object. You can create your own arenas and the simulation engine is highly configurable.</description>
+      <homepage_url>http://realtimebattle.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=561</download_url>
+      <url_name>realtimebattle</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14398497</analysis_id>
+      <tags>
+        <tag>gaming</tag>
+        <tag>robotics</tag>
+        <tag>cygwin</tag>
+        <tag>game</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+        <tag>robot</tag>
+        <tag>cross-platform</tag>
+        <tag>simulation</tag>
+        <tag>linux</tag>
+        <tag>programming</tag>
+        <tag>real-time</tag>
+      </tags>
+      <analysis>
+        <id>14398497</id>
+        <url>http://www.ohloh.net/analyses/14398497.xml</url>
+        <project_id>9049</project_id>
+        <updated_at>2013-07-01T10:11:55Z</updated_at>
+        <logged_at>2013-07-01T09:37:54Z</logged_at>
+        <min_month>1998-08-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>222312</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/realtimebattle/analyses/14398497/languages.png">
+          <language color="EEE" percentage="38" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="24" id="44">
+C++          </language>
+          <language color="777777" percentage="15" id="11">
+shell script          </language>
+          <language color="000000" percentage="23" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

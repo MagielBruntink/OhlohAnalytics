@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3183</id>
+      <name>Hachoir</name>
+      <url>http://www.ohloh.net/p/hachoir.xml</url>
+      <html_url>http://www.ohloh.net/p/hachoir</html_url>
+      <created_at>2006-10-17T08:20:06Z</created_at>
+      <updated_at>2013-07-01T03:03:20Z</updated_at>
+      <description>Hachoir is a library written in Python which allows to see and edit a binary file (or any binary stream) field per field. A field is the most basic information: a number, a string of characters, a flag (yes/no), etc. Only supported formats can be opened, it's not a magic tool. It can be used to extract some information (eg. metadata), edit some fields of a file without the original program, or convert a file from one format to another.</description>
+      <homepage_url>http://hachoir.org/</homepage_url>
+      <download_url>http://hachoir.org/wiki/Install</download_url>
+      <url_name>hachoir</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14490874</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>parser</tag>
+        <tag>programming</tag>
+        <tag>metadata</tag>
+        <tag>multimedia</tag>
+        <tag>forensics</tag>
+        <tag>development</tag>
+        <tag>file_format</tag>
+        <tag>filesystems</tag>
+      </tags>
+      <analysis>
+        <id>14490874</id>
+        <url>http://www.ohloh.net/analyses/14490874.xml</url>
+        <project_id>3183</project_id>
+        <updated_at>2013-07-01T03:03:20Z</updated_at>
+        <logged_at>2013-07-01T03:02:55Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>61239</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hachoir/analyses/14490874/languages.png">
+          <language color="4A246B" percentage="81" id="9">
+Python          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

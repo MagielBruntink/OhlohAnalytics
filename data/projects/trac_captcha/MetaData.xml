@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483752</id>
+      <name>TracCaptcha</name>
+      <url>http://www.ohloh.net/p/trac_captcha.xml</url>
+      <html_url>http://www.ohloh.net/p/trac_captcha</html_url>
+      <created_at>2010-06-25T19:32:06Z</created_at>
+      <updated_at>2013-07-04T12:32:21Z</updated_at>
+      <description>TracCaptcha is a trac plugin to embed a captcha in Trac pages so that spammers are kept out.
+
+&quot;It just works&quot;: Installation and configuration is very simple, just install the egg and put two configuration options in your trac.ini. No database changes required.
+
+Batteries included: The popular reCAPTCHA system is supported out of the box.
+
+Does not annoy users: After the user entered the captcha once, he does not have to solve the captcha again for the same ticket when he just clicks 'preview'. Also you can configure exempt certain users or groups (e.g. 'all authenticated users') from the captchas just by using Trac's permission system.
+
+Easy to extend: Several 3rd party Trac plugins are supported as well. Integrating another plugin typically takes only 20-30 lines of code!</description>
+      <homepage_url>http://www.schwarz.eu/opensource/projects/trac_captcha/</homepage_url>
+      <download_url>http://www.schwarz.eu/opensource/projects/trac_captcha/</download_url>
+      <url_name>trac_captcha</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>3</review_count>
+      <analysis_id>14525930</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>trac</tag>
+        <tag>recaptcha</tag>
+        <tag>pluggable</tag>
+        <tag>captcha</tag>
+        <tag>captchaplugin</tag>
+      </tags>
+      <analysis>
+        <id>14525930</id>
+        <url>http://www.ohloh.net/analyses/14525930.xml</url>
+        <project_id>483752</project_id>
+        <updated_at>2013-07-04T12:32:21Z</updated_at>
+        <logged_at>2013-07-04T12:32:05Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1684</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/trac_captcha/analyses/14525930/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

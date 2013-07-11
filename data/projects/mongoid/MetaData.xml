@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483952</id>
+      <name>Mongoid</name>
+      <url>http://www.ohloh.net/p/mongoid.xml</url>
+      <html_url>http://www.ohloh.net/p/mongoid</html_url>
+      <created_at>2010-07-09T17:19:42Z</created_at>
+      <updated_at>2013-07-06T14:41:29Z</updated_at>
+      <description>Mongoid is an ODM (Object Document Mapper) Framework for MongoDB, written in Ruby.</description>
+      <homepage_url>http://mongoid.org</homepage_url>
+      <download_url>http://rubygems.org/gems/mongoid</download_url>
+      <url_name>mongoid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47834/816cd66ab2b1552a1bc99ff774cecf27_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47834/816cd66ab2b1552a1bc99ff774cecf27_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551085</analysis_id>
+      <tags>
+        <tag>rubyonrails</tag>
+        <tag>ruby</tag>
+        <tag>rubygem</tag>
+        <tag>mongodb</tag>
+      </tags>
+      <analysis>
+        <id>14551085</id>
+        <url>http://www.ohloh.net/analyses/14551085.xml</url>
+        <project_id>483952</project_id>
+        <updated_at>2013-07-06T14:41:29Z</updated_at>
+        <logged_at>2013-07-06T14:37:28Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>81</twelve_month_contributor_count>
+        <total_code_lines>68955</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mongoid/analyses/14551085/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

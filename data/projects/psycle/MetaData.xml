@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10505</id>
+      <name>psycle</name>
+      <url>http://www.ohloh.net/p/psycle.xml</url>
+      <html_url>http://www.ohloh.net/p/psycle</html_url>
+      <created_at>2007-12-23T18:07:50Z</created_at>
+      <updated_at>2013-07-03T01:44:28Z</updated_at>
+      <description>Psycle is a Music tracker (like FastTracker 2 or Impulse Tracker) combined with plugin modularity. It supports its own plugin API, the VST2 plugin standard, and a tracker style sampler playback.</description>
+      <homepage_url>http://psycle.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=10834</download_url>
+      <url_name>psycle</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1317/psycle_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1317/psycle_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.71429</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14509409</analysis_id>
+      <tags>
+        <tag>studio</tag>
+        <tag>sound</tag>
+        <tag>composer</tag>
+        <tag>audio</tag>
+        <tag>tracker</tag>
+        <tag>music</tag>
+        <tag>dsp</tag>
+        <tag>modular</tag>
+        <tag>ladspa</tag>
+        <tag>vst</tag>
+        <tag>buzz</tag>
+      </tags>
+      <analysis>
+        <id>14509409</id>
+        <url>http://www.ohloh.net/analyses/14509409.xml</url>
+        <project_id>10505</project_id>
+        <updated_at>2013-07-03T01:44:27Z</updated_at>
+        <logged_at>2013-07-03T01:37:31Z</logged_at>
+        <min_month>2000-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>257386</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/psycle/analyses/14509409/languages.png">
+          <language color="F35F1F" percentage="71" id="44">
+C++          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

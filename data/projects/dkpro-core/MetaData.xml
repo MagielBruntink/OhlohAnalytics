@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487652</id>
+      <name>DKPro Core</name>
+      <url>http://www.ohloh.net/p/dkpro-core.xml</url>
+      <html_url>http://www.ohloh.net/p/dkpro-core</html_url>
+      <created_at>2011-01-20T15:50:05Z</created_at>
+      <updated_at>2013-07-09T20:09:54Z</updated_at>
+      <description>DKPro is a collection of software components for natural language processing (NLP) based on the  Apache UIMA framework.
+
+Many powerful and state-of-the-art NLP components are already freely available in the NLP research community. New and improved components are being developed and released continuously. The components cover the whole range of NLP-related processing tasks. DKPro provides wrappers for such third-party tool as well as original NLP components. DKPro builds heavily on uimaFIT which allows for rapid and easy development of NLP processing pipelines.</description>
+      <homepage_url>http://code.google.com/p/dkpro-core-asl/</homepage_url>
+      <download_url></download_url>
+      <url_name>dkpro-core</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51701/dkpro-core_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51701/dkpro-core_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574793</analysis_id>
+      <tags>
+        <tag>sentence_boundary_detection</tag>
+        <tag>coreferenceresolution</tag>
+        <tag>languagedetection</tag>
+        <tag>postagger</tag>
+        <tag>nlp</tag>
+        <tag>java</tag>
+        <tag>uima</tag>
+        <tag>natural_language_processing</tag>
+        <tag>uimafit</tag>
+        <tag>parser</tag>
+        <tag>dependencyparsing</tag>
+        <tag>tokenizer</tag>
+        <tag>chunker</tag>
+      </tags>
+      <analysis>
+        <id>14574793</id>
+        <url>http://www.ohloh.net/analyses/14574793.xml</url>
+        <project_id>487652</project_id>
+        <updated_at>2013-07-09T20:09:53Z</updated_at>
+        <logged_at>2013-07-09T18:39:39Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>170449</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dkpro-core/analyses/14574793/languages.png">
+          <language color="555555" percentage="65" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="34" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

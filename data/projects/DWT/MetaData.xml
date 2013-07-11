@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15026</id>
+      <name>DWT</name>
+      <url>http://www.ohloh.net/p/DWT.xml</url>
+      <html_url>http://www.ohloh.net/p/DWT</html_url>
+      <created_at>2008-06-18T02:33:05Z</created_at>
+      <updated_at>2013-06-30T03:54:49Z</updated_at>
+      <description>DWT stands for D Widget Toolkit, a slight naming variation from its parent project -- the Standard Widget Toolkit of Java Eclipse Project fame (SWT). The DWT goal is to achieve for the D Language something similar to Java SWT's notable accomplishment: it is a large, feature-rich GUI library encouraging excellent application portability while retaining platform-specific widget &quot;look and feel&quot;.</description>
+      <homepage_url>http://www.dsource.org/projects/dwt/</homepage_url>
+      <download_url>http://www.dsource.org/projects/dwt/</download_url>
+      <url_name>DWT</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26782/eclipse-red-128-v2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26782/eclipse-red-128-v2_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471539</analysis_id>
+      <tags>
+        <tag>dwt</tag>
+        <tag>d</tag>
+        <tag>gui_framework</tag>
+        <tag>linux</tag>
+        <tag>win32</tag>
+        <tag>programming</tag>
+        <tag>gui</tag>
+        <tag>library</tag>
+        <tag>ui</tag>
+        <tag>dlang</tag>
+      </tags>
+      <analysis>
+        <id>14471539</id>
+        <url>http://www.ohloh.net/analyses/14471539.xml</url>
+        <project_id>15026</project_id>
+        <updated_at>2013-07-11T05:55:42Z</updated_at>
+        <logged_at>2013-07-11T05:52:39Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1413941</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/DWT/analyses/14471539/languages.png">
+          <language color="EC2E24" percentage="100" id="32">
+D          </language>
+          <language color="000000" percentage="&lt;1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

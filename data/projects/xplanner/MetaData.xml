@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8358</id>
+      <name>XPlanner</name>
+      <url>http://www.ohloh.net/p/xplanner.xml</url>
+      <html_url>http://www.ohloh.net/p/xplanner</html_url>
+      <created_at>2007-09-10T09:06:19Z</created_at>
+      <updated_at>2013-05-17T19:00:35Z</updated_at>
+      <description>XPlanner is a web-based project planning and tracking tool for eXtreme Programming (XP) teams. XPlanner is implemented using Java, JSP, and Struts, Hibernate and MySQL.
+
+To summarize the XP planning process, the customers pick the features to be added (user stories) to each development iteration (typically, one to three weeks in duration). The developers estimate the effort to complete the stories either at the story level or by decomposing the story into tasks and estimating those. Information about team development velocity from the previous iteration is used to estimate if the team can complete the stories proposed by the customer. If the team appears to be overcommitted, the set of stories are renegotiated with the customer. The XPlanner tool was created to support this process.</description>
+      <homepage_url>http://www.xplanner.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=49017</download_url>
+      <url_name>xplanner</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1773198</analysis_id>
+      <tags>
+        <tag>extreme</tag>
+        <tag>xp</tag>
+        <tag>programming</tag>
+        <tag>project_planning</tag>
+        <tag>project_collaboration</tag>
+        <tag>project_management</tag>
+        <tag>development</tag>
+        <tag>scrum</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>1773198</id>
+        <url>http://www.ohloh.net/analyses/1773198.xml</url>
+        <project_id>8358</project_id>
+        <updated_at>2011-03-14T21:29:06Z</updated_at>
+        <logged_at>2008-06-19T15:52:24Z</logged_at>
+        <min_month>2004-05-01T00:00:00Z</min_month>
+        <max_month>2008-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>213335</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xplanner/analyses/1773198/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="000000" percentage="12" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

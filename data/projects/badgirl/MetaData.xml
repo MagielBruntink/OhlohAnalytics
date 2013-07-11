@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6675</id>
+      <name>BadGirl</name>
+      <url>http://www.ohloh.net/p/badgirl.xml</url>
+      <html_url>http://www.ohloh.net/p/badgirl</html_url>
+      <created_at>2007-07-17T10:16:51Z</created_at>
+      <updated_at>2011-03-14T22:15:30Z</updated_at>
+      <description>IRC bot forked from moobot. Used at many channels of http://linuxfire.com.cn/firewiki/FireIrcd
+
+Provides rssreader, dictionary, debian-package-query, China-stock-query, weather-query etc.</description>
+      <homepage_url>http://www.linuxfire.com.cn/BadGirl</homepage_url>
+      <download_url>http://www.linuxfire.com.cn/BadGirl/wiki/GetBadGirl</download_url>
+      <url_name>badgirl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1773312</analysis_id>
+      <tags>
+        <tag>irc</tag>
+        <tag>linuxfire</tag>
+        <tag>python</tag>
+        <tag>ircbot</tag>
+        <tag>client</tag>
+        <tag>bot</tag>
+      </tags>
+      <analysis>
+        <id>1773312</id>
+        <url>http://www.ohloh.net/analyses/1773312.xml</url>
+        <project_id>6675</project_id>
+        <updated_at>2011-03-14T22:15:29Z</updated_at>
+        <logged_at>2011-02-15T02:15:48Z</logged_at>
+        <min_month>2004-12-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>71331</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/badgirl/analyses/1773312/languages.png">
+          <language color="4A246B" percentage="98" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

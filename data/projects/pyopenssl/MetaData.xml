@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>33652</id>
+      <name>pyOpenSSL</name>
+      <url>http://www.ohloh.net/p/pyopenssl.xml</url>
+      <html_url>http://www.ohloh.net/p/pyopenssl</html_url>
+      <created_at>2008-12-07T02:53:57Z</created_at>
+      <updated_at>2013-06-22T22:13:36Z</updated_at>
+      <description>Python wrapper around a small subset of the OpenSSL library. Includes: X509 Certificates, SSL Context objects, SSL Connection objects using Python sockets as transport layer.</description>
+      <homepage_url>https://launchpad.net/pyopenssl</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=31249</download_url>
+      <url_name>pyopenssl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15017/pyopenssl-brand_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15017/pyopenssl-brand_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14347627</analysis_id>
+      <tags>
+        <tag>aes</tag>
+        <tag>ssl</tag>
+        <tag>privacy</tag>
+        <tag>rsa</tag>
+        <tag>networking</tag>
+        <tag>x509</tag>
+        <tag>encryption</tag>
+        <tag>cross-platform</tag>
+        <tag>python</tag>
+        <tag>des</tag>
+        <tag>security</tag>
+        <tag>portable</tag>
+        <tag>cryptography</tag>
+        <tag>public-key</tag>
+        <tag>network</tag>
+        <tag>c</tag>
+        <tag>tls</tag>
+        <tag>crypto</tag>
+        <tag>library</tag>
+        <tag>key_generation</tag>
+        <tag>hash</tag>
+      </tags>
+      <analysis>
+        <id>14347627</id>
+        <url>http://www.ohloh.net/analyses/14347627.xml</url>
+        <project_id>33652</project_id>
+        <updated_at>2013-07-03T17:36:39Z</updated_at>
+        <logged_at>2013-07-03T17:36:33Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11390</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyopenssl/analyses/14347627/languages.png">
+          <language color="FF8F00" percentage="66" id="42">
+C          </language>
+          <language color="4A246B" percentage="29" id="9">
+Python          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

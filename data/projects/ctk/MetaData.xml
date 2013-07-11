@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483293</id>
+      <name>The Common Toolkit</name>
+      <url>http://www.ohloh.net/p/ctk.xml</url>
+      <html_url>http://www.ohloh.net/p/ctk</html_url>
+      <created_at>2010-05-29T18:24:13Z</created_at>
+      <updated_at>2013-07-09T21:46:17Z</updated_at>
+      <description>The Common Toolkit (CTK) contains a collection of Qt based widgets for GUI development. Some advanced widgets handle DICOM(DCMTK), scripting (PythonQt) or VTK.
+In addition to widgets, CTK offers different development solutions such as a plugin framework, an automatic Qt testing framework and software management(useful CMake macros).
+The goals of CTK are as follows:
+    * Provide a unified set of basic programming constructs that are useful for medical imaging applications development
+    * Facilitate the exchange and combination of code and data
+    * Document, integrate, and adapt successful solutions
+    * Avoid the duplication of code and data
+    * Continuously extend to new tasks within the scope of the toolkit (medical imaging) without burdening existing tasks</description>
+      <homepage_url>http://www.commontk.org/</homepage_url>
+      <download_url>https://github.com/commontk/CTK</download_url>
+      <url_name>ctk</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34991/LogoCTK_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34991/LogoCTK_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14554544</analysis_id>
+      <tags>
+        <tag>common_toolkit</tag>
+        <tag>pythonqt</tag>
+        <tag>designer</tag>
+        <tag>widget_toolkit</tag>
+        <tag>qwt</tag>
+        <tag>libqxt</tag>
+        <tag>python</tag>
+        <tag>slicer</tag>
+        <tag>networking</tag>
+        <tag>gui</tag>
+        <tag>visualization</tag>
+        <tag>linux</tag>
+        <tag>unix</tag>
+        <tag>c++</tag>
+        <tag>medical</tag>
+        <tag>toolkit</tag>
+        <tag>dcmtk</tag>
+        <tag>qt4</tag>
+        <tag>plugins</tag>
+        <tag>vtk</tag>
+        <tag>3d</tag>
+        <tag>imaging</tag>
+        <tag>xip</tag>
+        <tag>widgets</tag>
+        <tag>cross-platform</tag>
+        <tag>graphics</tag>
+        <tag>dicom</tag>
+        <tag>qt</tag>
+        <tag>qtdesigner</tag>
+        <tag>pacs</tag>
+        <tag>macosx</tag>
+        <tag>windows</tag>
+        <tag>opensource</tag>
+        <tag>mac</tag>
+        <tag>library</tag>
+        <tag>pluginframework</tag>
+        <tag>qxt</tag>
+        <tag>widget</tag>
+        <tag>widgetdesigner</tag>
+        <tag>framework</tag>
+        <tag>commontk</tag>
+        <tag>common</tag>
+      </tags>
+      <analysis>
+        <id>14554544</id>
+        <url>http://www.ohloh.net/analyses/14554544.xml</url>
+        <project_id>483293</project_id>
+        <updated_at>2013-07-06T20:38:53Z</updated_at>
+        <logged_at>2013-07-06T20:37:27Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>164989</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ctk/analyses/14554544/languages.png">
+          <language color="F35F1F" percentage="73" id="44">
+C++          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="EEE" percentage="6" id="74">
+CMake          </language>
+          <language color="000000" percentage="13" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

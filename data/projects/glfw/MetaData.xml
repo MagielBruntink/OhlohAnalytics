@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12513</id>
+      <name>GLFW</name>
+      <url>http://www.ohloh.net/p/glfw.xml</url>
+      <html_url>http://www.ohloh.net/p/glfw</html_url>
+      <created_at>2008-03-04T19:44:07Z</created_at>
+      <updated_at>2013-07-08T03:25:12Z</updated_at>
+      <description>GLFW is a free, Open Source, portable framework for OpenGL application development. In short, it is a single library providing a powerful, portable API for otherwise operating system specific tasks such as opening an OpenGL window, and reading keyboard, time, mouse and joystick input.
+
+It also provides functions accessing OpenGL extensions, creating and synchronizing threads and reading textures from files.
+
+GLFW is available for Windows, Mac OS X and Unix-like systems such as Linux, Solaris and FreeBSD.</description>
+      <homepage_url>http://glfw.sourceforge.net/</homepage_url>
+      <download_url>http://glfw.sourceforge.net/</download_url>
+      <url_name>glfw</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566359</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>3d_rendering</tag>
+      </tags>
+      <analysis>
+        <id>14566359</id>
+        <url>http://www.ohloh.net/analyses/14566359.xml</url>
+        <project_id>12513</project_id>
+        <updated_at>2013-07-08T03:25:12Z</updated_at>
+        <logged_at>2013-07-07T23:25:08Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>28512</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/glfw/analyses/14566359/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="C7932C" percentage="6" id="16">
+Objective-C          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

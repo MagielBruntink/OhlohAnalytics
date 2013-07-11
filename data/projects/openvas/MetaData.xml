@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>281646</id>
+      <name>OpenVAS</name>
+      <url>http://www.ohloh.net/p/openvas.xml</url>
+      <html_url>http://www.ohloh.net/p/openvas</html_url>
+      <created_at>2009-01-22T04:29:36Z</created_at>
+      <updated_at>2013-07-07T08:45:00Z</updated_at>
+      <description>OpenVAS is an open source remote security vulnerability scanner, designed to search for networked devices and computers, discover accessible ports and services, and to test for vulnerabilities on any such ports; plugins allow for further expansion.</description>
+      <homepage_url>http://www.openvas.org</homepage_url>
+      <download_url></download_url>
+      <url_name>openvas</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15300/openvas_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15300/openvas_logo_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14560591</analysis_id>
+      <tags>
+        <tag>network</tag>
+        <tag>security</tag>
+        <tag>vulnerability</tag>
+        <tag>scanner</tag>
+      </tags>
+      <analysis>
+        <id>14560591</id>
+        <url>http://www.ohloh.net/analyses/14560591.xml</url>
+        <project_id>281646</project_id>
+        <updated_at>2013-07-07T08:44:59Z</updated_at>
+        <logged_at>2013-07-07T07:51:39Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>284770</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openvas/analyses/14560591/languages.png">
+          <language color="FF8F00" percentage="55" id="42">
+C          </language>
+          <language color="556655" percentage="16" id="36">
+XSL Transformation          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="18" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

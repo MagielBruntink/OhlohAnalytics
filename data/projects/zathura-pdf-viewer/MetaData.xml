@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483982</id>
+      <name>zathura-pdf-viewer</name>
+      <url>http://www.ohloh.net/p/zathura-pdf-viewer.xml</url>
+      <html_url>http://www.ohloh.net/p/zathura-pdf-viewer</html_url>
+      <created_at>2010-07-11T09:54:34Z</created_at>
+      <updated_at>2013-07-02T21:19:23Z</updated_at>
+      <description>zathura is a highly customizable and functional PDF viewer based on the
+ poppler rendering library and the gtk+ toolkit. The idea behind zathura
+ is an application that provides a minimalistic and space saving
+ interface as well as an easy usage that mainly focuses on keyboard
+ interaction.
+ 
+ Features:
+    * Commandline completion
+ 	* Statusbar
+ 	* Notification system
+ 	* Highly customizable
+ 	* Buffered commands
+
+ Functionality:
+ 	* Open (encrypted) PDF documents
+ 	* Navigate, scroll, rotate, zoom
+ 	* Search in the document
+ 	* Show document information
+ 	* Bookmark pages
+ 	* Export image and attachments
+ 	* Print whole document or 
+    just specific sites</description>
+      <homepage_url>http://www.pwmt.org/projects/zathura</homepage_url>
+      <download_url>http://www.pwmt.org/projects/zathura/download/</download_url>
+      <url_name>zathura-pdf-viewer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14507079</analysis_id>
+      <analysis>
+        <id>14507079</id>
+        <url>http://www.ohloh.net/analyses/14507079.xml</url>
+        <project_id>483982</project_id>
+        <updated_at>2013-07-06T11:37:28Z</updated_at>
+        <logged_at>2013-07-06T11:37:26Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>9371</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zathura-pdf-viewer/analyses/14507079/languages.png">
+          <language color="FF8F00" percentage="97" id="42">
+C          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

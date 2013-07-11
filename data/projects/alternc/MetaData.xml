@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8926</id>
+      <name>AlternC</name>
+      <url>http://www.ohloh.net/p/alternc.xml</url>
+      <html_url>http://www.ohloh.net/p/alternc</html_url>
+      <created_at>2007-10-03T10:58:41Z</created_at>
+      <updated_at>2013-07-09T19:41:00Z</updated_at>
+      <description>AlternC is a hosting control panel that allow any user to manage domains, emails, ftp accounts, databases, web statistics, mailing lists ... 
+
+It is based on free softwares only such as apache, mysql, php, mailman, postfix and awstats.
+
+It's a multilingual : the panel is available in english, french and spanish as of today (2009).
+
+It's an open project, anyone who want to contribute is invited to do so.</description>
+      <homepage_url>https://www.alternc.org/</homepage_url>
+      <download_url>https://alternc.org/wiki/Documentation/Fr/Administrateur/Installer</download_url>
+      <url_name>alternc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26888/alternc_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26888/alternc_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10589600</analysis_id>
+      <tags>
+        <tag>virtual_host</tag>
+        <tag>php</tag>
+        <tag>webhosting</tag>
+        <tag>management</tag>
+        <tag>control_panel</tag>
+        <tag>hosting</tag>
+        <tag>dns</tag>
+        <tag>hostingcontrolpanel</tag>
+        <tag>server</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>10589600</id>
+        <url>http://www.ohloh.net/analyses/10589600.xml</url>
+        <project_id>8926</project_id>
+        <updated_at>2012-10-08T19:50:24Z</updated_at>
+        <logged_at>2012-10-08T19:43:29Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>41036</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/alternc/analyses/10589600/languages.png">
+          <language color="356AA0" percentage="51" id="2">
+PHP          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="777777" percentage="12" id="11">
+shell script          </language>
+          <language color="000000" percentage="22" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

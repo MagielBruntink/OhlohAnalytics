@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12806</id>
+      <name>ProGuard</name>
+      <url>http://www.ohloh.net/p/proguard.xml</url>
+      <html_url>http://www.ohloh.net/p/proguard</html_url>
+      <created_at>2008-03-17T11:17:57Z</created_at>
+      <updated_at>2012-02-22T19:27:56Z</updated_at>
+      <description>ProGuard is a free Java class file shrinker, optimizer, obfuscator, and preverifier. It detects and removes unused classes, fields, methods, and attributes. It optimizes bytecode and removes unused instructions. It renames the remaining classes, fields, and methods using short meaningless names. Finally, it preverifies the processed code for Java 6 or for Java Micro Edition.</description>
+      <homepage_url>http://proguard.sf.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=54750</download_url>
+      <url_name>proguard</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>obfuscate</tag>
+        <tag>preverify</tag>
+        <tag>j2me</tag>
+        <tag>java</tag>
+        <tag>shrink</tag>
+        <tag>optimize</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

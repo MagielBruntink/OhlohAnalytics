@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483521</id>
+      <name>SparkleShare</name>
+      <url>http://www.ohloh.net/p/SparkleShare.xml</url>
+      <html_url>http://www.ohloh.net/p/SparkleShare</html_url>
+      <created_at>2010-06-10T22:20:22Z</created_at>
+      <updated_at>2013-07-07T23:49:13Z</updated_at>
+      <description>SparkleShare is a file sharing and collaboration tool. more&#8230;
+
+SparkleShare isn&#8217;t just a piece of software, it&#8217;s part of your workflow. It&#8217;s designed to make sharing documents and collaboration easier, and to make peers aware of what you are doing. It allows you to instantly sync with any Git repository you have access to. The user interface and features are made to support this goal. Though SparkleShare is not made to be a graphical frontend for git or a backup tool, it may be useful for other kinds of purposes as well, like backing up small files or monitoring your favourite project</description>
+      <homepage_url>http://www.sparkleshare.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>SparkleShare</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34447/sparkleshare_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34447/sparkleshare_small.png</small_logo_url>
+      <user_count>10</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14565141</analysis_id>
+      <tags>
+        <tag>owncloud</tag>
+        <tag>synchronization</tag>
+        <tag>file</tag>
+        <tag>sharing</tag>
+        <tag>sync</tag>
+        <tag>mono</tag>
+        <tag>sparkleshare</tag>
+      </tags>
+      <analysis>
+        <id>14565141</id>
+        <url>http://www.ohloh.net/analyses/14565141.xml</url>
+        <project_id>483521</project_id>
+        <updated_at>2013-07-07T23:49:13Z</updated_at>
+        <logged_at>2013-07-07T21:48:00Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>14055</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SparkleShare/analyses/14565141/languages.png">
+          <language color="4096EE" percentage="67" id="17">
+C#          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

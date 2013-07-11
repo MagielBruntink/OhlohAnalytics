@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6841</id>
+      <name>pake &#8212; php5 project builder system</name>
+      <url>http://www.ohloh.net/p/pake.xml</url>
+      <html_url>http://www.ohloh.net/p/pake</html_url>
+      <created_at>2007-07-24T18:46:42Z</created_at>
+      <updated_at>2013-06-25T19:42:14Z</updated_at>
+      <description>pake is a PHP5 project build system with capabilities similar to make. pake has the following features:
+
+- pakefiles (pake&#8217;s version of Makefiles) are completely defined in standard PHP5 syntax. No XML files to edit. No quirky Makefile syntax to worry about (is that a tab or a space?)
+
+- users can specify tasks with prerequisites
+
+- pake is lightweight. It can be distributed with other projects as a single file. Projects that depend upon pake do not require that pake be installed on target systems.</description>
+      <homepage_url>http://wiki.github.com/indeyets/pake</homepage_url>
+      <download_url>http://wiki.github.com/indeyets/pake/installing-pake</download_url>
+      <url_name>pake</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408151</analysis_id>
+      <tags>
+        <tag>build_tools</tag>
+        <tag>php</tag>
+        <tag>build</tag>
+        <tag>deployment</tag>
+        <tag>automation</tag>
+        <tag>make</tag>
+      </tags>
+      <analysis>
+        <id>14408151</id>
+        <url>http://www.ohloh.net/analyses/14408151.xml</url>
+        <project_id>6841</project_id>
+        <updated_at>2013-07-05T19:46:40Z</updated_at>
+        <logged_at>2013-07-05T19:46:34Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>5862</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pake/analyses/14408151/languages.png">
+          <language color="356AA0" percentage="90" id="2">
+PHP          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

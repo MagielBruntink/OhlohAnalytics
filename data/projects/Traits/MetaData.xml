@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13815</id>
+      <name>Traits</name>
+      <url>http://www.ohloh.net/p/Traits.xml</url>
+      <html_url>http://www.ohloh.net/p/Traits</html_url>
+      <created_at>2008-05-06T15:19:26Z</created_at>
+      <updated_at>2013-07-07T18:57:27Z</updated_at>
+      <description>The Traits package adds support for explicit typing to Python, including initialization and validation. It also provides a powerful event notification system and a delegation model. 
+
+A trait is a type definition that can be used for normal Python object attributes, giving the attributes additional characteristics (default initial value, validation, etc.).
+
+The Traits package also provides an API for creating user interfaces for Traits-based objects. (You must have a supported Python GUI toolkit -- wxWidgets or PyQt -- and additional supporting packages, in order to display Traits UIs.) Traits UIs can range from quick-and-dirty property sheets for development, to full-blown MVC application interfaces.</description>
+      <homepage_url>http://code.enthought.com/projects/traits/</homepage_url>
+      <download_url>http://pypi.python.org/pypi?:action=display&amp;name=Traits</download_url>
+      <url_name>Traits</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>9</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14563656</analysis_id>
+      <analysis>
+        <id>14563656</id>
+        <url>http://www.ohloh.net/analyses/14563656.xml</url>
+        <project_id>13815</project_id>
+        <updated_at>2013-07-07T18:57:26Z</updated_at>
+        <logged_at>2013-07-07T18:46:25Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>24045</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Traits/analyses/14563656/languages.png">
+          <language color="4A246B" percentage="76" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="17" id="42">
+C          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4551</id>
+      <name>fdm</name>
+      <url>http://www.ohloh.net/p/fdm.xml</url>
+      <html_url>http://www.ohloh.net/p/fdm</html_url>
+      <created_at>2007-02-21T22:17:59Z</created_at>
+      <updated_at>2013-07-02T17:24:18Z</updated_at>
+      <description>fdm is a simple, lightweight replacement for mail fetch, filter and delivery programs such as fetchmail and procmail. It can fetch using POP3 or IMAP (with SSL) or from stdin, and deliver to a pipe, file, maildir, mbox or SMTP server, based on regexps.</description>
+      <homepage_url>http://fdm.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>fdm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14504984</analysis_id>
+      <tags>
+        <tag>filter</tag>
+        <tag>smtp</tag>
+        <tag>pop</tag>
+        <tag>email</tag>
+        <tag>imap</tag>
+      </tags>
+      <analysis>
+        <id>14504984</id>
+        <url>http://www.ohloh.net/analyses/14504984.xml</url>
+        <project_id>4551</project_id>
+        <updated_at>2013-07-02T17:24:18Z</updated_at>
+        <logged_at>2013-07-02T17:23:49Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>16412</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fdm/analyses/14504984/languages.png">
+          <language color="FF8F00" percentage="93" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Internet_Systems_Consortium_License</name>
+          <nice_name>Internet Systems Consortium License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
