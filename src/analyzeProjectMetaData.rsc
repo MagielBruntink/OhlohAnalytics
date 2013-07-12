@@ -5,8 +5,13 @@ import projectFactsRepository;
 import analysis::formalconcepts::FCA;
 import lang::dot::Dot;
 
+public void analyzeLanguages () {
+	langs=getMetaDataElements(getProjectNamesInRepository(),
+							 "main_language_name");
+}
+
 public str generateOALForTags(list[str] projectNames) {
-	tags = getMetaDataStringAttributes(projectNames, "tag")<0,2>;
+	tags = getMetaDataElements(projectNames, "tag");
 	return generateOAL(tags);
 }
 
