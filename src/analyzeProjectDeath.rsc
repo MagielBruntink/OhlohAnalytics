@@ -3,8 +3,6 @@ module analyzeProjectDeath
 import Prelude;
 import processProjectFacts;
 import projectFactsRepository;
-import IO;
-import exportProjectFacts;
 
 alias projectActivityStatus = rel[str, list[tuple[str, num, bool]]];
 
@@ -31,58 +29,6 @@ public projectActivityStatus getProjectActivityStatus (yearlyFactsMap monthlyFac
 				})>
 		|
 		str projectName <- projectNames
-	};
-}
-
-public projectActivityStatus findInactiveProjectsInYear (projectActivityStatus stats, str year) {
-	return {
-		project |
-		project <- stats,
-		<_, [Years*,<year,age,false>,MoreYears*]> := project
-	};
-}
-
-public projectActivityStatus findProjectsThatBecomeInactiveAtLeastOnce (projectActivityStatus stats) {
-	return {
-		project |
-		project <- stats,
-		<_, [Years*,<year,age,false>,MoreYears*]> := project
-	};
-}
-
-public projectActivityStatus findProjectThatAreReactivated (projectActivityStatus stats) {
-	return {
-		project |
-		project <- stats,
-		<_, [Years*,<year1,age,false>,MoreYears*,<year2,age,true>,EvenMoreYears*]> := project
-	};
-}
-
-public void printProjectActivity (projectActivityStatus stats, yearlyFactsMap facts) {
-	outfile = OutputFilesDirectory + "projectActivity.csv";
-	separator = ",";
-	list[str] years = sort(domain(facts)<1>,bool (str a, str b) {return toInt(a) > toInt(b);});
-	
-	header = "projectName";
-	for (str year <- years) {
-		header += separator;
-		header += year;
-	};
-	header += "\n";
-	writeFile(outfile,header);
-	
-	for (str projectName <- domain(stats)) {
-		line = projectName;
-		for (str year <- years) {
-			line += separator;
-			if(<projectName,year,"12"> in facts) 				
-				if ({[Years*,<year,age,true>,MoreYears*]} := stats[projectName]) 
-					line += "active";
-				else
-					line += "not active";
-		};
-		line += "\n";
-		appendToFile(outfile,line);
 	};
 }
 
