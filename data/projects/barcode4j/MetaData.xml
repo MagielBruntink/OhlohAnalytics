@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5079</id>
+      <name>Barcode4J</name>
+      <url>http://www.ohloh.net/p/barcode4j.xml</url>
+      <html_url>http://www.ohloh.net/p/barcode4j</html_url>
+      <created_at>2007-05-04T08:48:07Z</created_at>
+      <updated_at>2013-06-28T03:28:57Z</updated_at>
+      <description>Barcode4J is a flexible generator for barcodes written in Java.
+Supported symbologies: Interleaved 2 of 5, Code 39, Code 128, EAN-128, GS1-128 (based on Code 128), Codabar, UPC-A and UPC-E (with supplementals), EAN-13 and EAN-8 (with supplementals), POSTNET, Royal Mail Customer Barcode (Four State), PDF 417 (ISO/IEC 15438:2001(E)), DataMatrix (ISO/IEC 16022:2000(E)).
+Supported output formats: SVG, EPS (Encapsulated PostScript), Bitmap images (such as PNG or JPEG), Java2D (AWT).
+Barcode4J provides plug-ins for Apache FOP, Apache Xalan-J and SAXON.</description>
+      <homepage_url>http://barcode4j.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=96670</download_url>
+      <url_name>barcode4j</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3261/barcode4j-logo-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3261/barcode4j-logo-64x64_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14440863</analysis_id>
+      <tags>
+        <tag>point-of-sale</tag>
+        <tag>barcode</tag>
+        <tag>java</tag>
+        <tag>library</tag>
+        <tag>svg</tag>
+        <tag>eps</tag>
+        <tag>fop</tag>
+      </tags>
+      <analysis>
+        <id>14440863</id>
+        <url>http://www.ohloh.net/analyses/14440863.xml</url>
+        <project_id>5079</project_id>
+        <updated_at>2013-07-11T05:44:37Z</updated_at>
+        <logged_at>2013-07-11T05:44:04Z</logged_at>
+        <min_month>2003-12-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>27144</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/barcode4j/analyses/14440863/languages.png">
+          <language color="9A63AD" percentage="63" id="5">
+Java          </language>
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

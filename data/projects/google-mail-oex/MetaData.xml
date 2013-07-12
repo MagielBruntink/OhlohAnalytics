@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>528850</id>
+      <name>Google Mail Notifier</name>
+      <url>http://www.ohloh.net/p/google-mail-oex.xml</url>
+      <html_url>http://www.ohloh.net/p/google-mail-oex</html_url>
+      <created_at>2011-04-28T11:24:30Z</created_at>
+      <updated_at>2013-06-30T02:20:45Z</updated_at>
+      <description>A simple and fast extensions for your Opera Browser to inform you about unread messages in your GMail-Account and show the titles of the new messages. You can check multiple accounts and have the option to open mail-links directly with GMail.
+
+FEATURES
+* Support up to 5 Accounts
+* Supports all GMail-Accounts
+* Show all unread Messages or just from Inbox
+* Option to open Mail-Links directly with GMail
+* Optional Sound-Notification
+* Use safe OAuth-Authorization
+* Supports English, German, Russian</description>
+      <homepage_url>http://codebit.de/oex/google-mail</homepage_url>
+      <download_url>https://addons.opera.com/addons/extensions/details/google-mail-notifier/</download_url>
+      <url_name>google-mail-oex</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43270/gmail-icon-64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43270/gmail-icon-64px_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14470202</analysis_id>
+      <tags>
+        <tag>notifier</tag>
+        <tag>mail</tag>
+        <tag>extension</tag>
+        <tag>opera</tag>
+        <tag>google</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14470202</id>
+        <url>http://www.ohloh.net/analyses/14470202.xml</url>
+        <project_id>528850</project_id>
+        <updated_at>2013-07-11T10:07:18Z</updated_at>
+        <logged_at>2013-07-11T10:07:15Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>2660</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/google-mail-oex/analyses/14470202/languages.png">
+          <language color="A4007E" percentage="68" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="25" id="4">
+CSS          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="555555" percentage="2" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

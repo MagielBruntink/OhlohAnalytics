@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>186171</id>
+      <project_id>5174</project_id>
+      <repository_id>184211</repository_id>
+      <repository>
+        <id>184211</id>
+        <type>GitRepository</type>
+        <url>git://github.com/vslavik/bakefile.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T22:02:04Z</logged_at>
+        <commits>752</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>11140</id>
+      <project_id>5174</project_id>
+      <repository_id>10885</repository_id>
+      <repository>
+        <id>10885</id>
+        <type>SvnRepository</type>
+        <url>https://bakefile.svn.sourceforge.net/svnroot/bakefile/bakefile/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T22:02:12Z</logged_at>
+        <commits>466</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

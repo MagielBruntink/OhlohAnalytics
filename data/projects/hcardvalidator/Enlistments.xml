@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>241574</id>
+      <project_id>15732</project_id>
+      <repository_id>239237</repository_id>
+      <repository>
+        <id>239237</id>
+        <type>GitRepository</type>
+        <url>git://github.com/pornel/hCardValidator.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-01T10:39:11Z</logged_at>
+        <commits>35</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>465825</id>
+      <project_id>15732</project_id>
+      <repository_id>50621</repository_id>
+      <repository>
+        <id>50621</id>
+        <type>SvnSyncRepository</type>
+        <url>http://hcardvalidator.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-01T10:43:25Z</logged_at>
+        <commits>5</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

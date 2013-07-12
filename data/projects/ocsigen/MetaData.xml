@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>348235</id>
+      <name>Ocsigen Server</name>
+      <url>http://www.ohloh.net/p/ocsigen.xml</url>
+      <html_url>http://www.ohloh.net/p/ocsigen</html_url>
+      <created_at>2009-07-01T16:23:11Z</created_at>
+      <updated_at>2013-07-11T19:21:09Z</updated_at>
+      <description>Ocsigen is a web server and application framework for OCaml.  It is built on the cooperative concurrency library Lwt and provides Eliom, a framework for developing web applications which utilizes the OCaml type system to provide static checks for many aspects of application behavior (well-formed XHTML, valid service URLs, etc.).</description>
+      <homepage_url>http://ocsigen.org/ocsigenserver</homepage_url>
+      <download_url>http://ocsigen.org/ocsigenserver/install/</download_url>
+      <url_name>ocsigen</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52803/ocsigenserver_with_shadow_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52803/ocsigenserver_with_shadow_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12073536</analysis_id>
+      <tags>
+        <tag>monadic</tag>
+        <tag>ocaml</tag>
+        <tag>web</tag>
+        <tag>webapp</tag>
+        <tag>webserver</tag>
+        <tag>framework</tag>
+        <tag>ocsigen</tag>
+      </tags>
+      <analysis>
+        <id>12073536</id>
+        <url>http://www.ohloh.net/analyses/12073536.xml</url>
+        <project_id>348235</project_id>
+        <updated_at>2013-01-11T14:06:07Z</updated_at>
+        <logged_at>2013-01-11T14:06:05Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12357</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ocsigen/analyses/12073536/languages.png">
+          <language color="EEE" percentage="90" id="61">
+Objective Caml          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

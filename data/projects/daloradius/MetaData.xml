@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>32886</id>
+      <name>daloRADIUS</name>
+      <url>http://www.ohloh.net/p/daloradius.xml</url>
+      <html_url>http://www.ohloh.net/p/daloradius</html_url>
+      <created_at>2008-12-06T23:54:02Z</created_at>
+      <updated_at>2013-07-11T18:24:38Z</updated_at>
+      <description>daloRADIUS is an advanced RADIUS web management application aimed at managing hotspots and general-purpose ISP deployments. It features user management, graphical reporting, accounting, a billing engine and integrates with GoogleMaps for geo-locating.</description>
+      <homepage_url>http://sourceforge.net/projects/daloradius</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=193562</download_url>
+      <url_name>daloradius</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11536/radius04_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11536/radius04_small.gif</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14412328</analysis_id>
+      <tags>
+        <tag>isp</tag>
+        <tag>systems_administration</tag>
+        <tag>freeradius</tag>
+        <tag>networking</tag>
+        <tag>database_administration</tag>
+        <tag>radius</tag>
+        <tag>front-ends</tag>
+        <tag>hotspot</tag>
+        <tag>wisp</tag>
+      </tags>
+      <analysis>
+        <id>14412328</id>
+        <url>http://www.ohloh.net/analyses/14412328.xml</url>
+        <project_id>32886</project_id>
+        <updated_at>2013-07-05T23:45:48Z</updated_at>
+        <logged_at>2013-07-05T23:45:43Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>105092</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/daloradius/analyses/14412328/languages.png">
+          <language color="356AA0" percentage="61" id="2">
+PHP          </language>
+          <language color="47A400" percentage="23" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>431044</id>
+      <name>netsniff-ng</name>
+      <url>http://www.ohloh.net/p/netsniff-ng.xml</url>
+      <html_url>http://www.ohloh.net/p/netsniff-ng</html_url>
+      <created_at>2009-09-05T16:00:13Z</created_at>
+      <updated_at>2013-07-05T13:32:52Z</updated_at>
+      <description>netsniff-ng is is a free, performant Linux network analyzer and networking toolkit.
+
+The gain of performance is reached by zero-copy mechanisms, so that the kernel does not need to copy packets from kernelspace to userspace and vice versa.
+
+netsniff-ng consists of much more than only a network analyzer. Next to the zero-copy sniffer itself, further tools like trafgen, a powerful zero-copy network packet generator, or ifpps, a tool that provides top-like kernel networking statistics, and curvetun, a lightweight curve25519-based multiuser IP tunnel, are being shipped.</description>
+      <homepage_url>http://netsniff-ng.org/</homepage_url>
+      <download_url>http://www.netsniff-ng.org/pub/</download_url>
+      <url_name>netsniff-ng</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38644/logo_only_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38644/logo_only_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14537407</analysis_id>
+      <tags>
+        <tag>traffic+analysis</tag>
+        <tag>trafficmodeling</tag>
+        <tag>arppoisoning</tag>
+        <tag>system</tag>
+        <tag>tcpdump</tag>
+        <tag>ipv6</tag>
+        <tag>monitoring</tag>
+        <tag>tools</tag>
+        <tag>netsniff-ng</tag>
+        <tag>arpspoofing</tag>
+        <tag>hacking</tag>
+        <tag>analysis</tag>
+        <tag>pcap</tag>
+        <tag>lan</tag>
+        <tag>zero-copy</tag>
+        <tag>packet-inspection</tag>
+        <tag>tcpip</tag>
+        <tag>admin</tag>
+        <tag>gateway</tag>
+        <tag>server</tag>
+        <tag>security</tag>
+        <tag>statistics</tag>
+        <tag>linux</tag>
+        <tag>vlan</tag>
+        <tag>c</tag>
+        <tag>dump</tag>
+        <tag>network</tag>
+        <tag>network_monitoring</tag>
+        <tag>bridge</tag>
+        <tag>kernel</tag>
+        <tag>analyzer</tag>
+        <tag>tcp</tag>
+        <tag>wireless</tag>
+        <tag>protocol</tag>
+        <tag>sysadmin</tag>
+        <tag>wifi</tag>
+        <tag>sniffer</tag>
+        <tag>ipv4</tag>
+        <tag>router</tag>
+        <tag>reverse-engineering</tag>
+        <tag>ethernet</tag>
+        <tag>hack</tag>
+        <tag>networking</tag>
+        <tag>bpf</tag>
+        <tag>trafficanalysis</tag>
+        <tag>traffic-generator</tag>
+        <tag>traffic</tag>
+      </tags>
+      <analysis>
+        <id>14537407</id>
+        <url>http://www.ohloh.net/analyses/14537407.xml</url>
+        <project_id>431044</project_id>
+        <updated_at>2013-07-05T13:32:51Z</updated_at>
+        <logged_at>2013-07-05T13:30:09Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>62785</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/netsniff-ng/analyses/14537407/languages.png">
+          <language color="FF8F00" percentage="98" id="42">
+C          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_v2_0_only</name>
+          <nice_name>GNU General Public License v2.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

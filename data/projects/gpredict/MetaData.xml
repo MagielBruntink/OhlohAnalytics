@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9110</id>
+      <name>Gpredict</name>
+      <url>http://www.ohloh.net/p/gpredict.xml</url>
+      <html_url>http://www.ohloh.net/p/gpredict</html_url>
+      <created_at>2007-10-13T00:33:14Z</created_at>
+      <updated_at>2013-06-19T19:27:44Z</updated_at>
+      <description>Gpredict is a real-time satellite tracking and orbit prediction application. It can track an unlimited number of satellites and display their position and other data in lists, tables, maps, and polar plots (radar view). Gpredict can also predict the time of future passes for a satellite, and provide you with detailed information about each pass.
+
+Gpredict is different from other satellite tracking programs in that it allows you to group the satellites into visualisation modules. Each of these modules can be configured independently from the others giving you unlimited flexibility concerning the look and feel of the modules. Naturally, Gpredict will also allow you to track satellites relatively to different observer locations - at the same time.</description>
+      <homepage_url>http://gpredict.oz9aec.net/</homepage_url>
+      <download_url>http://gpredict.oz9aec.net/download.php</download_url>
+      <url_name>gpredict</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28181/gpredict-icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28181/gpredict-icon_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14311775</analysis_id>
+      <tags>
+        <tag>hamradio</tag>
+        <tag>tracking</tag>
+        <tag>satellite</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14311775</id>
+        <url>http://www.ohloh.net/analyses/14311775.xml</url>
+        <project_id>9110</project_id>
+        <updated_at>2013-06-30T07:19:04Z</updated_at>
+        <logged_at>2013-06-30T07:15:29Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>207301</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gpredict/analyses/14311775/languages.png">
+          <language color="FF8F00" percentage="57" id="42">
+C          </language>
+          <language color="EEE" percentage="20" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="8" id="11">
+shell script          </language>
+          <language color="000000" percentage="15" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

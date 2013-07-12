@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13099</id>
+      <name>Pax Web</name>
+      <url>http://www.ohloh.net/p/pax-web.xml</url>
+      <html_url>http://www.ohloh.net/p/pax-web</html_url>
+      <created_at>2008-03-31T18:23:16Z</created_at>
+      <updated_at>2013-06-29T11:20:48Z</updated_at>
+      <description>OSGi R4 Http Service implementation using Jetty 6/7/8/9 and Tomcat 7.
+
+Pax Web extends OSGi Http Service with better servlet support, filters, listeners, error pages and JSPs and some others in order to meet the latest versions of Servlet specs.</description>
+      <homepage_url>http://team.ops4j.org/wiki/x/AYAz</homepage_url>
+      <download_url>http://team.ops4j.org/wiki/display/paxweb/Download</download_url>
+      <url_name>pax-web</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20061/pax-web_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20061/pax-web_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14455732</analysis_id>
+      <tags>
+        <tag>http</tag>
+        <tag>jetty</tag>
+        <tag>jasper</tag>
+        <tag>java</tag>
+        <tag>servlet_container</tag>
+        <tag>osgi</tag>
+        <tag>service</tag>
+      </tags>
+      <analysis>
+        <id>14455732</id>
+        <url>http://www.ohloh.net/analyses/14455732.xml</url>
+        <project_id>13099</project_id>
+        <updated_at>2013-06-29T11:20:47Z</updated_at>
+        <logged_at>2013-06-27T21:12:18Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>175949</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pax-web/analyses/14455732/languages.png">
+          <language color="9A63AD" percentage="77" id="5">
+Java          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

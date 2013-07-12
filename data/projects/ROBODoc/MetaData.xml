@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6113</id>
+      <name>ROBODoc</name>
+      <url>http://www.ohloh.net/p/ROBODoc.xml</url>
+      <html_url>http://www.ohloh.net/p/ROBODoc</html_url>
+      <created_at>2007-06-18T14:23:08Z</created_at>
+      <updated_at>2013-07-03T11:15:36Z</updated_at>
+      <description>ROBODoc is a documentation tool. It extracts the documentation from your source code and formats it in HTML, RTF, TeX, XML DocBook (PDF), or ASCII. Works with C, C++, Fortran, Perl, Scripts, Assembler, Tcl, Basic, and any language that supports remarks.</description>
+      <homepage_url>http://www.xs4all.nl/~rfsber/Robo/index.html</homepage_url>
+      <download_url>http://www.xs4all.nl/~rfsber/Robo/stabledownload.html</download_url>
+      <url_name>ROBODoc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>7</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514321</analysis_id>
+      <tags>
+        <tag>generator</tag>
+        <tag>automation</tag>
+        <tag>development</tag>
+        <tag>literate</tag>
+        <tag>documentation</tag>
+      </tags>
+      <analysis>
+        <id>14514321</id>
+        <url>http://www.ohloh.net/analyses/14514321.xml</url>
+        <project_id>6113</project_id>
+        <updated_at>2013-07-10T07:59:11Z</updated_at>
+        <logged_at>2013-07-10T07:58:58Z</logged_at>
+        <min_month>2000-06-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>48647</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ROBODoc/analyses/14514321/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="D2C690" percentage="18" id="8">
+Perl          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

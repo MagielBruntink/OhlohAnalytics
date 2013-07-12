@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5099</id>
+      <name>JEuclid</name>
+      <url>http://www.ohloh.net/p/jeuclid.xml</url>
+      <html_url>http://www.ohloh.net/p/jeuclid</html_url>
+      <created_at>2007-05-05T07:29:08Z</created_at>
+      <updated_at>2013-07-11T15:07:36Z</updated_at>
+      <description>JEuclid is a complete MathML rendering solution, consisting of:
+
+* A MathViewer application
+* Command line converters from MathML to other formats
+* An ant task for automated conversion
+* Display components for AWT and Swing
+* A component for Apache Cocoon
+* A plug-in for Apache FOP</description>
+      <homepage_url>http://jeuclid.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=44862</download_url>
+      <url_name>jeuclid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4078/jeuclid_256x256_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4078/jeuclid_256x256_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590997</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>mathematics</tag>
+        <tag>maths</tag>
+        <tag>visualization</tag>
+        <tag>web</tag>
+        <tag>math</tag>
+        <tag>graphics</tag>
+        <tag>api</tag>
+        <tag>xml</tag>
+        <tag>swing</tag>
+        <tag>java</tag>
+        <tag>mathml</tag>
+      </tags>
+      <analysis>
+        <id>14590997</id>
+        <url>http://www.ohloh.net/analyses/14590997.xml</url>
+        <project_id>5099</project_id>
+        <updated_at>2013-07-11T15:07:36Z</updated_at>
+        <logged_at>2013-07-11T15:03:26Z</logged_at>
+        <min_month>2002-01-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>492056</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jeuclid/analyses/14590997/languages.png">
+          <language color="555555" percentage="88" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="9" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

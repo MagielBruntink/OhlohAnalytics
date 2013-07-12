@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>352656</id>
+      <name>ros-pkg</name>
+      <url>http://www.ohloh.net/p/ros-pkg.xml</url>
+      <html_url>http://www.ohloh.net/p/ros-pkg</html_url>
+      <created_at>2009-07-30T21:43:53Z</created_at>
+      <updated_at>2013-07-11T18:41:54Z</updated_at>
+      <description>Repositories of packages for ROS robot operating system currently under development by Stanford University and Willow Garage
+
+ros-pkg is a community repository for developing libraries that are generally robot agnostic. Many of the capabilities frequently associated with ROS, such as a navigation library and rviz visualizer, are developed in this repository.</description>
+      <homepage_url>https://code.ros.org/gf/project/ros-pkg</homepage_url>
+      <download_url></download_url>
+      <url_name>ros-pkg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51997/ros64x64_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51997/ros64x64_small.jpg</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14592668</analysis_id>
+      <tags>
+        <tag>controller</tag>
+        <tag>vision</tag>
+        <tag>research</tag>
+        <tag>c++</tag>
+        <tag>ros</tag>
+        <tag>robotics</tag>
+        <tag>python</tag>
+        <tag>navigation</tag>
+        <tag>perception</tag>
+        <tag>simulation</tag>
+        <tag>controllers</tag>
+      </tags>
+      <analysis>
+        <id>14592668</id>
+        <url>http://www.ohloh.net/analyses/14592668.xml</url>
+        <project_id>352656</project_id>
+        <updated_at>2013-07-11T18:41:54Z</updated_at>
+        <logged_at>2013-07-10T02:00:23Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>75</twelve_month_contributor_count>
+        <total_code_lines>777590</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ros-pkg/analyses/14592668/languages.png">
+          <language color="FF8F00" percentage="44" id="42">
+C          </language>
+          <language color="F35F1F" percentage="33" id="44">
+C++          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+18 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

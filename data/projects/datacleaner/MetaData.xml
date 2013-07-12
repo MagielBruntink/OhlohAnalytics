@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13260</id>
+      <name>DataCleaner</name>
+      <url>http://www.ohloh.net/p/datacleaner.xml</url>
+      <html_url>http://www.ohloh.net/p/datacleaner</html_url>
+      <created_at>2008-04-09T15:26:14Z</created_at>
+      <updated_at>2013-07-12T03:07:10Z</updated_at>
+      <description>DataCleaner is an Open Source application for profiling, validating and comparing data. These activities help you administer and monitor your data quality in order to ensure that your data is useful and applicable to your business situation.
+
+DataCleaner is the free alternative to software for master data management (MDM) methodologies, data warehousing (DW) projects, statistical research, preparation for extract-transform-load (ETL) activities and more.</description>
+      <homepage_url>http://datacleaner.eobjects.org</homepage_url>
+      <download_url>http://datacleaner.eobjects.org/downloads</download_url>
+      <url_name>datacleaner</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8885/datacleaner_icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8885/datacleaner_icon_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599622</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>matching</tag>
+        <tag>tools</tag>
+        <tag>validator</tag>
+        <tag>phonetic</tag>
+        <tag>profile</tag>
+        <tag>data</tag>
+        <tag>data_warehouse</tag>
+        <tag>dataquality</tag>
+        <tag>analysis</tag>
+        <tag>business-intelligence</tag>
+        <tag>validation</tag>
+        <tag>transformation</tag>
+        <tag>transform</tag>
+        <tag>quality</tag>
+        <tag>profiler</tag>
+        <tag>java</tag>
+        <tag>database_abstraction</tag>
+      </tags>
+      <analysis>
+        <id>14599622</id>
+        <url>http://www.ohloh.net/analyses/14599622.xml</url>
+        <project_id>13260</project_id>
+        <updated_at>2013-07-12T03:07:10Z</updated_at>
+        <logged_at>2013-07-12T03:05:49Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>83887</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/datacleaner/analyses/14599622/languages.png">
+          <language color="9A63AD" percentage="77" id="5">
+Java          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>108770</id>
+      <name>scalaz</name>
+      <url>http://www.ohloh.net/p/scalaz.xml</url>
+      <html_url>http://www.ohloh.net/p/scalaz</html_url>
+      <created_at>2008-12-27T11:47:25Z</created_at>
+      <updated_at>2013-06-25T21:36:33Z</updated_at>
+      <description>The source for Scalaz is now hosted on GitHub - http://github.com/scalaz/scalaz 
+
+Scalaz (Scar-lah-zed) is a library written in the Scala Programming Language. One mandate of the library is to depend only on the core Scala API and the core Java 2 Standard Edition API. The intention of Scalaz is to include general functions that are not currently available in the core Scala API. Scalaz is released under a BSD open source licence making it compatible with the licence of the Scala project. 
+
+Scalaz has recently (December 2009) undergone a rewrite for a planned version 5 release coinciding with the upcoming Scala 2.8.0 release. Much of what was included in previous versions is still available however, it is better organised. 
+
+CommunityMailing list IRC channel: #scalaz channel on the freenode network irc://freenode.net/#scalaz PresentationsDeriving Scalaz Nick Partridge at the Melbourne Scala User Group Beyond Mere Actors Concurrent Programming with Scalaz, R&#250;nar Bjarnason LinksLatest Scaladoc Annotated Sources (Scala X-Ray)  Examples scalaz.Scalaz scalaz.Identity scalaz.MA scalaz.MAB Scalaz 5 regular builds 2010-02-15+64.581201s Scaladoc JAR file Browse examples Browse source CONTRIBUTORS LICENCE Detailed features of Scalaz 5object Scalaz for single-import access to all functions and implicits provided by the library. import scalaz._; import Scalaz._; // profit!   
+
+The general purpose 'Pimps of Scalaz', that provide general purpose functions and allow object-oriented style syntax, for example 1.pure[List] or List(1, 2, 3).suml Identity wraps any value. MA wraps values based on a type constructor of kind * -&gt; *, e.g List[Int] MAB wraps values based on a type constructor of kind (*, *) -&gt; *, e.g Either[String, Int] 
+
+Specific pimps, to add useful methods to these data types: Array[Byte] BigInteger Boolean Byte Char Int Iterable List Long Option Short Stream String An implementation of common type-classes Equal - for doing type-safe (and configurable) equality checks  Show - for type-safe configuration of display for types (like Java's toString but with a compile-time check for existence and easier to use) Order - type-safe comparisons for ordering Arrow, a usable implementation of John Hughes' arrows for doing abstraction gymnastics with first-class functions.  | Example Applicative, an implementation of Applicative Functors as per Applicative Programming with Effects for a more powerful (more general) monad. Example An implementation of a covariant binary functor (Bifunctor) for mapping over either (or both) side of a pair or scala.Either, scala.Tuple2, or similar. Example A Burkhard-Keller tree for fast approximation-based searches -- ever wondered why Google knows what you really meant, so quickly? Here is a great explanation of a B-K Tree | BKTree | Example An implementation of a contra-variant functor (Cofunctor) and Comonad. Cofunctor Example A Digit data type (0-9) Monad and Functor type classes with associated implementation and methods. Monad Example | Functor Example Kleisli and Cokleisli data types and subsequent useful operations. Kleisli Example NonEmptyList), a data type for representing one or more elements of the same type that guarantees successful termination of head, tail and other operations DList), a data type for representing elements of the same type with constant time append/prepend operations. A Monoid) type class and (so many!) implementations A data type (State) for representing state transition through a value i.e. a function: S =&gt; (S, A) | Example Traverse, an implementation of an internal iterator as per The Essence of the Iterator Pattern using a traversable type-class A multi-way Tree (rose tree) and a one-hole zipper (TreeLoc) for tree traversal. Zipper, a pointed list (zipper list) data type Memo A memoisation library for automatically storing the result of computations (especially useful for Dynamic Programming Algorithms) Promise and Actor, a light-weight and highly configurable concurrency library with actors and non-blocking composable future values. Presentation | Example   
+
+ScalaCheck Integration ScalaCheckBinding Type Class Instances for scalacheck.Gen and scalacheck.Arbitrary ScalazArbitrary Arbitrary Instances for Scalaz data structures. 
+
+Obtaining Scalaz through SBT or MavenWe periodically publish snapshots to the Scala Tools repository. 
+
+
+
+Group  Artifact  Version  Description   com.googlecode.scalaz  scalaz-core_2.8.0.Beta1  5.0-SNAPSHOT  Core API, no dependencies.   com.googlecode.scalaz  scalaz-http_2.8.0.Beta1  5.0-SNAPSHOT  HTTP, aka Slinky. Depends on Servlet API 2.5   com.googlecode.scalaz  scalaz-scalacheck-binding_2.8.0.Beta1  5.0-SNAPSHOT  Bindings for ScalaCheck, including Arbitrary instances for Scalaz data structures. Depends on ScalaCheck   com.googlecode.scalaz  scalaz-example_2.8.0.Beta1  5.0-SNAPSHOT  Usage examples</description>
+      <homepage_url>http://code.google.com/p/scalaz</homepage_url>
+      <download_url></download_url>
+      <url_name>scalaz</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409047</analysis_id>
+      <tags>
+        <tag>monad</tag>
+        <tag>testing</tag>
+        <tag>functor</tag>
+        <tag>automated</tag>
+        <tag>scala</tag>
+      </tags>
+      <analysis>
+        <id>14409047</id>
+        <url>http://www.ohloh.net/analyses/14409047.xml</url>
+        <project_id>108770</project_id>
+        <updated_at>2013-07-07T04:29:00Z</updated_at>
+        <logged_at>2013-07-07T04:28:59Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>14574</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/scalaz/analyses/14409047/languages.png">
+          <language color="EEE" percentage="95" id="55">
+Scala          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>55</main_language_id>
+        <main_language_name>Scala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>320347</id>
+      <name>FBReaderJ</name>
+      <url>http://www.ohloh.net/p/fbreaderj.xml</url>
+      <html_url>http://www.ohloh.net/p/fbreaderj</html_url>
+      <created_at>2009-03-19T10:44:42Z</created_at>
+      <updated_at>2013-07-10T09:29:40Z</updated_at>
+      <description>FBReaderJ is an e-book reader for the Android platform. It is a clone of the FBReader book reader written in Java.
+
+FBReaderJ supports several e-book formats: oeb, epub, fb2. In future releases the list will be extended to support the same formats as the original FBReader. Direct reading from zip, tar and gzip archives is supported.</description>
+      <homepage_url>http://www.fbreader.org/FBReaderJ/</homepage_url>
+      <download_url>http://www.fbreader.org/downloads.php</download_url>
+      <url_name>fbreaderj</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44035/fbreader_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44035/fbreader_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580473</analysis_id>
+      <tags>
+        <tag>fb2</tag>
+        <tag>e-book</tag>
+        <tag>ebook</tag>
+        <tag>epub</tag>
+        <tag>e-books</tag>
+        <tag>fictionbook</tag>
+        <tag>ebooks</tag>
+        <tag>reader</tag>
+        <tag>fictionbook2</tag>
+        <tag>android</tag>
+        <tag>oeb</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14580473</id>
+        <url>http://www.ohloh.net/analyses/14580473.xml</url>
+        <project_id>320347</project_id>
+        <updated_at>2013-07-10T09:29:40Z</updated_at>
+        <logged_at>2013-07-10T09:28:38Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>350904</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fbreaderj/analyses/14580473/languages.png">
+          <language color="555555" percentage="52" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="16" id="5">
+Java          </language>
+          <language color="EEE" percentage="14" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="18" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6286</id>
+      <name>RTMPy</name>
+      <url>http://www.ohloh.net/p/rtmpy.xml</url>
+      <html_url>http://www.ohloh.net/p/rtmpy</html_url>
+      <created_at>2007-06-27T13:43:16Z</created_at>
+      <updated_at>2013-07-05T13:24:51Z</updated_at>
+      <description>RTMPy is a Twisted protocol implementing Adobe's Real Time Messaging Protocol, used for full-duplex real-time communication with applications running inside the Flash Player.</description>
+      <homepage_url>http://rtmpy.org</homepage_url>
+      <download_url>http://rtmpy.org/wiki/SourceAccess</download_url>
+      <url_name>rtmpy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17594/rtmpy-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17594/rtmpy-logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14537217</analysis_id>
+      <tags>
+        <tag>flv</tag>
+        <tag>rtmp</tag>
+        <tag>remoting</tag>
+        <tag>flash</tag>
+        <tag>flex</tag>
+        <tag>python</tag>
+        <tag>amf</tag>
+        <tag>streaming</tag>
+        <tag>twisted</tag>
+        <tag>rpc</tag>
+      </tags>
+      <analysis>
+        <id>14537217</id>
+        <url>http://www.ohloh.net/analyses/14537217.xml</url>
+        <project_id>6286</project_id>
+        <updated_at>2013-07-05T13:24:51Z</updated_at>
+        <logged_at>2013-07-05T13:21:33Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8173</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rtmpy/analyses/14537217/languages.png">
+          <language color="4A246B" percentage="90" id="9">
+Python          </language>
+          <language color="EEE" percentage="5" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

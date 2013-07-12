@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26990</id>
+      <name>Debian Perl packages</name>
+      <url>http://www.ohloh.net/p/pkg-perl.xml</url>
+      <html_url>http://www.ohloh.net/p/pkg-perl</html_url>
+      <created_at>2008-11-26T02:03:04Z</created_at>
+      <updated_at>2013-07-07T23:15:34Z</updated_at>
+      <description>Perl packages and related tools for Debian.</description>
+      <homepage_url>http://pkg-perl.alioth.debian.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>pkg-perl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62082/pkg-perl_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62082/pkg-perl_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14564941</analysis_id>
+      <tags>
+        <tag>perl</tag>
+        <tag>packages</tag>
+        <tag>debian</tag>
+      </tags>
+      <analysis>
+        <id>14564941</id>
+        <url>http://www.ohloh.net/analyses/14564941.xml</url>
+        <project_id>26990</project_id>
+        <updated_at>2013-07-07T23:15:34Z</updated_at>
+        <logged_at>2013-07-07T20:21:22Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>41</twelve_month_contributor_count>
+        <total_code_lines>469406</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pkg-perl/analyses/14564941/languages.png">
+          <language color="D2C690" percentage="67" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="16" id="42">
+C          </language>
+          <language color="F35F1F" percentage="8" id="44">
+C++          </language>
+          <language color="000000" percentage="9" id="">
+19 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

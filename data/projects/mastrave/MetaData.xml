@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310021</id>
+      <name>Mastrave</name>
+      <url>http://www.ohloh.net/p/mastrave.xml</url>
+      <html_url>http://www.ohloh.net/p/mastrave</html_url>
+      <created_at>2009-02-07T03:56:00Z</created_at>
+      <updated_at>2013-06-10T03:13:38Z</updated_at>
+      <description>Mastrave is a free software library written to perform vectorized scientific computing and to be as compatible as possible with both GNU Octave and Matlab computing frameworks, offering general purpose, portable and freely available features for the scientific community. Mastrave is mostly oriented to ease complex modelling tasks such as those typically needed within environmental models, even when involving irregular and heterogeneous data series.
+
+.
+
+Semantic array programming
+
+The Mastrave project attempts to allow a more effective, quick interoperability between GNU Octave and Matlab users by using a reasonably well documented wrap around the main incompatibilities between those computing environments and by promoting a reasonably general idiom based on their common, stable syntagms. It also promotes the systematic adoption of data-transformation abstractions and lightweight semantic constraints to enable concise and reliable implementations of models following the paradigm of semantic array programming.
+
+There are a couple of underlying ideas: library design is language design and vice versa (Bell labs); language notation is definitely a &quot;tool of thought&quot; (Iverson), in the sense that there is a feedback between programming/mathematical notation and the ability to think new scientific insights. And perhaps ethic ones.
+
+.
+
+Science and society
+
+Mastrave is free software, which is software respecting your freedom. As many other free scientific software packages, it is offered to the scientific community to also promote the development of a free society more concerned about cooperation rather than competitiveness, heading toward knowledge and culture freedom.
+
+Such a vision implies the possibility for motivated individuals to freely access, review and contribute even to the cutting-edge academic culture. This possibility relies on the development of tools and methodologies helping to overcome economic, organizational and institutional barriers (i.e. knowledge oligopolies) while systematically promoting reproducible research. This is a long-term goal to which the free software paradigm can and has been able to actively cooperate.
+
+Copyright (C) 2005, 2006, 2007, 2008, 2009, 2010, 2011 Daniele de Rigo
+
+Verbatim copying and distribution of this entire article is permitted in any medium without royalty provided this notice is preserved.</description>
+      <homepage_url>http://www.mastrave.org</homepage_url>
+      <download_url>http://www.mastrave.org/download.html</download_url>
+      <url_name>mastrave</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35196/mastrave_icon_shadow_64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35196/mastrave_icon_shadow_64px_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14215377</analysis_id>
+      <tags>
+        <tag>statistics</tag>
+        <tag>semantics</tag>
+        <tag>research</tag>
+        <tag>tools</tag>
+        <tag>modeling</tag>
+        <tag>timeseries</tag>
+        <tag>numerical</tag>
+        <tag>data</tag>
+        <tag>library</tag>
+        <tag>octave</tag>
+        <tag>engineering</tag>
+        <tag>mathematics</tag>
+        <tag>programming</tag>
+        <tag>array</tag>
+        <tag>matlab</tag>
+        <tag>machine_learning</tag>
+        <tag>science</tag>
+        <tag>coding</tag>
+        <tag>array_oriented_programming</tag>
+        <tag>semantic_array_programming</tag>
+      </tags>
+      <analysis>
+        <id>14215377</id>
+        <url>http://www.ohloh.net/analyses/14215377.xml</url>
+        <project_id>310021</project_id>
+        <updated_at>2013-07-07T13:25:58Z</updated_at>
+        <logged_at>2013-07-07T13:25:27Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>25552</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mastrave/analyses/14215377/languages.png">
+          <language color="A46400" percentage="43" id="23">
+Matlab          </language>
+          <language color="EEE" percentage="21" id="51">
+Autoconf          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="24" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>23</main_language_id>
+        <main_language_name>Matlab</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

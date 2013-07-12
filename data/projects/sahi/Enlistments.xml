@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>39640</id>
+      <project_id>28161</project_id>
+      <repository_id>38363</repository_id>
+      <repository>
+        <id>38363</id>
+        <type>SvnSyncRepository</type>
+        <url>https://sahi.svn.sourceforge.net/svnroot/sahi/branches/sahi_rhino_1</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T03:48:06Z</logged_at>
+        <commits>273</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>39922</id>
+      <project_id>28161</project_id>
+      <repository_id>38644</repository_id>
+      <repository>
+        <id>38644</id>
+        <type>SvnSyncRepository</type>
+        <url>https://sahi.svn.sourceforge.net/svnroot/sahi/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T03:46:11Z</logged_at>
+        <commits>862</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

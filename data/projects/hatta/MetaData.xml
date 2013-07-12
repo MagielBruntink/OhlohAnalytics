@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26908</id>
+      <name>Hatta Wiki</name>
+      <url>http://www.ohloh.net/p/hatta.xml</url>
+      <html_url>http://www.ohloh.net/p/hatta</html_url>
+      <created_at>2008-11-22T14:54:48Z</created_at>
+      <updated_at>2013-07-11T19:17:01Z</updated_at>
+      <description>Hatta is a small wiki engine for use inside a Mercurial repository. It can run locally and doesn't require any configuration; it's just a single Python file. It can be also configured to run on a Web server. Since the wiki can be cloned and merged along with the repository, it's perfect for working on project documentation in small teams.</description>
+      <homepage_url>http://hatta-wiki.org</homepage_url>
+      <download_url>http://hatta-wiki.org/Download</download_url>
+      <url_name>hatta</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10875/hatta_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10875/hatta_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14523335</analysis_id>
+      <tags>
+        <tag>mercurial</tag>
+        <tag>hg</tag>
+        <tag>dynamic_content</tag>
+        <tag>webapp</tag>
+        <tag>fastcgi</tag>
+        <tag>wsgi</tag>
+        <tag>werkzeug</tag>
+        <tag>search</tag>
+        <tag>python</tag>
+        <tag>rss</tag>
+        <tag>wikiwiki</tag>
+        <tag>web</tag>
+        <tag>wiki</tag>
+        <tag>document_management</tag>
+        <tag>pygments</tag>
+        <tag>collaboration</tag>
+        <tag>wikiengine</tag>
+        <tag>localhost</tag>
+        <tag>documentation</tag>
+      </tags>
+      <analysis>
+        <id>14523335</id>
+        <url>http://www.ohloh.net/analyses/14523335.xml</url>
+        <project_id>26908</project_id>
+        <updated_at>2013-07-04T06:52:46Z</updated_at>
+        <logged_at>2013-07-04T06:46:19Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4345</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hatta/analyses/14523335/languages.png">
+          <language color="4A246B" percentage="79" id="9">
+Python          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

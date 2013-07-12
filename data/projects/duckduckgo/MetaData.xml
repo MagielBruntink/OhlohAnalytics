@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605009</id>
+      <name>DuckDuckGo</name>
+      <url>http://www.ohloh.net/p/duckduckgo.xml</url>
+      <html_url>http://www.ohloh.net/p/duckduckgo</html_url>
+      <created_at>2012-09-03T14:59:19Z</created_at>
+      <updated_at>2013-07-08T05:13:53Z</updated_at>
+      <description>DuckDuckGo is an Internet search engine. It uses information from crowd-sourced sites (such as Wikipedia) to augment traditional results and improve relevance. The search engine policy emphasizes privacy and does not record user information.</description>
+      <homepage_url>http://duckduckhack.com/</homepage_url>
+      <download_url></download_url>
+      <url_name>duckduckgo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56531/ddg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56531/ddg_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567268</analysis_id>
+      <tags>
+        <tag>motor</tag>
+        <tag>search</tag>
+        <tag>engine</tag>
+        <tag>search_engine</tag>
+      </tags>
+      <analysis>
+        <id>14567268</id>
+        <url>http://www.ohloh.net/analyses/14567268.xml</url>
+        <project_id>605009</project_id>
+        <updated_at>2013-07-08T05:13:53Z</updated_at>
+        <logged_at>2013-07-07T21:39:26Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>72</twelve_month_contributor_count>
+        <total_code_lines>31426</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/duckduckgo/analyses/14567268/languages.png">
+          <language color="D2C690" percentage="69" id="8">
+Perl          </language>
+          <language color="A4007E" percentage="13" id="6">
+JavaScript          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

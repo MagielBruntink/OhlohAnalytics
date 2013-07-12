@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>535290</id>
+      <project_id>431044</project_id>
+      <repository_id>537607</repository_id>
+      <repository>
+        <id>537607</id>
+        <type>GitRepository</type>
+        <url>git://repo.or.cz/netsniff-ng-new.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-05T13:30:09Z</logged_at>
+        <commits>360</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>526602</id>
+      <project_id>431044</project_id>
+      <repository_id>529104</repository_id>
+      <repository>
+        <id>529104</id>
+        <type>GitRepository</type>
+        <url>git://repo.or.cz/netsniff-ng-old.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-05T13:30:48Z</logged_at>
+        <commits>2867</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

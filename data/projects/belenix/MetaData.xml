@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8075</id>
+      <name>BeleniX</name>
+      <url>http://www.ohloh.net/p/belenix.xml</url>
+      <html_url>http://www.ohloh.net/p/belenix</html_url>
+      <created_at>2007-08-30T18:30:41Z</created_at>
+      <updated_at>2013-07-03T09:48:20Z</updated_at>
+      <description>BeleniX is an OpenSolaris Distribution with a Live CD (runs directly off the CD). It includes all the features of OpenSolaris and adds a whole variety of open source packages. It can be installed to harddisk as well. BeleniX is free to use, modify and distribute.
+
+The BeleniX LiveCD allows you to test drive OpenSolaris in less than 2 minutes. BeleniX can also be installed to USB thumb drive allowing you to carry your operating environment, applications and data in your pocket. The LiveUSB boots even faster than the CD !</description>
+      <homepage_url>http://belenix.org</homepage_url>
+      <download_url>http://www.genunix.org/distributions/belenix_site/binfiles/ramdata/belenix0.6.1.iso</download_url>
+      <url_name>belenix</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14513792</analysis_id>
+      <tags>
+        <tag>opensolaris</tag>
+        <tag>livecd</tag>
+      </tags>
+      <analysis>
+        <id>14513792</id>
+        <url>http://www.ohloh.net/analyses/14513792.xml</url>
+        <project_id>8075</project_id>
+        <updated_at>2013-07-03T09:48:20Z</updated_at>
+        <logged_at>2013-07-03T09:44:01Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>215051</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/belenix/analyses/14513792/languages.png">
+          <language color="FF8F00" percentage="57" id="42">
+C          </language>
+          <language color="777777" percentage="34" id="11">
+shell script          </language>
+          <language color="000000" percentage="9" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>common_development_and_distribution</name>
+          <nice_name>Common Development and Distribution License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12321</id>
+      <name>InterLDAP</name>
+      <url>http://www.ohloh.net/p/interldap.xml</url>
+      <html_url>http://www.ohloh.net/p/interldap</html_url>
+      <created_at>2008-02-27T08:45:58Z</created_at>
+      <updated_at>2013-06-06T15:59:21Z</updated_at>
+      <description>InterLDAP is a collection of modules designed around directories.
+
+These include InterLDAP-WUI (Web User Interface) featuring generic self generated display, an enhanced LDAP schema, very modular code, advanced access rights.
+
+IMPORTANT NOTE : this project has been discontinued and has been rebranded LinID Directory Manager</description>
+      <homepage_url>http://interldap.ow2.org/</homepage_url>
+      <download_url>http://forge.ow2.org/project/showfiles.php?group_id=162</download_url>
+      <url_name>interldap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1041/logo_interldap_square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1041/logo_interldap_square_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14180854</analysis_id>
+      <tags>
+        <tag>tapestry</tag>
+        <tag>java</tag>
+        <tag>spring</tag>
+        <tag>interldap</tag>
+        <tag>ldap</tag>
+        <tag>maven</tag>
+      </tags>
+      <analysis>
+        <id>14180854</id>
+        <url>http://www.ohloh.net/analyses/14180854.xml</url>
+        <project_id>12321</project_id>
+        <updated_at>2013-07-06T04:54:33Z</updated_at>
+        <logged_at>2013-07-05T23:55:07Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>61840</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/interldap/analyses/14180854/languages.png">
+          <language color="9A63AD" percentage="49" id="5">
+Java          </language>
+          <language color="555555" percentage="47" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3</name>
+          <nice_name>GNU Affero General Public License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

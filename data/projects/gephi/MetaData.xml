@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>320580</id>
+      <name>Gephi</name>
+      <url>http://www.ohloh.net/p/gephi.xml</url>
+      <html_url>http://www.ohloh.net/p/gephi</html_url>
+      <created_at>2009-03-25T14:10:06Z</created_at>
+      <updated_at>2013-07-01T08:57:23Z</updated_at>
+      <description>Gephi is an interactive visualization and exploration platform for all kinds of networks and complex systems, dynamic and hierarchical graphs.
+
+It uses a 3D render engine to display large networks in real-time and to speed up the exploration. A flexible and multi-task architecture brings new possibilities to work with complex data sets and produce valuable visual results.</description>
+      <homepage_url>http://gephi.org/</homepage_url>
+      <download_url>http://gephi.org/download</download_url>
+      <url_name>gephi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16787/logo_about_2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16787/logo_about_2_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14496842</analysis_id>
+      <tags>
+        <tag>visualisation</tag>
+        <tag>complexnetwork</tag>
+        <tag>graphviz</tag>
+        <tag>rendering</tag>
+        <tag>opengl</tag>
+        <tag>3d</tag>
+      </tags>
+      <analysis>
+        <id>14496842</id>
+        <url>http://www.ohloh.net/analyses/14496842.xml</url>
+        <project_id>320580</project_id>
+        <updated_at>2013-07-01T08:57:22Z</updated_at>
+        <logged_at>2013-07-01T08:56:02Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>163346</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gephi/analyses/14496842/languages.png">
+          <language color="9A63AD" percentage="73" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

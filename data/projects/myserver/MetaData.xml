@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3365</id>
+      <name>GNU MyServer</name>
+      <url>http://www.ohloh.net/p/myserver.xml</url>
+      <html_url>http://www.ohloh.net/p/myserver</html_url>
+      <created_at>2006-10-25T18:50:00Z</created_at>
+      <updated_at>2013-07-11T18:07:24Z</updated_at>
+      <description>MyServer is a powerful and easy to configure web server. Its multi-threaded architecture makes it extremely scalable and usable in large scale sites as well as in small networks, it has a lot of built-in features. Share your files in minutes!</description>
+      <homepage_url>http://www.gnu.org/software/myserver</homepage_url>
+      <download_url>http://ftp.gnu.org/gnu/myserver/</download_url>
+      <url_name>myserver</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3222/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3222/logo_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14289304</analysis_id>
+      <tags>
+        <tag>httpd</tag>
+        <tag>myserver</tag>
+        <tag>www</tag>
+        <tag>http</tag>
+        <tag>http_server</tag>
+        <tag>ftp</tag>
+        <tag>server</tag>
+        <tag>web</tag>
+        <tag>webserver</tag>
+        <tag>multithreaded</tag>
+      </tags>
+      <analysis>
+        <id>14289304</id>
+        <url>http://www.ohloh.net/analyses/14289304.xml</url>
+        <project_id>3365</project_id>
+        <updated_at>2013-07-06T21:03:59Z</updated_at>
+        <logged_at>2013-07-06T21:03:57Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>71846</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/myserver/analyses/14289304/languages.png">
+          <language color="F35F1F" percentage="70" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="12" id="42">
+C          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="000000" percentage="8" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

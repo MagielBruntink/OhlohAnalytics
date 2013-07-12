@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>476572</id>
+      <name>Scapy</name>
+      <url>http://www.ohloh.net/p/scapy.xml</url>
+      <html_url>http://www.ohloh.net/p/scapy</html_url>
+      <created_at>2009-11-16T09:57:21Z</created_at>
+      <updated_at>2013-06-10T17:15:49Z</updated_at>
+      <description>Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc.</description>
+      <homepage_url>http://www.secdev.org/projects/scapy/</homepage_url>
+      <download_url>http://www.secdev.org/projects/scapy/</download_url>
+      <url_name>scapy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14220715</analysis_id>
+      <tags>
+        <tag>network</tag>
+        <tag>security</tag>
+        <tag>tools</tag>
+        <tag>networksecurity</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14220715</id>
+        <url>http://www.ohloh.net/analyses/14220715.xml</url>
+        <project_id>476572</project_id>
+        <updated_at>2013-07-04T21:15:07Z</updated_at>
+        <logged_at>2013-07-04T21:15:00Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>35666</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/scapy/analyses/14220715/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

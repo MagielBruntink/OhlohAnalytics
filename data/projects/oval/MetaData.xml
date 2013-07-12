@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8142</id>
+      <name>OVal - Object Validation for Java 5</name>
+      <url>http://www.ohloh.net/p/oval.xml</url>
+      <html_url>http://www.ohloh.net/p/oval</html_url>
+      <created_at>2007-09-02T19:22:05Z</created_at>
+      <updated_at>2013-07-10T21:53:55Z</updated_at>
+      <description>OVal is a pragmatic and extensible validation framework for any kind of Java objects (not only JavaBeans).
+
+Constraints can be declared with annotations (@NotNull, @MaxLength), POJOs or XML.
+
+Custom constraints can be expressed as custom Java classes or by using scripting languages such as JavaScript, Groovy, BeanShell, OGNL or MVEL.
+
+Besides field/property validation OVal implements Programming by Contract features by utilizing AspectJ based aspects. This for example allows runtime validation of method arguments.</description>
+      <homepage_url>http://oval.sf.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=145963</download_url>
+      <url_name>oval</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8093/oval-square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8093/oval-square_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14582944</analysis_id>
+      <tags>
+        <tag>validator</tag>
+        <tag>framework</tag>
+        <tag>object_oriented</tag>
+        <tag>extensible</tag>
+        <tag>dbc</tag>
+        <tag>pojo</tag>
+        <tag>lightweight</tag>
+        <tag>programming</tag>
+        <tag>aspectj</tag>
+        <tag>development</tag>
+        <tag>design-by-contract</tag>
+        <tag>fast</tag>
+        <tag>programming-by-contract</tag>
+        <tag>validation</tag>
+        <tag>annotation</tag>
+        <tag>simple</tag>
+        <tag>aspect-oriented</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14582944</id>
+        <url>http://www.ohloh.net/analyses/14582944.xml</url>
+        <project_id>8142</project_id>
+        <updated_at>2013-07-10T21:53:55Z</updated_at>
+        <logged_at>2013-07-10T09:05:58Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>133328</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/oval/analyses/14582944/languages.png">
+          <language color="555555" percentage="56" id="3">
+XML          </language>
+          <language color="556655" percentage="22" id="36">
+XSL Transformation          </language>
+          <language color="9A63AD" percentage="17" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

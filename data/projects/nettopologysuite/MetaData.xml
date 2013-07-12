@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5474</id>
+      <name>NetTopologySuite</name>
+      <url>http://www.ohloh.net/p/nettopologysuite.xml</url>
+      <html_url>http://www.ohloh.net/p/nettopologysuite</html_url>
+      <created_at>2007-05-20T02:55:24Z</created_at>
+      <updated_at>2013-07-06T13:04:38Z</updated_at>
+      <description>NetTopologySuite is a C#/.NET port of JTS Topology Suite, a Java library for GIS operations, (OpenGIS compliant).
+The main goal of this project is to have a .NET GIS solution that is fast and reliable for any kind of .NET platform, PocketPC and SQL Server 2005 (through CLR integration) included.</description>
+      <homepage_url>http://code.google.com/p/nettopologysuite/</homepage_url>
+      <download_url>http://code.google.com/p/nettopologysuite/downloads/list</download_url>
+      <url_name>nettopologysuite</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550313</analysis_id>
+      <tags>
+        <tag>topology</tag>
+        <tag>jts</tag>
+        <tag>geometry</tag>
+        <tag>ogc</tag>
+        <tag>csharp</tag>
+        <tag>opengis</tag>
+        <tag>dotnet</tag>
+        <tag>nts</tag>
+        <tag>c#</tag>
+        <tag>spatial</tag>
+        <tag>math</tag>
+        <tag>gis</tag>
+      </tags>
+      <analysis>
+        <id>14550313</id>
+        <url>http://www.ohloh.net/analyses/14550313.xml</url>
+        <project_id>5474</project_id>
+        <updated_at>2013-07-06T13:04:37Z</updated_at>
+        <logged_at>2013-07-06T12:56:11Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>187002</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nettopologysuite/analyses/14550313/languages.png">
+          <language color="4096EE" percentage="57" id="17">
+C#          </language>
+          <language color="555555" percentage="43" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

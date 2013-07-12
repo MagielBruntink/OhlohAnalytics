@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>319017</id>
+      <name>OSMtracker</name>
+      <url>http://www.ohloh.net/p/osmtracker.xml</url>
+      <html_url>http://www.ohloh.net/p/osmtracker</html_url>
+      <created_at>2009-03-14T18:31:33Z</created_at>
+      <updated_at>2013-03-02T23:59:09Z</updated_at>
+      <description>OSMtracker is an application for the Windows Mobile PDA/PocketPC and SmartPhones.
+
+The main features are track logging (gpx) and quick (voice) waypoint annotations when driving a car or on a bicycle. It also has a smooth scrolling map with heading indicator.</description>
+      <homepage_url>http://wiki.openstreetmap.org/wiki/OSMtracker</homepage_url>
+      <download_url>http://wiki.openstreetmap.org/wiki/OSMtracker#Download</download_url>
+      <url_name>osmtracker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15757/OSMtracker_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15757/OSMtracker_logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12863230</analysis_id>
+      <tags>
+        <tag>maps</tag>
+        <tag>osm</tag>
+        <tag>map</tag>
+        <tag>windowsmobile</tag>
+        <tag>gps</tag>
+        <tag>mobile</tag>
+        <tag>windows_mobile</tag>
+        <tag>openstreetmap</tag>
+        <tag>gpx</tag>
+        <tag>gpstracking</tag>
+        <tag>mapping</tag>
+      </tags>
+      <analysis>
+        <id>12863230</id>
+        <url>http://www.ohloh.net/analyses/12863230.xml</url>
+        <project_id>319017</project_id>
+        <updated_at>2013-03-25T02:58:19Z</updated_at>
+        <logged_at>2013-03-25T02:58:08Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17474</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/osmtracker/analyses/12863230/languages.png">
+          <language color="2C5DC7" percentage="83" id="15">
+Visual Basic          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>15</main_language_id>
+        <main_language_name>Visual Basic</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

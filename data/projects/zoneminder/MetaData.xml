@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11980</id>
+      <name>ZoneMinder</name>
+      <url>http://www.ohloh.net/p/zoneminder.xml</url>
+      <html_url>http://www.ohloh.net/p/zoneminder</html_url>
+      <created_at>2008-02-21T09:57:35Z</created_at>
+      <updated_at>2013-07-07T16:49:04Z</updated_at>
+      <description>ZoneMinder is a suite of integrated applications intended for use in video camera security applications, including home cctv, theft prevention and child or family member monitoring.
+It supports capture, analysis, recording, and monitoring of video data coming from one or more video or network cameras attached to a Linux system. It also features a user-friendly Web interface which allows viewing, archival, review, and deletion of images and movies captured by the cameras.
+The image analysis system is highly configurable, permitting retention of specific events, while eliminating false positives. ZoneMinder supports both directly connected and network cameras.</description>
+      <homepage_url>http://www.zoneminder.com</homepage_url>
+      <download_url>http://www.zoneminder.com/downloads.html</download_url>
+      <url_name>zoneminder</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44848/ZoneMinderT_bigger.gif_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44848/ZoneMinderT_bigger.gif_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14562965</analysis_id>
+      <tags>
+        <tag>videosecurity</tag>
+        <tag>recording</tag>
+        <tag>webcam</tag>
+        <tag>surveillance</tag>
+        <tag>camera</tag>
+        <tag>motion</tag>
+        <tag>cctv</tag>
+        <tag>streaming</tag>
+        <tag>video</tag>
+        <tag>security</tag>
+        <tag>monitoring</tag>
+        <tag>cam</tag>
+        <tag>movement</tag>
+        <tag>motiondetection</tag>
+        <tag>videosurveillance</tag>
+      </tags>
+      <analysis>
+        <id>14562965</id>
+        <url>http://www.ohloh.net/analyses/14562965.xml</url>
+        <project_id>11980</project_id>
+        <updated_at>2013-07-07T16:49:04Z</updated_at>
+        <logged_at>2013-07-07T16:48:20Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>115221</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zoneminder/analyses/14562965/languages.png">
+          <language color="356AA0" percentage="24" id="2">
+PHP          </language>
+          <language color="F35F1F" percentage="18" id="44">
+C++          </language>
+          <language color="EEE" percentage="14" id="52">
+Make          </language>
+          <language color="000000" percentage="44" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

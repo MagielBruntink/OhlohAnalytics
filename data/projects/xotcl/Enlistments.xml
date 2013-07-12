@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>462919</id>
+      <project_id>9136</project_id>
+      <repository_id>459856</repository_id>
+      <repository>
+        <id>459856</id>
+        <type>GitRepository</type>
+        <url>git://alice.wu-wien.ac.at/nsf</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T03:49:22Z</logged_at>
+        <commits>2233</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>462920</id>
+      <project_id>9136</project_id>
+      <repository_id>459857</repository_id>
+      <repository>
+        <id>459857</id>
+        <type>GitRepository</type>
+        <url>git://alice.wu-wien.ac.at/nsf</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T03:47:36Z</logged_at>
+        <commits>267</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

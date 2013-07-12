@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6754</id>
+      <name>CSPoker+</name>
+      <url>http://www.ohloh.net/p/cspoker.xml</url>
+      <html_url>http://www.ohloh.net/p/cspoker</html_url>
+      <created_at>2007-07-21T17:00:41Z</created_at>
+      <updated_at>2013-06-11T03:14:39Z</updated_at>
+      <description>The goal of the CSPoker project is to develop Poker software and experiment with Artificial Intelligence for Poker.
+
+A Texas Hold'Em server written in Java and client software in JavaFX have already been developed. In the long run it should be possible to train A.I. bots by playing against human players.</description>
+      <homepage_url>http://code.google.com/p/cspoker/</homepage_url>
+      <download_url>http://code.google.com/p/cspoker/downloads/list</download_url>
+      <url_name>cspoker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1216/cspoker64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1216/cspoker64x64_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14224526</analysis_id>
+      <tags>
+        <tag>javafx</tag>
+        <tag>server</tag>
+        <tag>poker</tag>
+        <tag>flash</tag>
+        <tag>jaxb</tag>
+        <tag>rest</tag>
+        <tag>ai</tag>
+        <tag>client</tag>
+        <tag>java</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>14224526</id>
+        <url>http://www.ohloh.net/analyses/14224526.xml</url>
+        <project_id>6754</project_id>
+        <updated_at>2013-07-05T20:47:37Z</updated_at>
+        <logged_at>2013-07-05T20:47:34Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>145230</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cspoker/analyses/14224526/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

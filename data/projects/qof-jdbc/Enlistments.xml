@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>60943</id>
+      <project_id>41281</project_id>
+      <repository_id>59465</repository_id>
+      <repository>
+        <id>59465</id>
+        <type>SvnSyncRepository</type>
+        <url>https://qof-jdbc.svn.sourceforge.net/svnroot/qof-jdbc/trunk/qof</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-01T09:57:32Z</logged_at>
+        <commits>135</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>110232</id>
+      <project_id>41281</project_id>
+      <repository_id>108409</repository_id>
+      <repository>
+        <id>108409</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@qof-jdbc.cvs.sourceforge.net:/cvsroot/qof-jdbc</url>
+        <module_name>qof</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-01T09:59:13Z</logged_at>
+        <commits>72</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

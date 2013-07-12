@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5197</id>
+      <name>bodr</name>
+      <url>http://www.ohloh.net/p/bodr.xml</url>
+      <html_url>http://www.ohloh.net/p/bodr</html_url>
+      <created_at>2007-05-09T11:41:37Z</created_at>
+      <updated_at>2012-02-22T19:09:11Z</updated_at>
+      <description>The Blue Obelisk Data Repository lists many important chemoinformatics data such as elemental properties, atomic radii, etc. including references to original literature. Software developers can use this repository on online webpages or in chemistry software for free.</description>
+      <homepage_url>http://bodr.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>bodr</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1764659</analysis_id>
+      <analysis>
+        <id>1764659</id>
+        <url>http://www.ohloh.net/analyses/1764659.xml</url>
+        <project_id>5197</project_id>
+        <updated_at>2011-03-11T05:49:08Z</updated_at>
+        <logged_at>2008-11-03T05:47:45Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2007-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>35109</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bodr/analyses/1764659/languages.png">
+          <language color="555555" percentage="65" id="3">
+XML          </language>
+          <language color="556677" percentage="29" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

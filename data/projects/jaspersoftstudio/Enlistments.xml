@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>506372</id>
+      <project_id>484552</project_id>
+      <repository_id>507316</repository_id>
+      <repository>
+        <id>507316</id>
+        <type>SvnRepository</type>
+        <url>http://code.jaspersoft.com/svn/repos/jasperreportseclipseplugin/trunk</url>
+        <username>anonsvn</username>
+        <password>anonsvn</password>
+        <logged_at>2013-07-06T17:05:09Z</logged_at>
+        <commits>675</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>506373</id>
+      <project_id>484552</project_id>
+      <repository_id>507317</repository_id>
+      <repository>
+        <id>507317</id>
+        <type>SvnRepository</type>
+        <url>http://code.jaspersoft.com/svn/repos/jaspersoftstudio/trunk</url>
+        <username>anonsvn</username>
+        <password>anonsvn</password>
+        <logged_at>2013-07-06T17:19:14Z</logged_at>
+        <commits>2962</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

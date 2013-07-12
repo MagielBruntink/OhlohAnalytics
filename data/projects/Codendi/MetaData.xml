@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345799</id>
+      <name>Codendi</name>
+      <url>http://www.ohloh.net/p/Codendi.xml</url>
+      <html_url>http://www.ohloh.net/p/Codendi</html_url>
+      <created_at>2009-06-05T09:42:16Z</created_at>
+      <updated_at>2012-11-19T19:33:20Z</updated_at>
+      <description>Based on open-source standards, Codendi is the collaborative platform for software project management proposed by Xerox. From only one interface, it gathers all the needed tools for software development teams: management and versioning of code, universal trackers (bugs, tasks, requirements&#8230;), document manager, reporting, testing campaign, etc. At the origin, Codendi is a fork from Sourceforge.net. Codendi is based on an LAMP architecture (Linux, Apache, MySQL, PHP) and offers and SOAP Web Services interface.</description>
+      <homepage_url>http://www.codendi.org</homepage_url>
+      <download_url>http://www.codendi.org/</download_url>
+      <url_name>Codendi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19767/codendi_64pix_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19767/codendi_64pix_small.jpg</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3901337</analysis_id>
+      <tags>
+        <tag>test</tag>
+        <tag>open-source</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>instant_messaging</tag>
+        <tag>software_development</tag>
+        <tag>reporting</tag>
+        <tag>web</tag>
+        <tag>forum</tag>
+        <tag>wiki</tag>
+        <tag>bugsmanager</tag>
+        <tag>document_management</tag>
+        <tag>configuration_management</tag>
+        <tag>opensource</tag>
+        <tag>collaborative_development_tools</tag>
+        <tag>customizable</tag>
+        <tag>versioncontrolsystem</tag>
+        <tag>permissions</tag>
+        <tag>platform</tag>
+        <tag>mailing_list</tag>
+        <tag>php</tag>
+        <tag>deliverysystem</tag>
+        <tag>forge</tag>
+        <tag>tracker</tag>
+        <tag>continuous_integration</tag>
+        <tag>project_manager</tag>
+        <tag>tasks</tag>
+        <tag>project-management</tag>
+      </tags>
+      <analysis>
+        <id>3901337</id>
+        <url>http://www.ohloh.net/analyses/3901337.xml</url>
+        <project_id>345799</project_id>
+        <updated_at>2011-09-12T15:14:16Z</updated_at>
+        <logged_at>2011-09-12T15:12:13Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>644995</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Codendi/analyses/3901337/languages.png">
+          <language color="356AA0" percentage="49" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="22" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="19" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

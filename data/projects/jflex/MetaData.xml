@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7022</id>
+      <name>JFlex</name>
+      <url>http://www.ohloh.net/p/jflex.xml</url>
+      <html_url>http://www.ohloh.net/p/jflex</html_url>
+      <created_at>2007-08-01T10:19:48Z</created_at>
+      <updated_at>2013-06-27T05:28:07Z</updated_at>
+      <description>JFlex is a lexical analyzer generator (also known as scanner generator) for Java. It is a fork of JLex, and can read JLex files.
+
+JFlex is a flex-like lexer generator written in Java with emphasis on speed and full Unicode support. It has some not so usual features like negation in regexps and nested input streams.</description>
+      <homepage_url>http://jflex.de/</homepage_url>
+      <download_url>http://sourceforge.net/projects/jflex/</download_url>
+      <url_name>jflex</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14428677</analysis_id>
+      <tags>
+        <tag>parser</tag>
+        <tag>generator</tag>
+        <tag>grammar</tag>
+        <tag>code_generator</tag>
+        <tag>scanner</tag>
+      </tags>
+      <analysis>
+        <id>14428677</id>
+        <url>http://www.ohloh.net/analyses/14428677.xml</url>
+        <project_id>7022</project_id>
+        <updated_at>2013-06-27T05:28:07Z</updated_at>
+        <logged_at>2013-06-27T03:28:11Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>46620</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jflex/analyses/14428677/languages.png">
+          <language color="9A63AD" percentage="82" id="5">
+Java          </language>
+          <language color="000080" percentage="10" id="37">
+TeX/LaTeX          </language>
+          <language color="D2C690" percentage="8" id="8">
+Perl          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50795</id>
+      <name>v8cgi</name>
+      <url>http://www.ohloh.net/p/v8cgi.xml</url>
+      <html_url>http://www.ohloh.net/p/v8cgi</html_url>
+      <created_at>2008-12-16T13:36:07Z</created_at>
+      <updated_at>2013-06-17T07:12:30Z</updated_at>
+      <description>What is v8cgiSmall set of C++ and JS libraries, allowing coder to use JS as a server-side HTTP processing language. Basic functionality includes IO, GD, MySQL, Sockets, Templating,  FastCGI and Apache module. 
+
+If you wish to support this project,  at PayPal! 
+
+News8.2.2010Release 0.8.0 is ready! Some big changes and features made it into this release: Binary/B is available and test/assert modules are now also CommonJS compatible. v8cgi now builds on Mac, features the &quot;global.v8cgi&quot; free variable, supports multiple MySQL queries. A new DOM module was introduced. 
+
+Windows binary is compiled without Context reusing, as this feature is still somewhat problematic. Also, the XDOM (Xerces-based DOM) module is not included in Windows release. Use the JS DOM module instead. 
+
+For a full list of changes, see the Changelog. 
+
+16.11.2009Release 0.7.5 is ready! Many things have changed and more features are available. v8cgi achieves higher level of compatibility with CommonJS Modules/1.1 and Windows users can now use DOM and PostgreSQL modules. For a full list of changes, see the Changelog. 
+
+20.10.2009Release 0.7.0 (anniversary edition) is ready! This release brings many new modules (postgresql, process, dom, gl, sprintf more), better (configurable) error handling, stability fixes and more improvements. Version 0.7.0 also features code from much more contributors than before. 
+
+25.6.2009Release 0.6.0 is ready! Numerous improvements, features and fixes were implemented in this version. New support for SQLite and Context reusing. New unit tests, reworked global.system object, refactored DB libraries and much more. 
+
+15.6.2009Revision 454 renames several scons options. Type scons -h to see a list of them. 
+
+3.6.2009Release 0.5.2 is ready! Complete V8 sources are now included in the src tarball. New features include Securable Modules compliance, testing framework, assert+getopt modules and lots of stability and compatibility-related fixes. 
+
+14.4.2009Starting from revision 391, v8cgi now ships with an assertion module, basic set of unit tests and a tiny testing framework runner. 
+
+8.4.2009Revision 381 is compliant with Securable Modules specification and passes all current tests at http://code.google.com/p/interoperablejs/ :) 
+
+30.3.2009Release 0.5.0 is ready! This version fixes several fatal bugs and adds support for command line arguments. The MySQL module now automatically closes opened connections on exit. UPDATE: 0.5.1 contains a critical bugfix regarding MySQL with Apache module :) 
+
+26.2.2009Release 0.4.0 is ready! Module system has been rewritten to support both include() and require() methods; path handling is better and MySQL module is able to close its database connection. 
+
+6.2.2009Release 0.3.0 is ready! Apache module included, for both Windows and Linux platforms. Also, the build process on MacOS X is now a bit easier :) 
+
+22.1.2009Release 0.2.0 is ready! This one contains many improvements and libraries: sockets, http client, fastcgi and GD. Windows build does not contain FastCGI support. 
+
+6.1.2009Release 0.1.0 is ready!</description>
+      <homepage_url>http://code.google.com/p/v8cgi</homepage_url>
+      <download_url></download_url>
+      <url_name>v8cgi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14288999</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>cplusplus</tag>
+        <tag>javascript</tag>
+        <tag>v8</tag>
+        <tag>c</tag>
+        <tag>cgi</tag>
+        <tag>fastcgi</tag>
+      </tags>
+      <analysis>
+        <id>14288999</id>
+        <url>http://www.ohloh.net/analyses/14288999.xml</url>
+        <project_id>50795</project_id>
+        <updated_at>2013-07-05T03:58:19Z</updated_at>
+        <logged_at>2013-07-05T03:58:17Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>43129</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/v8cgi/analyses/14288999/languages.png">
+          <language color="F35F1F" percentage="68" id="44">
+C++          </language>
+          <language color="A4007E" percentage="23" id="6">
+JavaScript          </language>
+          <language color="FF8F00" percentage="8" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

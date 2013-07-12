@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>70567</id>
+      <name>GPars</name>
+      <url>http://www.ohloh.net/p/gpars.xml</url>
+      <html_url>http://www.ohloh.net/p/gpars</html_url>
+      <created_at>2008-12-19T08:11:35Z</created_at>
+      <updated_at>2013-07-06T18:22:02Z</updated_at>
+      <description>GPars (Groovy Parallel Systems) brings a wide variety of high-level concurrency concepts, such as actors, parallel collections, agents, dataflow concurrency and other to Groovy developers. Leveraging the enormous flexibility of the Groovy programming language and building on proven Java technologies, we aim to make concurrent programming for multi-core hardware intuitive, robust and enjoyable.</description>
+      <homepage_url>http://gpars.codehaus.org</homepage_url>
+      <download_url>http://gpars.codehaus.org/Download</download_url>
+      <url_name>gpars</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37246/gpars-logo_med.PNG</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37246/gpars-logo_small.PNG</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14552969</analysis_id>
+      <tags>
+        <tag>gpars</tag>
+        <tag>codehaus</tag>
+        <tag>griffon</tag>
+        <tag>gparallelizer</tag>
+        <tag>grails</tag>
+        <tag>parallelism</tag>
+        <tag>grails-plugin</tag>
+        <tag>actors</tag>
+        <tag>dataflow</tag>
+        <tag>parallelarrays</tag>
+        <tag>jsr-166y</tag>
+        <tag>executorservice</tag>
+        <tag>multithreading</tag>
+        <tag>groovy</tag>
+        <tag>concurrency</tag>
+        <tag>multi-threading</tag>
+        <tag>agents</tag>
+        <tag>threadpool</tag>
+        <tag>java</tag>
+        <tag>dsl</tag>
+        <tag>safe</tag>
+      </tags>
+      <analysis>
+        <id>14552969</id>
+        <url>http://www.ohloh.net/analyses/14552969.xml</url>
+        <project_id>70567</project_id>
+        <updated_at>2013-07-06T18:22:01Z</updated_at>
+        <logged_at>2013-07-06T18:16:22Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>165807</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gpars/analyses/14552969/languages.png">
+          <language color="C72C2C" percentage="52" id="29">
+Groovy          </language>
+          <language color="9A63AD" percentage="36" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>29</main_language_id>
+        <main_language_name>Groovy</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

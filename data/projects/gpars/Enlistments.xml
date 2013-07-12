@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>215967</id>
+      <project_id>70567</project_id>
+      <repository_id>213979</repository_id>
+      <repository>
+        <id>213979</id>
+        <type>GitRepository</type>
+        <url>git://git.codehaus.org/gpars.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T18:16:22Z</logged_at>
+        <commits>2698</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>488203</id>
+      <project_id>70567</project_id>
+      <repository_id>489469</repository_id>
+      <repository>
+        <id>489469</id>
+        <type>GitRepository</type>
+        <url>git://github.com/GPars/GPars.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T18:16:41Z</logged_at>
+        <commits>2698</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

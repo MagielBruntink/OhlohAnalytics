@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>113319</id>
+      <name>Ecere SDK</name>
+      <url>http://www.ohloh.net/p/ecere.xml</url>
+      <html_url>http://www.ohloh.net/p/ecere</html_url>
+      <created_at>2008-12-28T02:06:35Z</created_at>
+      <updated_at>2013-07-10T06:40:09Z</updated_at>
+      <description>The Ecere SDK is a cross-platform toolkit for building software applications. It currently runs on Windows, Linux, and Mac OS X (through X11). With the Ecere SDK, you can develop applications once and deploy them on all supported platforms alongside a lightweight runtime environment. It introduces eC, an object oriented language derived from and fully compatible with C, compromising neither runtime performance nor ease of use. A built-in 3D engine supporting both Direct3D and OpenGL is fully integrated.</description>
+      <homepage_url>http://www.ecere.com/</homepage_url>
+      <download_url>http://www.ecere.com/</download_url>
+      <url_name>ecere</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12002/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12002/icon_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.8</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14579158</analysis_id>
+      <tags>
+        <tag>ide</tag>
+        <tag>ecere</tag>
+        <tag>gui</tag>
+        <tag>toolkit</tag>
+        <tag>compiler</tag>
+        <tag>3d</tag>
+        <tag>framework</tag>
+        <tag>linux</tag>
+        <tag>cross-platform</tag>
+        <tag>sdk</tag>
+        <tag>language</tag>
+        <tag>graphics</tag>
+        <tag>windows</tag>
+        <tag>ec</tag>
+      </tags>
+      <analysis>
+        <id>14579158</id>
+        <url>http://www.ohloh.net/analyses/14579158.xml</url>
+        <project_id>113319</project_id>
+        <updated_at>2013-07-10T06:40:09Z</updated_at>
+        <logged_at>2013-07-10T06:39:28Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>220944</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ecere/analyses/14579158/languages.png">
+          <language color="EEE" percentage="97" id="91">
+eC          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>91</main_language_id>
+        <main_language_name>eC</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

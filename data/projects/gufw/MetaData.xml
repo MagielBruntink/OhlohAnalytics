@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>70870</id>
+      <name>gufw</name>
+      <url>http://www.ohloh.net/p/gufw.xml</url>
+      <html_url>http://www.ohloh.net/p/gufw</html_url>
+      <created_at>2008-12-19T08:45:04Z</created_at>
+      <updated_at>2013-07-11T18:23:43Z</updated_at>
+      <description>Gufw is an easy, intuitive, way to manage your Linux firewall. It supports common tasks such as allowing or blocking pre-configured, common p2p, or individual ports port(s), and many others! Gufw is powered by ufw , runs on Ubuntu, and anywhere else Python, GTK, and Ufw are available.</description>
+      <homepage_url>http://gufw.tuxfamily.org/</homepage_url>
+      <download_url>http://gufw.tuxfamily.org/latest-ufw-deb.html</download_url>
+      <url_name>gufw</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14273/gufw_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14273/gufw_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13938702</analysis_id>
+      <tags>
+        <tag>ubuntu</tag>
+        <tag>firewall</tag>
+        <tag>firewalls</tag>
+        <tag>firestarter</tag>
+        <tag>ufw</tag>
+      </tags>
+      <analysis>
+        <id>13938702</id>
+        <url>http://www.ohloh.net/analyses/13938702.xml</url>
+        <project_id>70870</project_id>
+        <updated_at>2013-05-17T10:32:34Z</updated_at>
+        <logged_at>2013-05-17T10:32:02Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4111</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gufw/analyses/13938702/languages.png">
+          <language color="555555" percentage="64" id="3">
+XML          </language>
+          <language color="4A246B" percentage="36" id="9">
+Python          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

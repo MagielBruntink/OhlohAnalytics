@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308694</id>
+      <name>libssh</name>
+      <url>http://www.ohloh.net/p/libssh.xml</url>
+      <html_url>http://www.ohloh.net/p/libssh</html_url>
+      <created_at>2009-01-27T14:10:10Z</created_at>
+      <updated_at>2013-07-04T07:18:29Z</updated_at>
+      <description>This project is for programmers needing a working SSH implementation by the mean of a library. The complete control of the client is made by the programmer. With libssh, you can remotely execute programs, transfer files, use a secure and transparent tunnel for your remote programs. With its Secure FTP implementation, you can play with remote files easily, without third-party programs others than libcrypto (from openssl).</description>
+      <homepage_url>http://www.libssh.org/</homepage_url>
+      <download_url>https://red.libssh.org/projects/libssh/files</download_url>
+      <url_name>libssh</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46253/libssh_dots_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46253/libssh_dots_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14523528</analysis_id>
+      <tags>
+        <tag>client</tag>
+        <tag>ssh</tag>
+        <tag>portable</tag>
+        <tag>shell</tag>
+        <tag>secureshell</tag>
+        <tag>ssh2</tag>
+        <tag>protocol</tag>
+        <tag>library</tag>
+        <tag>server</tag>
+        <tag>security</tag>
+        <tag>tunnel</tag>
+        <tag>networking</tag>
+        <tag>sftp</tag>
+      </tags>
+      <analysis>
+        <id>14523528</id>
+        <url>http://www.ohloh.net/analyses/14523528.xml</url>
+        <project_id>308694</project_id>
+        <updated_at>2013-07-04T07:18:29Z</updated_at>
+        <logged_at>2013-07-04T07:17:08Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>36601</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libssh/analyses/14523528/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

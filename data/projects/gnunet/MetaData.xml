@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10246</id>
+      <name>GNUnet</name>
+      <url>http://www.ohloh.net/p/gnunet.xml</url>
+      <html_url>http://www.ohloh.net/p/gnunet</html_url>
+      <created_at>2007-12-13T09:02:46Z</created_at>
+      <updated_at>2013-07-11T20:11:51Z</updated_at>
+      <description>GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services. A first service implemented on top of the networking layer allows anonymous censorship-resistant file-sharing. GNUnet uses a simple, excess-based economic model to allocate resources. Peers in GNUnet monitor each others behavior with respect to resource usage; peers that contribute to the network are rewarded with better service.</description>
+      <homepage_url>https://gnunet.org/</homepage_url>
+      <download_url>https://gnunet.org/download</download_url>
+      <url_name>gnunet</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38565/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38565/logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.25</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14593873</analysis_id>
+      <tags>
+        <tag>anonymous</tag>
+        <tag>file_sharing</tag>
+        <tag>distributed</tag>
+        <tag>crypto</tag>
+        <tag>cryptography</tag>
+        <tag>anonymity</tag>
+        <tag>security</tag>
+        <tag>gnu</tag>
+        <tag>encryption</tag>
+        <tag>anonymizer</tag>
+        <tag>networking</tag>
+        <tag>sharing</tag>
+        <tag>p2p</tag>
+        <tag>privacy</tag>
+        <tag>censorship</tag>
+      </tags>
+      <analysis>
+        <id>14593873</id>
+        <url>http://www.ohloh.net/analyses/14593873.xml</url>
+        <project_id>10246</project_id>
+        <updated_at>2013-07-11T20:11:50Z</updated_at>
+        <logged_at>2013-07-11T19:29:07Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>346955</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnunet/analyses/14593873/languages.png">
+          <language color="FF8F00" percentage="73" id="42">
+C          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="13" id="">
+20 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>34402</id>
+      <name>Vote Up/Down</name>
+      <url>http://www.ohloh.net/p/vote_up_down.xml</url>
+      <html_url>http://www.ohloh.net/p/vote_up_down</html_url>
+      <created_at>2008-12-07T08:27:24Z</created_at>
+      <updated_at>2013-06-15T08:07:31Z</updated_at>
+      <description>This module, at its simplest, adds a vote up/down widget to any content type or comments. This gives the users a chance to choose and vote on that content. Its like having Digg or Reddit for your site! The widget uses Ajax but degrades gracefully on any browser that won't support it.</description>
+      <homepage_url>http://drupal.org/project/vote_up_down</homepage_url>
+      <download_url>http://drupal.org/project/vote_up_down</download_url>
+      <url_name>vote_up_down</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6221/drupal_library_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6221/drupal_library_med_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14264369</analysis_id>
+      <tags>
+        <tag>diggcom</tag>
+        <tag>rating</tag>
+        <tag>voting</tag>
+        <tag>php</tag>
+        <tag>css</tag>
+        <tag>drupal</tag>
+        <tag>ajax</tag>
+        <tag>evaluation</tag>
+      </tags>
+      <analysis>
+        <id>14264369</id>
+        <url>http://www.ohloh.net/analyses/14264369.xml</url>
+        <project_id>34402</project_id>
+        <updated_at>2013-07-12T05:50:08Z</updated_at>
+        <logged_at>2013-07-12T05:30:48Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>10188</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vote_up_down/analyses/14264369/languages.png">
+          <language color="356AA0" percentage="82" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="14" id="4">
+CSS          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4156</id>
+      <name>Open Journal Systems</name>
+      <url>http://www.ohloh.net/p/ojs2.xml</url>
+      <html_url>http://www.ohloh.net/p/ojs2</html_url>
+      <created_at>2007-01-25T17:31:31Z</created_at>
+      <updated_at>2013-07-06T20:39:08Z</updated_at>
+      <description>Open Journal Systems (OJS) is a journal management and publishing system that has been developed by the Public Knowledge Project through its federally funded efforts to expand and improve access to research.</description>
+      <homepage_url>http://pkp.sfu.ca/ojs</homepage_url>
+      <download_url>http://pkp.sfu.ca/ojs_download</download_url>
+      <url_name>ojs2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14554514</analysis_id>
+      <tags>
+        <tag>journal</tag>
+        <tag>publishing</tag>
+      </tags>
+      <analysis>
+        <id>14554514</id>
+        <url>http://www.ohloh.net/analyses/14554514.xml</url>
+        <project_id>4156</project_id>
+        <updated_at>2013-07-06T20:39:08Z</updated_at>
+        <logged_at>2013-07-06T20:34:50Z</logged_at>
+        <min_month>2004-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>233910</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ojs2/analyses/14554514/languages.png">
+          <language color="555555" percentage="56" id="3">
+XML          </language>
+          <language color="356AA0" percentage="32" id="2">
+PHP          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

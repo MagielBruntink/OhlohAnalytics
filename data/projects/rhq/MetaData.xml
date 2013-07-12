@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13621</id>
+      <name>RHQ Management Platform</name>
+      <url>http://www.ohloh.net/p/rhq.xml</url>
+      <html_url>http://www.ohloh.net/p/rhq</html_url>
+      <created_at>2008-04-29T01:01:43Z</created_at>
+      <updated_at>2013-02-07T22:15:14Z</updated_at>
+      <description>The RHQ project is an abstraction and plug-in based systems management suite that provides extensible and integrated systems management for multiple products and platforms across a set of core features. The project is designed with layered modules that provide a flexible architecture for deployment. It delivers a core user interface that delivers audited and historical management across an entire enterprise. A Server/Agent architecture provides remote management and plugins implement all specific support for managed products.</description>
+      <homepage_url>http://support.rhq-project.org</homepage_url>
+      <download_url>http://support.rhq-project.org/display/RHQ/Download</download_url>
+      <url_name>rhq</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33397/rhq_logo_64_square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33397/rhq_logo_64_square_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12494282</analysis_id>
+      <tags>
+        <tag>sysadmin</tag>
+        <tag>system_administration</tag>
+        <tag>monitoring</tag>
+        <tag>management</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>12494282</id>
+        <url>http://www.ohloh.net/analyses/12494282.xml</url>
+        <project_id>13621</project_id>
+        <updated_at>2013-02-07T22:15:14Z</updated_at>
+        <logged_at>2012-01-06T03:44:09Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>2336194</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rhq/analyses/12494282/languages.png">
+          <language color="9A63AD" percentage="54" id="5">
+Java          </language>
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

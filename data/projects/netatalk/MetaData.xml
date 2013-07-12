@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>520</id>
+      <name>netatalk</name>
+      <url>http://www.ohloh.net/p/netatalk.xml</url>
+      <html_url>http://www.ohloh.net/p/netatalk</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-05T23:40:40Z</updated_at>
+      <description>netatalk is an implementation of the AppleTalk Protocol Suite for Unix systems. It contains support for EtherTalk Phase I and II, AppleShare over IP, DDP, RTMP, NBP, ZIP, AEP, ATP, PAP, ASP, and AFP. It provides Appletalk file, printing, and routing services on Solaris 2.5, Linux, OpenBSD, NetBSD, FreeBSD, SunOS 4.1, Mac OS X, and Ultrix 4.</description>
+      <homepage_url>http://netatalk.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=8642</download_url>
+      <url_name>netatalk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14543903</analysis_id>
+      <tags>
+        <tag>unix</tag>
+        <tag>mac</tag>
+        <tag>networking</tag>
+        <tag>appletalk</tag>
+        <tag>file_transfer</tag>
+        <tag>technology</tag>
+        <tag>samba</tag>
+        <tag>linux</tag>
+        <tag>server</tag>
+        <tag>message_passing</tag>
+        <tag>file_sharing</tag>
+        <tag>printing</tag>
+        <tag>c++</tag>
+        <tag>bsd</tag>
+      </tags>
+      <analysis>
+        <id>14543903</id>
+        <url>http://www.ohloh.net/analyses/14543903.xml</url>
+        <project_id>520</project_id>
+        <updated_at>2013-07-05T23:40:39Z</updated_at>
+        <logged_at>2013-07-05T23:40:02Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>144292</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/netatalk/analyses/14543903/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

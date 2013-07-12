@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>524601</id>
+      <project_id>5310</project_id>
+      <repository_id>527186</repository_id>
+      <repository>
+        <id>527186</id>
+        <type>GitRepository</type>
+        <url>git://git.eclipse.org/gitroot/buckminster/buckminster.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T11:35:20Z</logged_at>
+        <commits>280</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>525965</id>
+      <project_id>5310</project_id>
+      <repository_id>528509</repository_id>
+      <repository>
+        <id>528509</id>
+        <type>GitRepository</type>
+        <url>git://git.eclipse.org/gitroot/buckminster/buckminster.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T11:35:19Z</logged_at>
+        <commits>3848</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

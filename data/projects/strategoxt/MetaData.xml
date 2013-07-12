@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13147</id>
+      <name>Stratego/XT</name>
+      <url>http://www.ohloh.net/p/strategoxt.xml</url>
+      <html_url>http://www.ohloh.net/p/strategoxt</html_url>
+      <created_at>2008-04-03T22:12:28Z</created_at>
+      <updated_at>2013-06-24T07:05:18Z</updated_at>
+      <description>Stratego/XT is a language and toolset for program transformation.
+
+The Stratego language provides rewrite rules for expressing basic transformations, programmable rewriting strategies for controlling the application of rules, concrete syntax for expressing the patterns of rules in the syntax of the object language, and dynamic rewrite rules for expressing context-sensitive transformations, thus supporting the development of transformation components at a high level of abstraction.
+
+The XT toolset offers a collection of flexible, reusable transformation components, as well as declarative languages for deriving new components.  Complete program transformation systems are composed from these components.</description>
+      <homepage_url>http://www.strategoxt.org</homepage_url>
+      <download_url>http://releases.strategoxt.org</download_url>
+      <url_name>strategoxt</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2199/StrategoLogoTextlessWhite-100px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2199/StrategoLogoTextlessWhite-100px_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14375506</analysis_id>
+      <tags>
+        <tag>analysis</tag>
+        <tag>language</tag>
+        <tag>programming</tag>
+        <tag>dsl</tag>
+        <tag>tools</tag>
+        <tag>compiler-compiler</tag>
+        <tag>transformation</tag>
+        <tag>parser</tag>
+      </tags>
+      <analysis>
+        <id>14375506</id>
+        <url>http://www.ohloh.net/analyses/14375506.xml</url>
+        <project_id>13147</project_id>
+        <updated_at>2013-07-12T06:21:05Z</updated_at>
+        <logged_at>2013-07-12T06:20:45Z</logged_at>
+        <min_month>2000-01-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2437987</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/strategoxt/analyses/14375506/languages.png">
+          <language color="FF8F00" percentage="52" id="42">
+C          </language>
+          <language color="EEE" percentage="39" id="63">
+Stratego          </language>
+          <language color="000000" percentage="9" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

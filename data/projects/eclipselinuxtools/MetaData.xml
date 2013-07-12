@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318977</id>
+      <name>Eclipse Linux Tools Project</name>
+      <url>http://www.ohloh.net/p/eclipselinuxtools.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipselinuxtools</html_url>
+      <created_at>2009-03-12T10:17:23Z</created_at>
+      <updated_at>2013-07-10T06:49:11Z</updated_at>
+      <description>The Linux Tools project aims to bring a full-featured C and C++ IDE to Linux developers. We build on the source editing and debugging features of the CDT and integrate popular native development tools such as the GNU Autotools, Valgrind, OProfile, RPM, SystemTap, GCov, GProf, LTTng, etc. Some projects include LTTng trace viewers and analyzers, an RPM .spec editor, Autotools build integration, a Valgrind heap usage analysis tool, and OProfile call profiling tools.
+
+The project also provides a place for Linux distributions to collaboratively overcome issues surrounding distribution packaging of Eclipse technology. The project produces both best practices and tools related to packaging. One of our features is a source archive of the Eclipse SDK that can be used by all Linux distributions.</description>
+      <homepage_url>http://www.eclipse.org/linuxtools/</homepage_url>
+      <download_url>http://www.eclipse.org/linuxtools/downloads.php</download_url>
+      <url_name>eclipselinuxtools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14579276</analysis_id>
+      <tags>
+        <tag>lttng</tag>
+      </tags>
+      <analysis>
+        <id>14579276</id>
+        <url>http://www.ohloh.net/analyses/14579276.xml</url>
+        <project_id>318977</project_id>
+        <updated_at>2013-07-10T06:49:11Z</updated_at>
+        <logged_at>2013-07-10T06:36:39Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>35</twelve_month_contributor_count>
+        <total_code_lines>347070</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipselinuxtools/analyses/14579276/languages.png">
+          <language color="9A63AD" percentage="62" id="5">
+Java          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

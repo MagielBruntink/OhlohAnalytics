@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14244</id>
+      <name>Billing System</name>
+      <url>http://www.ohloh.net/p/billing.xml</url>
+      <html_url>http://www.ohloh.net/p/billing</html_url>
+      <created_at>2008-05-22T17:20:56Z</created_at>
+      <updated_at>2013-01-01T18:12:23Z</updated_at>
+      <description>Billing System aims to be a simple accounting solution for small ISPs. It is designed to be simple and has therefore only a small subset of the functionality of existing larger accounting solutions.
+
+However, if you are simply searching for a program, which tracks the bills of your customers, this might be what you are looking for. It is also not restricted to use by ISPs, as it can track almost any recurring cost.
+
+Custom invoices (which can also be discounts) are also supported, which enables users to also track costs, which do not occur on fixed intervals.
+
+The data format is XML, which can easily be used in other software.</description>
+      <homepage_url></homepage_url>
+      <download_url>http://xp.solidproject.de/apps/BillingSystem/</download_url>
+      <url_name>billing</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4186/BillingSystem_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4186/BillingSystem_logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4517728</analysis_id>
+      <tags>
+        <tag>billing</tag>
+        <tag>c#</tag>
+        <tag>crm</tag>
+        <tag>xml</tag>
+        <tag>dotnet</tag>
+        <tag>windows</tag>
+        <tag>invoicing</tag>
+        <tag>customer_service</tag>
+        <tag>net</tag>
+        <tag>isp</tag>
+        <tag>accounting</tag>
+      </tags>
+      <analysis>
+        <id>4517728</id>
+        <url>http://www.ohloh.net/analyses/4517728.xml</url>
+        <project_id>14244</project_id>
+        <updated_at>2011-10-17T23:36:59Z</updated_at>
+        <logged_at>2011-10-17T23:36:52Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2008-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4713</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/billing/analyses/4517728/languages.png">
+          <language color="4096EE" percentage="82" id="17">
+C#          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="556677" percentage="5" id="35">
+XML Schema          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

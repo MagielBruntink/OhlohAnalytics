@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>48566</id>
+      <name>pugixml</name>
+      <url>http://www.ohloh.net/p/pugixml.xml</url>
+      <html_url>http://www.ohloh.net/p/pugixml</html_url>
+      <created_at>2008-12-16T07:52:42Z</created_at>
+      <updated_at>2013-07-09T19:23:03Z</updated_at>
+      <description>PugiXML is a heavily refactored/reworked version of PugXML (basically, what is left is general idea of in-situ parsing, class naming schemes and parts of inner parsing loop). It is meant to be used for loading XML files where speed is important. 
+
+Current version is 0.5. 
+
+You can: 
+
+Download the latest source package (includes source and documentation) Retrieve the source from Subversion Browse documentation on-line 
+
+News8 November 2009pugixml-0.5 is out. This is a major bugfix release with lots of fixes/improvements (read the changelog for the details); now all code is covered by unit tests (with 99% coverage), so this marks the first stable release. You can get it by checking out from repository or by downloading package with sources and documentation. 
+
+17 September 2009pugixml-0.42 is out. This is a maintenance release that fixes several bugs (XPath parsing for incorrect queries, deallocation for custom memory management functions and other minor bugs) and adds a couple of minor features. You can get it by checking out from repository or by downloading package with sources and documentation. 
+
+8 February 2009pugixml-0.41 is out. This is a maintenance release that fixes a bug with node printing (parts of document were not saved to output stream). You can get it by checking out from repository or by downloading package with sources and documentation. 
+
+26 January 2009pugixml-0.4 is finally out. This release features some bug fixes (including a serious bug in XPath which affects results of document order-dependent queries, and some weird behaviour in node printing) and new functionality (notably, node cloning, document declaration parsing and proper parse error reporting). Be sure to try it out by checking out from repository or by downloading package with sources and documentation. 
+
+31 October 2007pugixml-0.34 is out. This is a maintenance release. It features improved compatibility (more supported compilers and platforms) and some bug fixes. Be sure to try it out by checking out from repository or by downloading package with sources and documentation. 
+
+21 February 2007pugixml-0.3 is finally out. It features refactored interface, XPath, support for tree modification, saving document to file, reworked parsing (it's more reliable/conformant and faster), bug fixes, reworked documentation and more. Be sure to try it out by checking out from repository or by downloading package with sources and documentation.</description>
+      <homepage_url>http://code.google.com/p/pugixml</homepage_url>
+      <download_url></download_url>
+      <url_name>pugixml</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574598</analysis_id>
+      <tags>
+        <tag>parser</tag>
+        <tag>xpath</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>14574598</id>
+        <url>http://www.ohloh.net/analyses/14574598.xml</url>
+        <project_id>48566</project_id>
+        <updated_at>2013-07-09T19:23:02Z</updated_at>
+        <logged_at>2013-07-09T19:07:32Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>29571</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pugixml/analyses/14574598/languages.png">
+          <language color="F35F1F" percentage="60" id="44">
+C++          </language>
+          <language color="47A400" percentage="28" id="1">
+HTML          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

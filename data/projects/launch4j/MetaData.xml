@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26771</id>
+      <name>launch4j</name>
+      <url>http://www.ohloh.net/p/launch4j.xml</url>
+      <html_url>http://www.ohloh.net/p/launch4j</html_url>
+      <created_at>2008-11-15T22:04:52Z</created_at>
+      <updated_at>2013-06-28T02:09:18Z</updated_at>
+      <description>Launch4j is a cross-platform tool for wrapping Java applications distributed as jars in lightweight Windows native executables. The executable can be configured to search for a certain JRE version or use a bundled one, and it's possible to set runtime options, like the initial/max heap size. The wrapper also provides better user experience through an application icon, a native pre-JRE splash screen, a custom process name, and a Java download page in case the appropriate JRE cannot be found.</description>
+      <homepage_url>http://launch4j.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=95944&amp;package_id=192323</download_url>
+      <url_name>launch4j</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14440228</analysis_id>
+      <analysis>
+        <id>14440228</id>
+        <url>http://www.ohloh.net/analyses/14440228.xml</url>
+        <project_id>26771</project_id>
+        <updated_at>2013-07-06T21:46:04Z</updated_at>
+        <logged_at>2013-07-06T21:45:58Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>7987</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/launch4j/analyses/14440228/languages.png">
+          <language color="9A63AD" percentage="67" id="5">
+Java          </language>
+          <language color="FF8F00" percentage="13" id="42">
+C          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

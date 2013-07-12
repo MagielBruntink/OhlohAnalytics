@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484325</id>
+      <name>iPXE</name>
+      <url>http://www.ohloh.net/p/ipxe.xml</url>
+      <html_url>http://www.ohloh.net/p/ipxe</html_url>
+      <created_at>2010-07-26T12:47:42Z</created_at>
+      <updated_at>2013-07-06T13:04:20Z</updated_at>
+      <description>iPXE is the leading open source network boot firmware.  It provides a full PXE implementation enhanced with additional features such as HTTP boot, SAN boot, and a scripting language.
+
+You can use iPXE to replace the existing PXE ROM on your network card, or you can chainload into iPXE to obtain the features of iPXE without the hassle of reflashing.</description>
+      <homepage_url>http://ipxe.org</homepage_url>
+      <download_url>http://ipxe.org/download</download_url>
+      <url_name>ipxe</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550302</analysis_id>
+      <tags>
+        <tag>fcoe</tag>
+        <tag>iscsi</tag>
+        <tag>tftp</tag>
+        <tag>boot</tag>
+        <tag>pxe</tag>
+        <tag>dhcp</tag>
+        <tag>http</tag>
+        <tag>aoe</tag>
+        <tag>network</tag>
+      </tags>
+      <analysis>
+        <id>14550302</id>
+        <url>http://www.ohloh.net/analyses/14550302.xml</url>
+        <project_id>484325</project_id>
+        <updated_at>2013-07-06T13:04:20Z</updated_at>
+        <logged_at>2013-07-06T12:56:06Z</logged_at>
+        <min_month>2005-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>251730</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ipxe/analyses/14550302/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

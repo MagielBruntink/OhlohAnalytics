@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318989</id>
+      <name>FlexGet</name>
+      <url>http://www.ohloh.net/p/flexget.xml</url>
+      <html_url>http://www.ohloh.net/p/flexget</html_url>
+      <created_at>2009-03-12T17:31:53Z</created_at>
+      <updated_at>2013-07-08T05:30:45Z</updated_at>
+      <description>FlexGet is a program aimed to automate downloading content (torrents, podcasts, etc.) from various sources like RSS-feeds, html-pages, various sites and more.
+
+It's most often used to download torrent-files from RSS-feeds and works very well in that environment, but there are additional modules for other kind of situations as well.</description>
+      <homepage_url>http://flexget.com/</homepage_url>
+      <download_url>http://flexget.com/wiki/Install</download_url>
+      <url_name>flexget</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65014/flexget-symbol-red-_64__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65014/flexget-symbol-red-_64__small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567381</analysis_id>
+      <tags>
+        <tag>torrent</tag>
+        <tag>bittorrent</tag>
+        <tag>feedparser</tag>
+        <tag>feeds</tag>
+        <tag>tvrss</tag>
+        <tag>tvshows</tag>
+        <tag>downloader</tag>
+        <tag>rtorrent</tag>
+        <tag>tv</tag>
+        <tag>torrents</tag>
+        <tag>rss</tag>
+        <tag>movies</tag>
+      </tags>
+      <analysis>
+        <id>14567381</id>
+        <url>http://www.ohloh.net/analyses/14567381.xml</url>
+        <project_id>318989</project_id>
+        <updated_at>2013-07-08T05:30:45Z</updated_at>
+        <logged_at>2013-07-07T23:57:56Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>27</twelve_month_contributor_count>
+        <total_code_lines>43222</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flexget/analyses/14567381/languages.png">
+          <language color="4A246B" percentage="60" id="9">
+Python          </language>
+          <language color="A4007E" percentage="32" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

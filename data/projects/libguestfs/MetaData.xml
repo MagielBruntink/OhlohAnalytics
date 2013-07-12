@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>328438</id>
+      <name>libguestfs</name>
+      <url>http://www.ohloh.net/p/libguestfs.xml</url>
+      <html_url>http://www.ohloh.net/p/libguestfs</html_url>
+      <created_at>2009-04-24T12:35:58Z</created_at>
+      <updated_at>2013-07-05T00:18:05Z</updated_at>
+      <description>libguestfs is a library for accessing and modifying guest disk images. Amongst the things this is good for: making batch configuration changes to guests, getting disk used/free statistics (see also: virt-df), migrating between virtualization systems (see also: virt-p2v), performing partial backups, performing partial guest clones, cloning guests and changing registry/UUID/hostname info, and much else besides.
+
+libguestfs uses Linux kernel and qemu code, and can access any type of guest filesystem that Linux and qemu can, including but not limited to: ext2/3/4, btrfs, FAT and NTFS, LVM, many different disk partition schemes, qcow, qcow2, vmdk.
+
+libguestfs has bindings for C, C++, OCaml, Perl, Python, Ruby or Java.</description>
+      <homepage_url>http://libguestfs.org</homepage_url>
+      <download_url>http://libguestfs.org/download</download_url>
+      <url_name>libguestfs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14530965</analysis_id>
+      <tags>
+        <tag>fuse</tag>
+        <tag>v2v</tag>
+        <tag>php</tag>
+        <tag>diskimage</tag>
+        <tag>virtualization</tag>
+        <tag>virtual-machine</tag>
+        <tag>kvm</tag>
+        <tag>api</tag>
+        <tag>ocaml</tag>
+        <tag>library</tag>
+        <tag>python</tag>
+        <tag>java</tag>
+        <tag>javascript</tag>
+        <tag>linux</tag>
+        <tag>c</tag>
+        <tag>qemu</tag>
+        <tag>filesystem</tag>
+        <tag>virtualmachine</tag>
+        <tag>disk</tag>
+        <tag>ruby</tag>
+        <tag>perl</tag>
+        <tag>clone</tag>
+        <tag>partitioning</tag>
+      </tags>
+      <analysis>
+        <id>14530965</id>
+        <url>http://www.ohloh.net/analyses/14530965.xml</url>
+        <project_id>328438</project_id>
+        <updated_at>2013-07-05T00:18:05Z</updated_at>
+        <logged_at>2013-07-05T00:01:06Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>101376</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libguestfs/analyses/14530965/languages.png">
+          <language color="FF8F00" percentage="51" id="42">
+C          </language>
+          <language color="EEE" percentage="29" id="61">
+Objective Caml          </language>
+          <language color="EEE" percentage="5" id="50">
+Automake          </language>
+          <language color="000000" percentage="15" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

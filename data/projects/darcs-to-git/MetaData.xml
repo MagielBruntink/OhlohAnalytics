@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11822</id>
+      <name>darcs-to-git</name>
+      <url>http://www.ohloh.net/p/darcs-to-git.xml</url>
+      <html_url>http://www.ohloh.net/p/darcs-to-git</html_url>
+      <created_at>2008-02-17T18:56:57Z</created_at>
+      <updated_at>2012-12-18T08:27:25Z</updated_at>
+      <description>Mirror darcs repositories as git repositories. Made because of the author's dissatisfaction with darcs2git and Tailor.</description>
+      <homepage_url>http://www.sanityinc.com/articles/converting-darcs-repositories-to-git</homepage_url>
+      <download_url>http://www.sanityinc.com/articles/converting-darcs-repositories-to-git</download_url>
+      <url_name>darcs-to-git</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>11776738</analysis_id>
+      <tags>
+        <tag>darcs</tag>
+        <tag>version_control</tag>
+        <tag>git</tag>
+        <tag>migration</tag>
+      </tags>
+      <analysis>
+        <id>11776738</id>
+        <url>http://www.ohloh.net/analyses/11776738.xml</url>
+        <project_id>11822</project_id>
+        <updated_at>2012-12-18T08:27:25Z</updated_at>
+        <logged_at>2012-12-18T08:18:13Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>872</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/darcs-to-git/analyses/11776738/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

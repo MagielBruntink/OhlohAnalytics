@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>109106</id>
+      <name>ps3mediaserver</name>
+      <url>http://www.ohloh.net/p/ps3mediaserver.xml</url>
+      <html_url>http://www.ohloh.net/p/ps3mediaserver</html_url>
+      <created_at>2008-12-27T12:51:21Z</created_at>
+      <updated_at>2013-07-09T14:58:31Z</updated_at>
+      <description>PS3 Media Server is a DLNA compliant UPnP Media Server.
+
+Originally written to support the PlayStation 3, it has been expanded to support a range of other media renderers, including Xbox 360, various Samsung, Sony, Pioneer and Philips televisions, as well as portable devices and more. 
+
+Written in Java, it streams or transcodes many different media formats, with minimum configuration. It is supported by the MPlayer and FFmpeg packages.</description>
+      <homepage_url>https://github.com/ps3mediaserver/ps3mediaserver</homepage_url>
+      <download_url>http://code.google.com/p/ps3mediaserver/downloads/list</download_url>
+      <url_name>ps3mediaserver</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47382/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47382/logo_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14573454</analysis_id>
+      <tags>
+        <tag>mediaserver</tag>
+        <tag>transcode</tag>
+        <tag>java</tag>
+        <tag>ps3</tag>
+        <tag>upnp</tag>
+        <tag>streaming</tag>
+        <tag>dlna</tag>
+      </tags>
+      <analysis>
+        <id>14573454</id>
+        <url>http://www.ohloh.net/analyses/14573454.xml</url>
+        <project_id>109106</project_id>
+        <updated_at>2013-07-09T14:58:30Z</updated_at>
+        <logged_at>2013-07-09T14:55:45Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>38060</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ps3mediaserver/analyses/14573454/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

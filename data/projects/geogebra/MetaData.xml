@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25710</id>
+      <name>GeoGebra</name>
+      <url>http://www.ohloh.net/p/geogebra.xml</url>
+      <html_url>http://www.ohloh.net/p/geogebra</html_url>
+      <created_at>2008-10-19T17:08:23Z</created_at>
+      <updated_at>2013-07-07T03:03:40Z</updated_at>
+      <description>GeoGebra is a dynamic mathematics software that joins geometry, algebra and calculus. Two views are characteristic of GeoGebra: an expression in the algebra window corresponds to an object in the geometry window and vice versa.</description>
+      <homepage_url>http://www.geogebra.org/</homepage_url>
+      <download_url>http://www.geogebra.org/cms/en/download</download_url>
+      <url_name>geogebra</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57845/Geogebra_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57845/Geogebra_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558598</analysis_id>
+      <tags>
+        <tag>algebra</tag>
+        <tag>geometry</tag>
+        <tag>mathematics</tag>
+        <tag>education</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14558598</id>
+        <url>http://www.ohloh.net/analyses/14558598.xml</url>
+        <project_id>25710</project_id>
+        <updated_at>2013-07-07T03:03:40Z</updated_at>
+        <logged_at>2013-07-07T02:37:43Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>31</twelve_month_contributor_count>
+        <total_code_lines>1201804</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geogebra/analyses/14558598/languages.png">
+          <language color="9A63AD" percentage="56" id="5">
+Java          </language>
+          <language color="A4007E" percentage="20" id="6">
+JavaScript          </language>
+          <language color="F35F1F" percentage="14" id="44">
+C++          </language>
+          <language color="000000" percentage="10" id="">
+19 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

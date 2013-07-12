@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11261</id>
+      <name>[fleXive]</name>
+      <url>http://www.ohloh.net/p/flexive.xml</url>
+      <html_url>http://www.ohloh.net/p/flexive</html_url>
+      <created_at>2008-01-25T14:18:47Z</created_at>
+      <updated_at>2013-07-05T02:57:43Z</updated_at>
+      <description>[fleXive] is a Java EE 5 open-source (LGPL) framework for the development of complex and evolving (web-)applications. It speeds up development by easing many tedious and repetitive programming tasks.
+
+[fleXive] concentrates on enterprise-scale content modeling, storage and retrieval, and includes comprehensive JSF support for displaying and manipulating these contents in (web) applications. The runtime environment can be included in existing Java EE applications, but you can also build new applications and package them into stand-alone Java EE applications. 
+
+[fleXive] provides essential features for data-centric applications:
+
+* Secure EJB-based persistence engine
+* Web development JSF toolkit
+* Powerful (GPL) administration interfaces
+* Based on Java 6, EJB 3, JSF, MySQL</description>
+      <homepage_url>http://www.flexive.org</homepage_url>
+      <download_url>http://www.flexive.org/download-free-java-ee-framework.html</download_url>
+      <url_name>flexive</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.4</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532009</analysis_id>
+      <tags>
+        <tag>persistence</tag>
+        <tag>java</tag>
+        <tag>enterprise</tag>
+        <tag>jboss</tag>
+        <tag>jsf</tag>
+        <tag>component</tag>
+        <tag>mysql</tag>
+        <tag>workflow</tag>
+        <tag>groovy</tag>
+        <tag>security</tag>
+        <tag>ejb</tag>
+        <tag>javaee</tag>
+        <tag>dynamic_content</tag>
+        <tag>glassfish</tag>
+        <tag>development</tag>
+        <tag>components</tag>
+        <tag>gui</tag>
+        <tag>ajax</tag>
+        <tag>facelets</tag>
+        <tag>web</tag>
+        <tag>javaserverfaces</tag>
+        <tag>framework</tag>
+        <tag>j2ee</tag>
+        <tag>object_relational_mapper</tag>
+      </tags>
+      <analysis>
+        <id>14532009</id>
+        <url>http://www.ohloh.net/analyses/14532009.xml</url>
+        <project_id>11261</project_id>
+        <updated_at>2013-07-05T02:57:43Z</updated_at>
+        <logged_at>2013-07-05T02:48:48Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>269933</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flexive/analyses/14532009/languages.png">
+          <language color="9A63AD" percentage="53" id="5">
+Java          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="556677" percentage="6" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="11" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

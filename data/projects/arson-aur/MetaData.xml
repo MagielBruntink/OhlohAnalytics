@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>338492</id>
+      <name>arson</name>
+      <url>http://www.ohloh.net/p/arson-aur.xml</url>
+      <html_url>http://www.ohloh.net/p/arson-aur</html_url>
+      <created_at>2009-05-01T18:06:05Z</created_at>
+      <updated_at>2013-07-01T03:34:42Z</updated_at>
+      <description>A CLI Ruby application designed for the easy searching of packages in Arch Linux's User Repository (AUR). Also supports downloading those found packages as well as finding upgrades of locally installed programs in the AUR.</description>
+      <homepage_url>http://evaryont.github.com/arson/</homepage_url>
+      <download_url>http://evaryont.github.com/arson/</download_url>
+      <url_name>arson-aur</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14491530</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>pkgbuild</tag>
+        <tag>arch</tag>
+        <tag>archlinux</tag>
+        <tag>pacman</tag>
+        <tag>linux</tag>
+        <tag>cli</tag>
+        <tag>search</tag>
+      </tags>
+      <analysis>
+        <id>14491530</id>
+        <url>http://www.ohloh.net/analyses/14491530.xml</url>
+        <project_id>338492</project_id>
+        <updated_at>2013-07-12T02:28:23Z</updated_at>
+        <logged_at>2013-07-12T02:28:21Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2009-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>264</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/arson-aur/analyses/14491530/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

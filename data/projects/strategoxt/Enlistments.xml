@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>52122</id>
+      <project_id>13147</project_id>
+      <repository_id>50769</repository_id>
+      <repository>
+        <id>50769</id>
+        <type>SvnRepository</type>
+        <url>https://svn.strategoxt.org/repos/StrategoXT/strategoxt/branches</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T06:20:53Z</logged_at>
+        <commits>333</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>26233</id>
+      <project_id>13147</project_id>
+      <repository_id>25372</repository_id>
+      <repository>
+        <id>25372</id>
+        <type>SvnRepository</type>
+        <url>https://svn.strategoxt.org/repos/StrategoXT/strategoxt/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T06:20:45Z</logged_at>
+        <commits>5335</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

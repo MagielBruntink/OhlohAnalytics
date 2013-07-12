@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22672</id>
+      <name>psake</name>
+      <url>http://www.ohloh.net/p/psake.xml</url>
+      <html_url>http://www.ohloh.net/p/psake</html_url>
+      <created_at>2008-10-07T14:59:03Z</created_at>
+      <updated_at>2013-06-29T16:11:42Z</updated_at>
+      <description>psake is a build automation tool written in PowerShell. It avoids the angle-bracket tax associated with executable XML by leveraging the PowerShell syntax in your build scripts. psake has a syntax inspired by rake (aka make in Ruby) and bake (aka make in Boo), but is easier to script because it leverages your existent command-line knowledge. 
+
+psake is pronounced sake - as in Japanese rice wine. It does NOT rhyme with make, bake, or rake. 
+
+The source code has moved to GitHub: 
+
+git://github.com/JamesKovacs/psake.git 
+
+You can also download ZIP files of the project &quot;binaries&quot; from GitHub by selecting the appropriate tag and clicking the Download link: 
+
+http://github.com/JamesKovacs/psake</description>
+      <homepage_url>https://github.com/JamesKovacs/psake</homepage_url>
+      <download_url></download_url>
+      <url_name>psake</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14462399</analysis_id>
+      <tags>
+        <tag>nant</tag>
+        <tag>net</tag>
+        <tag>rake</tag>
+        <tag>build</tag>
+        <tag>powershell</tag>
+        <tag>msbuild</tag>
+      </tags>
+      <analysis>
+        <id>14462399</id>
+        <url>http://www.ohloh.net/analyses/14462399.xml</url>
+        <project_id>22672</project_id>
+        <updated_at>2013-07-09T10:27:13Z</updated_at>
+        <logged_at>2013-07-09T10:27:12Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>2065</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/psake/analyses/14462399/languages.png">
+          <language color="555555" percentage="100" id="3">
+XML          </language>
+          <language color="AAAAAA" percentage="&lt;1" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>13</main_language_id>
+        <main_language_name>DOS batch script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597204</id>
+      <name>OpenJDK 7</name>
+      <url>http://www.ohloh.net/p/openjdk7.xml</url>
+      <html_url>http://www.ohloh.net/p/openjdk7</html_url>
+      <created_at>2012-04-15T13:05:08Z</created_at>
+      <updated_at>2013-07-05T04:57:24Z</updated_at>
+      <description>OpenJDK 7 Updates Project.</description>
+      <homepage_url>http://openjdk.java.net/projects/jdk7u/</homepage_url>
+      <download_url></download_url>
+      <url_name>openjdk7</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52502/openjdk_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52502/openjdk_med_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532740</analysis_id>
+      <analysis>
+        <id>14532740</id>
+        <url>http://www.ohloh.net/analyses/14532740.xml</url>
+        <project_id>597204</project_id>
+        <updated_at>2013-07-05T04:57:23Z</updated_at>
+        <logged_at>2013-07-05T04:42:09Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>146</twelve_month_contributor_count>
+        <total_code_lines>4294858</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openjdk7/analyses/14532740/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="F35F1F" percentage="14" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="10" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+19 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

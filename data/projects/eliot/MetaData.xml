@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480204</id>
+      <name>Eliot</name>
+      <url>http://www.ohloh.net/p/eliot.xml</url>
+      <html_url>http://www.ohloh.net/p/eliot</html_url>
+      <created_at>2010-01-02T17:37:35Z</created_at>
+      <updated_at>2013-06-17T18:23:04Z</updated_at>
+      <description>Eliot is an open source Scrabble game, freely available under the GNU GPL license.
+
+Eliot offers four different game modes:
+
+The free game mode is the standard one, ideal for having fun with your friends or family. The players play in turn on the board, each with his own rack.
+
+In the duplicate mode, all the players are faced with the same board and letters at the same time.
+
+The training mode allows to play alone and make progress for the duplicate. It gives more freedom than the multiplayer modes.
+
+The arbitration mode lets you arbitrate very efficiently a duplicate game, possibly with an important number of players.
+
+Feel free to make feature requests or to report bugs: feedback is welcome!</description>
+      <homepage_url>http://www.nongnu.org/eliot/en/</homepage_url>
+      <download_url>http://www.nongnu.org/eliot/en/download.html</download_url>
+      <url_name>eliot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28437/eliot-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28437/eliot-64_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14294879</analysis_id>
+      <tags>
+        <tag>language</tag>
+        <tag>duplicate</tag>
+        <tag>eliotproject</tag>
+        <tag>qt</tag>
+        <tag>scrabble</tag>
+        <tag>game</tag>
+        <tag>dictionary</tag>
+        <tag>dict</tag>
+        <tag>arbitration</tag>
+        <tag>training</tag>
+        <tag>board</tag>
+      </tags>
+      <analysis>
+        <id>14294879</id>
+        <url>http://www.ohloh.net/analyses/14294879.xml</url>
+        <project_id>480204</project_id>
+        <updated_at>2013-07-05T12:56:39Z</updated_at>
+        <logged_at>2013-07-05T12:56:32Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>28620</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eliot/analyses/14294879/languages.png">
+          <language color="F35F1F" percentage="79" id="44">
+C++          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

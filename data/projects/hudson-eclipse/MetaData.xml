@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20292</id>
+      <name>hudson-eclipse</name>
+      <url>http://www.ohloh.net/p/hudson-eclipse.xml</url>
+      <html_url>http://www.ohloh.net/p/hudson-eclipse</html_url>
+      <created_at>2008-10-07T13:03:40Z</created_at>
+      <updated_at>2013-07-11T21:02:27Z</updated_at>
+      <description>Monitor Hudson build status from Eclipse. 
+
+Install using the Update Manager or drop dk.contix.eclipse.hudson_x.x.x.jar in the plugins/ dir. 
+
+The update site url is http://hudson-eclipse.googlecode.com/svn/trunk/hudson-update/ 
+
+After installation, the plugin must be configured. This is done in Preferences under Hudson. The important parameter is Hudson base url, which should point to the main Hudson page. 
+
+When the plugin is running, a health icon is displayed at the bottom of the Eclipse window. The icon is red on build failure and green on success. Double-click on the icon to open the Hudson view, where all projects in Hudson can be tracked. 
+
+Changelog1.0.4 Added name filter - Thanks to Christian Fain for the patch Added support for Hudson views. Select view from the dropdown menu. M</description>
+      <homepage_url>http://code.google.com/p/hudson-eclipse</homepage_url>
+      <download_url>http://code.google.com/p/hudson-eclipse/downloads/list</download_url>
+      <url_name>hudson-eclipse</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14406756</analysis_id>
+      <tags>
+        <tag>hudson</tag>
+        <tag>plugin</tag>
+        <tag>eclipse</tag>
+      </tags>
+      <analysis>
+        <id>14406756</id>
+        <url>http://www.ohloh.net/analyses/14406756.xml</url>
+        <project_id>20292</project_id>
+        <updated_at>2013-07-04T23:42:11Z</updated_at>
+        <logged_at>2013-07-04T23:42:08Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2904</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hudson-eclipse/analyses/14406756/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="EEE" percentage="1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

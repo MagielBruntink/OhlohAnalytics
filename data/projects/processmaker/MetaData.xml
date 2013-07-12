@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12396</id>
+      <name>ProcessMaker</name>
+      <url>http://www.ohloh.net/p/processmaker.xml</url>
+      <html_url>http://www.ohloh.net/p/processmaker</html_url>
+      <created_at>2008-02-29T20:08:01Z</created_at>
+      <updated_at>2013-07-04T14:45:15Z</updated_at>
+      <description>ProcessMaker is an open source workflow and business process management (BPM) software suite allowing small to medium-sized organizations to automate document intensive, approval-based processes across various systems including finance, HR and operations.
+
+Built on the popular open source LAMP (Apache/MySQL/PHP) stack, the ProcessMaker suite includes tools to design forms, create documents, assign roles and users, create routing rules, and is designed with a full service-orientated architecture (SOA) and Web Services interface allowing the software to directly connect with popular business intelligence (BI), content management (CMS), and enterprise resource planning (ERP) systems. It has been implemented in organizations including financial institutions, insurance companies, governments.</description>
+      <homepage_url>http://www.processmaker.com</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=215099</download_url>
+      <url_name>processmaker</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14527734</analysis_id>
+      <tags>
+        <tag>process_engine</tag>
+        <tag>business</tag>
+        <tag>php</tag>
+        <tag>workflow</tag>
+        <tag>workflows</tag>
+        <tag>enterprise</tag>
+        <tag>bpm</tag>
+        <tag>php5</tag>
+        <tag>business_process</tag>
+        <tag>business_process_management</tag>
+        <tag>workflow_engine</tag>
+        <tag>business_process_modelling</tag>
+        <tag>bpms</tag>
+      </tags>
+      <analysis>
+        <id>14527734</id>
+        <url>http://www.ohloh.net/analyses/14527734.xml</url>
+        <project_id>12396</project_id>
+        <updated_at>2013-07-04T14:45:15Z</updated_at>
+        <logged_at>2013-07-04T14:33:49Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>1288333</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/processmaker/analyses/14527734/languages.png">
+          <language color="356AA0" percentage="55" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="14" id="6">
+JavaScript          </language>
+          <language color="493625" percentage="10" id="30">
+SQL          </language>
+          <language color="000000" percentage="21" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

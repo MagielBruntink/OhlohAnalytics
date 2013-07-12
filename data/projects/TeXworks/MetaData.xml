@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>24472</id>
+      <name>TeXworks</name>
+      <url>http://www.ohloh.net/p/TeXworks.xml</url>
+      <html_url>http://www.ohloh.net/p/TeXworks</html_url>
+      <created_at>2008-10-07T16:29:55Z</created_at>
+      <updated_at>2013-07-11T23:07:10Z</updated_at>
+      <description>What is TeXworks?An environment for authoring TeX (LaTeX, ConTeXt, etc) documents, with a Unicode-based, TeX-aware editor, integrated PDF viewer, and a clean, simple interface accessible to casual and non-technical users. 
+
+TeXworks is inspired by Dick Koch's award-winning TeXShop program for Mac OS X, which has made quality typesetting through TeX accessible to a wider community of users, without a technical or intimidating face. The goal of TeXworks is to deliver a similarly integrated, easy-to-use environment for users on other platforms, especially GNU/Linux and Windows. 
+
+For more information, see the TeXworks page at the TeX Users Group site. There is also a mailing list available for discussion of the project. 
+
+Alain Delmotte has written a manual for TeXworks, available at his web</description>
+      <homepage_url>http://tug.org/texworks/</homepage_url>
+      <download_url>https://code.google.com/p/texworks/downloads/list</download_url>
+      <url_name>TeXworks</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43968/TeXworks-128_1__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43968/TeXworks-128_1__small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14595301</analysis_id>
+      <tags>
+        <tag>latex</tag>
+        <tag>typesetting</tag>
+        <tag>tex</tag>
+      </tags>
+      <analysis>
+        <id>14595301</id>
+        <url>http://www.ohloh.net/analyses/14595301.xml</url>
+        <project_id>24472</project_id>
+        <updated_at>2013-07-11T23:07:10Z</updated_at>
+        <logged_at>2013-07-11T23:06:34Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>36820</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/TeXworks/analyses/14595301/languages.png">
+          <language color="F35F1F" percentage="61" id="44">
+C++          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="11" id="42">
+C          </language>
+          <language color="000000" percentage="15" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

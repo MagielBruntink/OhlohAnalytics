@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>90</id>
+      <name>Pebble</name>
+      <url>http://www.ohloh.net/p/pebble.xml</url>
+      <html_url>http://www.ohloh.net/p/pebble</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2012-03-21T19:34:54Z</updated_at>
+      <description>Pebble is a very lightweight, personal blogger that is written as a web application to run inside standard J2EE web containers using standard technologies such as JSP, Servlets, filters, JSP custom tags, JSTL and JAXP.</description>
+      <homepage_url>http://pebble.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>pebble</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7248836</analysis_id>
+      <tags>
+        <tag>message_boards</tag>
+        <tag>blog</tag>
+      </tags>
+      <analysis>
+        <id>7248836</id>
+        <url>http://www.ohloh.net/analyses/7248836.xml</url>
+        <project_id>90</project_id>
+        <updated_at>2012-03-30T23:41:33Z</updated_at>
+        <logged_at>2012-03-30T23:41:30Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>50536</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pebble/analyses/7248836/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

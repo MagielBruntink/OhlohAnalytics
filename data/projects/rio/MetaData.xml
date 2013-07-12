@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12302</id>
+      <name>Rio</name>
+      <url>http://www.ohloh.net/p/rio.xml</url>
+      <html_url>http://www.ohloh.net/p/rio</html_url>
+      <created_at>2008-02-27T00:38:47Z</created_at>
+      <updated_at>2013-06-05T23:31:38Z</updated_at>
+      <description>Rio is an open source technology that provides a dynamic architecture for developing, deploying and managing distributed systems. Rio provides QoS based management for distributed systems, providing a policy based approach for fault detection and recovery, scalability and dynamic deployment. Key to the architecture are a set of dynamic capabilities and reliance on policy-based and Quality of Service mechanisms.</description>
+      <homepage_url>http://www.rio-project.org</homepage_url>
+      <download_url>http://www.rio-project.org/download.html</download_url>
+      <url_name>rio</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14173593</analysis_id>
+      <tags>
+        <tag>gridcomputing</tag>
+        <tag>clustering</tag>
+        <tag>scalability</tag>
+        <tag>distributed_computing</tag>
+        <tag>jini</tag>
+        <tag>provisioning</tag>
+        <tag>distributed_monitoring</tag>
+        <tag>java</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14173593</id>
+        <url>http://www.ohloh.net/analyses/14173593.xml</url>
+        <project_id>12302</project_id>
+        <updated_at>2013-06-05T23:31:37Z</updated_at>
+        <logged_at>2013-06-05T23:30:36Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>219786</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rio/analyses/14173593/languages.png">
+          <language color="9A63AD" percentage="77" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="C72C2C" percentage="8" id="29">
+Groovy          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

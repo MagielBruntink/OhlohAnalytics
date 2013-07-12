@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6639</id>
+      <name>Watchmaker Evolution Framework</name>
+      <url>http://www.ohloh.net/p/watchmaker.xml</url>
+      <html_url>http://www.ohloh.net/p/watchmaker</html_url>
+      <created_at>2007-07-15T22:42:06Z</created_at>
+      <updated_at>2013-06-25T21:56:14Z</updated_at>
+      <description>Watchmaker is an extensible, high-performance, multi-threaded, object-oriented framework for implementing platform-independent evolutionary computation (genetic algorithms, etc.) in Java.
+
+The evolution engine operates on POJOs (Plain Old Java Objects) and does not require that evolved objects extend a specific base class nor implement any particular interfaces.
+
+This decoupling of framework and application code is achieved via a clean, generics-enabled API and without the need for expensive runtime reflection.</description>
+      <homepage_url>http://watchmaker.uncommons.org</homepage_url>
+      <download_url>http://github.com/dwdyer/watchmaker/downloads</download_url>
+      <url_name>watchmaker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31931/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31931/icon_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409258</analysis_id>
+      <tags>
+        <tag>ai</tag>
+        <tag>genetic</tag>
+        <tag>evolution</tag>
+      </tags>
+      <analysis>
+        <id>14409258</id>
+        <url>http://www.ohloh.net/analyses/14409258.xml</url>
+        <project_id>6639</project_id>
+        <updated_at>2013-07-09T16:21:37Z</updated_at>
+        <logged_at>2013-07-09T16:21:27Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>17443</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/watchmaker/analyses/14409258/languages.png">
+          <language color="9A63AD" percentage="83" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

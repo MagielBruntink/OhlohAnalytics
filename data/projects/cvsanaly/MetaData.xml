@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484154</id>
+      <name>CVSAnalY</name>
+      <url>http://www.ohloh.net/p/cvsanaly.xml</url>
+      <html_url>http://www.ohloh.net/p/cvsanaly</html_url>
+      <created_at>2010-07-19T16:15:46Z</created_at>
+      <updated_at>2013-07-11T16:34:13Z</updated_at>
+      <description>CVSAnalY cvsanaly is a tool that extracts information out of source code repository logs and stores it into a database.</description>
+      <homepage_url>https://projects.libresoft.es/projects/show/cvsanaly</homepage_url>
+      <download_url>https://projects.libresoft.es/projects/cvsanaly/files</download_url>
+      <url_name>cvsanaly</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49556/CVSAnalY-nodding_donkey_kevin_cow_01_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49556/CVSAnalY-nodding_donkey_kevin_cow_01_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591664</analysis_id>
+      <tags>
+        <tag>sloc</tag>
+        <tag>scm</tag>
+        <tag>source_code</tag>
+        <tag>git</tag>
+        <tag>datamining</tag>
+        <tag>subversion</tag>
+        <tag>cvs</tag>
+        <tag>version_control</tag>
+        <tag>libresoft</tag>
+        <tag>metrics</tag>
+      </tags>
+      <analysis>
+        <id>14591664</id>
+        <url>http://www.ohloh.net/analyses/14591664.xml</url>
+        <project_id>484154</project_id>
+        <updated_at>2013-07-11T16:34:13Z</updated_at>
+        <logged_at>2013-07-11T16:33:54Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5041</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cvsanaly/analyses/14591664/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26578</id>
+      <name>DITA Open Toolkit</name>
+      <url>http://www.ohloh.net/p/dita-ot.xml</url>
+      <html_url>http://www.ohloh.net/p/dita-ot</html_url>
+      <created_at>2008-11-12T00:53:45Z</created_at>
+      <updated_at>2013-07-10T11:00:57Z</updated_at>
+      <description>The DITA Open Toolkit is an implementation of the OASIS DITA XML Specification. The Toolkit transforms DITA content into many deliverable formats. See http://dita.xml.org/wiki/the-dita-open-toolkit for information about releases and download packages.</description>
+      <homepage_url>http://sourceforge.net/projects/dita-ot</homepage_url>
+      <download_url>http://sourceforge.net/projects/dita-ot/files/DITA-OT%20Stable%20Release/</download_url>
+      <url_name>dita-ot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580806</analysis_id>
+      <tags>
+        <tag>documentation_generator</tag>
+        <tag>dita</tag>
+        <tag>xml</tag>
+        <tag>dita-ot</tag>
+        <tag>documentation</tag>
+      </tags>
+      <analysis>
+        <id>14580806</id>
+        <url>http://www.ohloh.net/analyses/14580806.xml</url>
+        <project_id>26578</project_id>
+        <updated_at>2013-07-10T11:00:56Z</updated_at>
+        <logged_at>2013-07-10T10:47:34Z</logged_at>
+        <min_month>2005-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>194446</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dita-ot/analyses/14580806/languages.png">
+          <language color="556655" percentage="27" id="36">
+XSL Transformation          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="556677" percentage="19" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="30" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>common_public</name>
+          <nice_name>Common Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

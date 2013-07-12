@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21586</id>
+      <name>mpi4py</name>
+      <url>http://www.ohloh.net/p/mpi4py.xml</url>
+      <html_url>http://www.ohloh.net/p/mpi4py</html_url>
+      <created_at>2008-10-07T14:06:29Z</created_at>
+      <updated_at>2013-06-11T18:47:13Z</updated_at>
+      <description>MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for the Python programming language, allowing any Python program to exploit multiple processors.  
+
+This package is constructed on top of the MPI-1/MPI-2 specification and provides an object oriented interface which closely follows MPI-2 C++ bindings. It supports point-to-point (sends, receives) and collective (broadcasts, scatters, gathers) communications of any picklable Python object as well as optimized communications of Python object exposing the single-segment buffer interface (NumPy arrays, builtin bytes/string/array objects).</description>
+      <homepage_url>http://code.google.com/p/mpi4py</homepage_url>
+      <download_url></download_url>
+      <url_name>mpi4py</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14231943</analysis_id>
+      <tags>
+        <tag>mpi</tag>
+        <tag>python</tag>
+        <tag>python3</tag>
+        <tag>cython</tag>
+      </tags>
+      <analysis>
+        <id>14231943</id>
+        <url>http://www.ohloh.net/analyses/14231943.xml</url>
+        <project_id>21586</project_id>
+        <updated_at>2013-07-04T23:57:31Z</updated_at>
+        <logged_at>2013-07-04T23:57:28Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17166</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mpi4py/analyses/14231943/languages.png">
+          <language color="4A246B" percentage="55" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="37" id="42">
+C          </language>
+          <language color="000000" percentage="8" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

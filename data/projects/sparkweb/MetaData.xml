@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13494</id>
+      <name>SparkWeb</name>
+      <url>http://www.ohloh.net/p/sparkweb.xml</url>
+      <html_url>http://www.ohloh.net/p/sparkweb</html_url>
+      <created_at>2008-04-22T19:19:21Z</created_at>
+      <updated_at>2013-07-11T14:46:06Z</updated_at>
+      <description>SparkWeb is a web based XMPP client created by Jive Software. SparkWeb is written in ActionScript 3, using Adobe's Flex API for Flash. It supports avatars, vcards, multi-user chat, and many other advanced XMPP features.</description>
+      <homepage_url>http://www.igniterealtime.org/</homepage_url>
+      <download_url>http://www.igniterealtime.org/</download_url>
+      <url_name>sparkweb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590868</analysis_id>
+      <analysis>
+        <id>14590868</id>
+        <url>http://www.ohloh.net/analyses/14590868.xml</url>
+        <project_id>13494</project_id>
+        <updated_at>2013-07-11T14:46:06Z</updated_at>
+        <logged_at>2013-07-11T14:45:29Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>34638</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sparkweb/analyses/14590868/languages.png">
+          <language color="EEE" percentage="80" id="53">
+ActionScript          </language>
+          <language color="EEE" percentage="7" id="54">
+MXML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>53</main_language_id>
+        <main_language_name>ActionScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

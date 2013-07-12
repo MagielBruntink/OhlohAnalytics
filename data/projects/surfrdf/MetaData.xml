@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>374258</id>
+      <name>surfrdf</name>
+      <url>http://www.ohloh.net/p/surfrdf.xml</url>
+      <html_url>http://www.ohloh.net/p/surfrdf</html_url>
+      <created_at>2009-08-13T22:20:39Z</created_at>
+      <updated_at>2013-06-19T07:50:31Z</updated_at>
+      <description>SuRF is a Python library for working with RDF data in an Object-Oriented way. In SuRF, RDF nodes (subjects and objects) are represented as Python objects and RDF arcs (predicates) as their attributes. SuRF is an Object RDF Mapper (ORM), similar in concept to Object Relational Mappers like SQLAlchemy. SuRF was inspired by ActiveRDF for Ruby. 
+
+Use the pypi repository to get the latest version of SuRF. 
+
+Check the latest documentation at: http://packages.python.org/SuRF/  
+
+$ easy_install -U surfImportant: since version 0.5.0, the surf plugin architecture is based on setuptools. In order to install surf and it's available plugins just do the following  
+
+$ easy_install -U surf
+$ easy_install -U surf.allegro_franz
+$ easy_install -U surf.sesame2
+$ easy_install -U surf.sparql_protocol
+$ easy_install -U surf.rdflibthe plugins are also available under the following keys: 
+
+allegro_franz sesame2 sparql_protocol rdflib 
+
+An outdated presentation of SuRF at EUROPYTHON 2009 is available here, although the internals of SuRF have changed with the release of version 0.5.0 - most notably the plugin architecture, much of the public interface still remains the same see slideshow here: 
+
+http://www.slideshare.net/cosbas/surf-tapping-into-the-web-of-data 
+
+Quick Startfrom surf import *
+
+store = Store(  reader='rdflib',
+                writer='rdflib',
+                rdflib_store = 'IOMemory')
+
+session = Session(store)
+
+print 'Load RDF data'
+store.load_triples(source='http://www.w3.org/People/Berners-Lee/card.rdf')
+
+Person = session.get_class(ns.FOAF['Person'])
+
+all_persons = Person.all()
+
+print 'Found %d persons that Tim Berners-Lee knows'%(len(all_persons))
+for person in all_persons:
+    print person.foaf_name.first
+    
+#create a person object
+somebody = Person()
+somebody_else = Person()
+
+somebody.foaf_knows = somebody_else
+Documentationhttp://packages.python.org/SuRF/ 
+
+If you are using SuRF in you projects please let us know, and remember that you can always include the Powered By SuRF logo using the following html snippet of code: 
+
+Thank you</description>
+      <homepage_url>http://code.google.com/p/surfrdf/</homepage_url>
+      <download_url></download_url>
+      <url_name>surfrdf</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25941/surf-logo-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25941/surf-logo-64_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14304595</analysis_id>
+      <tags>
+        <tag>graph</tag>
+        <tag>semanticresources</tag>
+        <tag>rdf</tag>
+        <tag>sparql</tag>
+        <tag>object-oriented</tag>
+        <tag>mapper</tag>
+        <tag>rdfmapper</tag>
+        <tag>rdfs</tag>
+        <tag>orm</tag>
+        <tag>rdfxml</tag>
+        <tag>semanticweb</tag>
+        <tag>n3</tag>
+        <tag>turtle</tag>
+        <tag>query</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14304595</id>
+        <url>http://www.ohloh.net/analyses/14304595.xml</url>
+        <project_id>374258</project_id>
+        <updated_at>2013-07-06T12:53:07Z</updated_at>
+        <logged_at>2013-07-06T12:52:35Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5403</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/surfrdf/analyses/14304595/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
