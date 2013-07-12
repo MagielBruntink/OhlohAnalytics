@@ -4,36 +4,48 @@ import processProjectFacts;
 import projectFactsRepository;
 import Logging;
 import lang::csv::IO;
+import IO;
 import analyzeProjectDeath;
+import analyzeProjectMetaData;
 
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
 public void exportFactsForAllProjects() {
 	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
-	OhlohFacts=getOhlohFactsFromCache();
+	monthlyFactsMap OhlohFacts=getOhlohFactsFromCache();
 	
 	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
-	allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
-	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
+	monthlyFactsMap allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
+	//logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
+	//writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
 	
-	logToConsole("exportFactsForAllProject", "Calculating grouped monthly facts by year for all projects...");
-	allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
-	logToConsole("exportFactsForAllProject", "Exporting all yearly facts grouped to CSV for all projects: " + "allYearlyFacts.csv");
-	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
+	logToConsole("exportFactsForAllProject", "Getting yearly growth facts for all projects from cache...");
+	yearlyFactsMap allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
+	//logToConsole("exportFactsForAllProject", "Exporting all yearly facts to CSV for all projects: " + "allYearlyFacts.csv");
+	//writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
 	
 	logToConsole("exportFactsForAllProject", "Calculating project activity for all projects...");
 	projectActivityStats=getProjectActivityStatus(allYearlyFacts);
 	logToConsole("exportFactsForAllProject", "Calculating project death events for all projects...");
 	projectDeathStats=getProjectDeathStatus(projectActivityStats, "2012");
-	logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
-	writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
+	//logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
+	//writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
+}
+
+public void doProjectMetaDataAnalyses () {
+	logToConsole("doProjectMetaDataAnalyses", "Analyzing project tags for all projects...");
+	OAL=generateOALForTags(getProjectNamesInRepository());
+	writeValueToFile(OAL,"projects-tags.oal");
 }
 
 public void writeFactsToCSV(facts,str fileName) {
 	writeCSV(facts,
 			 OutputFilesDirectory + fileName,
 			 ("separator" : ","));
+}
+
+public void writeValueToFile(v, str fileName) {
+	writeFile(OutputFilesDirectory + fileName, v);
 }
 
 public rel [str projectName,
