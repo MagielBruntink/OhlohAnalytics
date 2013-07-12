@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>76108</id>
+      <name>beets</name>
+      <url>http://www.ohloh.net/p/beets.xml</url>
+      <html_url>http://www.ohloh.net/p/beets</html_url>
+      <created_at>2008-12-19T22:24:05Z</created_at>
+      <updated_at>2013-07-12T03:23:33Z</updated_at>
+      <description>Beets is the media library management system for obsessive-compulsive music geeks.
+
+The purpose of beets is to get your music collection right once and for all. It catalogs your collection, automatically improving its metadata as it goes using the MusicBrainz database. It then provides a bouquet of tools for manipulating and accessing your music.
+
+Because beets is designed as a library, you can easily write Python programs that manipulate your music for you. Report tracks encoded at less than 192kbps? Done. Find albums you're missing from bands you like? Convert everything to Title Case once and for all? Done and done.
+
+Beets also includes a music player that speaks the MPD protocol, so you can play music in your beets library using a staggering variety of interfaces.</description>
+      <homepage_url>http://beets.radbox.org/</homepage_url>
+      <download_url>http://code.google.com/p/beets/downloads/list</download_url>
+      <url_name>beets</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599856</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>sqlite</tag>
+        <tag>musicbrainz</tag>
+        <tag>media</tag>
+        <tag>python</tag>
+        <tag>id3</tag>
+        <tag>organizer</tag>
+        <tag>mpd</tag>
+        <tag>flac</tag>
+        <tag>metadata</tag>
+        <tag>audio</tag>
+        <tag>tag</tag>
+        <tag>mp3</tag>
+        <tag>music</tag>
+        <tag>aac</tag>
+      </tags>
+      <analysis>
+        <id>14599856</id>
+        <url>http://www.ohloh.net/analyses/14599856.xml</url>
+        <project_id>76108</project_id>
+        <updated_at>2013-07-12T03:23:33Z</updated_at>
+        <logged_at>2013-07-12T03:22:34Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>44</twelve_month_contributor_count>
+        <total_code_lines>24583</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/beets/analyses/14599856/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="A4007E" percentage="32" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

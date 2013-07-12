@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6932</id>
+      <name>UDDI BC</name>
+      <url>http://www.ohloh.net/p/uddi-bc.xml</url>
+      <html_url>http://www.ohloh.net/p/uddi-bc</html_url>
+      <created_at>2007-07-27T21:34:24Z</created_at>
+      <updated_at>2012-08-17T23:45:56Z</updated_at>
+      <description>Universal Description and Discovery and Interoperability (UDDI) provides a means for services to discover other services for binding. Without an ESB infrastructure, each service attached to a bus would have to develop and integrate that capability independently, which creates significant configuration overhead. The UDDI Binding Component alleviates administrations problems by centralizing the point through which services attached to the ESB connect to UDDI, allowing any service attached to the ESB to retrieve information from a UDDI server without tightly binding to any specific library.</description>
+      <homepage_url>https://uddi-bc.dev.java.net/</homepage_url>
+      <download_url>https://uddi-bc.dev.java.net/downloads/download.htm</download_url>
+      <url_name>uddi-bc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9601304</analysis_id>
+      <tags>
+        <tag>esb</tag>
+        <tag>uddi</tag>
+        <tag>bindingcomponent</tag>
+        <tag>openesb</tag>
+        <tag>soa</tag>
+        <tag>jbi</tag>
+      </tags>
+      <analysis>
+        <id>9601304</id>
+        <url>http://www.ohloh.net/analyses/9601304.xml</url>
+        <project_id>6932</project_id>
+        <updated_at>2012-09-05T07:22:33Z</updated_at>
+        <logged_at>2012-09-05T07:22:29Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3764</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/uddi-bc/analyses/9601304/languages.png">
+          <language color="9A63AD" percentage="55" id="5">
+Java          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="47A400" percentage="13" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

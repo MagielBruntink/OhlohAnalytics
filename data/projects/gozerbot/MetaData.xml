@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20003</id>
+      <name>gozerbot</name>
+      <url>http://www.ohloh.net/p/gozerbot.xml</url>
+      <html_url>http://www.ohloh.net/p/gozerbot</html_url>
+      <created_at>2008-10-07T12:50:02Z</created_at>
+      <updated_at>2013-01-27T17:39:38Z</updated_at>
+      <description>Why gozerbot?
+
+    * provide both IRC and Jabber support
+    * user management by userhost .. bot will not respond if it doesn't know you (see USER)
+    * fleet .. use more than one bot in a program (list of bots) (see FLEET)
+    * use the bot through dcc chat
+    * fetch rss feeds (see RSS)
+    * remember items
+    * relaying between bots (see RELAY)
+    * program your own plugins (see PROGRAMPLUGIN)
+    * query other bots with json REST (see CLOUD)
+    * serve as a udp  irc or jabber notification bot (see UDP
+    * sqlalchemy support</description>
+      <homepage_url>http://gozerbot.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>gozerbot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5384478</analysis_id>
+      <tags>
+        <tag>xmpp</tag>
+        <tag>collective</tag>
+        <tag>python</tag>
+        <tag>ircbot</tag>
+        <tag>rss</tag>
+        <tag>sqlalchemy</tag>
+        <tag>bot</tag>
+        <tag>irc</tag>
+        <tag>jabber</tag>
+        <tag>windows</tag>
+        <tag>webserver</tag>
+        <tag>mysql</tag>
+        <tag>gozerbot</tag>
+        <tag>chat</tag>
+        <tag>linux</tag>
+        <tag>dcc</tag>
+      </tags>
+      <analysis>
+        <id>5384478</id>
+        <url>http://www.ohloh.net/analyses/5384478.xml</url>
+        <project_id>20003</project_id>
+        <updated_at>2012-01-04T23:58:03Z</updated_at>
+        <logged_at>2012-01-04T23:57:41Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>80091</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gozerbot/analyses/5384478/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

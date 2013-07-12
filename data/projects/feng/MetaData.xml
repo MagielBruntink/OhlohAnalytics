@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5233</id>
+      <name>LSCube Feng</name>
+      <url>http://www.ohloh.net/p/feng.xml</url>
+      <html_url>http://www.ohloh.net/p/feng</html_url>
+      <created_at>2007-05-10T10:19:05Z</created_at>
+      <updated_at>2013-06-17T17:09:29Z</updated_at>
+      <description>Feng is a multimedia streaming server compliant with the IETF's standards for real-time streaming of multimedia contents over Internet. Fenice implements RTSP &#8211; Real-Time Streaming Protocol (rfc2326) and RTP/RTCP &#8211; Real-Time Transport Protocol/RTP Control Protocol (rfc3550) supporting the RTP Profile for Audio and Video Conferences with Minimal Control (rfc3551).
+
+The main characteristic of Feng is the improved container support, the ability to handle seeking (currently being improved) and the modular structure focused to ease extension both on the codec support side and on the protocol support side.
+
+Feng currently supports h264, mp3, vorbis and theora</description>
+      <homepage_url>http://lscube.org/project/feng</homepage_url>
+      <download_url></download_url>
+      <url_name>feng</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>3.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14294282</analysis_id>
+      <tags>
+        <tag>rtsp</tag>
+        <tag>streaming</tag>
+        <tag>lscube</tag>
+        <tag>server</tag>
+        <tag>vorbis</tag>
+        <tag>multimedia</tag>
+        <tag>h264</tag>
+        <tag>rtp</tag>
+        <tag>theora</tag>
+      </tags>
+      <analysis>
+        <id>14294282</id>
+        <url>http://www.ohloh.net/analyses/14294282.xml</url>
+        <project_id>5233</project_id>
+        <updated_at>2013-07-04T13:53:38Z</updated_at>
+        <logged_at>2013-07-04T13:53:35Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9697</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/feng/analyses/14294282/languages.png">
+          <language color="FF8F00" percentage="66" id="42">
+C          </language>
+          <language color="556655" percentage="11" id="36">
+XSL Transformation          </language>
+          <language color="EEE" percentage="10" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="13" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

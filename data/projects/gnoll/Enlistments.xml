@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>24736</id>
+      <project_id>13593</project_id>
+      <repository_id>23937</repository_id>
+      <repository>
+        <id>23937</id>
+        <type>GitRepository</type>
+        <url>http://gnoll.org/gnoll.git/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T23:37:49Z</logged_at>
+        <commits>416</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>41654</id>
+      <project_id>13593</project_id>
+      <repository_id>40364</repository_id>
+      <repository>
+        <id>40364</id>
+        <type>SvnRepository</type>
+        <url>http://svn.gna.org/svn/gnoll/trunk/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T22:29:13Z</logged_at>
+        <commits>77</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

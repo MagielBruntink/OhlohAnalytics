@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10476</id>
+      <name>ARAnyM</name>
+      <url>http://www.ohloh.net/p/aranym.xml</url>
+      <html_url>http://www.ohloh.net/p/aranym</html_url>
+      <created_at>2007-12-22T11:43:38Z</created_at>
+      <updated_at>2013-07-12T06:23:35Z</updated_at>
+      <description>ARAnyM (Atari Running on Any Machine) is a virtual machine software for running the Atari ST/TT/Falcon operating systems (TOS, FreeMiNT, MagiC and others) and TOS/GEM applications on any kind of hardware - be it an IBM clone (read it as &quot;PC&quot; :-), an Apple, an Unix server, a graphics workstation or even a portable computer.</description>
+      <homepage_url>http://aranym.org/</homepage_url>
+      <download_url>http://aranym.org/download.html</download_url>
+      <url_name>aranym</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1234/logo64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1234/logo64_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14601647</analysis_id>
+      <tags>
+        <tag>falcon</tag>
+        <tag>emulators</tag>
+        <tag>68040</tag>
+        <tag>atarist</tag>
+        <tag>freemint</tag>
+        <tag>emulator</tag>
+        <tag>atari</tag>
+        <tag>atari-st</tag>
+        <tag>m68k</tag>
+        <tag>emulation</tag>
+        <tag>emu</tag>
+        <tag>falcon030</tag>
+      </tags>
+      <analysis>
+        <id>14601647</id>
+        <url>http://www.ohloh.net/analyses/14601647.xml</url>
+        <project_id>10476</project_id>
+        <updated_at>2013-07-12T06:23:35Z</updated_at>
+        <logged_at>2013-07-12T06:22:36Z</logged_at>
+        <min_month>2001-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>145515</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/aranym/analyses/14601647/languages.png">
+          <language color="F35F1F" percentage="48" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

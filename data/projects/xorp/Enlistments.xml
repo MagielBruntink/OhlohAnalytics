@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>506175</id>
+      <project_id>8013</project_id>
+      <repository_id>283412</repository_id>
+      <repository>
+        <id>283412</id>
+        <type>GitRepository</type>
+        <url>git://github.com/greearb/xorp.ct.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T01:34:32Z</logged_at>
+        <commits>12532</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>106005</id>
+      <project_id>8013</project_id>
+      <repository_id>104344</repository_id>
+      <repository>
+        <id>104344</id>
+        <type>SvnSyncRepository</type>
+        <url>https://xorp.svn.sourceforge.net/svnroot/xorp/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T01:29:49Z</logged_at>
+        <commits>11677</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

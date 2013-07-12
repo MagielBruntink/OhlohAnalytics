@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>29176</id>
+      <project_id>16245</project_id>
+      <repository_id>28224</repository_id>
+      <repository>
+        <id>28224</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@bespin.org:/var/lib/cvs/enet</url>
+        <module_name>enet</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-05-28T17:49:06Z</logged_at>
+        <commits>125</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

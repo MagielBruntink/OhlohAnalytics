@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7807</id>
+      <name>Equalizer - Parallel Rendering</name>
+      <url>http://www.ohloh.net/p/equalizer.xml</url>
+      <html_url>http://www.ohloh.net/p/equalizer</html_url>
+      <created_at>2007-08-18T18:38:09Z</created_at>
+      <updated_at>2013-07-05T03:30:44Z</updated_at>
+      <description>Equalizer is an open source programming interface and resource management system for scalable OpenGL applications. An Equalizer application can run unmodified on any visualization system, from a singlepipe workstation to large scale graphics clusters and multi-GPU workstations. Equalizer is built upon a parallel OpenGL-based programming interface solving problems that are common to any multipipe application. The API is minimally invasive, making application porting as easy as possible while delivering maximum performance.</description>
+      <homepage_url>http://www.equalizergraphics.com</homepage_url>
+      <download_url>http://www.equalizergraphics.com/downloads.html</download_url>
+      <url_name>equalizer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/813/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/813/logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532158</analysis_id>
+      <tags>
+        <tag>performance</tag>
+        <tag>opengl_cluster</tag>
+        <tag>3d</tag>
+        <tag>opengl</tag>
+        <tag>carbon</tag>
+        <tag>rendering</tag>
+        <tag>threading</tag>
+        <tag>graphics</tag>
+        <tag>gl</tag>
+        <tag>graphics_cluster</tag>
+        <tag>cross-platform</tag>
+        <tag>linux</tag>
+        <tag>multithreading</tag>
+        <tag>infiniband</tag>
+        <tag>visualisation</tag>
+        <tag>macosx</tag>
+        <tag>multiprocessing</tag>
+        <tag>visualization</tag>
+        <tag>parallel</tag>
+        <tag>multigpu</tag>
+        <tag>development</tag>
+        <tag>library</tag>
+        <tag>wgl</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+        <tag>distributed_computing</tag>
+        <tag>parallel_rendering</tag>
+        <tag>agl</tag>
+        <tag>clustering</tag>
+        <tag>glut</tag>
+        <tag>scalability</tag>
+        <tag>framework</tag>
+        <tag>macintosh</tag>
+        <tag>glx</tag>
+        <tag>3d_rendering</tag>
+        <tag>gpu</tag>
+      </tags>
+      <analysis>
+        <id>14532158</id>
+        <url>http://www.ohloh.net/analyses/14532158.xml</url>
+        <project_id>7807</project_id>
+        <updated_at>2013-07-05T03:30:44Z</updated_at>
+        <logged_at>2013-07-05T03:24:03Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>373080</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/equalizer/analyses/14532158/languages.png">
+          <language color="555555" percentage="78" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="13" id="44">
+C++          </language>
+          <language color="000000" percentage="9" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

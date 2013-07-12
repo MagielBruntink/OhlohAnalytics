@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>531115</id>
+      <name>jOOQ</name>
+      <url>http://www.ohloh.net/p/jooq.xml</url>
+      <html_url>http://www.ohloh.net/p/jooq</html_url>
+      <created_at>2011-04-29T06:31:42Z</created_at>
+      <updated_at>2013-07-12T01:13:00Z</updated_at>
+      <description>jOOQ effectively combines complex SQL, typesafety, source code generation, active records, stored procedures, advanced data types, and Java in a fluent, intuitive DSL.</description>
+      <homepage_url>http://www.jooq.org</homepage_url>
+      <download_url>https://sourceforge.net/projects/jooq/files/Release/</download_url>
+      <url_name>jooq</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43290/jooq-small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43290/jooq-small_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14597739</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>development</tag>
+        <tag>firebird</tag>
+        <tag>mssql</tag>
+        <tag>reverse-engineering</tag>
+        <tag>hsqldb</tag>
+        <tag>derby</tag>
+        <tag>database</tag>
+        <tag>sqlite</tag>
+        <tag>oracle</tag>
+        <tag>udt</tag>
+        <tag>activerecord</tag>
+        <tag>sql</tag>
+        <tag>java</tag>
+        <tag>codegeneration</tag>
+        <tag>storedprocedure</tag>
+        <tag>udf</tag>
+        <tag>sybase</tag>
+        <tag>sqlserver</tag>
+        <tag>db2</tag>
+        <tag>mysql</tag>
+        <tag>postgres</tag>
+        <tag>h2</tag>
+        <tag>relational</tag>
+        <tag>jdbc</tag>
+        <tag>javadb</tag>
+        <tag>postgresql</tag>
+        <tag>hsql</tag>
+        <tag>sql-server</tag>
+      </tags>
+      <analysis>
+        <id>14597739</id>
+        <url>http://www.ohloh.net/analyses/14597739.xml</url>
+        <project_id>531115</project_id>
+        <updated_at>2013-07-12T01:12:59Z</updated_at>
+        <logged_at>2013-07-12T01:11:01Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>369347</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jooq/analyses/14597739/languages.png">
+          <language color="9A63AD" percentage="74" id="5">
+Java          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="493625" percentage="6" id="30">
+SQL          </language>
+          <language color="000000" percentage="2" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

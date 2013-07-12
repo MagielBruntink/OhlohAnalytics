@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7053</id>
+      <name>Cooperative Linux (coLinux)</name>
+      <url>http://www.ohloh.net/p/colinux.xml</url>
+      <html_url>http://www.ohloh.net/p/colinux</html_url>
+      <created_at>2007-08-01T19:59:47Z</created_at>
+      <updated_at>2013-06-15T13:15:46Z</updated_at>
+      <description>Cooperative Linux is a port of the Linux kernel that allows it to run cooperatively alongside another operating system on a single machine. For instance, it allows one to freely run Linux on Windows 2000/XP without using a commercial PC virtualization software such as VMware, in a way which is much more optimal than using any general purpose PC virtualization software.</description>
+      <homepage_url>http://www.colinux.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=98788&amp;package_id=107317&amp;release_id=429015</download_url>
+      <url_name>colinux</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2657/coLinux_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2657/coLinux_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14268652</analysis_id>
+      <tags>
+        <tag>virtualization</tag>
+        <tag>linux</tag>
+        <tag>windows</tag>
+        <tag>virtualisation</tag>
+      </tags>
+      <analysis>
+        <id>14268652</id>
+        <url>http://www.ohloh.net/analyses/14268652.xml</url>
+        <project_id>7053</project_id>
+        <updated_at>2013-07-07T20:19:06Z</updated_at>
+        <logged_at>2013-07-07T20:19:01Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>40592</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/colinux/analyses/14268652/languages.png">
+          <language color="FF8F00" percentage="79" id="42">
+C          </language>
+          <language color="F35F1F" percentage="10" id="44">
+C++          </language>
+          <language color="4A246B" percentage="7" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

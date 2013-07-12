@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4889</id>
+      <name>CIAO</name>
+      <url>http://www.ohloh.net/p/ciao.xml</url>
+      <html_url>http://www.ohloh.net/p/ciao</html_url>
+      <created_at>2007-04-15T05:48:50Z</created_at>
+      <updated_at>2013-07-02T15:49:20Z</updated_at>
+      <description>The Component-Integrated ACE ORB (CIAO) is an implementation of the Lightweight CORBA Component Model (CCM) and Real-time CORBA built on top of The ACE ORB (TAO). CIAO provides the component paradigm to the domain of distributed, real-time, embedded (DRE) systems by abstracting DRE-critical systemic aspects, such as real-time QoS policies, as installable/configurable units supported by the component framework. Promoting these DRE-critical aspects as first-class metadata disentangles code for controlling these non-function aspects from application logic and makes DRE system development more flexible. Since mechanisms to support various DRE-critical non-functional aspects can be easily verified, CIAO will also make configuring and managing these aspects easier.</description>
+      <homepage_url>http://www.cs.wustl.edu/~schmidt/CIAO.html</homepage_url>
+      <download_url>http://download.dre.vanderbilt.edu</download_url>
+      <url_name>ciao</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53708/ciao_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53708/ciao_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14504035</analysis_id>
+      <tags>
+        <tag>ace</tag>
+        <tag>corba</tag>
+        <tag>ccm</tag>
+      </tags>
+      <analysis>
+        <id>14504035</id>
+        <url>http://www.ohloh.net/analyses/14504035.xml</url>
+        <project_id>4889</project_id>
+        <updated_at>2013-07-10T07:09:03Z</updated_at>
+        <logged_at>2013-07-10T07:09:01Z</logged_at>
+        <min_month>2003-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>314650</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ciao/analyses/14504035/languages.png">
+          <language color="555555" percentage="43" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="39" id="44">
+C++          </language>
+          <language color="D2C690" percentage="10" id="8">
+Perl          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>ACE_TAO_CIAO_License</name>
+          <nice_name>ACE/TAO/CIAOLicense</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>24732</id>
+      <name>tweener</name>
+      <url>http://www.ohloh.net/p/tweener.xml</url>
+      <html_url>http://www.ohloh.net/p/tweener</html_url>
+      <created_at>2008-10-07T16:43:25Z</created_at>
+      <updated_at>2013-06-10T21:29:56Z</updated_at>
+      <description>Tweener (caurina.transitions.Tweener) is a Class used to create tweenings and other transitions via ActionScript code for projects built on the Flash platform. It's released and maintained for these versions: 
+
+ActionScript 2.0, for Flash 7+ and Flash Lite 2.0+ ActionScript 2.0, for Flash 8+ ActionSctipt 3.0, for Flash 9+ Ported/inspired versions for other languages are also available: 
+
+haXe version (ported by Baluta Cristian) JavaScript version (ported by Yuichi Tateno) JavaScript version (ported by Michael MacMillan) vvvv version using nodes vvvv version using a native C# dll (faster) (ported by by Rene Westhof) Python version (ported by Benjamin Harling) C++ version (ported by Wesley Marques) In layman's terms, Tweener helps you move things around on the screen using only code, instead of the timeline. 
+
+The general idea of a tweening Class is that dynamic animation and transitions (created by code) are easier to maintain and control, and more stable than animation based on the regular Flash timeline, since you can control it by time rather than by frames. 
+
+Aimed both for designers and advanced developers, the Tweener syntax is created with simplicity of use in mind, while still allowing access to more advanced features. Because of this, it follows a 'one-line' design mentality when creating new tweenings, with no instancing required (as it's a static Class) and a set of optional parameters. Also, there are no initialization methods required by Tweener, other than the mandatory 'import' command. 
+
+Its fluid syntax allows it to be used to tween any numeric property of any object of any class, so it is not tied to specific properties of built-in Classes such as MovieClips or TextFields. This flexibility grants a wider control on how transitions are performed, and makes creating complex sequential transitions on any kind of object easier. 
+
+Small file overhead is also one of the main goals of Tweener - once included on SWF movies, Tweener currently takes 8.8kb (AS2 FL2), 9.2kb (AS2) or 10.4kb (AS3) of the total compiled file size. It can be compiled with the Flash IDE, MTASC, or Flex SDK (even with strict rules on), with no errors or warnings thrown during compilation. 
+
+Tweener is also the spiritual successor to MC Tween. However, it follows ActionScript's more strict OOP rules, and gets rid of the fixed parameter order syntax imposed by MC Tween. As a result, code written with Tweener is a lot more readable even for developers not versed on the Class. 
+
+Development wise, modularity is one of the main aspects of Tweener. The code is built in a way that new features such as transitions and special tweenings can be added (or removed) easily: for example, properties that are only acessible through methods and functions can be tweened by creating and registering new special properties. Expanding the feature set of the original Class can be done on a per-project basis, with no change to the original files. 
+
+From this page, you can download the latest stable (heavily tested) version of Tweener, check out a few examples with source, or read the documentation. There's also a mailing list for Tweener discussion. 
+
+If you prefer, you can also get the very latest versions from Subversion, before they're considered stable and featured on the download list (the changelog is available here). The repository can also be viewed with a web browser.</description>
+      <homepage_url>http://code.google.com/p/tweener</homepage_url>
+      <download_url></download_url>
+      <url_name>tweener</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14222519</analysis_id>
+      <tags>
+        <tag>air</tag>
+        <tag>actionscript</tag>
+        <tag>flashlite</tag>
+        <tag>animation</tag>
+        <tag>tweening</tag>
+        <tag>flex</tag>
+        <tag>transition</tag>
+        <tag>apollo</tag>
+        <tag>easing</tag>
+        <tag>as3</tag>
+        <tag>flash</tag>
+        <tag>as2</tag>
+        <tag>equations</tag>
+        <tag>adobe</tag>
+        <tag>tween</tag>
+      </tags>
+      <analysis>
+        <id>14222519</id>
+        <url>http://www.ohloh.net/analyses/14222519.xml</url>
+        <project_id>24732</project_id>
+        <updated_at>2013-07-09T23:53:24Z</updated_at>
+        <logged_at>2013-07-09T23:53:22Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11304</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tweener/analyses/14222519/languages.png">
+          <language color="EEE" percentage="62" id="53">
+ActionScript          </language>
+          <language color="47A400" percentage="35" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>53</main_language_id>
+        <main_language_name>ActionScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

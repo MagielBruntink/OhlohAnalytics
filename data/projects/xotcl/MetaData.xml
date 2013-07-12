@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9136</id>
+      <name>XOTcl</name>
+      <url>http://www.ohloh.net/p/xotcl.xml</url>
+      <html_url>http://www.ohloh.net/p/xotcl</html_url>
+      <created_at>2007-10-14T13:32:59Z</created_at>
+      <updated_at>2013-07-11T03:50:54Z</updated_at>
+      <description>Extended Object Tcl (for short: XOTcl, pronounced exotickle) is an object-oriented scripting language based on Tcl. Actually, it is implemented as a Tcl extension. Extended Object Tcl was originally designed for providing language support for design patterns and provides novel constructs such as filters or transitive mixin classes. The language is designed for empowering rather than constraining system developers. The basic object model is highly influenced by CLOS.</description>
+      <homepage_url>http://www.xotcl.org</homepage_url>
+      <download_url>http://media.wu-wien.ac.at/download.html</download_url>
+      <url_name>xotcl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42809/xotcl_cut_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42809/xotcl_cut_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14584034</analysis_id>
+      <tags>
+        <tag>tcl</tag>
+        <tag>xotcl</tag>
+      </tags>
+      <analysis>
+        <id>14584034</id>
+        <url>http://www.ohloh.net/analyses/14584034.xml</url>
+        <project_id>9136</project_id>
+        <updated_at>2013-07-11T03:50:54Z</updated_at>
+        <logged_at>2013-07-11T03:47:36Z</logged_at>
+        <min_month>2004-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>157108</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xotcl/analyses/14584034/languages.png">
+          <language color="D290A8" percentage="26" id="25">
+Tcl          </language>
+          <language color="FF8F00" percentage="26" id="42">
+C          </language>
+          <language color="EEE" percentage="15" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="33" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>25</main_language_id>
+        <main_language_name>Tcl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

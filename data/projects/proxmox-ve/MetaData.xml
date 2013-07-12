@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>466671</id>
+      <name>Proxmox VE</name>
+      <url>http://www.ohloh.net/p/proxmox-ve.xml</url>
+      <html_url>http://www.ohloh.net/p/proxmox-ve</html_url>
+      <created_at>2009-10-23T16:19:14Z</created_at>
+      <updated_at>2013-07-09T11:36:49Z</updated_at>
+      <description>Proxmox Virtual Environment (VE) is an OpenVZ and KVM based Open Source virtualization platform for running Virtual Appliances and Virtual Machines. Proxmox VE is an open source project, developed and maintained by Proxmox Server Solutions GmbH with financial support from Internet Foundation Austria (IPA).</description>
+      <homepage_url>http://pve.proxmox.com/wiki/Main_Page</homepage_url>
+      <download_url>http://pve.proxmox.com/wiki/Downloads</download_url>
+      <url_name>proxmox-ve</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571641</analysis_id>
+      <tags>
+        <tag>virtualization</tag>
+        <tag>openvz</tag>
+        <tag>virtualisation</tag>
+        <tag>sysadmin</tag>
+        <tag>kvm</tag>
+      </tags>
+      <analysis>
+        <id>14571641</id>
+        <url>http://www.ohloh.net/analyses/14571641.xml</url>
+        <project_id>466671</project_id>
+        <updated_at>2013-07-09T11:36:48Z</updated_at>
+        <logged_at>2013-07-09T10:44:10Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>79358</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/proxmox-ve/analyses/14571641/languages.png">
+          <language color="D2C690" percentage="36" id="8">
+Perl          </language>
+          <language color="A4007E" percentage="31" id="6">
+JavaScript          </language>
+          <language color="FF8F00" percentage="13" id="42">
+C          </language>
+          <language color="000000" percentage="20" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

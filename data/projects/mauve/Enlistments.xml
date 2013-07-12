@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>22014</id>
+      <project_id>8957</project_id>
+      <repository_id>21291</repository_id>
+      <repository>
+        <id>21291</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anoncvs:@sources.redhat.com:/cvs/mauve</url>
+        <module_name>builder</module_name>
+        <username>anoncvs</username>
+        <password></password>
+        <logged_at>2012-10-21T02:32:40Z</logged_at>
+        <commits>31</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>17389</id>
+      <project_id>8957</project_id>
+      <repository_id>16847</repository_id>
+      <repository>
+        <id>16847</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anoncvs:@sources.redhat.com:/cvs/mauve</url>
+        <module_name>mauve</module_name>
+        <username>anoncvs</username>
+        <password></password>
+        <logged_at>2012-10-21T02:31:30Z</logged_at>
+        <commits>2441</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

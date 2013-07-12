@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>9251</id>
+      <project_id>4583</project_id>
+      <repository_id>9082</repository_id>
+      <repository>
+        <id>9082</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:anonymous@cvs.drupal.org:/cvs/drupal-contrib</url>
+        <module_name>contributions/modules/drake</module_name>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2011-12-02T13:52:29Z</logged_at>
+        <commits>2</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

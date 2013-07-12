@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8389</id>
+      <name>Adhearsion</name>
+      <url>http://www.ohloh.net/p/adhearsion.xml</url>
+      <html_url>http://www.ohloh.net/p/adhearsion</html_url>
+      <created_at>2007-09-11T14:35:33Z</created_at>
+      <updated_at>2013-07-03T23:11:55Z</updated_at>
+      <description>Adhearsion is an open-source voice application development framework written in Ruby.  Adhearsion users write applications atop the framework with  native Ruby syntax and a simplified Domain-Specific Language for call management enabling users to call into their code.
+
+Adhearsion rests above a lower-level telephony platform, namely Asterisk, and provides a framework for integrating with various resources, such as SQL, LDAP and XMPP (Jabber).
+
+Adhearsion has...
+*An elegant dialplan system for writing the code which controls a live phone call
+*A sophisticated Asterisk Manager Interface library
+*An events subsystem
+*A reuseable component architecture
+*Ability to re-use existing Ruby on Rails database models with ActiveRecord/ActiveLDAP
+*Easy interactive communication via XMPP instant messages</description>
+      <homepage_url>http://adhearsion.com</homepage_url>
+      <download_url>https://rubygems.org/gems/adhearsion</download_url>
+      <url_name>adhearsion</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34710/adhearsion-icon_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34710/adhearsion-icon_small.jpg</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14518801</analysis_id>
+      <tags>
+        <tag>telephony</tag>
+        <tag>ruby19</tag>
+        <tag>ldap</tag>
+        <tag>voip</tag>
+        <tag>ami</tag>
+        <tag>mri</tag>
+        <tag>rubyonrails</tag>
+        <tag>asterisk</tag>
+        <tag>sip</tag>
+        <tag>ruby</tag>
+        <tag>rubygem</tag>
+        <tag>freeswitch</tag>
+        <tag>rubygems</tag>
+        <tag>agi</tag>
+        <tag>xmpp</tag>
+        <tag>jruby</tag>
+        <tag>sql</tag>
+        <tag>activerecord</tag>
+      </tags>
+      <analysis>
+        <id>14518801</id>
+        <url>http://www.ohloh.net/analyses/14518801.xml</url>
+        <project_id>8389</project_id>
+        <updated_at>2013-07-03T23:11:54Z</updated_at>
+        <logged_at>2013-07-03T22:58:57Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>20634</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/adhearsion/analyses/14518801/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

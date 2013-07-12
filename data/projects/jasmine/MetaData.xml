@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12326</id>
+      <name>JASMINe</name>
+      <url>http://www.ohloh.net/p/jasmine.xml</url>
+      <html_url>http://www.ohloh.net/p/jasmine</html_url>
+      <created_at>2008-02-27T13:18:17Z</created_at>
+      <updated_at>2013-07-09T20:34:23Z</updated_at>
+      <description>JASMINe is an advanced configuration and management tool for Java EE cluster (JOnAS). It provides the following features 
+- cluster configuration and deploy ment through a Eclipse RCP console
+- cluster monitoring and error detection mechanisms
+- an soon, some automatic scaling and healing capabilities
+
+JASMINe is an OW2 project.</description>
+      <homepage_url>http://jasmine.ow2.org</homepage_url>
+      <download_url>http://wiki.jasmine.objectweb.org/xwiki/bin/view/Main/Downloads</download_url>
+      <url_name>jasmine</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1644/jasmine_logo-64x64_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1644/jasmine_logo-64x64_small.gif</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14431155</analysis_id>
+      <tags>
+        <tag>cluster</tag>
+        <tag>javaee</tag>
+        <tag>jonas</tag>
+        <tag>jmx</tag>
+        <tag>management</tag>
+        <tag>j2ee</tag>
+        <tag>easybeans</tag>
+        <tag>autonomous</tag>
+      </tags>
+      <analysis>
+        <id>14431155</id>
+        <url>http://www.ohloh.net/analyses/14431155.xml</url>
+        <project_id>12326</project_id>
+        <updated_at>2013-07-06T12:40:08Z</updated_at>
+        <logged_at>2013-07-06T12:34:26Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>495388</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jasmine/analyses/14431155/languages.png">
+          <language color="555555" percentage="47" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="24" id="5">
+Java          </language>
+          <language color="556655" percentage="10" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="19" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

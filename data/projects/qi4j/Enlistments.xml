@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>242113</id>
+      <project_id>13150</project_id>
+      <repository_id>239763</repository_id>
+      <repository>
+        <id>239763</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Qi4j/qi4j-sandbox.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-08T09:08:11Z</logged_at>
+        <commits>701</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>242110</id>
+      <project_id>13150</project_id>
+      <repository_id>239760</repository_id>
+      <repository>
+        <id>239760</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Qi4j/qi4j-sdk.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-08T09:05:29Z</logged_at>
+        <commits>4382</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486249</id>
+      <name>FDroid Repository</name>
+      <url>http://www.ohloh.net/p/fdroid.xml</url>
+      <html_url>http://www.ohloh.net/p/fdroid</html_url>
+      <created_at>2010-10-30T12:44:27Z</created_at>
+      <updated_at>2013-07-08T07:10:22Z</updated_at>
+      <description>Repository (alternative market) for FOSS applications on the Android platform.</description>
+      <homepage_url>http://f-droid.org/repository</homepage_url>
+      <download_url>http://f-droid.org/repository</download_url>
+      <url_name>fdroid</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567923</analysis_id>
+      <tags>
+        <tag>android</tag>
+        <tag>repository</tag>
+        <tag>foss</tag>
+        <tag>directory</tag>
+        <tag>apps</tag>
+        <tag>mobile</tag>
+        <tag>appstore</tag>
+      </tags>
+      <analysis>
+        <id>14567923</id>
+        <url>http://www.ohloh.net/analyses/14567923.xml</url>
+        <project_id>486249</project_id>
+        <updated_at>2013-07-08T07:10:22Z</updated_at>
+        <logged_at>2013-07-08T04:26:07Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>61</twelve_month_contributor_count>
+        <total_code_lines>65352</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fdroid/analyses/14567923/languages.png">
+          <language color="555555" percentage="86" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="7" id="5">
+Java          </language>
+          <language color="4A246B" percentage="6" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

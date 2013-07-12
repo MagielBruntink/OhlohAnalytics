@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4886</id>
+      <name>Apache James jSieve</name>
+      <url>http://www.ohloh.net/p/jsieve.xml</url>
+      <html_url>http://www.ohloh.net/p/jsieve</html_url>
+      <created_at>2007-04-14T11:01:44Z</created_at>
+      <updated_at>2013-06-19T17:18:29Z</updated_at>
+      <description>jSieve is a Java implementation of the Sieve mail filtering language defined by RFC 3028. jSieve is implemented as a language processor that can be plugged into any internet mail application to add Sieve support.
+
+Sieve is an extensible mail filtering language. It's limited expressiveness (no loops or variables, no tests with side effects) allows user created scripts to be run safely on email servers. Sieve is targeted at the final delivery phase (where an incoming email is transfered to a user's mailbox).
+
+Sieve scripts are composed of commands. Control commands manage the execution of the script. Test commands define side-effect free criteria. Action commands are mail operations to be performed.</description>
+      <homepage_url>http://james.apache.org/jsieve/index.html</homepage_url>
+      <download_url>http://james.apache.org/download.cgi</download_url>
+      <url_name>jsieve</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14342/james_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14342/james_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14311197</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>email</tag>
+        <tag>sieve</tag>
+        <tag>james</tag>
+        <tag>mailet</tag>
+        <tag>apache</tag>
+        <tag>asf</tag>
+      </tags>
+      <analysis>
+        <id>14311197</id>
+        <url>http://www.ohloh.net/analyses/14311197.xml</url>
+        <project_id>4886</project_id>
+        <updated_at>2013-07-07T01:19:40Z</updated_at>
+        <logged_at>2013-07-07T01:19:35Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>16571</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jsieve/analyses/14311197/languages.png">
+          <language color="9A63AD" percentage="91" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3880</id>
+      <name>openSpeak</name>
+      <url>http://www.ohloh.net/p/openspeak.xml</url>
+      <html_url>http://www.ohloh.net/p/openspeak</html_url>
+      <created_at>2006-12-24T21:56:43Z</created_at>
+      <updated_at>2011-03-25T08:14:25Z</updated_at>
+      <description>openSpeak is a VoIP solution currently in development. It&#8217;s basically aimed at clan or casual gamers who like to chat with their friends/teammates while playing. There is currently support for Windows and Linux, other platforms might be added later on.</description>
+      <homepage_url>http://openspeak-project.org</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=183605</download_url>
+      <url_name>openspeak</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7564/Open_Speak_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7564/Open_Speak_logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1805689</analysis_id>
+      <tags>
+        <tag>voip</tag>
+        <tag>voice</tag>
+        <tag>linux</tag>
+        <tag>wxwidgets</tag>
+        <tag>chat</tag>
+        <tag>talk</tag>
+        <tag>windows</tag>
+        <tag>communication</tag>
+        <tag>audio</tag>
+        <tag>speak</tag>
+      </tags>
+      <analysis>
+        <id>1805689</id>
+        <url>http://www.ohloh.net/analyses/1805689.xml</url>
+        <project_id>3880</project_id>
+        <updated_at>2011-03-25T08:14:25Z</updated_at>
+        <logged_at>2009-05-08T16:12:48Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8192</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openspeak/analyses/1805689/languages.png">
+          <language color="F35F1F" percentage="87" id="44">
+C++          </language>
+          <language color="EEE" percentage="7" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>64673</id>
+      <name>resharper-tdd-productivity-plugin</name>
+      <url>http://www.ohloh.net/p/resharper-tdd-productivity-plugin.xml</url>
+      <html_url>http://www.ohloh.net/p/resharper-tdd-productivity-plugin</html_url>
+      <created_at>2008-12-18T13:18:27Z</created_at>
+      <updated_at>2013-06-25T02:23:41Z</updated_at>
+      <description>TDD Productivity Plugin for ResharperThis is a plugin for the popular Visual Studio Addin Resharper.  
+
+This plugin adds additional Context Actions that reduce the keystrokes and mouse clicks required to perform Test Driven Development.   
+
+The goal of this project is to prototype features which make TDD in Visual Studio easier than the Drag &amp; Drop programing that Visual Studio was designed for. It would be great if these features were rolled into Resharper or Visual Studio. 
+
+Current Features: 
+
+1. Move type to new file in different project.
+2. Create class in a referenced project.
+3. Create interface in a referenced project.
+4. Plug in auto update.Previous Version Compatible with Resharper 4.1(933) 
+
+Latest Version Compatible with Resharper 4.5(1181)</description>
+      <homepage_url>http://code.google.com/p/resharper-tdd-productivity-plugin</homepage_url>
+      <download_url></download_url>
+      <url_name>resharper-tdd-productivity-plugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14394176</analysis_id>
+      <tags>
+        <tag>resharper</tag>
+        <tag>net</tag>
+        <tag>testdrivendevelopment</tag>
+        <tag>productivity</tag>
+        <tag>plugin</tag>
+        <tag>tdd</tag>
+        <tag>csharp</tag>
+      </tags>
+      <analysis>
+        <id>14394176</id>
+        <url>http://www.ohloh.net/analyses/14394176.xml</url>
+        <project_id>64673</project_id>
+        <updated_at>2013-07-03T08:06:19Z</updated_at>
+        <logged_at>2013-07-03T08:06:17Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2009-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>43177</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/resharper-tdd-productivity-plugin/analyses/14394176/languages.png">
+          <language color="555555" percentage="90" id="3">
+XML          </language>
+          <language color="556677" percentage="6" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

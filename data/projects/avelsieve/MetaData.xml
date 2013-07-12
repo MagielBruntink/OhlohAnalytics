@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5399</id>
+      <name>avelsieve</name>
+      <url>http://www.ohloh.net/p/avelsieve.xml</url>
+      <html_url>http://www.ohloh.net/p/avelsieve</html_url>
+      <created_at>2007-05-15T19:02:07Z</created_at>
+      <updated_at>2013-07-07T03:52:45Z</updated_at>
+      <description>Avelsieve is a Squirrelmail plugin for creating Sieve scripts on a Sieve-compliant mail server (usually either IMAP or MSA/MTA).
+
+Some Sieve-compliant servers are Cyrus IMAP, DBMail, Sun Messaging Server and Isode M-Box.
+
+Sieve is a mail filtering language, intended for server-side filtering of emails. For more information, see RFC 5228 and http://sieve.info.</description>
+      <homepage_url>http://code.uoa.gr/p/avelsieve/</homepage_url>
+      <download_url>http://code.uoa.gr/p/avelsieve/download.php</download_url>
+      <url_name>avelsieve</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14558999</analysis_id>
+      <tags>
+        <tag>filter</tag>
+        <tag>mail</tag>
+        <tag>web</tag>
+        <tag>email</tag>
+        <tag>sieve</tag>
+        <tag>webmail</tag>
+        <tag>php</tag>
+        <tag>plugin</tag>
+      </tags>
+      <analysis>
+        <id>14558999</id>
+        <url>http://www.ohloh.net/analyses/14558999.xml</url>
+        <project_id>5399</project_id>
+        <updated_at>2013-07-12T08:33:59Z</updated_at>
+        <logged_at>2013-07-12T08:33:49Z</logged_at>
+        <min_month>2003-10-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9971</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/avelsieve/analyses/14558999/languages.png">
+          <language color="356AA0" percentage="74" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="12" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

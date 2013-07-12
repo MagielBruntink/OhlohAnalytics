@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17056</id>
+      <name>Fredistrano</name>
+      <url>http://www.ohloh.net/p/fredistrano.xml</url>
+      <html_url>http://www.ohloh.net/p/fredistrano</html_url>
+      <created_at>2008-10-03T22:18:25Z</created_at>
+      <updated_at>2013-07-11T18:24:18Z</updated_at>
+      <description>Fredistrano is a deployment tool for web applications. It automates the export of your sources from a subversion repository and synchronizes them with the content of a target directory. Several manual tasks are also handled directly by the application during the deployment: renaming of configuration files, modifying permissions... Fredistrano is inspired from the smart Capistrano project.</description>
+      <homepage_url>http://code.google.com/p/fredistrano/</homepage_url>
+      <download_url>http://code.google.com/p/fredistrano/downloads/list</download_url>
+      <url_name>fredistrano</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9197/fredistano_small_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9197/fredistano_small_64_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532462</analysis_id>
+      <tags>
+        <tag>rsync</tag>
+        <tag>web</tag>
+        <tag>php</tag>
+        <tag>deploy</tag>
+        <tag>php5</tag>
+        <tag>cakephp</tag>
+        <tag>application</tag>
+        <tag>deployment</tag>
+        <tag>svn</tag>
+      </tags>
+      <analysis>
+        <id>14532462</id>
+        <url>http://www.ohloh.net/analyses/14532462.xml</url>
+        <project_id>17056</project_id>
+        <updated_at>2013-07-05T04:08:30Z</updated_at>
+        <logged_at>2013-07-05T03:42:34Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>231416</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fredistrano/analyses/14532462/languages.png">
+          <language color="356AA0" percentage="85" id="2">
+PHP          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="2" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

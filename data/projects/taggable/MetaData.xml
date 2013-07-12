@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>818</id>
+      <name>acts_as_taggable</name>
+      <url>http://www.ohloh.net/p/taggable.xml</url>
+      <html_url>http://www.ohloh.net/p/taggable</html_url>
+      <created_at>2006-10-11T06:20:07Z</created_at>
+      <updated_at>2013-06-27T06:56:11Z</updated_at>
+      <description>This ActiveRecord acts-as mixin provides an easy way for addind tagging capabilities (also known as folksnomy) to your ActiveRecord objects. It allows you to apply tags to your objects as well as search for tagged objects.</description>
+      <homepage_url>http://rubyforge.org/projects/taggable/</homepage_url>
+      <download_url></download_url>
+      <url_name>taggable</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1180/ruby_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1180/ruby_library_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14429584</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>rails</tag>
+        <tag>dynamic_content</tag>
+        <tag>railsplugin</tag>
+        <tag>cgi_tools_and_libraries</tag>
+      </tags>
+      <analysis>
+        <id>14429584</id>
+        <url>http://www.ohloh.net/analyses/14429584.xml</url>
+        <project_id>818</project_id>
+        <updated_at>2013-07-08T11:25:56Z</updated_at>
+        <logged_at>2013-07-08T11:25:54Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2006-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>472</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/taggable/analyses/14429584/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

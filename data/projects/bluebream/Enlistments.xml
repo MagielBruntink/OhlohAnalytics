@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>160910</id>
+      <project_id>480737</project_id>
+      <repository_id>158972</repository_id>
+      <repository>
+        <id>158972</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.zope.org/repos/main/bluebream/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T03:43:22Z</logged_at>
+        <commits>285</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>160915</id>
+      <project_id>480737</project_id>
+      <repository_id>158977</repository_id>
+      <repository>
+        <id>158977</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.zope.org/repos/main/bluebream/website</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T03:38:59Z</logged_at>
+        <commits>470</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9925</id>
+      <name>Extended Module Player</name>
+      <url>http://www.ohloh.net/p/xmp.xml</url>
+      <html_url>http://www.ohloh.net/p/xmp</html_url>
+      <created_at>2007-11-27T20:04:16Z</created_at>
+      <updated_at>2013-07-06T22:10:12Z</updated_at>
+      <description>The Extended Module Player, or xmp, is a portable command-line module player for Unix and Unix-like systems.</description>
+      <homepage_url>http://xmp.sourceforge.net</homepage_url>
+      <download_url>http://xmp.sourceforge.net</download_url>
+      <url_name>xmp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41316/icon512_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41316/icon512_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14556106</analysis_id>
+      <tags>
+        <tag>tracker</tag>
+        <tag>modplayer</tag>
+        <tag>mod</tag>
+        <tag>xm</tag>
+        <tag>s3m</tag>
+        <tag>it</tag>
+      </tags>
+      <analysis>
+        <id>14556106</id>
+        <url>http://www.ohloh.net/analyses/14556106.xml</url>
+        <project_id>9925</project_id>
+        <updated_at>2013-07-06T22:10:12Z</updated_at>
+        <logged_at>2013-07-06T22:02:02Z</logged_at>
+        <min_month>2001-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>78530</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xmp/analyses/14556106/languages.png">
+          <language color="FF8F00" percentage="82" id="42">
+C          </language>
+          <language color="4A246B" percentage="11" id="9">
+Python          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

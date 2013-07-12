@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26996</id>
+      <name>picket</name>
+      <url>http://www.ohloh.net/p/picket.xml</url>
+      <html_url>http://www.ohloh.net/p/picket</html_url>
+      <created_at>2008-11-26T13:54:58Z</created_at>
+      <updated_at>2013-07-11T18:19:05Z</updated_at>
+      <description>Picket is flexible Bugticket Tracker or Issue Tracker or Bug Tracker written in Python over Django framework.</description>
+      <homepage_url>http://picket.nophp.ru/</homepage_url>
+      <download_url>https://sourceforge.net/project/platformdownload.php?group_id=210642</download_url>
+      <url_name>picket</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558073</analysis_id>
+      <tags>
+        <tag>django</tag>
+        <tag>bugtracker</tag>
+        <tag>web</tag>
+        <tag>mongodb</tag>
+        <tag>mongo</tag>
+        <tag>python</tag>
+        <tag>issue-tracker</tag>
+        <tag>bug_tracker</tag>
+        <tag>mantis</tag>
+        <tag>issuetracker</tag>
+      </tags>
+      <analysis>
+        <id>14558073</id>
+        <url>http://www.ohloh.net/analyses/14558073.xml</url>
+        <project_id>26996</project_id>
+        <updated_at>2013-07-07T01:50:24Z</updated_at>
+        <logged_at>2013-07-07T01:31:36Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4140</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/picket/analyses/14558073/languages.png">
+          <language color="4A246B" percentage="39" id="9">
+Python          </language>
+          <language color="47A400" percentage="31" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="14" id="4">
+CSS          </language>
+          <language color="000000" percentage="16" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

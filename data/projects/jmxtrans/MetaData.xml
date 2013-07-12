@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487102</id>
+      <name>jmxtrans</name>
+      <url>http://www.ohloh.net/p/jmxtrans.xml</url>
+      <html_url>http://www.ohloh.net/p/jmxtrans</html_url>
+      <created_at>2010-12-18T19:10:31Z</created_at>
+      <updated_at>2013-06-21T21:52:46Z</updated_at>
+      <description>This is effectively the missing connector between JMX and whatever logging / graphing package that you can dream up.
+
+jmxtrans is very powerful tool which reads json configuration files of servers/ports and jmx domains / attributes / types and then outputs the data in whatever format you want via special 'Writer' objects which you can code up yourself. It does this with a very efficient engine design that will scale to querying literally thousands of machines.</description>
+      <homepage_url>http://code.google.com/p/jmxtrans/</homepage_url>
+      <download_url>http://code.google.com/p/jmxtrans/downloads/list</download_url>
+      <url_name>jmxtrans</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14331295</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>jmx</tag>
+        <tag>management</tag>
+      </tags>
+      <analysis>
+        <id>14331295</id>
+        <url>http://www.ohloh.net/analyses/14331295.xml</url>
+        <project_id>487102</project_id>
+        <updated_at>2013-07-01T09:31:37Z</updated_at>
+        <logged_at>2013-07-01T09:31:33Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>27071</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jmxtrans/analyses/14331295/languages.png">
+          <language color="47A400" percentage="75" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="15" id="5">
+Java          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

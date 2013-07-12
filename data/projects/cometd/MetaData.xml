@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9211</id>
+      <name>CometD</name>
+      <url>http://www.ohloh.net/p/cometd.xml</url>
+      <html_url>http://www.ohloh.net/p/cometd</html_url>
+      <created_at>2007-10-19T01:19:41Z</created_at>
+      <updated_at>2013-06-19T12:41:41Z</updated_at>
+      <description>CometD is a scalable HTTP and Websocket based event routing bus that uses a Ajax Push technology pattern known as Comet to enable web messaging.</description>
+      <homepage_url>http://cometd.org</homepage_url>
+      <download_url>http://download.cometd.org</download_url>
+      <url_name>cometd</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>6</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14307396</analysis_id>
+      <tags>
+        <tag>bayeux</tag>
+        <tag>cometd</tag>
+        <tag>ajax</tag>
+        <tag>javascript</tag>
+        <tag>java</tag>
+        <tag>web</tag>
+        <tag>comet</tag>
+        <tag>messaging</tag>
+        <tag>jetty</tag>
+      </tags>
+      <analysis>
+        <id>14307396</id>
+        <url>http://www.ohloh.net/analyses/14307396.xml</url>
+        <project_id>9211</project_id>
+        <updated_at>2013-06-19T12:41:41Z</updated_at>
+        <logged_at>2013-06-18T23:32:21Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>66943</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cometd/analyses/14307396/languages.png">
+          <language color="9A63AD" percentage="62" id="5">
+Java          </language>
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

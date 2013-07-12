@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>526114</id>
+      <project_id>5654</project_id>
+      <repository_id>528654</repository_id>
+      <repository>
+        <id>528654</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Jajcus/cjc.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-25T19:43:45Z</logged_at>
+        <commits>747</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>12165</id>
+      <project_id>5654</project_id>
+      <repository_id>11840</repository_id>
+      <repository>
+        <id>11840</id>
+        <type>SvnRepository</type>
+        <url>http://cjc.jajcus.net/svn/cjc/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2010-08-05T09:05:37Z</logged_at>
+        <commits>725</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

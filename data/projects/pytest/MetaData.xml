@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>416358</id>
+      <name>py.test</name>
+      <url>http://www.ohloh.net/p/pytest.xml</url>
+      <html_url>http://www.ohloh.net/p/pytest</html_url>
+      <created_at>2009-08-29T01:33:10Z</created_at>
+      <updated_at>2013-07-11T12:10:38Z</updated_at>
+      <description>py.test is a command line tool to collect and run automated tests. It supports many testing methods conventionally used in the Python community. It runs traditional unittest.py, doctest.py, supports xUnit style setup and nose specific setups and test suites. It offers minimal no-boilerplate model for configuring and deploying tests written as simple Python functions or methods. It also integrates coverage testing with figleaf or Javasript unit- and functional testing.</description>
+      <homepage_url>http://pytest.org</homepage_url>
+      <download_url>http://codespeak.net/py/dist/download.html</download_url>
+      <url_name>pytest</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23723/pylib_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23723/pylib_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14589744</analysis_id>
+      <analysis>
+        <id>14589744</id>
+        <url>http://www.ohloh.net/analyses/14589744.xml</url>
+        <project_id>416358</project_id>
+        <updated_at>2013-07-11T12:10:37Z</updated_at>
+        <logged_at>2013-07-11T12:06:45Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>17969</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pytest/analyses/14589744/languages.png">
+          <language color="4A246B" percentage="95" id="9">
+Python          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

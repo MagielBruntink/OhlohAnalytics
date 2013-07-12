@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481215</id>
+      <name>Armadillo C++ Library</name>
+      <url>http://www.ohloh.net/p/arma.xml</url>
+      <html_url>http://www.ohloh.net/p/arma</html_url>
+      <created_at>2010-02-18T14:39:36Z</created_at>
+      <updated_at>2013-07-12T01:25:31Z</updated_at>
+      <description>Armadillo is a C++ linear algebra library (matrix maths) aiming towards a good balance between speed and ease of use. Integer, floating point and complex numbers are supported, as well as a subset of trigonometric and statistics functions. Various matrix decompositions are provided through optional integration with LAPACK and ATLAS libraries.
+
+A delayed evaluation approach is employed (during compile time) to combine several operations into one and reduce (or eliminate) the need for temporaries. This is accomplished through recursive templates and template meta-programming.
+
+This library is useful if C++ has been decided as the language of choice (due to speed and/or integration capabilities), rather than another language like Matlab or Octave.</description>
+      <homepage_url>http://arma.sourceforge.net</homepage_url>
+      <download_url>http://arma.sourceforge.net/download.html</download_url>
+      <url_name>arma</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/30452/logo_crop_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/30452/logo_crop_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14597902</analysis_id>
+      <tags>
+        <tag>matlab</tag>
+        <tag>matrix</tag>
+        <tag>linear-algebra</tag>
+        <tag>lapack</tag>
+        <tag>vector</tag>
+        <tag>atlas</tag>
+        <tag>statistics</tag>
+        <tag>mathematics</tag>
+        <tag>engineering</tag>
+        <tag>library</tag>
+        <tag>blas</tag>
+        <tag>scientific_computing</tag>
+        <tag>templates</tag>
+      </tags>
+      <analysis>
+        <id>14597902</id>
+        <url>http://www.ohloh.net/analyses/14597902.xml</url>
+        <project_id>481215</project_id>
+        <updated_at>2013-07-12T01:25:31Z</updated_at>
+        <logged_at>2013-07-12T01:19:49Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>889651</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/arma/analyses/14597902/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_2_0</name>
+          <nice_name>Mozilla Public License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

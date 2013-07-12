@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487596</id>
+      <name>Open Source Routing Machine</name>
+      <url>http://www.ohloh.net/p/osrm.xml</url>
+      <html_url>http://www.ohloh.net/p/osrm</html_url>
+      <created_at>2011-01-17T21:43:44Z</created_at>
+      <updated_at>2013-07-07T09:23:41Z</updated_at>
+      <description>The Open Source Routing Machine (OSRM) is a C++ implementation of a high-performance routing engine for shortest paths in road networks. It combines sophisticated routing algorithms with the open and free road network data of the OpenStreetMap (OSM) project. Shortest path computation on a continental sized network can take up to several seconds if it is done without a so-called speedup-technique. OSRM is able to compute and output a shortest path between any origin and destination within a few miliseconds. Since it is designed with OpenStreetMap compatibility in mind, OSM data files can be easily imported.</description>
+      <homepage_url>http://project-osrm.org</homepage_url>
+      <download_url>http://project-osrm.org</download_url>
+      <url_name>osrm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560806</analysis_id>
+      <tags>
+        <tag>shortestpath</tag>
+        <tag>maps</tag>
+        <tag>routing</tag>
+        <tag>openstreetmap</tag>
+        <tag>shortestpaths</tag>
+      </tags>
+      <analysis>
+        <id>14560806</id>
+        <url>http://www.ohloh.net/analyses/14560806.xml</url>
+        <project_id>487596</project_id>
+        <updated_at>2013-07-07T09:23:40Z</updated_at>
+        <logged_at>2013-07-07T09:20:38Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>15713</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/osrm/analyses/14560806/languages.png">
+          <language color="F35F1F" percentage="63" id="44">
+C++          </language>
+          <language color="A40011" percentage="14" id="12">
+Ruby          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="14" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10430</id>
+      <name>WebLion</name>
+      <url>http://www.ohloh.net/p/weblion.xml</url>
+      <html_url>http://www.ohloh.net/p/weblion</html_url>
+      <created_at>2007-12-21T03:26:21Z</created_at>
+      <updated_at>2013-07-11T17:57:01Z</updated_at>
+      <description>WebLion has developed a variety of add-on products for Plone.</description>
+      <homepage_url>http://weblion.psu.edu</homepage_url>
+      <download_url>http://weblion.psu.edu/products</download_url>
+      <url_name>weblion</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11141/round_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11141/round_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591999</analysis_id>
+      <tags>
+        <tag>plone</tag>
+        <tag>cms</tag>
+        <tag>community</tag>
+        <tag>zope</tag>
+        <tag>python</tag>
+        <tag>web</tag>
+        <tag>intranet</tag>
+      </tags>
+      <analysis>
+        <id>14591999</id>
+        <url>http://www.ohloh.net/analyses/14591999.xml</url>
+        <project_id>10430</project_id>
+        <updated_at>2013-07-11T17:32:34Z</updated_at>
+        <logged_at>2013-07-11T16:39:14Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>2517114</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/weblion/analyses/14591999/languages.png">
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="4A246B" percentage="24" id="9">
+Python          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="32" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

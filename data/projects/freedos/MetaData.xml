@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12547</id>
+      <name>FreeDOS</name>
+      <url>http://www.ohloh.net/p/freedos.xml</url>
+      <html_url>http://www.ohloh.net/p/freedos</html_url>
+      <created_at>2008-03-05T23:02:32Z</created_at>
+      <updated_at>2013-06-18T20:58:23Z</updated_at>
+      <description>FreeDOS is a free DOS-compatible operating system for IBM-PC compatible systems. FreeDOS is made of up many different, separate programs that act as &quot;packages&quot; to the overall FreeDOS Project.</description>
+      <homepage_url>http://www.freedos.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=5109</download_url>
+      <url_name>freedos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14301354</analysis_id>
+      <tags>
+        <tag>c</tag>
+        <tag>development</tag>
+        <tag>dos</tag>
+        <tag>os</tag>
+        <tag>x86</tag>
+        <tag>kernel</tag>
+        <tag>desktop</tag>
+      </tags>
+      <analysis>
+        <id>14301354</id>
+        <url>http://www.ohloh.net/analyses/14301354.xml</url>
+        <project_id>12547</project_id>
+        <updated_at>2013-07-05T14:24:33Z</updated_at>
+        <logged_at>2013-07-05T13:31:00Z</logged_at>
+        <min_month>2000-05-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>59680</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freedos/analyses/14301354/languages.png">
+          <language color="FF8F00" percentage="71" id="42">
+C          </language>
+          <language color="333333" percentage="18" id="19">
+Assembly          </language>
+          <language color="000000" percentage="11" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

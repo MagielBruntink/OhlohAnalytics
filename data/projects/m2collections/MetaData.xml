@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481995</id>
+      <name>M2Collections</name>
+      <url>http://www.ohloh.net/p/m2collections.xml</url>
+      <html_url>http://www.ohloh.net/p/m2collections</html_url>
+      <created_at>2010-03-23T10:12:11Z</created_at>
+      <updated_at>2013-06-24T20:12:19Z</updated_at>
+      <description>Modula-2 collections library. The library provides an API for collection ADTs, in particular: stacks, queues, double ended queues, priority queues, balanced binary search trees, patricia tries, dynamic arrays and hash tables to store arbitrary data. The hash table ADT allows data to be stored and retrieved by reference or by copy, with built-in reference counting. All other ADTs allow data to be stored and retrieved by reference only. The library follows PIM4, it has no dependencies and it is platform independent. The library is tested with GM2 using option 'fpim4'. Under development. BSD style license.</description>
+      <homepage_url>http://bitbucket.org/trijezdci/m2collections</homepage_url>
+      <download_url>http://bitbucket.org/trijezdci/m2collections/src</download_url>
+      <url_name>m2collections</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14386905</analysis_id>
+      <tags>
+        <tag>stacks</tag>
+        <tag>objective-modula2</tag>
+        <tag>keyvaluestorage</tag>
+        <tag>dynamicarray</tag>
+        <tag>keyvalue</tag>
+        <tag>collection</tag>
+        <tag>binarysearchtrees</tag>
+        <tag>splay</tag>
+        <tag>aatrees</tag>
+        <tag>deque</tag>
+        <tag>gnumodula2</tag>
+        <tag>patricia</tag>
+        <tag>stack</tag>
+        <tag>hashtable</tag>
+        <tag>key-value</tag>
+        <tag>trees</tag>
+        <tag>priorityqueue</tag>
+        <tag>splaytree</tag>
+        <tag>trie</tag>
+        <tag>opaquedatatypes</tag>
+        <tag>gnu-modula2</tag>
+        <tag>reusability</tag>
+        <tag>patriciatrie</tag>
+        <tag>balancedtree</tag>
+        <tag>queues</tag>
+        <tag>modula2</tag>
+        <tag>datastructures</tag>
+        <tag>patriciatries</tag>
+        <tag>binarysearchtree</tag>
+        <tag>key-value-storage</tag>
+        <tag>objective-modula-2</tag>
+        <tag>referencecounting</tag>
+        <tag>opaque-data-type</tag>
+        <tag>collections</tag>
+        <tag>abstract-data-type</tag>
+        <tag>dynamicarrays</tag>
+        <tag>objectivemodula2</tag>
+        <tag>modula-2</tag>
+        <tag>hashtables</tag>
+        <tag>hash</tag>
+        <tag>queue</tag>
+        <tag>gnu-modula-2</tag>
+        <tag>aatree</tag>
+        <tag>splaytrees</tag>
+        <tag>abstractdatatypes</tag>
+      </tags>
+      <analysis>
+        <id>14386905</id>
+        <url>http://www.ohloh.net/analyses/14386905.xml</url>
+        <project_id>481995</project_id>
+        <updated_at>2013-07-04T18:18:11Z</updated_at>
+        <logged_at>2013-07-04T18:18:03Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1743</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/m2collections/analyses/14386905/languages.png">
+          <language color="EEE" percentage="100" id="81">
+Modula-2          </language>
+        </languages>
+        <main_language_id>81</main_language_id>
+        <main_language_name>Modula-2</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

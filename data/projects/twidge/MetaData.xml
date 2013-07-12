@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16773</id>
+      <name>Twidge</name>
+      <url>http://www.ohloh.net/p/twidge.xml</url>
+      <html_url>http://www.ohloh.net/p/twidge</html_url>
+      <created_at>2008-09-18T15:34:33Z</created_at>
+      <updated_at>2013-07-05T20:05:56Z</updated_at>
+      <description>twidge is a client for microblogging sites such as Twitter and Identica (identi.ca). It is extremely versatile, can be customized to work the way you want to work, and can be combined with other tools to do just about anything. It can be used interactively from the shell. It is useful directly as-is, and with simple shell aliases can make a highly efficient system to do exactly what you want. It is perfectly capable of being your only client for microblogging. It can also be used in an automated way, via cron(1), or it can even integrate with your email system.</description>
+      <homepage_url>http://wiki.github.com/jgoerzen/twidge/</homepage_url>
+      <download_url>http://github.com/jgoerzen/twidge/downloads</download_url>
+      <url_name>twidge</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541683</analysis_id>
+      <analysis>
+        <id>14541683</id>
+        <url>http://www.ohloh.net/analyses/14541683.xml</url>
+        <project_id>16773</project_id>
+        <updated_at>2013-07-05T20:05:56Z</updated_at>
+        <logged_at>2013-07-05T20:05:22Z</logged_at>
+        <min_month>2003-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>1248</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/twidge/analyses/14541683/languages.png">
+          <language color="007B7C" percentage="85" id="38">
+Haskell          </language>
+          <language color="777777" percentage="9" id="11">
+shell script          </language>
+          <language color="EEE" percentage="6" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

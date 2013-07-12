@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308522</id>
+      <name>ropemacs</name>
+      <url>http://www.ohloh.net/p/ropemacs.xml</url>
+      <html_url>http://www.ohloh.net/p/ropemacs</html_url>
+      <created_at>2009-01-25T07:20:59Z</created_at>
+      <updated_at>2013-06-30T21:07:04Z</updated_at>
+      <description>Ropemacs is a plugin for performing python refactorings in emacs. It uses rope library and pymacs.</description>
+      <homepage_url>http://rope.sf.net/ropemacs.html</homepage_url>
+      <download_url>http://sf.net/projects/rope/files</download_url>
+      <url_name>ropemacs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14486215</analysis_id>
+      <analysis>
+        <id>14486215</id>
+        <url>http://www.ohloh.net/analyses/14486215.xml</url>
+        <project_id>308522</project_id>
+        <updated_at>2013-06-30T21:07:04Z</updated_at>
+        <logged_at>2013-06-30T21:04:15Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1767</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ropemacs/analyses/14486215/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

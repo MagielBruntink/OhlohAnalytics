@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14102</id>
+      <name>PhpReport</name>
+      <url>http://www.ohloh.net/p/phpreport.xml</url>
+      <html_url>http://www.ohloh.net/p/phpreport</html_url>
+      <created_at>2008-05-19T12:30:06Z</created_at>
+      <updated_at>2013-06-14T04:56:35Z</updated_at>
+      <description>PhpReport is a web application for time tracking, which provides useful statistics about users, projects, and more.
+
+The application is focused on companies or any situation where multiple people collaborate on a project. PhpReport allows managers to see project-level statistics such as cost and deviation, as well as user-level statistics like number of days worked and unused vacation days. In addition, it also includes tools for scheduling projects using extreme programming (XP) methodologies.
+
+Finally, PhpReport can communicate with external applications, like ERPs or desktop tools for personal time-tracking, by means of plugin development or through the exposed web services.</description>
+      <homepage_url>http://phpreport.igalia.com/</homepage_url>
+      <download_url>http://phpreport.igalia.com/#download</download_url>
+      <url_name>phpreport</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14254409</analysis_id>
+      <tags>
+        <tag>work</tag>
+        <tag>igalia</tag>
+        <tag>web</tag>
+        <tag>time_tracking</tag>
+        <tag>php</tag>
+        <tag>management</tag>
+        <tag>teamwork</tag>
+      </tags>
+      <analysis>
+        <id>14254409</id>
+        <url>http://www.ohloh.net/analyses/14254409.xml</url>
+        <project_id>14102</project_id>
+        <updated_at>2013-07-06T10:29:32Z</updated_at>
+        <logged_at>2013-07-06T10:29:15Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>68510</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phpreport/analyses/14254409/languages.png">
+          <language color="356AA0" percentage="53" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="13" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

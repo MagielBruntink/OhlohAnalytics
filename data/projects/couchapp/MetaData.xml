@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>358844</id>
+      <name>Couchapp</name>
+      <url>http://www.ohloh.net/p/couchapp.xml</url>
+      <html_url>http://www.ohloh.net/p/couchapp</html_url>
+      <created_at>2009-08-04T08:29:43Z</created_at>
+      <updated_at>2013-06-25T22:49:17Z</updated_at>
+      <description>CouchApp is designed to structure standalone CouchDB application development for maximum application portability.
+
+CouchApp is a set of scripts and a jQuery plugin designed to bring clarity and order to the freedom of CouchDB's document-based approach.</description>
+      <homepage_url>http://github.com/couchapp/couchapp/</homepage_url>
+      <download_url>http://github.com/couchapp/couchapp/downloads</download_url>
+      <url_name>couchapp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409629</analysis_id>
+      <tags>
+        <tag>javascript</tag>
+        <tag>couchapp</tag>
+        <tag>couchdb</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14409629</id>
+        <url>http://www.ohloh.net/analyses/14409629.xml</url>
+        <project_id>358844</project_id>
+        <updated_at>2013-07-05T20:58:07Z</updated_at>
+        <logged_at>2013-07-05T20:57:44Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4699</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/couchapp/analyses/14409629/languages.png">
+          <language color="4A246B" percentage="67" id="9">
+Python          </language>
+          <language color="A4007E" percentage="23" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

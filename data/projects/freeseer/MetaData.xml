@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481652</id>
+      <name>freeseer</name>
+      <url>http://www.ohloh.net/p/freeseer.xml</url>
+      <html_url>http://www.ohloh.net/p/freeseer</html_url>
+      <created_at>2010-03-07T16:05:17Z</created_at>
+      <updated_at>2013-07-11T05:19:52Z</updated_at>
+      <description>The Freeseer project is a powerful software suite for capturing or streaming video.
+
+It enables you to capture great presentations, demos, training material, and other videos. It handles desktop screen-casting with ease.
+
+It is one of a few such tools that can also record vga output or video from external sources such as firewire, usb, s-video, or rca.
+
+It is particularly good at handling very large conferences with hundreds of talks and speakers using varied hardware and operating systems.
+
+Freeseer itself can run on commodity hardware such as a laptop or desktop. It is supported on Windows, and Linux, It will support MacOS soon.
+
+Freeseer is written in Python, and uses Qt4 for its GUI. It also uses Gstreamer for video/audio processing.
+
+Freeseer is licensed under the GPL license, version</description>
+      <homepage_url>https://github.com/Freeseer/freeseer/wiki</homepage_url>
+      <download_url>https://github.com/Freeseer/freeseer/downloads</download_url>
+      <url_name>freeseer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32206/freeseer_icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32206/freeseer_icon_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14584649</analysis_id>
+      <tags>
+        <tag>sound</tag>
+        <tag>screen_recorder</tag>
+        <tag>screencast</tag>
+        <tag>ogg</tag>
+        <tag>gstreamer</tag>
+        <tag>conference</tag>
+        <tag>vorbis</tag>
+        <tag>desktop_sharing</tag>
+        <tag>webcam</tag>
+        <tag>firewire</tag>
+        <tag>video_capture</tag>
+        <tag>podcast</tag>
+        <tag>python</tag>
+        <tag>video</tag>
+        <tag>elearning</tag>
+        <tag>qt</tag>
+        <tag>audio</tag>
+        <tag>recording</tag>
+        <tag>record</tag>
+        <tag>multimedia</tag>
+      </tags>
+      <analysis>
+        <id>14584649</id>
+        <url>http://www.ohloh.net/analyses/14584649.xml</url>
+        <project_id>481652</project_id>
+        <updated_at>2013-07-11T05:19:52Z</updated_at>
+        <logged_at>2013-07-11T05:13:27Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>28</twelve_month_contributor_count>
+        <total_code_lines>20720</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freeseer/analyses/14584649/languages.png">
+          <language color="4A246B" percentage="62" id="9">
+Python          </language>
+          <language color="555555" percentage="36" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

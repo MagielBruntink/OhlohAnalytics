@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>222089</id>
+      <project_id>69912</project_id>
+      <repository_id>219958</repository_id>
+      <repository>
+        <id>219958</id>
+        <type>GitRepository</type>
+        <url>git://git.debian.org/git/pkg-multimedia/gmusicbrowser.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T11:19:22Z</logged_at>
+        <commits>112</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>106471</id>
+      <project_id>69912</project_id>
+      <repository_id>104791</repository_id>
+      <repository>
+        <id>104791</id>
+        <type>GitRepository</type>
+        <url>git://gmusicbrowser.git.sourceforge.net/gitroot/gmusicbrowser/gmusicbrowser</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T11:17:32Z</logged_at>
+        <commits>1131</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

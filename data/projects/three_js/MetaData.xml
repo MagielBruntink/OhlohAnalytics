@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484117</id>
+      <name>three.js</name>
+      <url>http://www.ohloh.net/p/three_js.xml</url>
+      <html_url>http://www.ohloh.net/p/three_js</html_url>
+      <created_at>2010-07-18T06:18:21Z</created_at>
+      <updated_at>2013-07-07T14:43:31Z</updated_at>
+      <description>The aim of this project is to create a lightweight 3D engine with a very low level of abstraction (aka for dummies). Currently there is no documentation available but feel free to use the examples as a reference and/or read the source code. However, be aware that the API may change from revision to revision breaking compatibility.
+
+The engine can render using  and  and WebGL.</description>
+      <homepage_url>http://github.com/mrdoob/three.js</homepage_url>
+      <download_url>https://github.com/mrdoob/three.js/downloads</download_url>
+      <url_name>three_js</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14562543</analysis_id>
+      <tags>
+        <tag>javascript</tag>
+        <tag>webgl</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14562543</id>
+        <url>http://www.ohloh.net/analyses/14562543.xml</url>
+        <project_id>484117</project_id>
+        <updated_at>2013-07-07T14:43:30Z</updated_at>
+        <logged_at>2013-07-07T14:40:38Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>97</twelve_month_contributor_count>
+        <total_code_lines>168717</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/three_js/analyses/14562543/languages.png">
+          <language color="A4007E" percentage="54" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="29" id="1">
+HTML          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

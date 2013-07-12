@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13835</id>
+      <name>Mayavi2</name>
+      <url>http://www.ohloh.net/p/mayavi2.xml</url>
+      <html_url>http://www.ohloh.net/p/mayavi2</html_url>
+      <created_at>2008-05-07T16:31:44Z</created_at>
+      <updated_at>2013-07-10T14:29:56Z</updated_at>
+      <description>[2009.04.09: Mayavi2 was renamed to Mayavi.  Future updates will be done on the project of that name on Ohloh]
+
+
+Mayavi2 provides easy and interactive visualization of 3-D data. It offers:
+
+* An (optional) rich user interface with dialogs to interact with all data and objects in the visualization.
+
+* A simple and clean scripting interface in Python, including one-liners, or an object-oriented programming interface.
+
+* The power of the VTK toolkit, harnessed through these interfaces, without forcing you to learn it.
+
+Additionally Mayavi2 is a reusable tool that can be embedded in your applications in different ways or combined with the Envisage application-building framework to assemble domain-specific tools.</description>
+      <homepage_url>http://code.enthought.com/projects/mayavi/</homepage_url>
+      <download_url>http://code.enthought.com/downloads/</download_url>
+      <url_name>mayavi2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581721</analysis_id>
+      <analysis>
+        <id>14581721</id>
+        <url>http://www.ohloh.net/analyses/14581721.xml</url>
+        <project_id>13835</project_id>
+        <updated_at>2013-07-10T14:29:55Z</updated_at>
+        <logged_at>2013-07-10T07:46:54Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>140207</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mayavi2/analyses/14581721/languages.png">
+          <language color="4A246B" percentage="86" id="9">
+Python          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

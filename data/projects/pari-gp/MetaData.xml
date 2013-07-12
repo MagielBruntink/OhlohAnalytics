@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14298</id>
+      <name>PARI/GP</name>
+      <url>http://www.ohloh.net/p/pari-gp.xml</url>
+      <html_url>http://www.ohloh.net/p/pari-gp</html_url>
+      <created_at>2008-05-24T10:02:03Z</created_at>
+      <updated_at>2012-06-18T01:36:51Z</updated_at>
+      <description>PARI/GP is a package aimed at efficient computations in number theory, containing a large number of other useful functions. It is somewhat related to a Computer Algebra System, but is not really one since it treats symbolic expressions as mathematical entities such as matrices, polynomials, series, etc., and not as expressions per se. However it is often much faster than other CAS, and contains a large number of specific functions not found elsewhere, essentially for use in number theory.</description>
+      <homepage_url>http://pari.math.u-bordeaux.fr/</homepage_url>
+      <download_url>http://pari.math.u-bordeaux.fr/download.html</download_url>
+      <url_name>pari-gp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1785590</analysis_id>
+      <analysis>
+        <id>1785590</id>
+        <url>http://www.ohloh.net/analyses/1785590.xml</url>
+        <project_id>14298</project_id>
+        <updated_at>2011-03-19T03:42:56Z</updated_at>
+        <logged_at>2008-08-14T02:53:07Z</logged_at>
+        <min_month>1999-09-01T00:00:00Z</min_month>
+        <max_month>2008-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>141691</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pari-gp/analyses/1785590/languages.png">
+          <language color="FF8F00" percentage="87" id="42">
+C          </language>
+          <language color="000080" percentage="12" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

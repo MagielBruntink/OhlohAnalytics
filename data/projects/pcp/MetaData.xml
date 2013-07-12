@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15818</id>
+      <name>pcp</name>
+      <url>http://www.ohloh.net/p/pcp.xml</url>
+      <html_url>http://www.ohloh.net/p/pcp</html_url>
+      <created_at>2008-07-30T02:24:08Z</created_at>
+      <updated_at>2013-07-12T03:46:29Z</updated_at>
+      <description>Performance Co-Pilot (PCP) provides a framework and services to support system-level performance monitoring and performance management.
+
+The services offered by PCP are especially attractive for those tackling harder system-level performance problems. For example this may involve a transient performance degradation, or correlating end-user quality of service with platform activity, or diagnosing some complex interaction between resource demands on a single system, or management of performance on large systems with lots of &quot;moving parts&quot;.
+
+The distributed PCP architecture makes it especially useful for those seeking centralized monitoring of distributed processing (e.g. in a cluster or webserver farm environment), especially where a large number of hosts are involved.</description>
+      <homepage_url>http://oss.sgi.com/projects/pcp/</homepage_url>
+      <download_url>http://oss.sgi.com/projects/pcp/source.html</download_url>
+      <url_name>pcp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13799/pcp_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13799/pcp_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14600049</analysis_id>
+      <tags>
+        <tag>programmable</tag>
+        <tag>event</tag>
+        <tag>database</tag>
+        <tag>plugin</tag>
+        <tag>api</tag>
+        <tag>multi-platform</tag>
+        <tag>mrtg</tag>
+        <tag>logging</tag>
+        <tag>visualization</tag>
+        <tag>c</tag>
+        <tag>monitoring_tools</tag>
+        <tag>monitoring</tag>
+        <tag>perl</tag>
+        <tag>performance</tag>
+        <tag>rrd</tag>
+        <tag>distributed</tag>
+        <tag>statistics</tag>
+        <tag>gui</tag>
+        <tag>network</tag>
+        <tag>pull</tag>
+      </tags>
+      <analysis>
+        <id>14600049</id>
+        <url>http://www.ohloh.net/analyses/14600049.xml</url>
+        <project_id>15818</project_id>
+        <updated_at>2013-07-12T03:46:28Z</updated_at>
+        <logged_at>2013-07-12T03:33:35Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>518868</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pcp/analyses/14600049/languages.png">
+          <language color="FF8F00" percentage="34" id="42">
+C          </language>
+          <language color="777777" percentage="15" id="11">
+shell script          </language>
+          <language color="FF1A00" percentage="14" id="4">
+CSS          </language>
+          <language color="000000" percentage="37" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

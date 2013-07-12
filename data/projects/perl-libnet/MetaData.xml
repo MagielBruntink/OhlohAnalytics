@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11787</id>
+      <name>Perl libnet</name>
+      <url>http://www.ohloh.net/p/perl-libnet.xml</url>
+      <html_url>http://www.ohloh.net/p/perl-libnet</html_url>
+      <created_at>2008-02-16T15:48:43Z</created_at>
+      <updated_at>2013-07-03T02:15:23Z</updated_at>
+      <description>The Perl libnet distribution contains modules for many popular network communication protocols. The library includes Net::FTP, Net::SMTP, Net::POP3 and Net::NNTP</description>
+      <homepage_url>http://search.cpan.org/dist/libnet/</homepage_url>
+      <download_url>http://search.cpan.org/dist/libnet/</download_url>
+      <url_name>perl-libnet</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14509685</analysis_id>
+      <tags>
+        <tag>perl</tag>
+        <tag>pop3</tag>
+        <tag>smtp</tag>
+        <tag>nntp</tag>
+        <tag>ftp</tag>
+      </tags>
+      <analysis>
+        <id>14509685</id>
+        <url>http://www.ohloh.net/analyses/14509685.xml</url>
+        <project_id>11787</project_id>
+        <updated_at>2013-07-03T02:15:22Z</updated_at>
+        <logged_at>2013-07-03T02:14:32Z</logged_at>
+        <min_month>1995-08-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>4777</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/perl-libnet/analyses/14509685/languages.png">
+          <language color="D2C690" percentage="100" id="8">
+Perl          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic</name>
+          <nice_name>Artistic License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

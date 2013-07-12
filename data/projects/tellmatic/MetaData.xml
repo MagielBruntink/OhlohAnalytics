@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4700</id>
+      <name>Tellmatic</name>
+      <url>http://www.ohloh.net/p/tellmatic.xml</url>
+      <html_url>http://www.ohloh.net/p/tellmatic</html_url>
+      <created_at>2007-03-14T18:20:58Z</created_at>
+      <updated_at>2013-07-11T18:36:08Z</updated_at>
+      <description>&quot;Tellmatic - the newsletter machine&quot; is a PHP based newsletter script to create, manage and send personalized newsletters or massmails. It uses WYSIWYG and has a form editor. Recipients and newsletter are stored in unlimited groups. It handles bouncemails and failed adresses automagical.
+
+Tellmatic supports GeoIP, has optimized import/export routines, creates graphical statistics and has multiuser support.
+
+Contains a powerfull blacklisting feature and support for multiple mailservers.</description>
+      <homepage_url>http://www.tellmatic.org</homepage_url>
+      <download_url>http://www.tellmatic.org/downloads</download_url>
+      <url_name>tellmatic</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14281971</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>email</tag>
+        <tag>communications</tag>
+        <tag>utilities</tag>
+        <tag>email_clients_(mua)</tag>
+        <tag>newsletter</tag>
+        <tag>webmail</tag>
+        <tag>list</tag>
+        <tag>maillist</tag>
+        <tag>linux</tag>
+        <tag>downloads</tag>
+        <tag>php</tag>
+        <tag>tools</tag>
+        <tag>mysql</tag>
+        <tag>mail_transport_agents</tag>
+        <tag>mailing_list_servers</tag>
+        <tag>newsreaders</tag>
+        <tag>feed</tag>
+        <tag>marketing</tag>
+        <tag>news</tag>
+        <tag>download</tag>
+        <tag>gnu</tag>
+        <tag>mailing</tag>
+      </tags>
+      <analysis>
+        <id>14281971</id>
+        <url>http://www.ohloh.net/analyses/14281971.xml</url>
+        <project_id>4700</project_id>
+        <updated_at>2013-07-07T11:09:27Z</updated_at>
+        <logged_at>2013-07-07T11:08:29Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>137791</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tellmatic/analyses/14281971/languages.png">
+          <language color="356AA0" percentage="34" id="2">
+PHP          </language>
+          <language color="47A400" percentage="30" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="29" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

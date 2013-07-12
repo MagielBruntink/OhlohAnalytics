@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11186</id>
+      <name>libgee</name>
+      <url>http://www.ohloh.net/p/libgee.xml</url>
+      <html_url>http://www.ohloh.net/p/libgee</html_url>
+      <created_at>2008-01-22T13:50:30Z</created_at>
+      <updated_at>2013-07-07T08:42:47Z</updated_at>
+      <description>libgee is a collection library providing GObject-based interfaces and classes for commonly used data structures.
+
+libgee provides the following interfaces: Iterable, Collection, List, Set, Iterator, Map. The ArrayList, HashSet, and HashMap classes provide a reasonable sample implementation of the List, Set, and Map interfaces.</description>
+      <homepage_url>http://live.gnome.org/Libgee</homepage_url>
+      <download_url>http://download.gnome.org/sources/libgee/</download_url>
+      <url_name>libgee</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560583</analysis_id>
+      <tags>
+        <tag>glib</tag>
+        <tag>collection</tag>
+        <tag>vala</tag>
+        <tag>gobject</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>14560583</id>
+        <url>http://www.ohloh.net/analyses/14560583.xml</url>
+        <project_id>11186</project_id>
+        <updated_at>2013-07-07T08:42:47Z</updated_at>
+        <logged_at>2013-07-07T08:34:46Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>16859</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libgee/analyses/14560583/languages.png">
+          <language color="729FCF" percentage="97" id="34">
+Vala          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

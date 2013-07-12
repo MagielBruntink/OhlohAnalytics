@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>18749</id>
+      <name>django-filebrowser</name>
+      <url>http://www.ohloh.net/p/django-filebrowser.xml</url>
+      <html_url>http://www.ohloh.net/p/django-filebrowser</html_url>
+      <created_at>2008-10-07T11:51:04Z</created_at>
+      <updated_at>2013-06-12T07:01:39Z</updated_at>
+      <description>The FileBrowser is an extension to the Django Admin-Interface in order to 
+
+browse directories on your server and upload/delete/edit/rename files. include images/documents to your models/database using the FileBrowseField. select images/documents for TinyMCE and CKEditor. For editors using the Admin-Interface, the FileBrowser replaces an FTP-Client. 
+
+Take a look at the Screenshots. 
+
+RequirementsDjango 1.0+ PIL (Python Imaging Library), see http://www.pythonware.com/products/pil/ Grappelli (Version 2.0+), see http://code.google.com/p/django-grappelli/ Discussion/QuestionsUse the FileBrowser Google-Group for asking questions, discuss development- and improvement-issues and stay informed about changes/updates: http://groups.google.com/group/djangofilebrowser. News &amp; Updates2010-02-06: The first alpha of MedMan is out. see http://code.google.com/p/django-medman/. Testing &amp; Feedback is very much appreciated. 2009-11-28: Added CSRF-workaround for either Django 1.1.1 or SVN. 2009-11-27: Added default sorting. New settings DEFAULT_SORTING_BY, DEFAULT_SORTING_ORDER. 2009-11-26: Added Pagination. New setting LIST_PER_PAGE. 2009-11-12: FileBrowser Version 3.0 has been merged to the trunk. Documentation is updated. Please Note that Grappelli 2.0 is a requirement. InstallationBasic Installation Using the FileBrowse-Field Using the FileBrowser with django-tinymce Using the FileBrowser with TinyMCE HelpAvailable Settings The FileObject  Using Image Versions Templatetags Signals   Translation/i18n FAQ FeaturesMultiple Upload using Uploadify. Define allowed file-extensions and max. Upload-Size. Automatic Thumbnails. Integration with TinyMCE (AdvImage &amp; AdvLink). Automatic filters for date and file-types. FileBrowse-Field to select Images/Documents. Includes Image-Preview (Thumbnail) with the ability to click the Thumbnail and see the original Image. Define individual select/upload directories, allowed extensions and selection formats for every FileBrowse-Field. Rename/Delete files/directories. Generate different Image versions on the fly. DEBUG-Mode in order to display FileObjects in the Admin-Interface. Signals for Upload, Rename and Delete.</description>
+      <homepage_url>http://code.google.com/p/django-filebrowser</homepage_url>
+      <download_url></download_url>
+      <url_name>django-filebrowser</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14237045</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>mediamanagement</tag>
+        <tag>filebrowser</tag>
+        <tag>django</tag>
+      </tags>
+      <analysis>
+        <id>14237045</id>
+        <url>http://www.ohloh.net/analyses/14237045.xml</url>
+        <project_id>18749</project_id>
+        <updated_at>2013-07-10T05:32:22Z</updated_at>
+        <logged_at>2013-07-10T05:32:19Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8463</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-filebrowser/analyses/14237045/languages.png">
+          <language color="EEE" percentage="62" id="53">
+ActionScript          </language>
+          <language color="4A246B" percentage="19" id="9">
+Python          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="11" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>53</main_language_id>
+        <main_language_name>ActionScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

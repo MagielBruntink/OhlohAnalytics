@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10406</id>
+      <name>GrandPerspective</name>
+      <url>http://www.ohloh.net/p/grandperspectiv.xml</url>
+      <html_url>http://www.ohloh.net/p/grandperspectiv</html_url>
+      <created_at>2007-12-19T17:01:30Z</created_at>
+      <updated_at>2013-06-24T02:29:24Z</updated_at>
+      <description>GrandPerspective is a small utility application for Mac OS X that graphically shows the disk usage within a file system. It can help you to manage your disk, as you can easily spot which files and folders take up the most space. It uses a so called tree map for visualisation. Each file is shown as a rectangle with an area proportional to the file's size. Files in the same folder appear together, but their placement is otherwise arbitrary.</description>
+      <homepage_url>http://grandperspectiv.sourceforge.net/</homepage_url>
+      <download_url>http://grandperspectiv.sourceforge.net/#download</download_url>
+      <url_name>grandperspectiv</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25134/GrandPerspectiveLogo-64A_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25134/GrandPerspectiveLogo-64A_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>3.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14370961</analysis_id>
+      <tags>
+        <tag>visualization</tag>
+        <tag>disk</tag>
+        <tag>usage</tag>
+        <tag>mac_os_x</tag>
+        <tag>utility</tag>
+        <tag>treemap</tag>
+        <tag>macosx</tag>
+        <tag>filesystem</tag>
+        <tag>size</tag>
+        <tag>mac</tag>
+      </tags>
+      <analysis>
+        <id>14370961</id>
+        <url>http://www.ohloh.net/analyses/14370961.xml</url>
+        <project_id>10406</project_id>
+        <updated_at>2013-07-05T00:08:56Z</updated_at>
+        <logged_at>2013-07-05T00:06:16Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>61753</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grandperspectiv/analyses/14370961/languages.png">
+          <language color="555555" percentage="63" id="3">
+XML          </language>
+          <language color="C7932C" percentage="24" id="16">
+Objective-C          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597254</id>
+      <name>mosh-shell</name>
+      <url>http://www.ohloh.net/p/mosh-shell.xml</url>
+      <html_url>http://www.ohloh.net/p/mosh-shell</html_url>
+      <created_at>2012-04-16T21:24:30Z</created_at>
+      <updated_at>2013-07-07T07:08:12Z</updated_at>
+      <description>Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
+
+Mosh is a replacement for SSH. It's more robust and responsive, especially over Wi-Fi, cellular, and long-distance links.
+
+Mosh is free software, available for GNU/Linux, FreeBSD, and Mac OS X.</description>
+      <homepage_url>http://mosh.mit.edu</homepage_url>
+      <download_url></download_url>
+      <url_name>mosh-shell</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560073</analysis_id>
+      <analysis>
+        <id>14560073</id>
+        <url>http://www.ohloh.net/analyses/14560073.xml</url>
+        <project_id>597254</project_id>
+        <updated_at>2013-07-07T07:08:12Z</updated_at>
+        <logged_at>2013-07-07T07:06:54Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>21</twelve_month_contributor_count>
+        <total_code_lines>11519</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mosh-shell/analyses/14560073/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="EEE" percentage="10" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

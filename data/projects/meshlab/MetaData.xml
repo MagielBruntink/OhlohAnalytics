@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5759</id>
+      <name>MeshLab</name>
+      <url>http://www.ohloh.net/p/meshlab.xml</url>
+      <html_url>http://www.ohloh.net/p/meshlab</html_url>
+      <created_at>2007-06-02T10:22:20Z</created_at>
+      <updated_at>2013-06-11T05:34:47Z</updated_at>
+      <description>MeshLab, a mesh processing system, for user assisted editing, cleaning, filtering and rendering of large unstructured 3D triangular meshes (typical 3D scanning meshes). The system relies for mesh processing tasks on the gpl VCG library (vcg.sf.net).</description>
+      <homepage_url>http://meshlab.sourceforge.net/</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=149444</download_url>
+      <url_name>meshlab</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2382/eye64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2382/eye64_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2016886</analysis_id>
+      <tags>
+        <tag>ambient_occlusion</tag>
+        <tag>os_x</tag>
+        <tag>linux</tag>
+        <tag>modeling</tag>
+        <tag>cross-platform</tag>
+        <tag>3d_rendering</tag>
+        <tag>windows</tag>
+        <tag>mesh_processing</tag>
+        <tag>opengl</tag>
+        <tag>3d</tag>
+        <tag>geometry_conversion</tag>
+        <tag>glsl</tag>
+        <tag>multi-platform</tag>
+        <tag>mesh</tag>
+      </tags>
+      <analysis>
+        <id>2016886</id>
+        <url>http://www.ohloh.net/analyses/2016886.xml</url>
+        <project_id>5759</project_id>
+        <updated_at>2011-04-24T12:32:26Z</updated_at>
+        <logged_at>2011-04-24T12:30:38Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>114435</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/meshlab/analyses/2016886/languages.png">
+          <language color="F35F1F" percentage="89" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

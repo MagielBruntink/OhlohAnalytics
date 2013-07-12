@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>27840</id>
+      <name>ffdshow tryouts</name>
+      <url>http://www.ohloh.net/p/ffdshow-tryout.xml</url>
+      <html_url>http://www.ohloh.net/p/ffdshow-tryout</html_url>
+      <created_at>2008-12-04T20:28:04Z</created_at>
+      <updated_at>2013-06-14T07:06:34Z</updated_at>
+      <description>ffdshow is a DirectShow filter and VFW codec for many audio and video formats, such as DivX, Xvid and H.264. Over 70 bugs have been fixed, codecs have been updated, and support for a few new formats has been added in the tryouts. Vista is now supported.</description>
+      <homepage_url>http://ffdshow-tryout.sourceforge.net/</homepage_url>
+      <download_url>http://ffdshow-tryout.sourceforge.net/download.php</download_url>
+      <url_name>ffdshow-tryout</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43978/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43978/logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14256068</analysis_id>
+      <tags>
+        <tag>h264</tag>
+        <tag>audio</tag>
+        <tag>codec</tag>
+        <tag>video</tag>
+      </tags>
+      <analysis>
+        <id>14256068</id>
+        <url>http://www.ohloh.net/analyses/14256068.xml</url>
+        <project_id>27840</project_id>
+        <updated_at>2013-07-12T06:36:08Z</updated_at>
+        <logged_at>2013-07-12T06:36:03Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>973490</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ffdshow-tryout/analyses/14256068/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="F35F1F" percentage="19" id="44">
+C++          </language>
+          <language color="000000" percentage="5" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

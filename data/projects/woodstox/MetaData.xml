@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5069</id>
+      <name>Woodstox</name>
+      <url>http://www.ohloh.net/p/woodstox.xml</url>
+      <html_url>http://www.ohloh.net/p/woodstox</html_url>
+      <created_at>2007-05-02T16:53:06Z</created_at>
+      <updated_at>2013-07-05T07:18:45Z</updated_at>
+      <description>Woodstox is a high-performance validating namespace-aware StAX-compliant (JSR-173) Open Source XML-processor written in Java.
+XML processor means that it handles both input (== parsing) and output (== writing, serialization)), as well as supporting tasks such as validation.</description>
+      <homepage_url>http://wiki.fasterxml.com/WoodstoxHome</homepage_url>
+      <download_url>http://wiki.fasterxml.com/WoodstoxDownload</download_url>
+      <url_name>woodstox</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.75</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14533926</analysis_id>
+      <tags>
+        <tag>parser</tag>
+        <tag>xml</tag>
+        <tag>codehaus</tag>
+        <tag>java</tag>
+        <tag>stax</tag>
+      </tags>
+      <analysis>
+        <id>14533926</id>
+        <url>http://www.ohloh.net/analyses/14533926.xml</url>
+        <project_id>5069</project_id>
+        <updated_at>2013-07-05T07:18:45Z</updated_at>
+        <logged_at>2013-07-05T07:18:13Z</logged_at>
+        <min_month>2004-11-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>70936</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/woodstox/analyses/14533926/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache</name>
+          <nice_name>Apache License 1.1</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

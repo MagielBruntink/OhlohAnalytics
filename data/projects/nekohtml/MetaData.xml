@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15121</id>
+      <name>NekoHTML</name>
+      <url>http://www.ohloh.net/p/nekohtml.xml</url>
+      <html_url>http://www.ohloh.net/p/nekohtml</html_url>
+      <created_at>2008-06-24T14:40:56Z</created_at>
+      <updated_at>2013-06-14T10:40:17Z</updated_at>
+      <description>NekoHTML is a simple HTML scanner and tag balancer that enables application programmers to parse HTML documents and access the information using standard XML interfaces. The parser can scan HTML files and &quot;fix up&quot; many common mistakes that human (and computer) authors make in writing HTML documents. NekoHTML adds missing parent elements; automatically closes elements with optional end tags; and can handle mismatched inline element tags.
+
+NekoHTML is written using the Xerces Native Interface (XNI) that is the foundation of the Xerces2 implementation. This enables you to use the NekoHTML parser with existing XNI tools without modification or rewriting code.</description>
+      <homepage_url>http://nekohtml.sf.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=195122</download_url>
+      <url_name>nekohtml</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14259103</analysis_id>
+      <analysis>
+        <id>14259103</id>
+        <url>http://www.ohloh.net/analyses/14259103.xml</url>
+        <project_id>15121</project_id>
+        <updated_at>2013-07-02T21:35:32Z</updated_at>
+        <logged_at>2013-07-02T21:35:28Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>409570</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nekohtml/analyses/14259103/languages.png">
+          <language color="9A63AD" percentage="66" id="5">
+Java          </language>
+          <language color="47A400" percentage="30" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

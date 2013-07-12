@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>319048</id>
+      <name>MoDisco</name>
+      <url>http://www.ohloh.net/p/MoDisco.xml</url>
+      <html_url>http://www.ohloh.net/p/MoDisco</html_url>
+      <created_at>2009-03-16T15:50:34Z</created_at>
+      <updated_at>2010-05-18T03:33:08Z</updated_at>
+      <description>MoDisco (for Model Discovery) is an Eclipse-GMT project for model-driven reverse engineering. 
+
+The objective is to allow practical extractions of models from legacy systems. Because of the widely different nature and technological heterogeneity of legacy systems, there are several different ways to extract models from such systems. 
+
+MoDisco proposes a generic and extensible metamodel-driven approach to model discovery. A basic framework and a set of guidelines are provided to the Eclipse contributors to bring their own solutions to discover models in various kinds of legacy.</description>
+      <homepage_url>http://www.eclipse.org/gmt/modisco/</homepage_url>
+      <download_url>http://www.eclipse.org/gmt/modisco/download/</download_url>
+      <url_name>MoDisco</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15862/modisco_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15862/modisco_small.gif</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1226258</analysis_id>
+      <analysis>
+        <id>1226258</id>
+        <url>http://www.ohloh.net/analyses/1226258.xml</url>
+        <project_id>319048</project_id>
+        <updated_at>2010-05-18T03:33:08Z</updated_at>
+        <logged_at>2010-05-18T03:28:08Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>675830</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/MoDisco/analyses/1226258/languages.png">
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="33" id="5">
+Java          </language>
+          <language color="333333" percentage="31" id="19">
+Assembly          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

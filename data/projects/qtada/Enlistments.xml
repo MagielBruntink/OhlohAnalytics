@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>465481</id>
+      <project_id>9673</project_id>
+      <repository_id>462160</repository_id>
+      <repository>
+        <id>462160</id>
+        <type>SvnRepository</type>
+        <url>svn://forge.ada-ru.org/qtada4/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-04-27T08:22:40Z</logged_at>
+        <commits>25</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>221480</id>
+      <project_id>9673</project_id>
+      <repository_id>219420</repository_id>
+      <repository>
+        <id>219420</id>
+        <type>SvnRepository</type>
+        <url>svn://www.qtada.com/qtada/trunk</url>
+        <username>ohloh</username>
+        <password>1o2h3l4o5h</password>
+        <logged_at>2012-05-01T09:27:54Z</logged_at>
+        <commits>3667</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>415703</id>
+      <name>pkgutil</name>
+      <url>http://www.ohloh.net/p/pkgutil.xml</url>
+      <html_url>http://www.ohloh.net/p/pkgutil</html_url>
+      <created_at>2009-08-27T09:22:22Z</created_at>
+      <updated_at>2013-07-07T05:44:40Z</updated_at>
+      <description>Pkgutil is a tool to make installation of CSW packages in Solaris easier. It handles package dependencies so all required packages are installed before the desired package automatically.</description>
+      <homepage_url>http://sourceforge.net/projects/pkgutil/</homepage_url>
+      <download_url>http://sourceforge.net/projects/pkgutil/files/</download_url>
+      <url_name>pkgutil</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559592</analysis_id>
+      <tags>
+        <tag>unix</tag>
+        <tag>opensolaris</tag>
+        <tag>packagemanager</tag>
+        <tag>svr4</tag>
+        <tag>packagemanagement</tag>
+        <tag>solaris</tag>
+        <tag>perl</tag>
+        <tag>packageinstaller</tag>
+      </tags>
+      <analysis>
+        <id>14559592</id>
+        <url>http://www.ohloh.net/analyses/14559592.xml</url>
+        <project_id>415703</project_id>
+        <updated_at>2013-07-07T05:44:40Z</updated_at>
+        <logged_at>2013-07-07T05:44:07Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3395</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pkgutil/analyses/14559592/languages.png">
+          <language color="777777" percentage="74" id="11">
+shell script          </language>
+          <language color="D2C690" percentage="26" id="8">
+Perl          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

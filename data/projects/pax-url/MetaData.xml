@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13101</id>
+      <name>Pax URL</name>
+      <url>http://www.ohloh.net/p/pax-url.xml</url>
+      <html_url>http://www.ohloh.net/p/pax-url</html_url>
+      <created_at>2008-03-31T18:37:56Z</created_at>
+      <updated_at>2013-04-16T17:30:52Z</updated_at>
+      <description>Pax URL is a set of OSGi URL Handlers Service implementations as follows:
+
+classpath: protocol handler. Provides access to classpath resources from your bundle or other bundles installed.
+mvn: protocol handler. Provide access to maven repository artifacts based on the well known groupId, artifactId, version and type
+obr: protocol handler. Make use of OBR bundle repository.
+war:/war-i: protocol handlers. Automates war deployment.
+wrap: protocol handler. Wraps &quot;classic&quot; jars as OSGi bundles.</description>
+      <homepage_url>http://wiki.ops4j.org/confluence/x/sgNN</homepage_url>
+      <download_url>http://wiki.ops4j.org/confluence/x/sgNN</download_url>
+      <url_name>pax-url</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2065/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2065/logo_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12026674</analysis_id>
+      <tags>
+        <tag>url</tag>
+        <tag>bnd</tag>
+        <tag>wrap</tag>
+        <tag>war</tag>
+        <tag>osgi</tag>
+        <tag>classpath</tag>
+        <tag>mvn</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>12026674</id>
+        <url>http://www.ohloh.net/analyses/12026674.xml</url>
+        <project_id>13101</project_id>
+        <updated_at>2013-01-11T06:25:25Z</updated_at>
+        <logged_at>2013-01-10T16:20:05Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>31859</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pax-url/analyses/12026674/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
