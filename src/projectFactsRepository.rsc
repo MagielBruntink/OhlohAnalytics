@@ -24,6 +24,8 @@ public list[str] getProjectNamesOnList() {
 
 alias repositoriesRel = rel[str projectName, str repositoryType, str repositoryURL];
 
+alias metaDataRel = rel[str projectName, str attributeName, str attributeValue];
+
 alias factsKey = tuple[str projectName, str year, str month];
 
 data monthlyFact =
@@ -73,6 +75,30 @@ public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
 
 public monthlyFactsMap mergeFactsForAllProjects () { 
 	return mergeFactsForProjects(getProjectNamesInRepository());
+}
+
+public metaDataRel getMetaDataStringAttributes(list[str] projectNames, str attributeName) {
+	return {
+		valuesForProject |
+		projectName <- projectNames,
+		valuesForProject <- getMetaDataStringAttributes(projectName, attributeName)
+	};
+}
+
+public metaDataRel getMetaDataStringAttributes(str projectName, str attributeName) {
+	result = {};
+		
+	top-down visit(getProjectMetaDataDOM(projectName)) {
+		case element(_,
+					 attributeName,
+					 [charData(str attributeValue)]):
+		{
+             result += <projectName,
+			 			attributeName,
+			 			attributeValue>;
+		}
+	}
+	return result;
 }
 
 public repositoriesRel getRepositoryFactsForProjects(list[str] projectNames) {
