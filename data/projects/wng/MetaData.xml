@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>349667</id>
+      <name>Wall Next Generation</name>
+      <url>http://www.ohloh.net/p/wng.xml</url>
+      <html_url>http://www.ohloh.net/p/wng</html_url>
+      <created_at>2009-07-09T20:17:43Z</created_at>
+      <updated_at>2012-02-24T05:33:18Z</updated_at>
+      <description>WNG is a JSP tag-library, what tags really do is to build &quot;components&quot;, i.e. to create Java objects which you can connect like Lego bricks to build a mobile page programmatically. The actual rendering is postponed to a later stage, i.e. when the programmer is ready. Of course, the rendering can be made follow the JSP life-cycle (and this will be the most common usage, I suspect), but nothing prevents you, the programmer, from having the object model generate mobile mark-ups in situations I cannot think of at the moment.</description>
+      <homepage_url>http://wurfl.sourceforge.net/wng/</homepage_url>
+      <download_url>http://sourceforge.net/projects/wurfl/files/</download_url>
+      <url_name>wng</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1844347</analysis_id>
+      <tags>
+        <tag>resize</tag>
+        <tag>iphone</tag>
+        <tag>jsp</tag>
+        <tag>wml</tag>
+        <tag>xhtml-mp</tag>
+        <tag>servlet</tag>
+        <tag>wurfl</tag>
+        <tag>java</tag>
+        <tag>mobile</tag>
+      </tags>
+      <analysis>
+        <id>1844347</id>
+        <url>http://www.ohloh.net/analyses/1844347.xml</url>
+        <project_id>349667</project_id>
+        <updated_at>2011-05-15T16:13:02Z</updated_at>
+        <logged_at>2011-05-15T16:12:58Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>133897</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wng/analyses/1844347/languages.png">
+          <language color="555555" percentage="67" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="31" id="5">
+Java          </language>
+          <language color="47A400" percentage="2" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

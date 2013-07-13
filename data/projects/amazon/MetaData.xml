@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26280</id>
+      <name>AWS - Amazon Web Services (S3, SQS)</name>
+      <url>http://www.ohloh.net/p/amazon.xml</url>
+      <html_url>http://www.ohloh.net/p/amazon</html_url>
+      <created_at>2008-11-07T22:26:25Z</created_at>
+      <updated_at>2013-06-25T03:09:09Z</updated_at>
+      <description>AWS is a suite of Ruby libraries for the REST APIs of the various web services provided by Amazon (http://aws.amazon.com/).</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>amazon</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14395091</analysis_id>
+      <tags>
+        <tag>backup</tag>
+      </tags>
+      <analysis>
+        <id>14395091</id>
+        <url>http://www.ohloh.net/analyses/14395091.xml</url>
+        <project_id>26280</project_id>
+        <updated_at>2013-07-12T18:36:39Z</updated_at>
+        <logged_at>2013-07-12T18:36:29Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2007-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4343</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/amazon/analyses/14395091/languages.png">
+          <language color="A40011" percentage="98" id="12">
+Ruby          </language>
+          <language color="FF1A00" percentage="2" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

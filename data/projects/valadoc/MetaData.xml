@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>459014</id>
+      <name>Valadoc</name>
+      <url>http://www.ohloh.net/p/valadoc.xml</url>
+      <html_url>http://www.ohloh.net/p/valadoc</html_url>
+      <created_at>2009-10-04T00:09:15Z</created_at>
+      <updated_at>2013-07-04T21:08:44Z</updated_at>
+      <description>Valadoc is a documentation generator for generating API documentation from Vala source code.</description>
+      <homepage_url>http://www.valadoc.org/</homepage_url>
+      <download_url>https://launchpad.net/valadoc</download_url>
+      <url_name>valadoc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14529799</analysis_id>
+      <tags>
+        <tag>vala</tag>
+        <tag>documentation</tag>
+      </tags>
+      <analysis>
+        <id>14529799</id>
+        <url>http://www.ohloh.net/analyses/14529799.xml</url>
+        <project_id>459014</project_id>
+        <updated_at>2013-07-04T21:08:43Z</updated_at>
+        <logged_at>2013-07-04T21:02:02Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>30526</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/valadoc/analyses/14529799/languages.png">
+          <language color="729FCF" percentage="92" id="34">
+Vala          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>490735</id>
+      <project_id>506665</project_id>
+      <repository_id>492087</repository_id>
+      <repository>
+        <id>492087</id>
+        <type>GitRepository</type>
+        <url>git://github.com/DDRace/teeworlds.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T12:29:30Z</logged_at>
+        <commits>3817</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>490734</id>
+      <project_id>506665</project_id>
+      <repository_id>492086</repository_id>
+      <repository>
+        <id>492086</id>
+        <type>GitRepository</type>
+        <url>git://github.com/GreYFoX/teeworlds.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T12:29:19Z</logged_at>
+        <commits>3807</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9018</id>
+      <name>toilet</name>
+      <url>http://www.ohloh.net/p/toilet.xml</url>
+      <html_url>http://www.ohloh.net/p/toilet</html_url>
+      <created_at>2007-10-07T18:55:03Z</created_at>
+      <updated_at>2013-07-12T13:48:28Z</updated_at>
+      <description>The TOIlet project attempts to create a free replacement for the FIGlet utility. It uses the powerful libcucul library to achieve various text-based effects. TOIlet is able to load FIGlet fonts, supports Unicode input and output, colour output and various output formats (IRC, ANSI...).</description>
+      <homepage_url>http://libcaca.zoy.org/toilet.html</homepage_url>
+      <download_url>http://libcaca.zoy.org/toilet.html</download_url>
+      <url_name>toilet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14606349</analysis_id>
+      <tags>
+        <tag>ascii</tag>
+        <tag>libcaca</tag>
+        <tag>text-mode</tag>
+        <tag>wtfpl</tag>
+        <tag>figlet</tag>
+        <tag>drawing</tag>
+        <tag>text</tag>
+        <tag>crazy</tag>
+      </tags>
+      <analysis>
+        <id>14606349</id>
+        <url>http://www.ohloh.net/analyses/14606349.xml</url>
+        <project_id>9018</project_id>
+        <updated_at>2013-07-12T13:48:28Z</updated_at>
+        <logged_at>2013-07-12T13:48:03Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1243</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/toilet/analyses/14606349/languages.png">
+          <language color="FF8F00" percentage="79" id="42">
+C          </language>
+          <language color="777777" percentage="12" id="11">
+shell script          </language>
+          <language color="EEE" percentage="5" id="50">
+Automake          </language>
+          <language color="EEE" percentage="4" id="51">
+Autoconf          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>WTFPL_2_0</name>
+          <nice_name>Generous License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

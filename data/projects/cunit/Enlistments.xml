@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>8209</id>
+      <project_id>4090</project_id>
+      <repository_id>8090</repository_id>
+      <repository>
+        <id>8090</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@cunit.cvs.sourceforge.net:/cvsroot/cunit</url>
+        <module_name>CUnit</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-05T19:13:54Z</logged_at>
+        <commits>105</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

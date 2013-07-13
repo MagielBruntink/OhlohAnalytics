@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21924</id>
+      <name>nvidia-texture-tools</name>
+      <url>http://www.ohloh.net/p/nvidia-texture-tools.xml</url>
+      <html_url>http://www.ohloh.net/p/nvidia-texture-tools</html_url>
+      <created_at>2008-10-07T14:22:49Z</created_at>
+      <updated_at>2013-07-02T10:59:30Z</updated_at>
+      <description>The NVIDIA Texture Tools is a collection of image processing and texture manipulation tools, designed to be integrated in game tools and asset conditioning pipelines. 
+
+The primary features of the library are mipmap and normal map generation, format conversion and DXT compression. 
+
+DXT compression is based on Simon Brown's squish library. The library also contains an alternative GPU-accelerated compressor that uses CUDA and is one order of magnitude faster.</description>
+      <homepage_url>http://code.google.com/p/nvidia-texture-tools</homepage_url>
+      <download_url></download_url>
+      <url_name>nvidia-texture-tools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14502138</analysis_id>
+      <tags>
+        <tag>graphics</tag>
+        <tag>nvidia</tag>
+        <tag>cuda</tag>
+        <tag>image_compression</tag>
+        <tag>image_processing</tag>
+        <tag>game_asset_pipeline</tag>
+      </tags>
+      <analysis>
+        <id>14502138</id>
+        <url>http://www.ohloh.net/analyses/14502138.xml</url>
+        <project_id>21924</project_id>
+        <updated_at>2013-07-02T10:59:30Z</updated_at>
+        <logged_at>2013-07-02T09:56:28Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>107472</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nvidia-texture-tools/analyses/14502138/languages.png">
+          <language color="F35F1F" percentage="41" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="40" id="42">
+C          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

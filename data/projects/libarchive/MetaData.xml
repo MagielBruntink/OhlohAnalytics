@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14905</id>
+      <name>libarchive</name>
+      <url>http://www.ohloh.net/p/libarchive.xml</url>
+      <html_url>http://www.ohloh.net/p/libarchive</html_url>
+      <created_at>2008-06-12T23:03:04Z</created_at>
+      <updated_at>2013-07-05T03:40:46Z</updated_at>
+      <description>Libarchive is a programming library that can create and read several different streaming archive formats, including most popular tar variants, several cpio formats, and both BSD and GNU ar variants. It can also write shar archives and read ISO9660 CDROM images and ZIP archives. The bsdtar program is an implementation of tar(1) that is built on top of libarchive. It started as a test harness, but has grown into a feature-competitive replacement for GNU tar. The bsdcpio program is an implementation of cpio(1) that is built on top of libarchive.</description>
+      <homepage_url>http://people.freebsd.org/~kientzle/libarchive/</homepage_url>
+      <download_url>http://people.freebsd.org/~kientzle/libarchive/</download_url>
+      <url_name>libarchive</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532244</analysis_id>
+      <tags>
+        <tag>compress</tag>
+        <tag>targz</tag>
+        <tag>c</tag>
+        <tag>archive</tag>
+        <tag>archiving</tag>
+        <tag>tar</tag>
+        <tag>cpio</tag>
+        <tag>bzip2</tag>
+        <tag>compression</tag>
+        <tag>zip</tag>
+      </tags>
+      <analysis>
+        <id>14532244</id>
+        <url>http://www.ohloh.net/analyses/14532244.xml</url>
+        <project_id>14905</project_id>
+        <updated_at>2013-07-05T03:40:46Z</updated_at>
+        <logged_at>2013-07-05T03:38:07Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>110155</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libarchive/analyses/14532244/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

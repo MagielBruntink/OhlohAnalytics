@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>35663</id>
+      <name>Boehm-Demers-Weiser Garbage Collector</name>
+      <url>http://www.ohloh.net/p/bdwgc.xml</url>
+      <html_url>http://www.ohloh.net/p/bdwgc</html_url>
+      <created_at>2008-12-11T00:53:45Z</created_at>
+      <updated_at>2013-07-06T20:35:50Z</updated_at>
+      <description>The Boehm-Demers-Weiser conservative garbage collector. The CVS source of the version 7+ collector resides here. Other information and release snapshots are currently at http://www.hpl.hp.com/personal/Hans_Boehm/gc</description>
+      <homepage_url>https://github.com/ivmai/bdwgc</homepage_url>
+      <download_url>http://www.hpl.hp.com/personal/Hans_Boehm/gc/gc_source/</download_url>
+      <url_name>bdwgc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14554456</analysis_id>
+      <analysis>
+        <id>14554456</id>
+        <url>http://www.ohloh.net/analyses/14554456.xml</url>
+        <project_id>35663</project_id>
+        <updated_at>2013-07-06T20:35:50Z</updated_at>
+        <logged_at>2013-07-06T20:22:28Z</logged_at>
+        <min_month>2005-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>146348</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bdwgc/analyses/14554456/languages.png">
+          <language color="FF8F00" percentage="48" id="42">
+C          </language>
+          <language color="EEE" percentage="23" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="000000" percentage="18" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

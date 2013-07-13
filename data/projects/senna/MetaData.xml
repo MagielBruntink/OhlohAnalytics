@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7293</id>
+      <name>Senna</name>
+      <url>http://www.ohloh.net/p/senna.xml</url>
+      <html_url>http://www.ohloh.net/p/senna</html_url>
+      <created_at>2007-08-08T08:04:36Z</created_at>
+      <updated_at>2013-06-17T05:53:12Z</updated_at>
+      <description>Senna is an embeddable fulltext search engine, which you can use in conjunction with various scripting languages and databases. Senna is an inverted index based engine, and combines the best of n-gram indexing and word indexing to achieve fast, precise searches. While senna codebase is rather compact it is scalable enough to handle large amounts of data and queries.</description>
+      <homepage_url>http://qwik.jp/senna/</homepage_url>
+      <download_url>http://sourceforge.jp/projects/senna/files/</download_url>
+      <url_name>senna</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14288095</analysis_id>
+      <tags>
+        <tag>search-engine</tag>
+        <tag>indexing</tag>
+        <tag>fulltext-search</tag>
+      </tags>
+      <analysis>
+        <id>14288095</id>
+        <url>http://www.ohloh.net/analyses/14288095.xml</url>
+        <project_id>7293</project_id>
+        <updated_at>2013-07-06T18:47:03Z</updated_at>
+        <logged_at>2013-07-06T18:46:46Z</logged_at>
+        <min_month>2005-02-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>146818</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/senna/analyses/14288095/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

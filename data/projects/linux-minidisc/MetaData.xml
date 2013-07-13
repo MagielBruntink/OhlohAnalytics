@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481693</id>
+      <name>linux-minidisc</name>
+      <url>http://www.ohloh.net/p/linux-minidisc.xml</url>
+      <html_url>http://www.ohloh.net/p/linux-minidisc</html_url>
+      <created_at>2010-03-08T23:04:03Z</created_at>
+      <updated_at>2013-05-09T08:06:53Z</updated_at>
+      <description>The linux-minidisc project aims at bringing free and full hardware support for Sony and other MiniDisc players and recorders to Linux and other (free) operating systems.
+
+The project started in 2008 as I was annoyed not being able to use my MiniDisc-Walkman with Linux. Since the development involves a lot of reverse engineering, it takes a lot of time and efforts to get everything working. But with the help with a lot of people from the community we have already made a lot of advances and we hope to find more people willing to contribute, especially we're looking for talented programmers which might be MiniDisc users themselves to help us.</description>
+      <homepage_url>https://wiki.physik.fu-berlin.de/linux-minidisc/</homepage_url>
+      <download_url>https://wiki.physik.fu-berlin.de/linux-minidisc/doku.php#download</download_url>
+      <url_name>linux-minidisc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31325/qhimdtransfer_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31325/qhimdtransfer_64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13832149</analysis_id>
+      <analysis>
+        <id>13832149</id>
+        <url>http://www.ohloh.net/analyses/13832149.xml</url>
+        <project_id>481693</project_id>
+        <updated_at>2013-05-09T08:06:52Z</updated_at>
+        <logged_at>2013-05-09T08:06:36Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>19123</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/linux-minidisc/analyses/13832149/languages.png">
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="34" id="42">
+C          </language>
+          <language color="4A246B" percentage="13" id="9">
+Python          </language>
+          <language color="000000" percentage="15" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

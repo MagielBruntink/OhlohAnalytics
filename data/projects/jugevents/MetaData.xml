@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>43796</id>
+      <name>JUG Events</name>
+      <url>http://www.ohloh.net/p/jugevents.xml</url>
+      <html_url>http://www.ohloh.net/p/jugevents</html_url>
+      <created_at>2008-12-15T17:46:38Z</created_at>
+      <updated_at>2013-07-08T11:53:59Z</updated_at>
+      <description>JUG Events started as a demo for the meta-framework Parancoe. Then some functionalities has been added and it has been deployed as a free sevice on http://www.jugevents.org. 
+
+JUG Events is a tool for helping the JUG leaders, and in general the JUG representatives, to organize the events of their JUGs. It's not merely a tool for promoting the events: the main promotional tools for a JUG are its web site and its mailing-list. We think events of JUGs don't need a central aggregator. JUG are mainly local entities: a person interested on an event, for Example, in Padova in Italy will never (or rarely) search it on java.net. 
+
+So, to the events attendants, JUG Events provides: 
+
+search of events in their country area (by continent, country and JUG name) easy registration, if needed, to the even</description>
+      <homepage_url>http://code.google.com/p/jugevents</homepage_url>
+      <download_url></download_url>
+      <url_name>jugevents</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40303/applicationLogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40303/applicationLogo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569443</analysis_id>
+      <tags>
+        <tag>jug</tag>
+        <tag>events</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14569443</id>
+        <url>http://www.ohloh.net/analyses/14569443.xml</url>
+        <project_id>43796</project_id>
+        <updated_at>2013-07-08T11:53:59Z</updated_at>
+        <logged_at>2013-07-08T09:21:50Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>81858</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jugevents/analyses/14569443/languages.png">
+          <language color="A4007E" percentage="46" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="38" id="5">
+Java          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

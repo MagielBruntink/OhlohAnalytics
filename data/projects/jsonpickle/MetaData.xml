@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14874</id>
+      <name>jsonpickle</name>
+      <url>http://www.ohloh.net/p/jsonpickle.xml</url>
+      <html_url>http://www.ohloh.net/p/jsonpickle</html_url>
+      <created_at>2008-06-11T19:21:13Z</created_at>
+      <updated_at>2013-07-11T02:37:08Z</updated_at>
+      <description>jsonpickle allows for any Python object to be serialized into JSON. This library acts as an extension to simplejson. Whereas simplejson only serializes primitive objects (str, int, float, list, dict, etc), jsonpickle can handle most non-builtin Python objects. jsonpickle recursively examines Python objects and collections (dictionaries, lists, tuples, and sets), and converts non primitive objects to a primitive version.</description>
+      <homepage_url>http://github.com/jsonpickle/jsonpickle</homepage_url>
+      <download_url>http://pypi.python.org/pypi/jsonpickle</download_url>
+      <url_name>jsonpickle</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14583600</analysis_id>
+      <analysis>
+        <id>14583600</id>
+        <url>http://www.ohloh.net/analyses/14583600.xml</url>
+        <project_id>14874</project_id>
+        <updated_at>2013-07-11T02:37:08Z</updated_at>
+        <logged_at>2013-07-11T02:36:54Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>1860</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jsonpickle/analyses/14583600/languages.png">
+          <language color="4A246B" percentage="88" id="9">
+Python          </language>
+          <language color="AAAAAA" percentage="5" id="13">
+DOS batch script          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

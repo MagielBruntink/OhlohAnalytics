@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>208050</id>
+      <name>pySerial</name>
+      <url>http://www.ohloh.net/p/pyserial.xml</url>
+      <html_url>http://www.ohloh.net/p/pyserial</html_url>
+      <created_at>2009-01-17T19:53:14Z</created_at>
+      <updated_at>2013-07-11T10:00:30Z</updated_at>
+      <description>pySerial encapsulates the access for the serial port. It provides backends for Python running on Windows, Linux, BSD (possibly any POSIX compliant system), Jython and IronPython (.NET and Mono). The module named &quot;serial&quot; automatically selects the appropriate backend.</description>
+      <homepage_url>http://pyserial.wiki.sourceforge.net/pySerial</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=46487</download_url>
+      <url_name>pyserial</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14587885</analysis_id>
+      <tags>
+        <tag>serialport</tag>
+      </tags>
+      <analysis>
+        <id>14587885</id>
+        <url>http://www.ohloh.net/analyses/14587885.xml</url>
+        <project_id>208050</project_id>
+        <updated_at>2013-07-11T10:00:30Z</updated_at>
+        <logged_at>2013-07-11T10:00:16Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>7616</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyserial/analyses/14587885/languages.png">
+          <language color="4A246B" percentage="86" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>python_software_foundation</name>
+          <nice_name>Python Software Foundation License 2.1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

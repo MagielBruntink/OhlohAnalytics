@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50589</id>
+      <name>Outline</name>
+      <url>http://www.ohloh.net/p/outline.xml</url>
+      <html_url>http://www.ohloh.net/p/outline</html_url>
+      <created_at>2008-12-16T13:04:42Z</created_at>
+      <updated_at>2013-06-24T10:37:08Z</updated_at>
+      <description>Outline is a template engine for php.
+
+Unlike other template engines, Outline is fast and light by design - rather than trying to reinvent the wheel, this engine tries to leverage the power of the template engine you already know: php.
+
+Outline implements a practical, familiar template syntax, in about 1000 lines of code, giving you close to all of the functionality found in major template engines such as Smarty, Template Lite or Savant.
+
+Many commands have a considerably shorter syntax than any of the major template engines - and a syntax that more closely resembles php.
+
+Outline takes the practical, simple parts of php syntax, simplifies the more complex parts of php syntax, and adds the most common template syntax elements from large engines.</description>
+      <homepage_url>http://outline.mindplay.dk</homepage_url>
+      <download_url>http://code.google.com/p/php-outline/downloads/list</download_url>
+      <url_name>outline</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14377391</analysis_id>
+      <tags>
+        <tag>engine</tag>
+        <tag>fast</tag>
+        <tag>php5</tag>
+        <tag>compiler</tag>
+        <tag>template</tag>
+        <tag>php</tag>
+        <tag>lightweight</tag>
+        <tag>compiling</tag>
+      </tags>
+      <analysis>
+        <id>14377391</id>
+        <url>http://www.ohloh.net/analyses/14377391.xml</url>
+        <project_id>50589</project_id>
+        <updated_at>2013-07-05T10:45:01Z</updated_at>
+        <logged_at>2013-07-05T10:44:58Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1367</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/outline/analyses/14377391/languages.png">
+          <language color="356AA0" percentage="78" id="2">
+PHP          </language>
+          <language color="47A400" percentage="22" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

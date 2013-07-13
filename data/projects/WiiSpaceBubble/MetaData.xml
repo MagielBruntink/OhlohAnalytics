@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480534</id>
+      <name>Wii SpaceBubble</name>
+      <url>http://www.ohloh.net/p/WiiSpaceBubble.xml</url>
+      <html_url>http://www.ohloh.net/p/WiiSpaceBubble</html_url>
+      <created_at>2010-01-16T15:01:24Z</created_at>
+      <updated_at>2013-06-16T08:34:39Z</updated_at>
+      <description>Spacebubble game for Wii.
+
+SpaceBubble is a classic board puzzle game based on bubble breaker. Select multiple bubbles with the same color and destroy them, the more you hit in one the higher score you will get. Special thanks to my family for their support during the development of this game.
+
+Key Features:
+
+    * 2D bubble gameboard with special graphical effects.
+    * Support one to four concurrent players
+    * Seven game levels
+    * Game player score is shared on internet.
+    * Easy menu system.
+    * WiiMote IR device support
+    * 9 background music tracks
+    * Several sound effects 
+
+Checkout http://www.plaatsoft.nl for more information.</description>
+      <homepage_url>http://www.plaatsoft.nl</homepage_url>
+      <download_url>http://code.google.com/p/spacebubble/downloads/list</download_url>
+      <url_name>WiiSpaceBubble</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28980/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28980/icon_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14277420</analysis_id>
+      <tags>
+        <tag>homebrew</tag>
+        <tag>plaatsoft</tag>
+        <tag>nintendo</tag>
+        <tag>wii</tag>
+        <tag>grrlib</tag>
+      </tags>
+      <analysis>
+        <id>14277420</id>
+        <url>http://www.ohloh.net/analyses/14277420.xml</url>
+        <project_id>480534</project_id>
+        <updated_at>2013-07-05T00:15:12Z</updated_at>
+        <logged_at>2013-07-05T00:15:09Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>36028</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/WiiSpaceBubble/analyses/14277420/languages.png">
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="47A400" percentage="43" id="1">
+HTML          </language>
+          <language color="F35F1F" percentage="9" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

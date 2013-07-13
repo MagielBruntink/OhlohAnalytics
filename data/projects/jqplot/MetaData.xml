@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>326897</id>
+      <name>jqplot</name>
+      <url>http://www.ohloh.net/p/jqplot.xml</url>
+      <html_url>http://www.ohloh.net/p/jqplot</html_url>
+      <created_at>2009-04-17T02:43:07Z</created_at>
+      <updated_at>2013-06-09T07:34:37Z</updated_at>
+      <description>jqPlot Has Moved!The new jqPlot home page is at http://www.jqplot.com/ 
+
+The mailing list/google group is still at http://groups.google.com/group/jqplot-users 
+
+Examples and unit tests are at http://www.jqplot.com/tests/ 
+
+Documentation is at http://www.jqplot.com/docs/ 
+
+The jqPlot project page and source code is at http://www.bitbucket.org/cleonello/jqplot/ 
+
+Note:  All downloads on Google Code are out of date.  Please find the latest downloads at http://bitbucket.org/cleonello/jqplot/downloads/ 
+
+OverviewjqPlot is a pure JavaScript plotting plugin for the jQuery javascript library.  jqPlot was inspired by the Flot JavaScript jQuery Plugin. It relies on the canvas tag for rendering the plot graphics.  IE support is handled through the excanvas.js library.  It is currently in heavy development.  Some highlights of the code: 
+
+A flexible, and highly extensible architecture.   Drawing, data handling and other features are handled through renderers and plugins outside of the core code. Options drive almost all behavior.  Highly customizable. Sample Line Plot with Dual Axes</description>
+      <homepage_url>http://code.google.com/p/jqplot</homepage_url>
+      <download_url></download_url>
+      <url_name>jqplot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14207051</analysis_id>
+      <tags>
+        <tag>chart</tag>
+        <tag>plot</tag>
+        <tag>jquery</tag>
+        <tag>canvas</tag>
+        <tag>graph</tag>
+        <tag>graphics</tag>
+        <tag>javascript</tag>
+      </tags>
+      <analysis>
+        <id>14207051</id>
+        <url>http://www.ohloh.net/analyses/14207051.xml</url>
+        <project_id>326897</project_id>
+        <updated_at>2013-07-06T21:03:31Z</updated_at>
+        <logged_at>2013-07-06T21:01:57Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>68917</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jqplot/analyses/14207051/languages.png">
+          <language color="A4007E" percentage="58" id="6">
+JavaScript          </language>
+          <language color="D2C690" percentage="25" id="8">
+Perl          </language>
+          <language color="FF1A00" percentage="9" id="4">
+CSS          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>18802</id>
+      <name>django-multilingual</name>
+      <url>http://www.ohloh.net/p/django-multilingual.xml</url>
+      <html_url>http://www.ohloh.net/p/django-multilingual</html_url>
+      <created_at>2008-10-07T11:53:52Z</created_at>
+      <updated_at>2012-02-22T19:47:53Z</updated_at>
+      <description>A library providing support for multilingual content in Django models.
+
+Features:
+
+- simple model syntax
+- nice admin integration
+- adding a language requires only a change to project settings
+- language-independent data ordering and filtering via the usual ORM API</description>
+      <homepage_url>http://code.google.com/p/django-multilingual</homepage_url>
+      <download_url></download_url>
+      <url_name>django-multilingual</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3190864</analysis_id>
+      <tags>
+        <tag>internationalization</tag>
+        <tag>multilingual</tag>
+        <tag>localization</tag>
+        <tag>django</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>3190864</id>
+        <url>http://www.ohloh.net/analyses/3190864.xml</url>
+        <project_id>18802</project_id>
+        <updated_at>2011-09-05T14:23:13Z</updated_at>
+        <logged_at>2011-09-05T14:23:07Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3922</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-multilingual/analyses/3190864/languages.png">
+          <language color="4A246B" percentage="43" id="9">
+Python          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="15" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="18" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

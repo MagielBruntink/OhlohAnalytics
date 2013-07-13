@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11578</id>
+      <name>IronRuby</name>
+      <url>http://www.ohloh.net/p/ironruby.xml</url>
+      <html_url>http://www.ohloh.net/p/ironruby</html_url>
+      <created_at>2008-02-07T15:39:04Z</created_at>
+      <updated_at>2013-06-19T14:36:03Z</updated_at>
+      <description>IronRuby is an Open Source implementation of the Ruby programming language. It is built using the Dynamic Language Runtime, which makes it easier to build high-quality dynamic language implementations on top of Microsoft's .NET Framework.</description>
+      <homepage_url>http://www.ironruby.net</homepage_url>
+      <download_url>http://ironruby.net/Download/</download_url>
+      <url_name>ironruby</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14308973</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>clr</tag>
+        <tag>development</tag>
+        <tag>microsoft</tag>
+        <tag>language</tag>
+        <tag>c#</tag>
+        <tag>dlr</tag>
+        <tag>ironruby</tag>
+        <tag>ruby</tag>
+        <tag>dynamic</tag>
+        <tag>interpreter</tag>
+        <tag>compiler</tag>
+        <tag>net</tag>
+      </tags>
+      <analysis>
+        <id>14308973</id>
+        <url>http://www.ohloh.net/analyses/14308973.xml</url>
+        <project_id>11578</project_id>
+        <updated_at>2013-07-12T01:11:18Z</updated_at>
+        <logged_at>2013-07-12T01:10:59Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>2795112</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ironruby/analyses/14308973/languages.png">
+          <language color="A40011" percentage="28" id="12">
+Ruby          </language>
+          <language color="4A246B" percentage="28" id="9">
+Python          </language>
+          <language color="4096EE" percentage="22" id="17">
+C#          </language>
+          <language color="000000" percentage="22" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

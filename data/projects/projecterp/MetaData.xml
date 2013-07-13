@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3950</id>
+      <name>projectERP</name>
+      <url>http://www.ohloh.net/p/projecterp.xml</url>
+      <html_url>http://www.ohloh.net/p/projecterp</html_url>
+      <created_at>2007-01-09T16:42:08Z</created_at>
+      <updated_at>2013-07-01T01:10:03Z</updated_at>
+      <description>pERP is an eGroupWare ERP Group of Modules, mostly geared towards manufacturing, but very configurable. It requires eGroupWare v1.5+ and PHP 5.2+.
+Full requirements at http://www.projecterp.org/mediawiki/index.php/Installation
+
+There is currently support for:
+
+    * Fine ACL
+    * basic accrual accounting
+    * Suppliers with catalogs
+    * Multiple stock and manufacturing locations,
+    * Bill of Materials 
+
+
+Of note is the integration into eGroupWare:
+
+    * Home page bits for Accounts Payable and Receivable
+    * Addresses for Users, Suppliers &amp; Clients are stored in the addressboook
+    * Most parts support linking, and some parts link automatically.</description>
+      <homepage_url>http://projecterp.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=166007</download_url>
+      <url_name>projecterp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4192/mediawiki_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4192/mediawiki_logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14488458</analysis_id>
+      <tags>
+        <tag>finance</tag>
+        <tag>egroupware</tag>
+        <tag>knowledgebase</tag>
+        <tag>erp</tag>
+        <tag>accounting</tag>
+        <tag>contacts</tag>
+        <tag>workflow</tag>
+        <tag>intranet</tag>
+        <tag>collaboration</tag>
+        <tag>enterprise</tag>
+        <tag>projecterp</tag>
+        <tag>planning</tag>
+        <tag>time_tracking</tag>
+        <tag>manufacturing</tag>
+        <tag>inventory</tag>
+        <tag>business</tag>
+        <tag>sales</tag>
+        <tag>commerce</tag>
+        <tag>calendar</tag>
+      </tags>
+      <analysis>
+        <id>14488458</id>
+        <url>http://www.ohloh.net/analyses/14488458.xml</url>
+        <project_id>3950</project_id>
+        <updated_at>2013-07-10T05:18:15Z</updated_at>
+        <logged_at>2013-07-10T05:18:11Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>286059</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/projecterp/analyses/14488458/languages.png">
+          <language color="356AA0" percentage="85" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

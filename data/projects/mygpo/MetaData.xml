@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479921</id>
+      <name>gpodder.net</name>
+      <url>http://www.ohloh.net/p/mygpo.xml</url>
+      <html_url>http://www.ohloh.net/p/mygpo</html_url>
+      <created_at>2009-12-17T10:45:57Z</created_at>
+      <updated_at>2013-07-09T11:30:47Z</updated_at>
+      <description>gpodder.net is the open source codebase for a podcast web service that allows synchronization of podcast, episode action history and subscription lists for multiple devices.</description>
+      <homepage_url>http://gpodder.net/</homepage_url>
+      <download_url>http://repo.or.cz/w/mygpo.git</download_url>
+      <url_name>mygpo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61814/gpoddernet_228_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61814/gpoddernet_228_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571561</analysis_id>
+      <tags>
+        <tag>directory</tag>
+        <tag>podcastting</tag>
+        <tag>podcasts</tag>
+        <tag>restapi</tag>
+      </tags>
+      <analysis>
+        <id>14571561</id>
+        <url>http://www.ohloh.net/analyses/14571561.xml</url>
+        <project_id>479921</project_id>
+        <updated_at>2013-07-09T11:30:47Z</updated_at>
+        <logged_at>2013-07-08T12:04:48Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>30555</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mygpo/analyses/14571561/languages.png">
+          <language color="4A246B" percentage="40" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="29" id="4">
+CSS          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="000000" percentage="15" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

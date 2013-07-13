@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480268</id>
+      <name>The Barebox Bootloader</name>
+      <url>http://www.ohloh.net/p/barebox.xml</url>
+      <html_url>http://www.ohloh.net/p/barebox</html_url>
+      <created_at>2010-01-05T21:27:57Z</created_at>
+      <updated_at>2013-07-05T22:50:14Z</updated_at>
+      <description>Barebox (formerly known as u-boot-v2) is a bootloader that inherits the best of U-Boot and the Linux kernel: The size and look-and-feel of u-boot, with driver model and lots of design concepts from the Linux kernel.</description>
+      <homepage_url>http://www.barebox.org/</homepage_url>
+      <download_url>http://www.barebox.org/download/</download_url>
+      <url_name>barebox</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542974</analysis_id>
+      <tags>
+        <tag>nios2</tag>
+        <tag>x86</tag>
+        <tag>arm</tag>
+        <tag>powerpc</tag>
+        <tag>embeddedsystems</tag>
+        <tag>embedded</tag>
+        <tag>boot</tag>
+        <tag>bootloader</tag>
+        <tag>embeddedlinux</tag>
+        <tag>loader</tag>
+        <tag>blackfin</tag>
+        <tag>mips</tag>
+      </tags>
+      <analysis>
+        <id>14542974</id>
+        <url>http://www.ohloh.net/analyses/14542974.xml</url>
+        <project_id>480268</project_id>
+        <updated_at>2013-07-05T22:50:14Z</updated_at>
+        <logged_at>2013-07-05T22:35:42Z</logged_at>
+        <min_month>2000-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>60</twelve_month_contributor_count>
+        <total_code_lines>278539</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/barebox/analyses/14542974/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

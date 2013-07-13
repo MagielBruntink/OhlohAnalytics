@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10022</id>
+      <name>olap4j</name>
+      <url>http://www.ohloh.net/p/olap4j.xml</url>
+      <html_url>http://www.ohloh.net/p/olap4j</html_url>
+      <created_at>2007-12-03T00:20:23Z</created_at>
+      <updated_at>2013-06-16T02:23:14Z</updated_at>
+      <description>olap4j is a simple, open, Java API for connecting to OLAP servers and writing multidimensional applications.</description>
+      <homepage_url>http://www.olap4j.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=168953</download_url>
+      <url_name>olap4j</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10484/olap4j_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10484/olap4j_logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14274757</analysis_id>
+      <tags>
+        <tag>xmla</tag>
+        <tag>sqlserver</tag>
+        <tag>mondrian</tag>
+        <tag>ssas</tag>
+        <tag>olap</tag>
+        <tag>api</tag>
+        <tag>datawarehouse</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14274757</id>
+        <url>http://www.ohloh.net/analyses/14274757.xml</url>
+        <project_id>10022</project_id>
+        <updated_at>2013-07-11T06:35:22Z</updated_at>
+        <logged_at>2013-07-11T06:35:17Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>36179</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/olap4j/analyses/14274757/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

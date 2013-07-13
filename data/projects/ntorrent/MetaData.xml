@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8966</id>
+      <name>nTorrent</name>
+      <url>http://www.ohloh.net/p/ntorrent.xml</url>
+      <html_url>http://www.ohloh.net/p/ntorrent</html_url>
+      <created_at>2007-10-05T14:20:35Z</created_at>
+      <updated_at>2013-06-27T06:02:21Z</updated_at>
+      <description>nTorrent - A graphical user interface client to rtorrent (a cli torrent client) written in java. nTorrent can administer a rtorrent process over a network connection. Take a look at the project website for more info.</description>
+      <homepage_url>http://ntorrent.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/ntorrent/downloads/list</download_url>
+      <url_name>ntorrent</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22/ntorrent48_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22/ntorrent48_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14429152</analysis_id>
+      <tags>
+        <tag>gui</tag>
+        <tag>torrent</tag>
+        <tag>client</tag>
+        <tag>java</tag>
+        <tag>remote</tag>
+        <tag>ntorrent</tag>
+        <tag>xmlrpc</tag>
+      </tags>
+      <analysis>
+        <id>14429152</id>
+        <url>http://www.ohloh.net/analyses/14429152.xml</url>
+        <project_id>8966</project_id>
+        <updated_at>2013-07-07T21:33:43Z</updated_at>
+        <logged_at>2013-07-07T21:32:48Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>16297</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ntorrent/analyses/14429152/languages.png">
+          <language color="9A63AD" percentage="91" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

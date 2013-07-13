@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13903</id>
+      <name>GXemul</name>
+      <url>http://www.ohloh.net/p/gxemul.xml</url>
+      <html_url>http://www.ohloh.net/p/gxemul</html_url>
+      <created_at>2008-05-10T20:59:43Z</created_at>
+      <updated_at>2013-06-17T11:28:44Z</updated_at>
+      <description>GXemul is a framework for full-system computer architecture emulation. It emulates (networks of) machines, consisting of processors (ARM, MIPS, Motorola 88K, PowerPC, and SuperH) and various surrounding hardware components. It is complete enough to allow several unmodified &quot;guest&quot; operating systems (e.g. NetBSD) to run inside the emulator as if they were running on real hardware.</description>
+      <homepage_url>http://gxemul.sourceforge.net/</homepage_url>
+      <download_url>http://gxemul.sourceforge.net/download.html</download_url>
+      <url_name>gxemul</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11438/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11438/logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14291714</analysis_id>
+      <tags>
+        <tag>ppc</tag>
+        <tag>machine</tag>
+        <tag>arm32</tag>
+        <tag>superh</tag>
+        <tag>decstation</tag>
+        <tag>mips64</tag>
+        <tag>powerpc</tag>
+        <tag>debugger</tag>
+        <tag>dreamcast</tag>
+        <tag>mips32</tag>
+        <tag>simulator</tag>
+        <tag>single_step</tag>
+        <tag>sh4a</tag>
+        <tag>virtual_machine</tag>
+        <tag>mips</tag>
+        <tag>emulator</tag>
+        <tag>processor</tag>
+        <tag>arm</tag>
+      </tags>
+      <analysis>
+        <id>14291714</id>
+        <url>http://www.ohloh.net/analyses/14291714.xml</url>
+        <project_id>13903</project_id>
+        <updated_at>2013-07-07T09:46:31Z</updated_at>
+        <logged_at>2013-07-07T09:46:26Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>20851</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gxemul/analyses/14291714/languages.png">
+          <language color="F35F1F" percentage="96" id="44">
+C++          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

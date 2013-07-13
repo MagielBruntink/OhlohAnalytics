@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8885</id>
+      <name>libdc1394</name>
+      <url>http://www.ohloh.net/p/libdc1394.xml</url>
+      <html_url>http://www.ohloh.net/p/libdc1394</html_url>
+      <created_at>2007-10-01T18:25:43Z</created_at>
+      <updated_at>2013-05-17T17:49:49Z</updated_at>
+      <description>libdc1394 is a library that provides a complete high level application programming interface (API) for developers who wish to control IEEE 1394 based cameras that conform to the 1394-based Digital Camera Specifications (also known as the IIDC or DCAM Specifications). The library currently works on Linux, Mac OSX and (soon) Windows.
+
+libdc1394 provides a complete API that includes camera detection (hotplug coming soon), broadcast commands, bus ressource management (basic), full feature controls (including absolute values), memory channels, external and software trigger, support for all video modes (including 16bit modes and 1394B modes at 800Mb/s), video capture using DMA and full Format_7 control.</description>
+      <homepage_url>http://damien.douxchamps.net/ieee1394/libdc1394/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=8157</download_url>
+      <url_name>libdc1394</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1824415</analysis_id>
+      <tags>
+        <tag>macos</tag>
+        <tag>library</tag>
+        <tag>osx</tag>
+        <tag>linux</tag>
+        <tag>digital_camera</tag>
+        <tag>firewire</tag>
+        <tag>ieee1394</tag>
+        <tag>api</tag>
+        <tag>cross-plattform</tag>
+      </tags>
+      <analysis>
+        <id>1824415</id>
+        <url>http://www.ohloh.net/analyses/1824415.xml</url>
+        <project_id>8885</project_id>
+        <updated_at>2011-03-27T08:51:31Z</updated_at>
+        <logged_at>2009-12-09T14:03:12Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>35640</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libdc1394/analyses/1824415/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16594</id>
+      <name>Gnotime</name>
+      <url>http://www.ohloh.net/p/gnotime.xml</url>
+      <html_url>http://www.ohloh.net/p/gnotime</html_url>
+      <created_at>2008-09-09T14:46:37Z</created_at>
+      <updated_at>2013-07-11T19:08:00Z</updated_at>
+      <description>GnoTime (formerly GTT, the Gnome Time Tracker) is a desktop utility for tracking the amount of time spent on projects, keeping a to-do list, a diary, and generating reports and invoices based on that time.</description>
+      <homepage_url>http://gttr.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=55463</download_url>
+      <url_name>gnotime</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22253/gnotime_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22253/gnotime_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14593071</analysis_id>
+      <tags>
+        <tag>project</tag>
+        <tag>todomanager</tag>
+        <tag>contractor</tag>
+        <tag>invoice</tag>
+        <tag>time</tag>
+        <tag>time_tracking</tag>
+        <tag>desktop</tag>
+        <tag>journal</tag>
+        <tag>scheme</tag>
+        <tag>gnome</tag>
+        <tag>diary</tag>
+        <tag>report</tag>
+        <tag>todo_list</tag>
+        <tag>timesheet</tag>
+        <tag>stopwatch</tag>
+      </tags>
+      <analysis>
+        <id>14593071</id>
+        <url>http://www.ohloh.net/analyses/14593071.xml</url>
+        <project_id>16594</project_id>
+        <updated_at>2013-07-13T03:53:14Z</updated_at>
+        <logged_at>2013-07-13T03:53:11Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>28842</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnotime/analyses/14593071/languages.png">
+          <language color="FF8F00" percentage="56" id="42">
+C          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

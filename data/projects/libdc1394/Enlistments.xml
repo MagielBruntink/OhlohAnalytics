@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>67892</id>
+      <project_id>8885</project_id>
+      <repository_id>66388</repository_id>
+      <repository>
+        <id>66388</id>
+        <type>GitRepository</type>
+        <url>git://libdc1394.git.sourceforge.net/gitroot/libdc1394</url>
+        <username></username>
+        <password></password>
+        <logged_at></logged_at>
+        <commits>594</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>17285</id>
+      <project_id>8885</project_id>
+      <repository_id>16747</repository_id>
+      <repository>
+        <id>16747</id>
+        <type>SvnRepository</type>
+        <url>https://libdc1394.svn.sourceforge.net/svnroot/libdc1394/trunk/libdc1394</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-03-27T09:09:11Z</logged_at>
+        <commits>288</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

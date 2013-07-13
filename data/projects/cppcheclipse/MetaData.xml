@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>463456</id>
+      <name>cppcheclipse</name>
+      <url>http://www.ohloh.net/p/cppcheclipse.xml</url>
+      <html_url>http://www.ohloh.net/p/cppcheclipse</html_url>
+      <created_at>2009-10-16T06:20:14Z</created_at>
+      <updated_at>2013-07-02T23:48:57Z</updated_at>
+      <description>cppcheclipse is an Eclipse plugin which integrates cppcheck (http://sourceforge.net/projects/cppcheck/) with the CDT project. You can run/configure cppcheck from the Eclipse UI. 
+
+Click on Installation for help how to install this plugin. 
+
+News2009/10/18 - First public version 0.9 of cppcheclipse available 2009/10/22 - Bugfix release 0.9.1 available which fixes &amp;nbsp;issue 1&amp;nbsp;. This bug caused Eclipse to hang under some circumstances. 2009/10/31 - New release 0.9.2 is available which is compatible with Java 1.5 and Eclipse 3.4 and 3.5. It adds support for check suppressions, an automatic update check for cppcheck and lots of bugfixes which include &amp;nbsp;issue 2&amp;nbsp; and &amp;nbsp;issue 3&amp;nbsp;. 2009/11/22 - New release 0.9.3 available which fixes &amp;nbsp;issue 4&amp;nbsp;, &amp;nbsp;issue 5&amp;nbsp; and &amp;nbsp;issue 6&amp;nbsp;. The latter could lead to a nasty error, where the error mark was at the wrong positon. Some bugfixes for suppressions were added. 2010/02/03 - Release 0.9.4 available which fixes &amp;nbsp;issue 7&amp;nbsp; and &amp;nbsp;issue 8&amp;nbsp;. Additionally it adds support for calling it via a shortcut (Ctrl+Shift+C). This release requires cppcheck in at least version 1.40, as it uses its new --enable-flags. Some other bugfixes regarding marker deletion, problem list handling and incremental builder were also included.  2010/02/04 - Just one day later I have to release 0.9.5 since the previous one (and also 0.9.3 I guess) suffered  from a serious bug (&amp;nbsp;issue 10&amp;nbsp;), where some of the command line arguments where not correctly transmitted to cppcheck. Furthermore &amp;nbsp;issue 09&amp;nbsp; and &amp;nbsp;issue 11&amp;nbsp; were fixed. Screenshot</description>
+      <homepage_url>http://code.google.com/p/cppcheclipse/</homepage_url>
+      <download_url></download_url>
+      <url_name>cppcheclipse</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14508397</analysis_id>
+      <tags>
+        <tag>eclipse</tag>
+        <tag>cppcheck</tag>
+        <tag>plug-in</tag>
+        <tag>staticcodeanalyzer</tag>
+        <tag>codeanalyzer</tag>
+      </tags>
+      <analysis>
+        <id>14508397</id>
+        <url>http://www.ohloh.net/analyses/14508397.xml</url>
+        <project_id>463456</project_id>
+        <updated_at>2013-07-12T13:45:54Z</updated_at>
+        <logged_at>2013-07-12T13:45:51Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5401</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cppcheclipse/analyses/14508397/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="EEE" percentage="2" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

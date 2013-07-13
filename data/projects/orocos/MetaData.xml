@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6419</id>
+      <name>Orocos</name>
+      <url>http://www.ohloh.net/p/orocos.xml</url>
+      <html_url>http://www.ohloh.net/p/orocos</html_url>
+      <created_at>2007-07-04T13:25:57Z</created_at>
+      <updated_at>2013-07-06T11:38:32Z</updated_at>
+      <description>&#8220;Orocos&#8221; is the acronym of the Open Robot Control Software project. The project's aim is to develop a general-purpose, free software, and modular framework for robot and machine control. The Orocos project supports 4 C++ libraries: the Real-Time Toolkit, the Kinematics and Dynamics Library, the Bayesian Filtering Library and the Orocos Component Library.</description>
+      <homepage_url>http://www.orocos.org</homepage_url>
+      <download_url>http://www.orocos.org</download_url>
+      <url_name>orocos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16666/logo64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16666/logo64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14549045</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>robotics</tag>
+        <tag>controller</tag>
+        <tag>robot</tag>
+        <tag>framework</tag>
+        <tag>c++</tag>
+      </tags>
+      <analysis>
+        <id>14549045</id>
+        <url>http://www.ohloh.net/analyses/14549045.xml</url>
+        <project_id>6419</project_id>
+        <updated_at>2013-07-06T11:38:32Z</updated_at>
+        <logged_at>2013-07-06T11:35:03Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>296916</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/orocos/analyses/14549045/languages.png">
+          <language color="F35F1F" percentage="68" id="44">
+C++          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="556655" percentage="5" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="13" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>gpl_classpath</name>
+          <nice_name>GPL + Classpath Exception</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

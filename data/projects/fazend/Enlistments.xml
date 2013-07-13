@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>107350</id>
+      <project_id>442398</project_id>
+      <repository_id>105649</repository_id>
+      <repository>
+        <id>105649</id>
+        <type>SvnSyncRepository</type>
+        <url>http://fazend.googlecode.com/svn/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-04-21T13:37:27Z</logged_at>
+        <commits>1847</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>240355</id>
+      <project_id>442398</project_id>
+      <repository_id>238043</repository_id>
+      <repository>
+        <id>238043</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.fazend.com/fazend/trunk</url>
+        <username>ohloh@ohloh.net</username>
+        <password>fjf6Hnfh6JJJmnf6</password>
+        <logged_at>2013-04-19T18:41:44Z</logged_at>
+        <commits>4143</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

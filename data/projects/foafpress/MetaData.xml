@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488887</id>
+      <name>Foafpress</name>
+      <url>http://www.ohloh.net/p/foafpress.xml</url>
+      <html_url>http://www.ohloh.net/p/foafpress</html_url>
+      <created_at>2011-03-27T15:16:45Z</created_at>
+      <updated_at>2013-07-09T18:32:21Z</updated_at>
+      <description>Foafpress is an open-source PHP web application and presentation engine for RDF data stored in files, e.g. your FOAF profile. It allows you to aggregate and publish data from multiple web sources via Linked Data.</description>
+      <homepage_url>http://foafpress.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>foafpress</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14509828</analysis_id>
+      <tags>
+        <tag>html</tag>
+        <tag>turtle</tag>
+        <tag>semantic</tag>
+        <tag>foaf</tag>
+        <tag>arc2</tag>
+        <tag>rdf</tag>
+        <tag>php</tag>
+        <tag>semanticweb</tag>
+        <tag>spcms</tag>
+        <tag>social</tag>
+        <tag>rdfxml</tag>
+        <tag>n-triples</tag>
+        <tag>linkeddata</tag>
+      </tags>
+      <analysis>
+        <id>14509828</id>
+        <url>http://www.ohloh.net/analyses/14509828.xml</url>
+        <project_id>488887</project_id>
+        <updated_at>2013-07-12T05:26:33Z</updated_at>
+        <logged_at>2013-07-12T05:25:17Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2589</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/foafpress/analyses/14509828/languages.png">
+          <language color="356AA0" percentage="66" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="20" id="4">
+CSS          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

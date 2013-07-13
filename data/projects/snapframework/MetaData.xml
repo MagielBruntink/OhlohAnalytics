@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485786</id>
+      <name>Snap: A Haskell Web Framework</name>
+      <url>http://www.ohloh.net/p/snapframework.xml</url>
+      <html_url>http://www.ohloh.net/p/snapframework</html_url>
+      <created_at>2010-10-05T17:38:50Z</created_at>
+      <updated_at>2013-07-11T22:52:39Z</updated_at>
+      <description>Snap is a simple web development framework for unix systems, written in the Haskell programming language.
+
+Snap aims to be the de facto web toolkit for Haskell, on the basis of:
+
+- High performance
+- High design standards
+- Simplicity and ease of use, even for Haskell beginners
+- Excellent documentation
+- Robustness and high test coverage
+
+Snap runs on *nix platforms; it has been tested on Linux and Mac OSX Snow Leopard. Windows support was added more recently, but it not as well-tested.</description>
+      <homepage_url>http://snapframework.com</homepage_url>
+      <download_url>http://snapframework.com/download</download_url>
+      <url_name>snapframework</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37960/logo-small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37960/logo-small_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14595079</analysis_id>
+      <tags>
+        <tag>libev</tag>
+        <tag>web</tag>
+        <tag>http</tag>
+        <tag>iteratee</tag>
+        <tag>haskell</tag>
+        <tag>webserver</tag>
+        <tag>haskell-libraries</tag>
+        <tag>httpd</tag>
+        <tag>high-performance</tag>
+      </tags>
+      <analysis>
+        <id>14595079</id>
+        <url>http://www.ohloh.net/analyses/14595079.xml</url>
+        <project_id>485786</project_id>
+        <updated_at>2013-07-11T22:52:38Z</updated_at>
+        <logged_at>2013-07-11T22:46:20Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>16720</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/snapframework/analyses/14595079/languages.png">
+          <language color="007B7C" percentage="91" id="38">
+Haskell          </language>
+          <language color="FF1A00" percentage="7" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

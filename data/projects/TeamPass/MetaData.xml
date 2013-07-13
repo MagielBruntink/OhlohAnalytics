@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>468653</id>
+      <name>TeamPass</name>
+      <url>http://www.ohloh.net/p/TeamPass.xml</url>
+      <html_url>http://www.ohloh.net/p/TeamPass</html_url>
+      <created_at>2009-10-29T15:30:42Z</created_at>
+      <updated_at>2013-07-12T12:04:12Z</updated_at>
+      <description>TeamPass is a Collaborative Passwords Manager. It permits to manage passwords in an environment where all users can't see all passwords.
+TeamPass main functions are:
+- Define your own Tree structure of passwords Groups,
+- Define the users Functions you want. Each Function allows access to specific Groups,
+- Associate each user to specific Functions, and customize his/hers groups access,
+- Create the matrix traceability for Functions vs Groups,
+- Audit trail on passwords,
+- All passwords are encrypted in database,
+- Clipboard copy of password and login for quick utilization,
+- Define minimal password complexity for each Group,
+- Auto log-off system when session is over,
+- Deploy a strategy for &quot;renewal passwords&quot;,
+- Passwords can be restricted to a set of users,
+- ...
+More infos on website.</description>
+      <homepage_url>http://www.teampass.net</homepage_url>
+      <download_url>https://github.com/nilsteampassnet/TeamPass</download_url>
+      <url_name>TeamPass</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26481/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26481/logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14605656</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>mysql</tag>
+        <tag>audit</tag>
+        <tag>password</tag>
+        <tag>ajax</tag>
+        <tag>apache</tag>
+        <tag>passwords</tag>
+        <tag>manager</tag>
+        <tag>collaborative</tag>
+        <tag>security</tag>
+        <tag>company</tag>
+        <tag>trail</tag>
+        <tag>keepass</tag>
+        <tag>team</tag>
+        <tag>it</tag>
+        <tag>folder</tag>
+        <tag>free</tag>
+        <tag>online</tag>
+        <tag>quality</tag>
+        <tag>community</tag>
+      </tags>
+      <analysis>
+        <id>14605656</id>
+        <url>http://www.ohloh.net/analyses/14605656.xml</url>
+        <project_id>468653</project_id>
+        <updated_at>2013-07-12T12:04:11Z</updated_at>
+        <logged_at>2013-07-11T01:52:20Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>109663</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/TeamPass/analyses/14605656/languages.png">
+          <language color="356AA0" percentage="75" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="19" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

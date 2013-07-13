@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>60574</id>
+      <project_id>308957</project_id>
+      <repository_id>59095</repository_id>
+      <repository>
+        <id>59095</id>
+        <type>SvnRepository</type>
+        <url>http://dev.itmill.com/svn/incubator/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2009-08-04T07:15:29Z</logged_at>
+        <commits>981</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>60610</id>
+      <project_id>308957</project_id>
+      <repository_id>59132</repository_id>
+      <repository>
+        <id>59132</id>
+        <type>SvnRepository</type>
+        <url>http://dev.itmill.com/svn/versions/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2009-08-04T07:15:17Z</logged_at>
+        <commits>641</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>525112</id>
+      <project_id>13043</project_id>
+      <repository_id>527675</repository_id>
+      <repository>
+        <id>527675</id>
+        <type>SvnRepository</type>
+        <url>http://svn.code.sf.net/p/openxava/code/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T18:43:26Z</logged_at>
+        <commits>2173</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>25022</id>
+      <project_id>13043</project_id>
+      <repository_id>24192</repository_id>
+      <repository>
+        <id>24192</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@openxava.cvs.sourceforge.net:/cvsroot/openxava</url>
+        <module_name>OpenXava</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-07T18:10:02Z</logged_at>
+        <commits>1148</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25647</id>
+      <name>JSystem</name>
+      <url>http://www.ohloh.net/p/jsystem.xml</url>
+      <html_url>http://www.ohloh.net/p/jsystem</html_url>
+      <created_at>2008-10-15T19:53:11Z</created_at>
+      <updated_at>2011-07-05T23:12:27Z</updated_at>
+      <description>JSystem is an open source framework for writing and running automated system testing projects.
+The JSystem framework is comprised of the following components:
+         1. Services Java API - exposes JSystem services
+         2. JSystem Drivers- Java modules used to interfaces with devices and applications in the system under test.
+         3. JRunner - GUI application interface used for creating and running tests scenarios.
+         4. JSystem Agent - Execution engine used to run scenarios on a distributed setup.
+         5. JSystem Eclipse plug-in - accelerates the development environment setup and enforces JSystem conventions.
+
+JSystem uses several open source projects, two of the central open source projects are JUnit used for writing tests and Ant used as the scenario execution engine.</description>
+      <homepage_url>http://www.jsystemtest.org</homepage_url>
+      <download_url>http://www.jsystemtest.org/?q=Download</download_url>
+      <url_name>jsystem</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9595/jsystem_med.PNG</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9595/jsystem_small.PNG</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2749822</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>eclipse</tag>
+        <tag>automation</tag>
+        <tag>testing</tag>
+        <tag>agile</tag>
+        <tag>quality</tag>
+        <tag>tools</tag>
+        <tag>ant</tag>
+      </tags>
+      <analysis>
+        <id>2749822</id>
+        <url>http://www.ohloh.net/analyses/2749822.xml</url>
+        <project_id>25647</project_id>
+        <updated_at>2011-08-02T08:23:23Z</updated_at>
+        <logged_at>2011-08-02T08:22:21Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>200250</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jsystem/analyses/2749822/languages.png">
+          <language color="9A63AD" percentage="65" id="5">
+Java          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

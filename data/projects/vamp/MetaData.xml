@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7724</id>
+      <name>Vamp</name>
+      <url>http://www.ohloh.net/p/vamp.xml</url>
+      <html_url>http://www.ohloh.net/p/vamp</html_url>
+      <created_at>2007-08-14T12:48:26Z</created_at>
+      <updated_at>2013-07-11T00:34:25Z</updated_at>
+      <description>Vamp is an audio processing plugin system for plugins that extract descriptive information from audio data &#8212; typically referred to as &quot;audio analysis plugins&quot; or &quot;audio feature extraction plugins&quot;.</description>
+      <homepage_url>http://www.vamp-plugins.org/</homepage_url>
+      <download_url>http://www.vamp-plugins.org/download.html</download_url>
+      <url_name>vamp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14583135</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>music</tag>
+        <tag>audio</tag>
+        <tag>mir</tag>
+        <tag>analysis</tag>
+        <tag>dsp</tag>
+      </tags>
+      <analysis>
+        <id>14583135</id>
+        <url>http://www.ohloh.net/analyses/14583135.xml</url>
+        <project_id>7724</project_id>
+        <updated_at>2013-07-11T00:34:25Z</updated_at>
+        <logged_at>2013-07-11T00:29:17Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>234928</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vamp/analyses/14583135/languages.png">
+          <language color="F35F1F" percentage="52" id="44">
+C++          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="EEE" percentage="14" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="10" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

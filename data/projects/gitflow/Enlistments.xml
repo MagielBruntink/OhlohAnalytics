@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>468134</id>
+      <project_id>487603</project_id>
+      <repository_id>464925</repository_id>
+      <repository>
+        <id>464925</id>
+        <type>GitRepository</type>
+        <url>git://github.com/nvie/gitflow.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-05T18:03:20Z</logged_at>
+        <commits>297</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>468135</id>
+      <project_id>487603</project_id>
+      <repository_id>464926</repository_id>
+      <repository>
+        <id>464926</id>
+        <type>GitRepository</type>
+        <url>git://github.com/nvie/gitflow.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-05T18:03:25Z</logged_at>
+        <commits>401</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

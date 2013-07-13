@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>69833</id>
+      <name>ditaa</name>
+      <url>http://www.ohloh.net/p/ditaa.xml</url>
+      <html_url>http://www.ohloh.net/p/ditaa</html_url>
+      <created_at>2008-12-19T06:51:17Z</created_at>
+      <updated_at>2013-06-13T15:24:15Z</updated_at>
+      <description>A small utility that converts ascii-art diagrams to nice-looking bitmap diagrams automatically.</description>
+      <homepage_url>http://sourceforge.net/projects/ditaa</homepage_url>
+      <download_url>http://sourceforge.net/projects/ditaa/files/latest/download</download_url>
+      <url_name>ditaa</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14250323</analysis_id>
+      <tags>
+        <tag>graph</tag>
+        <tag>graphs</tag>
+        <tag>java</tag>
+        <tag>ascii</tag>
+      </tags>
+      <analysis>
+        <id>14250323</id>
+        <url>http://www.ohloh.net/analyses/14250323.xml</url>
+        <project_id>69833</project_id>
+        <updated_at>2013-07-12T01:51:54Z</updated_at>
+        <logged_at>2013-07-12T01:51:48Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9788</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ditaa/analyses/14250323/languages.png">
+          <language color="9A63AD" percentage="79" id="5">
+Java          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

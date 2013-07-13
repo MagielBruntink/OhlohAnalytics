@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>132298</id>
+      <name>Another PostgreSQL Diff Tool</name>
+      <url>http://www.ohloh.net/p/apgdiff.xml</url>
+      <html_url>http://www.ohloh.net/p/apgdiff</html_url>
+      <created_at>2009-01-06T14:29:33Z</created_at>
+      <updated_at>2013-06-09T05:35:43Z</updated_at>
+      <description>Another PostgreSQL Diff Tool (also known as apgdiff) is free PostgreSQL diff tool that is useful for schema upgrades. The tool compares two schema dump files and creates output file that is (after some hand-made modifications) suitable for upgrade of old schema. It is already being used by many developers all over the world.</description>
+      <homepage_url>http://apgdiff.startnet.biz/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=163508</download_url>
+      <url_name>apgdiff</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14205538</analysis_id>
+      <tags>
+        <tag>sql</tag>
+        <tag>code_generators</tag>
+        <tag>java</tag>
+        <tag>database</tag>
+        <tag>database_administration</tag>
+        <tag>command-line</tag>
+        <tag>postgresql</tag>
+      </tags>
+      <analysis>
+        <id>14205538</id>
+        <url>http://www.ohloh.net/analyses/14205538.xml</url>
+        <project_id>132298</project_id>
+        <updated_at>2013-07-07T06:15:50Z</updated_at>
+        <logged_at>2013-07-07T06:15:48Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>9987</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/apgdiff/analyses/14205538/languages.png">
+          <language color="9A63AD" percentage="57" id="5">
+Java          </language>
+          <language color="493625" percentage="40" id="30">
+SQL          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

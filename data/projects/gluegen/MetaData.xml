@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>2914</id>
+      <name>GlueGen</name>
+      <url>http://www.ohloh.net/p/gluegen.xml</url>
+      <html_url>http://www.ohloh.net/p/gluegen</html_url>
+      <created_at>2006-10-12T09:40:29Z</created_at>
+      <updated_at>2013-07-05T13:09:43Z</updated_at>
+      <description>GlueGen is a tool which automatically generates the Java and JNI code necessary to call C libraries.
+
+It reads as input ANSI C header files and separate configuration files which provide control over many aspects of the glue code generation. GlueGen uses a complete ANSI C parser and an internal representation (IR) capable of representing all C types to represent the APIs for which it generates interfaces. It has the ability to perform significant transformations on the IR before glue code emission. GlueGen is currently powerful enough to bind even low-level APIs such as the Java Native Interface (JNI) and the AWT Native Interface (JAWT) back up to the Java programming language.</description>
+      <homepage_url>http://jogamp.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>gluegen</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47571/website_final_blue_wiki_symbol_135x135pel_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47571/website_final_blue_wiki_symbol_135x135pel_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14536906</analysis_id>
+      <tags>
+        <tag>generator</tag>
+        <tag>jni</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14536906</id>
+        <url>http://www.ohloh.net/analyses/14536906.xml</url>
+        <project_id>2914</project_id>
+        <updated_at>2013-07-05T13:09:42Z</updated_at>
+        <logged_at>2013-07-05T12:49:33Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>71828</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gluegen/analyses/14536906/languages.png">
+          <language color="9A63AD" percentage="73" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

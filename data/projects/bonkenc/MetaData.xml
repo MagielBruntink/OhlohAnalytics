@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13408</id>
+      <name>BonkEnc</name>
+      <url>http://www.ohloh.net/p/bonkenc.xml</url>
+      <html_url>http://www.ohloh.net/p/bonkenc</html_url>
+      <created_at>2008-04-17T09:00:22Z</created_at>
+      <updated_at>2013-07-11T12:48:04Z</updated_at>
+      <description>BonkEnc is a CD ripper, audio encoder and converter for various formats. It can produce MP3, MP4/M4A, Ogg Vorbis, AAC, Bonk and FLAC files.</description>
+      <homepage_url>http://www.bonkenc.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=27149</download_url>
+      <url_name>bonkenc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18111/bonkenc_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18111/bonkenc_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590140</analysis_id>
+      <tags>
+        <tag>audio</tag>
+        <tag>encoder</tag>
+        <tag>converter</tag>
+        <tag>ripper</tag>
+        <tag>windows</tag>
+        <tag>mp3</tag>
+        <tag>cd</tag>
+      </tags>
+      <analysis>
+        <id>14590140</id>
+        <url>http://www.ohloh.net/analyses/14590140.xml</url>
+        <project_id>13408</project_id>
+        <updated_at>2013-07-11T12:48:04Z</updated_at>
+        <logged_at>2013-07-11T12:29:14Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>953398</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bonkenc/analyses/14590140/languages.png">
+          <language color="F35F1F" percentage="51" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="41" id="42">
+C          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

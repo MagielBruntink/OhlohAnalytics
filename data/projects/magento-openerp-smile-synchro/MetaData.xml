@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21230</id>
+      <name>magento-openerp-smile-synchro</name>
+      <url>http://www.ohloh.net/p/magento-openerp-smile-synchro.xml</url>
+      <html_url>http://www.ohloh.net/p/magento-openerp-smile-synchro</html_url>
+      <created_at>2008-10-07T13:49:14Z</created_at>
+      <updated_at>2013-06-18T23:28:54Z</updated_at>
+      <description>Welcome to the OpenERP / Magento connector project!
+
+      
+
+ 
+
+News
+
+
+
+
+
+ 
+
+What is it for?Want to sell your OpenERP managed product catalog on the web with the professional and scalable e-commerce Magento platform? Want to add a multi-stock, production (MRP), localized accounting or outstanding CRM to your e-commerce store, want to back it with an incredibly powerful ERP? Then that synchronization module is for you. 
+
+Warning:Both Magento and OpenERP are complex open source products. Make sure you master them correctly independently before attempting any synchronization. 
+
+Design principles of the module:The main module of the connector comes as an OpenERP plugin that keeps most of the business rules and settings on the powerful and extensible OpenERP platform. Magento is mostly used to for customers to enter their sale orders. 
+
+Still, as Magento has a rather sophisticated promotion and package management, one can use Magento to deal with the exact pricing rules (including shipping and taxes), the sale order is passed back to OpenERP with those Magento prices, no matter what was the original OpenERP pricing (Magento can override OpenERP prices). Taxes and discounts are properly handled. 
+
+Main featuresProduct catalog export from OpenERP to Magento (with common atributes but without pictures at the moment, that's our next wanted feature) Product stocks updates, based on OpenERP virtual stocks (number of products in the physical stock that have not been reserved yet) Category tree export, including creation and updates. Each Magento store has its own root category id, you can thus choose to where Magento store products get loaded. Taxes sync (provided that you first manually set up the magento ids of the OpenERP taxes see UserManual) Sale orders imports from Magento to OpenERP. Only new sale orders are imported. This process find out which customers are already in the OpenERP database or if they have a new shipping or delivery address. Only new resources are created. Sale order lines are created too. Discounts and taxes amounts are properly imported for each line so you can finally generate an invoice in OpenERP or trigger procurement, shipping or manufacturing operations according to you stocks levels. Broken sale order re-import function: if for whatever reason some sale order can't be imported; for instance because it is referencing a product that is not known inside the OpenERP database (which would just be an administration error), then once you fixed the missing product, this button gives you the opportunity to re-import properly those sale orders that failed previously. Minimal code and best practices coding so evolving and maintaining the code is a snap: very minimal extra OpenERP data structures and views. No extra Magento data structure nor extra view.    
+
+DocumentationSee our flash demos here UserManual FAQ FeedbackYour feedback will be very appreciated, use the following links: 
+
+Bug tracker discussion group 
+
+SupportAll the code here is free and open source. Still, you can also get paid support, by contacting us at Smile.fr.</description>
+      <homepage_url>http://code.google.com/p/magento-openerp-smile-synchro</homepage_url>
+      <download_url></download_url>
+      <url_name>magento-openerp-smile-synchro</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14301993</analysis_id>
+      <tags>
+        <tag>crm</tag>
+        <tag>magento</tag>
+        <tag>accounting</tag>
+        <tag>tinyerp</tag>
+        <tag>openerp</tag>
+        <tag>esale</tag>
+        <tag>erp</tag>
+        <tag>smile</tag>
+      </tags>
+      <analysis>
+        <id>14301993</id>
+        <url>http://www.ohloh.net/analyses/14301993.xml</url>
+        <project_id>21230</project_id>
+        <updated_at>2013-07-07T13:58:31Z</updated_at>
+        <logged_at>2013-07-07T13:58:28Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2009-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1598</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/magento-openerp-smile-synchro/analyses/14301993/languages.png">
+          <language color="4A246B" percentage="47" id="9">
+Python          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="356AA0" percentage="22" id="2">
+PHP          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25380</id>
+      <name>ypsilon</name>
+      <url>http://www.ohloh.net/p/ypsilon.xml</url>
+      <html_url>http://www.ohloh.net/p/ypsilon</html_url>
+      <created_at>2008-10-07T17:18:41Z</created_at>
+      <updated_at>2013-07-06T18:56:51Z</updated_at>
+      <description>Currently Ypsilon development has been suspended due to the development of our new pinball title MAD DAEDALUS -Loony Labyrinth Returns. 
+
+I will feed back the result of MAD DAEDALUS development to Ypsilon after the release of it in Spring 2010. 
+
+Till then, it may be difficult to answer to your bug reports. Please allow me some time to get back to you. I appreciate your patience. 
+
+Thank you for your great contribution for Ypsion. 
+
+OverviewYpsilon is the implementation of Scheme Programming Language, which conforms to the latest standard R6RS. It achieves a remarkably short GC pause time and the best performance in parallel execution as it implements &quot;mostly concurrent garbage collection&quot;, which is optimized for the multi-core CPU system.  
+
+Ypsilon is easy to use as well as good for applications of any kind that require quick, reliable, and interactive data processing. It implements full features of R6RS and R6RS standard libraries including: 
+
+arbitrary precision integer arithmetic rational number exact and inexact complex number implicitly phased library top-level program proper tail recursion call/cc and dynamic wind unicode bytevectors records exceptions and conditions i/o syntax-case hashtables enumerations 
+
+More libraries are included to support a wide variety of software development. Also it has built-in FFI which is easy to use. Please refer to the following files for FFI overview. 
+
+example/gtk-hello.scm example/glut-demo.scm sitelib/ypsilon/glut.scm sitelib/ypsilon/gl.scm sitelib/ypsilon/ffi.scm 
+
+News2008-12-23 Ypsilon 0.9.6-update3 released. 
+This version fixed all bugs found and supports Windows XP/Vista(32bit), MacOSX(32bit), Linux(32/64bit) , FreeBSD(32/64bit). 
+2008-09-03 Ypsilon 0.9.6-update2 released. 
+This is a bug fix release. 
+2008-08-15 Ypsilon 0.9.6-update1 released. 
+This is a bug fix release. 
+2008-08-01 Ypsilon 0.9.6 released. 
+This version fixed all bugs found in version 0.9.5. 
+LinksKnown bugs in current release Changes in latest version (trunk) Ypsilon development roadmap Xcode3: How to checkout latest source code from repository Windows: How to install Ypsilon to 'C:\Users\\Ypsilon' Using binfmt_misc linux kernel module Other ResourcesYpsilon has been developed as a fundamental technology for LittleWing Pinball Construction System. 
+
+Ypsilon Wiki: http://www.littlewingpinball.net/mediawiki/index.php/Ypsilon Ypsilon Background Story: http://www.littlewingpinball.com/contents/en/ypsilon.html (Japanese) Ypsilon Background Story: http://www.littlewingpinball.com/contents/ja/ypsilon.html (Japanese) Ypsilon Wiki: http://www.littlewingpinball.net/mediawiki-ja/index.php/Ypsilon LittleWing Pinball Home: http://www.littlewingpinball.com/</description>
+      <homepage_url>http://code.google.com/p/ypsilon</homepage_url>
+      <download_url></download_url>
+      <url_name>ypsilon</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14553298</analysis_id>
+      <tags>
+        <tag>interpreter</tag>
+        <tag>r6rs</tag>
+        <tag>scheme</tag>
+        <tag>vm</tag>
+        <tag>concurrent</tag>
+        <tag>macosx</tag>
+        <tag>linux</tag>
+        <tag>gc</tag>
+        <tag>lisp</tag>
+        <tag>realtime</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14553298</id>
+        <url>http://www.ohloh.net/analyses/14553298.xml</url>
+        <project_id>25380</project_id>
+        <updated_at>2013-07-06T18:56:51Z</updated_at>
+        <logged_at>2013-07-06T18:56:37Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>153865</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ypsilon/analyses/14553298/languages.png">
+          <language color="90C0D2" percentage="49" id="20">
+Scheme          </language>
+          <language color="F35F1F" percentage="30" id="44">
+C++          </language>
+          <language color="47A400" percentage="17" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>20</main_language_id>
+        <main_language_name>Scheme</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

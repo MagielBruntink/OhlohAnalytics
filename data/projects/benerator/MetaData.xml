@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11012</id>
+      <name>benerator</name>
+      <url>http://www.ohloh.net/p/benerator.xml</url>
+      <html_url>http://www.ohloh.net/p/benerator</html_url>
+      <created_at>2008-01-16T11:06:20Z</created_at>
+      <updated_at>2013-07-12T23:52:56Z</updated_at>
+      <description>benerator is a framework for creating realistic and valid high-volume test data, used for testing (unit/integration/load) and showcase setup.
+
+Metadata constraints are imported from systems and/or configuration files. Data can be imported from and exported to files and systems, anonymized or generated from scratch. Domain packages provide reusable generators for creating domain-specific data as names and addresses internationalizable in language and region. It is strongly customizable with plugins and configuration options.</description>
+      <homepage_url>http://databene.org/databene-benerator/</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=222964</download_url>
+      <url_name>benerator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14610894</analysis_id>
+      <tags>
+        <tag>regression-testing</tag>
+        <tag>data_generator</tag>
+        <tag>sql</tag>
+        <tag>load</tag>
+        <tag>data</tag>
+        <tag>continuous-integration</tag>
+        <tag>benchmarking</tag>
+        <tag>hsql</tag>
+        <tag>testing</tag>
+        <tag>tool</tag>
+        <tag>automation</tag>
+        <tag>mssql</tag>
+        <tag>xml</tag>
+        <tag>tools</tag>
+        <tag>data_generation</tag>
+        <tag>qa</tag>
+        <tag>performance_testing</tag>
+        <tag>load-testing</tag>
+        <tag>mysql</tag>
+        <tag>continuous-performance-testing</tag>
+        <tag>regression</tag>
+        <tag>framework</tag>
+        <tag>hsqldb</tag>
+        <tag>csv</tag>
+        <tag>regression_testing</tag>
+        <tag>database</tag>
+        <tag>continuous_integration</tag>
+        <tag>test</tag>
+        <tag>performance</tag>
+        <tag>xmlschema</tag>
+        <tag>java</tag>
+        <tag>oracle</tag>
+        <tag>db2</tag>
+        <tag>derby</tag>
+        <tag>stress-testing</tag>
+        <tag>development</tag>
+        <tag>showcase</tag>
+        <tag>postgresql</tag>
+        <tag>performance-testing</tag>
+      </tags>
+      <analysis>
+        <id>14610894</id>
+        <url>http://www.ohloh.net/analyses/14610894.xml</url>
+        <project_id>11012</project_id>
+        <updated_at>2013-07-12T23:52:56Z</updated_at>
+        <logged_at>2013-07-12T23:36:55Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>102558</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/benerator/analyses/14610894/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="556677" percentage="13" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_1_0</name>
+          <nice_name>GNU General Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

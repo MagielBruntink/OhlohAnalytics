@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>322678</id>
+      <name>TraitsGUI</name>
+      <url>http://www.ohloh.net/p/TraitsGUI.xml</url>
+      <html_url>http://www.ohloh.net/p/TraitsGUI</html_url>
+      <created_at>2009-04-09T16:53:18Z</created_at>
+      <updated_at>2013-06-13T08:02:59Z</updated_at>
+      <description>The TraitsGUI project contains a toolkit-independent GUI abstraction layer (known as Pyface), which is used to support the &quot;visualization&quot; features of the Traits package. Thus, you can write code in terms of the Traits API (views, items, editors, etc.), and let TraitsGUI and your selected toolkit and back-end take care of the details of displaying them.
+
+To display Traits-based user interfaces, in addition to the TraitsGUI project, you must install one of the following combinations of packages:
+
+    * Traits, TraitsBackendWX, and wxPython
+    * Traits, TraitsBackendQt, and PyQt</description>
+      <homepage_url>http://code.enthought.com/projects/traits_gui/</homepage_url>
+      <download_url>http://pypi.python.org/pypi?:action=display&amp;name=TraitsGUI</download_url>
+      <url_name>TraitsGUI</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14246424</analysis_id>
+      <analysis>
+        <id>14246424</id>
+        <url>http://www.ohloh.net/analyses/14246424.xml</url>
+        <project_id>322678</project_id>
+        <updated_at>2013-07-05T13:33:32Z</updated_at>
+        <logged_at>2013-07-05T13:33:27Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>13565</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/TraitsGUI/analyses/14246424/languages.png">
+          <language color="4A246B" percentage="95" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

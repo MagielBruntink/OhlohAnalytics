@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15190</id>
+      <name>GVfs - Virtual File System</name>
+      <url>http://www.ohloh.net/p/gvfs.xml</url>
+      <html_url>http://www.ohloh.net/p/gvfs</html_url>
+      <created_at>2008-06-27T17:23:43Z</created_at>
+      <updated_at>2013-07-12T08:07:21Z</updated_at>
+      <description>GVfs is a userspace virtual filesystem designed to work with the I/O abstractions of GIO (a library availible in GLib &gt;= 2.15.1). It installs several modules that are automatically used by applications using the APIs of libgio. There is also FUSE support that allows applications not using GIO to access the GVfs filesystems.</description>
+      <homepage_url></homepage_url>
+      <download_url>http://svn.gnome.org/svn/gvfs</download_url>
+      <url_name>gvfs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14602951</analysis_id>
+      <analysis>
+        <id>14602951</id>
+        <url>http://www.ohloh.net/analyses/14602951.xml</url>
+        <project_id>15190</project_id>
+        <updated_at>2013-07-12T08:07:20Z</updated_at>
+        <logged_at>2013-07-12T08:01:08Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>92</twelve_month_contributor_count>
+        <total_code_lines>111562</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gvfs/analyses/14602951/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

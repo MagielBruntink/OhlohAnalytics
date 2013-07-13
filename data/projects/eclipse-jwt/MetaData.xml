@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310791</id>
+      <name>Eclipse Java Workflow Tooling (JWT)</name>
+      <url>http://www.ohloh.net/p/eclipse-jwt.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse-jwt</html_url>
+      <created_at>2009-02-10T15:46:59Z</created_at>
+      <updated_at>2013-06-20T03:32:44Z</updated_at>
+      <description>The Java Workflow Tooling project (JWT) aims to build design time, development time and runtime workflow tools in order to provide a complete, flexible, interoperable Business Process Management platform.
+
+This is achieved through an extensible architecture allowing to support many different BP representations, format languages and execution engines. The set of JWT tools is meant to allow for &quot;Distribution&quot;-like releases with specific extensions targeting specific platforms or problems, e.g. JWT for SOA. The mission and philosophy of JWT makes it natural complement to other Eclipse projects, such as the friend SOA Tools Platform Project.</description>
+      <homepage_url>http://www.eclipse.org/jwt/</homepage_url>
+      <download_url>http://wiki.eclipse.org/JWT_Downloads</download_url>
+      <url_name>eclipse-jwt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14313691</analysis_id>
+      <analysis>
+        <id>14313691</id>
+        <url>http://www.ohloh.net/analyses/14313691.xml</url>
+        <project_id>310791</project_id>
+        <updated_at>2013-07-12T23:52:39Z</updated_at>
+        <logged_at>2013-07-12T23:52:38Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>133784</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse-jwt/analyses/14313691/languages.png">
+          <language color="9A63AD" percentage="61" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="333333" percentage="12" id="19">
+Assembly          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

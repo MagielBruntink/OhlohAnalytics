@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>339139</id>
+      <name>OneSwarm</name>
+      <url>http://www.ohloh.net/p/oneswarm.xml</url>
+      <html_url>http://www.ohloh.net/p/oneswarm</html_url>
+      <created_at>2009-05-06T21:42:18Z</created_at>
+      <updated_at>2013-06-25T22:12:14Z</updated_at>
+      <description>OneSwarm is a privacy preserving P2P client developed at the University of Washington. Although backwards compatible with BitTorrent, it also includes new features designed to protect user privacy when sharing data among friends, so-called friend-to-friend sharing. Features include search, permissions, and a web UI with streaming, realtime transcoding, and remote   access. To provide privacy, OneSwarm uses source-address rewriting with multi-path and multi-source downloading</description>
+      <homepage_url>http://oneswarm.cs.washington.edu/index.html</homepage_url>
+      <download_url>http://oneswarm.cs.washington.edu/download.html</download_url>
+      <url_name>oneswarm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18211/oneswarm_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18211/oneswarm_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409382</analysis_id>
+      <tags>
+        <tag>oneswarm</tag>
+        <tag>privacy</tag>
+        <tag>p2p</tag>
+        <tag>client</tag>
+        <tag>bittorrent</tag>
+        <tag>f2f</tag>
+      </tags>
+      <analysis>
+        <id>14409382</id>
+        <url>http://www.ohloh.net/analyses/14409382.xml</url>
+        <project_id>339139</project_id>
+        <updated_at>2013-07-07T02:55:51Z</updated_at>
+        <logged_at>2013-07-07T02:55:45Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>441688</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/oneswarm/analyses/14409382/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

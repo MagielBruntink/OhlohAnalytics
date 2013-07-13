@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347863</id>
+      <name>lgob</name>
+      <url>http://www.ohloh.net/p/lgob.xml</url>
+      <html_url>http://www.ohloh.net/p/lgob</html_url>
+      <created_at>2009-06-25T15:32:08Z</created_at>
+      <updated_at>2013-07-12T10:53:40Z</updated_at>
+      <description>lgob is a set of bindings of GObject-based libraries, like GTK+ and WebKitGtk, and some others like Cairo, for Lua. lgob is portable, have a small overhead, works with different versions of libraries (supports GTK+ &gt;= 2.6, for example), and features a code generator that can be used in other projects / bindings.</description>
+      <homepage_url>http://oproj.tuxfamily.org</homepage_url>
+      <download_url>http://downloads.tuxfamily.org/oproj/lgob/</download_url>
+      <url_name>lgob</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/21684/Lua-Logo_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/21684/Lua-Logo_64x64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14604877</analysis_id>
+      <tags>
+        <tag>lua</tag>
+        <tag>gtk+</tag>
+        <tag>gui</tag>
+      </tags>
+      <analysis>
+        <id>14604877</id>
+        <url>http://www.ohloh.net/analyses/14604877.xml</url>
+        <project_id>347863</project_id>
+        <updated_at>2013-07-12T10:53:39Z</updated_at>
+        <logged_at>2013-07-12T10:53:27Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>67439</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lgob/analyses/14604877/languages.png">
+          <language color="EEE" percentage="88" id="81">
+Modula-2          </language>
+          <language color="A42E00" percentage="7" id="27">
+Lua          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="555555" percentage="&lt;1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>81</main_language_id>
+        <main_language_name>Modula-2</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>106140</id>
+      <project_id>26096</project_id>
+      <repository_id>104473</repository_id>
+      <repository>
+        <id>104473</id>
+        <type>SvnSyncRepository</type>
+        <url>http://gsql.googlecode.com/svn/branches/refact.API.stage2</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T22:19:46Z</logged_at>
+        <commits>108</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>36281</id>
+      <project_id>26096</project_id>
+      <repository_id>35024</repository_id>
+      <repository>
+        <id>35024</id>
+        <type>SvnSyncRepository</type>
+        <url>http://gsql.googlecode.com/svn/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T22:23:30Z</logged_at>
+        <commits>137</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

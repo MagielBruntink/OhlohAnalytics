@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>462195</id>
+      <project_id>586433</project_id>
+      <repository_id>459158</repository_id>
+      <repository>
+        <id>459158</id>
+        <type>GitRepository</type>
+        <url>git://github.com/moai/moai-beta.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T21:54:40Z</logged_at>
+        <commits>2964</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>465983</id>
+      <project_id>586433</project_id>
+      <repository_id>462674</repository_id>
+      <repository>
+        <id>462674</id>
+        <type>GitRepository</type>
+        <url>git://github.com/moai/moai-dev.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T21:43:11Z</logged_at>
+        <commits>3924</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

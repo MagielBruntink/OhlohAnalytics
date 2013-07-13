@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>536832</id>
+      <project_id>362614</project_id>
+      <repository_id>539091</repository_id>
+      <repository>
+        <id>539091</id>
+        <type>GitRepository</type>
+        <url>git://github.com/infoScoop/infoscoop.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T01:30:12Z</logged_at>
+        <commits>964</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>221447</id>
+      <project_id>362614</project_id>
+      <repository_id>219387</repository_id>
+      <repository>
+        <id>219387</id>
+        <type>SvnSyncRepository</type>
+        <url>http://infoscoop.googlecode.com/svn/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T01:24:51Z</logged_at>
+        <commits>823</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

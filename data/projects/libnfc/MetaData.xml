@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>327097</id>
+      <name>libnfc</name>
+      <url>http://www.ohloh.net/p/libnfc.xml</url>
+      <html_url>http://www.ohloh.net/p/libnfc</html_url>
+      <created_at>2009-04-18T05:44:42Z</created_at>
+      <updated_at>2013-07-10T19:06:13Z</updated_at>
+      <description>libnfcThis is download/development site of libnfc, the Free/Libre Near Field Communication (NFC) Library. 
+
+If you are new to libnfc, you should browse libnfc main site[&#185;] to collect useful information and have a look to our forum[&#178;]. 
+
+InstallationInstallation steps are different depending on version you are willing to install. 
+
+Stable versionPlease follow instructions present in our main website. http://www.libnfc.org/documentation/installation 
+
+Development versionFetch current version using svn as described in this page: http://code.google.com/p/libnfc/source/checkout 
+
+You can compile trunk using: 
+
+Under MacOSX, GNU/Linux, *BSD and probably a lot of POSIX systemsNote: If you want all libnfc hardware drivers, you will need to have libusb (library and headers) plus on *BSD and GNU/Linux systems, libpcsclite (library and headers). 
+
+autoreconf -vis
+./configure --enable-doc
+make
+sudo make installIf you want to (re)generate documentation: 
+
+make docUnder Windows (Experimental)Requirements: 
+
+Windows 7 SDK (nmake and cl) CMake NSIS if you want to pack libnfc 
+
+In &quot;Microsoft Windows SDK v7.0\CMD Shell&quot; 
+
+cd %PATH_TO_LIBNFC_SOURCES%
+cmake .
+nmakeCMake can produce windows specific executable setup using NSIS 
+
+nmake packagelinks[1] Official website: http://www.libnfc.org [2] Forum: http://www.libnfc.org/community</description>
+      <homepage_url>http://code.google.com/p/libnfc</homepage_url>
+      <download_url></download_url>
+      <url_name>libnfc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14582328</analysis_id>
+      <tags>
+        <tag>mifare</tag>
+        <tag>iso18092</tag>
+        <tag>tag</tag>
+        <tag>pn53x</tag>
+        <tag>pn531</tag>
+        <tag>pn533</tag>
+        <tag>iso14443</tag>
+        <tag>pn532</tag>
+        <tag>nfc</tag>
+        <tag>initiator</tag>
+        <tag>rfid</tag>
+      </tags>
+      <analysis>
+        <id>14582328</id>
+        <url>http://www.ohloh.net/analyses/14582328.xml</url>
+        <project_id>327097</project_id>
+        <updated_at>2013-07-10T19:06:13Z</updated_at>
+        <logged_at>2013-07-07T13:39:56Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>30796</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libnfc/analyses/14582328/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

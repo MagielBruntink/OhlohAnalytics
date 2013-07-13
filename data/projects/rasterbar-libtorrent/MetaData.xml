@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25779</id>
+      <name>libtorrent (rasterbar)</name>
+      <url>http://www.ohloh.net/p/rasterbar-libtorrent.xml</url>
+      <html_url>http://www.ohloh.net/p/rasterbar-libtorrent</html_url>
+      <created_at>2008-10-22T18:22:07Z</created_at>
+      <updated_at>2013-07-13T05:30:22Z</updated_at>
+      <description>libtorrent is a C++ library that aims to be a good alternative to all the other bittorrent implementations around. It is a library and not a full featured client, although it comes with a working example client.
+
+The main goals of libtorrent are:
+
+    * to be cpu efficient
+    * to be memory efficient
+    * to be very easy to use</description>
+      <homepage_url>http://www.libtorrent.org/</homepage_url>
+      <download_url>http://www.libtorrent.org/</download_url>
+      <url_name>rasterbar-libtorrent</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14616012</analysis_id>
+      <tags>
+        <tag>p2p</tag>
+        <tag>rasterbar</tag>
+        <tag>torrent</tag>
+        <tag>multi-platform</tag>
+        <tag>bittorrent</tag>
+        <tag>library</tag>
+        <tag>c++</tag>
+        <tag>cross-platform</tag>
+      </tags>
+      <analysis>
+        <id>14616012</id>
+        <url>http://www.ohloh.net/analyses/14616012.xml</url>
+        <project_id>25779</project_id>
+        <updated_at>2013-07-13T05:30:21Z</updated_at>
+        <logged_at>2013-07-13T05:28:33Z</logged_at>
+        <min_month>2003-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>132717</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rasterbar-libtorrent/analyses/14616012/languages.png">
+          <language color="F35F1F" percentage="67" id="44">
+C++          </language>
+          <language color="47A400" percentage="13" id="1">
+HTML          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

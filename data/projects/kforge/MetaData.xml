@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5721</id>
+      <name>KForge</name>
+      <url>http://www.ohloh.net/p/kforge.xml</url>
+      <html_url>http://www.ohloh.net/p/kforge</html_url>
+      <created_at>2007-05-31T22:15:50Z</created_at>
+      <updated_at>2013-07-09T11:36:47Z</updated_at>
+      <description>KForge is an free software system for managing software and knowledge projects. It re-uses existing best-of-breed tools such as a versioned storage (subversion, mercurial, and git), a tracker (trac), and wikis (trac or moinmoin), integrating them with the system's own facilities (people, projects, services, members, roles, permissions). KForge also provides a complete Web interface for project administration as well a fully-developed plugin system so that new services and features can be easily added.</description>
+      <homepage_url>http://www.kforgeproject.com/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/kforge</download_url>
+      <url_name>kforge</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60022/kforge-logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60022/kforge-logo_small.jpg</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571632</analysis_id>
+      <analysis>
+        <id>14571632</id>
+        <url>http://www.ohloh.net/analyses/14571632.xml</url>
+        <project_id>5721</project_id>
+        <updated_at>2013-07-09T11:36:46Z</updated_at>
+        <logged_at>2013-07-09T10:48:42Z</logged_at>
+        <min_month>2005-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>85385</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kforge/analyses/14571632/languages.png">
+          <language color="4A246B" percentage="76" id="9">
+Python          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="1" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

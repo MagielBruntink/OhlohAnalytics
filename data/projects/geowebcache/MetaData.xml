@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16459</id>
+      <name>GeoWebCache</name>
+      <url>http://www.ohloh.net/p/geowebcache.xml</url>
+      <html_url>http://www.ohloh.net/p/geowebcache</html_url>
+      <created_at>2008-09-02T05:13:51Z</created_at>
+      <updated_at>2013-07-12T11:04:50Z</updated_at>
+      <description>Maps are often static. As most mapping clients render WMS (Web Map Service) data every time they are queried, this can result in unnecessary processing and increased wait times. GeoWebCache optimizes this experience by saving (caching) map tiles as they are requested, in effect acting as a proxy between client (such as OpenLayers or Google Maps) and server (such as GeoServer, or any WMS-compliant server). As new maps and tiles are requested, GeoWebCache intercepts these calls and returns pre-rendered tiles if stored, or calls the server to render new tiles as necessary. Thus, once tiles are stored, the speed of map rendering increases many times, making for a more seamless user experience.
+GeoWebCache is one of the easiest ways to accelerate your WMS mapping server.</description>
+      <homepage_url>http://geowebcache.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=215120</download_url>
+      <url_name>geowebcache</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38791/gwc_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38791/gwc_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14604978</analysis_id>
+      <tags>
+        <tag>ogc</tag>
+        <tag>map</tag>
+        <tag>web_mapping</tag>
+        <tag>wmts</tag>
+        <tag>wms-c</tag>
+        <tag>tileserver</tag>
+        <tag>gis</tag>
+        <tag>tile</tag>
+        <tag>tms</tag>
+        <tag>tilecache</tag>
+        <tag>tiling</tag>
+        <tag>bing</tag>
+        <tag>cache</tag>
+      </tags>
+      <analysis>
+        <id>14604978</id>
+        <url>http://www.ohloh.net/analyses/14604978.xml</url>
+        <project_id>16459</project_id>
+        <updated_at>2013-07-12T11:04:49Z</updated_at>
+        <logged_at>2013-07-12T11:04:13Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>50176</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geowebcache/analyses/14604978/languages.png">
+          <language color="9A63AD" percentage="62" id="5">
+Java          </language>
+          <language color="556677" percentage="18" id="35">
+XML Schema          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

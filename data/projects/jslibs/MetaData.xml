@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6376</id>
+      <name>jslibs</name>
+      <url>http://www.ohloh.net/p/jslibs.xml</url>
+      <html_url>http://www.ohloh.net/p/jslibs</html_url>
+      <created_at>2007-07-02T13:31:14Z</created_at>
+      <updated_at>2013-07-13T05:01:09Z</updated_at>
+      <description>jslibs is a standalone Javascript development environment whose aim is to turn Javascript into a general-purpose scripting language.
+jslibs provides a set of native modules that contains various general-purpose classes and functions.
+Some of these modules are simple wrappers to familiar libraries such as : zlib, SQLite, FastCGI, NSPR (Netscape Portable Runtime), ODE (Open Dynamics Engine), libpng, libjpeg, OpenGL, OpenAL, LibTomCrypt, libffi (Foreign function interface), ...
+whereas other modules provide tools to enhance Javascript programming : Print(), Load(), Exec(), Seal(), Expand(), Buffer class, ...
+The jslibs distribution comes with a small standalone command-line access program (jshost) that can be used to run Javascript files.</description>
+      <homepage_url>http://code.google.com/p/jslibs/</homepage_url>
+      <download_url>http://code.google.com/p/jslibs/downloads/list</download_url>
+      <url_name>jslibs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14615284</analysis_id>
+      <tags>
+        <tag>code</tag>
+        <tag>spidermonkey</tag>
+        <tag>toolkit</tag>
+        <tag>encryption</tag>
+        <tag>ecmascript</tag>
+        <tag>javascript</tag>
+        <tag>xml</tag>
+        <tag>sqlite</tag>
+        <tag>opengl</tag>
+        <tag>windows</tag>
+        <tag>e4x</tag>
+        <tag>library</tag>
+        <tag>libraries</tag>
+        <tag>programming</tag>
+        <tag>linux</tag>
+        <tag>scripting</tag>
+        <tag>graphics</tag>
+        <tag>fastcgi</tag>
+        <tag>web</tag>
+        <tag>script</tag>
+      </tags>
+      <analysis>
+        <id>14615284</id>
+        <url>http://www.ohloh.net/analyses/14615284.xml</url>
+        <project_id>6376</project_id>
+        <updated_at>2013-07-13T05:01:09Z</updated_at>
+        <logged_at>2013-07-13T04:59:52Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1068318</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jslibs/analyses/14615284/languages.png">
+          <language color="F35F1F" percentage="44" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="26" id="42">
+C          </language>
+          <language color="EEE" percentage="15" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="15" id="">
+21 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

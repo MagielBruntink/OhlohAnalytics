@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310668</id>
+      <name>Milkytracker</name>
+      <url>http://www.ohloh.net/p/milkytracker.xml</url>
+      <html_url>http://www.ohloh.net/p/milkytracker</html_url>
+      <created_at>2009-02-10T00:13:43Z</created_at>
+      <updated_at>2013-07-10T11:17:40Z</updated_at>
+      <description>MilkyTracker is an open source, multi-platform music application for creating .MOD and .XM module files. It attempts to recreate the module replay and user experience of the popular DOS program Fasttracker II, with special playback modes available for improved Amiga ProTracker 2/3 compatibility.</description>
+      <homepage_url>http://www.milkytracker.net</homepage_url>
+      <download_url>http://www.milkytracker.net/?download</download_url>
+      <url_name>milkytracker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23579/128xreflection_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23579/128xreflection_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581021</analysis_id>
+      <analysis>
+        <id>14581021</id>
+        <url>http://www.ohloh.net/analyses/14581021.xml</url>
+        <project_id>310668</project_id>
+        <updated_at>2013-07-10T11:17:39Z</updated_at>
+        <logged_at>2013-07-10T11:16:16Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>212083</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/milkytracker/analyses/14581021/languages.png">
+          <language color="F35F1F" percentage="94" id="44">
+C++          </language>
+          <language color="000000" percentage="6" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

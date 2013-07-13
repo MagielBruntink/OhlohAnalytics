@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14975</id>
+      <name>GlusterFS</name>
+      <url>http://www.ohloh.net/p/glusterfs.xml</url>
+      <html_url>http://www.ohloh.net/p/glusterfs</html_url>
+      <created_at>2008-06-16T12:50:58Z</created_at>
+      <updated_at>2013-07-12T16:05:02Z</updated_at>
+      <description>GlusterFS is a clustered file-system capable of scaling to several peta-bytes. It aggregates various storage bricks over Infiniband RDMA or TCP/IP interconnect into one large parallel network file system. Storage bricks can be made of any commodity hardware such as x86-64 server with SATA-II RAID and Infiniband HBA).</description>
+      <homepage_url>http://www.gluster.org/</homepage_url>
+      <download_url>http://www.gluster.org/download/</download_url>
+      <url_name>glusterfs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/66302/orange-ant-glusterfs_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/66302/orange-ant-glusterfs_small.png</small_logo_url>
+      <user_count>7</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14607348</analysis_id>
+      <tags>
+        <tag>networking</tag>
+        <tag>unix</tag>
+        <tag>nas</tag>
+        <tag>cluster</tag>
+        <tag>storage</tag>
+        <tag>filesystem</tag>
+        <tag>clustering</tag>
+        <tag>filesystems</tag>
+      </tags>
+      <analysis>
+        <id>14607348</id>
+        <url>http://www.ohloh.net/analyses/14607348.xml</url>
+        <project_id>14975</project_id>
+        <updated_at>2013-07-12T16:05:02Z</updated_at>
+        <logged_at>2013-07-05T05:14:14Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>55</twelve_month_contributor_count>
+        <total_code_lines>580797</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/glusterfs/analyses/14607348/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="000000" percentage="9" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

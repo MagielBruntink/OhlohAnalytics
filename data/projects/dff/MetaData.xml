@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480569</id>
+      <name>Digital Forensics Framework</name>
+      <url>http://www.ohloh.net/p/dff.xml</url>
+      <html_url>http://www.ohloh.net/p/dff</html_url>
+      <created_at>2010-01-18T10:13:50Z</created_at>
+      <updated_at>2013-07-11T20:44:49Z</updated_at>
+      <description>A simple but powerful tool with a flexible module system which will help you in your digital forensics works, including file recovery due to error or crash, evidence research and analysis, etc. Digital Forensics Framework (DFF) provides a robust architecture and some handy modules.</description>
+      <homepage_url>http://www.digital-forensic.org</homepage_url>
+      <download_url>http://www.digital-forensic.org/download/</download_url>
+      <url_name>dff</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62570/dff_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62570/dff_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14312738</analysis_id>
+      <tags>
+        <tag>libpff</tag>
+        <tag>ost</tag>
+        <tag>pst</tag>
+        <tag>aff</tag>
+        <tag>forensic</tag>
+        <tag>qt</tag>
+        <tag>recovery</tag>
+        <tag>digitalforensics</tag>
+        <tag>python</tag>
+        <tag>security</tag>
+        <tag>filesystem</tag>
+        <tag>multiplatform</tag>
+        <tag>ewf</tag>
+        <tag>swig</tag>
+        <tag>forensics</tag>
+        <tag>c++</tag>
+        <tag>exif</tag>
+        <tag>filesystems</tag>
+        <tag>framework</tag>
+        <tag>afflib</tag>
+        <tag>pff</tag>
+        <tag>pab</tag>
+        <tag>unicode</tag>
+      </tags>
+      <analysis>
+        <id>14312738</id>
+        <url>http://www.ohloh.net/analyses/14312738.xml</url>
+        <project_id>480569</project_id>
+        <updated_at>2013-07-10T19:26:23Z</updated_at>
+        <logged_at>2013-07-10T06:22:38Z</logged_at>
+        <min_month>2012-11-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>101683</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dff/analyses/14312738/languages.png">
+          <language color="4A246B" percentage="37" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="35" id="44">
+C++          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>438682</id>
+      <name>metacello</name>
+      <url>http://www.ohloh.net/p/metacello.xml</url>
+      <html_url>http://www.ohloh.net/p/metacello</html_url>
+      <created_at>2009-09-13T01:28:27Z</created_at>
+      <updated_at>2013-07-12T02:05:22Z</updated_at>
+      <description>Metacello is a package management system for Monticello that is consistent with the important features of Monticello:
+
+Declarative modeling. A Metacello project has named versions consisting of lists of explicit Monticello package versions. Dependencies are explicitly expressed in terms of named versions of required projects. A required project is a reference to another Metacello project.
+Distributed repositories. Metacello project metadata is represented as instance methods in a class therefore the Metacello project metadata is stored in a Monticello package. As a result, it is easy for distributed groups of developers to collaborate on ad hoc projects.
+Optimistic development. With Monticello-based packages, concurrent updates to the project metadata can be easily managed. Parallel versio</description>
+      <homepage_url>https://github.com/dalehenrich/metacello-work</homepage_url>
+      <download_url>https://github.com/dalehenrich/metacello-work/tags</download_url>
+      <url_name>metacello</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14598547</analysis_id>
+      <tags>
+        <tag>gemstone</tag>
+        <tag>configurationmanagement</tag>
+        <tag>monticello</tag>
+        <tag>projectmanagement</tag>
+        <tag>glass</tag>
+        <tag>pharo</tag>
+        <tag>squeak</tag>
+        <tag>smalltalk</tag>
+      </tags>
+      <analysis>
+        <id>14598547</id>
+        <url>http://www.ohloh.net/analyses/14598547.xml</url>
+        <project_id>438682</project_id>
+        <updated_at>2013-07-12T02:05:22Z</updated_at>
+        <logged_at>2013-07-12T02:01:22Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>35004</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/metacello/analyses/14598547/languages.png">
+          <language color="EEE" percentage="100" id="39">
+Smalltalk          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>39</main_language_id>
+        <main_language_name>Smalltalk</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

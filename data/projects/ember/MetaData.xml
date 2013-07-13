@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15002</id>
+      <name>Ember</name>
+      <url>http://www.ohloh.net/p/ember.xml</url>
+      <html_url>http://www.ohloh.net/p/ember</html_url>
+      <created_at>2008-06-17T09:17:34Z</created_at>
+      <updated_at>2013-07-09T22:16:00Z</updated_at>
+      <description>Ember is a client framework for Worldforge. It's not meant to be a standalone game, instead its purpose is to provide a solid and extensible base from which to build game-specific clients. One of the goals of Ember is to allow for easy customization of the codebase. Currently it supports the game world of Mason. It's available for all modern Linux distributions, FreeBSD and MS Windows.</description>
+      <homepage_url>http://wiki.worldforge.org/wiki/Ember</homepage_url>
+      <download_url>https://sourceforge.net/projects/worldforge/files/Ember%20(OGRE%20client)/</download_url>
+      <url_name>ember</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6203/ember_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6203/ember_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574930</analysis_id>
+      <tags>
+        <tag>ogre3d</tag>
+        <tag>worldforge</tag>
+        <tag>3d</tag>
+      </tags>
+      <analysis>
+        <id>14574930</id>
+        <url>http://www.ohloh.net/analyses/14574930.xml</url>
+        <project_id>15002</project_id>
+        <updated_at>2013-07-09T22:15:59Z</updated_at>
+        <logged_at>2013-07-09T22:14:20Z</logged_at>
+        <min_month>2002-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>175248</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ember/analyses/14574930/languages.png">
+          <language color="F35F1F" percentage="73" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="11" id="42">
+C          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

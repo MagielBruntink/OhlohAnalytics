@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16560</id>
+      <name>Gentoo KDE svn overlay (genkdesvn)</name>
+      <url>http://www.ohloh.net/p/genkdesvn.xml</url>
+      <html_url>http://www.ohloh.net/p/genkdesvn</html_url>
+      <created_at>2008-09-08T10:04:33Z</created_at>
+      <updated_at>2012-11-26T20:41:24Z</updated_at>
+      <description>This public Gentoo Linux overlay provides live ebuilds enabling you to build KDE 4.x from the KDE subversion repository on Gentoo Linux. We're following trunk.
+
+We're using a new ebuild specification (EAPI), kdebuild-1, which is currently only supported by the package manager Paludis. Thus, you have to use Paludis for these live ebuilds.</description>
+      <homepage_url>http://genkdesvn.mailstation.de</homepage_url>
+      <download_url>http://genkdesvn.mailstation.de</download_url>
+      <url_name>genkdesvn</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8331/genkdesvn_logo_ohloh_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8331/genkdesvn_logo_ohloh_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>742255</analysis_id>
+      <tags>
+        <tag>gentoo</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>742255</id>
+        <url>http://www.ohloh.net/analyses/742255.xml</url>
+        <project_id>16560</project_id>
+        <updated_at>2009-10-28T12:47:34Z</updated_at>
+        <logged_at>2009-10-28T12:47:09Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>8634</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/genkdesvn/analyses/742255/languages.png">
+          <language color="EEE" percentage="85" id="49">
+Ebuild          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>49</main_language_id>
+        <main_language_name>Ebuild</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

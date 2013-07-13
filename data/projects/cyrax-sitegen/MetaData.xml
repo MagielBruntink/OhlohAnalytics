@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482891</id>
+      <name>Cyrax site generator</name>
+      <url>http://www.ohloh.net/p/cyrax-sitegen.xml</url>
+      <html_url>http://www.ohloh.net/p/cyrax-sitegen</html_url>
+      <created_at>2010-05-09T09:20:03Z</created_at>
+      <updated_at>2012-10-15T06:41:36Z</updated_at>
+      <description>Cyrax is a static site generator using Jinja2 template engine.</description>
+      <homepage_url>http://hg.piranha.org.ua/cyrax/</homepage_url>
+      <download_url></download_url>
+      <url_name>cyrax-sitegen</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10611258</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>generator</tag>
+        <tag>jinja2</tag>
+        <tag>lightweight</tag>
+        <tag>static_site_generator</tag>
+      </tags>
+      <analysis>
+        <id>10611258</id>
+        <url>http://www.ohloh.net/analyses/10611258.xml</url>
+        <project_id>482891</project_id>
+        <updated_at>2012-10-21T20:00:19Z</updated_at>
+        <logged_at>2012-10-21T20:00:15Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1170</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cyrax-sitegen/analyses/10611258/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="10" id="4">
+CSS          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25748</id>
+      <name>JReliability</name>
+      <url>http://www.ohloh.net/p/jreliability.xml</url>
+      <html_url>http://www.ohloh.net/p/jreliability</html_url>
+      <created_at>2008-10-21T07:21:28Z</created_at>
+      <updated_at>2013-07-04T23:54:07Z</updated_at>
+      <description>JReliability allows to derive several reliability-related measures like Mean-Time-To-Failure (MTTF) or Mission-Time (MT) of complex systems that are modeled using Boolean functions, efficiently encoded in Binary Decision Diagrams (BDDs).</description>
+      <homepage_url>http://www.jreliability.org</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=242265</download_url>
+      <url_name>jreliability</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9778/jreliability-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9778/jreliability-logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14530814</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>reliability</tag>
+        <tag>analysis</tag>
+      </tags>
+      <analysis>
+        <id>14530814</id>
+        <url>http://www.ohloh.net/analyses/14530814.xml</url>
+        <project_id>25748</project_id>
+        <updated_at>2013-07-04T23:54:07Z</updated_at>
+        <logged_at>2013-07-04T23:53:43Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3320</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jreliability/analyses/14530814/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

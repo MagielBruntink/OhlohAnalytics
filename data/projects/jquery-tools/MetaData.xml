@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>413623</id>
+      <name>jquery-tools</name>
+      <url>http://www.ohloh.net/p/jquery-tools.xml</url>
+      <html_url>http://www.ohloh.net/p/jquery-tools</html_url>
+      <created_at>2009-08-21T12:30:55Z</created_at>
+      <updated_at>2013-06-29T12:50:37Z</updated_at>
+      <description>jQuery ToolsjQuery Tools is a method collection extending jQuery library with often used features. 
+
+Tools$.typeOf() - returns the type of passed object, in comparison with JavaScript typeof operator this method correctly returns values for arrays and null values (typeof operator returns object for both arrays and null values which is wrong) $.nTypeOf() - same as $.typeOf() but also checks the type for numbers and returns either int or float value instead of number value $.parseInt() - parses value to int, in comparison with JavaScript parseInt() this implementation will throw an exception if invalid character is detected, also it doesn't treat values with leading zero as octal numbers $.parseFloat() - parses value to float, in comparison with JavaScript parseInt() this implementation will throw an exception if invalid character is detected</description>
+      <homepage_url>http://code.google.com/p/jquery-tools/</homepage_url>
+      <download_url></download_url>
+      <url_name>jquery-tools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14456989</analysis_id>
+      <tags>
+        <tag>jquery</tag>
+        <tag>javascript</tag>
+        <tag>tools</tag>
+        <tag>plugin</tag>
+      </tags>
+      <analysis>
+        <id>14456989</id>
+        <url>http://www.ohloh.net/analyses/14456989.xml</url>
+        <project_id>413623</project_id>
+        <updated_at>2013-07-11T10:24:55Z</updated_at>
+        <logged_at>2013-07-11T10:24:54Z</logged_at>
+        <min_month></min_month>
+        <max_month></max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jquery-tools/analyses/14456989/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

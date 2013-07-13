@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14661</id>
+      <name>cdparanoia</name>
+      <url>http://www.ohloh.net/p/cdparanoia.xml</url>
+      <html_url>http://www.ohloh.net/p/cdparanoia</html_url>
+      <created_at>2008-06-04T12:56:21Z</created_at>
+      <updated_at>2013-06-23T11:13:59Z</updated_at>
+      <description>cdparanoia is a Compact Disc Digital Audio (CDDA) extraction tool, commonly known on the net as a 'ripper'. The application is built on top of the Paranoia library, which is doing the real work (the Paranoia source is included in the cdparanoia source distribution).</description>
+      <homepage_url>http://xiph.org/paranoia/</homepage_url>
+      <download_url>http://xiph.org/paranoia/down.html</download_url>
+      <url_name>cdparanoia</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14357662</analysis_id>
+      <analysis>
+        <id>14357662</id>
+        <url>http://www.ohloh.net/analyses/14357662.xml</url>
+        <project_id>14661</project_id>
+        <updated_at>2013-07-10T01:28:51Z</updated_at>
+        <logged_at>2013-07-10T01:28:46Z</logged_at>
+        <min_month>1999-08-01T00:00:00Z</min_month>
+        <max_month>2010-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10587</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cdparanoia/analyses/14357662/languages.png">
+          <language color="FF8F00" percentage="71" id="42">
+C          </language>
+          <language color="777777" percentage="26" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

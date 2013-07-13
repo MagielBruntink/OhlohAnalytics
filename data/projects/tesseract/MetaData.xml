@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481332</id>
+      <name>Tesseract (TYPO3)</name>
+      <url>http://www.ohloh.net/p/tesseract.xml</url>
+      <html_url>http://www.ohloh.net/p/tesseract</html_url>
+      <created_at>2010-02-23T07:48:36Z</created_at>
+      <updated_at>2013-07-05T00:02:22Z</updated_at>
+      <description>The Tesseract Project aims to provide a generic and flexible way to display any kind of data in TYPO3. The overall scheme derives from a MVC pattern.
+
+The Tesseract Project actually consists of a number of extensions. The central one is a controller, which is the actual FE plugin.</description>
+      <homepage_url>http://www.typo3-tesseract.com/</homepage_url>
+      <download_url>http://forge.typo3.org/projects/show/extension-tesseract</download_url>
+      <url_name>tesseract</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65186/tesseract_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65186/tesseract_64x64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14530882</analysis_id>
+      <tags>
+        <tag>forge</tag>
+        <tag>typo3</tag>
+        <tag>t3x</tag>
+        <tag>extension</tag>
+      </tags>
+      <analysis>
+        <id>14530882</id>
+        <url>http://www.ohloh.net/analyses/14530882.xml</url>
+        <project_id>481332</project_id>
+        <updated_at>2013-07-05T00:02:22Z</updated_at>
+        <logged_at>2013-07-04T23:35:09Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>17568</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tesseract/analyses/14530882/languages.png">
+          <language color="356AA0" percentage="78" id="2">
+PHP          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

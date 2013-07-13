@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14584</id>
+      <name>XMPPHP</name>
+      <url>http://www.ohloh.net/p/xmpphp.xml</url>
+      <html_url>http://www.ohloh.net/p/xmpphp</html_url>
+      <created_at>2008-06-01T06:10:04Z</created_at>
+      <updated_at>2013-06-26T23:40:59Z</updated_at>
+      <description>XMPPHP is the successor to Class.Jabber.PHP.
+
+Some of the features include:
+* Connect to any XMPP 1.0 server (Google Talk, LJ Talk, jabber.org, etc)
+* Supports TLS encryption
+* Several XML processing approaches and supported styles (process indefinitely, processUntil an event, processTime for a number of seconds), waiting on events or map them, etc.
+* Persistent connections (AJAX Web client anyone?)</description>
+      <homepage_url>http://code.google.com/p/xmpphp/</homepage_url>
+      <download_url>http://code.google.com/p/xmpphp/downloads/list</download_url>
+      <url_name>xmpphp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14424965</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>xmpp</tag>
+        <tag>jabber</tag>
+      </tags>
+      <analysis>
+        <id>14424965</id>
+        <url>http://www.ohloh.net/analyses/14424965.xml</url>
+        <project_id>14584</project_id>
+        <updated_at>2013-07-06T02:04:46Z</updated_at>
+        <logged_at>2013-07-06T02:04:44Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1480</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xmpphp/analyses/14424965/languages.png">
+          <language color="356AA0" percentage="99" id="2">
+PHP          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

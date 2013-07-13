@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>267161</id>
+      <name>AV Book Library</name>
+      <url>http://www.ohloh.net/p/avbooklibrary.xml</url>
+      <html_url>http://www.ohloh.net/p/avbooklibrary</html_url>
+      <created_at>2009-01-20T17:21:36Z</created_at>
+      <updated_at>2013-06-29T23:00:08Z</updated_at>
+      <description>A PHP/MySQL web front end for a basic, searchable database of your personal book collection. Records the main book details, cover images &amp; whether you've read it and/or loaned it out. Project Wiki: http://apps.sourceforge.net/mediawiki/avbooklibrary/</description>
+      <homepage_url>http://syntaxseed.com/project/avbooklibrary/</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=209711</download_url>
+      <url_name>avbooklibrary</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19420/screenshot1_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19420/screenshot1_small.jpg</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14468918</analysis_id>
+      <tags>
+        <tag>books</tag>
+        <tag>booksmanagement</tag>
+        <tag>database</tag>
+        <tag>php</tag>
+        <tag>library</tag>
+        <tag>phpmysql</tag>
+      </tags>
+      <analysis>
+        <id>14468918</id>
+        <url>http://www.ohloh.net/analyses/14468918.xml</url>
+        <project_id>267161</project_id>
+        <updated_at>2013-07-12T19:34:14Z</updated_at>
+        <logged_at>2013-07-12T19:34:11Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1457</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/avbooklibrary/analyses/14468918/languages.png">
+          <language color="356AA0" percentage="76" id="2">
+PHP          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

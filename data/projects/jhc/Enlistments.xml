@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>22127</id>
+      <project_id>11796</project_id>
+      <repository_id>21403</repository_id>
+      <repository>
+        <id>21403</id>
+        <type>GitRepository</type>
+        <url>http://naesten.dyndns.org:8080/repos/jhc_Doc.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-01T08:47:00Z</logged_at>
+        <commits>18</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>22089</id>
+      <project_id>11796</project_id>
+      <repository_id>21366</repository_id>
+      <repository>
+        <id>21366</id>
+        <type>GitRepository</type>
+        <url>http://naesten.dyndns.org:8080/repos/jhc.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-01T08:48:34Z</logged_at>
+        <commits>1919</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

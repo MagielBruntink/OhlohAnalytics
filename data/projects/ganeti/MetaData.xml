@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15347</id>
+      <name>ganeti</name>
+      <url>http://www.ohloh.net/p/ganeti.xml</url>
+      <html_url>http://www.ohloh.net/p/ganeti</html_url>
+      <created_at>2008-07-06T06:08:09Z</created_at>
+      <updated_at>2013-07-12T22:12:53Z</updated_at>
+      <description>Ganeti is a virtual server management software tool built on top of Xen, KVM and other Open Source software.</description>
+      <homepage_url>http://code.google.com/p/ganeti/</homepage_url>
+      <download_url>http://code.google.com/p/ganeti/downloads/list</download_url>
+      <url_name>ganeti</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14610048</analysis_id>
+      <tags>
+        <tag>google</tag>
+        <tag>qemu</tag>
+        <tag>drbd</tag>
+        <tag>virtualization</tag>
+        <tag>kvm</tag>
+        <tag>xen</tag>
+        <tag>virtual-server</tag>
+        <tag>linux</tag>
+        <tag>virtual-machine</tag>
+        <tag>clustering</tag>
+      </tags>
+      <analysis>
+        <id>14610048</id>
+        <url>http://www.ohloh.net/analyses/14610048.xml</url>
+        <project_id>15347</project_id>
+        <updated_at>2013-07-12T22:12:53Z</updated_at>
+        <logged_at>2013-07-12T21:53:34Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>125720</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ganeti/analyses/14610048/languages.png">
+          <language color="4A246B" percentage="72" id="9">
+Python          </language>
+          <language color="007B7C" percentage="22" id="38">
+Haskell          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

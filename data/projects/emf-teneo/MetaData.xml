@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481541</id>
+      <name>EMF Teneo</name>
+      <url>http://www.ohloh.net/p/emf-teneo.xml</url>
+      <html_url>http://www.ohloh.net/p/emf-teneo</html_url>
+      <created_at>2010-03-03T22:53:15Z</created_at>
+      <updated_at>2012-10-22T20:28:46Z</updated_at>
+      <description>Teneo is a database persistency solution for EMF using Hibernate. It supports automatic creation of EMF to Relational Mappings and the related database schemas. The solution contains a runtime layer to support specific EMF features. EMF Objects can be stored and retrieved using advanced queries (HQL or EJB-QL). EMF resource implementations are provided for integration with EMF Editors. The persistence logic and mapping can be controlled using EJB3/JPA-like annotations. Most of the EJB3/JPA2 mapping standard is supported.</description>
+      <homepage_url>http://www.eclipse.org/modeling/emf/teneo/</homepage_url>
+      <download_url>http://wiki.eclipse.org/Teneo/Hibernate/Download_and_Install</download_url>
+      <url_name>emf-teneo</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4707996</analysis_id>
+      <tags>
+        <tag>texo</tag>
+      </tags>
+      <analysis>
+        <id>4707996</id>
+        <url>http://www.ohloh.net/analyses/4707996.xml</url>
+        <project_id>481541</project_id>
+        <updated_at>2011-11-02T14:50:21Z</updated_at>
+        <logged_at>2011-11-02T14:47:22Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>727911</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/emf-teneo/analyses/4707996/languages.png">
+          <language color="9A63AD" percentage="55" id="5">
+Java          </language>
+          <language color="555555" percentage="39" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
