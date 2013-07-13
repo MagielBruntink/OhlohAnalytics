@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20605</id>
+      <name>Java Simon</name>
+      <url>http://www.ohloh.net/p/javasimon.xml</url>
+      <html_url>http://www.ohloh.net/p/javasimon</html_url>
+      <created_at>2008-10-07T13:18:34Z</created_at>
+      <updated_at>2013-06-07T04:36:35Z</updated_at>
+      <description>Java Simon - Simple Monitoring API
+
+Java Simon is a simple monitoring API that allows you to follow and better understand your application. Monitors (familiarly called Simons) are placed directly into your code and you can choose whether you want to count something or measure time/duration.
+
+Current version 3.0 (released on October 11th, 2011) provides basic monitor functionality, extensibility via Callbacks, JMX and Spring integration tools (AOP based, AspectJ is WIP) and also easy to use JDBC4 proxy driver that measures JDBC performance and can log all statements too. Version requires Java SE 6 or higher.</description>
+      <homepage_url>http://www.javasimon.org</homepage_url>
+      <download_url>http://code.google.com/p/javasimon/downloads/list</download_url>
+      <url_name>javasimon</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13610/simonlogo-square64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13610/simonlogo-square64_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14184481</analysis_id>
+      <tags>
+        <tag>javaee6</tag>
+        <tag>performance</tag>
+        <tag>jdbc4</tag>
+        <tag>monitoring</tag>
+        <tag>java</tag>
+        <tag>jmx</tag>
+        <tag>performancemonitoring</tag>
+        <tag>spring</tag>
+        <tag>javaee</tag>
+      </tags>
+      <analysis>
+        <id>14184481</id>
+        <url>http://www.ohloh.net/analyses/14184481.xml</url>
+        <project_id>20605</project_id>
+        <updated_at>2013-07-06T06:50:50Z</updated_at>
+        <logged_at>2013-07-06T06:50:47Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>22366</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/javasimon/analyses/14184481/languages.png">
+          <language color="9A63AD" percentage="81" id="5">
+Java          </language>
+          <language color="A4007E" percentage="7" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

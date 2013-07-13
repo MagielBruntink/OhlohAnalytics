@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>16022</id>
+      <project_id>4996</project_id>
+      <repository_id>15519</repository_id>
+      <repository>
+        <id>15519</id>
+        <type>SvnRepository</type>
+        <url>https://glict.svn.sourceforge.net/svnroot/glict/trunk/glict</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-08T02:22:45Z</logged_at>
+        <commits>106</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>10756</id>
+      <project_id>4996</project_id>
+      <repository_id>10521</repository_id>
+      <repository>
+        <id>10521</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@glict.cvs.sourceforge.net:/cvsroot/glict</url>
+        <module_name>glict</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-08T02:22:47Z</logged_at>
+        <commits>29</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

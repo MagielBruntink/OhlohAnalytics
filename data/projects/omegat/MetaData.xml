@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588255</id>
+      <name>OmegaT</name>
+      <url>http://www.ohloh.net/p/omegat.xml</url>
+      <html_url>http://www.ohloh.net/p/omegat</html_url>
+      <created_at>2012-01-12T00:46:17Z</created_at>
+      <updated_at>2013-06-14T08:39:47Z</updated_at>
+      <description>The free computer aided translation (CAT) tool for professionals.</description>
+      <homepage_url>http://www.omegat.org/</homepage_url>
+      <download_url>https://sourceforge.net/projects/omegat/</download_url>
+      <url_name>omegat</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14257083</analysis_id>
+      <tags>
+        <tag>tbx</tag>
+        <tag>internationalization</tag>
+        <tag>xliff</tag>
+        <tag>po</tag>
+        <tag>openoffice</tag>
+        <tag>l10n</tag>
+        <tag>java</tag>
+        <tag>translation</tag>
+        <tag>localization</tag>
+        <tag>tmx</tag>
+        <tag>editor</tag>
+        <tag>translator</tag>
+        <tag>okapi</tag>
+      </tags>
+      <analysis>
+        <id>14257083</id>
+        <url>http://www.ohloh.net/analyses/14257083.xml</url>
+        <project_id>588255</project_id>
+        <updated_at>2013-07-11T15:28:53Z</updated_at>
+        <logged_at>2013-07-11T15:28:03Z</logged_at>
+        <min_month>2002-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>270349</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/omegat/analyses/14257083/languages.png">
+          <language color="47A400" percentage="50" id="1">
+HTML          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

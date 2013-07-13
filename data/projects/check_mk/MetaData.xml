@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482259</id>
+      <name>check_mk</name>
+      <url>http://www.ohloh.net/p/check_mk.xml</url>
+      <html_url>http://www.ohloh.net/p/check_mk</html_url>
+      <created_at>2010-04-04T21:07:13Z</created_at>
+      <updated_at>2013-06-26T04:38:11Z</updated_at>
+      <description>Check_mk adopts a new a approach for collecting data from operating systems and network components. It obsoletes NRPE, check_by_ssh, NSClient and check_snmp. It has many benefits, the most important of which are:
+
+* Significant reduction of CPU usage on the Nagios host.
+* Automatic inventory of items to be checked on hosts.
+
+The larger your Nagios installation is, the more important get these points. In fact check_mk enables you to implement a monitoring environment exceeding 20.000 checks/min on the first hand.</description>
+      <homepage_url>http://mathias-kettner.de/check_mk.html</homepage_url>
+      <download_url>http://mathias-kettner.de/check_mk_download.html</download_url>
+      <url_name>check_mk</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32307/check_mk.trans.120_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32307/check_mk.trans.120_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14411548</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>networking</tag>
+        <tag>analysis</tag>
+        <tag>performance</tag>
+        <tag>application</tag>
+        <tag>nagiosaddon</tag>
+        <tag>notification</tag>
+        <tag>livestatus</tag>
+        <tag>gui</tag>
+        <tag>distributed_monitoring</tag>
+        <tag>networkmonitoring</tag>
+        <tag>system</tag>
+        <tag>administration</tag>
+        <tag>linux</tag>
+        <tag>bsd</tag>
+        <tag>admin</tag>
+        <tag>hosts</tag>
+        <tag>unix</tag>
+        <tag>windows</tag>
+        <tag>sysadmin</tag>
+        <tag>management</tag>
+        <tag>open_source</tag>
+        <tag>nagios</tag>
+        <tag>icinga</tag>
+        <tag>email</tag>
+        <tag>distributed</tag>
+        <tag>check_mk</tag>
+        <tag>hosting</tag>
+        <tag>postgresql</tag>
+        <tag>monitor</tag>
+        <tag>router</tag>
+        <tag>ping</tag>
+        <tag>network</tag>
+        <tag>tools</tag>
+        <tag>business_impact</tag>
+        <tag>statistics</tag>
+        <tag>plugin</tag>
+        <tag>security</tag>
+        <tag>nms</tag>
+        <tag>snmp</tag>
+        <tag>monitoring</tag>
+        <tag>monitoring_tools</tag>
+        <tag>service</tag>
+        <tag>server</tag>
+      </tags>
+      <analysis>
+        <id>14411548</id>
+        <url>http://www.ohloh.net/analyses/14411548.xml</url>
+        <project_id>482259</project_id>
+        <updated_at>2013-06-26T04:38:11Z</updated_at>
+        <logged_at>2013-06-24T04:14:23Z</logged_at>
+        <min_month>2002-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>127292</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/check_mk/analyses/14411548/languages.png">
+          <language color="4A246B" percentage="55" id="9">
+Python          </language>
+          <language color="777777" percentage="14" id="11">
+shell script          </language>
+          <language color="F35F1F" percentage="9" id="44">
+C++          </language>
+          <language color="000000" percentage="22" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

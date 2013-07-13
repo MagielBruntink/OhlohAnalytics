@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>963</id>
+      <name>GNU Gengetopt</name>
+      <url>http://www.ohloh.net/p/gengetopt.xml</url>
+      <html_url>http://www.ohloh.net/p/gengetopt</html_url>
+      <created_at>2006-10-11T18:34:19Z</created_at>
+      <updated_at>2013-07-07T14:27:48Z</updated_at>
+      <description>Gengetopt is a tool to generate C code to parse getopt styled command line
+arguments.
+It's similar or even more powerful than the well known libpopt but does not
+add any run or compile time dependencies to your projects. Moreover
+reading/writing the options from/to config files is also supported.</description>
+      <homepage_url>http://savannah.gnu.org/projects/gengetopt/</homepage_url>
+      <download_url></download_url>
+      <url_name>gengetopt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14562293</analysis_id>
+      <tags>
+        <tag>popt</tag>
+        <tag>devtool</tag>
+        <tag>code-generator</tag>
+        <tag>c++</tag>
+        <tag>getopt</tag>
+        <tag>command-line</tag>
+        <tag>devel</tag>
+        <tag>libpopt</tag>
+      </tags>
+      <analysis>
+        <id>14562293</id>
+        <url>http://www.ohloh.net/analyses/14562293.xml</url>
+        <project_id>963</project_id>
+        <updated_at>2013-07-07T14:27:48Z</updated_at>
+        <logged_at>2013-07-07T14:27:25Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>28278</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gengetopt/analyses/14562293/languages.png">
+          <language color="F35F1F" percentage="69" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>474143</id>
+      <name>ENUM Discoverer</name>
+      <url>http://www.ohloh.net/p/enumdiscoverer.xml</url>
+      <html_url>http://www.ohloh.net/p/enumdiscoverer</html_url>
+      <created_at>2009-11-11T00:57:55Z</created_at>
+      <updated_at>2013-07-08T16:58:23Z</updated_at>
+      <description>Sponsors
+
+SIDN.nl | isoc.nl
+
+Introduction
+
+ENUM is a standard that combines with other services to allow land-line and mobile calls, as well as email and instant messages, to be controlled via a single number. ENUM works by assigning Internet addresses as a single point of contact for each person. It allows land-line and mobile calls as well as email and instant messages through one number.
+
+Purpose
+
+The purpose of this project is to provide an application (or applications) that demonstrates the potential of ENUM.
+
+   1. A visually attractive live demonstration of ENUM's potential to 'connect the dots'.
+
+   2. A functional proof-of-concept .
+
+   3. A step-by-step guide on how to build your working service from open source components</description>
+      <homepage_url></homepage_url>
+      <download_url>http://git.catalyst.net.nz/enum-discoverer.git</download_url>
+      <url_name>enumdiscoverer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43051/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43051/logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569788</analysis_id>
+      <tags>
+        <tag>contactmanagement</tag>
+        <tag>mobile</tag>
+        <tag>mobilephone</tag>
+        <tag>android</tag>
+        <tag>androiddevelopement</tag>
+        <tag>mobiledevice</tag>
+        <tag>mobileapplication</tag>
+        <tag>androidapplication</tag>
+        <tag>enum</tag>
+        <tag>addressbook</tag>
+        <tag>contacts</tag>
+        <tag>androidjava</tag>
+        <tag>synchronization</tag>
+        <tag>sync</tag>
+        <tag>androidcode</tag>
+      </tags>
+      <analysis>
+        <id>14569788</id>
+        <url>http://www.ohloh.net/analyses/14569788.xml</url>
+        <project_id>474143</project_id>
+        <updated_at>2013-07-08T16:58:22Z</updated_at>
+        <logged_at>2013-07-08T07:33:34Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8665</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/enumdiscoverer/analyses/14569788/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3_or_later</name>
+          <nice_name>GNU Affero General Public License 3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

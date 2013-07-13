@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11894</id>
+      <name>pecl_ingres</name>
+      <url>http://www.ohloh.net/p/pecl_ingres.xml</url>
+      <html_url>http://www.ohloh.net/p/pecl_ingres</html_url>
+      <created_at>2008-02-19T09:31:29Z</created_at>
+      <updated_at>2013-07-11T18:20:31Z</updated_at>
+      <description>An extension to connect PHP to the Ingres Relational DBMS</description>
+      <homepage_url>http://pecl.php.net/ingres</homepage_url>
+      <download_url>http://pecl.php.net/get/ingres</download_url>
+      <url_name>pecl_ingres</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14499852</analysis_id>
+      <tags>
+        <tag>relational</tag>
+        <tag>ingres</tag>
+        <tag>php</tag>
+        <tag>linux</tag>
+        <tag>web</tag>
+        <tag>pecl</tag>
+        <tag>sql</tag>
+        <tag>database</tag>
+        <tag>rdbms</tag>
+        <tag>scripting</tag>
+      </tags>
+      <analysis>
+        <id>14499852</id>
+        <url>http://www.ohloh.net/analyses/14499852.xml</url>
+        <project_id>11894</project_id>
+        <updated_at>2013-07-13T07:30:34Z</updated_at>
+        <logged_at>2013-07-13T07:30:06Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8308</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pecl_ingres/analyses/14499852/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>php_license</name>
+          <nice_name>PHP License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

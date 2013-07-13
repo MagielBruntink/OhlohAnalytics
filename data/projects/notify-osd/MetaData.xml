@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>339722</id>
+      <name>NotifyOSD</name>
+      <url>http://www.ohloh.net/p/notify-osd.xml</url>
+      <html_url>http://www.ohloh.net/p/notify-osd</html_url>
+      <created_at>2009-05-10T12:46:38Z</created_at>
+      <updated_at>2013-06-09T15:33:15Z</updated_at>
+      <description>Canonical's on-screen-display notification agent, implementing the freedesktop.org Desktop Notifications Specification with semi-transparent click-through bubbles.
+
+The freedesktop.org Desktop Notifications Specification provides a standard way for applications to display pop-up notifications. These are designed to make you aware of something, without interrupting your work with a window you must close.
+
+Notify OSD presents these notifications as ephemeral overlays, which can be clicked through so they don't block your work. It queues notifications, to prevent them from flooding your screen. And as well as handling standard notification updates, Notify OSD introduces the idea of appending &#8212; allowing notifications to grow over time, for example in the case of instant messages from a particular person.</description>
+      <homepage_url>https://launchpad.net/notify-osd</homepage_url>
+      <download_url>https://launchpad.net/notify-osd/+download</download_url>
+      <url_name>notify-osd</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14209946</analysis_id>
+      <analysis>
+        <id>14209946</id>
+        <url>http://www.ohloh.net/analyses/14209946.xml</url>
+        <project_id>339722</project_id>
+        <updated_at>2013-07-07T23:23:47Z</updated_at>
+        <logged_at>2013-07-07T23:23:39Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>20431</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/notify-osd/analyses/14209946/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="4A246B" percentage="5" id="9">
+Python          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

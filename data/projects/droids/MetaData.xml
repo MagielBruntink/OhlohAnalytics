@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25908</id>
+      <name>Apache Droids</name>
+      <url>http://www.ohloh.net/p/droids.xml</url>
+      <html_url>http://www.ohloh.net/p/droids</html_url>
+      <created_at>2008-10-28T18:56:18Z</created_at>
+      <updated_at>2013-06-23T14:46:48Z</updated_at>
+      <description>Droids aims to be an intelligent standalone robot framework that allows to create and extend existing droids (robots).
+
+As a standalone robot framework Droids will offer infrastructure code to create and extend existing robots. In the future it will offer as well a web based administration application to manage and controll the different droids which will communicate with this app.
+
+Droids makes it very easy to extend existing robots or write a new one from scratch, which can automatically seek out relevant online information based on the user's specifications. Since the flexible design it can reuse directly all custom business logic that are written in java.
+
+In the long run it should become umbrella for specialized droids that are hosted as sub-projects. Where an ultimate goal is to integrate an artificial intelligence that can control a swarm of droids and actively plan/react on different tasks.</description>
+      <homepage_url>http://incubator.apache.org/droids</homepage_url>
+      <download_url></download_url>
+      <url_name>droids</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14360796</analysis_id>
+      <analysis>
+        <id>14360796</id>
+        <url>http://www.ohloh.net/analyses/14360796.xml</url>
+        <project_id>25908</project_id>
+        <updated_at>2013-07-10T01:44:13Z</updated_at>
+        <logged_at>2013-07-10T01:44:05Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>6491</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/droids/analyses/14360796/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

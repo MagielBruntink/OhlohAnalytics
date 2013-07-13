@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5413</id>
+      <name>MyDNS</name>
+      <url>http://www.ohloh.net/p/mydns.xml</url>
+      <html_url>http://www.ohloh.net/p/mydns</html_url>
+      <created_at>2007-05-16T11:17:23Z</created_at>
+      <updated_at>2010-06-24T08:37:12Z</updated_at>
+      <description>MyDNS is a free DNS server for UNIX. It was implemented from scratch and is designed to serve records directly from an SQL database (currently either MySQL or PostgreSQL).
+
+Its primary objectives are stability, security, interoperability, and speed, though not necessarily in that order.
+
+MyDNS does not include recursive name service, nor a resolver library. It is primarily designed for organizations with many zones and/or resource records who desire the ability to perform real-time dynamic updates on their DNS data via MySQL.</description>
+      <homepage_url>http://mydns.bboy.net/</homepage_url>
+      <download_url>http://mydns.bboy.net/download/</download_url>
+      <url_name>mydns</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>dns</tag>
+        <tag>mysql</tag>
+        <tag>zones</tag>
+        <tag>sql</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

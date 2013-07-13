@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486984</id>
+      <name>DreamPie</name>
+      <url>http://www.ohloh.net/p/DreamPie.xml</url>
+      <html_url>http://www.ohloh.net/p/DreamPie</html_url>
+      <created_at>2010-12-11T11:15:32Z</created_at>
+      <updated_at>2013-06-21T19:30:59Z</updated_at>
+      <description>DreamPie is a Python shell which is designed to be reliable and fun.
+
+Major features include:
+* Simple and intuitive interface
+* Support for various backends: Python2/3, Jython &amp; IronPython
+* Syntax highlighting &amp; code completion
+* Unobtrusive display of function arguments and documentation
+* Folding of large outputs
+* Out-of-the-box support for interactive plotting with matplotlib, without configuration headaches
+* Works on Windows, Linux &amp; OSX</description>
+      <homepage_url>http://dreampie.sourceforge.net/</homepage_url>
+      <download_url>http://dreampie.sourceforge.net/download.html</download_url>
+      <url_name>DreamPie</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52900/dreampie_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52900/dreampie_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14328587</analysis_id>
+      <analysis>
+        <id>14328587</id>
+        <url>http://www.ohloh.net/analyses/14328587.xml</url>
+        <project_id>486984</project_id>
+        <updated_at>2013-07-12T03:26:36Z</updated_at>
+        <logged_at>2013-07-12T03:26:28Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>10071</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/DreamPie/analyses/14328587/languages.png">
+          <language color="4A246B" percentage="68" id="9">
+Python          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="EEE" percentage="1" id="87">
+NSIS          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

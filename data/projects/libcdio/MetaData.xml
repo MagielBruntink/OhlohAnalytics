@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>764</id>
+      <name>libcdio (CD Input and Control Library)</name>
+      <url>http://www.ohloh.net/p/libcdio.xml</url>
+      <html_url>http://www.ohloh.net/p/libcdio</html_url>
+      <created_at>2006-10-11T05:08:08Z</created_at>
+      <updated_at>2013-07-06T15:13:21Z</updated_at>
+      <description>The Compact Disc Input and Control Library encapsulates CD and DVD reading and control for applications wishing to be oblivious to the OS and device dependent properties of optical drives. Access to SCSI-MMC and cdparanoia are provided.</description>
+      <homepage_url>http://savannah.gnu.org/projects/libcdio/</homepage_url>
+      <download_url>http://www.gnu.org/software/libcdio/</download_url>
+      <url_name>libcdio</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551478</analysis_id>
+      <tags>
+        <tag>mmc</tag>
+        <tag>iso9660</tag>
+        <tag>cd-rom</tag>
+        <tag>library</tag>
+        <tag>cd-audio</tag>
+        <tag>udf</tag>
+        <tag>dvd</tag>
+      </tags>
+      <analysis>
+        <id>14551478</id>
+        <url>http://www.ohloh.net/analyses/14551478.xml</url>
+        <project_id>764</project_id>
+        <updated_at>2013-07-06T15:13:20Z</updated_at>
+        <logged_at>2013-07-06T15:09:02Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>101649</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libcdio/analyses/14551478/languages.png">
+          <language color="FF8F00" percentage="82" id="42">
+C          </language>
+          <language color="F35F1F" percentage="5" id="44">
+C++          </language>
+          <language color="000000" percentage="13" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

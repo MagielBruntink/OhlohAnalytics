@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485479</id>
+      <name>Myth Core</name>
+      <url>http://www.ohloh.net/p/mythcore.xml</url>
+      <html_url>http://www.ohloh.net/p/mythcore</html_url>
+      <created_at>2010-09-20T21:04:11Z</created_at>
+      <updated_at>2012-08-14T07:24:05Z</updated_at>
+      <description>Myth Project uses open-source. If you have some ideas or proposals we are always happy to consider them on our forums and if you wish to join our team, write about yourself on the forum. MythCore Based on TrinityCore Source.</description>
+      <homepage_url>https://bitbucket.org/sun/myth-core</homepage_url>
+      <download_url></download_url>
+      <url_name>mythcore</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9133515</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>g3d</tag>
+        <tag>cmake</tag>
+        <tag>zlib</tag>
+        <tag>linux</tag>
+        <tag>cross-platform</tag>
+        <tag>framework</tag>
+        <tag>windows</tag>
+        <tag>c++</tag>
+        <tag>ace</tag>
+      </tags>
+      <analysis>
+        <id>9133515</id>
+        <url>http://www.ohloh.net/analyses/9133515.xml</url>
+        <project_id>485479</project_id>
+        <updated_at>2012-08-11T17:26:27Z</updated_at>
+        <logged_at>2012-08-11T17:26:23Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>854657</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mythcore/analyses/9133515/languages.png">
+          <language color="F35F1F" percentage="77" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="17" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

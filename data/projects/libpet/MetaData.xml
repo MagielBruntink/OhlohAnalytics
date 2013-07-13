@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585236</id>
+      <name>Polyhedral Extraction Tool</name>
+      <url>http://www.ohloh.net/p/libpet.xml</url>
+      <html_url>http://www.ohloh.net/p/libpet</html_url>
+      <created_at>2011-07-22T16:47:40Z</created_at>
+      <updated_at>2013-07-02T11:04:42Z</updated_at>
+      <description>Pet extracts a polyhedral model from C source using LLVM/clang to parse C code and isl to represent sets and relations.</description>
+      <homepage_url>http://freecode.com/projects/libpet/</homepage_url>
+      <download_url></download_url>
+      <url_name>libpet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14502177</analysis_id>
+      <analysis>
+        <id>14502177</id>
+        <url>http://www.ohloh.net/analyses/14502177.xml</url>
+        <project_id>585236</project_id>
+        <updated_at>2013-07-02T11:04:42Z</updated_at>
+        <logged_at>2013-07-02T10:04:34Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8658</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libpet/analyses/14502177/languages.png">
+          <language color="F35F1F" percentage="47" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="EEE" percentage="7" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-2-Clause</name>
+          <nice_name>BSD 2-clause &quot;FreeBSD&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

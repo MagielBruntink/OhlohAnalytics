@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16154</id>
+      <name>B.A.T.M.A.N.</name>
+      <url>http://www.ohloh.net/p/batman.xml</url>
+      <html_url>http://www.ohloh.net/p/batman</html_url>
+      <created_at>2008-08-18T00:09:19Z</created_at>
+      <updated_at>2013-07-11T20:52:52Z</updated_at>
+      <description>From Wikipedia:
+The Better Approach To Mobile Adhoc Networking, or B.A.T.M.A.N., is a routing protocol which is currently under development by the &#8220;Freifunk&#8221;-Community.
+
+B.A.T.M.A.N.'s crucial point is the decentralization of the knowledge about the best route through the network - no single node has all the data. Using this technique, the need for spreading information concerning network changes to every node in the network becomes superfluous. The individual node only saves information about the &#8220;direction&#8221; it received data from and sends its data accordingly. Hereby the data gets passed on from node to node and packets get individual, dynamically created routes. A network of collective intelligence is created.</description>
+      <homepage_url>http://www.open-mesh.org/</homepage_url>
+      <download_url>http://www.open-mesh.org/wiki/open-mesh/Download</download_url>
+      <url_name>batman</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50441/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50441/logo_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14593692</analysis_id>
+      <tags>
+        <tag>network</tag>
+        <tag>wifi</tag>
+        <tag>routing</tag>
+        <tag>networking</tag>
+        <tag>batman</tag>
+        <tag>wireless</tag>
+        <tag>mesh</tag>
+        <tag>wlan</tag>
+      </tags>
+      <analysis>
+        <id>14593692</id>
+        <url>http://www.ohloh.net/analyses/14593692.xml</url>
+        <project_id>16154</project_id>
+        <updated_at>2013-07-11T20:52:52Z</updated_at>
+        <logged_at>2013-07-11T05:49:52Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>18</twelve_month_contributor_count>
+        <total_code_lines>68465</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/batman/analyses/14593692/languages.png">
+          <language color="FF8F00" percentage="74" id="42">
+C          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

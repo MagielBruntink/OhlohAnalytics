@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>294225</id>
+      <name>Frei0r</name>
+      <url>http://www.ohloh.net/p/frei0r.xml</url>
+      <html_url>http://www.ohloh.net/p/frei0r</html_url>
+      <created_at>2009-01-23T06:31:25Z</created_at>
+      <updated_at>2013-06-17T02:46:42Z</updated_at>
+      <description>Frei0r is a  plugin API for video effects on GNU/Linux operating systems: it provides filters, mixers and generators that are supported on various desktop applications.
+
+If you like to code a video effect and see it deployed right away on many GNU/Linux applications then you are in the right place.
+
+Regular packages are provided on Debian and Fedora. Main coordination happens on the frei0r-dev piksel mailinglist.</description>
+      <homepage_url>http://frei0r.dyne.org</homepage_url>
+      <download_url>http://ftp.dyne.org/frei0r</download_url>
+      <url_name>frei0r</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28820/piksel_penquin_gronn_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28820/piksel_penquin_gronn_small.jpg</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14286448</analysis_id>
+      <tags>
+        <tag>free</tag>
+        <tag>effects</tag>
+        <tag>video</tag>
+        <tag>plugins</tag>
+        <tag>gnu</tag>
+      </tags>
+      <analysis>
+        <id>14286448</id>
+        <url>http://www.ohloh.net/analyses/14286448.xml</url>
+        <project_id>294225</project_id>
+        <updated_at>2013-07-09T12:06:34Z</updated_at>
+        <logged_at>2013-07-09T12:06:31Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>180382</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/frei0r/analyses/14286448/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

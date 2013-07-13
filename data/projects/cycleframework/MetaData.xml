@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>474359</id>
+      <name>cycleframework</name>
+      <url>http://www.ohloh.net/p/cycleframework.xml</url>
+      <html_url>http://www.ohloh.net/p/cycleframework</html_url>
+      <created_at>2009-11-11T10:26:53Z</created_at>
+      <updated_at>2013-06-13T05:38:00Z</updated_at>
+      <description>CycleFramework is a view management and development oriented framework for applications implemented with actionscript3 technology. It is developed and mantained by Cycle-IT but anybody who want to contribute to this project is welcome. 
+
+CycleFramework is specially useful for management-like applications, where the different view states follow a root-branch-leaf pattern clearly: the application will have a well defined navigation tree. 
+
+In this kind of applications, each view have two identifiable parts: 
+
+A part which remains invariable during the whole life of a view component. A variable one which may change whenever is needed. 
+
+Talking about the navigation tree, there're three important concepts that need to be explained: 
+
+root: Application's main container or the application itself</description>
+      <homepage_url>http://code.google.com/p/cycleframework/</homepage_url>
+      <download_url>http://cycleframework.googlecode.com/files/CycleFramework.swc</download_url>
+      <url_name>cycleframework</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40943/C_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40943/C_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14244954</analysis_id>
+      <tags>
+        <tag>cycleframework</tag>
+        <tag>richinternetapplications</tag>
+        <tag>actionscript3</tag>
+        <tag>as3</tag>
+        <tag>development</tag>
+        <tag>model-view-controller</tag>
+        <tag>library</tag>
+        <tag>flex</tag>
+        <tag>mvc</tag>
+        <tag>framework</tag>
+        <tag>rias</tag>
+      </tags>
+      <analysis>
+        <id>14244954</id>
+        <url>http://www.ohloh.net/analyses/14244954.xml</url>
+        <project_id>474359</project_id>
+        <updated_at>2013-07-12T07:38:38Z</updated_at>
+        <logged_at>2013-07-12T07:38:36Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7479</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cycleframework/analyses/14244954/languages.png">
+          <language color="A4007E" percentage="37" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="29" id="1">
+HTML          </language>
+          <language color="EEE" percentage="16" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="18" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

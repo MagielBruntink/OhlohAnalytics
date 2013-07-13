@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13695</id>
+      <name>OpenEXR</name>
+      <url>http://www.ohloh.net/p/openexr.xml</url>
+      <html_url>http://www.ohloh.net/p/openexr</html_url>
+      <created_at>2008-05-02T18:20:27Z</created_at>
+      <updated_at>2013-06-21T12:37:47Z</updated_at>
+      <description>OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light &amp; Magic for use in computer imaging applications.
+
+OpenEXR's features include:
+
+    * Higher dynamic range and color precision than existing 8- and 10-bit image file formats.
+    * Support for 16-bit floating-point, 32-bit floating-point, and 32-bit integer pixels. The 16-bit floating-point format, called &quot;half&quot;, is compatible with the half data type in NVIDIA's Cg graphics language and is supported natively on their new GeForce FX and Quadro FX 3D graphics solutions.
+    * Multiple lossless image compression algorithms. Some of the included codecs can achieve 2:1 lossless compression ratios on images with film grain.</description>
+      <homepage_url>http://www.openexr.com</homepage_url>
+      <download_url>http://www.openexr.com/downloads.html</download_url>
+      <url_name>openexr</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/5747/openexr_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/5747/openexr_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14326274</analysis_id>
+      <analysis>
+        <id>14326274</id>
+        <url>http://www.ohloh.net/analyses/14326274.xml</url>
+        <project_id>13695</project_id>
+        <updated_at>2013-07-05T06:39:34Z</updated_at>
+        <logged_at>2013-07-05T06:38:33Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>86789</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openexr/analyses/14326274/languages.png">
+          <language color="F35F1F" percentage="62" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="19" id="42">
+C          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

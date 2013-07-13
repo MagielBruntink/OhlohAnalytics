@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>247999</id>
+      <name>SourceMod</name>
+      <url>http://www.ohloh.net/p/sourcemod.xml</url>
+      <html_url>http://www.ohloh.net/p/sourcemod</html_url>
+      <created_at>2009-01-19T14:06:24Z</created_at>
+      <updated_at>2013-07-13T02:52:01Z</updated_at>
+      <description>SourceMod is both a layer for abstraction between scripting engines and a pluggable plugin system for game engines. SourceMod is currently targeted toward Half-Life 2's Source Engine.</description>
+      <homepage_url>http://www.sourcemod.net/</homepage_url>
+      <download_url>http://www.sourcemod.net/downloads.php</download_url>
+      <url_name>sourcemod</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14613652</analysis_id>
+      <analysis>
+        <id>14613652</id>
+        <url>http://www.ohloh.net/analyses/14613652.xml</url>
+        <project_id>247999</project_id>
+        <updated_at>2013-07-13T02:52:01Z</updated_at>
+        <logged_at>2013-07-13T02:34:42Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>546158</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sourcemod/analyses/14613652/languages.png">
+          <language color="FF8F00" percentage="44" id="42">
+C          </language>
+          <language color="F35F1F" percentage="21" id="44">
+C++          </language>
+          <language color="EEE" percentage="17" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="18" id="">
+19 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

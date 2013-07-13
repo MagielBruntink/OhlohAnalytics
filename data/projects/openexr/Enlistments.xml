@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>24874</id>
+      <project_id>13695</project_id>
+      <repository_id>24057</repository_id>
+      <repository>
+        <id>24057</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:anonymous@cvs.savannah.nongnu.org:/sources/openexr</url>
+        <module_name>IlmBase</module_name>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2013-07-05T06:38:33Z</logged_at>
+        <commits>87</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>24873</id>
+      <project_id>13695</project_id>
+      <repository_id>24056</repository_id>
+      <repository>
+        <id>24056</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:anonymous@cvs.savannah.nongnu.org:/sources/openexr</url>
+        <module_name>OpenEXR</module_name>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2013-07-05T06:38:39Z</logged_at>
+        <commits>605</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

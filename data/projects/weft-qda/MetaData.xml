@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16200</id>
+      <name>Weft QDA</name>
+      <url>http://www.ohloh.net/p/weft-qda.xml</url>
+      <html_url>http://www.ohloh.net/p/weft-qda</html_url>
+      <created_at>2008-08-20T12:28:30Z</created_at>
+      <updated_at>2013-07-01T08:39:59Z</updated_at>
+      <description>Weft QDA is a GUI application for the analysis of qualitative data. It is aimed at social scientists such as sociologists and anthropologists to help with the analysis of material such as interview transcripts, fieldnotes and other documents. It allows 'coding' of text passages with categories, free annotations, text searching and complex queries. It is intended primarily for textual data, although there is limited supported for image and media.
+
+Weft QDA version 2.0 is available for Windows, OS X and Linux. It is written in Ruby, using the wxRuby GUI toolkit and SQLite3.</description>
+      <homepage_url>http://www.pressure.to/qda/</homepage_url>
+      <download_url>http://rubyforge.org/frs/?group_id=665</download_url>
+      <url_name>weft-qda</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8051/weft-128_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8051/weft-128_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14496189</analysis_id>
+      <analysis>
+        <id>14496189</id>
+        <url>http://www.ohloh.net/analyses/14496189.xml</url>
+        <project_id>16200</project_id>
+        <updated_at>2013-07-12T06:35:12Z</updated_at>
+        <logged_at>2013-07-12T06:35:11Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>24205</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/weft-qda/analyses/14496189/languages.png">
+          <language color="A40011" percentage="51" id="12">
+Ruby          </language>
+          <language color="555555" percentage="46" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

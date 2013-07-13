@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>49591</id>
+      <name>protege</name>
+      <url>http://www.ohloh.net/p/protege.xml</url>
+      <html_url>http://www.ohloh.net/p/protege</html_url>
+      <created_at>2008-12-16T10:31:32Z</created_at>
+      <updated_at>2013-07-07T20:07:12Z</updated_at>
+      <description>The Protege platform supports two main ways of modeling ontologies via the Protege-Frames and Protege-OWL editors. Protege ontologies can be exported into a variety of formats including RDF(S), OWL, and XML Schema. 
+
+Protege is based on Java, is extensible, and provides a plug-and-play environment that makes it a flexible base for rapid prototyping and application development. 
+
+Protege is supported by a strong community of developers and academic, government and corporate users, who are using Protege for knowledge solutions in areas as diverse as biomedicine, intelligence gathering, and corporate modeling.</description>
+      <homepage_url>http://code.google.com/p/protege</homepage_url>
+      <download_url></download_url>
+      <url_name>protege</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14564006</analysis_id>
+      <tags>
+        <tag>ontologies</tag>
+      </tags>
+      <analysis>
+        <id>14564006</id>
+        <url>http://www.ohloh.net/analyses/14564006.xml</url>
+        <project_id>49591</project_id>
+        <updated_at>2013-07-12T18:30:14Z</updated_at>
+        <logged_at>2013-07-12T18:30:09Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>91</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/protege/analyses/14564006/languages.png">
+          <language color="556677" percentage="68" id="35">
+XML Schema          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>35</main_language_id>
+        <main_language_name>XML Schema</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>28120</id>
+      <name>The Player Project</name>
+      <url>http://www.ohloh.net/p/playerstage.xml</url>
+      <html_url>http://www.ohloh.net/p/playerstage</html_url>
+      <created_at>2008-12-04T22:13:24Z</created_at>
+      <updated_at>2013-05-17T20:06:47Z</updated_at>
+      <description>The Player Project: Player is a networked interface to robots and sensors. Stage and Gazebo are Player-friendly multiple-robot simulators. The software aims for POSIX compliance and runs on most UNIX-like OS's. Some parts also work on Windows.</description>
+      <homepage_url>http://playerstage.org</homepage_url>
+      <download_url>http://sourceforge.net/projects/playerstage/files/</download_url>
+      <url_name>playerstage</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4673084</analysis_id>
+      <tags>
+        <tag>robotframework</tag>
+        <tag>framework</tag>
+        <tag>c</tag>
+        <tag>python</tag>
+        <tag>abstraction</tag>
+        <tag>networking</tag>
+        <tag>hardware</tag>
+        <tag>robot</tag>
+        <tag>robotics</tag>
+        <tag>hardware_drivers</tag>
+        <tag>lidar</tag>
+        <tag>c++</tag>
+        <tag>ruby</tag>
+        <tag>guile</tag>
+        <tag>simulation</tag>
+        <tag>research</tag>
+        <tag>diy</tag>
+        <tag>ai</tag>
+        <tag>programming</tag>
+        <tag>education</tag>
+        <tag>hack</tag>
+      </tags>
+      <analysis>
+        <id>4673084</id>
+        <url>http://www.ohloh.net/analyses/4673084.xml</url>
+        <project_id>28120</project_id>
+        <updated_at>2011-10-28T18:08:49Z</updated_at>
+        <logged_at>2011-03-07T09:33:25Z</logged_at>
+        <min_month>2000-11-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>8285164</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/playerstage/analyses/4673084/languages.png">
+          <language color="F35F1F" percentage="63" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="26" id="42">
+C          </language>
+          <language color="000000" percentage="11" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

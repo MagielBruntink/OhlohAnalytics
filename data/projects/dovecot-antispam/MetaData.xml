@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>448578</id>
+      <name>Dovecot antispam plugin</name>
+      <url>http://www.ohloh.net/p/dovecot-antispam.xml</url>
+      <html_url>http://www.ohloh.net/p/dovecot-antispam</html_url>
+      <created_at>2009-09-27T14:52:01Z</created_at>
+      <updated_at>2013-06-25T00:00:43Z</updated_at>
+      <description>We all want spam filtering, I want it on my server, so my webmail is already filtered. I get approximately 2500 spam mails per month, and many more that don't make it through my SMTP front lines. I use dspam because it has a much lower footprint than SpamAssassin, and also because it succeeds in catching almost all of my spam with virtually no false positives.
+
+Additionally, most spam filters need training. In order to be able to train with as little overhead as possible, I want to simply be able to move false positives out of the spam folder and false negatives into it. This leads to the concept of integrating the spam retraining process into the IMAP server.</description>
+      <homepage_url>http://johannes.sipsolutions.net/Projects/dovecot-antispam</homepage_url>
+      <download_url>http://johannes.sipsolutions.net/download/dovecot-antispam/</download_url>
+      <url_name>dovecot-antispam</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14390178</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>email</tag>
+        <tag>spam</tag>
+        <tag>dspam</tag>
+        <tag>antispam</tag>
+        <tag>plugin</tag>
+        <tag>dovecot</tag>
+        <tag>mail</tag>
+        <tag>imap</tag>
+      </tags>
+      <analysis>
+        <id>14390178</id>
+        <url>http://www.ohloh.net/analyses/14390178.xml</url>
+        <project_id>448578</project_id>
+        <updated_at>2013-07-03T03:14:39Z</updated_at>
+        <logged_at>2013-07-03T03:14:37Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3181</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dovecot-antispam/analyses/14390178/languages.png">
+          <language color="FF8F00" percentage="98" id="42">
+C          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

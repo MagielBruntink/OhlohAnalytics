@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16579</id>
+      <name>wxMax</name>
+      <url>http://www.ohloh.net/p/wxmax.xml</url>
+      <html_url>http://www.ohloh.net/p/wxmax</html_url>
+      <created_at>2008-09-09T08:21:51Z</created_at>
+      <updated_at>2013-07-02T18:05:30Z</updated_at>
+      <description>wxMax is a cross-platform BlitzMax language binding for wxWidgets, bringing a full-featured, native UI toolkit to BlitzMax applications.
+
+It mirrors the same object-oriented API as implemented by wxWidgets itself, and is available for Linux, OS X and Win32 platforms.
+
+As well as the core functionality of wxWidgets, we also provide extra 3rd-party contributions with the distribution, such as wxPdfDocument, wxPropGrid, wxScintilla and wxSheet.</description>
+      <homepage_url>http://wxmax.googlecode.com/</homepage_url>
+      <download_url>http://code.google.com/p/wxmax/downloads/</download_url>
+      <url_name>wxmax</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8367/logo64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8367/logo64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505251</analysis_id>
+      <tags>
+        <tag>macosx</tag>
+        <tag>gui</tag>
+        <tag>module</tag>
+        <tag>wx</tag>
+        <tag>win32</tag>
+        <tag>wxmax</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>wxwidgets</tag>
+        <tag>cross-platform</tag>
+        <tag>blitzmax</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14505251</id>
+        <url>http://www.ohloh.net/analyses/14505251.xml</url>
+        <project_id>16579</project_id>
+        <updated_at>2013-07-02T18:05:29Z</updated_at>
+        <logged_at>2013-07-02T17:48:37Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>463222</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wxmax/analyses/14505251/languages.png">
+          <language color="F35F1F" percentage="75" id="44">
+C++          </language>
+          <language color="EEE" percentage="15" id="68">
+BlitzMax          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+        <license>
+          <name>wx_windows</name>
+          <nice_name>wxWindows Library License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

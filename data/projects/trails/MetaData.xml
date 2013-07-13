@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>336</id>
+      <name>Trails Framework</name>
+      <url>http://www.ohloh.net/p/trails.xml</url>
+      <html_url>http://www.ohloh.net/p/trails</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-30T15:55:43Z</updated_at>
+      <description>Trails is a domain driven development framework for Java that aims to bring some of the excellent ideas of Ruby on Rails to the Java platform.  By developing a POJO domain model with some annotations, it is possible to get a fully working Spring/Hibernate/Tapestry application without custom development.  Trails does this without any source code generation and all screens are fully customizable as needed.  As well, Trails provides other features such as validation, role based security and I18N.</description>
+      <homepage_url>http://trails.codehaus.org/</homepage_url>
+      <download_url>http://trails.codehaus.org/Download</download_url>
+      <url_name>trails</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3987/trails64_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3987/trails64_small.jpg</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14480416</analysis_id>
+      <tags>
+        <tag>springframework</tag>
+        <tag>webapps</tag>
+        <tag>tapestry</tag>
+        <tag>hibernate</tag>
+        <tag>spring</tag>
+        <tag>java</tag>
+        <tag>j2ee</tag>
+        <tag>tools</tag>
+        <tag>javascript</tag>
+        <tag>framework</tag>
+        <tag>rad</tag>
+        <tag>rails</tag>
+        <tag>programming</tag>
+        <tag>web</tag>
+        <tag>ajax</tag>
+        <tag>library</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>14480416</id>
+        <url>http://www.ohloh.net/analyses/14480416.xml</url>
+        <project_id>336</project_id>
+        <updated_at>2013-07-12T02:28:40Z</updated_at>
+        <logged_at>2013-07-12T01:44:54Z</logged_at>
+        <min_month>2005-12-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>71543</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/trails/analyses/14480416/languages.png">
+          <language color="9A63AD" percentage="52" id="5">
+Java          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="20" id="4">
+CSS          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

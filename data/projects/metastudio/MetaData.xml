@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>48277</id>
+      <name>metastudio</name>
+      <url>http://www.ohloh.net/p/metastudio.xml</url>
+      <html_url>http://www.ohloh.net/p/metastudio</html_url>
+      <created_at>2008-12-16T07:04:04Z</created_at>
+      <updated_at>2013-07-05T18:34:30Z</updated_at>
+      <description>MeTA Studio is programmable IDE tailored for a computational chemist.  Main features include: 
+
+A programmable interface primarily through BeanShell with support for  other languages Workspace support Visualization and Rendering (through JRman) Support for 3-D scalar field visualization Access to embedded Jmol and its libraries Access to parts or modifications of quantumj and mathutils libraries (hosted on java.net) for Quantum Chemical calculations A peer-to-peer networking interface for grouping instances of MeTA studio running on multiple machines to perform varied tasks including computation, rendering and collaboration To be included: 
+
+A new Mathematica type interface tailored for computational chemistry A collaborative environment for interaction among computational chemists working on similar problems Ahead in future: 
+
+MeTA Studio is not meant to be restricted for use in Computational Chemistry domain, although currently it is more focused towards it. I expect many frameworks in MeTA Studio to expand on to other computational science(s) in near future, with hopefully strong contributions from experts in other fields. I envisage MeTA Studio to be a complete platform for doing computational science, whether it be as a tool, as a programming platform for building new scientific applications, or even as a teaching aid. Installation and other information: 
+
+For installation instructions check http://code.google.com/p/metastudio/wiki/Installation.  Also check http://code.google.com/p/metastudio/wiki/ for general help articles on various topics related to MeTA Studio. For latest updates and screen shots check out my blog at http://tovganesh.blogspot.com/search/label/MeTA Latest Version: 2.0.04062009 Online Update Release Date: (None at the moment, upgrade to latest binary release) Full Binary Release Date: 4 June, 2009 Stable Source Tarball Release Date: 14 January, 2009 Daily source update (SVN access): http://code.google.com/p/metastudio/source/browse/ To get involved check: How you can help News! Happy to say that a report describing MeTA Studio is published in J. Comput. Chem. (Volume 30, Pages 661 - 672, 2009). I hope that this brings in more developers and users for the MeTA Studio platform! 
+
+Citation 
+
+If you use MeTA Studio in a research publication, you may cite the following: 
+
+
+&quot;MeTA studio: A cross platform, programmable IDE for computational chemist&quot;, V. Ganesh, J. Comput. Chem., 30, 661 (2009). (Web: http://code.google.com/p/metastudio/) 
+Ohloh Stats: 
+
+.gadget-title {
+  margin-bottom: 2px;
+}
+
+
+
+function resizeIframeHandler(opt_height) {
+  var elem = document.getElementById(this.f);
+  if (!elem) return;
+  if (!opt_height) {
+    elem.style.height = undefined;
+  }
+  else {
+    opt_height = Math.max(10, opt_height);
+    elem.style.height = opt_height + 'px';
+  }
+}
+gadgets.rpc.register(&quot;resize_iframe&quot;, resizeIframeHandler);
+
+gadgets.rpc.register('set_title', function(title) {
+ var elem = document.getElementById(this.f + '_title');
+ if (elem) {
+   elem.innerHTML = gadgets.util.escape(title);
+ }
+});</description>
+      <homepage_url>http://code.google.com/p/metastudio</homepage_url>
+      <download_url></download_url>
+      <url_name>metastudio</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14540004</analysis_id>
+      <tags>
+        <tag>ide</tag>
+        <tag>java</tag>
+        <tag>computationalchemistry</tag>
+      </tags>
+      <analysis>
+        <id>14540004</id>
+        <url>http://www.ohloh.net/analyses/14540004.xml</url>
+        <project_id>48277</project_id>
+        <updated_at>2013-07-05T18:34:29Z</updated_at>
+        <logged_at>2013-07-05T18:34:11Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>252165</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/metastudio/analyses/14540004/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

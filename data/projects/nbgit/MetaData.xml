@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16432</id>
+      <name>NbGit</name>
+      <url>http://www.ohloh.net/p/nbgit.xml</url>
+      <html_url>http://www.ohloh.net/p/nbgit</html_url>
+      <created_at>2008-08-31T23:10:01Z</created_at>
+      <updated_at>2013-07-11T19:22:10Z</updated_at>
+      <description>NbGit is a module for the Netbeans IDE that adds support for working with the Git version control system. It uses the JGit library created as part of EGit to interact with Git repositories. Because the module is Java code all the way, it should work better cross-platform modulo platform specific differences, such as file system behavior. It is based on the Netbeans Mercurial module.</description>
+      <homepage_url>http://nbgit.org/</homepage_url>
+      <download_url>http://code.google.com/p/nbgit/downloads/list</download_url>
+      <url_name>nbgit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8192/nbjgit_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8192/nbjgit_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14411055</analysis_id>
+      <tags>
+        <tag>module</tag>
+        <tag>ide</tag>
+        <tag>netbeans</tag>
+        <tag>git</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14411055</id>
+        <url>http://www.ohloh.net/analyses/14411055.xml</url>
+        <project_id>16432</project_id>
+        <updated_at>2013-07-12T11:36:49Z</updated_at>
+        <logged_at>2013-07-12T11:34:30Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>73371</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nbgit/analyses/14411055/languages.png">
+          <language color="9A63AD" percentage="83" id="5">
+Java          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>common_development_and_distribution</name>
+          <nice_name>Common Development and Distribution License 1.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

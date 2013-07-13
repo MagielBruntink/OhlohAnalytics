@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13554</id>
+      <name>Apache Rat</name>
+      <url>http://www.ohloh.net/p/rat.xml</url>
+      <html_url>http://www.ohloh.net/p/rat</html_url>
+      <created_at>2008-04-24T21:42:29Z</created_at>
+      <updated_at>2012-10-22T11:43:31Z</updated_at>
+      <description>Release Audit Tool (RAT) is a tool to improve accuracy and efficiency when checking releases. It is heuristic in nature: making guesses about possible problems. It will produce false positives and cannot find every possible issue with a release. It's reports require interpretation.
+
+RAT was developed in response to a need felt in the Apache Incubator to be able to review releases for the most common faults less labour intensively. It is therefore highly tuned to the Apache style of releases.</description>
+      <homepage_url>http://creadur.apache.org/rat/</homepage_url>
+      <download_url>http://creadur.apache.org/rat//download_rat.cgi</download_url>
+      <url_name>rat</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7935798</analysis_id>
+      <tags>
+        <tag>creadur</tag>
+        <tag>testing</tag>
+        <tag>conventions</tag>
+        <tag>audit</tag>
+        <tag>code_analysis</tag>
+        <tag>maven2plugin</tag>
+        <tag>java</tag>
+        <tag>qa</tag>
+        <tag>ant</tag>
+        <tag>tools</tag>
+        <tag>coding</tag>
+        <tag>auditing</tag>
+        <tag>analysis</tag>
+        <tag>apache</tag>
+        <tag>build_tools</tag>
+        <tag>maven</tag>
+        <tag>development</tag>
+        <tag>utilities</tag>
+        <tag>quality</tag>
+        <tag>licensing</tag>
+      </tags>
+      <analysis>
+        <id>7935798</id>
+        <url>http://www.ohloh.net/analyses/7935798.xml</url>
+        <project_id>13554</project_id>
+        <updated_at>2012-05-04T09:19:04Z</updated_at>
+        <logged_at>2012-05-04T09:18:23Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>21243</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rat/analyses/7935798/languages.png">
+          <language color="9A63AD" percentage="54" id="5">
+Java          </language>
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="4A246B" percentage="6" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

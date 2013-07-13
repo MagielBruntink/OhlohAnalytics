@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484278</id>
+      <name>Couch Potato App</name>
+      <url>http://www.ohloh.net/p/CouchPotatoApp.xml</url>
+      <html_url>http://www.ohloh.net/p/CouchPotatoApp</html_url>
+      <created_at>2010-07-24T09:42:09Z</created_at>
+      <updated_at>2013-06-06T12:38:36Z</updated_at>
+      <description>CouchPotato (CP) is an automatic NZB downloader. You can keep a &quot;movies I want&quot;-list and it will search for NZBs &amp; Torrents of these movies every X minutes. Once a movie is found, it will send it to SABnzbd or download the nzb/torrent to the provided folder.
+
+Features:
+
+    * Automatic downloading and sending of NZBs to SABnzbd
+    * Automatic downloading of .torrent files to a specified folder
+    * Easy adding movies via IMDB UserScript
+    * Movie sorting &amp; renaming
+    * Trailer downloading
+    * Quality options to download best available. Overwrite if better is found. (See settings)</description>
+      <homepage_url>http://CouchPotatoApp.com/</homepage_url>
+      <download_url>http://CouchPotatoApp.com/</download_url>
+      <url_name>CouchPotatoApp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49381/square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49381/square_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14179355</analysis_id>
+      <tags>
+        <tag>imdbpy</tag>
+        <tag>torrent</tag>
+        <tag>thepiratebay</tag>
+        <tag>userscript</tag>
+        <tag>nzbmatrix</tag>
+        <tag>trailers</tag>
+        <tag>imdb</tag>
+        <tag>easy</tag>
+        <tag>hd</tag>
+        <tag>nzb</tag>
+        <tag>720p</tag>
+        <tag>sabnzbd</tag>
+        <tag>imdbcom</tag>
+        <tag>python26</tag>
+        <tag>nzbsorg</tag>
+        <tag>movie</tag>
+        <tag>automatic</tag>
+        <tag>python</tag>
+        <tag>1080p</tag>
+        <tag>movies</tag>
+        <tag>torrents</tag>
+        <tag>automatically</tag>
+        <tag>easy-to-use</tag>
+      </tags>
+      <analysis>
+        <id>14179355</id>
+        <url>http://www.ohloh.net/analyses/14179355.xml</url>
+        <project_id>484278</project_id>
+        <updated_at>2013-07-06T03:22:17Z</updated_at>
+        <logged_at>2013-07-06T03:22:15Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>117862</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/CouchPotatoApp/analyses/14179355/languages.png">
+          <language color="4A246B" percentage="95" id="9">
+Python          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

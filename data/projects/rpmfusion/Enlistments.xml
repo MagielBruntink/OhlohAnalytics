@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>102377</id>
+      <project_id>343907</project_id>
+      <repository_id>100752</repository_id>
+      <repository>
+        <id>100752</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@cvs.rpmfusion.org:/cvs/free</url>
+        <module_name>rpms</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2012-05-29T03:06:19Z</logged_at>
+        <commits>10215</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>102378</id>
+      <project_id>343907</project_id>
+      <repository_id>100753</repository_id>
+      <repository>
+        <id>100753</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@cvs.rpmfusion.org:/cvs/nonfree</url>
+        <module_name>rpms</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2012-05-30T11:00:19Z</logged_at>
+        <commits>4181</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

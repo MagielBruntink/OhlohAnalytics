@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>464268</id>
+      <name>dropbear</name>
+      <url>http://www.ohloh.net/p/dropbear.xml</url>
+      <html_url>http://www.ohloh.net/p/dropbear</html_url>
+      <created_at>2009-10-17T14:38:19Z</created_at>
+      <updated_at>2013-07-12T13:56:17Z</updated_at>
+      <description>Dropbear is a relatively small SSH 2 server and client. It runs on a variety of POSIX-based platforms. Dropbear is open source software, distributed under a MIT-style license. Dropbear is particularly useful for &quot;embedded&quot;-type Linux (or other Unix) systems, such as wireless routers.</description>
+      <homepage_url>https://matt.ucc.asn.au/dropbear/dropbear.html</homepage_url>
+      <download_url>https://matt.ucc.asn.au/dropbear/</download_url>
+      <url_name>dropbear</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14606451</analysis_id>
+      <tags>
+        <tag>secureshell</tag>
+        <tag>server</tag>
+        <tag>embedded</tag>
+        <tag>ssh2</tag>
+        <tag>posix</tag>
+        <tag>iphone</tag>
+        <tag>symbian</tag>
+        <tag>s60</tag>
+        <tag>monotone</tag>
+        <tag>psp</tag>
+        <tag>sshd</tag>
+        <tag>wii</tag>
+        <tag>ssh</tag>
+        <tag>dropbear</tag>
+        <tag>security</tag>
+        <tag>networking</tag>
+      </tags>
+      <analysis>
+        <id>14606451</id>
+        <url>http://www.ohloh.net/analyses/14606451.xml</url>
+        <project_id>464268</project_id>
+        <updated_at>2013-07-12T13:56:17Z</updated_at>
+        <logged_at>2013-07-12T13:53:03Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>34059</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dropbear/analyses/14606451/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483711</id>
+      <name>OpenChronos</name>
+      <url>http://www.ohloh.net/p/OpenChronos.xml</url>
+      <html_url>http://www.ohloh.net/p/OpenChronos</html_url>
+      <created_at>2010-06-22T09:52:17Z</created_at>
+      <updated_at>2013-06-25T04:02:23Z</updated_at>
+      <description>Firmware for the EZ430-Chronos Watch</description>
+      <homepage_url>http://github.com/poelzi/OpenChronos/</homepage_url>
+      <download_url>http://github.com/poelzi/OpenChronos/</download_url>
+      <url_name>OpenChronos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14396824</analysis_id>
+      <tags>
+        <tag>clock</tag>
+        <tag>openhardware</tag>
+        <tag>msp430</tag>
+        <tag>firmware</tag>
+      </tags>
+      <analysis>
+        <id>14396824</id>
+        <url>http://www.ohloh.net/analyses/14396824.xml</url>
+        <project_id>483711</project_id>
+        <updated_at>2013-07-07T21:13:34Z</updated_at>
+        <logged_at>2013-07-07T21:13:32Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>32893</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/OpenChronos/analyses/14396824/languages.png">
+          <language color="FF8F00" percentage="47" id="42">
+C          </language>
+          <language color="4A246B" percentage="28" id="9">
+Python          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

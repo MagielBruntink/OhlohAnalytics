@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597079</id>
+      <name>Icedove</name>
+      <url>http://www.ohloh.net/p/icedove.xml</url>
+      <html_url>http://www.ohloh.net/p/icedove</html_url>
+      <created_at>2012-04-11T15:24:18Z</created_at>
+      <updated_at>2013-07-05T00:54:27Z</updated_at>
+      <description>The original upstream tarball is modified from upstream by removing a set of sourceless binary, non-free, and VCS-related files. You can find a repack.py script in the debian directory doing this cleanup, using filtering data present in a source.filter file in the same directory. If this file is incomplete, which I'm pretty sure is the case, because it's difficult not to forget anything in this huge amount of data, please file a bug or contact me. Some licensing terms are not included verbatim in this file on purpose, for terms that are available in a file in subdirectories that are not used to build the binary packages.</description>
+      <homepage_url>http://packages.debian.org/sid/icedove</homepage_url>
+      <download_url>http://packages.debian.org/sid/icedove</download_url>
+      <url_name>icedove</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52407/Icedove-icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52407/Icedove-icon_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14531207</analysis_id>
+      <tags>
+        <tag>thunderbird</tag>
+        <tag>email</tag>
+        <tag>smtp</tag>
+        <tag>linux</tag>
+        <tag>gui</tag>
+        <tag>antispam</tag>
+        <tag>imap</tag>
+        <tag>spam</tag>
+        <tag>rss</tag>
+        <tag>pop</tag>
+        <tag>mozilla</tag>
+        <tag>filter</tag>
+      </tags>
+      <analysis>
+        <id>14531207</id>
+        <url>http://www.ohloh.net/analyses/14531207.xml</url>
+        <project_id>597079</project_id>
+        <updated_at>2013-07-05T00:54:26Z</updated_at>
+        <logged_at>2013-07-05T00:47:01Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>8183055</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/icedove/analyses/14531207/languages.png">
+          <language color="F35F1F" percentage="40" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="A4007E" percentage="15" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="27" id="">
+28 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

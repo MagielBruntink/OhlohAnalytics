@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347981</id>
+      <name>Apache ACE</name>
+      <url>http://www.ohloh.net/p/ApacheACE.xml</url>
+      <html_url>http://www.ohloh.net/p/ApacheACE</html_url>
+      <created_at>2009-06-27T17:51:31Z</created_at>
+      <updated_at>2013-07-09T09:59:19Z</updated_at>
+      <description>Apache ACE is a software distribution framework that allows you to centrally manage and distribute software components, configuration data and other artifacts to target systems. It is built using OSGi and can be deployed in different topologies. The target systems are usually also OSGi based, but don't have to be.</description>
+      <homepage_url>http://ace.apache.org/</homepage_url>
+      <download_url>http://ace.apache.org/downloads.html</download_url>
+      <url_name>ApacheACE</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20696/ApacheACE_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20696/ApacheACE_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14570232</analysis_id>
+      <tags>
+        <tag>provisioning</tag>
+        <tag>apache</tag>
+        <tag>framework</tag>
+        <tag>felix</tag>
+        <tag>java</tag>
+        <tag>osgi</tag>
+      </tags>
+      <analysis>
+        <id>14570232</id>
+        <url>http://www.ohloh.net/analyses/14570232.xml</url>
+        <project_id>347981</project_id>
+        <updated_at>2013-07-09T09:59:19Z</updated_at>
+        <logged_at>2013-07-08T07:47:08Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>67548</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ApacheACE/analyses/14570232/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="8" id="4">
+CSS          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

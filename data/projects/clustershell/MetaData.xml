@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>115210</id>
+      <name>ClusterShell</name>
+      <url>http://www.ohloh.net/p/clustershell.xml</url>
+      <html_url>http://www.ohloh.net/p/clustershell</html_url>
+      <created_at>2008-12-29T00:38:05Z</created_at>
+      <updated_at>2013-06-21T13:13:24Z</updated_at>
+      <description>ClusterShell is a event-based python library to execute commands on local or distant cluster nodes in parallel depending on the selected engine and worker mechanisms.</description>
+      <homepage_url>http://sourceforge.net/projects/clustershell</homepage_url>
+      <download_url>http://sourceforge.net/projects/clustershell/files/clustershell/</download_url>
+      <url_name>clustershell</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14326940</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>administration</tag>
+        <tag>hpc</tag>
+        <tag>clustering</tag>
+        <tag>framework</tag>
+        <tag>cluster</tag>
+        <tag>linux</tag>
+        <tag>shell</tag>
+      </tags>
+      <analysis>
+        <id>14326940</id>
+        <url>http://www.ohloh.net/analyses/14326940.xml</url>
+        <project_id>115210</project_id>
+        <updated_at>2013-06-21T13:13:24Z</updated_at>
+        <logged_at>2013-06-21T12:30:25Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>14763</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/clustershell/analyses/14326940/languages.png">
+          <language color="4A246B" percentage="88" id="9">
+Python          </language>
+          <language color="000080" percentage="11" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cecill_c</name>
+          <nice_name>CeCILL-C Free Software License Agreement</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

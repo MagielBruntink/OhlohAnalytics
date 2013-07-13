@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>473071</id>
+      <name>Open-Knesset</name>
+      <url>http://www.ohloh.net/p/open-knesset.xml</url>
+      <html_url>http://www.ohloh.net/p/open-knesset</html_url>
+      <created_at>2009-11-08T17:52:47Z</created_at>
+      <updated_at>2012-12-27T22:33:36Z</updated_at>
+      <description>The Open-Knesset project mission is:
+
+1. Create a human-readable and easy-to-use website containing information about the Israeli Parliament (Knesset) activity.
+
+2. Operate as a central &quot;democratic watch dog&quot; over the Israeli government.</description>
+      <homepage_url>http://oknesset.org/</homepage_url>
+      <download_url>http://github.com/ofri/Open-Knesset</download_url>
+      <url_name>open-knesset</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59457/oknesset-logo-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59457/oknesset-logo-64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11867859</analysis_id>
+      <tags>
+        <tag>django</tag>
+        <tag>python</tag>
+        <tag>israeli</tag>
+        <tag>hebrew</tag>
+        <tag>activism</tag>
+        <tag>israel</tag>
+      </tags>
+      <analysis>
+        <id>11867859</id>
+        <url>http://www.ohloh.net/analyses/11867859.xml</url>
+        <project_id>473071</project_id>
+        <updated_at>2012-12-27T22:33:35Z</updated_at>
+        <logged_at>2012-12-27T22:28:56Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>46736</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/open-knesset/analyses/11867859/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="47A400" percentage="13" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

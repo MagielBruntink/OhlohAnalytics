@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15122</id>
+      <name>codeswarm</name>
+      <url>http://www.ohloh.net/p/codeswarm.xml</url>
+      <html_url>http://www.ohloh.net/p/codeswarm</html_url>
+      <created_at>2008-06-24T15:17:46Z</created_at>
+      <updated_at>2013-07-13T02:45:56Z</updated_at>
+      <description>An experiment in organic software visualization.
+
+This piece of software analyses the code versionning of a development project and generates a nice video of development activity, with contributors names and file types colouring.</description>
+      <homepage_url>http://vis.cs.ucdavis.edu/~ogawa/codeswarm/</homepage_url>
+      <download_url>http://code.google.com/p/codeswarm/source/checkout</download_url>
+      <url_name>codeswarm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23543/eclipse-640px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23543/eclipse-640px_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14613607</analysis_id>
+      <analysis>
+        <id>14613607</id>
+        <url>http://www.ohloh.net/analyses/14613607.xml</url>
+        <project_id>15122</project_id>
+        <updated_at>2013-07-13T02:45:55Z</updated_at>
+        <logged_at>2013-07-13T02:30:30Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3832</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/codeswarm/analyses/14613607/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

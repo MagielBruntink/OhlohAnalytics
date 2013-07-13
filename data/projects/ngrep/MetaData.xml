@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26087</id>
+      <name>network grep</name>
+      <url>http://www.ohloh.net/p/ngrep.xml</url>
+      <html_url>http://www.ohloh.net/p/ngrep</html_url>
+      <created_at>2008-11-07T04:22:53Z</created_at>
+      <updated_at>2013-06-23T02:08:53Z</updated_at>
+      <description>ngrep strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.</description>
+      <homepage_url>http://ngrep.sourceforge.net/</homepage_url>
+      <download_url>http://ngrep.sourceforge.net/download.html</download_url>
+      <url_name>ngrep</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14350756</analysis_id>
+      <tags>
+        <tag>sniff</tag>
+        <tag>grep</tag>
+        <tag>network</tag>
+        <tag>packet</tag>
+        <tag>pcap</tag>
+        <tag>analysis</tag>
+        <tag>libpcap</tag>
+        <tag>sniffing</tag>
+      </tags>
+      <analysis>
+        <id>14350756</id>
+        <url>http://www.ohloh.net/analyses/14350756.xml</url>
+        <project_id>26087</project_id>
+        <updated_at>2013-07-11T12:58:40Z</updated_at>
+        <logged_at>2013-07-11T12:58:27Z</logged_at>
+        <min_month>2000-09-01T00:00:00Z</min_month>
+        <max_month>2008-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>76134</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ngrep/analyses/14350756/languages.png">
+          <language color="EEE" percentage="45" id="51">
+Autoconf          </language>
+          <language color="FF8F00" percentage="29" id="42">
+C          </language>
+          <language color="777777" percentage="17" id="11">
+shell script          </language>
+          <language color="000000" percentage="9" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

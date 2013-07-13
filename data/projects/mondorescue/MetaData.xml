@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4121</id>
+      <name>Mondo Rescue</name>
+      <url>http://www.ohloh.net/p/mondorescue.xml</url>
+      <html_url>http://www.ohloh.net/p/mondorescue</html_url>
+      <created_at>2007-01-22T13:52:34Z</created_at>
+      <updated_at>2013-07-07T14:31:05Z</updated_at>
+      <description>Mondo Rescue is a GPL disaster recovery solution. It supports Linux (i386, x86_64, ia64) and FreeBSD (i386). It's packaged for multiple distributions (RedHat, RHEL, SuSE, SLES, Mandriva, Debian, Gentoo).
+
+It supports tapes, disks, network and CD/DVD as backup media, multiple filesystems, LVM, software and hardware Raid.</description>
+      <homepage_url>http://www.mondorescue.org/</homepage_url>
+      <download_url>http://www.mondorescue.org/downloads.shtml</download_url>
+      <url_name>mondorescue</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2829/bird_world_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2829/bird_world_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14562371</analysis_id>
+      <tags>
+        <tag>imaging</tag>
+        <tag>linux</tag>
+        <tag>disaster_recovery</tag>
+        <tag>backup</tag>
+        <tag>recovery</tag>
+      </tags>
+      <analysis>
+        <id>14562371</id>
+        <url>http://www.ohloh.net/analyses/14562371.xml</url>
+        <project_id>4121</project_id>
+        <updated_at>2013-07-07T14:31:05Z</updated_at>
+        <logged_at>2013-07-07T14:27:08Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>498592</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mondorescue/analyses/14562371/languages.png">
+          <language color="FF8F00" percentage="82" id="42">
+C          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

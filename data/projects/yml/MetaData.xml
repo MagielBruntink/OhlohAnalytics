@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25505</id>
+      <name>yml</name>
+      <url>http://www.ohloh.net/p/yml.xml</url>
+      <html_url>http://www.ohloh.net/p/yml</html_url>
+      <created_at>2008-10-09T15:41:31Z</created_at>
+      <updated_at>2013-07-09T14:20:53Z</updated_at>
+      <description>YML - Why a Markup Language?!
+
+Any time a formal language is created for computing, a compromise has to be found: whether the language is perfect for the computer but terrible for the human or vice versa. XML is very good for the computer ;-) 
+
+Using XML for the reasons mentioned above, but for programming? &quot;Why a Markup Language?!&quot; was what I was shouting some time playing around with a code generator in XSLT. That gave the idea.</description>
+      <homepage_url>http://fdik.org/yml/</homepage_url>
+      <download_url>http://fdik.org/yml/</download_url>
+      <url_name>yml</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>2.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14572949</analysis_id>
+      <tags>
+        <tag>tools</tag>
+        <tag>development</tag>
+        <tag>programming</tag>
+        <tag>web</tag>
+        <tag>parser</tag>
+        <tag>processor</tag>
+        <tag>python</tag>
+        <tag>xsl</tag>
+        <tag>xml</tag>
+        <tag>xpath</tag>
+        <tag>xslt</tag>
+      </tags>
+      <analysis>
+        <id>14572949</id>
+        <url>http://www.ohloh.net/analyses/14572949.xml</url>
+        <project_id>25505</project_id>
+        <updated_at>2013-07-09T14:20:53Z</updated_at>
+        <logged_at>2013-07-09T14:20:29Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2008-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>540</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yml/analyses/14572949/languages.png">
+          <language color="4A246B" percentage="70" id="9">
+Python          </language>
+          <language color="EEE" percentage="15" id="48">
+Vim Script          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="000000" percentage="8" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

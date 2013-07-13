@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15474</id>
+      <name>redtamarin</name>
+      <url>http://www.ohloh.net/p/redtamarin.xml</url>
+      <html_url>http://www.ohloh.net/p/redtamarin</html_url>
+      <created_at>2008-07-11T17:29:55Z</created_at>
+      <updated_at>2013-07-12T03:05:43Z</updated_at>
+      <description>This project is a little extension of the Tamarin project.
+
+see:
+http://www.mozilla.org/projects/tamarin/
+
+The Tamarin shell comes with very few access to the system, File I/O, etc.
+and the goal of redtamarin is to add more low level access
+as process pipes, sockets, etc. in C/C++ mapped to AS3/ES4 classes.
+
+----
+
+99% of the C/C++ source code have been written by the Adobe Team, I'm just adding very few code to add very few native functionalities.
+
+I had to use a special setup to be able to combine tamarin-central using mercurial with my setup which use subversion, in short don't believe the stats it's not me who wrote all that beautiful C/C++ codes.</description>
+      <homepage_url>http://code.google.com/p/redtamarin/</homepage_url>
+      <download_url>http://code.google.com/p/redtamarin/downloads/list</download_url>
+      <url_name>redtamarin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12272/Ohloh_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12272/Ohloh_64x64_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599613</analysis_id>
+      <tags>
+        <tag>ecmascript</tag>
+        <tag>tamarin</tag>
+        <tag>as3</tag>
+        <tag>es4</tag>
+        <tag>js2</tag>
+      </tags>
+      <analysis>
+        <id>14599613</id>
+        <url>http://www.ohloh.net/analyses/14599613.xml</url>
+        <project_id>15474</project_id>
+        <updated_at>2013-07-12T03:05:43Z</updated_at>
+        <logged_at>2013-07-12T03:05:06Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>403</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/redtamarin/analyses/14599613/languages.png">
+          <language color="EEE" percentage="95" id="81">
+Modula-2          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>81</main_language_id>
+        <main_language_name>Modula-2</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

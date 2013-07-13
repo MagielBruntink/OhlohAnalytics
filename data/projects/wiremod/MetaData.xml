@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12641</id>
+      <name>Wiremod</name>
+      <url>http://www.ohloh.net/p/wiremod.xml</url>
+      <html_url>http://www.ohloh.net/p/wiremod</html_url>
+      <created_at>2008-03-09T21:39:13Z</created_at>
+      <updated_at>2013-07-10T13:45:12Z</updated_at>
+      <description>Wiremod is an Garry's Mod addon that was started by Erkle, and is now maintained by Wire Team. The addon allows the user to spawn gates, sensors, inputs and outputs and wire them together so a working computer-like contraption can be made in Garry's Mod. The gates are connected with wires, which are beams that act as a medium to carry the output from one wired entity to an input on another.</description>
+      <homepage_url>http://www.wiremod.com/</homepage_url>
+      <download_url>http://www.wiremod.com/forum/wiremod-general-chat/4-wiremod-svn-guide.html</download_url>
+      <url_name>wiremod</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53587/wirelogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53587/wirelogo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581644</analysis_id>
+      <tags>
+        <tag>gmod</tag>
+        <tag>garrysmod</tag>
+        <tag>wire</tag>
+        <tag>lua</tag>
+      </tags>
+      <analysis>
+        <id>14581644</id>
+        <url>http://www.ohloh.net/analyses/14581644.xml</url>
+        <project_id>12641</project_id>
+        <updated_at>2013-07-10T13:45:12Z</updated_at>
+        <logged_at>2013-07-10T06:07:19Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>32</twelve_month_contributor_count>
+        <total_code_lines>163056</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wiremod/analyses/14581644/languages.png">
+          <language color="A42E00" percentage="100" id="27">
+Lua          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

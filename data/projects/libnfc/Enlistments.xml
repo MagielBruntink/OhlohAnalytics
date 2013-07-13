@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>72780</id>
+      <project_id>327097</project_id>
+      <repository_id>71270</repository_id>
+      <repository>
+        <id>71270</id>
+        <type>SvnSyncRepository</type>
+        <url>http://libnfc.googlecode.com/svn/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T13:39:56Z</logged_at>
+        <commits>1182</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>538347</id>
+      <project_id>327097</project_id>
+      <repository_id>540524</repository_id>
+      <repository>
+        <id>540524</id>
+        <type>GitRepository</type>
+        <url>https://code.google.com/p/libnfc/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-10T18:36:22Z</logged_at>
+        <commits>1729</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

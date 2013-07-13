@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480423</id>
+      <name>Maven for PHP</name>
+      <url>http://www.ohloh.net/p/php-maven.xml</url>
+      <html_url>http://www.ohloh.net/p/php-maven</html_url>
+      <created_at>2010-01-11T09:23:18Z</created_at>
+      <updated_at>2013-07-11T21:08:32Z</updated_at>
+      <description>Maven for PHP uses the power of Maven for building, reporting on and creating documentations of PHP projects. It adapts the Maven build lifecycle to the PHP world while fully supporting PHP 4 and PHP 5. PHP for Maven uses PHPUnit for unit testing and doxygen for creating the api documentation.
+Use a PHP library project to create a library that can be used by other PHP libraries or PHP web projects. Use a PHP web project to create a standalone web project.</description>
+      <homepage_url>http://www.php-maven.org/</homepage_url>
+      <download_url>http://www.php-maven.org/</download_url>
+      <url_name>php-maven</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28772/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28772/logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14572538</analysis_id>
+      <tags>
+        <tag>php5</tag>
+        <tag>maven2plugin</tag>
+        <tag>phpunit</tag>
+        <tag>php</tag>
+        <tag>maven-plugin</tag>
+        <tag>mavenarchetype</tag>
+        <tag>maven-project</tag>
+        <tag>maven</tag>
+        <tag>maven2</tag>
+        <tag>php4</tag>
+        <tag>maven2-repository</tag>
+        <tag>mavenplugin</tag>
+      </tags>
+      <analysis>
+        <id>14572538</id>
+        <url>http://www.ohloh.net/analyses/14572538.xml</url>
+        <project_id>480423</project_id>
+        <updated_at>2013-07-09T13:31:42Z</updated_at>
+        <logged_at>2013-07-09T13:27:57Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>35245</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/php-maven/analyses/14572538/languages.png">
+          <language color="9A63AD" percentage="52" id="5">
+Java          </language>
+          <language color="555555" percentage="41" id="3">
+XML          </language>
+          <language color="356AA0" percentage="6" id="2">
+PHP          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>491868</id>
+      <project_id>5526</project_id>
+      <repository_id>493254</repository_id>
+      <repository>
+        <id>493254</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Clansuite/Clansuite.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-05-30T15:56:16Z</logged_at>
+        <commits>6263</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>11826</id>
+      <project_id>5526</project_id>
+      <repository_id>11541</repository_id>
+      <repository>
+        <id>11541</id>
+        <type>SvnRepository</type>
+        <url>http://svn.gna.org/svn/clansuite/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-05-23T15:31:09Z</logged_at>
+        <commits>5509</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

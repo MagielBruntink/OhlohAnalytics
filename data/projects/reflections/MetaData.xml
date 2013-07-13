@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23104</id>
+      <name>reflections</name>
+      <url>http://www.ohloh.net/p/reflections.xml</url>
+      <html_url>http://www.ohloh.net/p/reflections</html_url>
+      <created_at>2008-10-07T15:20:18Z</created_at>
+      <updated_at>2013-07-02T18:58:22Z</updated_at>
+      <description>version 0.9.5 - added  Maven repository, UseCases, javadoc, JavaCodeSerializer, getResources, Vfs 
+
+A Java runtime metadata analysis, in the spirit of ScannotationsReflections scans your classpath, indexes the metadata, allows you to query it on runtime and may save and collect that information for many modules within your project. 
+
+Using Reflections you can query your metadata such as: 
+
+get all subtypes of some type get all types/methods/fields annotated with some annotation, w/o annotation parameters matching get all resources matching matching a regular expression 
+
+How to use?a typical use of Reflections would be: 
+
+     Reflections reflections = new Reflections(&quot;my.project.prefix&quot;);
+
+     Set&gt; subTypes = reflections.getSubTypesOf(SomeClassOrInterface.class);
+
+     Set&gt; annotated = reflections.getTypesAnnotatedWith(SomeAnnotation.class);
+
+     Set&gt; annotated1 = reflections.getTypesAnnotatedWith(
+          new SomeAnnotation() {public String value() {return &quot;1&quot;;}
+                                public Class annotationType() {return SomeAnnotation.class;}});
+
+     Set propertiesFiles = reflections.getResources(Pattern.compile(&quot;.*\\.properties&quot;)); //depends on ResourcesScanner configured, as on next examplebasically, to use Reflections for scanning and querying, instantiate it with a Configuration, for example 
+
+     new Reflections(new ConfigurationBuilder()
+          .filterInputsBy(new FilterBuilder.Include(FilterBuilder.prefix(&quot;my.project.prefix&quot;)))
+          .setUrls(ClasspathHelper.getUrlsForPackagePrefix(&quot;my.project.prefix&quot;))
+          .setScanners(new SubTypesScanner(),
+                       new TypeAnnotationsScanner().filterResultsBy(filter),
+                       new ResourcesScanner()));than use the convenient methods to query the metadata, such as getSubTypesOf, getTypesAnnotatedWith, getMethodsAnnotatedWith and more.  
+
+You can use other scanners defined in Reflections as well, such as: SubTypesScanner, TypeAnnotationsScanner, FieldAnnotationsScanner, MethodAnnotationsScanner, ResourcrsScanner and more. Than use the equivalent query method in the Reflections object. 
+
+browse the javadoc for more info 
+
+also, browse the tests directory to see some more examples 
+
+MavenRepoto use Reflections via a maven repository, configure your pom.xml with 
+
+
+    reflections-repo
+    Reflections Maven2 Repository
+    http://reflections.googlecode.com/svn/repo
+than add a dependency to Reflections in your pom.xml 
+
+
+    org.reflections
+    reflections
+    the latest version...
+UseCasesReflections can also: 
+
+save scanned metadata and collect it later on runtime, for quick bootstrap of your application save your model entities metadata - fully qualified name of packages and types, fields and methods - so you can later reference these in a static manner find all resources matching a regular expression (for example find all .properties files or .xml files) 
+
+see the UseCases wiki page 
+
+Reflections Maven pluginThere is the ReflectionsMojo Maven plugin available for your project. With simple configuration you can save all scanned metadata into xml files upon compiling. Later on, when your project is bootstrapping you can let Reflections collect all those resources and re-create that metadata for you, making it available at runtime without re-scanning the classpath - thus reducing the bootstrapping time. 
+
+Use this maven configuration in your pom file: 
+
+    
+        
+            
+                org.reflections
+                reflections-maven
+                the latest version...
+                
+                    
+                        
+                            reflections
+                        
+                        process-classes
+                    
+                
+            
+        
+    than, on runtime: 
+
+        Reflections reflections =
+                isProduction() ? Reflections.collect() : new Reflections(&quot;your.package.here&quot;);Check out in the ReflectionsMojo wiki page 
+
+Extending ReflectionsYou can easily extend Reflections by : 
+
+create your specialized scan class, should implement Scanner provide a query method within that scan class next, use that scanner instance to first configure Reflections and than to query 
+
+patches and extension are welcomed! 
+
+Cheers</description>
+      <homepage_url>http://code.google.com/p/reflections</homepage_url>
+      <download_url></download_url>
+      <url_name>reflections</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505714</analysis_id>
+      <tags>
+        <tag>annotatedwith</tag>
+        <tag>scan</tag>
+        <tag>analysis</tag>
+        <tag>annotations</tag>
+        <tag>classpath</tag>
+        <tag>mamo</tag>
+        <tag>subtypes</tag>
+        <tag>bootstrap</tag>
+        <tag>reflection</tag>
+        <tag>metadata</tag>
+        <tag>scannotations</tag>
+      </tags>
+      <analysis>
+        <id>14505714</id>
+        <url>http://www.ohloh.net/analyses/14505714.xml</url>
+        <project_id>23104</project_id>
+        <updated_at>2013-07-13T04:59:35Z</updated_at>
+        <logged_at>2013-07-13T04:59:30Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>35993</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/reflections/analyses/14505714/languages.png">
+          <language color="47A400" percentage="76" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="12" id="5">
+Java          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

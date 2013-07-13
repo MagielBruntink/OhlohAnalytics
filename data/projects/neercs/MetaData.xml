@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14959</id>
+      <name>neercs</name>
+      <url>http://www.ohloh.net/p/neercs.xml</url>
+      <html_url>http://www.ohloh.net/p/neercs</html_url>
+      <created_at>2008-06-15T22:03:05Z</created_at>
+      <updated_at>2013-06-24T13:36:12Z</updated_at>
+      <description>neercs is a work-in-progress libcaca project.
+
+Like GNU screen, it allows you to detach a session from a terminal, but provides unique features:
+
+* Grabbing a process that you forgot to start inside neercs
+* Great screensaver
+* 3D rotating cube to switch between full screen terms
+* Real time thumbnails of your shells
+* Special effects when closing a window
+* Various window layouts...</description>
+      <homepage_url>http://libcaca.zoy.org/wiki/neercs</homepage_url>
+      <download_url></download_url>
+      <url_name>neercs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14379421</analysis_id>
+      <tags>
+        <tag>window-manager</tag>
+        <tag>testing</tag>
+        <tag>curses</tag>
+        <tag>text</tag>
+        <tag>wtfpl</tag>
+        <tag>terminal</tag>
+        <tag>ncurses</tag>
+        <tag>window</tag>
+        <tag>tty</tag>
+        <tag>detach</tag>
+        <tag>ascii</tag>
+        <tag>screen</tag>
+        <tag>console</tag>
+        <tag>libcaca</tag>
+        <tag>text-mode</tag>
+        <tag>shell</tag>
+      </tags>
+      <analysis>
+        <id>14379421</id>
+        <url>http://www.ohloh.net/analyses/14379421.xml</url>
+        <project_id>14959</project_id>
+        <updated_at>2013-07-10T09:54:40Z</updated_at>
+        <logged_at>2013-07-10T09:54:37Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7411</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/neercs/analyses/14379421/languages.png">
+          <language color="FF8F00" percentage="93" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>WTFPL_2_0</name>
+          <nice_name>Generous License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

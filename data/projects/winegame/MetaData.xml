@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482900</id>
+      <name>WineGame</name>
+      <url>http://www.ohloh.net/p/winegame.xml</url>
+      <html_url>http://www.ohloh.net/p/winegame</html_url>
+      <created_at>2010-05-10T07:11:05Z</created_at>
+      <updated_at>2013-06-16T08:31:24Z</updated_at>
+      <description>WineGame is a small Qt4 utility for make install Windows apps in wine easy.
+WineGame has the folowing features:
+- install Windows app with &quot;package&quot; (package contains descriptions of wine settings, etc).
+- install Windows app with &quot;template&quot;
+(template allows you to install many applications with the same settings, f.e. install only DirectX 9).
+- install Windows app from disc (if required)
+- create a short-cut on your desktop with game
+- manage a virtual Windows (aka Wineprefix: run regedit, winecfg, cmd, winefile, etc.)
+- make your live a bit easier :)</description>
+      <homepage_url>http://winegame.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/winegame/downloads/list</download_url>
+      <url_name>winegame</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33273/winegame_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33273/winegame_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14277367</analysis_id>
+      <tags>
+        <tag>qt4</tag>
+        <tag>linux</tag>
+        <tag>wine</tag>
+      </tags>
+      <analysis>
+        <id>14277367</id>
+        <url>http://www.ohloh.net/analyses/14277367.xml</url>
+        <project_id>482900</project_id>
+        <updated_at>2013-07-13T04:36:52Z</updated_at>
+        <logged_at>2013-07-13T04:36:50Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4388</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/winegame/analyses/14277367/languages.png">
+          <language color="555555" percentage="55" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="43" id="44">
+C++          </language>
+          <language color="EEE" percentage="2" id="74">
+CMake          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

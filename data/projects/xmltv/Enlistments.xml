@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>1938</id>
+      <project_id>440</project_id>
+      <repository_id>1927</repository_id>
+      <repository>
+        <id>1927</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@xmltv.cvs.sourceforge.net:/cvsroot/xmltv</url>
+        <module_name>libxmltv</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-07T19:03:38Z</logged_at>
+        <commits>14</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>1939</id>
+      <project_id>440</project_id>
+      <repository_id>1928</repository_id>
+      <repository>
+        <id>1928</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@xmltv.cvs.sourceforge.net:/cvsroot/xmltv</url>
+        <module_name>xmltv</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-07T19:04:34Z</logged_at>
+        <commits>4238</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

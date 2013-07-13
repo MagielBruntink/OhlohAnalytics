@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>538394</id>
+      <project_id>14975</project_id>
+      <repository_id>540568</repository_id>
+      <repository>
+        <id>540568</id>
+        <type>GitRepository</type>
+        <url>git://forge.gluster.org/glusterfs-core/glusterfs.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T14:35:00Z</logged_at>
+        <commits>5603</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>486116</id>
+      <project_id>14975</project_id>
+      <repository_id>487296</repository_id>
+      <repository>
+        <id>487296</id>
+        <type>GitRepository</type>
+        <url>git://github.com/gluster/glusterfs.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-05T05:14:14Z</logged_at>
+        <commits>5588</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

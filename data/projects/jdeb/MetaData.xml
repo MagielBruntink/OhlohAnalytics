@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14976</id>
+      <name>JDeb</name>
+      <url>http://www.ohloh.net/p/jdeb.xml</url>
+      <html_url>http://www.ohloh.net/p/jdeb</html_url>
+      <created_at>2008-06-16T13:16:06Z</created_at>
+      <updated_at>2013-06-28T12:44:25Z</updated_at>
+      <description>JDeb provides an Ant task and a Maven plugin to create Debian packages from Java builds in a truly cross platform manner.
+
+Build your Debian packages on any platform that has Java support. Windows, Linux - it does not require additional native tools installed. The API underneath is well abstracted can easily be adopted for other areas as well.</description>
+      <homepage_url>http://vafer.org/projects/jdeb</homepage_url>
+      <download_url>http://vafer.org/projects/jdeb/downloads.html</download_url>
+      <url_name>jdeb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14585/jdeblogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14585/jdeblogo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14444123</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>package</tag>
+        <tag>debian</tag>
+        <tag>ant</tag>
+        <tag>packaging</tag>
+        <tag>maven</tag>
+      </tags>
+      <analysis>
+        <id>14444123</id>
+        <url>http://www.ohloh.net/analyses/14444123.xml</url>
+        <project_id>14976</project_id>
+        <updated_at>2013-07-11T09:33:53Z</updated_at>
+        <logged_at>2013-07-11T09:33:50Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>4636</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jdeb/analyses/14444123/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

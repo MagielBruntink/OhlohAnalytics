@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>52606</id>
+      <name>gtkparasite</name>
+      <url>http://www.ohloh.net/p/gtkparasite.xml</url>
+      <html_url>http://www.ohloh.net/p/gtkparasite</html_url>
+      <created_at>2008-12-16T18:59:49Z</created_at>
+      <updated_at>2013-06-25T19:25:35Z</updated_at>
+      <description>GTKParasite is a debugging and development tool for GTK+ applications. It can inspect your application, giving you detailed information on your UI, such as the hierarchy, X window IDs, widget properties, and more. You can modify properties on the fly in order to experiment with the look of your UI.
+
+Parasite includes an embedded Python shell allowing you to write new code that directly interacts with your application's UI, regardless of the language the application is written in. Create new dialogs, attach temporary signal handlers to buttons, test out new logic, and gather additional debugging information.
+
+It's like Firebug, but for GTK+ applications.</description>
+      <homepage_url>http://chipx86.github.com/gtkparasite/</homepage_url>
+      <download_url></download_url>
+      <url_name>gtkparasite</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20208/parasite_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20208/parasite_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14407806</analysis_id>
+      <tags>
+        <tag>debugging</tag>
+        <tag>gnome</tag>
+        <tag>development</tag>
+        <tag>gtk</tag>
+      </tags>
+      <analysis>
+        <id>14407806</id>
+        <url>http://www.ohloh.net/analyses/14407806.xml</url>
+        <project_id>52606</project_id>
+        <updated_at>2013-07-11T12:37:07Z</updated_at>
+        <logged_at>2013-07-11T12:36:15Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3289</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gtkparasite/analyses/14407806/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

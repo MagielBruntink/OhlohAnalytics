@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484842</id>
+      <name>SimD</name>
+      <url>http://www.ohloh.net/p/simd.xml</url>
+      <html_url>http://www.ohloh.net/p/simd</html_url>
+      <created_at>2010-08-17T21:06:01Z</created_at>
+      <updated_at>2013-06-30T13:55:52Z</updated_at>
+      <description>SimD (Sim*ple D*DS) is a C++ API intended to greatly simplify the use of DDS. As such, SimD uses templates and some little template meta-programming to provide an API that reduces by several times the line of code that need to be written for a DDS application. With SIMD you can write a DDS application in 4 lines of code!
+
+An intro presentation on SimD is available at http://bit.ly/cEE5km</description>
+      <homepage_url>http://code.google.com/p/simd-cxx/</homepage_url>
+      <download_url>http://code.google.com/p/simd-cxx/downloads/list</download_url>
+      <url_name>simd</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36386/SimD_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36386/SimD_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14479453</analysis_id>
+      <tags>
+        <tag>dds</tag>
+        <tag>c++</tag>
+        <tag>pubsub</tag>
+        <tag>messaging</tag>
+        <tag>opensplice</tag>
+      </tags>
+      <analysis>
+        <id>14479453</id>
+        <url>http://www.ohloh.net/analyses/14479453.xml</url>
+        <project_id>484842</project_id>
+        <updated_at>2013-07-12T01:52:56Z</updated_at>
+        <logged_at>2013-07-12T01:52:53Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>16302</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/simd/analyses/14479453/languages.png">
+          <language color="555555" percentage="53" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="40" id="44">
+C++          </language>
+          <language color="EEE" percentage="6" id="74">
+CMake          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15503</id>
+      <name>Elastic Grid</name>
+      <url>http://www.ohloh.net/p/elastic-grid.xml</url>
+      <html_url>http://www.ohloh.net/p/elastic-grid</html_url>
+      <created_at>2008-07-12T18:57:57Z</created_at>
+      <updated_at>2013-06-27T08:07:33Z</updated_at>
+      <description>The Elastic Grid is an infrastructure for the dynamic deployment, activation, management of Java applications on virtualized hardware, initially focusing on Amazon EC2.</description>
+      <homepage_url>http://www.elastic-grid.com</homepage_url>
+      <download_url>http://forge.objectweb.org/project/showfiles.php?group_id=327</download_url>
+      <url_name>elastic-grid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9172/Elastic-Grid-Logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9172/Elastic-Grid-Logo_small.jpg</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14430970</analysis_id>
+      <tags>
+        <tag>rio</tag>
+        <tag>distributed_computing</tag>
+        <tag>cloud_computing</tag>
+        <tag>ow2</tag>
+        <tag>amazon_ec2</tag>
+        <tag>clustering</tag>
+        <tag>distributed_monitoring</tag>
+        <tag>amazon</tag>
+        <tag>provisioning</tag>
+        <tag>grid</tag>
+        <tag>virtualization</tag>
+        <tag>jini</tag>
+        <tag>cloud</tag>
+        <tag>aws</tag>
+        <tag>ec2</tag>
+        <tag>sqs</tag>
+        <tag>amazon_s3</tag>
+        <tag>s3</tag>
+      </tags>
+      <analysis>
+        <id>14430970</id>
+        <url>http://www.ohloh.net/analyses/14430970.xml</url>
+        <project_id>15503</project_id>
+        <updated_at>2013-07-06T22:08:24Z</updated_at>
+        <logged_at>2013-07-06T22:07:49Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>60486</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/elastic-grid/analyses/14430970/languages.png">
+          <language color="9A63AD" percentage="44" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="27" id="4">
+CSS          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>479480</id>
+      <project_id>26410</project_id>
+      <repository_id>479739</repository_id>
+      <repository>
+        <id>479739</id>
+        <type>GitRepository</type>
+        <url>git://hieblmedia.net/JYAML.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-05-01T12:08:04Z</logged_at>
+        <commits>1076</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>218553</id>
+      <project_id>26410</project_id>
+      <repository_id>216523</repository_id>
+      <repository>
+        <id>216523</id>
+        <type>SvnRepository</type>
+        <url>http://svn.hieblmedia.net/jyaml/trunk</url>
+        <username>public</username>
+        <password>guest</password>
+        <logged_at>2012-05-04T12:13:54Z</logged_at>
+        <commits>1069</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

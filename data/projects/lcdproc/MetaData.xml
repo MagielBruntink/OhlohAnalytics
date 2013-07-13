@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8637</id>
+      <name>LCDproc</name>
+      <url>http://www.ohloh.net/p/lcdproc.xml</url>
+      <html_url>http://www.ohloh.net/p/lcdproc</html_url>
+      <created_at>2007-09-21T09:26:35Z</created_at>
+      <updated_at>2013-06-09T00:46:43Z</updated_at>
+      <description>LCDproc is a client/server suite including drivers for all kinds of nifty LCD displays. The server LCDd makes it possible to display text and other data on an LCD display. Support for devices is added by drivers.
+
+Currently there are drivers for several serial devices: Matrix Orbital, Crystal Fontz, Bayrad, LB216, LCDM001 (kernelconcepts.de), Wirz-SLI and PIC-an-LCD; and some devices connected to the LPT port: HD44780, STV5730, T6963, SED1520 and SED1330. There are input (only) drivers for LIRC and joysticks.</description>
+      <homepage_url>http://lcdproc.org/</homepage_url>
+      <download_url>http://lcdproc.org/download.php3</download_url>
+      <url_name>lcdproc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14202420</analysis_id>
+      <tags>
+        <tag>lcd</tag>
+        <tag>linux</tag>
+        <tag>display</tag>
+      </tags>
+      <analysis>
+        <id>14202420</id>
+        <url>http://www.ohloh.net/analyses/14202420.xml</url>
+        <project_id>8637</project_id>
+        <updated_at>2013-07-06T16:14:21Z</updated_at>
+        <logged_at>2013-07-06T16:14:15Z</logged_at>
+        <min_month>1999-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>61021</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lcdproc/analyses/14202420/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>126123</id>
+      <name>libnice</name>
+      <url>http://www.ohloh.net/p/libnice.xml</url>
+      <html_url>http://www.ohloh.net/p/libnice</html_url>
+      <created_at>2009-01-03T19:34:50Z</created_at>
+      <updated_at>2013-07-05T20:15:32Z</updated_at>
+      <description>The GLib ICE implementation</description>
+      <homepage_url>http://nice.freedesktop.org/wiki/</homepage_url>
+      <download_url>http://nice.freedesktop.org/releases/</download_url>
+      <url_name>libnice</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541733</analysis_id>
+      <analysis>
+        <id>14541733</id>
+        <url>http://www.ohloh.net/analyses/14541733.xml</url>
+        <project_id>126123</project_id>
+        <updated_at>2013-07-05T20:15:32Z</updated_at>
+        <logged_at>2013-07-05T20:13:11Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>24890</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libnice/analyses/14541733/languages.png">
+          <language color="FF8F00" percentage="84" id="42">
+C          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
