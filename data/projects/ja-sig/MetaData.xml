@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5014</id>
+      <name>JA-SIG Web Proxy Portlet</name>
+      <url>http://www.ohloh.net/p/ja-sig.xml</url>
+      <html_url>http://www.ohloh.net/p/ja-sig</html_url>
+      <created_at>2007-04-27T17:25:15Z</created_at>
+      <updated_at>2011-03-12T17:36:57Z</updated_at>
+      <description>The Authenticated WebProxy portlet allows seamless integration with web-based services regardless of the technology used to implement them.  These services are represented within the portal as individual channels on a user's layout. All content from the proxied site is scraped, parsed and rendered inside the portal. Pages are refreshed and kept inside the portal when interacted with. HTTP standards are followed, allowing communication between the browser and dynamic web-based applications. In addition to this, Authenticated WebProxy provides additional technologies for authentication(Form and Basic authentication), clipping, and content caching. Authenticated Webproxy also provides a mechanism for passing user-specific information to the back-end application.</description>
+      <homepage_url>https://www.ja-sig.org/svn/portlets/WebproxyPortlet/</homepage_url>
+      <download_url></download_url>
+      <url_name>ja-sig</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1767656</analysis_id>
+      <tags>
+        <tag>portlet</tag>
+        <tag>jsr-168</tag>
+        <tag>ja-sig</tag>
+        <tag>webproxy</tag>
+        <tag>wisc</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>1767656</id>
+        <url>http://www.ohloh.net/analyses/1767656.xml</url>
+        <project_id>5014</project_id>
+        <updated_at>2011-03-12T17:36:56Z</updated_at>
+        <logged_at>2010-06-01T20:52:32Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6191</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ja-sig/analyses/1767656/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

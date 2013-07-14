@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480270</id>
+      <name>piglit</name>
+      <url>http://www.ohloh.net/p/piglit.xml</url>
+      <html_url>http://www.ohloh.net/p/piglit</html_url>
+      <created_at>2010-01-05T21:41:54Z</created_at>
+      <updated_at>2013-07-10T09:33:16Z</updated_at>
+      <description>Piglit is a collection of automated tests for OpenGL implementations.
+
+The goal of Piglit is to help improve the quality of open source OpenGL drivers by providing developers with a simple means to perform regression tests.</description>
+      <homepage_url>http://people.freedesktop.org/~nh/piglit/</homepage_url>
+      <download_url>http://people.freedesktop.org/~nh/piglit/</download_url>
+      <url_name>piglit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580474</analysis_id>
+      <tags>
+        <tag>opengl</tag>
+        <tag>glsl</tag>
+        <tag>testsuite</tag>
+        <tag>testing</tag>
+        <tag>test</tag>
+      </tags>
+      <analysis>
+        <id>14580474</id>
+        <url>http://www.ohloh.net/analyses/14580474.xml</url>
+        <project_id>480270</project_id>
+        <updated_at>2013-07-10T09:33:16Z</updated_at>
+        <logged_at>2013-07-10T09:28:22Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>40</twelve_month_contributor_count>
+        <total_code_lines>184614</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/piglit/analyses/14580474/languages.png">
+          <language color="FF8F00" percentage="68" id="42">
+C          </language>
+          <language color="F35F1F" percentage="20" id="44">
+C++          </language>
+          <language color="EEE" percentage="8" id="69">
+OpenGL Shading          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

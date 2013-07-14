@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>70081</id>
+      <name>NonVisual Desktop Access (NVDA)</name>
+      <url>http://www.ohloh.net/p/nvda.xml</url>
+      <html_url>http://www.ohloh.net/p/nvda</html_url>
+      <created_at>2008-12-19T07:19:38Z</created_at>
+      <updated_at>2013-06-27T18:34:43Z</updated_at>
+      <description>A free and open source screen reader (written in python) for the MS Windows operating system.
+
+NonVisual Desktop Access was started because of the need for a free open-source non-visual access solution for windows.
+
+Written entirely in python, NVDA is a functional screen reader that allows you to use Windows without vision by using MSAA, the windows API, and a speech synthesizer to convey what is happening.</description>
+      <homepage_url>http://www.nvda-project.org/</homepage_url>
+      <download_url>http://www.nvda-project.org/wiki/Download</download_url>
+      <url_name>nvda</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40428/nvda_100x100white_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40428/nvda_100x100white_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>13235268</analysis_id>
+      <tags>
+        <tag>braille</tag>
+        <tag>python</tag>
+        <tag>tool</tag>
+        <tag>wai-aria</tag>
+        <tag>screenreader</tag>
+        <tag>msaccess</tag>
+        <tag>internationalized</tag>
+        <tag>blindness</tag>
+        <tag>assistive-technology</tag>
+        <tag>visuallyimpaired</tag>
+        <tag>windows</tag>
+        <tag>speech</tag>
+        <tag>sapi</tag>
+        <tag>accessibility</tag>
+        <tag>usb</tag>
+        <tag>i18n</tag>
+        <tag>msaa</tag>
+      </tags>
+      <analysis>
+        <id>13235268</id>
+        <url>http://www.ohloh.net/analyses/13235268.xml</url>
+        <project_id>70081</project_id>
+        <updated_at>2013-03-27T07:14:01Z</updated_at>
+        <logged_at>2013-03-27T07:13:00Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>67</twelve_month_contributor_count>
+        <total_code_lines>46579</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nvda/analyses/13235268/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="22" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

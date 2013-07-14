@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>358749</id>
+      <name>WebTest</name>
+      <url>http://www.ohloh.net/p/webtest.xml</url>
+      <html_url>http://www.ohloh.net/p/webtest</html_url>
+      <created_at>2009-08-02T18:38:49Z</created_at>
+      <updated_at>2013-07-05T22:29:54Z</updated_at>
+      <description>Functional testing tool for Python WSGI applications</description>
+      <homepage_url>http://webtest.pythonpaste.org/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/WebTest</download_url>
+      <url_name>webtest</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542759</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>wsgi</tag>
+        <tag>python</tag>
+        <tag>test</tag>
+      </tags>
+      <analysis>
+        <id>14542759</id>
+        <url>http://www.ohloh.net/analyses/14542759.xml</url>
+        <project_id>358749</project_id>
+        <updated_at>2013-07-13T03:49:52Z</updated_at>
+        <logged_at>2013-07-13T03:49:50Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>4019</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/webtest/analyses/14542759/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

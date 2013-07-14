@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>51884</id>
+      <name>logwatch</name>
+      <url>http://www.ohloh.net/p/logwatch.xml</url>
+      <html_url>http://www.ohloh.net/p/logwatch</html_url>
+      <created_at>2008-12-16T16:31:54Z</created_at>
+      <updated_at>2013-07-09T18:18:16Z</updated_at>
+      <description>Planned Features 
+
+nice looking and easy-to-use interface multi-platform responsive, high throughput support all major logging frameworks (log4j, logback, java.util.logging, log4cxx, ...) receive log events via sockets read log events from file save log events to file advanced filtering and high-lighting options save all settings to file (filters, applications, ...) support custom columns (based on MDC) support compressed log events 
+
+Powered ByApache MINA Glazed Lists</description>
+      <homepage_url>http://code.google.com/p/logwatch</homepage_url>
+      <download_url></download_url>
+      <url_name>logwatch</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574458</analysis_id>
+      <tags>
+        <tag>userinterface</tag>
+        <tag>logging</tag>
+        <tag>java</tag>
+        <tag>logback</tag>
+        <tag>viewer</tag>
+        <tag>log4j</tag>
+      </tags>
+      <analysis>
+        <id>14574458</id>
+        <url>http://www.ohloh.net/analyses/14574458.xml</url>
+        <project_id>51884</project_id>
+        <updated_at>2013-07-09T18:18:15Z</updated_at>
+        <logged_at>2013-07-09T18:10:14Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9210</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/logwatch/analyses/14574458/languages.png">
+          <language color="D2C690" percentage="97" id="8">
+Perl          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

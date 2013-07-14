@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8922</id>
+      <name>Logtalk</name>
+      <url>http://www.ohloh.net/p/logtalk.xml</url>
+      <html_url>http://www.ohloh.net/p/logtalk</html_url>
+      <created_at>2007-10-03T09:28:41Z</created_at>
+      <updated_at>2013-07-12T07:00:38Z</updated_at>
+      <description>Logtalk is an object-oriented logic programming language that can use most Prolog implementations as a back-end compiler. As a multi-paradigm language, it includes support for both prototypes and classes, protocols (interfaces), component-based programming through category-based composition, event-driven programming, and high-level multi-threading programming.</description>
+      <homepage_url>http://logtalk.org/</homepage_url>
+      <download_url>http://logtalk.org/download.html</download_url>
+      <url_name>logtalk</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55166/logtalk_logo_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55166/logtalk_logo_64x64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14602315</analysis_id>
+      <tags>
+        <tag>logtalk</tag>
+        <tag>prototype</tag>
+        <tag>object_oriented</tag>
+        <tag>prolog</tag>
+      </tags>
+      <analysis>
+        <id>14602315</id>
+        <url>http://www.ohloh.net/analyses/14602315.xml</url>
+        <project_id>8922</project_id>
+        <updated_at>2013-07-12T07:00:37Z</updated_at>
+        <logged_at>2013-07-12T06:55:27Z</logged_at>
+        <min_month>2001-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>216437</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/logtalk/analyses/14602315/languages.png">
+          <language color="EEE" percentage="35" id="96">
+Logtalk          </language>
+          <language color="47A400" percentage="26" id="1">
+HTML          </language>
+          <language color="EEE" percentage="18" id="94">
+Prolog          </language>
+          <language color="000000" percentage="21" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>96</main_language_id>
+        <main_language_name>Logtalk</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

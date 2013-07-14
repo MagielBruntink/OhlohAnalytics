@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485726</id>
+      <name>Galaxy Bioinformatics Platform</name>
+      <url>http://www.ohloh.net/p/galaxybx.xml</url>
+      <html_url>http://www.ohloh.net/p/galaxybx</html_url>
+      <created_at>2010-10-04T08:13:25Z</created_at>
+      <updated_at>2013-07-05T20:06:44Z</updated_at>
+      <description>Galaxy allows you to do analyses you cannot do anywhere else without the need to install or download anything. You can analyze multiple alignments, compare genomic annotations, profile metagenomic samples and much much more... We provide a public Galaxy instance at http://usegalaxy.org where you can do all this with nothing more than a web browser.</description>
+      <homepage_url>http://galaxyproject.org</homepage_url>
+      <download_url>http://getgalaxy.org</download_url>
+      <url_name>galaxybx</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541674</analysis_id>
+      <analysis>
+        <id>14541674</id>
+        <url>http://www.ohloh.net/analyses/14541674.xml</url>
+        <project_id>485726</project_id>
+        <updated_at>2013-07-05T20:06:44Z</updated_at>
+        <logged_at>2013-07-05T20:00:13Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>42</twelve_month_contributor_count>
+        <total_code_lines>311633</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/galaxybx/analyses/14541674/languages.png">
+          <language color="4A246B" percentage="57" id="9">
+Python          </language>
+          <language color="A4007E" percentage="21" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AFL1-1</name>
+          <nice_name>Academic Free License v1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

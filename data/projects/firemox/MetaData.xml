@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13287</id>
+      <name>Firemox</name>
+      <url>http://www.ohloh.net/p/firemox.xml</url>
+      <html_url>http://www.ohloh.net/p/firemox</html_url>
+      <created_at>2008-04-10T19:05:11Z</created_at>
+      <updated_at>2013-07-12T00:03:05Z</updated_at>
+      <description>Firemox is a full Java program which allows players to play various card games against an opponent over a network, such as a LAN and the Internet, or alone. The program is the judge: it implements and enforces the rules, so that the players do not need to resolve them themselves. The game currently runs Magic: The Gathering but rules can be written for any classic card game (eg. Poker) or collectible card game (CCG). The main feature of this program is that it can parse the rules of a game which are defined in an (human readable) XML file. MP parses these rules files to determine turn structure, card types, colors, etc.. making it impossible for players to cheat. Also, if a player forgets to do something during the game, he/she will be reminded since all rules are managed by Firemox.</description>
+      <homepage_url>http://www.firemox.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=92519</download_url>
+      <url_name>firemox</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2538/firemox-64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2538/firemox-64px_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14596570</analysis_id>
+      <tags>
+        <tag>ccg</tag>
+        <tag>magic</tag>
+        <tag>multi-platform</tag>
+        <tag>gathering</tag>
+        <tag>cross-platform</tag>
+        <tag>cards</tag>
+        <tag>xml-schema</tag>
+        <tag>card-game</tag>
+        <tag>xml</tag>
+        <tag>card</tag>
+        <tag>collectible-card-game</tag>
+        <tag>java</tag>
+        <tag>game</tag>
+      </tags>
+      <analysis>
+        <id>14596570</id>
+        <url>http://www.ohloh.net/analyses/14596570.xml</url>
+        <project_id>13287</project_id>
+        <updated_at>2013-07-12T00:03:05Z</updated_at>
+        <logged_at>2013-07-11T23:36:21Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>337352</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/firemox/analyses/14596570/languages.png">
+          <language color="555555" percentage="80" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="16" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

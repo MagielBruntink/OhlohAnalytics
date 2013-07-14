@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486268</id>
+      <name>SolrMeter</name>
+      <url>http://www.ohloh.net/p/solrmeter.xml</url>
+      <html_url>http://www.ohloh.net/p/solrmeter</html_url>
+      <created_at>2010-11-01T12:24:37Z</created_at>
+      <updated_at>2013-06-28T23:53:31Z</updated_at>
+      <description>SolrMeter is a stress testing / performance benchmarking tool for Apache Solr installations.  It is licensed under ASL and developed using JavaSE and Swing components, connected with Solr using SolrJ.
+What can you do with SolrMeter?
+The main goal of this open source project is bring to the Apache Solr user community a tool for dealing with Solr specific issues regarding performance and stress testing like executing queries and adding documents to make sure that your Solr installation will support real world's load and demands. With SolrMeter you can simulate a work load over the Apache Solr installation and to obtain useful visual performance statistics and metrics.</description>
+      <homepage_url>http://code.google.com/p/solrmeter</homepage_url>
+      <download_url>http://code.google.com/p/solrmeter/downloads/list</download_url>
+      <url_name>solrmeter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38680/solrmeterImage_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38680/solrmeterImage_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14449981</analysis_id>
+      <tags>
+        <tag>solr</tag>
+        <tag>stresstesting</tag>
+        <tag>stressing</tag>
+        <tag>performance-testing</tag>
+        <tag>guice</tag>
+        <tag>stress-testing</tag>
+        <tag>java</tag>
+        <tag>load-testing</tag>
+        <tag>loadtesting</tag>
+      </tags>
+      <analysis>
+        <id>14449981</id>
+        <url>http://www.ohloh.net/analyses/14449981.xml</url>
+        <project_id>486268</project_id>
+        <updated_at>2013-07-09T18:00:41Z</updated_at>
+        <logged_at>2013-07-09T18:00:38Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>13841</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/solrmeter/analyses/14449981/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

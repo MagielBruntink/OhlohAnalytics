@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8580</id>
+      <name>Taverna</name>
+      <url>http://www.ohloh.net/p/taverna.xml</url>
+      <html_url>http://www.ohloh.net/p/taverna</html_url>
+      <created_at>2007-09-18T19:08:17Z</created_at>
+      <updated_at>2013-07-13T17:39:32Z</updated_at>
+      <description>The Taverna project aims to provide a language and software tools to facilitate easy use of workflow and distributed compute technology within the eScience community.</description>
+      <homepage_url>http://www.taverna.org.uk/</homepage_url>
+      <download_url>http://www.taverna.org.uk/download/</download_url>
+      <url_name>taverna</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42422/taverna-wheel-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42422/taverna-wheel-logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.6</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550155</analysis_id>
+      <tags>
+        <tag>rest</tag>
+        <tag>escience</tag>
+        <tag>workflow</tag>
+        <tag>workbench</tag>
+        <tag>bioinformatics</tag>
+        <tag>grid</tag>
+        <tag>taverna</tag>
+        <tag>wsdl</tag>
+        <tag>biomoby</tag>
+        <tag>workflows</tag>
+        <tag>webservices</tag>
+        <tag>provenance</tag>
+      </tags>
+      <analysis>
+        <id>14550155</id>
+        <url>http://www.ohloh.net/analyses/14550155.xml</url>
+        <project_id>8580</project_id>
+        <updated_at>2013-07-06T12:48:30Z</updated_at>
+        <logged_at>2013-07-06T12:40:21Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>499202</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/taverna/analyses/14550155/languages.png">
+          <language color="9A63AD" percentage="72" id="5">
+Java          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

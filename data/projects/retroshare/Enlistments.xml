@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>21013</id>
+      <project_id>5035</project_id>
+      <repository_id>20311</repository_id>
+      <repository>
+        <id>20311</id>
+        <type>SvnSyncRepository</type>
+        <url>https://retroshare.svn.sourceforge.net/svnroot/retroshare/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T20:21:28Z</logged_at>
+        <commits>4772</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>526160</id>
+      <project_id>5035</project_id>
+      <repository_id>528697</repository_id>
+      <repository>
+        <id>528697</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.code.sf.net/p/retroshare/code/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T20:17:51Z</logged_at>
+        <commits>5196</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

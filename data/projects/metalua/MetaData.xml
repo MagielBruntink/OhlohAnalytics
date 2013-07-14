@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>359488</id>
+      <name>Metalua</name>
+      <url>http://www.ohloh.net/p/metalua.xml</url>
+      <html_url>http://www.ohloh.net/p/metalua</html_url>
+      <created_at>2009-08-05T19:30:30Z</created_at>
+      <updated_at>2013-06-25T19:46:20Z</updated_at>
+      <description>Metalua is a language and a compiler which provide:
+
+    * Full compatibility with Lua 5.1 sources and bytecode: clean, elegant semantics and syntax, amazing expressive power, good performances, near-universal portability.
+
+    * A complete macro system, similar in power to what's offfered by Lisp dialects or Template Haskell; manipulated programs can be seen as source code, as abstract syntax trees, or as an arbitrary mix thereof, whichever suits your task better.
+
+    * A dynamically extensible parser, which lets you support your macros with a syntax that blends nicely with the rest of the language.
+
+    * A set of language extensions, all implemented as regular metalua macros.</description>
+      <homepage_url>http://metalua.luaforge.net/</homepage_url>
+      <download_url>http://metalua.luaforge.net/download.html</download_url>
+      <url_name>metalua</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408197</analysis_id>
+      <analysis>
+        <id>14408197</id>
+        <url>http://www.ohloh.net/analyses/14408197.xml</url>
+        <project_id>359488</project_id>
+        <updated_at>2013-07-13T18:43:13Z</updated_at>
+        <logged_at>2013-07-13T18:43:06Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9261</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/metalua/analyses/14408197/languages.png">
+          <language color="A42E00" percentage="57" id="27">
+Lua          </language>
+          <language color="000080" percentage="41" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

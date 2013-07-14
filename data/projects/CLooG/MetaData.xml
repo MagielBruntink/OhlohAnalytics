@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>296464</id>
+      <name>CLooG</name>
+      <url>http://www.ohloh.net/p/CLooG.xml</url>
+      <html_url>http://www.ohloh.net/p/CLooG</html_url>
+      <created_at>2009-01-23T12:56:10Z</created_at>
+      <updated_at>2013-07-13T05:43:50Z</updated_at>
+      <description>CLooG is a free software and library to generate code for scanning Z-polyhedra. That is, it finds a code (e.g. in C, FORTRAN...) that reaches each integral point of one or more parameterized polyhedra. CLooG has been originally written to solve the code generation problem for optimizing compilers based on the polytope model. Nevertheless it is used now in various area e.g. to build control automata for high-level synthesis or to find the best polynomial approximation of a function. CLooG may help in any situation where scanning polyhedra matters. While the user has full control on generated code quality, CLooG is designed to avoid control overhead and to produce a very effective code.</description>
+      <homepage_url>http://cloog.org/</homepage_url>
+      <download_url>http://www.bastoul.net/cloog/download.php</download_url>
+      <url_name>CLooG</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14616237</analysis_id>
+      <tags>
+        <tag>polyhedra</tag>
+        <tag>optimization</tag>
+        <tag>code_generator</tag>
+        <tag>math</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>14616237</id>
+        <url>http://www.ohloh.net/analyses/14616237.xml</url>
+        <project_id>296464</project_id>
+        <updated_at>2013-07-13T05:43:50Z</updated_at>
+        <logged_at>2013-07-13T05:43:27Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>10749</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/CLooG/analyses/14616237/languages.png">
+          <language color="FF8F00" percentage="87" id="42">
+C          </language>
+          <language color="EEE" percentage="12" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

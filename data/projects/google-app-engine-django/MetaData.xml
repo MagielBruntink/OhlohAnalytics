@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19937</id>
+      <name>google-app-engine-django</name>
+      <url>http://www.ohloh.net/p/google-app-engine-django.xml</url>
+      <html_url>http://www.ohloh.net/p/google-app-engine-django</html_url>
+      <created_at>2008-10-07T12:46:40Z</created_at>
+      <updated_at>2013-07-01T02:28:56Z</updated_at>
+      <description>This project provides a helper that eases the process of creating a Django project to run on the Google App Engine. 
+
+The helper currently provides: 
+
+The ability to use most manage.py commands A BaseModel class that appears the same as the standard Django Model class. The ability to serialize and deserialize model instances to JSON, YAML and XML. Access to Django's test framework with a test datastore and support for fixtures. The ability to send email via the App Engine mail API using the standard Django mail functions. An App Engine compatible implementation of the Django authentication framework. Only users are supported at this time. Group and Permission support is not implemented. Support for the Django memcache cache backend module. Support for the db and cache session backed modules when using Django 1.0 alpha. 
+
+This is an initial release of the helper and we look forward to working with the community to extend the functionality it provides. 
+
+For more details and to get started please refer to the  introductory article or the README. 
+
+If you are upgrading from an earlier version of the Google App Engine Helper for Django you may be interested in the list of recent CHANGES. 
+
+To Submit Your Patch to the helperTo submit a patch to the helper 
+
+Locate or Create a bug for the issue you wish to patch Post the code for the patch in the issue If the patch is accepted, we'll mark it as such (set the status as Patch-Accepted) When the version of the helper with your accepted patch is released, we'll mark the issue as Fixed-Patch  To Submit a Feature or IssueTo submit a feature: 
+
+Check if the feature already exists in the issue tracker If it does, star the issue If you have additional clarification, add that to the comments If the feature does not exist, file a new feature including a description of the desired functionality  To submit a potential issue: 
+
+Check to see if the issue exists If it does, star the issue If you have additional information on the issue, add that to the bug  If the issue does not exist File the issue. Please include as much specific detail as possible when reporting the bug. Include any stack trace that you see, and if appropriate screenshots of the observed behavior</description>
+      <homepage_url>http://code.google.com/p/google-app-engine-django</homepage_url>
+      <download_url></download_url>
+      <url_name>google-app-engine-django</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13562/appengine-library-grey-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13562/appengine-library-grey-64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14490348</analysis_id>
+      <tags>
+        <tag>appengine</tag>
+        <tag>google</tag>
+      </tags>
+      <analysis>
+        <id>14490348</id>
+        <url>http://www.ohloh.net/analyses/14490348.xml</url>
+        <project_id>19937</project_id>
+        <updated_at>2013-07-11T12:16:05Z</updated_at>
+        <logged_at>2013-07-11T12:16:02Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1732</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/google-app-engine-django/analyses/14490348/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

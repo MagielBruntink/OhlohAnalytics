@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8848</id>
+      <name>GNS3</name>
+      <url>http://www.ohloh.net/p/gns-3.xml</url>
+      <html_url>http://www.ohloh.net/p/gns-3</html_url>
+      <created_at>2007-09-30T09:14:21Z</created_at>
+      <updated_at>2013-07-06T03:17:16Z</updated_at>
+      <description>GNS3 is a graphical network simulator that allows you to easily design   network topologies and then run simulations on it. At the moment GNS3 supports IOS routers, ATM/Frame Relay/Ethernet switches and Hubs, you can even extend your own network by connecting it to your virtual topology. GNS3 is base on Dynamips and Dynagen.</description>
+      <homepage_url>http://www.gns3.net/</homepage_url>
+      <download_url>http://www.gns3.net/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=3</download_url>
+      <url_name>gns-3</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14545675</analysis_id>
+      <analysis>
+        <id>14545675</id>
+        <url>http://www.ohloh.net/analyses/14545675.xml</url>
+        <project_id>8848</project_id>
+        <updated_at>2013-07-06T03:17:15Z</updated_at>
+        <logged_at>2013-07-06T03:03:15Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>496448</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gns-3/analyses/14545675/languages.png">
+          <language color="4A246B" percentage="63" id="9">
+Python          </language>
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

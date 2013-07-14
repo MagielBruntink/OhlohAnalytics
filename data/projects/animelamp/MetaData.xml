@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26101</id>
+      <name>Animelamp</name>
+      <url>http://www.ohloh.net/p/animelamp.xml</url>
+      <html_url>http://www.ohloh.net/p/animelamp</html_url>
+      <created_at>2008-11-07T17:46:19Z</created_at>
+      <updated_at>2013-06-21T22:52:18Z</updated_at>
+      <description>Anime database manager</description>
+      <homepage_url>http://home.gna.org/animelamp/</homepage_url>
+      <download_url>http://home.gna.org/animelamp/download.html</download_url>
+      <url_name>animelamp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14332408</analysis_id>
+      <analysis>
+        <id>14332408</id>
+        <url>http://www.ohloh.net/analyses/14332408.xml</url>
+        <project_id>26101</project_id>
+        <updated_at>2013-07-08T05:51:48Z</updated_at>
+        <logged_at>2013-07-08T05:51:46Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2009-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15155</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/animelamp/analyses/14332408/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

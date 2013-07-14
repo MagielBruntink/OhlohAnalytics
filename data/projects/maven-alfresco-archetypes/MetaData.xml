@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>54201</id>
+      <name>maven-alfresco-archetypes</name>
+      <url>http://www.ohloh.net/p/maven-alfresco-archetypes.xml</url>
+      <html_url>http://www.ohloh.net/p/maven-alfresco-archetypes</html_url>
+      <created_at>2008-12-17T00:30:19Z</created_at>
+      <updated_at>2013-07-11T04:37:30Z</updated_at>
+      <description>Alfresco is the Open Source Alternative for Enterprise Content Management (ECM), providing Document Management, Collaboration, Records Management, Knowledge Management, Web Content Management and Imaging. 
+
+Fancy working with Alfresco ECM or contributing to it, but don't want to waste way too much time in googling ?  
+
+Then, you are in the right place. Just embrace maven :) 
+
+Alfresco still bases its customizations on custom Ant builds and a hardly manageable and extensible SDK. This consideration makes it definitely not of easy penetration in two very important contexts like: 
+
+- Enterprise processes : being ECM Alfresco should ship enterprise process level lifecycle management for its modules, with features like dependency management, properties filtering, documentation, release, central</description>
+      <homepage_url>http://code.google.com/p/maven-alfresco-archetypes</homepage_url>
+      <download_url>http://code.google.com/p/maven-alfresco-archetypes/downloads/list</download_url>
+      <url_name>maven-alfresco-archetypes</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14584365</analysis_id>
+      <tags>
+        <tag>ecm</tag>
+        <tag>alm</tag>
+        <tag>alfresco</tag>
+        <tag>module</tag>
+        <tag>amp</tag>
+        <tag>applicationlifecyclemanagement</tag>
+        <tag>developmentenvironment</tag>
+        <tag>share</tag>
+        <tag>build</tag>
+        <tag>sourcesense</tag>
+        <tag>archetype</tag>
+        <tag>maven</tag>
+        <tag>sdk</tag>
+        <tag>jetty</tag>
+        <tag>extension</tag>
+      </tags>
+      <analysis>
+        <id>14584365</id>
+        <url>http://www.ohloh.net/analyses/14584365.xml</url>
+        <project_id>54201</project_id>
+        <updated_at>2013-07-11T04:37:30Z</updated_at>
+        <logged_at>2013-07-11T04:36:44Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>4238</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/maven-alfresco-archetypes/analyses/14584365/languages.png">
+          <language color="555555" percentage="90" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="9" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

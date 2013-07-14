@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9497</id>
+      <name>Pentabarf</name>
+      <url>http://www.ohloh.net/p/pentabarf.xml</url>
+      <html_url>http://www.ohloh.net/p/pentabarf</html_url>
+      <created_at>2007-11-04T15:59:26Z</created_at>
+      <updated_at>2013-06-25T20:16:14Z</updated_at>
+      <description>Pentabarf is a conference planning software written in Ruby ( using the Rails framework) and PL/pgSQL.
+
+Pentabarf supports you in the submission collection, content planning, schedule creation, feedback collection and has various exports to put these data to use in other systems.</description>
+      <homepage_url>http://pentabarf.org/</homepage_url>
+      <download_url>http://github.com/nevs/pentabarf/downloads</download_url>
+      <url_name>pentabarf</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408425</analysis_id>
+      <tags>
+        <tag>rubyonrails</tag>
+        <tag>ruby</tag>
+        <tag>postgresql</tag>
+        <tag>conference</tag>
+      </tags>
+      <analysis>
+        <id>14408425</id>
+        <url>http://www.ohloh.net/analyses/14408425.xml</url>
+        <project_id>9497</project_id>
+        <updated_at>2013-07-11T02:36:16Z</updated_at>
+        <logged_at>2013-07-11T02:36:14Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>34276</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pentabarf/analyses/14408425/languages.png">
+          <language color="493625" percentage="42" id="30">
+SQL          </language>
+          <language color="A4007E" percentage="34" id="6">
+JavaScript          </language>
+          <language color="A40011" percentage="16" id="12">
+Ruby          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

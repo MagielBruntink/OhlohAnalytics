@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5517</id>
+      <name>pjsip</name>
+      <url>http://www.ohloh.net/p/pjsip.xml</url>
+      <html_url>http://www.ohloh.net/p/pjsip</html_url>
+      <created_at>2007-05-22T11:52:04Z</created_at>
+      <updated_at>2013-07-13T17:44:14Z</updated_at>
+      <description>pjsip is a professionally supported open source comprehensive multimedia communication library based on the SIP protocol. It is integrated with a rich media and a NAT traversal library supporting the ICE protocol. It is very portable and has a small footprint for embedded use.</description>
+      <homepage_url>http://www.pjsip.org</homepage_url>
+      <download_url>http://www.pjsip.org/download.htm</download_url>
+      <url_name>pjsip</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18650/pj_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18650/pj_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14501963</analysis_id>
+      <tags>
+        <tag>ice</tag>
+        <tag>softphone</tag>
+        <tag>voip</tag>
+        <tag>sip</tag>
+      </tags>
+      <analysis>
+        <id>14501963</id>
+        <url>http://www.ohloh.net/analyses/14501963.xml</url>
+        <project_id>5517</project_id>
+        <updated_at>2013-07-02T10:32:55Z</updated_at>
+        <logged_at>2013-07-02T09:28:51Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>508989</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pjsip/analyses/14501963/languages.png">
+          <language color="FF8F00" percentage="56" id="42">
+C          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="7" id="44">
+C++          </language>
+          <language color="000000" percentage="6" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>pjsip_Standard_License</name>
+          <nice_name>pjsip Standard License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

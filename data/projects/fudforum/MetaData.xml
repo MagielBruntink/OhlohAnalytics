@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3364</id>
+      <name>FUDforum</name>
+      <url>http://www.ohloh.net/p/fudforum.xml</url>
+      <html_url>http://www.ohloh.net/p/fudforum</html_url>
+      <created_at>2006-10-25T18:15:54Z</created_at>
+      <updated_at>2013-07-13T17:25:51Z</updated_at>
+      <description>FUDforum is highly scalable and secure forum system with a large set of native features. The stock FUDforum is available in +-40 different languages, supports RSS/XML feeds, printable page generation in PDF forum. It can also seamlessly integrate with newsgroups and mailing list and serve as an archive or as a web-based gateway to them. FUDforum supports all standard forum features you'd expect and more.</description>
+      <homepage_url>http://fudforum.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/fudforum/files/</download_url>
+      <url_name>fudforum</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28210/fudlogo-trans_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28210/fudlogo-trans_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14441817</analysis_id>
+      <tags>
+        <tag>usenet</tag>
+        <tag>discussion</tag>
+        <tag>bulletin_board</tag>
+        <tag>php</tag>
+        <tag>mailing_list</tag>
+        <tag>forum</tag>
+      </tags>
+      <analysis>
+        <id>14441817</id>
+        <url>http://www.ohloh.net/analyses/14441817.xml</url>
+        <project_id>3364</project_id>
+        <updated_at>2013-07-07T01:55:42Z</updated_at>
+        <logged_at>2013-07-07T01:55:35Z</logged_at>
+        <min_month>2002-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>57063</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fudforum/analyses/14441817/languages.png">
+          <language color="356AA0" percentage="63" id="2">
+PHP          </language>
+          <language color="D2C690" percentage="26" id="8">
+Perl          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

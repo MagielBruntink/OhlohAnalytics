@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603104</id>
+      <name>rasdaman</name>
+      <url>http://www.ohloh.net/p/rasdaman.xml</url>
+      <html_url>http://www.ohloh.net/p/rasdaman</html_url>
+      <created_at>2012-07-01T11:30:11Z</created_at>
+      <updated_at>2013-07-09T19:54:04Z</updated_at>
+      <description>rasdaman (&quot;raster data manager&quot;) is a Big Data Analytics server for massive multi-dimensional arrays, such as sensor, image, and statistics data. It extends standard relational database systems with the ability to store and retrieve multi-dimensional raster data (i.e., arrays) of unlimited size through an SQL-style declarative array query language.
+
+Rasdaman is brought to you by the editors of the Open Geospatial Consortium (OGC, www.opengeospatial.org) geo raster standards, including OGC WCS (www.opengeospatial.org/standards/wcs) and  WCPS (www.opengeospatial.org/standards/wcps), the OGC raster query language. Geo service interface standards supported are OGC WMS, WCS, WCPS, and WPS. Rasdaman is OSGeo Incubator project and part of OSGeo Live (live.osgeo.org).</description>
+      <homepage_url>http://www.rasdaman.org</homepage_url>
+      <download_url>http://www.rasdaman.org</download_url>
+      <url_name>rasdaman</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54442/r-minipic_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54442/r-minipic_small.png</small_logo_url>
+      <user_count>8</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14574741</analysis_id>
+      <tags>
+        <tag>bigdata</tag>
+        <tag>analytics</tag>
+        <tag>database</tag>
+        <tag>scientificdataanalysis</tag>
+        <tag>array_processing</tag>
+        <tag>arrayquery</tag>
+      </tags>
+      <analysis>
+        <id>14574741</id>
+        <url>http://www.ohloh.net/analyses/14574741.xml</url>
+        <project_id>603104</project_id>
+        <updated_at>2013-07-09T19:54:04Z</updated_at>
+        <logged_at>2013-07-09T19:50:48Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>442450</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rasdaman/analyses/14574741/languages.png">
+          <language color="F35F1F" percentage="36" id="44">
+C++          </language>
+          <language color="A4007E" percentage="26" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="15" id="5">
+Java          </language>
+          <language color="000000" percentage="23" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

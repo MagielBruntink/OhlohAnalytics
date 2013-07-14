@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>32357</id>
+      <name>Metadata Extraction Tool</name>
+      <url>http://www.ohloh.net/p/meta-extractor.xml</url>
+      <html_url>http://www.ohloh.net/p/meta-extractor</html_url>
+      <created_at>2008-12-06T21:46:52Z</created_at>
+      <updated_at>2013-06-24T09:58:43Z</updated_at>
+      <description>The National Library of New Zealand's Metadata Extraction Tool automatically extracts preservation-related metadata from digital files, then output that metadata in XML formats. It can be used through a graphical user interface or command-line interface</description>
+      <homepage_url>http://sourceforge.net/projects/meta-extractor</homepage_url>
+      <download_url></download_url>
+      <url_name>meta-extractor</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>2.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14377069</analysis_id>
+      <analysis>
+        <id>14377069</id>
+        <url>http://www.ohloh.net/analyses/14377069.xml</url>
+        <project_id>32357</project_id>
+        <updated_at>2013-07-11T19:07:37Z</updated_at>
+        <logged_at>2013-07-11T19:07:28Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>27671</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/meta-extractor/analyses/14377069/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

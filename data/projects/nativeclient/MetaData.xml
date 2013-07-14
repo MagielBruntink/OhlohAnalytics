@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>46614</id>
+      <name>Native Client</name>
+      <url>http://www.ohloh.net/p/nativeclient.xml</url>
+      <html_url>http://www.ohloh.net/p/nativeclient</html_url>
+      <created_at>2008-12-16T02:11:58Z</created_at>
+      <updated_at>2013-07-05T11:34:21Z</updated_at>
+      <description>Native Client is an open-source technology for running native code in web applications, with the goal of maintaining the browser neutrality, OS portability, and safety that people expect from web apps. We've released this project at an early stage to get feedback from the open-source community. We believe that Native Client technology will help web developers to create richer and more dynamic browser-based applications.  
+
+Native Client runs on 32-bit x86 systems that use Windows, Vista, Mac OS X, or Linux. Some ARM and x86-64 support is implemented in the source base, and we hope to make it available for application developers later this year. 
+
+How to get involvedYou can help make Native Client as secure and useful as possible.  Here's how: 
+
+Download the Native Client distr</description>
+      <homepage_url>http://code.google.com/p/nativeclient</homepage_url>
+      <download_url></download_url>
+      <url_name>nativeclient</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14535590</analysis_id>
+      <tags>
+        <tag>compiler</tag>
+        <tag>google</tag>
+        <tag>plugin</tag>
+        <tag>browser</tag>
+        <tag>security</tag>
+        <tag>c</tag>
+        <tag>cplusplus</tag>
+      </tags>
+      <analysis>
+        <id>14535590</id>
+        <url>http://www.ohloh.net/analyses/14535590.xml</url>
+        <project_id>46614</project_id>
+        <updated_at>2013-07-05T11:34:20Z</updated_at>
+        <logged_at>2013-07-05T10:09:17Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>63</twelve_month_contributor_count>
+        <total_code_lines>4611425</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nativeclient/analyses/14535590/languages.png">
+          <language color="FF8F00" percentage="46" id="42">
+C          </language>
+          <language color="F35F1F" percentage="25" id="44">
+C++          </language>
+          <language color="EEE" percentage="9" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="20" id="">
+28 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

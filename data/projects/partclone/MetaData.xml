@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>293452</id>
+      <name>Partclone</name>
+      <url>http://www.ohloh.net/p/partclone.xml</url>
+      <html_url>http://www.ohloh.net/p/partclone</html_url>
+      <created_at>2009-01-23T04:38:18Z</created_at>
+      <updated_at>2013-07-06T16:15:13Z</updated_at>
+      <description>Partclone is a project like the well-known backup utility &quot;Partition Image&quot; a.k.a partimage. Partclone provide utilities to back up used blocks and design for higher compatibility of the file system using supported library like e2fslibs.</description>
+      <homepage_url>http://partclone.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/partclone/files/</download_url>
+      <url_name>partclone</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62854/partclone-easy-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62854/partclone-easy-logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551928</analysis_id>
+      <tags>
+        <tag>partition</tag>
+        <tag>backup</tag>
+        <tag>ufs</tag>
+        <tag>reiserfs</tag>
+        <tag>xfs</tag>
+        <tag>ext4</tag>
+        <tag>btrfs</tag>
+        <tag>fat</tag>
+        <tag>cloning</tag>
+        <tag>windows</tag>
+        <tag>ntfs</tag>
+        <tag>freebsd</tag>
+        <tag>ext2</tag>
+        <tag>mac</tag>
+        <tag>reiserfs4</tag>
+        <tag>jfs</tag>
+        <tag>ext3</tag>
+        <tag>linux</tag>
+        <tag>esx</tag>
+        <tag>vmfs</tag>
+        <tag>deployment</tag>
+        <tag>disk</tag>
+        <tag>partitioning</tag>
+      </tags>
+      <analysis>
+        <id>14551928</id>
+        <url>http://www.ohloh.net/analyses/14551928.xml</url>
+        <project_id>293452</project_id>
+        <updated_at>2013-07-13T15:56:56Z</updated_at>
+        <logged_at>2013-07-13T15:56:52Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>47878</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/partclone/analyses/14551928/languages.png">
+          <language color="FF8F00" percentage="50" id="42">
+C          </language>
+          <language color="EEE" percentage="26" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="000000" percentage="14" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

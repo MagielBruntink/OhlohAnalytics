@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479859</id>
+      <name>Virtual LDAP</name>
+      <url>http://www.ohloh.net/p/virtual-ldap.xml</url>
+      <html_url>http://www.ohloh.net/p/virtual-ldap</html_url>
+      <created_at>2009-12-13T17:51:57Z</created_at>
+      <updated_at>2013-07-13T17:48:40Z</updated_at>
+      <description>Virtual LDAP is set of perl scripts which allows you to augment data in your existing LDAP server (which you don't want to modify) using ldap-rewrite.pl (supporting rewrite of bind request, search requests and responses).
+
+Alternative usage is to expose SQL database (currently Koha database with users) to some other system as LDAP server. This supports arbitrary number of objectClass objects (one per SQL file) and allows export of groups from RDBMS to LDAP groups.</description>
+      <homepage_url>http://blog.rot13.org/virtual-ldap/</homepage_url>
+      <download_url></download_url>
+      <url_name>virtual-ldap</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14348813</analysis_id>
+      <tags>
+        <tag>dbi</tag>
+        <tag>perl</tag>
+        <tag>ldap</tag>
+      </tags>
+      <analysis>
+        <id>14348813</id>
+        <url>http://www.ohloh.net/analyses/14348813.xml</url>
+        <project_id>479859</project_id>
+        <updated_at>2013-07-09T23:33:35Z</updated_at>
+        <logged_at>2013-07-09T23:33:32Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>878</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/virtual-ldap/analyses/14348813/languages.png">
+          <language color="D2C690" percentage="93" id="8">
+Perl          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13773</id>
+      <name>Monkey HTTP Daemon</name>
+      <url>http://www.ohloh.net/p/monkey.xml</url>
+      <html_url>http://www.ohloh.net/p/monkey</html_url>
+      <created_at>2008-05-05T19:34:51Z</created_at>
+      <updated_at>2013-07-12T00:05:21Z</updated_at>
+      <description>Monkey is a Fast and Lightweight Web server written in C for Linux platform. This is an open source project based on the HTTP/1.1 protocol.</description>
+      <homepage_url>http://www.monkey-project.com</homepage_url>
+      <download_url>http://www.monkey-project.com/downloads</download_url>
+      <url_name>monkey</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32968/monkey_head_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32968/monkey_head_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14596614</analysis_id>
+      <tags>
+        <tag>lightweight</tag>
+        <tag>c</tag>
+        <tag>server</tag>
+        <tag>linux</tag>
+        <tag>webserver</tag>
+        <tag>http_server</tag>
+        <tag>httpd</tag>
+        <tag>fast</tag>
+        <tag>http</tag>
+      </tags>
+      <analysis>
+        <id>14596614</id>
+        <url>http://www.ohloh.net/analyses/14596614.xml</url>
+        <project_id>13773</project_id>
+        <updated_at>2013-07-12T00:05:20Z</updated_at>
+        <logged_at>2013-07-12T00:04:59Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>17745</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/monkey/analyses/14596614/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

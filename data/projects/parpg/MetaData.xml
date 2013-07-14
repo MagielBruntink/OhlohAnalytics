@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>316030</id>
+      <name>Post-Apocalyptic RPG</name>
+      <url>http://www.ohloh.net/p/parpg.xml</url>
+      <html_url>http://www.ohloh.net/p/parpg</html_url>
+      <created_at>2009-02-16T11:01:25Z</created_at>
+      <updated_at>2013-06-25T14:09:11Z</updated_at>
+      <description>PARPG is a post-apocalyptic roleplaying game in early planning stages.
+
+We&#8217;ve agreed on the following key elements:
+ * Singleplayer RPG. No plans for multiplayer support. Coop gameplay not a priority.
+ * Post-apocalyptic setting. Story, setting and game mechanics details are yet to be discussed.
+ * Written in Python (2.x branch). Utilizing the FIFE game engine.
+ * Isometric 2d graphics instead of going for full 3d engine complexity.
+ * Open source code and asset licensing.
+ * Non-profit. The game and all tools will be free of charge for everyone.
+ * Open development philosophy. Public development wiki, forums and HG repository.
+ * Meaningful choices and consequences. Multiple paths to complete quests, including non-violent ways.
+ * Tactical, turnbased combat.
+ * Well-written dialogue.</description>
+      <homepage_url>http://www.parpg.net</homepage_url>
+      <download_url>http://wiki.parpg.net/Download</download_url>
+      <url_name>parpg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15702/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15702/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14404440</analysis_id>
+      <tags>
+        <tag>role_playing_game</tag>
+        <tag>turn-based</tag>
+        <tag>post-apocalyptic</tag>
+        <tag>singleplayer</tag>
+        <tag>2d</tag>
+        <tag>game</tag>
+        <tag>rpg</tag>
+        <tag>retro</tag>
+        <tag>role-playing</tag>
+        <tag>planescape</tag>
+        <tag>winter</tag>
+        <tag>torment</tag>
+        <tag>fife</tag>
+        <tag>arcanum</tag>
+        <tag>fallout</tag>
+        <tag>crpg</tag>
+        <tag>nuclear</tag>
+        <tag>isometric</tag>
+      </tags>
+      <analysis>
+        <id>14404440</id>
+        <url>http://www.ohloh.net/analyses/14404440.xml</url>
+        <project_id>316030</project_id>
+        <updated_at>2013-07-06T17:34:56Z</updated_at>
+        <logged_at>2013-07-06T17:27:06Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>207036</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/parpg/analyses/14404440/languages.png">
+          <language color="555555" percentage="91" id="3">
+XML          </language>
+          <language color="4A246B" percentage="9" id="9">
+Python          </language>
+          <language color="000000" percentage="&lt;1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>ccbysa3-0</name>
+          <nice_name>Creative Commons Attribution Share Alike 3.0</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

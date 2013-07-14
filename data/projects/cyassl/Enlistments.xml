@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>505481</id>
+      <project_id>308845</project_id>
+      <repository_id>506464</repository_id>
+      <repository>
+        <id>506464</id>
+        <type>GitRepository</type>
+        <url>git://github.com/cyassl/cyassl.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-11-06T19:14:25Z</logged_at>
+        <commits>741</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>51976</id>
+      <project_id>308845</project_id>
+      <repository_id>50629</repository_id>
+      <repository>
+        <id>50629</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@yassl.cvs.sourceforge.net:/cvsroot/yassl</url>
+        <module_name>cyassl</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2012-09-13T10:15:20Z</logged_at>
+        <commits>198</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

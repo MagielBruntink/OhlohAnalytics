@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>149338</id>
+      <name>&#956;Manager</name>
+      <url>http://www.ohloh.net/p/micro-manager.xml</url>
+      <html_url>http://www.ohloh.net/p/micro-manager</html_url>
+      <created_at>2009-01-13T12:46:17Z</created_at>
+      <updated_at>2013-07-06T23:21:43Z</updated_at>
+      <description>&#956;Manager controls digital cameras, motorized microscopes, shutters, stages, filter wheels, and other microscope related hardware. This software control enables microscopists to automate complex image acquisition approaches in an easy way. In addition, the &#956;Manager software has a number of programmatic interfaces that give scientists access to all relevant components of their microscope setup, enabling almost unlimited extensions to the base software. &#956;Manager runs on Windows, Mac and Linux, has a central core and pluggable device interface written in C++ and a GUI written in Java.  Its API can be accessed from many different environments, the most popular being Matlab.  It supports a large number of microscope related hardware devices.</description>
+      <homepage_url>http://www.micro-manager.org/</homepage_url>
+      <download_url>http://www.micro-manager.org/downloads.php</download_url>
+      <url_name>micro-manager</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19394/MicroManager_med.icns</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19394/MicroManager_small.icns</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14557065</analysis_id>
+      <analysis>
+        <id>14557065</id>
+        <url>http://www.ohloh.net/analyses/14557065.xml</url>
+        <project_id>149338</project_id>
+        <updated_at>2013-07-06T23:21:43Z</updated_at>
+        <logged_at>2013-07-06T23:12:12Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>383882</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/micro-manager/analyses/14557065/languages.png">
+          <language color="F35F1F" percentage="56" id="44">
+C++          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

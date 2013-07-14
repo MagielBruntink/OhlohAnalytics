@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>114488</id>
+      <name>Webistrano</name>
+      <url>http://www.ohloh.net/p/Webistrano.xml</url>
+      <html_url>http://www.ohloh.net/p/Webistrano</html_url>
+      <created_at>2008-12-28T10:34:15Z</created_at>
+      <updated_at>2011-03-25T10:23:54Z</updated_at>
+      <description>Webistrano is a Web UI for managing Capistrano deployments. It lets you manage projects and their stages like test, production, and staging with different settings. Those stages can then be deployed with Capistrano through Webistrano.
+
+Webistrano's purpose is to make the deployment of multi-stage and multi-environment scenarios easy. Further it allows you to track who deployed what, when to which servers and be alerted by email on each deployment.</description>
+      <homepage_url>http://labs.peritor.com/webistrano</homepage_url>
+      <download_url>http://labs.peritor.com/webistrano/wiki/Download</download_url>
+      <url_name>Webistrano</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12010/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12010/logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1806956</analysis_id>
+      <tags>
+        <tag>deployment</tag>
+        <tag>capistrano</tag>
+        <tag>ruby_on_rails</tag>
+        <tag>rubyonrails</tag>
+      </tags>
+      <analysis>
+        <id>1806956</id>
+        <url>http://www.ohloh.net/analyses/1806956.xml</url>
+        <project_id>114488</project_id>
+        <updated_at>2011-03-25T10:23:54Z</updated_at>
+        <logged_at>2010-03-31T07:30:33Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>158261</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Webistrano/analyses/1806956/languages.png">
+          <language color="A40011" percentage="88" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="12" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="&lt;1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

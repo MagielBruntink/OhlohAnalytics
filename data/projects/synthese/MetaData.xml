@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487186</id>
+      <name>SYNTHESE</name>
+      <url>http://www.ohloh.net/p/synthese.xml</url>
+      <html_url>http://www.ohloh.net/p/synthese</html_url>
+      <created_at>2010-12-23T21:28:56Z</created_at>
+      <updated_at>2013-07-06T01:30:23Z</updated_at>
+      <description>Public transportation server :
+ - network modelling
+ - passenger information
+ - DRT reservation
+ - CMS
+ - real time data update
+ - operations optimization</description>
+      <homepage_url>https://extranet.rcsmobility.com/projects/synthese</homepage_url>
+      <download_url>https://extranet.rcsmobility.com/projects/synthese/repository</download_url>
+      <url_name>synthese</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39895/synthese-carre-160_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39895/synthese-carre-160_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14544690</analysis_id>
+      <tags>
+        <tag>vdv</tag>
+        <tag>rail</tag>
+        <tag>transportation</tag>
+        <tag>public</tag>
+        <tag>schedule</tag>
+        <tag>train</tag>
+        <tag>cms</tag>
+        <tag>timetable</tag>
+        <tag>transit</tag>
+        <tag>c++</tag>
+        <tag>bus</tag>
+        <tag>gtfs</tag>
+        <tag>transport</tag>
+      </tags>
+      <analysis>
+        <id>14544690</id>
+        <url>http://www.ohloh.net/analyses/14544690.xml</url>
+        <project_id>487186</project_id>
+        <updated_at>2013-07-06T01:30:23Z</updated_at>
+        <logged_at>2013-07-06T01:21:12Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>290631</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/synthese/analyses/14544690/languages.png">
+          <language color="F35F1F" percentage="84" id="44">
+C++          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="11" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486411</id>
+      <name>OpenTSDB</name>
+      <url>http://www.ohloh.net/p/opentsdb.xml</url>
+      <html_url>http://www.ohloh.net/p/opentsdb</html_url>
+      <created_at>2010-11-09T08:21:19Z</created_at>
+      <updated_at>2013-07-13T05:08:34Z</updated_at>
+      <description>OpenTSDB is a distributed, scalable Time Series Database (TSDB) written on top of HBase. OpenTSDB was written to address a common need: store, index and serve metrics collected from computer systems (network gear, operating systems, applications) at a large scale, and make this data easily accessible and graphable.
+
+Thanks to HBase's scalability, OpenTSDB allows you to collect many thousands of metrics from thousands of hosts and applications, at a high rate (every few seconds). OpenTSDB will never delete or downsample data and can easily store billions of data points.</description>
+      <homepage_url>http://opentsdb.net</homepage_url>
+      <download_url>http://code.google.com/p/opentsdb/downloads/detail?name=opentsdb-1.0.0.tar.gz</download_url>
+      <url_name>opentsdb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14615441</analysis_id>
+      <tags>
+        <tag>capacity_planning</tag>
+        <tag>timeseries</tag>
+        <tag>monitoring_tools</tag>
+        <tag>monitoring</tag>
+        <tag>distributed_monitoring</tag>
+        <tag>system_administration</tag>
+      </tags>
+      <analysis>
+        <id>14615441</id>
+        <url>http://www.ohloh.net/analyses/14615441.xml</url>
+        <project_id>486411</project_id>
+        <updated_at>2013-07-13T05:08:34Z</updated_at>
+        <logged_at>2013-07-13T05:08:22Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>12402</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opentsdb/analyses/14615441/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="000000" percentage="11" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

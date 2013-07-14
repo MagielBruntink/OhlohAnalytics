@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483912</id>
+      <name>miless</name>
+      <url>http://www.ohloh.net/p/miless.xml</url>
+      <html_url>http://www.ohloh.net/p/miless</html_url>
+      <created_at>2010-07-07T09:23:57Z</created_at>
+      <updated_at>2013-07-06T21:35:37Z</updated_at>
+      <description>MILESS - The Essen Digital Library
+
+MILESS is an institutional content repository developed at the university of Duisburg-Essen. It can be used to manage and archive electronic publications and thesis papers, but also multimedia learning and teaching material like animations, simulations, audio and video files. In this way, users are provided with a uniform and systematic access to scripts, foils and other digital documents that are archived and permanently made available in the repository. To accomplish this, MILESS not only manages descriptive metadata using the Dublin Core standard, but also stores the associated files in its own internal structure, so that availability for preparation or direct use within a lecture can be guaranteed.
+
+Users can find content using various search masks, browsing the organizational structure or hierarchical scientific classifications, or using a A-Z index of creator and publisher names. Access to every document or single file is also possible using a direct URL or unique ID. MILESS manages any type of files. All file collections can be downloaded as zip archives that automatically are created on demand. Authors can ingest and edit their documents and files at every time from every place using an easy-to-use web interface.
+
+MILESS supports the Open Archives initiative and its metadata harvesting protocol (OAI-PMH 2.0). Using the OAI data provider interface, both metadata and content of thesis papers and other publications are distributed, collected by OAI service providers world-wide and become available in the scientific world. MILESS supports the national OAI profiles XMetaDiss and XEpicur, which is an interface to the german national library, the Deutsche Nationalbibliothek. Furthermore, a direct access for search engine robots is implemented, through which content can be indexed and found by internet search engines like google. MILESS also has an interface based on web services standards that can be used to search, manage and retrieve content and integrate MILESS with third-party systems.
+
+New in version 2.1:
+
+    * Web Services to integrate MILESS with third party systems, for example learning management software: Creating, managing, uploading and querying content using SOAP interfaces
+    * SCORM content package archiving: Search in the metadata of e-learning packages, integrated SCORM viewer
+    * Support for persistent identifiers (URNs, urn:nbn:de) for e-publications and automated notification of Deutsche Nationalbibliothek using email or OAI interfaces
+    * Workflow for realease of e-publications: self-archiving and self-publishing
+    * Animated tutorials for authors: simply see how it can be done
+    * Individual access statistics for every document: How is your material being used?
+    * Online-WYSIWYG-HTML-editor for Semesterapparate
+
+New in Version 2.9:
+
+    * the support of different authentication systems. In addition to the local authentication an interface with CAS (Central Authentication Service) is implemented and with it a single sign-on..
+    * a completely new user- and right- administration with a new user interface is implemented.
+    * improved adaptability to the own layout by revised HTML and CSS. Thereby the accessibility is increased.
+    * constant multilingualism in the web interface 
+
+System requirement and attended software
+
+    * Operating system:
+      MILESS runs on all operating systems with available Java Development Kit (JDK). For example: Sun Solaris 9 or higher, Windows 7/Vista/XP and Suse / Red Hat Linux.
+    * Database:
+      You need a relational data base system, which features a JDBC interface (Java DATA base Connectivity). MILESS was tried and tested with MySQL 4,0 or higher and IBM DB2 8,2 or higher. In principle the software runs with small modifications also with every other data base.
+    * Java:
+      You need a Java 6 SDK, Standard Edition or higher. That means a Java compiler must be installed. You can download the compiler for free of charge from the Sun website.
+    * Apache Ant:
+      For installation the Java-Built-Tool Apache Ant 1.7.1 or higher is needed. You can download the tool also free of charge.
+    * Servlet Container:
+      MILESS is a Java-Servlet-application; therefore you need a Servlet Container like Apache Tomcat 6.0 (recommended). You can use other Servlet Container like IBM WebSphere or Jetty, too. Apache Tomcat is robust, stable and free.
+    * Web server (optional):
+      It has miscellaneous benefits for production plant, if a web server like Apache Webserver 2.2 (recommended) is put in front of the Tomcat Servlet Container as &quot;Reverse Proxy&quot;.
+    * Video Streaming Server (optional):
+      If you conduct a Real Server 8 or Helix Universal Server 9 or higher, MILESS can save and stream audio and video data automatically and transparently for users.</description>
+      <homepage_url>http://duepublico.uni-duisburg-essen.de/</homepage_url>
+      <download_url>http://duepublico.uni-duisburg-essen.de/about/nachnutzung.xml</download_url>
+      <url_name>miless</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35125/miless_logo_hochaufl_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35125/miless_logo_hochaufl_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14555527</analysis_id>
+      <tags>
+        <tag>mycore</tag>
+        <tag>repositorysoftware</tag>
+        <tag>xslt</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14555527</id>
+        <url>http://www.ohloh.net/analyses/14555527.xml</url>
+        <project_id>483912</project_id>
+        <updated_at>2013-07-06T21:35:37Z</updated_at>
+        <logged_at>2013-07-06T21:28:22Z</logged_at>
+        <min_month>2000-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>217746</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/miless/analyses/14555527/languages.png">
+          <language color="A4007E" percentage="55" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="13" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="20" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

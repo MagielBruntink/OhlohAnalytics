@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>55386</id>
+      <project_id>321090</project_id>
+      <repository_id>53929</repository_id>
+      <repository>
+        <id>53929</id>
+        <type>HgRepository</type>
+        <url>http://hg.gsnedders.com/anolis/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T09:42:32Z</logged_at>
+        <commits>312</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>241011</id>
+      <project_id>321090</project_id>
+      <repository_id>238686</repository_id>
+      <repository>
+        <id>238686</id>
+        <type>HgRepository</type>
+        <url>https://ms2ger@bitbucket.org/ms2ger/anolis</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T09:42:24Z</logged_at>
+        <commits>444</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>600215</id>
+      <name>opam</name>
+      <url>http://www.ohloh.net/p/opam.xml</url>
+      <html_url>http://www.ohloh.net/p/opam</html_url>
+      <created_at>2012-05-30T20:47:06Z</created_at>
+      <updated_at>2013-07-05T15:03:01Z</updated_at>
+      <description>OCaml Package Manager</description>
+      <homepage_url>https://github.com/OCamlPro/opam</homepage_url>
+      <download_url>https://github.com/OCamlPro/opam/downloads</download_url>
+      <url_name>opam</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14538061</analysis_id>
+      <analysis>
+        <id>14538061</id>
+        <url>http://www.ohloh.net/analyses/14538061.xml</url>
+        <project_id>600215</project_id>
+        <updated_at>2013-07-05T15:03:01Z</updated_at>
+        <logged_at>2013-07-05T14:56:58Z</logged_at>
+        <min_month>2012-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>35</twelve_month_contributor_count>
+        <total_code_lines>51786</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opam/analyses/14538061/languages.png">
+          <language color="47A400" percentage="55" id="1">
+HTML          </language>
+          <language color="EEE" percentage="29" id="61">
+Objective Caml          </language>
+          <language color="EEE" percentage="11" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

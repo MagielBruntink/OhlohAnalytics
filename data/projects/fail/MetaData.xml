@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347237</id>
+      <name>FAIL</name>
+      <url>http://www.ohloh.net/p/fail.xml</url>
+      <html_url>http://www.ohloh.net/p/fail</html_url>
+      <created_at>2009-06-17T05:17:00Z</created_at>
+      <updated_at>2013-07-11T18:49:33Z</updated_at>
+      <description>First Atari Image Library decodes Atari 8-bit, Atari ST, Atari Falcon and Atari Portfolio picture formats. The project contains a simple viewer, plug-ins for general-purpose image viewers and editors, and an everything-to-png converter.</description>
+      <homepage_url>http://fail.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=258474</download_url>
+      <url_name>fail</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27922/faileye_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27922/faileye_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14592795</analysis_id>
+      <tags>
+        <tag>8-bit</tag>
+        <tag>graphics</tag>
+        <tag>graphics_conversion</tag>
+        <tag>atari</tag>
+        <tag>image</tag>
+      </tags>
+      <analysis>
+        <id>14592795</id>
+        <url>http://www.ohloh.net/analyses/14592795.xml</url>
+        <project_id>347237</project_id>
+        <updated_at>2013-07-11T18:49:32Z</updated_at>
+        <logged_at>2013-07-11T18:47:57Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3199</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fail/analyses/14592795/languages.png">
+          <language color="FF8F00" percentage="61" id="42">
+C          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="12" id="44">
+C++          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597513</id>
+      <name>notion</name>
+      <url>http://www.ohloh.net/p/notion.xml</url>
+      <html_url>http://www.ohloh.net/p/notion</html_url>
+      <created_at>2012-04-25T09:46:43Z</created_at>
+      <updated_at>2013-07-01T05:23:05Z</updated_at>
+      <description>Notion is a tiling, tabbed window manager for the X window system:
+   
+* Tiling: you divide the screen into non-overlapping 'tiles'. Every window occupies one tile, and is maximized to it    
+* Tabbing: a tile may contain multiple windows - they will be 'tabbed'    
+* Static: most tiled window managers are 'dynamic', meaning they automatically resize and move around tiles as windows appear and disappear. Notion, by contrast, does not automatically change the tiling. You're in control.    
+
+Features include:    
+* Workspaces: each workspace has its own tiling    
+* Multihead: the mod_xinerama plugin provides very nice dual-monitor support    
+* RandR: mod_xrandr expands on mod_xinerama and picks up changes in the randr configuration without the need for restarting Notion</description>
+      <homepage_url>http://notion.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=314802</download_url>
+      <url_name>notion</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14492047</analysis_id>
+      <tags>
+        <tag>xwindows</tag>
+        <tag>window-manager</tag>
+        <tag>tiling</tag>
+        <tag>x-window</tag>
+        <tag>wm</tag>
+        <tag>x11</tag>
+        <tag>window_manager</tag>
+        <tag>lua</tag>
+        <tag>c</tag>
+        <tag>windowmanager</tag>
+        <tag>tiling_window_manager</tag>
+        <tag>xwindow</tag>
+        <tag>x</tag>
+        <tag>window_managers</tag>
+        <tag>frames</tag>
+        <tag>windowmanagers</tag>
+        <tag>framing_window_manager</tag>
+      </tags>
+      <analysis>
+        <id>14492047</id>
+        <url>http://www.ohloh.net/analyses/14492047.xml</url>
+        <project_id>597513</project_id>
+        <updated_at>2013-07-12T02:36:47Z</updated_at>
+        <logged_at>2013-07-12T02:33:25Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>74244</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/notion/analyses/14492047/languages.png">
+          <language color="FF8F00" percentage="65" id="42">
+C          </language>
+          <language color="A42E00" percentage="22" id="27">
+Lua          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

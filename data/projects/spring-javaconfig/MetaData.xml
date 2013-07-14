@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26788</id>
+      <name>Spring JavaConfig</name>
+      <url>http://www.ohloh.net/p/spring-javaconfig.xml</url>
+      <html_url>http://www.ohloh.net/p/spring-javaconfig</html_url>
+      <created_at>2008-11-17T03:23:52Z</created_at>
+      <updated_at>2013-06-25T12:04:06Z</updated_at>
+      <description>The Spring Java Configuration project (JavaConfig for short) provides a type-safe, pure-Java option for configuring the Spring IoC container. While XML is a widely-used configuration approach, Spring's versatility and metadata-based internal handling of bean definitions means alternatives to XML config are easy to implement.</description>
+      <homepage_url>http://springframework.org/javaconfig</homepage_url>
+      <download_url>http://www.springsource.com/download/community?project=Spring%20JavaConfig</download_url>
+      <url_name>spring-javaconfig</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14402297</analysis_id>
+      <analysis>
+        <id>14402297</id>
+        <url>http://www.ohloh.net/analyses/14402297.xml</url>
+        <project_id>26788</project_id>
+        <updated_at>2013-07-11T08:36:08Z</updated_at>
+        <logged_at>2013-07-11T08:36:00Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>22321</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/spring-javaconfig/analyses/14402297/languages.png">
+          <language color="9A63AD" percentage="67" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

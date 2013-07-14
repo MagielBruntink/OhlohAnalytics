@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>30566</id>
+      <name>GNU Gatekeeper (GnuGk)</name>
+      <url>http://www.ohloh.net/p/openh323gk.xml</url>
+      <html_url>http://www.ohloh.net/p/openh323gk</html_url>
+      <created_at>2008-12-06T14:55:25Z</created_at>
+      <updated_at>2013-07-04T00:22:42Z</updated_at>
+      <description>The GNU Gatekeeper (GnuGk) is a full featured H.323 gatekeeper under GPL license. It supports VoIP and videoconferencing and includes Radius and database support and many call routing functions.</description>
+      <homepage_url>http://www.gnugk.org</homepage_url>
+      <download_url>http://www.gnugk.org/h323download.html</download_url>
+      <url_name>openh323gk</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26928/logo_90x90_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26928/logo_90x90_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14519565</analysis_id>
+      <tags>
+        <tag>conferencing</tag>
+        <tag>voip</tag>
+        <tag>h323</tag>
+        <tag>internet_phone</tag>
+        <tag>telephony</tag>
+      </tags>
+      <analysis>
+        <id>14519565</id>
+        <url>http://www.ohloh.net/analyses/14519565.xml</url>
+        <project_id>30566</project_id>
+        <updated_at>2013-07-04T00:22:42Z</updated_at>
+        <logged_at>2013-07-04T00:05:12Z</logged_at>
+        <min_month>2000-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>76345</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openh323gk/analyses/14519565/languages.png">
+          <language color="F35F1F" percentage="72" id="44">
+C++          </language>
+          <language color="EEE" percentage="8" id="51">
+Autoconf          </language>
+          <language color="9A63AD" percentage="5" id="5">
+Java          </language>
+          <language color="000000" percentage="15" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

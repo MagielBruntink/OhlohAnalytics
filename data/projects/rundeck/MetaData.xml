@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584876</id>
+      <name>Rundeck</name>
+      <url>http://www.ohloh.net/p/rundeck.xml</url>
+      <html_url>http://www.ohloh.net/p/rundeck</html_url>
+      <created_at>2011-07-02T21:21:58Z</created_at>
+      <updated_at>2013-07-01T07:14:17Z</updated_at>
+      <description>RunDeck is cross-platform open source software that helps you automate ad-hoc and routine procedures in data center or cloud environments. RunDeck allows you to run tasks on any number of nodes from a web-based or command-line interface. RunDeck also includes other features that make it easy to scale up your scripting efforts including: access control, workflow building, scheduling, logging, and integration with external sources for node and option data.</description>
+      <homepage_url>http://rundeck.org</homepage_url>
+      <download_url>http://rundeck.org/downloads.html</download_url>
+      <url_name>rundeck</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45150/app-logo-small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45150/app-logo-small_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14493735</analysis_id>
+      <tags>
+        <tag>orchestration</tag>
+        <tag>groovy</tag>
+        <tag>deployment</tag>
+        <tag>automation</tag>
+        <tag>job</tag>
+        <tag>scheduler</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14493735</id>
+        <url>http://www.ohloh.net/analyses/14493735.xml</url>
+        <project_id>584876</project_id>
+        <updated_at>2013-07-11T21:53:53Z</updated_at>
+        <logged_at>2013-07-11T21:53:24Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>148366</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rundeck/analyses/14493735/languages.png">
+          <language color="9A63AD" percentage="36" id="5">
+Java          </language>
+          <language color="C72C2C" percentage="24" id="29">
+Groovy          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="23" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

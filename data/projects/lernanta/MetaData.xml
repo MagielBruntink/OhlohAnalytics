@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>489347</id>
+      <name>Lernanta - P2PU Website</name>
+      <url>http://www.ohloh.net/p/lernanta.xml</url>
+      <html_url>http://www.ohloh.net/p/lernanta</html_url>
+      <created_at>2011-04-17T06:59:13Z</created_at>
+      <updated_at>2013-07-13T02:58:12Z</updated_at>
+      <description>Lernanta is the new platform for P2PU. We are building on the codebase from Batucada, a rewrite of drumbeat.org by Mozilla. Peer 2 Peer University is an open community that enables learning with and from each other.</description>
+      <homepage_url>http://p2pu.org</homepage_url>
+      <download_url>https://github.com/p2pu/lernanta</download_url>
+      <url_name>lernanta</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42995/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42995/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14613787</analysis_id>
+      <tags>
+        <tag>django</tag>
+        <tag>p2pu</tag>
+      </tags>
+      <analysis>
+        <id>14613787</id>
+        <url>http://www.ohloh.net/analyses/14613787.xml</url>
+        <project_id>489347</project_id>
+        <updated_at>2013-07-13T02:58:12Z</updated_at>
+        <logged_at>2013-07-13T02:57:05Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>217814</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lernanta/analyses/14613787/languages.png">
+          <language color="A4007E" percentage="54" id="6">
+JavaScript          </language>
+          <language color="4A246B" percentage="23" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="16" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

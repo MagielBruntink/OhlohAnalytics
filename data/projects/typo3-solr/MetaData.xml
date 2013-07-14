@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485606</id>
+      <name>Apache Solr for TYPO3</name>
+      <url>http://www.ohloh.net/p/typo3-solr.xml</url>
+      <html_url>http://www.ohloh.net/p/typo3-solr</html_url>
+      <created_at>2010-09-27T15:23:25Z</created_at>
+      <updated_at>2013-07-04T23:12:08Z</updated_at>
+      <description>Open Source Enterprise Search meets Open Source Enterprise Content Management System.
+
+A TYPO3 extension that integrates the Apache Solr enterprise search server with TYPO3.
+
+Features include 
+* User Access Groups Support
+* Multi Language Handling
+* File Indexing
+* Facetting &amp; Filters
+* Sorting
+* Field Boosting
+* Spellchecking
+* Search Word Highlighting
+* Auto Suggest
+* Multisite Support
+* Advanced Templating Engine
+* Index Reports</description>
+      <homepage_url>http://www.typo3-solr.com</homepage_url>
+      <download_url>http://typo3.org/extensions/repository/view/solr/current/</download_url>
+      <url_name>typo3-solr</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14530607</analysis_id>
+      <tags>
+        <tag>lucene</tag>
+        <tag>solr</tag>
+        <tag>search</tag>
+        <tag>t3x</tag>
+        <tag>extension</tag>
+        <tag>cms</tag>
+        <tag>forge</tag>
+        <tag>tika</tag>
+        <tag>typo3</tag>
+        <tag>php</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14530607</id>
+        <url>http://www.ohloh.net/analyses/14530607.xml</url>
+        <project_id>485606</project_id>
+        <updated_at>2013-07-04T23:12:07Z</updated_at>
+        <logged_at>2013-07-04T23:11:27Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>35</twelve_month_contributor_count>
+        <total_code_lines>21944</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/typo3-solr/analyses/14530607/languages.png">
+          <language color="356AA0" percentage="67" id="2">
+PHP          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="11" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

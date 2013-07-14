@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17088</id>
+      <name>z88 Development kit</name>
+      <url>http://www.ohloh.net/p/z88dk.xml</url>
+      <html_url>http://www.ohloh.net/p/z88dk</html_url>
+      <created_at>2008-10-05T15:21:06Z</created_at>
+      <updated_at>2013-07-03T01:59:07Z</updated_at>
+      <description>z88dk is a z80 C cross compiler supplied with an assembler/linker and a set of libraries implementing the C standard library for a number of different z80 based machines. The name z88dk originates from the time when the project was founded and targetted only the Cambridge z88 portable.
+
+The compiler featured in z88dk is a much enhanced Small C compiler; the compiler accepts many features of ANSI C and is only deficient in a few areas where implementation on a z80 processor might prove inefficient. The compiler performs simple optimisations, but the bulk of the optimisation is achieved by a set of peep-hole rules, which will typically reduce the size of a large project by up to a third.</description>
+      <homepage_url>http://www.z88dk.org/</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=2917</download_url>
+      <url_name>z88dk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14509508</analysis_id>
+      <tags>
+        <tag>z80</tag>
+        <tag>source</tag>
+        <tag>compiler</tag>
+        <tag>hardware</tag>
+        <tag>small</tag>
+      </tags>
+      <analysis>
+        <id>14509508</id>
+        <url>http://www.ohloh.net/analyses/14509508.xml</url>
+        <project_id>17088</project_id>
+        <updated_at>2013-07-03T01:59:07Z</updated_at>
+        <logged_at>2013-07-03T01:53:03Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>286725</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/z88dk/analyses/14509508/languages.png">
+          <language color="FF8F00" percentage="47" id="42">
+C          </language>
+          <language color="333333" percentage="38" id="19">
+Assembly          </language>
+          <language color="000000" percentage="15" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Clarified_Artistic_License</name>
+          <nice_name>Clarified Artistic License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

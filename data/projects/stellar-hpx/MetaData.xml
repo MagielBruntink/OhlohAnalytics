@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603339</id>
+      <name>HPX</name>
+      <url>http://www.ohloh.net/p/stellar-hpx.xml</url>
+      <html_url>http://www.ohloh.net/p/stellar-hpx</html_url>
+      <created_at>2012-07-10T09:28:45Z</created_at>
+      <updated_at>2013-07-07T02:00:23Z</updated_at>
+      <description>The goal for HPX is to create a high quality, freely available, open source implementation of the ParalleX model for conventional systems, such as classic Linux based Beowulf clusters or multi-socket highly parallel SMP nodes. At the same time, we want to have a very modular and well designed runtime system architecture which would allow us to port our implementation onto new computer system architectures. We use real world applications to drive the development of the runtime system, coining out required functionalities and converging onto an stable API which will provide a smooth migration path for developers. The API exposed by HPX is modelled after the interfaces defined by the C++11 ISO standard and adheres to the programming guidelines used by the Boost collection of C++ libraries.</description>
+      <homepage_url>http://stellar.cct.lsu.edu</homepage_url>
+      <download_url>http://stellar.cct.lsu.edu/downloads/</download_url>
+      <url_name>stellar-hpx</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56825/09187778154b2163a6bd3cc920e3ef33_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56825/09187778154b2163a6bd3cc920e3ef33_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558129</analysis_id>
+      <tags>
+        <tag>distributed_computing</tag>
+        <tag>runtimearchitecture</tag>
+        <tag>parallelsoftware</tag>
+        <tag>parallelizing</tag>
+        <tag>parallelism</tag>
+        <tag>parallelcalculaion</tag>
+        <tag>library</tag>
+        <tag>cplusplus</tag>
+        <tag>runtime</tag>
+        <tag>paralleldistributedprocessing</tag>
+        <tag>parallelcomputing</tag>
+        <tag>parallelprogramming</tag>
+        <tag>c++</tag>
+        <tag>parallel</tag>
+        <tag>cross-platform</tag>
+        <tag>parallelalgorithm</tag>
+        <tag>parallelization</tag>
+        <tag>parallelprocessing</tag>
+        <tag>runtimeenvironment</tag>
+        <tag>distributed</tag>
+        <tag>distributedcomputing</tag>
+      </tags>
+      <analysis>
+        <id>14558129</id>
+        <url>http://www.ohloh.net/analyses/14558129.xml</url>
+        <project_id>603339</project_id>
+        <updated_at>2013-07-07T02:00:22Z</updated_at>
+        <logged_at>2013-07-07T01:55:06Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>273128</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/stellar-hpx/analyses/14558129/languages.png">
+          <language color="F35F1F" percentage="72" id="44">
+C++          </language>
+          <language color="EEE" percentage="11" id="40">
+Fortran (Fixed-format)          </language>
+          <language color="EEE" percentage="5" id="41">
+Fortran (Free-format)          </language>
+          <language color="000000" percentage="12" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Boost_Software_License</name>
+          <nice_name>Boost Software License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

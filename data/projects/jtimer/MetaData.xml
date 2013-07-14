@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485466</id>
+      <name>jtimer</name>
+      <url>http://www.ohloh.net/p/jtimer.xml</url>
+      <html_url>http://www.ohloh.net/p/jtimer</html_url>
+      <created_at>2010-09-20T13:42:39Z</created_at>
+      <updated_at>2013-07-13T20:17:04Z</updated_at>
+      <description>Task timing application.</description>
+      <homepage_url>http://chorem.org/projects/show/jtimer</homepage_url>
+      <download_url>http://chorem.org/projects/list_files/jtimer</download_url>
+      <url_name>jtimer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14570694</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>tasks</tag>
+        <tag>task</tag>
+        <tag>timer</tag>
+        <tag>timetracker</tag>
+        <tag>timetracking</tag>
+        <tag>timemanagement</tag>
+        <tag>project</tag>
+      </tags>
+      <analysis>
+        <id>14570694</id>
+        <url>http://www.ohloh.net/analyses/14570694.xml</url>
+        <project_id>485466</project_id>
+        <updated_at>2013-07-09T10:28:00Z</updated_at>
+        <logged_at>2013-07-09T10:24:53Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>10158</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jtimer/analyses/14570694/languages.png">
+          <language color="9A63AD" percentage="93" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

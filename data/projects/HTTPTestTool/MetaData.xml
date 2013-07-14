@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589560</id>
+      <name>HTTP Test Tool</name>
+      <url>http://www.ohloh.net/p/HTTPTestTool.xml</url>
+      <html_url>http://www.ohloh.net/p/HTTPTestTool</html_url>
+      <created_at>2012-03-03T07:38:35Z</created_at>
+      <updated_at>2013-06-14T19:08:10Z</updated_at>
+      <description>httest is a script based tool for testing and benchmarking web applications, web servers, proxy servers and web browsers. httest can emulate clients and servers in the same test script, very useful for testing proxys.</description>
+      <homepage_url>http://htt.sourceforge.net/cgi-bin/cwiki/bin/public</homepage_url>
+      <download_url>http://sourceforge.net/projects/htt/</download_url>
+      <url_name>HTTPTestTool</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51941/logo_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51941/logo_small_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14259939</analysis_id>
+      <tags>
+        <tag>webtest</tag>
+        <tag>qa</tag>
+        <tag>testingtool</tag>
+        <tag>ntlm</tag>
+        <tag>endtoend</tag>
+        <tag>icap</tag>
+        <tag>testing</tag>
+        <tag>web</tag>
+        <tag>c</tag>
+        <tag>test</tag>
+        <tag>http</tag>
+        <tag>lua</tag>
+        <tag>icaps</tag>
+        <tag>script</tag>
+        <tag>development</tag>
+        <tag>performance-testing</tag>
+        <tag>load-testing</tag>
+      </tags>
+      <analysis>
+        <id>14259939</id>
+        <url>http://www.ohloh.net/analyses/14259939.xml</url>
+        <project_id>589560</project_id>
+        <updated_at>2013-07-07T07:57:24Z</updated_at>
+        <logged_at>2013-07-07T07:51:31Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>41385</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/HTTPTestTool/analyses/14259939/languages.png">
+          <language color="FF8F00" percentage="73" id="42">
+C          </language>
+          <language color="000080" percentage="7" id="37">
+TeX/LaTeX          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+          <language color="000000" percentage="14" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

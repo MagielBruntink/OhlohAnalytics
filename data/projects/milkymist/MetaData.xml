@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>427411</id>
+      <name>Milkymist</name>
+      <url>http://www.ohloh.net/p/milkymist.xml</url>
+      <html_url>http://www.ohloh.net/p/milkymist</html_url>
+      <created_at>2009-09-03T19:42:13Z</created_at>
+      <updated_at>2013-06-24T15:51:46Z</updated_at>
+      <description>The project develops a stand-alone device in a small form factor that is capable of rendering MilkDrop-esque visuals effects in real time, with a high level of interaction with many sensors and using live audio and video streams as a base.
+Open source components and design tools have been developed or used as much as possible. A system-on-chip implemented in a FPGA has been chosen for meeting this goal at the IP core level.
+The flexibility of the FPGA enables advanced users to modify the design, and also permits compact integration of many interfaces (MIDI, OSC, DMX512, analog sensors, video inputs), making Milkymist&#8482; a platform of choice for the mobile VJ.
+The design is also highly modular and documented, making the code easy to re-use in other open source system-on-chips.</description>
+      <homepage_url>http://www.milkymist.org</homepage_url>
+      <download_url>http://milkymist.org/updates/</download_url>
+      <url_name>milkymist</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57253/Milkymist_video_synth_nourl_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57253/Milkymist_video_synth_nourl_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14381911</analysis_id>
+      <tags>
+        <tag>vjing</tag>
+        <tag>veriloghdl</tag>
+        <tag>embedded_systems</tag>
+        <tag>wishbone</tag>
+        <tag>embedded</tag>
+        <tag>livecode</tag>
+        <tag>uclinux</tag>
+        <tag>spartan3a</tag>
+        <tag>live</tag>
+        <tag>effects</tag>
+        <tag>embeddedlinux</tag>
+        <tag>hardware</tag>
+        <tag>electronics</tag>
+        <tag>xilinx</tag>
+        <tag>virtex</tag>
+        <tag>soc</tag>
+        <tag>rendering</tag>
+        <tag>performance</tag>
+        <tag>spartan</tag>
+        <tag>motion</tag>
+        <tag>synthesizer</tag>
+        <tag>milkdrop</tag>
+        <tag>realtime</tag>
+        <tag>livecoding</tag>
+        <tag>mico32</tag>
+        <tag>fpga</tag>
+        <tag>openhardware</tag>
+        <tag>videojockey</tag>
+        <tag>special_effects</tag>
+        <tag>system-on-chip</tag>
+        <tag>graphic</tag>
+        <tag>risc</tag>
+        <tag>demo</tag>
+        <tag>linux</tag>
+        <tag>video</tag>
+        <tag>opencores</tag>
+        <tag>opensource</tag>
+        <tag>visual</tag>
+        <tag>visualization</tag>
+        <tag>verilog</tag>
+        <tag>demoscene</tag>
+      </tags>
+      <analysis>
+        <id>14381911</id>
+        <url>http://www.ohloh.net/analyses/14381911.xml</url>
+        <project_id>427411</project_id>
+        <updated_at>2013-07-12T05:48:27Z</updated_at>
+        <logged_at>2013-07-12T05:45:34Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>66953</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/milkymist/analyses/14381911/languages.png">
+          <language color="FF8F00" percentage="81" id="42">
+C          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="000000" percentage="14" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eGPL</name>
+          <nice_name>Exception General Public License</nice_name>
+        </license>
+        <license>
+          <name>GNU_Free_Documentation_License</name>
+          <nice_name>GNU Free Documentation License v1.2</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

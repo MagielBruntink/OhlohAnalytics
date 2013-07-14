@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482030</id>
+      <name>op4j</name>
+      <url>http://www.ohloh.net/p/op4j.xml</url>
+      <html_url>http://www.ohloh.net/p/op4j</html_url>
+      <created_at>2010-03-24T13:06:47Z</created_at>
+      <updated_at>2013-07-11T20:40:16Z</updated_at>
+      <description>op4j is a developer happiness tool. It is a Java library aimed at improving quality, semantics, cleanness and readability of Java code, especially auxiliary code like data conversion, structure iteration, filtering, mapping, etc.
+
+op4j is a powerful implementation of the Fluent Interface style of code defined by Martin Fowler. It allows you to create chained expressions which apply both predefined or user-defined functions to your objects in a fluid and readable way. This improves the way your code looks and greatly reduces the complexity of executing auxiliary low-level tasks in the highly bureaucratic, statically -and strongly- typed language that Java is.</description>
+      <homepage_url>http://www.op4j.org</homepage_url>
+      <download_url>http://www.op4j.org/download.html</download_url>
+      <url_name>op4j</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14594033</analysis_id>
+      <tags>
+        <tag>fluentapi</tag>
+        <tag>java</tag>
+        <tag>fluent</tag>
+        <tag>readability</tag>
+      </tags>
+      <analysis>
+        <id>14594033</id>
+        <url>http://www.ohloh.net/analyses/14594033.xml</url>
+        <project_id>482030</project_id>
+        <updated_at>2013-07-11T20:40:16Z</updated_at>
+        <logged_at>2013-07-11T19:08:11Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>47325</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/op4j/analyses/14594033/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="EEE" percentage="&lt;1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3170</id>
+      <name>Mxx_ru</name>
+      <url>http://www.ohloh.net/p/mxx-ru.xml</url>
+      <html_url>http://www.ohloh.net/p/mxx-ru</html_url>
+      <created_at>2006-10-16T12:32:58Z</created_at>
+      <updated_at>2013-06-22T19:53:28Z</updated_at>
+      <description>Mxx_ru (Make++ on Ruby) is a cross-platform build tool. It's intended for C/C++ languages in general, but it's easy to extend for handling other languages. It uses a template based approach for describing build process.</description>
+      <homepage_url>http://rubyforge.org/projects/mxx-ru/</homepage_url>
+      <download_url>http://rubyforge.org/frs/?group_id=1361</download_url>
+      <url_name>mxx-ru</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14346186</analysis_id>
+      <tags>
+        <tag>coding</tag>
+        <tag>build_tool</tag>
+        <tag>compiler</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>scm</tag>
+        <tag>code</tag>
+        <tag>cross-platform</tag>
+        <tag>automation</tag>
+        <tag>win32</tag>
+        <tag>linux</tag>
+        <tag>build_tools</tag>
+        <tag>ruby</tag>
+        <tag>tools</tag>
+        <tag>c++</tag>
+        <tag>build</tag>
+      </tags>
+      <analysis>
+        <id>14346186</id>
+        <url>http://www.ohloh.net/analyses/14346186.xml</url>
+        <project_id>3170</project_id>
+        <updated_at>2013-07-11T23:45:29Z</updated_at>
+        <logged_at>2013-07-11T23:44:00Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>89590</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mxx-ru/analyses/14346186/languages.png">
+          <language color="A40011" percentage="51" id="12">
+Ruby          </language>
+          <language color="FF8F00" percentage="37" id="42">
+C          </language>
+          <language color="F35F1F" percentage="8" id="44">
+C++          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

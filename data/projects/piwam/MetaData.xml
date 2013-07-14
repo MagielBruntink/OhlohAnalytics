@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340658</id>
+      <name>Piwam</name>
+      <url>http://www.ohloh.net/p/piwam.xml</url>
+      <html_url>http://www.ohloh.net/p/piwam</html_url>
+      <created_at>2009-05-15T02:35:13Z</created_at>
+      <updated_at>2013-07-14T01:58:53Z</updated_at>
+      <description>Piwam : Gestionnaire d'associationsWhat's Piwam ?Association Manager, written in PHP with Symfony framework. But it has been developped for French associations only, which respect specific French laws. That is why this project space will be only in French. 
+
+Que puis-je g&#233;rer avec Piwam ?Piwam vous permet de g&#233;rer tout ce qu'une association loi 1901 peut &#234;tre amen&#233; &#224; g&#233;rer : 
+
+membres cotisations recettes / d&#233;penses activit&#233;s 
+
+Quels sont les avantages &#224; utiliser Piwam ?En quelques mots : 
+
+gratuit : et donc moins cher que toutes les solutions payantes du march&#233; libre : un code source ouvert, gage de qualit&#233; et vous offrant toutes les possibilit&#233;s pour venir greffer vos propres fonctionnalit&#233;s &#233;volutif : de nombreuses mises &#224; jour voient le jour, des nouvelles fonctionnalit&#233;s... 
+
+Derni&#232;res nouvelles...D&#233;couvrez comment installer Piwam en vid&#233;o : 
+
+
+
+Sous UNIX  Par un client FTP      
+
+Piwam &#233;volue au fil des versions... Voici un petit aper&#231;u de ce qui change : 
+
+version 1.1.2 (25 novembre 2009) trombinoscope mode multi-associations param&#233;trable possibilit&#233; de retrouver un mot de passe perdu message d'erreur explicite en cas d'erreur d'identification le nom d'utilisateur n'est pas sensible &#224; la casse possibilit&#233; d'effectuer des demandes d'adh&#233;sion formatage des num&#233;ros de t&#233;l&#233;phone lien vers les activit&#233;s et comptes mentionn&#233;s dans le bilan les membres sans droit peuvent voir et &#233;diter leurs propres informations correction des liens vers les adresses emails dans les profils utilisateurs le lien pour enregistrer une nouvelle association est masqu&#233; si le mode multi-associations est d&#233;sactiv&#233; message d'erreur lorsqu'on tente d'utiliser un login d&#233;j&#224; pris correction d'un bug lors de la r&#233;cup&#233;ration de param&#232;tres en mode multi-associations correction d'un bug lors du calcul du nombre de membres ayant un certain statut d&#233;but de la documentation d&#233;veloppeur documentations README, README-FR et UPDATE-FR &#224; jour les valeurs des pr&#233;f&#233;rences peuvent &#234;tre supprim&#233;es la valeur &quot;0&quot; est affich&#233;e si une somme est nulle (au lieu de rien) correction de bugs lors du contr&#244;le de la version du logiciel version 1.1.1 (8 octobre 2009) fichiers UPDATE-FR, TROUBLESHOOTING-FR et README-FR mis &#224; jour La cl&#233; Google Map est d&#233;finie comme pr&#233;f&#233;rence et non plus dans le fichier de settings possibilit&#233; de lancer l'installation et les mises &#224; jour par le menu de gauche bug fix&#233; dans l'envoi d'emails version 1.1 (1er octobre 2009) messages d'erreur explicites lors de l'installation Interface d'installation en ligne Correction de nombreux bugs Am&#233;lioration du syst&#232;me de suppression de donn&#233;es Pagination lors de l'affichage des listes de recettes et d&#233;penses Mise &#224; jour de la documentation d'installation Syst&#232;me de gestion des droits (ACL) Gestion de dettes/cr&#233;ances (en tant que recette non per&#231;ue ou d&#233;pense non pay&#233;e) Am&#233;loriation de l'interface (onglets pour le profil d'un membre) Interface de configuration liste compl&#232;te 
+
+On bosse dessus :Pour que Piwam soit toujours meilleur... 
+
+Syst&#232;me de gestion de documents Moteur de comptabilit&#233; avanc&#233;e Gestion pouss&#233;e des droits des utilisateurs [r61] Export des d&#233;penses / recettes au format CSV [r39] Bugs &#224; corriger au sein de la biblioth&#232;que g&#233;rant la g&#233;o-localisation</description>
+      <homepage_url>http://code.google.com/p/piwam</homepage_url>
+      <download_url>http://code.google.com/p/piwam/downloads/list</download_url>
+      <url_name>piwam</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27304/piwam-small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27304/piwam-small_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14621415</analysis_id>
+      <tags>
+        <tag>trombinoscope</tag>
+        <tag>cotisations</tag>
+        <tag>organization</tag>
+        <tag>comptabilit&#233;</tag>
+        <tag>membres</tag>
+        <tag>symfony</tag>
+        <tag>manager</tag>
+        <tag>1901</tag>
+        <tag>php</tag>
+        <tag>gestion</tag>
+        <tag>management</tag>
+        <tag>gestionnaire</tag>
+        <tag>association</tag>
+        <tag>piwam</tag>
+      </tags>
+      <analysis>
+        <id>14621415</id>
+        <url>http://www.ohloh.net/analyses/14621415.xml</url>
+        <project_id>340658</project_id>
+        <updated_at>2013-07-14T01:58:53Z</updated_at>
+        <logged_at>2013-07-14T00:46:31Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>120371</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/piwam/analyses/14621415/languages.png">
+          <language color="A4007E" percentage="60" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="356AA0" percentage="13" id="2">
+PHP          </language>
+          <language color="000000" percentage="12" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

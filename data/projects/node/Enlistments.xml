@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>510218</id>
+      <project_id>620949</project_id>
+      <repository_id>511154</repository_id>
+      <repository>
+        <id>511154</id>
+        <type>GitRepository</type>
+        <url>https://git01.codeplex.com/node</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T00:30:00Z</logged_at>
+        <commits>1</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>537226</id>
+      <project_id>620949</project_id>
+      <repository_id>539462</repository_id>
+      <repository>
+        <id>539462</id>
+        <type>GitRepository</type>
+        <url>https://github.com/federicobucchi/nodejs-tests</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T00:29:34Z</logged_at>
+        <commits>1</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

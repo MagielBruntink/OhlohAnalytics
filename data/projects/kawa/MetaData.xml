@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9056</id>
+      <name>Kawa Language Framework</name>
+      <url>http://www.ohloh.net/p/kawa.xml</url>
+      <html_url>http://www.ohloh.net/p/kawa</html_url>
+      <created_at>2007-10-09T23:09:27Z</created_at>
+      <updated_at>2013-07-14T03:05:27Z</updated_at>
+      <description>Kawa is a framework written in Java for implementing high-level and dynamic languages, compiling them into Java bytecodes. It includes and implementation of the Scheme programming language with extensions to provide useful integration with the JDK and other Java classes. 
+
+The included gnu.bytecode package can be used as a standalone library for generating Java bytecode.</description>
+      <homepage_url>http://www.gnu.org/software/kawa/</homepage_url>
+      <download_url>http://www.gnu.org/software/kawa/Installation.html</download_url>
+      <url_name>kawa</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14622196</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>scheme</tag>
+        <tag>gnu</tag>
+        <tag>bytecode</tag>
+        <tag>jemacs</tag>
+      </tags>
+      <analysis>
+        <id>14622196</id>
+        <url>http://www.ohloh.net/analyses/14622196.xml</url>
+        <project_id>9056</project_id>
+        <updated_at>2013-07-14T03:05:27Z</updated_at>
+        <logged_at>2013-07-13T21:30:11Z</logged_at>
+        <min_month>1996-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>195221</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kawa/analyses/14622196/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="90C0D2" percentage="12" id="20">
+Scheme          </language>
+          <language color="EEE" percentage="11" id="52">
+Make          </language>
+          <language color="000000" percentage="13" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

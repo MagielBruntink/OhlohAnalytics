@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345904</id>
+      <name>python-netaddr</name>
+      <url>http://www.ohloh.net/p/netaddr.xml</url>
+      <html_url>http://www.ohloh.net/p/netaddr</html_url>
+      <created_at>2009-06-06T18:51:10Z</created_at>
+      <updated_at>2013-07-07T02:20:34Z</updated_at>
+      <description>A pure Python network address representation and manipulation library.
+
+netaddr provides a Pythonic way to work with :-
+
+* IPv4 and IPv6 addresses and subnets (including CIDR notation)
+* MAC (Media Access Control) addresses in multiple presentation formats
+* IEEE EUI-64, OUI and IAB identifiers
+* a user friendly IP glob-style format 
+
+Included are routines for :-
+
+* generating, sorting and summarizing IP addresses
+* converting IP addresses and ranges between various different formats
+* performing set based operations on groups of IP addresses and subnets
+* arbitrary IP address range calculations and conversions
+* querying IEEE OUI and IAB organisational information
+* querying of IP standards related data from key IANA data sources</description>
+      <homepage_url>http://code.google.com/p/netaddr/</homepage_url>
+      <download_url>http://code.google.com/p/netaddr/downloads/list</download_url>
+      <url_name>netaddr</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558313</analysis_id>
+      <tags>
+        <tag>ipv6</tag>
+        <tag>cidr</tag>
+        <tag>eui</tag>
+        <tag>iana</tag>
+        <tag>sysadmin</tag>
+        <tag>iab</tag>
+        <tag>oui</tag>
+        <tag>ipv4</tag>
+        <tag>ieee</tag>
+        <tag>mac</tag>
+        <tag>networking</tag>
+      </tags>
+      <analysis>
+        <id>14558313</id>
+        <url>http://www.ohloh.net/analyses/14558313.xml</url>
+        <project_id>345904</project_id>
+        <updated_at>2013-07-07T02:20:33Z</updated_at>
+        <logged_at>2013-07-07T02:19:56Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>10014</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/netaddr/analyses/14558313/languages.png">
+          <language color="555555" percentage="57" id="3">
+XML          </language>
+          <language color="4A246B" percentage="38" id="9">
+Python          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

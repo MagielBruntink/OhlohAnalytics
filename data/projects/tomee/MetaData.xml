@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>632761</id>
+      <name>Apache TomEE</name>
+      <url>http://www.ohloh.net/p/tomee.xml</url>
+      <html_url>http://www.ohloh.net/p/tomee</html_url>
+      <created_at>2013-01-18T23:08:41Z</created_at>
+      <updated_at>2013-07-10T09:29:30Z</updated_at>
+      <description>Apache TomEE, pronounced &quot;Tommy&quot;, is an all-Apache Java EE 6 Web Profile certified stack where Tomcat is top dog. Apache TomEE is assembled from a vanilla Apache Tomcat zip file. We start with Tomcat, add our jars and zip up the rest. The result is Tomcat with added EE features - TomEE.</description>
+      <homepage_url>http://tomee.apache.org</homepage_url>
+      <download_url>http://tomee.apache.org/downloads.html</download_url>
+      <url_name>tomee</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580471</analysis_id>
+      <tags>
+        <tag>ejb30</tag>
+        <tag>jpa2</tag>
+        <tag>server</tag>
+        <tag>rest</tag>
+        <tag>jaxws</tag>
+        <tag>jaxrs</tag>
+        <tag>servlets</tag>
+        <tag>jsp</tag>
+        <tag>jms</tag>
+        <tag>jta</tag>
+        <tag>jsf</tag>
+        <tag>cdi</tag>
+        <tag>ejb</tag>
+        <tag>java</tag>
+        <tag>javaee</tag>
+        <tag>tomcat</tag>
+        <tag>apache</tag>
+        <tag>jpa</tag>
+        <tag>jee</tag>
+        <tag>enterprise</tag>
+      </tags>
+      <analysis>
+        <id>14580471</id>
+        <url>http://www.ohloh.net/analyses/14580471.xml</url>
+        <project_id>632761</project_id>
+        <updated_at>2013-07-10T09:29:29Z</updated_at>
+        <logged_at>2013-07-10T09:23:11Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>480173</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tomee/analyses/14580471/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

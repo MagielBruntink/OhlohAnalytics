@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481745</id>
+      <name>ESPResSo++</name>
+      <url>http://www.ohloh.net/p/espressopp.xml</url>
+      <html_url>http://www.ohloh.net/p/espressopp</html_url>
+      <created_at>2010-03-11T09:02:38Z</created_at>
+      <updated_at>2013-07-12T15:21:45Z</updated_at>
+      <description>ESPResSo++ is a highy versatile, parallelized, scientific simulation software for coarse-grained simulations of atomic and molecular systems.
+
+ESPResSo++ is the descendant of the ESPResSo simulation software. It is implemented in C++ and controlled via Python.</description>
+      <homepage_url>http://www.espresso-pp.de/</homepage_url>
+      <download_url></download_url>
+      <url_name>espressopp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31389/logo_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31389/logo_small_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14606902</analysis_id>
+      <tags>
+        <tag>parallelcomputing</tag>
+        <tag>moleculardynamics</tag>
+        <tag>science</tag>
+        <tag>python</tag>
+        <tag>mpi</tag>
+        <tag>scientificcomputing</tag>
+        <tag>scientific_computing</tag>
+        <tag>c++</tag>
+        <tag>molecular_dynamics</tag>
+        <tag>molecularsimulation</tag>
+        <tag>scientificsoftware</tag>
+      </tags>
+      <analysis>
+        <id>14606902</id>
+        <url>http://www.ohloh.net/analyses/14606902.xml</url>
+        <project_id>481745</project_id>
+        <updated_at>2013-07-12T15:21:45Z</updated_at>
+        <logged_at>2013-07-12T15:16:49Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>42227</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/espressopp/analyses/14606902/languages.png">
+          <language color="F35F1F" percentage="69" id="44">
+C++          </language>
+          <language color="4A246B" percentage="29" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

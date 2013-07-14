@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487883</id>
+      <name>ReadTheDocs.org</name>
+      <url>http://www.ohloh.net/p/readthedocs.xml</url>
+      <html_url>http://www.ohloh.net/p/readthedocs</html_url>
+      <created_at>2011-01-31T21:25:59Z</created_at>
+      <updated_at>2013-07-03T08:38:19Z</updated_at>
+      <description>Hosts documentation for any project with a public repository (Git, Subversion, Mercurial or Bazaar) and docs written in Sphinx/reStructuredText format.</description>
+      <homepage_url>http://readthedocs.org</homepage_url>
+      <download_url>https://github.com/rtfd/readthedocs.org</download_url>
+      <url_name>readthedocs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40967/rtd_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40967/rtd_logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14513273</analysis_id>
+      <tags>
+        <tag>restructuredtext</tag>
+        <tag>django</tag>
+        <tag>documentation</tag>
+        <tag>python</tag>
+        <tag>sphinx</tag>
+      </tags>
+      <analysis>
+        <id>14513273</id>
+        <url>http://www.ohloh.net/analyses/14513273.xml</url>
+        <project_id>487883</project_id>
+        <updated_at>2013-07-03T08:38:19Z</updated_at>
+        <logged_at>2013-07-03T08:37:12Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>19370</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/readthedocs/analyses/14513273/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

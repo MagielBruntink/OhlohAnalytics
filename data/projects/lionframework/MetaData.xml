@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25842</id>
+      <name>Lion - An open source PHP framework</name>
+      <url>http://www.ohloh.net/p/lionframework.xml</url>
+      <html_url>http://www.ohloh.net/p/lionframework</html_url>
+      <created_at>2008-10-25T20:48:57Z</created_at>
+      <updated_at>2013-07-11T19:59:40Z</updated_at>
+      <description>Lion is an emerging open source PHP framework for creating rich web applications as a combination of the most valuable features and patterns taken from the development community.
+
+Maybe the most valuable feature within the framework, as a combination of a MVC and a MVP. The MVP allows to declare rich UI components within your templates, easing the integration with your own event handlers. Lion's component model handles AJAX communication in both ways: Direct and Reverse-AJAX.
+
+From the architecture point of view, Lion is organized by context containers representing applications, being one of the most valuable benefits his IoC capability, a spring-style based dependency injection which let the framework work out the complexities of service instantiation, initialization and sequencing.</description>
+      <homepage_url>http://www.lionframework.org</homepage_url>
+      <download_url>http://www.lionframework.org/downloads.html</download_url>
+      <url_name>lionframework</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14261791</analysis_id>
+      <tags>
+        <tag>dependency-injection</tag>
+        <tag>lion_framework</tag>
+        <tag>mvc</tag>
+        <tag>front-controller</tag>
+        <tag>framework</tag>
+        <tag>model-view-controller</tag>
+        <tag>components</tag>
+        <tag>web</tag>
+        <tag>event_driven</tag>
+        <tag>lamp</tag>
+        <tag>lion</tag>
+        <tag>php5</tag>
+        <tag>php</tag>
+        <tag>rapid_development</tag>
+        <tag>lionframework</tag>
+      </tags>
+      <analysis>
+        <id>14261791</id>
+        <url>http://www.ohloh.net/analyses/14261791.xml</url>
+        <project_id>25842</project_id>
+        <updated_at>2013-07-07T21:49:14Z</updated_at>
+        <logged_at>2013-07-07T21:49:11Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>613565</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lionframework/analyses/14261791/languages.png">
+          <language color="47A400" percentage="53" id="1">
+HTML          </language>
+          <language color="356AA0" percentage="31" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

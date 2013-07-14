@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>551576</id>
+      <name>leveldb</name>
+      <url>http://www.ohloh.net/p/leveldb.xml</url>
+      <html_url>http://www.ohloh.net/p/leveldb</html_url>
+      <created_at>2011-05-08T18:04:54Z</created_at>
+      <updated_at>2013-07-08T10:12:46Z</updated_at>
+      <description>LevelDB is a library that implements a fast key-value store. 
+
+Features
+    * Keys and values are arbitrary byte arrays.
+    * Data is stored sorted by key.
+    * Callers can provide a custom comparison function to override the sort order.
+    * The basic operations are Put(key,value), Get(key), Delete(key).
+    * Multiple changes can be made in one atomic batch.
+    * Users can create a transient snapshot to get a consistent view of data.
+    * Forward and backward iteration is supported over the data.
+    * Data is automatically compressed using the Snappy compression library.
+    * External activity (file system operations etc.) is relayed through a virtual interface so users can customize the operating system interactions.</description>
+      <homepage_url>http://code.google.com/p/leveldb/</homepage_url>
+      <download_url></download_url>
+      <url_name>leveldb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14568895</analysis_id>
+      <tags>
+        <tag>storage</tag>
+        <tag>keyvalue</tag>
+        <tag>berkeley-db</tag>
+        <tag>key-value</tag>
+        <tag>berkeley</tag>
+        <tag>key</tag>
+        <tag>database</tag>
+        <tag>berkeleydb</tag>
+        <tag>key-value-storage</tag>
+        <tag>store</tag>
+        <tag>c++</tag>
+        <tag>keyvaluestorage</tag>
+        <tag>nosql</tag>
+      </tags>
+      <analysis>
+        <id>14568895</id>
+        <url>http://www.ohloh.net/analyses/14568895.xml</url>
+        <project_id>551576</project_id>
+        <updated_at>2013-07-08T10:12:46Z</updated_at>
+        <logged_at>2013-07-08T07:07:10Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>39214</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/leveldb/analyses/14568895/languages.png">
+          <language color="F35F1F" percentage="89" id="44">
+C++          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

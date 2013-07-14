@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4612</id>
+      <name>Gravit</name>
+      <url>http://www.ohloh.net/p/Gravit.xml</url>
+      <html_url>http://www.ohloh.net/p/Gravit</html_url>
+      <created_at>2007-03-05T03:59:21Z</created_at>
+      <updated_at>2013-07-13T18:53:36Z</updated_at>
+      <description>Gravit is a gravity simulator which runs under Linux, Windows and Mac OS X. It's released under the GNU General Public License which makes it free. It uses Newtonian physics using the Barnes-Hut N-body algorithm. Although the main goal of Gravit is to be as accurate as possible, it also creates beautiful looking gravity patterns. It records the history of each particle so it can animate and display a path of its travels. At any stage you can rotate your view in 3D and zoom in and out. Gravit uses OpenGL with Lua, SDL, SDL_ttf and SDL_image.</description>
+      <homepage_url>http://gravit.slowchop.com/</homepage_url>
+      <download_url>https://github.com/gak/gravit</download_url>
+      <url_name>Gravit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52758/gravit_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52758/gravit_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14557642</analysis_id>
+      <tags>
+        <tag>3d</tag>
+        <tag>game</tag>
+        <tag>education</tag>
+        <tag>performance</tag>
+        <tag>opengl</tag>
+        <tag>sdl</tag>
+        <tag>science</tag>
+        <tag>entertainment</tag>
+        <tag>stars</tag>
+        <tag>graphics</tag>
+        <tag>stereoscopy</tag>
+        <tag>simulation</tag>
+        <tag>win32</tag>
+        <tag>mathematics</tag>
+        <tag>algorithm</tag>
+        <tag>maths</tag>
+        <tag>visualization</tag>
+        <tag>interesting</tag>
+        <tag>algorithms</tag>
+        <tag>astronomy</tag>
+        <tag>astrophysics</tag>
+        <tag>physics</tag>
+        <tag>windows</tag>
+        <tag>gravity</tag>
+        <tag>space</tag>
+        <tag>math</tag>
+        <tag>linux</tag>
+        <tag>macosx</tag>
+        <tag>physical</tag>
+      </tags>
+      <analysis>
+        <id>14557642</id>
+        <url>http://www.ohloh.net/analyses/14557642.xml</url>
+        <project_id>4612</project_id>
+        <updated_at>2013-07-07T00:44:53Z</updated_at>
+        <logged_at>2013-07-07T00:43:07Z</logged_at>
+        <min_month>2005-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>52599</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Gravit/analyses/14557642/languages.png">
+          <language color="FF8F00" percentage="73" id="42">
+C          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="C7932C" percentage="6" id="16">
+Objective-C          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

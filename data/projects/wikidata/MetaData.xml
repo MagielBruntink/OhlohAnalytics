@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605154</id>
+      <name>Wikidata</name>
+      <url>http://www.ohloh.net/p/wikidata.xml</url>
+      <html_url>http://www.ohloh.net/p/wikidata</html_url>
+      <created_at>2012-09-10T13:04:19Z</created_at>
+      <updated_at>2013-07-13T00:42:47Z</updated_at>
+      <description>Wikidata aims to create a free knowledge base about the world that can be read and edited by humans and machines alike. It will provide data in all the languages of the Wikimedia projects, and allow for the central access to data in a similar vein as Wikimedia Commons does for multimedia files. Wikidata is proposed as a new Wikimedia hosted and maintained project.</description>
+      <homepage_url>http://wikidata.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>wikidata</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/58184/320px-Wikidata-logo-en.svg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/58184/320px-Wikidata-logo-en.svg_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14611880</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>semantic</tag>
+        <tag>mediawiki</tag>
+        <tag>wiki</tag>
+        <tag>data</tag>
+      </tags>
+      <analysis>
+        <id>14611880</id>
+        <url>http://www.ohloh.net/analyses/14611880.xml</url>
+        <project_id>605154</project_id>
+        <updated_at>2013-07-13T00:42:47Z</updated_at>
+        <logged_at>2013-07-07T08:30:06Z</logged_at>
+        <min_month>2012-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>49</twelve_month_contributor_count>
+        <total_code_lines>117283</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wikidata/analyses/14611880/languages.png">
+          <language color="356AA0" percentage="71" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="20" id="6">
+JavaScript          </language>
+          <language color="A40011" percentage="7" id="12">
+Ruby          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

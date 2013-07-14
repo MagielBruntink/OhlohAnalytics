@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11323</id>
+      <name>DBpedia</name>
+      <url>http://www.ohloh.net/p/dbpedia.xml</url>
+      <html_url>http://www.ohloh.net/p/dbpedia</html_url>
+      <created_at>2008-01-28T14:02:17Z</created_at>
+      <updated_at>2013-07-06T19:26:27Z</updated_at>
+      <description>DBpedia is a community effort to extract structured information from Wikipedia and to make this information available on the Web. DBpedia allows you to ask sophisticated queries against Wikipedia and to link other datasets on the Web to Wikipedia data.</description>
+      <homepage_url>http://dbpedia.org</homepage_url>
+      <download_url>http://wiki.dbpedia.org/Downloads</download_url>
+      <url_name>dbpedia</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14553597</analysis_id>
+      <tags>
+        <tag>semantic_web</tag>
+        <tag>mediawiki</tag>
+        <tag>wikipedia</tag>
+        <tag>linked_data</tag>
+        <tag>rdf</tag>
+      </tags>
+      <analysis>
+        <id>14553597</id>
+        <url>http://www.ohloh.net/analyses/14553597.xml</url>
+        <project_id>11323</project_id>
+        <updated_at>2013-07-06T19:26:27Z</updated_at>
+        <logged_at>2013-07-06T19:14:46Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>28</twelve_month_contributor_count>
+        <total_code_lines>1048079</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dbpedia/analyses/14553597/languages.png">
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="356AA0" percentage="31" id="2">
+PHP          </language>
+          <language color="493625" percentage="15" id="30">
+SQL          </language>
+          <language color="000000" percentage="17" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

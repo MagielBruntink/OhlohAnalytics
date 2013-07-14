@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5298</id>
+      <name>Tigermouse</name>
+      <url>http://www.ohloh.net/p/tigermouse.xml</url>
+      <html_url>http://www.ohloh.net/p/tigermouse</html_url>
+      <created_at>2007-05-12T12:56:32Z</created_at>
+      <updated_at>2013-06-15T20:22:15Z</updated_at>
+      <description>Tigermouse is a modern web applications framework for PHP. It relies on AJAX technology, so in pair with being lightweight enables you to build dynamic, responsive and interactive web applications. It is well suited for enterprise-grade tasks because of its strong commitment to server-side business logic processing. Tigermouse does not require any Javascript coding, so you can focus on your application core logic instead of tinkering in UI. Noteworthy features are:
+- full native AJAX support
+- MVC architecture
+- pluggable input/output filters
+- AJAX requests queuing and expiring
+- powerful ActiveRecord implementation
+- SWT or GTK#-like user interface implementation
+- native support for Smarty templates
+Tigermouse is ready to use straight away. No configuration is needed.</description>
+      <homepage_url>http://tigermouse.epsi.pl</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=173530</download_url>
+      <url_name>tigermouse</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2367/tigermouse-square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2367/tigermouse-square_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14271994</analysis_id>
+      <tags>
+        <tag>event-driven</tag>
+        <tag>webapps</tag>
+        <tag>l10n</tag>
+        <tag>application</tag>
+        <tag>php</tag>
+        <tag>mvc</tag>
+        <tag>framework</tag>
+        <tag>i18n</tag>
+        <tag>active_record</tag>
+        <tag>web</tag>
+        <tag>smarty</tag>
+        <tag>development</tag>
+        <tag>ajax</tag>
+      </tags>
+      <analysis>
+        <id>14271994</id>
+        <url>http://www.ohloh.net/analyses/14271994.xml</url>
+        <project_id>5298</project_id>
+        <updated_at>2013-07-10T11:00:27Z</updated_at>
+        <logged_at>2013-07-10T11:00:22Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>14717</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tigermouse/analyses/14271994/languages.png">
+          <language color="356AA0" percentage="64" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="18" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="13" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

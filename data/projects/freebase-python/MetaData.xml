@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19616</id>
+      <name>freebase-python</name>
+      <url>http://www.ohloh.net/p/freebase-python.xml</url>
+      <html_url>http://www.ohloh.net/p/freebase-python</html_url>
+      <created_at>2008-10-07T12:31:41Z</created_at>
+      <updated_at>2013-06-30T17:43:05Z</updated_at>
+      <description>Freebase.com has an open API that can be used to access and update structured data. The RESTful http-based API is completely documented at Freebase.com along with some simple examples. This library provides a python interface to that API. 
+
+Usage should be as simple as: 
+
+&gt;&gt;&gt; import freebase
+&gt;&gt;&gt; freebase.mqlread({&quot;id&quot;: &quot;/en/david_bowie&quot;, &quot;name&quot;: None})
+{u'id': u'/en/david_bowie', u'name': u'David Bowie'}For more information, see GettingStarted. 
+
+This library also provides a number of command-line utilities and APIs for creating, dumping, and reloading schema to make it easy to programatically create schema and move schema from sandbox-freebase.com to freebase.com. For more on this see the recipes pages. 
+
+Discussion of this project is hosted at Freebase developers mailing list. 
+
+Installing is easy, if you have easy_install, just say 
+
+$ easy_install freebasefreebase-python will use the jsonlib2 library if it is already installed, and otherwise will fall back to using the json (Python 2.6+) or simplejson (Python 2.5 and below) modules. 
+
+If you don't have easy_install, you can get it by running http://peak.telecommunity.com/dist/ez_setup.py</description>
+      <homepage_url>http://code.google.com/p/freebase-python</homepage_url>
+      <download_url></download_url>
+      <url_name>freebase-python</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14481618</analysis_id>
+      <tags>
+        <tag>metaweb</tag>
+        <tag>python</tag>
+        <tag>freebase</tag>
+      </tags>
+      <analysis>
+        <id>14481618</id>
+        <url>http://www.ohloh.net/analyses/14481618.xml</url>
+        <project_id>19616</project_id>
+        <updated_at>2013-07-11T19:51:22Z</updated_at>
+        <logged_at>2013-07-11T19:50:57Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9169</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freebase-python/analyses/14481618/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="A4007E" percentage="22" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480908</id>
+      <name>NiBabel</name>
+      <url>http://www.ohloh.net/p/nibabel.xml</url>
+      <html_url>http://www.ohloh.net/p/nibabel</html_url>
+      <created_at>2010-02-03T22:06:13Z</created_at>
+      <updated_at>2013-07-12T08:47:36Z</updated_at>
+      <description>This package provides read and write access to some common medical and neuroimaging file formats, including: ANALYZE (plain, SPM99, SPM2), GIFTI, NIfTI1, MINC, MGH and ECAT as well as PAR/REC. There is some very limited support for DICOM. NiBabel is the successor of PyNIfTI.
+
+The various image format classes give full or selective access to header (meta) information and access to the image data is made available via NumPy arrays.</description>
+      <homepage_url>http://nipy.sf.net/nibabel</homepage_url>
+      <download_url>http://pypi.python.org/pypi/nibabel</download_url>
+      <url_name>nibabel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14603353</analysis_id>
+      <analysis>
+        <id>14603353</id>
+        <url>http://www.ohloh.net/analyses/14603353.xml</url>
+        <project_id>480908</project_id>
+        <updated_at>2013-07-12T08:47:36Z</updated_at>
+        <logged_at>2013-07-12T08:47:07Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>92533</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nibabel/analyses/14603353/languages.png">
+          <language color="555555" percentage="78" id="3">
+XML          </language>
+          <language color="4A246B" percentage="21" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

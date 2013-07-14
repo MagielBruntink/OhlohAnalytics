@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26915</id>
+      <name>LuaDBI</name>
+      <url>http://www.ohloh.net/p/luadbi.xml</url>
+      <html_url>http://www.ohloh.net/p/luadbi</html_url>
+      <created_at>2008-11-23T01:33:18Z</created_at>
+      <updated_at>2013-06-25T03:11:40Z</updated_at>
+      <description>LuaDBI is a database interface library for Lua. It is designed to provide a RDBMS agnostic API for handling database operations. Prepared statements and bind parameters are supported.
+
+Currently LuaDBI supports DB2, Oracle, MySQL, PostgreSQL and SQLite databases.</description>
+      <homepage_url>http://code.google.com/p/luadbi/</homepage_url>
+      <download_url>http://code.google.com/p/luadbi/</download_url>
+      <url_name>luadbi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14395155</analysis_id>
+      <tags>
+        <tag>postgresql</tag>
+        <tag>lua</tag>
+        <tag>dbi</tag>
+        <tag>oraclesql</tag>
+        <tag>oracle</tag>
+        <tag>db2</tag>
+        <tag>sql</tag>
+        <tag>sqlite3</tag>
+        <tag>mysql</tag>
+      </tags>
+      <analysis>
+        <id>14395155</id>
+        <url>http://www.ohloh.net/analyses/14395155.xml</url>
+        <project_id>26915</project_id>
+        <updated_at>2013-07-13T04:06:35Z</updated_at>
+        <logged_at>2013-07-13T04:06:32Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4111</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/luadbi/analyses/14395155/languages.png">
+          <language color="FF8F00" percentage="70" id="42">
+C          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

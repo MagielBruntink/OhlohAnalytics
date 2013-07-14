@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605065</id>
+      <name>ServiceMon</name>
+      <url>http://www.ohloh.net/p/ServiceMon.xml</url>
+      <html_url>http://www.ohloh.net/p/ServiceMon</html_url>
+      <created_at>2012-09-05T14:20:15Z</created_at>
+      <updated_at>2013-06-25T01:24:37Z</updated_at>
+      <description>ServiceMon is a standalone, extensible, real-time, service monitoring tool for Windows written in .NET
+It is simple to use and setup and configuration take just a couple of minutes.
+Monitoring actions can be scripted using the built-in scripting language. There are many built-in operations to choose from and adding your own is straightforward using .NET
+All configuration files and scripts are plain text files which allows them to be easily shared, compared for differences and stored in a source control system (such as SVN or Git).
+A full screen notification can be used to immediately alert of problems or the application can run quietly in the system tray until a problem occurs.
+Automatic graphing is provided of response time distributions and aggregate statistics of minimum, maximum, average and the Nines (90th, 99th, 99.9th and 99.99th percentiles).</description>
+      <homepage_url>https://www.rightcalc.com/blog/servicemon/</homepage_url>
+      <download_url>http://servicemon.codeplex.com/releases/</download_url>
+      <url_name>ServiceMon</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56591/Large_Icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56591/Large_Icon_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14392094</analysis_id>
+      <tags>
+        <tag>csharp</tag>
+        <tag>performancemeasurement</tag>
+        <tag>noinstall</tag>
+        <tag>dotnet</tag>
+        <tag>scripting</tag>
+        <tag>graphing</tag>
+        <tag>ping</tag>
+        <tag>webservice</tag>
+        <tag>statistics</tag>
+        <tag>service</tag>
+        <tag>monitoring</tag>
+        <tag>sysadmin</tag>
+        <tag>wcf</tag>
+        <tag>httprequest</tag>
+        <tag>plugin</tag>
+        <tag>gui</tag>
+        <tag>windows</tag>
+        <tag>dashboard</tag>
+        <tag>win32</tag>
+        <tag>notification</tag>
+      </tags>
+      <analysis>
+        <id>14392094</id>
+        <url>http://www.ohloh.net/analyses/14392094.xml</url>
+        <project_id>605065</project_id>
+        <updated_at>2013-07-13T18:17:50Z</updated_at>
+        <logged_at>2013-07-13T18:17:30Z</logged_at>
+        <min_month>2012-08-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>57527</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ServiceMon/analyses/14392094/languages.png">
+          <language color="4096EE" percentage="56" id="17">
+C#          </language>
+          <language color="555555" percentage="42" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

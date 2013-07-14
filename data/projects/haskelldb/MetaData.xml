@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12082</id>
+      <name>haskelldb</name>
+      <url>http://www.ohloh.net/p/haskelldb.xml</url>
+      <html_url>http://www.ohloh.net/p/haskelldb</html_url>
+      <created_at>2008-02-22T00:54:16Z</created_at>
+      <updated_at>2013-06-14T04:26:46Z</updated_at>
+      <description>HaskellDB is a combinator library for expressing queries and other operations on relational databases in a type safe and declarative way. All the queries and operations are completely expressed within Haskell, no embedded (SQL) commands are needed</description>
+      <homepage_url>http://haskelldb.sourceforge.net/</homepage_url>
+      <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/haskelldb</download_url>
+      <url_name>haskelldb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14254024</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>sqlite</tag>
+        <tag>db</tag>
+        <tag>haskell</tag>
+        <tag>odbc</tag>
+        <tag>database</tag>
+        <tag>postgresql</tag>
+        <tag>dbi</tag>
+      </tags>
+      <analysis>
+        <id>14254024</id>
+        <url>http://www.ohloh.net/analyses/14254024.xml</url>
+        <project_id>12082</project_id>
+        <updated_at>2013-07-12T09:00:52Z</updated_at>
+        <logged_at>2013-07-12T09:00:44Z</logged_at>
+        <min_month>2003-11-01T00:00:00Z</min_month>
+        <max_month>2005-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4490</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/haskelldb/analyses/14254024/languages.png">
+          <language color="007B7C" percentage="99" id="38">
+Haskell          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

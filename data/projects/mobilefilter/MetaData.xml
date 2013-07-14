@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>332395</id>
+      <name>Apache Mobile Filter</name>
+      <url>http://www.ohloh.net/p/mobilefilter.xml</url>
+      <html_url>http://www.ohloh.net/p/mobilefilter</html_url>
+      <created_at>2009-04-28T22:39:56Z</created_at>
+      <updated_at>2013-06-09T20:48:00Z</updated_at>
+      <description>AMF is a suite of instruments that allows you to access WURFL from any programming language, not just Java and php that is traditionally used for dynamic mobile web sites.
+The module detects the mobile device and passes the WURFL capabilities on to the other web application as environment variables. It can also be used to resize images on the fly to adapt to the screen size of the mobile device.
+Another use of AMF is to use it as a switcher to identify mobile devices, and are directed to their websites on the most appropriate.
+The owner of the project is Idel Fuschini</description>
+      <homepage_url>http://www.apachemobilefilter.org</homepage_url>
+      <download_url>http://sourceforge.net/projects/mobilefilter/files/ApacheMobileFilter/</download_url>
+      <url_name>mobilefilter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47394/AMFlogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47394/AMFlogo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14212613</analysis_id>
+      <tags>
+        <tag>iphone</tag>
+        <tag>http_servers</tag>
+        <tag>detector</tag>
+        <tag>device</tag>
+        <tag>wap</tag>
+        <tag>opensource</tag>
+        <tag>mobile</tag>
+        <tag>blackberry</tag>
+        <tag>android</tag>
+      </tags>
+      <analysis>
+        <id>14212613</id>
+        <url>http://www.ohloh.net/analyses/14212613.xml</url>
+        <project_id>332395</project_id>
+        <updated_at>2013-07-08T07:05:32Z</updated_at>
+        <logged_at>2013-07-08T07:05:09Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11342</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mobilefilter/analyses/14212613/languages.png">
+          <language color="D2C690" percentage="89" id="8">
+Perl          </language>
+          <language color="EEE" percentage="9" id="52">
+Make          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

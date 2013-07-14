@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25972</id>
+      <name>Morpho</name>
+      <url>http://www.ohloh.net/p/morpho.xml</url>
+      <html_url>http://www.ohloh.net/p/morpho</html_url>
+      <created_at>2008-10-31T18:54:45Z</created_at>
+      <updated_at>2013-07-14T01:10:33Z</updated_at>
+      <description>Morpho allows you to create and manage your data, and to share it with others. It was created to provide an easy-to-use, cross-platform application for accessing and manipulating metadata and data (both locally and on the network).
+
+Morpho allows ecologists to create metadata, (i.e. describe their data in a standardized format), and create a catalog of data &amp; metadata upon which to query, edit and view data collections. In addition, It also provides the means to access network servers, in order to query, view and retrieve all relevant, public ecological data!</description>
+      <homepage_url>http://knb.ecoinformatics.org/morphoportal.jsp</homepage_url>
+      <download_url>http://knb.ecoinformatics.org/morphoportal.jsp</download_url>
+      <url_name>morpho</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10791/MorphoButterfly_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10791/MorphoButterfly_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14620638</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>xml</tag>
+        <tag>eml</tag>
+        <tag>data</tag>
+        <tag>ecology</tag>
+        <tag>metadata</tag>
+        <tag>data_management</tag>
+        <tag>database</tag>
+        <tag>morpho</tag>
+      </tags>
+      <analysis>
+        <id>14620638</id>
+        <url>http://www.ohloh.net/analyses/14620638.xml</url>
+        <project_id>25972</project_id>
+        <updated_at>2013-07-14T01:10:33Z</updated_at>
+        <logged_at>2013-07-13T23:23:19Z</logged_at>
+        <min_month>2000-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>236522</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/morpho/analyses/14620638/languages.png">
+          <language color="9A63AD" percentage="39" id="5">
+Java          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="556677" percentage="22" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

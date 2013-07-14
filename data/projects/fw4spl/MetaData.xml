@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>442344</id>
+      <name>FrameWork for Software Production Line</name>
+      <url>http://www.ohloh.net/p/fw4spl.xml</url>
+      <html_url>http://www.ohloh.net/p/fw4spl</html_url>
+      <created_at>2009-09-23T05:58:00Z</created_at>
+      <updated_at>2013-07-08T09:55:14Z</updated_at>
+      <description>FW4SPL is a component-oriented architecture with the notion of role-based programming. FW4SPL consists of a set of cross-platform C++ libraries. For now, FW4SPL focuses on the problem of medical images processing and visualization.</description>
+      <homepage_url>http://code.google.com/p/fw4spl/</homepage_url>
+      <download_url>https://fw4spl.googlecode.com/hg/</download_url>
+      <url_name>fw4spl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14568851</analysis_id>
+      <tags>
+        <tag>image</tag>
+        <tag>visualisation</tag>
+        <tag>sconspiracy</tag>
+        <tag>dataflow</tag>
+        <tag>scons</tag>
+        <tag>segmentation</tag>
+        <tag>plugin</tag>
+        <tag>component</tag>
+        <tag>vtk</tag>
+        <tag>medical</tag>
+        <tag>framework</tag>
+        <tag>dicom</tag>
+        <tag>3d</tag>
+        <tag>imageanalysis</tag>
+        <tag>c++</tag>
+        <tag>visualization</tag>
+        <tag>processing</tag>
+        <tag>cross-platform</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14568851</id>
+        <url>http://www.ohloh.net/analyses/14568851.xml</url>
+        <project_id>442344</project_id>
+        <updated_at>2013-07-08T09:55:14Z</updated_at>
+        <logged_at>2013-07-08T06:38:50Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>329840</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fw4spl/analyses/14568851/languages.png">
+          <language color="F35F1F" percentage="77" id="44">
+C++          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

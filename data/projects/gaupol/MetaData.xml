@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3787</id>
+      <name>Gaupol</name>
+      <url>http://www.ohloh.net/p/gaupol.xml</url>
+      <html_url>http://www.ohloh.net/p/gaupol</html_url>
+      <created_at>2006-12-11T23:01:55Z</created_at>
+      <updated_at>2013-07-12T00:11:40Z</updated_at>
+      <description>Gaupol is an editor for text-based subtitle files. It supports multiple subtitle file formats and provides means of correcting texts and timing subtitles to match video. The user interface is designed with attention to batch processing of multiple documents and convenience of translating.</description>
+      <homepage_url>http://home.gna.org/gaupol/</homepage_url>
+      <download_url>http://home.gna.org/gaupol/download.html</download_url>
+      <url_name>gaupol</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11344/icon-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11344/icon-64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14596727</analysis_id>
+      <tags>
+        <tag>translation</tag>
+        <tag>subtitle</tag>
+        <tag>srt</tag>
+        <tag>subtitles</tag>
+        <tag>text</tag>
+        <tag>editor</tag>
+      </tags>
+      <analysis>
+        <id>14596727</id>
+        <url>http://www.ohloh.net/analyses/14596727.xml</url>
+        <project_id>3787</project_id>
+        <updated_at>2013-07-12T00:11:39Z</updated_at>
+        <logged_at>2013-07-12T00:09:59Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>40764</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gaupol/analyses/14596727/languages.png">
+          <language color="4A246B" percentage="63" id="9">
+Python          </language>
+          <language color="555555" percentage="35" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

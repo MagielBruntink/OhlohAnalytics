@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>51509</id>
+      <project_id>9618</project_id>
+      <repository_id>50174</repository_id>
+      <repository>
+        <id>50174</id>
+        <type>HgRepository</type>
+        <url>http://hg.enanocms.org/repos/enano-1.0/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T16:19:22Z</logged_at>
+        <commits>347</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>51508</id>
+      <project_id>9618</project_id>
+      <repository_id>50173</repository_id>
+      <repository>
+        <id>50173</id>
+        <type>HgRepository</type>
+        <url>http://hg.enanocms.org/repos/enano-1.1/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T16:35:10Z</logged_at>
+        <commits>1375</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

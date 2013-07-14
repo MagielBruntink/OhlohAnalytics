@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>70245</id>
+      <name>sa-exim</name>
+      <url>http://www.ohloh.net/p/sa-exim.xml</url>
+      <html_url>http://www.ohloh.net/p/sa-exim</html_url>
+      <created_at>2008-12-19T07:36:10Z</created_at>
+      <updated_at>2013-06-26T09:24:35Z</updated_at>
+      <description>SA-Exim lets you run SpamAssassin at SMTP time so that you can reject mail early without being a joe job source.
+It also allows for teergrubing, or adaptive greylisting depending on the SA score (i.e. don't greylist ham, reject spam right away, and greylist what's in the middle)</description>
+      <homepage_url>http://code.google.com/p/sa-exim</homepage_url>
+      <download_url></download_url>
+      <url_name>sa-exim</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14415033</analysis_id>
+      <tags>
+        <tag>smtp</tag>
+        <tag>spamassassin</tag>
+        <tag>exim</tag>
+        <tag>spam</tag>
+        <tag>greylisting</tag>
+      </tags>
+      <analysis>
+        <id>14415033</id>
+        <url>http://www.ohloh.net/analyses/14415033.xml</url>
+        <project_id>70245</project_id>
+        <updated_at>2013-07-06T03:24:45Z</updated_at>
+        <logged_at>2013-07-06T03:24:43Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2006-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sa-exim/analyses/14415033/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

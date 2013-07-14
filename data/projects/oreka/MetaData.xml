@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7731</id>
+      <name>Oreka - Voice Recording for VoIP</name>
+      <url>http://www.ohloh.net/p/oreka.xml</url>
+      <html_url>http://www.ohloh.net/p/oreka</html_url>
+      <created_at>2007-08-14T19:51:50Z</created_at>
+      <updated_at>2013-07-05T19:43:08Z</updated_at>
+      <description>OrecX is the leading developer of voice recording solutions for VoIP. Oreka TR is the full feature offspring of Oreka, the open source call recording project posted on (SourceForge.net).  Oreka TR was developed for companies that want an inexpensive, easy-to-install, easy-to-use, easy-to-maintain VoIP recorder for compliance, risk and performance business applications.
+Browser Based Technology: recordings can be retrieved from anywhere at anytime with the right administration rights.
+
+Fine grained privilege access system:  Make sure employees in your organization access what is necessary and only what is necessary to carry out their daily tasks. Fine granularity with sensible defaults: Out of the box, the software sets privileges the way most organizations do. However, if you have any special needs, it is possible to attach users to any number of security profiles that define access level to each business objective. Complex organizational structures can easily be mapped to OrecX TR by using the hierarchical group system.
+
+Scalable &#8211; from 10 to 10,000 users single or multi-site :  There is no limit on the number of recording services reporting to the central database logger. The capturing process can happen anywhere between fully centralized to fully distributed as pictured on the system architecture diagram below.
+
+Low impact pilots: no implementation costs or specialized hardware or software required.  Pilot can be up and running within two hours. 
+
+Low purchase price: pay for only what you use on a monthly, annual or per call basis. 
+
+Low implementation costs: installs in hours with no specialists required.
+
+Flexible tagging system: Attach any kind of information to your recordings manually or programmatically via the OrecX API, bookmark interesting places in calls and be able to search through all this personalized information instantly.
+
+Open source, open API - Possible to develop your own extensions to the system - integrates well in existing CRM systems  The web service API is easily usable from any programming language, without any special compiler or environment. It is as simple as requesting URLs and parsing XML in return. The Open source Plug in architecture allows organizations to add their own processing modules to OrecX.
+
+Operating system agnostic OrecX runs on Windows and various flavors of Linux. 
+
+Analytics ready - simple integration with other dbases to build detailed file names OrecX is compatible with all industry standard databases (Oracle and IBM DB2, MS-SQL...) and open source (PostgreSQL, MySQL). It is possible to have OrecX log to an existing database for integration into another business system in production.</description>
+      <homepage_url>http://oreka.sourceforge.net/</homepage_url>
+      <download_url>http://oreka.sourceforge.net/</download_url>
+      <url_name>oreka</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14541336</analysis_id>
+      <analysis>
+        <id>14541336</id>
+        <url>http://www.ohloh.net/analyses/14541336.xml</url>
+        <project_id>7731</project_id>
+        <updated_at>2013-07-13T23:24:42Z</updated_at>
+        <logged_at>2013-07-13T23:24:37Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>48660</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/oreka/analyses/14541336/languages.png">
+          <language color="F35F1F" percentage="54" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="15" id="42">
+C          </language>
+          <language color="9A63AD" percentage="13" id="5">
+Java          </language>
+          <language color="000000" percentage="18" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_1_0</name>
+          <nice_name>GNU General Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

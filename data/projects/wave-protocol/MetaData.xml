@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>371838</id>
+      <name>Google Wave Federation Protocol</name>
+      <url>http://www.ohloh.net/p/wave-protocol.xml</url>
+      <html_url>http://www.ohloh.net/p/wave-protocol</html_url>
+      <created_at>2009-08-13T17:17:38Z</created_at>
+      <updated_at>2013-06-25T17:16:59Z</updated_at>
+      <description>This project contains the draft specification for the Google Wave Federation Protocol and the Java source code for the Google Wave Federation Prototype Server. The Prototype Server contains the Operational Transform (OT) code and the underlying wave model, the Federation Protocol, and a basic client/server prototype that uses the wave protocol. The OT code is the heart and soul of the collaborative experience in Google Wave and we plan for that code to evolve into the production-quality reference implementation.</description>
+      <homepage_url>http://www.waveprotocol.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>wave-protocol</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26005/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26005/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14406201</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>waveinabox</tag>
+        <tag>gwt</tag>
+        <tag>google</tag>
+        <tag>protobuf</tag>
+        <tag>wiab</tag>
+        <tag>waveserver</tag>
+        <tag>federation</tag>
+        <tag>protocol</tag>
+        <tag>wave</tag>
+        <tag>collaborative</tag>
+        <tag>editor</tag>
+        <tag>chat</tag>
+      </tags>
+      <analysis>
+        <id>14406201</id>
+        <url>http://www.ohloh.net/analyses/14406201.xml</url>
+        <project_id>371838</project_id>
+        <updated_at>2013-07-13T22:54:54Z</updated_at>
+        <logged_at>2013-07-13T22:54:52Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>237109</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wave-protocol/analyses/14406201/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

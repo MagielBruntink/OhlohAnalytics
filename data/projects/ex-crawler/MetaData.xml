@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482971</id>
+      <name>Ex-Crawler</name>
+      <url>http://www.ohloh.net/p/ex-crawler.xml</url>
+      <html_url>http://www.ohloh.net/p/ex-crawler</html_url>
+      <created_at>2010-05-13T09:30:05Z</created_at>
+      <updated_at>2013-06-17T00:15:09Z</updated_at>
+      <description>Ex-Crawler Project is divided into three subprojects:
+
+The main part is the Ex-Crawler daemon server, a highly configurable, flexible (Web-) crawler written in Java. It comes with it's own socket server, where you can manage the server, own usermanagement, distributed grid / volunteer computing and much more. Crawled informations are stored in Database. Currently MySQL, PostgreSQL and MSSQL are supported.
+
+The graphical (Java Swing) distributed grid / volunteer computing client, including pc idling detection and much more.
+
+The web search engine written in PHP. It comes with a CMS, multi language detection and support, templates using smarty. And an application framework partly forked from joomla, so that joomla components could be adapted fast.</description>
+      <homepage_url>http://ex-crawler.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/projects/ex-crawler/files/</download_url>
+      <url_name>ex-crawler</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33389/ex-crawler-logo-web-nobg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33389/ex-crawler-logo-web-nobg_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14285310</analysis_id>
+      <tags>
+        <tag>engine</tag>
+        <tag>webcrawl</tag>
+        <tag>crawling</tag>
+        <tag>volunteercomputing</tag>
+        <tag>crawler</tag>
+        <tag>java</tag>
+        <tag>php</tag>
+        <tag>mysql</tag>
+        <tag>webcrawler</tag>
+        <tag>postgresql</tag>
+        <tag>search</tag>
+        <tag>daemon</tag>
+        <tag>postgre</tag>
+      </tags>
+      <analysis>
+        <id>14285310</id>
+        <url>http://www.ohloh.net/analyses/14285310.xml</url>
+        <project_id>482971</project_id>
+        <updated_at>2013-07-12T01:43:03Z</updated_at>
+        <logged_at>2013-07-12T01:42:58Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>72187</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ex-crawler/analyses/14285310/languages.png">
+          <language color="493625" percentage="31" id="30">
+SQL          </language>
+          <language color="9A63AD" percentage="26" id="5">
+Java          </language>
+          <language color="356AA0" percentage="21" id="2">
+PHP          </language>
+          <language color="000000" percentage="22" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14869</id>
+      <name>Exscript</name>
+      <url>http://www.ohloh.net/p/exscript.xml</url>
+      <html_url>http://www.ohloh.net/p/exscript</html_url>
+      <created_at>2008-06-11T18:52:03Z</created_at>
+      <updated_at>2013-06-27T09:38:29Z</updated_at>
+      <description>Exscript is a Python module and a template processor for automating network connections over protocols such as Telnet or SSH. We attempt to create the best possible set of tools for working with Telnet and SSH.
+
+Exscript may be used to automate sessions with routers from Cisco, Juniper,  OneAccess, Huawei, or any others. If you want to configures machines running Linux/Unix, IOS, IOS-XR, JunOS, VRP, or any other operating system that can be used with a terminal, Exscript should be just what you are looking for.
+
+The Exscript template language is also in some ways comparable to Expect, but has some unique features that make it a lot easier to use and understand for non-developers.</description>
+      <homepage_url>https://github.com/knipknap/exscript</homepage_url>
+      <download_url>http://code.google.com/p/exscript/downloads/list</download_url>
+      <url_name>exscript</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14432331</analysis_id>
+      <tags>
+        <tag>cisco</tag>
+        <tag>python</tag>
+        <tag>ssh</tag>
+        <tag>juniper</tag>
+        <tag>telnet</tag>
+      </tags>
+      <analysis>
+        <id>14432331</id>
+        <url>http://www.ohloh.net/analyses/14432331.xml</url>
+        <project_id>14869</project_id>
+        <updated_at>2013-07-07T00:11:18Z</updated_at>
+        <logged_at>2013-07-07T00:11:17Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>16294</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/exscript/analyses/14432331/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="000080" percentage="6" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

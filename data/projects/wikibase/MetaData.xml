@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>253120</id>
+      <name>Wikibase</name>
+      <url>http://www.ohloh.net/p/wikibase.xml</url>
+      <html_url>http://www.ohloh.net/p/wikibase</html_url>
+      <created_at>2009-01-19T20:19:01Z</created_at>
+      <updated_at>2013-07-07T08:36:57Z</updated_at>
+      <description>MediaWiki extension that allows you to use your wiki as a structured data repository.  The data can in turn be used in a wiki using the Wikibase Client extension.</description>
+      <homepage_url>https://www.mediawiki.org/wiki/Extension:Wikibase</homepage_url>
+      <download_url></download_url>
+      <url_name>wikibase</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56287/800px-Wikidata-logo.svg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56287/800px-Wikidata-logo.svg_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560562</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>wiki</tag>
+        <tag>mediawiki</tag>
+        <tag>semantic</tag>
+      </tags>
+      <analysis>
+        <id>14560562</id>
+        <url>http://www.ohloh.net/analyses/14560562.xml</url>
+        <project_id>253120</project_id>
+        <updated_at>2013-07-07T08:36:57Z</updated_at>
+        <logged_at>2013-07-07T08:31:00Z</logged_at>
+        <min_month>2012-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>48</twelve_month_contributor_count>
+        <total_code_lines>86264</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wikibase/analyses/14560562/languages.png">
+          <language color="356AA0" percentage="71" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="A40011" percentage="9" id="12">
+Ruby          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
