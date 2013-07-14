@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>114767</id>
+      <name>PVLE</name>
+      <url>http://www.ohloh.net/p/pvle.xml</url>
+      <html_url>http://www.ohloh.net/p/pvle</html_url>
+      <created_at>2008-12-28T15:43:50Z</created_at>
+      <updated_at>2013-06-26T12:33:40Z</updated_at>
+      <description>PVLE is a lightweight cross-platform game engine (real-time visualisation/simulation engine), using OSG (OpenSceneGraph) and ODE (OpenDynamicsEngine) among other well-known libraries. It is cross-platform and written in C++. It differs from other engines in the way it uses existing code instead of re-inventing things, and because it does not hide underlaying libraries.</description>
+      <homepage_url>http://pvle.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=199945</download_url>
+      <url_name>pvle</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16025/PVLE64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16025/PVLE64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14417900</analysis_id>
+      <tags>
+        <tag>boost</tag>
+        <tag>cplusplus</tag>
+        <tag>physics</tag>
+        <tag>openal</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+        <tag>game_engine</tag>
+        <tag>visualisation</tag>
+        <tag>macosx</tag>
+        <tag>lightweight</tag>
+        <tag>cmake</tag>
+        <tag>opendynamicsengine</tag>
+        <tag>library</tag>
+        <tag>osg</tag>
+        <tag>gl</tag>
+        <tag>engine</tag>
+        <tag>cross-platform</tag>
+        <tag>linux</tag>
+        <tag>openscenegraph</tag>
+        <tag>simple</tag>
+        <tag>game_development</tag>
+        <tag>gamedev</tag>
+        <tag>3d</tag>
+        <tag>game</tag>
+        <tag>opengl</tag>
+        <tag>scenegraph</tag>
+        <tag>objectoriented</tag>
+        <tag>ode</tag>
+      </tags>
+      <analysis>
+        <id>14417900</id>
+        <url>http://www.ohloh.net/analyses/14417900.xml</url>
+        <project_id>114767</project_id>
+        <updated_at>2013-07-05T20:29:31Z</updated_at>
+        <logged_at>2013-07-05T20:29:21Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>51227</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pvle/analyses/14417900/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="EEE" percentage="11" id="74">
+CMake          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="1" id="42">
+C          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

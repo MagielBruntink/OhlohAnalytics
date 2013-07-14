@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308845</id>
+      <name>CyaSSL</name>
+      <url>http://www.ohloh.net/p/cyassl.xml</url>
+      <html_url>http://www.ohloh.net/p/cyassl</html_url>
+      <created_at>2009-01-29T02:21:26Z</created_at>
+      <updated_at>2013-07-11T18:31:47Z</updated_at>
+      <description>CyaSSL is an embedded SSL implementation (up to TLS 1.2 and DTLS) for software developers building security functionality into their applications and devices. It is optimized for resource-constrained environments and can be up to 20x smaller than OpenSSL.
+
+CyaSSL is ported to a long list of environments, including Win/Linux/Mac, Solaris, ThreadX, VxWorks, FreeBSD, NetBSD, OpenBSD, embedded Linux, WinCE, Haiku, OpenWRT, iOS, Android, Nintendo Wii and Gamecube through DevKitPro, QNX, MontaVista, OpenCL, NonStop, TRON/ITRON/&#181;ITRON, &#181;C/OS, FreeRTOS, MQX, and Nucleus.  Supported chipsets include ARM, Intel, Motorola and others.
+
+CyaSSL cryptography includes assembly optimizations for several environments, including ARM, AVR 32, and Intel (with support for Intel AES-NI).</description>
+      <homepage_url>http://www.yassl.com/</homepage_url>
+      <download_url>http://www.yassl.com/yaSSL/Download.html</download_url>
+      <url_name>cyassl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39038/yaSSL_Logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39038/yaSSL_Logo_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9680032</analysis_id>
+      <tags>
+        <tag>ssl</tag>
+        <tag>aes</tag>
+        <tag>tls</tag>
+        <tag>embedded</tag>
+        <tag>portable</tag>
+        <tag>public_key</tag>
+        <tag>des</tag>
+        <tag>sha_256</tag>
+        <tag>encryption</tag>
+        <tag>x509</tag>
+        <tag>gnu</tag>
+        <tag>mysql</tag>
+        <tag>sha_512</tag>
+        <tag>md5</tag>
+        <tag>networking</tag>
+        <tag>rsa</tag>
+        <tag>key_generation</tag>
+        <tag>dual_license</tag>
+        <tag>development</tag>
+        <tag>3des</tag>
+        <tag>library</tag>
+        <tag>cryptography</tag>
+        <tag>sha_2</tag>
+        <tag>c</tag>
+        <tag>network</tag>
+        <tag>cross_platform</tag>
+        <tag>authentication</tag>
+        <tag>sha_1</tag>
+        <tag>security</tag>
+        <tag>gpl</tag>
+      </tags>
+      <analysis>
+        <id>9680032</id>
+        <url>http://www.ohloh.net/analyses/9680032.xml</url>
+        <project_id>308845</project_id>
+        <updated_at>2012-09-13T10:15:27Z</updated_at>
+        <logged_at>2012-09-13T10:15:20Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>55901</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cyassl/analyses/9680032/languages.png">
+          <language color="FF8F00" percentage="48" id="42">
+C          </language>
+          <language color="EEE" percentage="26" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="18" id="11">
+shell script          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

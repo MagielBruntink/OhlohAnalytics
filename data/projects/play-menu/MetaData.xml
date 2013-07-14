@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485872</id>
+      <name>play-menu</name>
+      <url>http://www.ohloh.net/p/play-menu.xml</url>
+      <html_url>http://www.ohloh.net/p/play-menu</html_url>
+      <created_at>2010-10-10T03:41:43Z</created_at>
+      <updated_at>2013-06-13T14:59:47Z</updated_at>
+      <description>Help app developer to easily implement navigation menu. Basically with the module what you need to do is: 
+
+1. create menu structure file (_menu.yml) in YAML format 
+2. put &quot;#{menu.menu /}&quot; tag in proper place of your main.html file</description>
+      <homepage_url>http://github.com/greenlaw110/play-menu</homepage_url>
+      <download_url>http://www.playframework.org/modules/menu</download_url>
+      <url_name>play-menu</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14249854</analysis_id>
+      <analysis>
+        <id>14249854</id>
+        <url>http://www.ohloh.net/analyses/14249854.xml</url>
+        <project_id>485872</project_id>
+        <updated_at>2013-07-06T11:52:58Z</updated_at>
+        <logged_at>2013-07-06T11:52:51Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3718</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/play-menu/analyses/14249854/languages.png">
+          <language color="9A63AD" percentage="31" id="5">
+Java          </language>
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="26" id="4">
+CSS          </language>
+          <language color="000000" percentage="13" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

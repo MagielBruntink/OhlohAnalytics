@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>309436</id>
+      <name>angel-engine</name>
+      <url>http://www.ohloh.net/p/angel-engine.xml</url>
+      <html_url>http://www.ohloh.net/p/angel-engine</html_url>
+      <created_at>2009-02-05T04:18:48Z</created_at>
+      <updated_at>2013-07-12T09:22:13Z</updated_at>
+      <description>Angel is a 2D game prototyping engine based on OpenGL and C++. 
+
+Angel was originally made by a group of employees at Electronic Arts Los Angeles for use in a GameJam they were planning for April 2008. The source was opened in January 2009. 
+
+Angel provides:
+   * Actors (game objects with color, shape, responses, attributes, etc.)
+   * Texturing with Transparency
+   * &quot;Animations&quot; (texture swapping at defined intervals)
+   * Rigid-Body Physics
+      * A clever programmer can do soft-body physics
+   * Sound
+   * Text Rendering with multiple fonts
+   * Particle Systems
+   * Some basic AI (state machine / pathfinding)
+   * Config Files
+   * Logging
+   * Input from a mouse, keyboard, or Xbox 360 controller
+      * Binding inputs from a config file
+   * Python Scripting
+      * In-Game Console</description>
+      <homepage_url>http://angel2d.com</homepage_url>
+      <download_url>http://code.google.com/p/angel-engine/downloads/list</download_url>
+      <url_name>angel-engine</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17217/angel_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17217/angel_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14603681</analysis_id>
+      <tags>
+        <tag>opengl</tag>
+        <tag>game</tag>
+        <tag>angel</tag>
+        <tag>swig</tag>
+        <tag>macosx</tag>
+        <tag>linux</tag>
+        <tag>python</tag>
+        <tag>cross-platform</tag>
+        <tag>cplusplus</tag>
+        <tag>windows</tag>
+        <tag>2d</tag>
+      </tags>
+      <analysis>
+        <id>14603681</id>
+        <url>http://www.ohloh.net/analyses/14603681.xml</url>
+        <project_id>309436</project_id>
+        <updated_at>2013-07-12T09:22:13Z</updated_at>
+        <logged_at>2013-07-12T09:20:46Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1033465</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/angel-engine/analyses/14603681/languages.png">
+          <language color="FF8F00" percentage="29" id="42">
+C          </language>
+          <language color="47A400" percentage="23" id="1">
+HTML          </language>
+          <language color="EEE" percentage="14" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="34" id="">
+27 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

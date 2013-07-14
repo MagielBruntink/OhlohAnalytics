@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584834</id>
+      <name>Apache Syncope</name>
+      <url>http://www.ohloh.net/p/syncope.xml</url>
+      <html_url>http://www.ohloh.net/p/syncope</html_url>
+      <created_at>2011-06-30T10:22:01Z</created_at>
+      <updated_at>2013-07-12T17:29:18Z</updated_at>
+      <description>Apache Syncope is an Open Source system for managing identities in enterprise environments, implemented in JEE technology.</description>
+      <homepage_url>http://incubator.apache.org/syncope/</homepage_url>
+      <download_url>http://incubator.apache.org/syncope/downloads.html</download_url>
+      <url_name>syncope</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51194/icon_reasonably_small_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51194/icon_reasonably_small_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14570305</analysis_id>
+      <tags>
+        <tag>jpa2</tag>
+        <tag>restful</tag>
+        <tag>identitymanagement</tag>
+        <tag>identity</tag>
+        <tag>idm</tag>
+        <tag>identity_manager</tag>
+        <tag>identitymanager</tag>
+        <tag>rest</tag>
+        <tag>openjpa</tag>
+      </tags>
+      <analysis>
+        <id>14570305</id>
+        <url>http://www.ohloh.net/analyses/14570305.xml</url>
+        <project_id>584834</project_id>
+        <updated_at>2013-07-09T10:02:03Z</updated_at>
+        <logged_at>2013-07-08T09:03:03Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>303901</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/syncope/analyses/14570305/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>622554</id>
+      <name>rootpy</name>
+      <url>http://www.ohloh.net/p/rootpy.xml</url>
+      <html_url>http://www.ohloh.net/p/rootpy</html_url>
+      <created_at>2012-12-01T07:09:59Z</created_at>
+      <updated_at>2013-07-05T18:22:24Z</updated_at>
+      <description>A pythonic layer on top of the ROOT framework's PyROOT bindings.</description>
+      <homepage_url>http://rootpy.org</homepage_url>
+      <download_url>http://pypi.python.org/pypi/rootpy/</download_url>
+      <url_name>rootpy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59782/b15ade4dcfd62d2b168f2f71d344c70c_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59782/b15ade4dcfd62d2b168f2f71d344c70c_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14539744</analysis_id>
+      <tags>
+        <tag>root</tag>
+        <tag>scientific</tag>
+        <tag>hdf5</tag>
+        <tag>c++</tag>
+        <tag>data_formats</tag>
+        <tag>python</tag>
+        <tag>data</tag>
+        <tag>library</tag>
+        <tag>numpy</tag>
+        <tag>visualization</tag>
+        <tag>physics</tag>
+        <tag>cern</tag>
+      </tags>
+      <analysis>
+        <id>14539744</id>
+        <url>http://www.ohloh.net/analyses/14539744.xml</url>
+        <project_id>622554</project_id>
+        <updated_at>2013-07-05T18:22:24Z</updated_at>
+        <logged_at>2013-07-05T18:12:02Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>16934</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rootpy/analyses/14539744/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

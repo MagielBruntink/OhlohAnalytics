@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587566</id>
+      <name>Browser ID</name>
+      <url>http://www.ohloh.net/p/browserid.xml</url>
+      <html_url>http://www.ohloh.net/p/browserid</html_url>
+      <created_at>2011-12-02T20:52:52Z</created_at>
+      <updated_at>2013-07-06T18:31:26Z</updated_at>
+      <description>A secure, distributed, and easy to use identification system.</description>
+      <homepage_url>https://browserid.org</homepage_url>
+      <download_url></download_url>
+      <url_name>browserid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63978/977653-96-20120824010819_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63978/977653-96-20120824010819_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14553028</analysis_id>
+      <tags>
+        <tag>browserid</tag>
+        <tag>identity</tag>
+        <tag>privacy</tag>
+      </tags>
+      <analysis>
+        <id>14553028</id>
+        <url>http://www.ohloh.net/analyses/14553028.xml</url>
+        <project_id>587566</project_id>
+        <updated_at>2013-07-06T18:31:26Z</updated_at>
+        <logged_at>2013-07-06T18:26:02Z</logged_at>
+        <min_month>2011-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>35</twelve_month_contributor_count>
+        <total_code_lines>51103</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/browserid/analyses/14553028/languages.png">
+          <language color="A4007E" percentage="93" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

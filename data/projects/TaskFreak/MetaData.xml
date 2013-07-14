@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5532</id>
+      <name>TaskFreak!</name>
+      <url>http://www.ohloh.net/p/TaskFreak.xml</url>
+      <html_url>http://www.ohloh.net/p/TaskFreak</html_url>
+      <created_at>2007-05-22T21:44:35Z</created_at>
+      <updated_at>2013-06-13T08:07:36Z</updated_at>
+      <description>TaskFreak! is a simple but efficient web based task manager written in PHP.</description>
+      <homepage_url>http://www.taskfreak.com</homepage_url>
+      <download_url>http://www.taskfreak.com/download.php</download_url>
+      <url_name>TaskFreak</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8349/taskfreak_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8349/taskfreak_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14246529</analysis_id>
+      <tags>
+        <tag>organization</tag>
+        <tag>schedule</tag>
+        <tag>agenda</tag>
+        <tag>todo</tag>
+        <tag>task</tag>
+        <tag>management</tag>
+        <tag>organizer</tag>
+        <tag>tasks</tag>
+      </tags>
+      <analysis>
+        <id>14246529</id>
+        <url>http://www.ohloh.net/analyses/14246529.xml</url>
+        <project_id>5532</project_id>
+        <updated_at>2013-07-05T13:41:13Z</updated_at>
+        <logged_at>2013-07-05T13:41:07Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2007-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>25818</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/TaskFreak/analyses/14246529/languages.png">
+          <language color="356AA0" percentage="54" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="24" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="10" id="4">
+CSS          </language>
+          <language color="000000" percentage="12" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

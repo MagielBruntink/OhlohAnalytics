@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586509</id>
+      <name>Clipperz Community Edition</name>
+      <url>http://www.ohloh.net/p/clipperz-community-edition.xml</url>
+      <html_url>http://www.ohloh.net/p/clipperz-community-edition</html_url>
+      <created_at>2011-10-07T08:15:50Z</created_at>
+      <updated_at>2013-06-24T22:54:58Z</updated_at>
+      <description>Clipperz Community Edition is a web based password manager. 
+
+It allows you to host on your own server a web service identical to the well known Clipperz online password manager. 
+http://www.clipperz.com
+
+It supports multiple backends (PHP/MySQL, Python/AppEngine, &#8230;) and you can contribute your own.
+
+You can think of it as a web rolodex, where users can store and freely organize any kind of data: passwords, confidential notes, burglar alarm codes, credit and debit card details, PINs, software keys, &#8230; 
+Furthermore, if the data happens to be the credentials to some online service, it is also possible to create a direct login, a link, that the user can click on to access that service with a single click.
+
+Local encryption within the browser guarantees that no one except you can read your data</description>
+      <homepage_url>http://www.clipperz.com</homepage_url>
+      <download_url>https://github.com/clipperz/password-manager</download_url>
+      <url_name>clipperz-community-edition</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47358/clipperz_star_logo_236x236_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47358/clipperz_star_logo_236x236_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14389521</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>ajax</tag>
+        <tag>cryptography</tag>
+        <tag>privacy</tag>
+        <tag>passwords</tag>
+        <tag>passwordgenerator</tag>
+        <tag>security</tag>
+        <tag>javascript</tag>
+        <tag>identity</tag>
+        <tag>php</tag>
+        <tag>manager</tag>
+        <tag>clipperz</tag>
+        <tag>passwordmanager</tag>
+        <tag>password</tag>
+      </tags>
+      <analysis>
+        <id>14389521</id>
+        <url>http://www.ohloh.net/analyses/14389521.xml</url>
+        <project_id>586509</project_id>
+        <updated_at>2013-07-13T11:13:09Z</updated_at>
+        <logged_at>2013-07-13T11:13:06Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>118844</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/clipperz-community-edition/analyses/14389521/languages.png">
+          <language color="A4007E" percentage="87" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="9" id="4">
+CSS          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

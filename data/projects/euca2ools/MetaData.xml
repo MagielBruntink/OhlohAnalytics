@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585506</id>
+      <name>euca2ools</name>
+      <url>http://www.ohloh.net/p/euca2ools.xml</url>
+      <html_url>http://www.ohloh.net/p/euca2ools</html_url>
+      <created_at>2011-08-05T15:26:05Z</created_at>
+      <updated_at>2013-07-12T09:59:14Z</updated_at>
+      <description>Euca2ools are command-line tools for interacting with Web services that export a REST/Query-based API compatible with Amazon EC2 and S3 services.
+
+They are the official CLI tools for Eucalyptus.</description>
+      <homepage_url>http://www.eucalyptus.com/download/euca2ools</homepage_url>
+      <download_url>http://www.eucalyptus.com/download/euca2ools</download_url>
+      <url_name>euca2ools</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54044/Untitled-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54044/Untitled-64x64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14604217</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>ec2</tag>
+        <tag>eucalyptus</tag>
+      </tags>
+      <analysis>
+        <id>14604217</id>
+        <url>http://www.ohloh.net/analyses/14604217.xml</url>
+        <project_id>585506</project_id>
+        <updated_at>2013-07-12T09:59:14Z</updated_at>
+        <logged_at>2013-07-12T09:56:40Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>30020</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/euca2ools/analyses/14604217/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

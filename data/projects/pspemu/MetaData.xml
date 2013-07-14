@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>441191</id>
+      <name>pspemu</name>
+      <url>http://www.ohloh.net/p/pspemu.xml</url>
+      <html_url>http://www.ohloh.net/p/pspemu</html_url>
+      <created_at>2009-09-15T15:07:15Z</created_at>
+      <updated_at>2013-06-15T19:37:25Z</updated_at>
+      <description>Raison d'&#234;treThis project aims making an emulator using D language. I started it in order to practice D, use D features and learn about the PSP hardware and software. It pretends to be a simple but somehow pretty-fast interpreted implementation. It also aims to spread over the world that D is a very good compiled language. It's fast like C but it feels like Java or C#. 
+
+New version:2010 - March - 27Official website opened 
+
+2010 - March - 26Spanish news (pspemu V) 
+
+2010 - March - 23Spanish news (pspemu IV) 
+
+2010 - January - 25Spanish news (pspemu III) 
+
+2010 - January - 21Spanish news (pspemu II) 
+
+2010 - January - 18Spanish explanation (pspemu) 
+
+Started again with the project. This time I'm using D 2.0. At the moment I didn't choose any window library. I'm focusing new development using TDD (Test Driven Development). With this version I'm developing an Allegrex assembler and disasembler. At the moment the new version doesn't run anything. But the main cpu skeleton is almost finished. 
+
+Old versionThis is a proof of concept I made of a PSP Emulator with a debugger using D programming language (Walter Bright) and DFL library (Chris Miller). 
+
+This emulator is based in another great opensource emulator psplayer (Noxa) and the laudable work of ps2dev community. Demos included are part of the pspsdk. 
+
+Other psp emulatorshttp://code.google.com/p/jpcsp/ http://code.google.com/p/emu-sam/ http://code.google.com/p/pcsp/ http://code.google.com/p/pspplayer/ http://code.google.com/p/mfzpsp/ 
+
+
+
+
+
+  
+
+Useful/Interesting/Random Linkshttp://minpspw.sourceforge.net/archives/cat_llvm.html http://hitmen.c02.at/files/yapspd/psp_doc/ http://www.dsource.org/projects/ldc http://www.dprogramming.com/dfl.php http://www.digitalmars.com/d/2.0/ http://dsource.org/projects/ http://ddbg.mainia.de/releases.html http://d-ide.sourceforge.net/ Stack Trace using DDBGdmd\windows\bin\ddbg -cmd &quot;r;us;q&quot; pspemu.exe %*
+
+...
+Loader.load Exception: object.Exception: Not implemented relocation yet.
+Unhandled D Exception (object.Exception
+ &quot;Not implemented relocation yet.&quot;) at KERNELBASE.dll (0x7660b727) thread(984)
+-&gt;us
+#0 ?? () at pspemu\hle\Loader.d:162 from KERNELBASE.dll
+#1 0x0049447c in __d_throw@4 () at pspemu\hle\Loader.d:162 from deh
+#2 0x0041c578 in _D6pspemu3hle6Loader6Loader4loadMFAyaZv () at pspemu\hle\Loader.d:162
+#3 0x004a2974 in extern (C) int rt.dmain2.main(int, char**) . void runMain(void*) () from dmain2
+#4 0x004a29b1 in extern (C) int rt.dmain2.main(int, char**) . void runAll(void*) () from dmain2
+#5 0x004a2724 in _main () from dmain2
+#6 0x00519f85 in _mainCRTStartup () from constart
+#7 0x74df3677 in ?? () from KERNEL32.dll
+#8 0x77199d72 in ?? () from ntdll.dll
+#9 0x77199d45 in ?? () from ntdll.dll</description>
+      <homepage_url>http://code.google.com/p/pspemu/</homepage_url>
+      <download_url></download_url>
+      <url_name>pspemu</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14271240</analysis_id>
+      <tags>
+        <tag>mips</tag>
+        <tag>emulator</tag>
+        <tag>psp</tag>
+        <tag>interpreter</tag>
+        <tag>d</tag>
+      </tags>
+      <analysis>
+        <id>14271240</id>
+        <url>http://www.ohloh.net/analyses/14271240.xml</url>
+        <project_id>441191</project_id>
+        <updated_at>2013-07-07T16:44:32Z</updated_at>
+        <logged_at>2013-07-07T16:44:09Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>651734</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pspemu/analyses/14271240/languages.png">
+          <language color="EC2E24" percentage="45" id="32">
+D          </language>
+          <language color="FF8F00" percentage="27" id="42">
+C          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="000000" percentage="12" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>137621</id>
+      <name>Janino</name>
+      <url>http://www.ohloh.net/p/janino.xml</url>
+      <html_url>http://www.ohloh.net/p/janino</html_url>
+      <created_at>2009-01-10T01:16:53Z</created_at>
+      <updated_at>2013-07-09T19:36:42Z</updated_at>
+      <description>Janino is a compiler that reads a Java expression, block, or source file, and generates Java bytecode that is loaded and executed directly. It is not intended to be a development tool, but an embedded compiler for run-time compilation purposes.</description>
+      <homepage_url>http://docs.codehaus.org/display/JANINO/Home</homepage_url>
+      <download_url>http://docs.codehaus.org/display/JANINO/Download</download_url>
+      <url_name>janino</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574626</analysis_id>
+      <analysis>
+        <id>14574626</id>
+        <url>http://www.ohloh.net/analyses/14574626.xml</url>
+        <project_id>137621</project_id>
+        <updated_at>2013-07-09T19:36:42Z</updated_at>
+        <logged_at>2013-07-09T19:12:29Z</logged_at>
+        <min_month>2004-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>34660</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/janino/analyses/14574626/languages.png">
+          <language color="9A63AD" percentage="93" id="5">
+Java          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

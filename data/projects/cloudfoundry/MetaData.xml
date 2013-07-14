@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586714</id>
+      <name>Cloud Foundry</name>
+      <url>http://www.ohloh.net/p/cloudfoundry.xml</url>
+      <html_url>http://www.ohloh.net/p/cloudfoundry</html_url>
+      <created_at>2011-10-17T16:29:14Z</created_at>
+      <updated_at>2013-07-13T22:07:46Z</updated_at>
+      <description>Cloud Foundry - the open Platform as a Service project</description>
+      <homepage_url>http://cloudfoundry.com</homepage_url>
+      <download_url>http://cloudfoundry.org</download_url>
+      <url_name>cloudfoundry</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52642/Logo_CloudFoundry_Square_100x100_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52642/Logo_CloudFoundry_Square_100x100_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590942</analysis_id>
+      <tags>
+        <tag>cfoundry</tag>
+        <tag>paas</tag>
+        <tag>cloud</tag>
+        <tag>cloudfoundry</tag>
+      </tags>
+      <analysis>
+        <id>14590942</id>
+        <url>http://www.ohloh.net/analyses/14590942.xml</url>
+        <project_id>586714</project_id>
+        <updated_at>2013-07-11T15:01:08Z</updated_at>
+        <logged_at>2013-07-11T05:19:38Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>622</twelve_month_contributor_count>
+        <total_code_lines>560378</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cloudfoundry/analyses/14590942/languages.png">
+          <language color="A40011" percentage="37" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="19" id="6">
+JavaScript          </language>
+          <language color="EEE" percentage="13" id="88">
+Go          </language>
+          <language color="000000" percentage="31" id="">
+23 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>139928</id>
+      <name>eLua</name>
+      <url>http://www.ohloh.net/p/elua.xml</url>
+      <html_url>http://www.ohloh.net/p/elua</html_url>
+      <created_at>2009-01-10T23:25:35Z</created_at>
+      <updated_at>2013-07-07T11:28:29Z</updated_at>
+      <description>eLua stands for Embedded Lua and the project aims to introduce the programming language Lua to the embedded software development world. Lua is the perfect example of a minimal, yet fully functional language. Although generally advertised as a &quot;scripting language&quot; (and used accordingly especially in the game industry), it is also fully capable of running stand-alone programs. Its limited resource requirements make it suitable to a lot of microcontroller families.
+The aim of the project is to have a fully functional Lua development environment on the microcontroller itself, without the need to install a specific toolchain on the PC side.</description>
+      <homepage_url>http://www.eluaproject.net/</homepage_url>
+      <download_url>http://www.eluaproject.net/en/Downloads</download_url>
+      <url_name>elua</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/24164/eLuaLogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/24164/eLuaLogo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14561223</analysis_id>
+      <tags>
+        <tag>mcu</tag>
+        <tag>microcontroller</tag>
+        <tag>source</tag>
+        <tag>language</tag>
+        <tag>arm</tag>
+        <tag>arm32</tag>
+        <tag>programming</tag>
+        <tag>embedded</tag>
+        <tag>development</tag>
+        <tag>microcontrollers</tag>
+        <tag>electronics</tag>
+        <tag>tools</tag>
+        <tag>lua</tag>
+        <tag>avr32</tag>
+      </tags>
+      <analysis>
+        <id>14561223</id>
+        <url>http://www.ohloh.net/analyses/14561223.xml</url>
+        <project_id>139928</project_id>
+        <updated_at>2013-07-07T11:28:29Z</updated_at>
+        <logged_at>2013-07-07T11:27:38Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>412991</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/elua/analyses/14561223/languages.png">
+          <language color="FF8F00" percentage="83" id="42">
+C          </language>
+          <language color="F35F1F" percentage="12" id="44">
+C++          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

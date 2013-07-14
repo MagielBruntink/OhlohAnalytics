@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>52052</id>
+      <name>vimwiki</name>
+      <url>http://www.ohloh.net/p/vimwiki.xml</url>
+      <html_url>http://www.ohloh.net/p/vimwiki</html_url>
+      <created_at>2008-12-16T17:06:04Z</created_at>
+      <updated_at>2013-07-11T15:14:41Z</updated_at>
+      <description>Hosted on vim scripts too. 
+
+DescriptionVimwiki is a personal wiki for Vim -- a number of linked text files that have their own syntax highlighting. 
+
+With vimwiki you can 
+
+organize notes and ideas manage todo-lists write documentation 
+
+Screenshots
+
+ 
+
+Quick startPress ww (this is usually \ww) to go to your index wiki file. By default it is located in: 
+
+~/vimwiki/index.wikiFeed it with the following example: 
+
+= My knowledge base =
+    * MyUrgentTasks -- things to be done _yesterday_!!!
+    * ProjectGutenberg -- good books are power.
+    * ScratchPad -- various temporary stuff.Notice that ProjectGutenberg, MyUrgentTasks and ScratchPad highlighted as errors. These are links in CamelCase form that do not exists yet. (CamelCase form -- capitalized word connected with other capitalized words) 
+
+Place cursor on ProjectGutenberg and press Enter. Now you are in ProjectGutenberg. Edit and save it, then press Backspace to return to parent wiki page. You should see the difference now -- ProjectGutenberg is highlighted as a link. 
+
+For the various options see :h vimwiki-options. 
+
+There is also vimwiki quick reference card available. Many thanks to J.A.J. Pater.</description>
+      <homepage_url>http://code.google.com/p/vimwiki</homepage_url>
+      <download_url></download_url>
+      <url_name>vimwiki</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591064</analysis_id>
+      <tags>
+        <tag>vim</tag>
+        <tag>plugin</tag>
+        <tag>wiki</tag>
+      </tags>
+      <analysis>
+        <id>14591064</id>
+        <url>http://www.ohloh.net/analyses/14591064.xml</url>
+        <project_id>52052</project_id>
+        <updated_at>2013-07-11T15:14:41Z</updated_at>
+        <logged_at>2013-07-11T15:14:24Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>9007</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vimwiki/analyses/14591064/languages.png">
+          <language color="EEE" percentage="80" id="48">
+Vim Script          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000080" percentage="5" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>48</main_language_id>
+        <main_language_name>Vim Script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

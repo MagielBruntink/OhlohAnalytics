@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>59375</id>
+      <name>spotify-plugins</name>
+      <url>http://www.ohloh.net/p/spotify-plugins.xml</url>
+      <html_url>http://www.ohloh.net/p/spotify-plugins</html_url>
+      <created_at>2008-12-17T18:44:37Z</created_at>
+      <updated_at>2013-06-19T10:38:10Z</updated_at>
+      <description>This project* aims to provide plugin functionality for Spotify. Spotify's client currently lacks support for third-party plugins. The goal is to provide an API between the Spotify client and plugins. 
+
+Right now this project is more of a proof-of-concept than functioning software. However, it does work and there is an API available. In other words, it's entirely possible to create something useful for Spotify right now. 
+
+Upcoming featuresNext on my to-do-list is to create a Last.fm-scrobbler. It actually is possible with the current plugin API. But to create a well-behaving scrobbler, it needs some extension (track length among other things) 
+
+When creativity strikes you, download the source code and see if there's anything you can do to help out. I'd really like to hear you opinion</description>
+      <homepage_url>http://code.google.com/p/spotify-plugins</homepage_url>
+      <download_url></download_url>
+      <url_name>spotify-plugins</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14305670</analysis_id>
+      <tags>
+        <tag>music</tag>
+        <tag>plugin</tag>
+        <tag>spotify</tag>
+        <tag>cplusplus</tag>
+      </tags>
+      <analysis>
+        <id>14305670</id>
+        <url>http://www.ohloh.net/analyses/14305670.xml</url>
+        <project_id>59375</project_id>
+        <updated_at>2013-07-11T22:34:16Z</updated_at>
+        <logged_at>2013-07-11T22:34:14Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2008-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1074</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/spotify-plugins/analyses/14305670/languages.png">
+          <language color="F35F1F" percentage="96" id="44">
+C++          </language>
+          <language color="EEE" percentage="4" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15816</id>
+      <name>Farstream</name>
+      <url>http://www.ohloh.net/p/farstream.xml</url>
+      <html_url>http://www.ohloh.net/p/farstream</html_url>
+      <created_at>2008-07-30T00:59:34Z</created_at>
+      <updated_at>2013-07-10T06:39:38Z</updated_at>
+      <description>The Farstream project is an effort to create a framework to deal with all known audio/video conferencing protocols. On one side it offers a generic API that makes it possible to write plugins for different streaming protocols, on the other side it offers an API for clients to use those plugins.</description>
+      <homepage_url>http://www.freedesktop.org/wiki/Software/Farstream</homepage_url>
+      <download_url>http://freedesktop.org/software/farstream/releases</download_url>
+      <url_name>farstream</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14579117</analysis_id>
+      <analysis>
+        <id>14579117</id>
+        <url>http://www.ohloh.net/analyses/14579117.xml</url>
+        <project_id>15816</project_id>
+        <updated_at>2013-07-10T06:39:37Z</updated_at>
+        <logged_at>2013-07-10T06:35:42Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>47253</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/farstream/analyses/14579117/languages.png">
+          <language color="FF8F00" percentage="87" id="42">
+C          </language>
+          <language color="000000" percentage="13" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

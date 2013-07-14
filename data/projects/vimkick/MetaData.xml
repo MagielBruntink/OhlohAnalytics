@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10620</id>
+      <name>VimKick</name>
+      <url>http://www.ohloh.net/p/vimkick.xml</url>
+      <html_url>http://www.ohloh.net/p/vimkick</html_url>
+      <created_at>2007-12-31T02:15:53Z</created_at>
+      <updated_at>2013-07-11T22:37:23Z</updated_at>
+      <description>VimKick allows you to quickly locate symbols in your source code.
+Features:
+
+- Can be used together with Vim (GUI version).
+- Based on powerful exuberant-ctags. Rich support of different programming languages. Including: C, C++, Python, Ruby, PHP, Java, C#, JavaScript, Pascal and etc.
+- Fast incremental search across functions, prototypes, class declarations, typedefs, filenames and etc.
+- Filtering by both class and method names.
+- Correct support of C++ namespaces and nested classes.
+- Real time tracking of file tree.</description>
+      <homepage_url>http://code.google.com/p/vimkick</homepage_url>
+      <download_url>http://code.google.com/p/vimkick/downloads/list</download_url>
+      <url_name>vimkick</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14594791</analysis_id>
+      <tags>
+        <tag>vim</tag>
+        <tag>ide</tag>
+        <tag>devtool</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>14594791</id>
+        <url>http://www.ohloh.net/analyses/14594791.xml</url>
+        <project_id>10620</project_id>
+        <updated_at>2013-07-11T22:37:23Z</updated_at>
+        <logged_at>2013-07-11T22:37:13Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2008-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3743</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vimkick/analyses/14594791/languages.png">
+          <language color="F35F1F" percentage="75" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="24" id="42">
+C          </language>
+          <language color="EEE" percentage="1" id="74">
+CMake          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

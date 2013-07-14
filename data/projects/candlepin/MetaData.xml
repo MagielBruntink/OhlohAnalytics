@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481538</id>
+      <name>candlepin</name>
+      <url>http://www.ohloh.net/p/candlepin.xml</url>
+      <html_url>http://www.ohloh.net/p/candlepin</html_url>
+      <created_at>2010-03-03T18:20:55Z</created_at>
+      <updated_at>2013-07-06T03:18:10Z</updated_at>
+      <description>Candlepin is an open source entitlements management system. It tracks the products which an owner has subscribed too, and allows the owner to consume the subscription based on conifgurable business rules. In the real world, it will allow you to:
+
+* See what systems are entitled to use products you define
+
+* Ensure that new systems consume your products based on your business rules
+
+* See what systems are out of compliance</description>
+      <homepage_url>http://candlepinproject.org/</homepage_url>
+      <download_url>http://candlepinproject.org/get_it.html</download_url>
+      <url_name>candlepin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31107/pinslp01_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31107/pinslp01_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14545671</analysis_id>
+      <tags>
+        <tag>entitlementmanagement</tag>
+        <tag>entitlement</tag>
+      </tags>
+      <analysis>
+        <id>14545671</id>
+        <url>http://www.ohloh.net/analyses/14545671.xml</url>
+        <project_id>481538</project_id>
+        <updated_at>2013-07-06T03:18:10Z</updated_at>
+        <logged_at>2013-07-06T03:15:55Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>75876</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/candlepin/analyses/14545671/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="A40011" percentage="10" id="12">
+Ruby          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

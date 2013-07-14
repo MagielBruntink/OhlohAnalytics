@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>45074</id>
+      <project_id>13332</project_id>
+      <repository_id>43772</repository_id>
+      <repository>
+        <id>43772</id>
+        <type>SvnSyncRepository</type>
+        <url>https://galeriayogurt.svn.sourceforge.net/svnroot/galeriayogurt</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T04:46:04Z</logged_at>
+        <commits>76</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>24342</id>
+      <project_id>13332</project_id>
+      <repository_id>23551</repository_id>
+      <repository>
+        <id>23551</id>
+        <type>CvsRepository</type>
+        <url>:pserver::@galeriayogurt.cvs.sourceforge.net:/cvsroot/galeriayogurt</url>
+        <module_name>yogurt</module_name>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T04:45:37Z</logged_at>
+        <commits>164</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

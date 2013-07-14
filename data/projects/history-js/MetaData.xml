@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488496</id>
+      <name>History.js</name>
+      <url>http://www.ohloh.net/p/history-js.xml</url>
+      <html_url>http://www.ohloh.net/p/history-js</html_url>
+      <created_at>2011-03-03T21:22:00Z</created_at>
+      <updated_at>2013-07-13T18:17:33Z</updated_at>
+      <description>History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype. For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.</description>
+      <homepage_url>https://github.com/balupton/history.js</homepage_url>
+      <download_url>https://github.com/balupton/history.js/tarball/master</download_url>
+      <url_name>history-js</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14319143</analysis_id>
+      <tags>
+        <tag>upgradation</tag>
+        <tag>statechange</tag>
+        <tag>popstate</tag>
+        <tag>onpopstate</tag>
+        <tag>onhashchange</tag>
+        <tag>html5</tag>
+        <tag>historyjs</tag>
+        <tag>remote</tag>
+        <tag>api</tag>
+        <tag>hashbang</tag>
+        <tag>hash-bang</tag>
+        <tag>hash</tag>
+        <tag>graceful</tag>
+        <tag>forward</tag>
+        <tag>degradation</tag>
+        <tag>state</tag>
+        <tag>history</tag>
+        <tag>browser</tag>
+        <tag>bookmarks</tag>
+        <tag>bookmarking</tag>
+        <tag>button</tag>
+        <tag>back</tag>
+        <tag>anchorchange</tag>
+        <tag>anchor</tag>
+        <tag>ajax</tag>
+      </tags>
+      <analysis>
+        <id>14319143</id>
+        <url>http://www.ohloh.net/analyses/14319143.xml</url>
+        <project_id>488496</project_id>
+        <updated_at>2013-07-07T21:47:54Z</updated_at>
+        <logged_at>2013-07-07T21:47:45Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2611</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/history-js/analyses/14319143/languages.png">
+          <language color="A4007E" percentage="68" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="EEE" percentage="6" id="90">
+CoffeeScript          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

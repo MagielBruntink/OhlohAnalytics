@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11354</id>
+      <name>Weblocks</name>
+      <url>http://www.ohloh.net/p/weblocks.xml</url>
+      <html_url>http://www.ohloh.net/p/weblocks</html_url>
+      <created_at>2008-01-29T20:55:12Z</created_at>
+      <updated_at>2013-07-10T09:23:32Z</updated_at>
+      <description>Weblocks is an advanced web framework written in Common Lisp.
+
+It is designed to make Agile web application development as effective and simple as possible.
+
+This is not your ordinary run-of-the-mill web framework in PHP, Python or Ruby.
+
+Weblocks uses powerful Lisp features like multiple dispatch, the metaobject protocol, lexical closures, keyword arguments, and macros to build abstractions that make web development easy, intuitive, and free of boilerplate. In addition, control flow is easily expressed using continuations.
+
+Things that are hard or mundane in other frameworks become easy and fun in Weblocks.</description>
+      <homepage_url>http://weblocks-framework.info/</homepage_url>
+      <download_url>http://weblocks.viridian-project.de/installation</download_url>
+      <url_name>weblocks</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11105/weblocks-alien-small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11105/weblocks-alien-small_small.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580364</analysis_id>
+      <tags>
+        <tag>lisp</tag>
+        <tag>continuations</tag>
+        <tag>framework</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14580364</id>
+        <url>http://www.ohloh.net/analyses/14580364.xml</url>
+        <project_id>11354</project_id>
+        <updated_at>2013-07-10T09:23:32Z</updated_at>
+        <logged_at>2013-07-10T09:21:15Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>45754</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/weblocks/analyses/14580364/languages.png">
+          <language color="93D290" percentage="56" id="22">
+Lisp          </language>
+          <language color="A4007E" percentage="39" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="555555" percentage="&lt;1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>22</main_language_id>
+        <main_language_name>Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Lisp_Lesser_General_Public_License_</name>
+          <nice_name>Lisp Lesser General Public License </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

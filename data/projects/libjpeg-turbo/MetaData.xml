@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483352</id>
+      <name>libjpeg-turbo</name>
+      <url>http://www.ohloh.net/p/libjpeg-turbo.xml</url>
+      <html_url>http://www.ohloh.net/p/libjpeg-turbo</html_url>
+      <created_at>2010-06-01T17:01:14Z</created_at>
+      <updated_at>2013-06-13T13:17:31Z</updated_at>
+      <description>libjpeg-turbo is a high-speed version of libjpeg for x86 and x86-64 processors which uses SIMD instructions (MMX, SSE2, etc.) to accelerate baseline JPEG compression and decompression. libjpeg-turbo is generally 2-4x as fast as the unmodified version of libjpeg, all else being equal.
+
+libjpeg-turbo was originally based on libjpeg/SIMD by Miyasaka Masaru, but the TigerVNC and VirtualGL projects made numerous enhancements to the codec, including improved support for Mac OS X, 64-bit support, support for 32-bit and big endian pixel formats (RGBA, ABGR, etc.), accelerated Huffman encoding/decoding, and various bug fixes. The goal was to produce a fully open source codec that could replace the partially closed source TurboJPEG/IPP codec used by VirtualGL and TurboVNC.</description>
+      <homepage_url>http://libjpeg-turbo.virtualgl.org/</homepage_url>
+      <download_url>https://sourceforge.net/projects/libjpeg-turbo/files</download_url>
+      <url_name>libjpeg-turbo</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14249160</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>compression</tag>
+        <tag>jpeg</tag>
+      </tags>
+      <analysis>
+        <id>14249160</id>
+        <url>http://www.ohloh.net/analyses/14249160.xml</url>
+        <project_id>483352</project_id>
+        <updated_at>2013-07-11T20:37:34Z</updated_at>
+        <logged_at>2013-07-11T20:36:34Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>65404</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libjpeg-turbo/analyses/14249160/languages.png">
+          <language color="FF8F00" percentage="48" id="42">
+C          </language>
+          <language color="333333" percentage="27" id="19">
+Assembly          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="11" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13222</id>
+      <name>twittering mode</name>
+      <url>http://www.ohloh.net/p/twittering-mode.xml</url>
+      <html_url>http://www.ohloh.net/p/twittering-mode</html_url>
+      <created_at>2008-04-08T02:19:59Z</created_at>
+      <updated_at>2013-07-08T11:12:44Z</updated_at>
+      <description>twittering-mode.el is a major mode of Emacsen for Twitter. It is designed platform independent, so you can use it on GNU Emacs21/22, CarbonEmacs, NTEmacs, Meadow and so on.
+You can check friends timeline, and update your status on Emacs.</description>
+      <homepage_url>http://twmode.sf.net/</homepage_url>
+      <download_url>http://github.com/hayamiz/twittering-mode/tree/master</download_url>
+      <url_name>twittering-mode</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28715/twitter-icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28715/twitter-icon_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569197</analysis_id>
+      <analysis>
+        <id>14569197</id>
+        <url>http://www.ohloh.net/analyses/14569197.xml</url>
+        <project_id>13222</project_id>
+        <updated_at>2013-07-08T11:12:44Z</updated_at>
+        <logged_at>2013-07-08T07:12:33Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>19971</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/twittering-mode/analyses/14569197/languages.png">
+          <language color="2B6B24" percentage="90" id="10">
+Emacs Lisp          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

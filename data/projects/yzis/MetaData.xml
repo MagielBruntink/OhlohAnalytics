@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3981</id>
+      <name>Yzis</name>
+      <url>http://www.ohloh.net/p/yzis.xml</url>
+      <html_url>http://www.ohloh.net/p/yzis</html_url>
+      <created_at>2007-01-12T19:00:13Z</created_at>
+      <updated_at>2013-06-22T18:15:57Z</updated_at>
+      <description>Yzis is a vi/vim engine that is easy to integrate in any graphical application. The goal is to make it easy for people developing an application that requires an editor to integrate yzis. Currently, there is a Qt, ncurses and KDE kpart yzis frontend.</description>
+      <homepage_url>http://www.yzis.org</homepage_url>
+      <download_url></download_url>
+      <url_name>yzis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3703/yzis_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3703/yzis_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14345540</analysis_id>
+      <tags>
+        <tag>qt</tag>
+        <tag>ncurses</tag>
+        <tag>vi</tag>
+        <tag>vim</tag>
+        <tag>kde</tag>
+        <tag>windows</tag>
+        <tag>c++</tag>
+        <tag>lua</tag>
+      </tags>
+      <analysis>
+        <id>14345540</id>
+        <url>http://www.ohloh.net/analyses/14345540.xml</url>
+        <project_id>3981</project_id>
+        <updated_at>2013-07-10T05:09:26Z</updated_at>
+        <logged_at>2013-07-10T05:09:22Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>94554</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yzis/analyses/14345540/languages.png">
+          <language color="555555" percentage="66" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="24" id="44">
+C++          </language>
+          <language color="000000" percentage="10" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19635</id>
+      <name>Fritzing</name>
+      <url>http://www.ohloh.net/p/fritzing.xml</url>
+      <html_url>http://www.ohloh.net/p/fritzing</html_url>
+      <created_at>2008-10-07T12:32:34Z</created_at>
+      <updated_at>2013-07-11T07:34:20Z</updated_at>
+      <description>Fritzing is an open-source initiative to support designers and artists to take the step from physical prototyping to actual product. We are aiming to create a software in the spirit of Processing and Arduino, that allows the designer/artist/researcher/hobbyist to document their Arduino-based prototype and create a PCB layout for manufacturing. The complimenting website helps to share and discuss drafts and experiences as well as to reduce manufacturing costs. 
+
+Fritzing will essentially be an Electronic Design Automation software with a low entry barrier, suited for the needs of designers and artists. It will use the metaphor of the breadboard, so that it will be easy to transfer your hardware sketch to the software. From there it will be possible to export CAD files ready to be sent to a</description>
+      <homepage_url>http://fritzing.org/</homepage_url>
+      <download_url>http://fritzing.org/download/</download_url>
+      <url_name>fritzing</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585912</analysis_id>
+      <tags>
+        <tag>qt4</tag>
+        <tag>eda</tag>
+        <tag>arduino</tag>
+        <tag>qt</tag>
+        <tag>interactiondesign</tag>
+        <tag>processingorg</tag>
+        <tag>fritzing</tag>
+        <tag>physicalcomputing</tag>
+        <tag>processing</tag>
+        <tag>pcb</tag>
+      </tags>
+      <analysis>
+        <id>14585912</id>
+        <url>http://www.ohloh.net/analyses/14585912.xml</url>
+        <project_id>19635</project_id>
+        <updated_at>2013-07-11T07:34:20Z</updated_at>
+        <logged_at>2013-07-11T07:33:22Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>919327</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fritzing/analyses/14585912/languages.png">
+          <language color="555555" percentage="81" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="9" id="44">
+C++          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

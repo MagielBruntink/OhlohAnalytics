@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>244858</id>
+      <project_id>453961</project_id>
+      <repository_id>242442</repository_id>
+      <repository>
+        <id>242442</id>
+        <type>GitRepository</type>
+        <url>http://git.ocamlcore.org/lablgtk/lablgtk.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T00:33:20Z</logged_at>
+        <commits>2527</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>107434</id>
+      <project_id>453961</project_id>
+      <repository_id>105731</repository_id>
+      <repository>
+        <id>105731</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.gna.org/svn/lablgtk/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T00:32:18Z</logged_at>
+        <commits>1201</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479966</id>
+      <name>Incanter</name>
+      <url>http://www.ohloh.net/p/incanter.xml</url>
+      <html_url>http://www.ohloh.net/p/incanter</html_url>
+      <created_at>2009-12-19T19:34:32Z</created_at>
+      <updated_at>2013-07-11T06:22:24Z</updated_at>
+      <description>Incanter is a Clojure-based, R-like statistical computing and graphics platform for the JVM.
+
+Incanter can either be used as a standalone, interactive data analysis system or embedded within other analytics systems, as a modular collection of libraries.
+
+Incanter leverages both the power of Clojure, a dynamically-typed, functional programming language, and the rich set of libraries available on the JVM for accessing, processing, and visualizing data. At its core are the Parallel Colt numerics library, a multithreaded version of Colt, the JFreeChart charting library, the Processing visualization library, as well as several other Java and Clojure libraries.</description>
+      <homepage_url>http://incanter.org/</homepage_url>
+      <download_url>http://incanter.org/</download_url>
+      <url_name>incanter</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585252</analysis_id>
+      <tags>
+        <tag>scientific_computing</tag>
+        <tag>visualisation</tag>
+        <tag>clojure</tag>
+        <tag>statistics</tag>
+        <tag>charts</tag>
+      </tags>
+      <analysis>
+        <id>14585252</id>
+        <url>http://www.ohloh.net/analyses/14585252.xml</url>
+        <project_id>479966</project_id>
+        <updated_at>2013-07-11T06:22:23Z</updated_at>
+        <logged_at>2013-07-11T06:21:40Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>17841</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/incanter/analyses/14585252/languages.png">
+          <language color="EEE" percentage="95" id="80">
+Clojure          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>80</main_language_id>
+        <main_language_name>Clojure</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

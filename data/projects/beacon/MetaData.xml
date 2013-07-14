@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10920</id>
+      <name>Beacon</name>
+      <url>http://www.ohloh.net/p/beacon.xml</url>
+      <html_url>http://www.ohloh.net/p/beacon</html_url>
+      <created_at>2008-01-14T14:15:26Z</created_at>
+      <updated_at>2013-06-18T23:37:58Z</updated_at>
+      <description>Beacon is a web-based WYSIWYG XML editor. 
+
+Beacon is aimed at being a generic XML editor. Any XML format that has an ultimate output format like PDF or HTML is a good candidate for a beacon-editable document. Beacon allows the user to edit the output of that XML document and will automatically generate the input corresponding to the output the user sees.</description>
+      <homepage_url>http://beacon.kix.in</homepage_url>
+      <download_url>http://beacon.kix.in</download_url>
+      <url_name>beacon</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14302031</analysis_id>
+      <analysis>
+        <id>14302031</id>
+        <url>http://www.ohloh.net/analyses/14302031.xml</url>
+        <project_id>10920</project_id>
+        <updated_at>2013-07-11T02:22:32Z</updated_at>
+        <logged_at>2013-07-10T01:08:56Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>18207</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/beacon/analyses/14302031/languages.png">
+          <language color="A4007E" percentage="27" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="20" id="4">
+CSS          </language>
+          <language color="000000" percentage="31" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

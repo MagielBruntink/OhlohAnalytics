@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>327476</id>
+      <name>crawler4j</name>
+      <url>http://www.ohloh.net/p/crawler4j.xml</url>
+      <html_url>http://www.ohloh.net/p/crawler4j</html_url>
+      <created_at>2009-04-21T00:46:38Z</created_at>
+      <updated_at>2013-06-17T12:43:05Z</updated_at>
+      <description>Crawler4j is an open source Java Crawler which provides a simple interface for crawling the web. Using it, you can setup a multi-threaded web crawler in 5 minutes! 
+
+Sample UsageFirst, you need to create a crawler class that extends WebCrawler. This class decides which URLs should be crawled and handles the downloaded page. The following is a sample implementation: 
+
+import java.util.ArrayList;
+import java.util.regex.Pattern;
+
+import edu.uci.ics.crawler4j.crawler.Page;
+import edu.uci.ics.crawler4j.crawler.WebCrawler;
+import edu.uci.ics.crawler4j.url.WebURL;
+
+public class MyCrawler extends WebCrawler {
+
+	Pattern filters = Pattern.compile(&quot;.*(\\.(css|js|bmp|gif|jpe?g&quot;
+		+ &quot;|png|tiff?|mid|mp2|mp3|mp4&quot;
+		+ &quot;|wav|avi|mov|mpeg|ram|m4v|pdf&quot;
+		+ &quot;|rm|smil|wmv|swf|wma|zip|rar|gz))$&quot;);
+	
+	public MyCrawler() {
+	}
+
+	public boolean shouldVisit(WebURL url) {
+		String href = url.getURL().toLowerCase();
+		if (filters.matcher(href).matches()) {
+			return false;
+		}
+		if (href.startsWith(&quot;http://www.ics.uci.edu/&quot;)) {
+			return true;
+		}
+		return false;
+	}
+
+	public void visit(Page page) {
+		int docid = page.getWebURL().getDocid();
+		String url = page.getWebURL().getURL();		
+		String text = page.getText();
+		ArrayList links = page.getURLs();		
+	}
+}
+As can be seen in the above code, there are two main functions that should be overridden:  
+
+shouldVisit: This function decides whether the given URL should be crawled or not. visit: This function is called after the content of a URL is downloaded successfully. You can easily get the text, links, url and docid of the downloaded page. 
+
+You should also implement a controller class which specifies the seeds of the crawl, the folder in which crawl data should be stored and number of concurrent thread: 
+
+import edu.uci.ics.crawler4j.crawler.CrawlController;
+
+public class Controller {
+	public static void main(String[] args) throws Exception {
+		CrawlController controller = new CrawlController(&quot;/data/crawl/root&quot;);
+		controller.addSeed(&quot;http://www.ics.uci.edu/&quot;);
+		controller.start(MyCrawler.class, 10);	
+	}
+}PolitenessCrawler4j is designed very efficiently and has the ability to crawl domains very fast (e.g., it has been able to crawl 200 Wikipedia pages per second). However, since this is against crawling policies and puts huge load on servers (and they might block you!), since version 1.3, by default crawler4j waits at least 200 milliseconds between requests. This parameter can be tuned with the &quot;setPolitenessDelay&quot; function in controller. 
+
+DependenciesThe following libraries are used in the implementation of crawler4j. In order to make life easier all of them are bundled in the &quot;crawler4j-dependencies-lib.zip&quot; package: 
+
+Berkeley DB Java Edition 4.0.71 or higher fastutil 5.1.5 DSI Utilities 1.0.10 or higher Apache HttpClient 4.0.1 Apache Log4j 1.2.15 Apache Commons Logging 1.1.1 Apache Commons Codec 1.4 Source CodesSource codes are available for checkout from this subversion repository: https://crawler4j.googlecode.com/svn/trunk/</description>
+      <homepage_url>http://code.google.com/p/crawler4j</homepage_url>
+      <download_url></download_url>
+      <url_name>crawler4j</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14293040</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>crawler</tag>
+        <tag>multi-threaded</tag>
+        <tag>webcrawler</tag>
+        <tag>opensource</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14293040</id>
+        <url>http://www.ohloh.net/analyses/14293040.xml</url>
+        <project_id>327476</project_id>
+        <updated_at>2013-07-07T17:31:13Z</updated_at>
+        <logged_at>2013-07-07T17:31:11Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2178</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/crawler4j/analyses/14293040/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="555555" percentage="2" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

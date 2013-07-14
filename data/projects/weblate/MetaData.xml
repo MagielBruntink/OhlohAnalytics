@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589487</id>
+      <name>Weblate</name>
+      <url>http://www.ohloh.net/p/weblate.xml</url>
+      <html_url>http://www.ohloh.net/p/weblate</html_url>
+      <created_at>2012-02-29T18:59:03Z</created_at>
+      <updated_at>2013-07-13T18:00:01Z</updated_at>
+      <description>Web based translation tool with tight Git integration.</description>
+      <homepage_url>http://weblate.org/</homepage_url>
+      <download_url>https://github.com/nijel/weblate</download_url>
+      <url_name>weblate</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51560/weblate-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51560/weblate-64_small.png</small_logo_url>
+      <user_count>6</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14521642</analysis_id>
+      <tags>
+        <tag>android</tag>
+        <tag>translate</tag>
+        <tag>web</tag>
+        <tag>python2</tag>
+        <tag>editor</tag>
+        <tag>django</tag>
+        <tag>translation</tag>
+        <tag>localization</tag>
+        <tag>internationalization</tag>
+        <tag>gettext</tag>
+        <tag>i18n</tag>
+        <tag>language</tag>
+        <tag>po</tag>
+        <tag>python</tag>
+        <tag>python27</tag>
+        <tag>xliff</tag>
+        <tag>jquery</tag>
+        <tag>translator</tag>
+        <tag>tmx</tag>
+      </tags>
+      <analysis>
+        <id>14521642</id>
+        <url>http://www.ohloh.net/analyses/14521642.xml</url>
+        <project_id>589487</project_id>
+        <updated_at>2013-07-04T03:35:45Z</updated_at>
+        <logged_at>2013-07-04T03:23:01Z</logged_at>
+        <min_month>2012-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>72</twelve_month_contributor_count>
+        <total_code_lines>31943</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/weblate/analyses/14521642/languages.png">
+          <language color="4A246B" percentage="73" id="9">
+Python          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

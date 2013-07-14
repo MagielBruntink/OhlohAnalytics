@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>120121</id>
+      <name>Blue3++</name>
+      <url>http://www.ohloh.net/p/blue3-plus-plus.xml</url>
+      <html_url>http://www.ohloh.net/p/blue3-plus-plus</html_url>
+      <created_at>2009-01-02T13:39:11Z</created_at>
+      <updated_at>2013-06-22T01:22:19Z</updated_at>
+      <description>Setting up a new HTPC/server/game pc connected to an old (and tiny, 15 inch) 4:3 TV inspired me to do some work on Blue3.
+
+I have a lot of plugins installed and loads of them were not natively supported by Blue3, so I dug around in these forums to find some skin files of the ones that were missing or looking really bad, to use as a headstart. I started editing the skin files that were not working very well on my screen. I've got everything working (functionally) now so I decided to release this to the community, maybe someone has some use for this :)
+
+Since my screen is so small (running 1024x768 res) I have done some adjustments for readability's sake.</description>
+      <homepage_url>http://code.google.com/p/blue3-plus-plus/</homepage_url>
+      <download_url>http://code.google.com/p/blue3-plus-plus/downloads/list</download_url>
+      <url_name>blue3-plus-plus</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14335022</analysis_id>
+      <tags>
+        <tag>mod</tag>
+        <tag>skin</tag>
+        <tag>blue3</tag>
+        <tag>ratio</tag>
+        <tag>smallscreen</tag>
+        <tag>4</tag>
+        <tag>mediaportal</tag>
+        <tag>3</tag>
+        <tag>readability</tag>
+      </tags>
+      <analysis>
+        <id>14335022</id>
+        <url>http://www.ohloh.net/analyses/14335022.xml</url>
+        <project_id>120121</project_id>
+        <updated_at>2013-07-06T17:14:00Z</updated_at>
+        <logged_at>2013-07-06T17:13:57Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2009-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>49800</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blue3-plus-plus/analyses/14335022/languages.png">
+          <language color="555555" percentage="100" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>3</main_language_id>
+        <main_language_name>XML</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

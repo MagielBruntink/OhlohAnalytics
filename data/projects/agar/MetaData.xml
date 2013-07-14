@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>371810</id>
+      <name>Agar</name>
+      <url>http://www.ohloh.net/p/agar.xml</url>
+      <html_url>http://www.ohloh.net/p/agar</html_url>
+      <created_at>2009-08-13T17:14:41Z</created_at>
+      <updated_at>2013-07-13T18:48:20Z</updated_at>
+      <description>Agar is a modern open-source, cross-platform toolkit for graphical applications implemented in C, C++ and Ada (with bindings to other languages in development). Designed for ease of integration, it follows the philosophy of building the GUI around the application and not the other way around. Unlike most other GUI toolkits, Agar takes maximum advantage of hardware graphics acceleration when it is available via OpenGL, but it also supports traditional framebuffer interfaces such as SDL direct video.</description>
+      <homepage_url>http://libagar.org/</homepage_url>
+      <download_url>http://libagar.org/download.html.en</download_url>
+      <url_name>agar</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36206/agar2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36206/agar2_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14530144</analysis_id>
+      <tags>
+        <tag>macintosh</tag>
+        <tag>cplusplus</tag>
+        <tag>embeddedsystems</tag>
+        <tag>perl</tag>
+        <tag>windows</tag>
+        <tag>c++</tag>
+        <tag>macos</tag>
+        <tag>unicode</tag>
+        <tag>multi-platform</tag>
+        <tag>perl5</tag>
+        <tag>gui</tag>
+        <tag>x</tag>
+        <tag>embedded</tag>
+        <tag>solaris</tag>
+        <tag>macosx</tag>
+        <tag>bsd</tag>
+        <tag>c</tag>
+        <tag>x11</tag>
+        <tag>osx</tag>
+        <tag>toolkit</tag>
+        <tag>win32</tag>
+        <tag>cross-platform</tag>
+        <tag>widgets</tag>
+        <tag>multithreading</tag>
+        <tag>linux</tag>
+        <tag>input</tag>
+        <tag>graphics</tag>
+        <tag>embedded_systems</tag>
+        <tag>gui_framework</tag>
+        <tag>embeddedsoftware</tag>
+        <tag>mac</tag>
+        <tag>unix</tag>
+        <tag>opengl</tag>
+        <tag>ui</tag>
+        <tag>interface</tag>
+        <tag>ada</tag>
+        <tag>cross-plattform</tag>
+      </tags>
+      <analysis>
+        <id>14530144</id>
+        <url>http://www.ohloh.net/analyses/14530144.xml</url>
+        <project_id>371810</project_id>
+        <updated_at>2013-07-04T22:07:13Z</updated_at>
+        <logged_at>2013-07-04T22:02:56Z</logged_at>
+        <min_month>2002-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>190069</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/agar/analyses/14530144/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="EEE" percentage="15" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="000000" percentage="15" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

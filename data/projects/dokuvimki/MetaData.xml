@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14217</id>
+      <name>DokuVimKi</name>
+      <url>http://www.ohloh.net/p/dokuvimki.xml</url>
+      <html_url>http://www.ohloh.net/p/dokuvimki</html_url>
+      <created_at>2008-05-21T11:06:25Z</created_at>
+      <updated_at>2013-06-08T14:39:35Z</updated_at>
+      <description>DokuVimKi is a vim plugin written in Python that allows you to edit DokuWiki Wiki pages via the XML-RPC protocol.</description>
+      <homepage_url>http://www.chimeric.de/projects/dokuwiki/dokuvimki</homepage_url>
+      <download_url>http://chimeric.de/_src/dokuvimki.tgz</download_url>
+      <url_name>dokuvimki</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14195130</analysis_id>
+      <tags>
+        <tag>dokuwiki</tag>
+        <tag>wiki</tag>
+        <tag>vim</tag>
+        <tag>xml-rpc</tag>
+      </tags>
+      <analysis>
+        <id>14195130</id>
+        <url>http://www.ohloh.net/analyses/14195130.xml</url>
+        <project_id>14217</project_id>
+        <updated_at>2013-07-08T07:29:33Z</updated_at>
+        <logged_at>2013-07-08T07:29:31Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>840</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dokuvimki/analyses/14195130/languages.png">
+          <language color="EEE" percentage="100" id="48">
+Vim Script          </language>
+        </languages>
+        <main_language_id>48</main_language_id>
+        <main_language_name>Vim Script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

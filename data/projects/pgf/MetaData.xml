@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>489172</id>
+      <name>PGF and TikZ</name>
+      <url>http://www.ohloh.net/p/pgf.xml</url>
+      <html_url>http://www.ohloh.net/p/pgf</html_url>
+      <created_at>2011-04-09T13:54:30Z</created_at>
+      <updated_at>2013-07-12T16:08:51Z</updated_at>
+      <description>PGF is a TeX macro package for generating graphics. It is platform- and format-independent and works together with the most important TeX backend drivers, including pdftex and dvips. It comes with a user-friedly syntax layer called TikZ.</description>
+      <homepage_url>http://sourceforge.net/projects/pgf/</homepage_url>
+      <download_url>http://sourceforge.net/projects/pgf/files/</download_url>
+      <url_name>pgf</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14607452</analysis_id>
+      <analysis>
+        <id>14607452</id>
+        <url>http://www.ohloh.net/analyses/14607452.xml</url>
+        <project_id>489172</project_id>
+        <updated_at>2013-07-12T16:08:50Z</updated_at>
+        <logged_at>2013-07-12T15:59:26Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>139226</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pgf/analyses/14607452/languages.png">
+          <language color="000080" percentage="85" id="37">
+TeX/LaTeX          </language>
+          <language color="A42E00" percentage="11" id="27">
+Lua          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>Latex_Project_Public_License</name>
+          <nice_name>Latex Project Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

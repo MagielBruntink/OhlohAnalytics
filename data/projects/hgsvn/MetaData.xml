@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>130114</id>
+      <name>hgsvn</name>
+      <url>http://www.ohloh.net/p/hgsvn.xml</url>
+      <html_url>http://www.ohloh.net/p/hgsvn</html_url>
+      <created_at>2009-01-05T05:35:29Z</created_at>
+      <updated_at>2013-07-05T19:49:31Z</updated_at>
+      <description>A set of scripts to work locally on Subversion checkouts using Mercurial</description>
+      <homepage_url>http://pypi.python.org/pypi/hgsvn/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/hgsvn/</download_url>
+      <url_name>hgsvn</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14541438</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>subversion</tag>
+        <tag>mercurial</tag>
+        <tag>hg</tag>
+      </tags>
+      <analysis>
+        <id>14541438</id>
+        <url>http://www.ohloh.net/analyses/14541438.xml</url>
+        <project_id>130114</project_id>
+        <updated_at>2013-07-05T19:49:31Z</updated_at>
+        <logged_at>2013-07-05T19:46:57Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>2601</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hgsvn/analyses/14541438/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

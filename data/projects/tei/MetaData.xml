@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>27475</id>
+      <name>Text Encoding Initiative</name>
+      <url>http://www.ohloh.net/p/tei.xml</url>
+      <html_url>http://www.ohloh.net/p/tei</html_url>
+      <created_at>2008-12-04T08:38:25Z</created_at>
+      <updated_at>2013-07-11T12:55:24Z</updated_at>
+      <description>The TEI is an international and interdisciplinary community-based open standard used by research project, libraries, museums, publishers, and academics to represent all kinds of literary and linguistic texts, using an encoding scheme that is maximally expressive and minimally obsolescent.</description>
+      <homepage_url>http://sourceforge.net/projects/tei</homepage_url>
+      <download_url>http://sourceforge.net/projects/tei/files/</download_url>
+      <url_name>tei</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43266/TEI-glow_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43266/TEI-glow_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590214</analysis_id>
+      <tags>
+        <tag>digitalhumanities</tag>
+        <tag>xslt</tag>
+        <tag>xml-schema</tag>
+        <tag>text_processing</tag>
+        <tag>tei</tag>
+        <tag>xml</tag>
+        <tag>corpus_linguistics</tag>
+        <tag>multilingual</tag>
+      </tags>
+      <analysis>
+        <id>14590214</id>
+        <url>http://www.ohloh.net/analyses/14590214.xml</url>
+        <project_id>27475</project_id>
+        <updated_at>2013-07-11T12:55:23Z</updated_at>
+        <logged_at>2013-07-11T12:50:00Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>2203140</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tei/analyses/14590214/languages.png">
+          <language color="555555" percentage="76" id="3">
+XML          </language>
+          <language color="556655" percentage="11" id="36">
+XSL Transformation          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-2-Clause</name>
+          <nice_name>BSD 2-clause &quot;FreeBSD&quot; License</nice_name>
+        </license>
+        <license>
+          <name>cc-by-3</name>
+          <nice_name>Creative Commons Attribution 3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

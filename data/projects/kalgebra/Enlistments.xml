@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>248100</id>
+      <project_id>11563</project_id>
+      <repository_id>245560</repository_id>
+      <repository>
+        <id>245560</id>
+        <type>GitRepository</type>
+        <url>git://anongit.kde.org/kalgebra.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T01:58:06Z</logged_at>
+        <commits>1474</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>23623</id>
+      <project_id>11563</project_id>
+      <repository_id>22844</repository_id>
+      <repository>
+        <id>22844</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.berlios.de/kalgebra/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T01:58:44Z</logged_at>
+        <commits>36</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

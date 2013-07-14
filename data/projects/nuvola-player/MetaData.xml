@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597405</id>
+      <name>Nuvola Player</name>
+      <url>http://www.ohloh.net/p/nuvola-player.xml</url>
+      <html_url>http://www.ohloh.net/p/nuvola-player</html_url>
+      <created_at>2012-04-21T19:38:16Z</created_at>
+      <updated_at>2013-07-13T17:56:36Z</updated_at>
+      <description>Nuvola Player runs web interface of cloud music service in its own window and provides integration with a Linux desktop (system tray, Ubuntu sound menu, dock menu and notifications). Currently supported services are Google Music, Grooveshark, Hype Machine and 8tracks.</description>
+      <homepage_url>http://nuvolaplayer.fenryxo.cz/Home.html</homepage_url>
+      <download_url>https://launchpad.net/nuvola-player/+download</download_url>
+      <url_name>nuvola-player</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56392/nuvolaplayer_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56392/nuvolaplayer_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14608614</analysis_id>
+      <analysis>
+        <id>14608614</id>
+        <url>http://www.ohloh.net/analyses/14608614.xml</url>
+        <project_id>597405</project_id>
+        <updated_at>2013-07-12T18:03:53Z</updated_at>
+        <logged_at>2013-07-12T18:02:33Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>27082</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nuvola-player/analyses/14608614/languages.png">
+          <language color="729FCF" percentage="87" id="34">
+Vala          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-2-Clause</name>
+          <nice_name>BSD 2-clause &quot;FreeBSD&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597387</id>
+      <name>SecureIdFreePastry</name>
+      <url>http://www.ohloh.net/p/SecureIdFreePastry.xml</url>
+      <html_url>http://www.ohloh.net/p/SecureIdFreePastry</html_url>
+      <created_at>2012-04-21T11:55:06Z</created_at>
+      <updated_at>2013-06-25T22:27:27Z</updated_at>
+      <description>SecureIDFreePastry adds to the original FreePastry framework SECURE ID. The node identifier is created by random value which is transformed  to nodeID with hash function. Both random value and node ID identify Pastry node. Each node will not accept nodeID which is not hash its random value.</description>
+      <homepage_url>https://github.com/matllubos/FreePastry</homepage_url>
+      <download_url></download_url>
+      <url_name>SecureIdFreePastry</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409464</analysis_id>
+      <analysis>
+        <id>14409464</id>
+        <url>http://www.ohloh.net/analyses/14409464.xml</url>
+        <project_id>597387</project_id>
+        <updated_at>2013-07-13T02:58:00Z</updated_at>
+        <logged_at>2013-07-13T02:57:53Z</logged_at>
+        <min_month>2001-10-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>110393</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SecureIdFreePastry/analyses/14409464/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

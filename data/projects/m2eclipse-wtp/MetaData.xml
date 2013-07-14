@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>540013</id>
+      <name>m2eclipse-wtp</name>
+      <url>http://www.ohloh.net/p/m2eclipse-wtp.xml</url>
+      <html_url>http://www.ohloh.net/p/m2eclipse-wtp</html_url>
+      <created_at>2011-05-07T16:18:44Z</created_at>
+      <updated_at>2013-04-15T07:31:21Z</updated_at>
+      <description>Maven Integration for Eclipse WTP (a.k.a m2e-wtp) aims at providing a tight integration between Maven Integration for Eclipse (a.k.a m2e) and the Eclipse Web Tools Project (WTP) .
+
+m2e-wtp provides a set of m2e connectors used for the configuration of Java EE projects in WTP. It features :
+
+    Support for war projects : adds the Java and Dynamic Web Facets. Support war overlays and on-the-fly resource filtering
+    Support for ejb projects : adds the Java and EJB Facets.
+    Support for ear projects : adds the EAR Facet. Supports application.xml and jboss.xml file generation, resource filtering
+    Support for rar projects : adds the Java and Connector Facets.
+    Support for jar dependency projects : adds the Java and Utility Facets.</description>
+      <homepage_url>http://github.com/sonatype/m2eclipse-wtp</homepage_url>
+      <download_url></download_url>
+      <url_name>m2eclipse-wtp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>2.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13484051</analysis_id>
+      <analysis>
+        <id>13484051</id>
+        <url>http://www.ohloh.net/analyses/13484051.xml</url>
+        <project_id>540013</project_id>
+        <updated_at>2013-04-25T01:30:42Z</updated_at>
+        <logged_at>2013-04-25T01:30:38Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>59923</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/m2eclipse-wtp/analyses/13484051/languages.png">
+          <language color="555555" percentage="74" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="24" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

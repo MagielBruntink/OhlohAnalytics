@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>176859</id>
+      <name>Teiid</name>
+      <url>http://www.ohloh.net/p/teiid.xml</url>
+      <html_url>http://www.ohloh.net/p/teiid</html_url>
+      <created_at>2009-01-16T16:15:06Z</created_at>
+      <updated_at>2013-07-13T20:33:10Z</updated_at>
+      <description>Teiid is The Enterprise Information Integration (virtual) Database.  Teiid is a data virtualization system that allows applications to use data from hetergenous data sources.
+
+Teiid is comprised of tools, components and services for creating and executing bi-directional data services.  Through abstraction and federation, data is accessed and integrated in real-time across distributed data sources without copying or otherwise moving data from its system of record.</description>
+      <homepage_url>http://www.jboss.org/projects/teiid</homepage_url>
+      <download_url></download_url>
+      <url_name>teiid</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599818</analysis_id>
+      <tags>
+        <tag>stored_procedures</tag>
+        <tag>java</tag>
+        <tag>data_abstraction</tag>
+        <tag>jboss</tag>
+        <tag>salesforcecom</tag>
+        <tag>data_virtualization</tag>
+        <tag>xml</tag>
+        <tag>database_abstraction</tag>
+        <tag>ldap</tag>
+        <tag>webservices</tag>
+        <tag>jdbc</tag>
+        <tag>eii</tag>
+        <tag>data_integration</tag>
+      </tags>
+      <analysis>
+        <id>14599818</id>
+        <url>http://www.ohloh.net/analyses/14599818.xml</url>
+        <project_id>176859</project_id>
+        <updated_at>2013-07-12T03:21:27Z</updated_at>
+        <logged_at>2013-07-12T03:20:34Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>326881</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/teiid/analyses/14599818/languages.png">
+          <language color="9A63AD" percentage="93" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

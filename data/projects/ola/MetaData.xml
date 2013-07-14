@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>321624</id>
+      <name>Open Lighting Architecture</name>
+      <url>http://www.ohloh.net/p/ola.xml</url>
+      <html_url>http://www.ohloh.net/p/ola</html_url>
+      <created_at>2009-04-08T23:50:11Z</created_at>
+      <updated_at>2013-07-14T00:08:07Z</updated_at>
+      <description>The Open Lighting Architecture (OLA) provides a plugin framework for distributing DMX512 control signals on Mac and Linux. It provides C++ and Python libraries which abstract away the underlying DMX over IP protocol or DMX interface.  See http://opendmx.net/index.php/OLA for more information. 
+
+Supported Platforms / Devices 
+
+ Driver  Linux  Mac OS X   ArtNet   Yes  Yes   ShowNet  Yes  Yes   ESP Net  Yes  Yes   Sandnet  Yes  ??   E1.31 / ACN  underway  underway   DMX USB Pro  Yes  Yes   Open DMX USB  Yes     StageProfi  Yes  Ethernet version only   Pathport   in testing  testing   DMX 4 Linux  Yes    
+
+Support Languages 
+
+C++ Python If you program in Java, Perl or Ruby and are interested in writing an interface for any of these languages please contact us.</description>
+      <homepage_url>http://code.google.com/p/linux-lighting</homepage_url>
+      <download_url>http://code.google.com/p/linux-lighting/downloads/list</download_url>
+      <url_name>ola</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>5</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14578908</analysis_id>
+      <tags>
+        <tag>dmx512</tag>
+        <tag>pathport</tag>
+        <tag>dmx</tag>
+        <tag>entertainmentindustry</tag>
+        <tag>sandnet</tag>
+        <tag>lightingcontrol</tag>
+        <tag>artnet</tag>
+        <tag>dmxusbpro</tag>
+        <tag>e131</tag>
+        <tag>shownet</tag>
+        <tag>enttec</tag>
+        <tag>dmxusb</tag>
+        <tag>python</tag>
+        <tag>acn</tag>
+      </tags>
+      <analysis>
+        <id>14578908</id>
+        <url>http://www.ohloh.net/analyses/14578908.xml</url>
+        <project_id>321624</project_id>
+        <updated_at>2013-07-10T06:18:05Z</updated_at>
+        <logged_at>2013-07-10T06:13:47Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>159386</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ola/analyses/14578908/languages.png">
+          <language color="F35F1F" percentage="81" id="44">
+C++          </language>
+          <language color="4A246B" percentage="7" id="9">
+Python          </language>
+          <language color="000000" percentage="12" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

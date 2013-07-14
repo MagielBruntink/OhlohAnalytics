@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>40196</id>
+      <name>xmpp.py</name>
+      <url>http://www.ohloh.net/p/xmpppy.xml</url>
+      <html_url>http://www.ohloh.net/p/xmpppy</html_url>
+      <created_at>2008-12-14T04:37:51Z</created_at>
+      <updated_at>2013-06-17T16:27:39Z</updated_at>
+      <description>Library for handling xmpp with python. Written with jabberd2 in mind so it uses DISCO for browsing, privacy rules sets for invisible presence, SASL for authentication, TLS for security and so on...http://xmpppy.sourceforge.net</description>
+      <homepage_url>http://sourceforge.net/projects/xmpppy</homepage_url>
+      <download_url></download_url>
+      <url_name>xmpppy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14294197</analysis_id>
+      <tags>
+        <tag>xmpp</tag>
+        <tag>chat</tag>
+        <tag>python</tag>
+        <tag>xmpp_client</tag>
+        <tag>xmpppy</tag>
+      </tags>
+      <analysis>
+        <id>14294197</id>
+        <url>http://www.ohloh.net/analyses/14294197.xml</url>
+        <project_id>40196</project_id>
+        <updated_at>2013-07-11T08:56:18Z</updated_at>
+        <logged_at>2013-07-11T08:55:56Z</logged_at>
+        <min_month>2003-12-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10213</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xmpppy/analyses/14294197/languages.png">
+          <language color="47A400" percentage="63" id="1">
+HTML          </language>
+          <language color="4A246B" percentage="34" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

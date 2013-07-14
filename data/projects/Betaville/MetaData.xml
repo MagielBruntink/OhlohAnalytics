@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>415622</id>
+      <name>Betaville</name>
+      <url>http://www.ohloh.net/p/Betaville.xml</url>
+      <html_url>http://www.ohloh.net/p/Betaville</html_url>
+      <created_at>2009-08-26T21:03:40Z</created_at>
+      <updated_at>2013-07-04T13:42:32Z</updated_at>
+      <description>Your city is always in Beta.</description>
+      <homepage_url>http://betaville.net</homepage_url>
+      <download_url>http://betaville.googlecode.com</download_url>
+      <url_name>Betaville</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38334/BetavilleAppIcon_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38334/BetavilleAppIcon_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14527185</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>3d</tag>
+        <tag>world</tag>
+        <tag>urban</tag>
+        <tag>java</tag>
+        <tag>editor</tag>
+        <tag>mirror</tag>
+      </tags>
+      <analysis>
+        <id>14527185</id>
+        <url>http://www.ohloh.net/analyses/14527185.xml</url>
+        <project_id>415622</project_id>
+        <updated_at>2013-07-13T04:43:36Z</updated_at>
+        <logged_at>2013-07-13T04:23:47Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>188444</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Betaville/analyses/14527185/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

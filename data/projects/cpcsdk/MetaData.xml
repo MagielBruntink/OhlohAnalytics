@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50140</id>
+      <name>cpcsdk</name>
+      <url>http://www.ohloh.net/p/cpcsdk.xml</url>
+      <html_url>http://www.ohloh.net/p/cpcsdk</html_url>
+      <created_at>2008-12-16T11:52:05Z</created_at>
+      <updated_at>2013-07-12T09:32:48Z</updated_at>
+      <description>The Amstrad CPC/Plus is an old 8-bit microcomputer. It's still used nowadays by some people to create demos. However, there are almost no tools to do that under Linux. This project aims to collect the various bit of existing sourcecode in one common place, add the missing features, and make life easier for all developpers. 
+
+Available tools include : 
+
+The Caprice Reloaded emulator, with integrated assembler and debugger, gfx2crtc, a tool to convert pictures to the amstrad sceen format An imporved version of Ramlaid's cpctools, now running under linux, with (limited) support for usb floppy drives A special version of STSound from Leonard, modified to emulate an AY3 more accurately (the original emulates the slightly different YM chip used in the Atari ST) &quot;Hideur Maikeur&quot; from Downwater fo</description>
+      <homepage_url>http://code.google.com/p/cpcsdk</homepage_url>
+      <download_url>http://code.google.com/p/cpcsdk/downloads/list</download_url>
+      <url_name>cpcsdk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14603842</analysis_id>
+      <tags>
+        <tag>crossdevelopment</tag>
+        <tag>amstrad</tag>
+        <tag>cpc</tag>
+      </tags>
+      <analysis>
+        <id>14603842</id>
+        <url>http://www.ohloh.net/analyses/14603842.xml</url>
+        <project_id>50140</project_id>
+        <updated_at>2013-07-12T09:32:47Z</updated_at>
+        <logged_at>2013-07-12T09:32:04Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>148369</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cpcsdk/analyses/14603842/languages.png">
+          <language color="F35F1F" percentage="41" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="30" id="42">
+C          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15172</id>
+      <name>Sage</name>
+      <url>http://www.ohloh.net/p/sagereader.xml</url>
+      <html_url>http://www.ohloh.net/p/sagereader</html_url>
+      <created_at>2008-06-27T00:27:47Z</created_at>
+      <updated_at>2013-07-13T20:22:13Z</updated_at>
+      <description>Sage is a lightweight RSS and Atom feed aggregator extension for Mozilla Firefox. It's got a lot of what you need and not much of what you don't.
+
+* Reads RSS (2.0, 1.0, 0.9x) and Atom feeds
+* Feed Discovery
+* Integrates with Firefox's bookmark system
+* Imports and exports OPML feed lists
+* Newspaper feed rendering customizable via style sheets
+* Support for the following locales: Argentine Spanish, Catalan, Chinese, Czech, Danish, Dutch, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Serbian, Slovenian, Spanish, and Swedish</description>
+      <homepage_url>http://sage.mozdev.org/</homepage_url>
+      <download_url>http://sage.mozdev.org/install/</download_url>
+      <url_name>sagereader</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6157/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6157/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14355359</analysis_id>
+      <tags>
+        <tag>firefox</tag>
+        <tag>flock</tag>
+        <tag>addon</tag>
+      </tags>
+      <analysis>
+        <id>14355359</id>
+        <url>http://www.ohloh.net/analyses/14355359.xml</url>
+        <project_id>15172</project_id>
+        <updated_at>2013-07-11T19:30:57Z</updated_at>
+        <logged_at>2013-07-11T19:30:47Z</logged_at>
+        <min_month>2004-05-01T00:00:00Z</min_month>
+        <max_month>2008-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>13172</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sagereader/analyses/14355359/languages.png">
+          <language color="A4007E" percentage="50" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="27" id="4">
+CSS          </language>
+          <language color="47A400" percentage="17" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1</name>
+          <nice_name>Mozilla Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

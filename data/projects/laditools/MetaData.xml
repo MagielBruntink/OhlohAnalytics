@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25912</id>
+      <name>laditools</name>
+      <url>http://www.ohloh.net/p/laditools.xml</url>
+      <html_url>http://www.ohloh.net/p/laditools</html_url>
+      <created_at>2008-10-28T22:18:42Z</created_at>
+      <updated_at>2013-07-14T01:22:45Z</updated_at>
+      <description>LADI Tools is a set of tools aiming to achieve the goals of the LADI project
+to improve desktop integration and user workflow of Linux audio system based
+on JACK and LADISH. Those tools take advantage of the DBus interfaces of JACK2
+and LADISH to ease the configuration and use of your software studio.
+
+The following tools are included:
+ * The laditools python module
+ * ladi-system-tray : a system tray icon that allows you to start, stop and
+   monitor JACK, as well as start some JACK related apps (log viewer,
+   connections...)
+ * wmladi : a controller as a Window Maker dockapp which uses a menu similar
+   to ladi-system-tray's
+ * ladi-system-log : a JACK, LADISH and a2jmidid log viewer
+ * ladi-control-center : a GUI to setup JACK's and laditools' configuration
+ * ladi-player: compact fron</description>
+      <homepage_url>https://launchpad.net/laditools</homepage_url>
+      <download_url>https://launchpad.net/laditools/+download</download_url>
+      <url_name>laditools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14620825</analysis_id>
+      <analysis>
+        <id>14620825</id>
+        <url>http://www.ohloh.net/analyses/14620825.xml</url>
+        <project_id>25912</project_id>
+        <updated_at>2013-07-14T01:22:44Z</updated_at>
+        <logged_at>2013-07-13T18:11:16Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9830</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/laditools/analyses/14620825/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

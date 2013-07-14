@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4682</id>
+      <name>ObjectLab Kit</name>
+      <url>http://www.ohloh.net/p/objectlabkit.xml</url>
+      <html_url>http://www.ohloh.net/p/objectlabkit</html_url>
+      <created_at>2007-03-13T12:49:49Z</created_at>
+      <updated_at>2013-06-26T09:41:38Z</updated_at>
+      <description>Business and Financial Day Calculators.
+
+The DateCalculator implementation is useful to any business; the other two
+interfaces are more specific to the financial industry.
+
+The most common function of a lot of banking or business applications is the
+handling of holidays and weekends, a set of standard rules are implemented to deal with days falling on a holiday. The library does not attempt to guess the 'holidays', most business will have an official list anyway, but concentrate on the date manipulation and calculations.
+
+What does it provide? Implementation of 3 interfaces
+- DateCalculator for all date calculation and handling of weekends or holidays.
+The supported algorithms are: Do Nothing, Move Forward, Move Backward,
+Modified Following and Modified Preceeding.</description>
+      <homepage_url>http://objectlabkit.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>objectlabkit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14415169</analysis_id>
+      <tags>
+        <tag>imm</tag>
+        <tag>java</tag>
+        <tag>calendar</tag>
+        <tag>calculator</tag>
+        <tag>holiday</tag>
+        <tag>trading</tag>
+        <tag>finance</tag>
+      </tags>
+      <analysis>
+        <id>14415169</id>
+        <url>http://www.ohloh.net/analyses/14415169.xml</url>
+        <project_id>4682</project_id>
+        <updated_at>2013-07-05T17:26:50Z</updated_at>
+        <logged_at>2013-07-05T17:26:34Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>13386</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/objectlabkit/analyses/14415169/languages.png">
+          <language color="9A63AD" percentage="72" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>604311</id>
+      <name>Gentoo Prefix</name>
+      <url>http://www.ohloh.net/p/gentoo-prefix.xml</url>
+      <html_url>http://www.ohloh.net/p/gentoo-prefix</html_url>
+      <created_at>2012-08-08T15:04:27Z</created_at>
+      <updated_at>2013-07-10T06:48:17Z</updated_at>
+      <description>To bring out the virtues of Gentoo Linux on different operating systems, the Gentoo Prefix project develops and maintains a way of installing Gentoo systems in a non-standard location, designated by a &quot;prefix&quot;.
+
+Usually, Gentoo Linux's package manager (portage) installs in the root of the filesystem hierarchy known as /. On systems other than Gentoo Linux, this usually results in problems, due to conflicts of software packages , unless the OS is adapted like Gentoo/FreeBSD. Instead, Gentoo Prefix installs within an offset, known as a prefix, allowing users to install Gentoo in another location in the filesystem hierarchy, hence avoiding conflicts. Next to this offset, Gentoo Prefix runs unprivileged, meaning no root user or rights are required to use it.</description>
+      <homepage_url>http://prefix.gentoo.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>gentoo-prefix</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55775/glogo-small_med_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55775/glogo-small_med_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14579272</analysis_id>
+      <tags>
+        <tag>gnu</tag>
+        <tag>macosx</tag>
+        <tag>openindiana</tag>
+        <tag>gentoo</tag>
+        <tag>linux</tag>
+        <tag>solaris</tag>
+      </tags>
+      <analysis>
+        <id>14579272</id>
+        <url>http://www.ohloh.net/analyses/14579272.xml</url>
+        <project_id>604311</project_id>
+        <updated_at>2013-07-10T06:48:16Z</updated_at>
+        <logged_at>2013-07-10T06:45:27Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>55611</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gentoo-prefix/analyses/14579272/languages.png">
+          <language color="EEE" percentage="86" id="49">
+Ebuild          </language>
+          <language color="777777" percentage="8" id="11">
+shell script          </language>
+          <language color="000000" percentage="6" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>49</main_language_id>
+        <main_language_name>Ebuild</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

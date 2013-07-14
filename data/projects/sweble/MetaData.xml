@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585409</id>
+      <name>Sweble</name>
+      <url>http://www.ohloh.net/p/sweble.xml</url>
+      <html_url>http://www.ohloh.net/p/sweble</html_url>
+      <created_at>2011-07-30T13:37:35Z</created_at>
+      <updated_at>2013-06-08T22:18:54Z</updated_at>
+      <description>The Sweble Wikitext Parser is a parser for the wiki markup (called Wikitext) used by the MediaWiki wiki engine. Of course, the MediaWiki software provides its own parser for wikitext, however, the parser only produces HTML output. The Sweble Wikitext Parser on the other hand generates a machine-readable representation (AST - abstract syntax tree) of an article, thus unlocking the structured data within a wiki running the MediaWiki software.
+
+The parser is developed by the Open Source Research Group at the University Erlangen-N&#252;rnberg. It was open-sourced on the 1st of May 2011.</description>
+      <homepage_url>http://sweble.org</homepage_url>
+      <download_url>http://sweble.org/wiki/Downloads</download_url>
+      <url_name>sweble</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55246/sweble-blog-logo-500_reasonably_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55246/sweble-blog-logo-500_reasonably_small_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14200995</analysis_id>
+      <tags>
+        <tag>xwml</tag>
+        <tag>ast</tag>
+        <tag>xml</tag>
+        <tag>parser</tag>
+        <tag>java</tag>
+        <tag>library</tag>
+        <tag>wikitext</tag>
+        <tag>xml-schema</tag>
+        <tag>mediawiki</tag>
+        <tag>sweble</tag>
+      </tags>
+      <analysis>
+        <id>14200995</id>
+        <url>http://www.ohloh.net/analyses/14200995.xml</url>
+        <project_id>585409</project_id>
+        <updated_at>2013-06-08T22:18:54Z</updated_at>
+        <logged_at>2013-06-08T22:00:27Z</logged_at>
+        <min_month>2011-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>109166</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sweble/analyses/14200995/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

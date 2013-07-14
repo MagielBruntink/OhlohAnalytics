@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>556096</id>
+      <name>otclient</name>
+      <url>http://www.ohloh.net/p/otclient.xml</url>
+      <html_url>http://www.ohloh.net/p/otclient</html_url>
+      <created_at>2011-05-08T21:25:15Z</created_at>
+      <updated_at>2013-07-12T04:37:34Z</updated_at>
+      <description>An alternative tibia client for otserv written in C++2011, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize</description>
+      <homepage_url>http://github.com/edubart/otclient</homepage_url>
+      <download_url>http://github.com/edubart/otclient/downloads</download_url>
+      <url_name>otclient</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52730/clienticon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52730/clienticon_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14600439</analysis_id>
+      <tags>
+        <tag>client</tag>
+        <tag>mmorpg</tag>
+        <tag>otserv</tag>
+        <tag>tibia</tag>
+        <tag>opentibia</tag>
+        <tag>game</tag>
+      </tags>
+      <analysis>
+        <id>14600439</id>
+        <url>http://www.ohloh.net/analyses/14600439.xml</url>
+        <project_id>556096</project_id>
+        <updated_at>2013-07-12T04:37:33Z</updated_at>
+        <logged_at>2013-07-12T04:37:14Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>61645</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/otclient/analyses/14600439/languages.png">
+          <language color="F35F1F" percentage="60" id="44">
+C++          </language>
+          <language color="A42E00" percentage="28" id="27">
+Lua          </language>
+          <language color="FF8F00" percentage="7" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="74">
+CMake          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

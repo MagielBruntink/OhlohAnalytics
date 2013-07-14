@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>105256</id>
+      <name>Symbolic</name>
+      <url>http://www.ohloh.net/p/symbolic.xml</url>
+      <html_url>http://www.ohloh.net/p/symbolic</html_url>
+      <created_at>2008-12-25T14:34:11Z</created_at>
+      <updated_at>2013-06-20T05:37:57Z</updated_at>
+      <description>Symbolic is a web application which aim to simplify the management within complex enterprise infrastructures.
+Symbolic is designed as front-end of Fedora Unified Network Controller (Func) and allow to manage a huge quantity of machines, networks and environments.
+
+Symbolic supports LDAP, Kerberos and local authentication, allow control of wide variety of clients (hosts, guests and clusters), provide a completely compatible interface with func API framework, simplify user and operations management by using a fully customizable ACLs.</description>
+      <homepage_url>http://www.opensymbolic.org</homepage_url>
+      <download_url>http://downloads.sourceforge.net/symbolic</download_url>
+      <url_name>symbolic</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11952/symbolic-s_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11952/symbolic-s_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14314652</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>groovy</tag>
+        <tag>func</tag>
+        <tag>mysql</tag>
+        <tag>postgres</tag>
+        <tag>management</tag>
+        <tag>hsqldb</tag>
+        <tag>grails</tag>
+        <tag>java</tag>
+        <tag>enterprise</tag>
+        <tag>fedora</tag>
+        <tag>organize</tag>
+        <tag>virtualization</tag>
+        <tag>xen</tag>
+        <tag>manager</tag>
+      </tags>
+      <analysis>
+        <id>14314652</id>
+        <url>http://www.ohloh.net/analyses/14314652.xml</url>
+        <project_id>105256</project_id>
+        <updated_at>2013-07-11T03:56:09Z</updated_at>
+        <logged_at>2013-07-11T03:56:04Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>566045</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/symbolic/analyses/14314652/languages.png">
+          <language color="A4007E" percentage="79" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

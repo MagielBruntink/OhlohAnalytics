@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>132873</id>
+      <name>Apache Any23</name>
+      <url>http://www.ohloh.net/p/any23.xml</url>
+      <html_url>http://www.ohloh.net/p/any23</html_url>
+      <created_at>2009-01-06T16:47:31Z</created_at>
+      <updated_at>2013-05-01T18:06:02Z</updated_at>
+      <description>Anything To Triples (any23) is a library and web service that extracts structured data in RDF format from a variety of Web documents. Currently it supports the following input formats: 
+
+RDF/XML, Turtle, Notation 3 RDFa Microformats: Adr, Geo, hCalendar, hCard, hListing, hResume, hReview, License, XFN Any23 is written in Java and licensed under the Apache License. 
+
+Documentation is available in the Wiki. 
+
+The original codebase comes from open-sourcing the &#8220;RDFizer&#8221; component of the Sindice search engine. The project is supported by DERI Galway and the OKKAM project (ICT-215032).</description>
+      <homepage_url>http://code.google.com/p/any23</homepage_url>
+      <download_url>http://code.google.com/p/any23/downloads/list</download_url>
+      <url_name>any23</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35121/logo-proposal-7_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35121/logo-proposal-7_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13751823</analysis_id>
+      <tags>
+        <tag>mime</tag>
+        <tag>microformats</tag>
+        <tag>service</tag>
+        <tag>xml</tag>
+        <tag>extractor</tag>
+        <tag>semanticweb</tag>
+        <tag>commandline</tag>
+        <tag>analyzer</tag>
+        <tag>web</tag>
+        <tag>rdfa</tag>
+        <tag>triples</tag>
+        <tag>rdf</tag>
+      </tags>
+      <analysis>
+        <id>13751823</id>
+        <url>http://www.ohloh.net/analyses/13751823.xml</url>
+        <project_id>132873</project_id>
+        <updated_at>2013-05-25T13:35:07Z</updated_at>
+        <logged_at>2013-05-25T13:35:02Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>60093</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/any23/analyses/13751823/languages.png">
+          <language color="9A63AD" percentage="44" id="5">
+Java          </language>
+          <language color="47A400" percentage="34" id="1">
+HTML          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

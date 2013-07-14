@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479746</id>
+      <name>C++ Simulated Travel Distribution System</name>
+      <url>http://www.ohloh.net/p/simcrs.xml</url>
+      <html_url>http://www.ohloh.net/p/simcrs</html_url>
+      <created_at>2009-12-05T15:25:54Z</created_at>
+      <updated_at>2013-07-07T20:32:29Z</updated_at>
+      <description>That project aims at providing a clean API and a simple implementation, as a C++ library, of a Travel-oriented Distribution System. It corresponds to the simulated version of the real-world Computerized Reservation Systems (CRS).</description>
+      <homepage_url>https://sourceforge.net/projects/simcrs/</homepage_url>
+      <download_url></download_url>
+      <url_name>simcrs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60502/airsim_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60502/airsim_logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14564201</analysis_id>
+      <analysis>
+        <id>14564201</id>
+        <url>http://www.ohloh.net/analyses/14564201.xml</url>
+        <project_id>479746</project_id>
+        <updated_at>2013-07-07T20:32:29Z</updated_at>
+        <logged_at>2013-07-07T19:06:55Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9120</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/simcrs/analyses/14564201/languages.png">
+          <language color="EEE" percentage="44" id="51">
+Autoconf          </language>
+          <language color="EEE" percentage="26" id="74">
+CMake          </language>
+          <language color="F35F1F" percentage="19" id="44">
+C++          </language>
+          <language color="000000" percentage="11" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>74</main_language_id>
+        <main_language_name>CMake</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

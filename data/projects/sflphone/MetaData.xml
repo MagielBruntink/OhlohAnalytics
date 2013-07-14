@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318963</id>
+      <name>SFLphone</name>
+      <url>http://www.ohloh.net/p/sflphone.xml</url>
+      <html_url>http://www.ohloh.net/p/sflphone</html_url>
+      <created_at>2009-03-11T14:44:35Z</created_at>
+      <updated_at>2013-07-12T00:04:17Z</updated_at>
+      <description>SFLphone is a SIP/IAX2 compatible softphone for Linux. The SFLphone project's goal is to create a robust enterprise-class desktop phone. While it can serve home users very well, it is designed with a hundred-calls-a-day receptionist in mind.</description>
+      <homepage_url>http://www.sflphone.org/</homepage_url>
+      <download_url>http://www.sflphone.org/download.php</download_url>
+      <url_name>sflphone</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27876/logo-bg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27876/logo-bg_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14596582</analysis_id>
+      <tags>
+        <tag>srtp</tag>
+        <tag>sip</tag>
+        <tag>gpl3</tag>
+        <tag>gnome</tag>
+        <tag>book</tag>
+        <tag>gpl</tag>
+        <tag>dbus</tag>
+        <tag>stun</tag>
+        <tag>iaxclient</tag>
+        <tag>kde</tag>
+        <tag>address</tag>
+        <tag>gtk+</tag>
+        <tag>conferencing</tag>
+        <tag>tls</tag>
+        <tag>voip</tag>
+        <tag>open-source</tag>
+        <tag>gplv3</tag>
+        <tag>c++</tag>
+        <tag>sipphone</tag>
+        <tag>zrtp</tag>
+        <tag>client</tag>
+      </tags>
+      <analysis>
+        <id>14596582</id>
+        <url>http://www.ohloh.net/analyses/14596582.xml</url>
+        <project_id>318963</project_id>
+        <updated_at>2013-07-12T00:04:16Z</updated_at>
+        <logged_at>2013-07-12T00:02:53Z</logged_at>
+        <min_month>2004-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>61376</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sflphone/analyses/14596582/languages.png">
+          <language color="F35F1F" percentage="38" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="33" id="42">
+C          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="000000" percentage="16" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

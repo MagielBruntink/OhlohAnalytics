@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6324</id>
+      <name>Hewle</name>
+      <url>http://www.ohloh.net/p/hewle.xml</url>
+      <html_url>http://www.ohloh.net/p/hewle</html_url>
+      <created_at>2007-06-29T10:58:13Z</created_at>
+      <updated_at>2013-06-25T01:34:25Z</updated_at>
+      <description>Hewle's going to become an open source portal aimed to help people by publishing tutorials and guides focused on a certain problem.
+
+Users are free to submit new articles covering any issues the site deals with.
+A ranking list is updated once a day and the &quot;best&quot; users will be awarded monthly.
+
+The source code of the portal (PHP+MySQL) is freely available and editable by everyone!</description>
+      <homepage_url>http://sourceforge.net/projects/hewle</homepage_url>
+      <download_url>http://hewle.cvs.sourceforge.net/hewle/</download_url>
+      <url_name>hewle</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1901/cloud_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1901/cloud_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14392509</analysis_id>
+      <tags>
+        <tag>documentation</tag>
+        <tag>web</tag>
+        <tag>development</tag>
+        <tag>tutorial</tag>
+        <tag>community</tag>
+        <tag>user-contributions</tag>
+        <tag>hewle</tag>
+        <tag>help</tag>
+      </tags>
+      <analysis>
+        <id>14392509</id>
+        <url>http://www.ohloh.net/analyses/14392509.xml</url>
+        <project_id>6324</project_id>
+        <updated_at>2013-07-10T07:00:01Z</updated_at>
+        <logged_at>2013-07-10T06:59:38Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2009-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11453</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hewle/analyses/14392509/languages.png">
+          <language color="356AA0" percentage="42" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="29" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="17" id="4">
+CSS          </language>
+          <language color="000000" percentage="12" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

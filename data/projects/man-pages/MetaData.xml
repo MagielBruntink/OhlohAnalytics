@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>172844</id>
+      <name>man-pages</name>
+      <url>http://www.ohloh.net/p/man-pages.xml</url>
+      <html_url>http://www.ohloh.net/p/man-pages</html_url>
+      <created_at>2009-01-16T11:47:53Z</created_at>
+      <updated_at>2013-07-12T09:10:57Z</updated_at>
+      <description>Man pages describing Linux kernel system calls, (GNU) C library functions, deviles, file formats, and overview/miscellaneous related topics.</description>
+      <homepage_url>http://code.google.com/p/man-pages</homepage_url>
+      <download_url>https://www.kernel.org/doc/man-pages/download.html</download_url>
+      <url_name>man-pages</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14603499</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>documentation</tag>
+      </tags>
+      <analysis>
+        <id>14603499</id>
+        <url>http://www.ohloh.net/analyses/14603499.xml</url>
+        <project_id>172844</project_id>
+        <updated_at>2013-07-12T09:10:56Z</updated_at>
+        <logged_at>2013-07-12T09:02:58Z</logged_at>
+        <min_month>2004-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>60</twelve_month_contributor_count>
+        <total_code_lines>349</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/man-pages/analyses/14603499/languages.png">
+          <language color="777777" percentage="86" id="11">
+shell script          </language>
+          <language color="EEE" percentage="14" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>Verbatim_copying</name>
+          <nice_name>Verbatim copying</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

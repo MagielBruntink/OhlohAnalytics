@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>463646</id>
+      <name>statsmodels</name>
+      <url>http://www.ohloh.net/p/statsmodels.xml</url>
+      <html_url>http://www.ohloh.net/p/statsmodels</html_url>
+      <created_at>2009-10-16T18:13:56Z</created_at>
+      <updated_at>2013-07-06T22:28:40Z</updated_at>
+      <description>scikits.statsmodels is a pure python package that provides classes and functions for the estimation of several categories of statistical models with numpy and scipy.
+
+These currently include linear regression models, OLS, GLS, WLS and GLS with AR(p) errors, generalized linear models for six distribution families and M-estimators for robust linear models. Version 0.3 includes statistics and linear models, AR, ARMA, VAR, for time series analysis. An extensive list of result statistics are available for each estimation problem
+
+
+Note: The ohloh code analysis includes part of the history of nipy, that is still included in the statsmodels bzr repositories.
+To see the actual contributors to statsmodels sort the contributor list by most recent commits.</description>
+      <homepage_url>http://statsmodels.sourceforge.net/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/scikits.statsmodels</download_url>
+      <url_name>statsmodels</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14556308</analysis_id>
+      <tags>
+        <tag>estimation</tag>
+        <tag>python</tag>
+        <tag>statistics</tag>
+        <tag>econometrics</tag>
+        <tag>regression</tag>
+      </tags>
+      <analysis>
+        <id>14556308</id>
+        <url>http://www.ohloh.net/analyses/14556308.xml</url>
+        <project_id>463646</project_id>
+        <updated_at>2013-07-06T22:28:39Z</updated_at>
+        <logged_at>2013-07-06T22:19:11Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>33</twelve_month_contributor_count>
+        <total_code_lines>90216</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/statsmodels/analyses/14556308/languages.png">
+          <language color="4A246B" percentage="95" id="9">
+Python          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

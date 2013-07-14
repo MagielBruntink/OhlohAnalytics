@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22536</id>
+      <name>power-architect</name>
+      <url>http://www.ohloh.net/p/power-architect.xml</url>
+      <html_url>http://www.ohloh.net/p/power-architect</html_url>
+      <created_at>2008-10-07T14:52:23Z</created_at>
+      <updated_at>2013-07-02T18:22:10Z</updated_at>
+      <description>The Power*Architect, sponsored by SQL Power Group Inc, is a cross-platform, open-source data modeling tool with a GUI and an embeddable API. 
+
+For more information, see the Power*Architect web page at http://www.sqlpower.ca/page/architect 
+
+Power*Architect 0.9.13 Released!Power*Architect 0.9.13 has been released! A lot of changes have been made since 0.9.12, so be sure to check out the Release Notes for all the details! 
+
+Power*Architect 0.9.12 and older releases are still available for download. 
+
+Bug databaseWe are not currently using the bug database provided by Google Code, because we have a long history already built up in our own Bugzilla instance. 
+
+Access the Architect's Bugzilla database here: http://trillian.sqlpower.ca/bugzilla 
+
+Volunteers WelcomeTo get started as a developer i</description>
+      <homepage_url>http://code.google.com/p/power-architect</homepage_url>
+      <download_url>http://download.sqlpower.ca/architect/current.html</download_url>
+      <url_name>power-architect</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20240/architect-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20240/architect-64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505389</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>java</tag>
+        <tag>jdbc</tag>
+        <tag>datamodeling</tag>
+        <tag>dataprofiling</tag>
+        <tag>sql</tag>
+      </tags>
+      <analysis>
+        <id>14505389</id>
+        <url>http://www.ohloh.net/analyses/14505389.xml</url>
+        <project_id>22536</project_id>
+        <updated_at>2013-07-13T07:18:25Z</updated_at>
+        <logged_at>2013-07-13T07:18:23Z</logged_at>
+        <min_month>2003-07-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>449895</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/power-architect/analyses/14505389/languages.png">
+          <language color="556655" percentage="30" id="36">
+XSL Transformation          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="22" id="5">
+Java          </language>
+          <language color="000000" percentage="19" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
