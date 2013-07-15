@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>477734</id>
+      <project_id>6952</project_id>
+      <repository_id>477928</repository_id>
+      <repository>
+        <id>477928</id>
+        <type>GitRepository</type>
+        <url>git://github.com/cakebread/yolk.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-06-25T18:41:50Z</logged_at>
+        <commits>226</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>14355</id>
+      <project_id>6952</project_id>
+      <repository_id>13896</repository_id>
+      <repository>
+        <id>13896</id>
+        <type>SvnRepository</type>
+        <url>http://tools.assembla.com/svn/yolk/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-02-18T13:40:17Z</logged_at>
+        <commits>174</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

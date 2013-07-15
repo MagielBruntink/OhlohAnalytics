@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308691</id>
+      <name>Emacs MultiMedia System</name>
+      <url>http://www.ohloh.net/p/EmacsMMS.xml</url>
+      <html_url>http://www.ohloh.net/p/EmacsMMS</html_url>
+      <created_at>2009-01-27T10:16:41Z</created_at>
+      <updated_at>2013-07-05T16:47:27Z</updated_at>
+      <description>EMMS is the Emacs Multimedia System. It tries to be a clean and small application to play multimedia files from Emacs using external players. Many of it's ideas are derived from MpthreePlayer , but it tries to be more general and cleaner.
+
+The fact that EMMS is based on external players makes it powerful, because it supports all formats that those players support, with no effort from your side.</description>
+      <homepage_url>http://www.gnu.org/software/emms/</homepage_url>
+      <download_url>http://www.gnu.org/software/emms/snapshots.html</download_url>
+      <url_name>EmacsMMS</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14538832</analysis_id>
+      <tags>
+        <tag>music</tag>
+        <tag>mp3player</tag>
+        <tag>emacs</tag>
+      </tags>
+      <analysis>
+        <id>14538832</id>
+        <url>http://www.ohloh.net/analyses/14538832.xml</url>
+        <project_id>308691</project_id>
+        <updated_at>2013-07-05T16:47:27Z</updated_at>
+        <logged_at>2013-07-05T16:46:51Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>10644</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/EmacsMMS/analyses/14538832/languages.png">
+          <language color="2B6B24" percentage="98" id="10">
+Emacs Lisp          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26770</id>
+      <name>phocoa</name>
+      <url>http://www.ohloh.net/p/phocoa.xml</url>
+      <html_url>http://www.ohloh.net/p/phocoa</html_url>
+      <created_at>2008-11-15T22:03:51Z</created_at>
+      <updated_at>2013-07-15T01:23:28Z</updated_at>
+      <description>PHOCOA is a full-stack PHP framework for developing web applications. PHOCOA's primary intent is to make web application development in PHP easier, faster, and higher-quality. The framework handles most of the &quot;dirty work&quot; of web application development by providing infrastructure for all of the common tasks. Most of your time writing PHOCOA apps will be spent designing your GUI and writing application-specific logic rather than dealing with form data, database calls, etc.
+
+PHOCOA includes an ORM, a lightweight MVC architecture, AJAX infrastructure, UI components, and other tools quickly build projects, without sacrificing performance or flexibility.
+
+PHOCOA is modeled after the Cocoa architecture for building desktop Mac applications, but has been translated to a web environment.</description>
+      <homepage_url>http://phocoa.com</homepage_url>
+      <download_url>http://phocoa.com/webapp/public/pages/downloads</download_url>
+      <url_name>phocoa</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10629/phocoa-bean_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10629/phocoa-bean_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14634016</analysis_id>
+      <tags>
+        <tag>php5</tag>
+        <tag>full-stack</tag>
+        <tag>php</tag>
+        <tag>mvc</tag>
+        <tag>framework</tag>
+        <tag>web</tag>
+        <tag>ajax</tag>
+      </tags>
+      <analysis>
+        <id>14634016</id>
+        <url>http://www.ohloh.net/analyses/14634016.xml</url>
+        <project_id>26770</project_id>
+        <updated_at>2013-07-15T01:23:28Z</updated_at>
+        <logged_at>2013-07-13T17:39:47Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>272594</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phocoa/analyses/14634016/languages.png">
+          <language color="A4007E" percentage="75" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="10" id="2">
+PHP          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

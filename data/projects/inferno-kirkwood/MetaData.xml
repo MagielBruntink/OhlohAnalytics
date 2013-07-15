@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347662</id>
+      <name>inferno-kirkwood</name>
+      <url>http://www.ohloh.net/p/inferno-kirkwood.xml</url>
+      <html_url>http://www.ohloh.net/p/inferno-kirkwood</html_url>
+      <created_at>2009-06-22T17:06:36Z</created_at>
+      <updated_at>2013-06-20T05:40:36Z</updated_at>
+      <description>Inferno for the Marvell Kirkwood system-on-chip, and in particular the Sheevaplug that has a kirkwood chip.
+
+Inferno is an embedded operating system maintained by Vita Nuova. The kirkwood is a system-on-chip aimed at file/network services, based on an ARM processor. The sheevaplug is a development kit around the kirkwood with a serial, gigabit ethernet, sdio and usb2 outlet.</description>
+      <homepage_url>http://code.google.com/p/inferno-kirkwood/</homepage_url>
+      <download_url></download_url>
+      <url_name>inferno-kirkwood</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14314740</analysis_id>
+      <tags>
+        <tag>arm</tag>
+        <tag>kirkwood</tag>
+        <tag>inferno</tag>
+        <tag>sheevaplug</tag>
+        <tag>os</tag>
+      </tags>
+      <analysis>
+        <id>14314740</id>
+        <url>http://www.ohloh.net/analyses/14314740.xml</url>
+        <project_id>347662</project_id>
+        <updated_at>2013-07-08T11:56:29Z</updated_at>
+        <logged_at>2013-07-08T10:59:19Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10051</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/inferno-kirkwood/analyses/14314740/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

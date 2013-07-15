@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308926</id>
+      <name>WKTRaster</name>
+      <url>http://www.ohloh.net/p/WKTRaster.xml</url>
+      <html_url>http://www.ohloh.net/p/WKTRaster</html_url>
+      <created_at>2009-01-29T23:43:03Z</created_at>
+      <updated_at>2013-07-06T13:54:21Z</updated_at>
+      <description>Raster types for PostGIS.
+
+PostGIS WKT Raster is an ongoing project aiming at developing raster support in PostGIS.
+
+The goal of WKT Raster is to implement the RASTER type as much as possible like the GEOMETRY type is implemented in PostGIS and to offer a single set of overlay SQL functions (like ST_Intersects) operating seamlessly on vector and raster coverages.</description>
+      <homepage_url>http://trac.osgeo.org/postgis/wiki/WKTRaster</homepage_url>
+      <download_url>http://trac.osgeo.org/postgis/wiki/WKTRaster</download_url>
+      <url_name>WKTRaster</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550565</analysis_id>
+      <tags>
+        <tag>tms</tag>
+        <tag>geos</tag>
+        <tag>gdal</tag>
+        <tag>rdbms</tag>
+        <tag>database</tag>
+        <tag>imagery</tag>
+        <tag>dbms</tag>
+        <tag>mapalgebra</tag>
+        <tag>mapping</tag>
+        <tag>tile</tag>
+        <tag>gis</tag>
+        <tag>postgis</tag>
+        <tag>storage</tag>
+        <tag>raster</tag>
+        <tag>postgresql</tag>
+        <tag>satellite</tag>
+      </tags>
+      <analysis>
+        <id>14550565</id>
+        <url>http://www.ohloh.net/analyses/14550565.xml</url>
+        <project_id>308926</project_id>
+        <updated_at>2013-07-06T13:54:21Z</updated_at>
+        <logged_at>2013-07-06T13:53:36Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15810</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/WKTRaster/analyses/14550565/languages.png">
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="493625" percentage="24" id="30">
+SQL          </language>
+          <language color="777777" percentage="20" id="11">
+shell script          </language>
+          <language color="000000" percentage="11" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

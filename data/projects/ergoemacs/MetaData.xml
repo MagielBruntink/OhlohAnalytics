@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>301471</id>
+      <name>ergoemacs</name>
+      <url>http://www.ohloh.net/p/ergoemacs.xml</url>
+      <html_url>http://www.ohloh.net/p/ergoemacs</html_url>
+      <created_at>2009-01-24T03:20:16Z</created_at>
+      <updated_at>2013-07-14T11:49:18Z</updated_at>
+      <description>ErgoEmacs is a new emacs distribution. This project's aim is to create a modernized version of emacs. 
+
+ErgoEmacs includes many enhancements to GNU Emacs. In particular, it uses a ergonomics based keyboard shortcut set, but also support modern standard ones such as Copy, Cut, Paste , undo, Save, Open, Close. ErgoEmacs modernize emacs by removing some awkward user interface, and many emacs's 1980s terminologies, documentation, but still remain emacs-like for its superb features (For example, there will not be addition of pop-up dialogs or forcing users to use mouse.).
+
+This project is not a political fork of GNU Emacs. It is just elisp files on top of GNU Emacs. All code are licensed by GPL.</description>
+      <homepage_url>http://ergoemacs.org</homepage_url>
+      <download_url>http://code.google.com/p/ergoemacs/downloads/list</download_url>
+      <url_name>ergoemacs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14624798</analysis_id>
+      <tags>
+        <tag>dvorak</tag>
+        <tag>keyboard</tag>
+        <tag>qwerty</tag>
+        <tag>keybinding</tag>
+        <tag>emacs</tag>
+        <tag>shortcut</tag>
+        <tag>ergonomics</tag>
+        <tag>emacs-lisp</tag>
+      </tags>
+      <analysis>
+        <id>14624798</id>
+        <url>http://www.ohloh.net/analyses/14624798.xml</url>
+        <project_id>301471</project_id>
+        <updated_at>2013-07-14T11:49:18Z</updated_at>
+        <logged_at>2013-07-14T11:43:34Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>53923</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ergoemacs/analyses/14624798/languages.png">
+          <language color="2B6B24" percentage="97" id="10">
+Emacs Lisp          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

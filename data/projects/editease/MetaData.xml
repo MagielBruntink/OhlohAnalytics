@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>84205</id>
+      <name>editease</name>
+      <url>http://www.ohloh.net/p/editease.xml</url>
+      <html_url>http://www.ohloh.net/p/editease</html_url>
+      <created_at>2008-12-20T11:51:49Z</created_at>
+      <updated_at>2013-07-15T09:59:37Z</updated_at>
+      <description>editEase - no fuss, no database, no worries11 January 2010 UpdateSlow start to the year, will look at taking on board some of the suggestions emailed to do some more updates to this plugin.  It would appear from feedback that people would like this project extended in a variety of ways so as I find time will get this organised.   
+
+Thinking a better name (or at least a better style/logo) should be on the books aswell. 
+
+16 November 2009 UpdateForgot to add in when you create your includes you need to add one of the below classes to get the editing to fire. 
+
+class=&quot;e-ease&quot; class=&quot;e-ease ee:wwig&quot; Also, had a request to enable a double click on the 'edit div' to trigger off the editing which can be easily done by adding... 
+
+jQuery(&quot;.e-ease&quot;).dblclick( function () { editNow(this.id); });inside the function bindEE() . 
+
+12 November 2009 Update1.5.1 - A little tweak completed to get around magic_quotes if it exists on your server.  
+
+08 November 2009 UpdateA very simple jQuery CMS that can be configured and set up in around 2 minutes.  Plugging in to your site is a breeze, and can be done at almost any time during the life cycle of development.   
+
+ Installation file: due to many requests I have now completed an installation script for this little plugin which is basic, but functional. 
+
+Note:  This is a very small CMS, with no database requirements.  Ideal for small sites, or where only a small amount of 'content management' is required.  If your site requires all content to be databased, there are many other CMS programs already in existence to choose from, so then maybe this is not the right solution. :) 
+
+Demo AccessAs a few people have commented on the speed of this plugin I have placed two identical demos online, 1 on our Australian servers and 1 on our US server. 
+
+Australian Server currently being refurbed 
+
+US Server http://jquerystuff.com/editease 
+
+Click on the &quot;ADMIN&quot; link in the bottom right hand corner of the page. 
+
+Username: admin Password: pass (yes the same for both servers) 
+
+the demo sites are updated back to scratch frequently to rectify recent changes (and one day I will build in an automated script so I don't have to think to hard about it. 
+
+Notes - Inclusions Modal windows are now handled by Eric Martins SimpleModal a great plugin which should be considered for modal windows all the time.  WYSIWYG editor is now using the latest CKEditor, much faster than before and easily configurable (just look for the page /ee/cfk-edit.php if you wish to configure past the basics I have done).  I have included a very basic 'Image Browse' list that reads data uploaded via the built in 'File Manager' of editEase. 
+
+Found a problem or have a questionPlease let me know if you find any problems (stating browser, OS etc...) with the nature of the problem, or send questions to Stephen at noosalife at gmail dot com 
+
+Whats Next ?I know considering it too me nearly a year to find time for this update the 'next to do' items may take a little while.  That being said, I was thinking of a couple of new styles, a more in-depth 'ckeditor' file browser, some interaction with non .php pages and what ever else pops up through email requests. 
+
+Basic Install Instructions: Start Installation  
+
+Upload the ee directory to your website and CHMOD 0777 or 0757 the  config.php file so it can be edited 
+Point browser to ee/eeInstall.php and fill in the form CHMOD the inc files that can be edited Delete eeInstall.php file  End Installation  
+
+ Start Activation  
+
+Reference editease.jquery.js (or the .min version) on each editable page don't forget to reference jQuery of course 
+Add the activate script to the pages you wish to edit thats it :)  End Activation  
+
+ Activation Script  
+
+$(document).ready(function(){
+	// load editEase login link and data into the page
+	$(&quot;someDiv&quot;).editease(); 	 
+
+!important - The second variable with the overiding default path 
+is useful when the folder ee/ is not at the root of your website 
+ie. its in a sub directory, on a local computer etc...</description>
+      <homepage_url>http://code.google.com/p/editease</homepage_url>
+      <download_url></download_url>
+      <url_name>editease</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14637938</analysis_id>
+      <tags>
+        <tag>swfupload</tag>
+        <tag>php</tag>
+        <tag>cms</tag>
+        <tag>edit-in-place</tag>
+        <tag>jquery</tag>
+        <tag>ajax</tag>
+        <tag>javascript</tag>
+        <tag>multi-file-upload</tag>
+      </tags>
+      <analysis>
+        <id>14637938</id>
+        <url>http://www.ohloh.net/analyses/14637938.xml</url>
+        <project_id>84205</project_id>
+        <updated_at>2013-07-15T09:59:36Z</updated_at>
+        <logged_at>2013-07-15T09:59:17Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2007-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/editease/analyses/14637938/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

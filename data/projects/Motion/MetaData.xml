@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308924</id>
+      <name>Motion</name>
+      <url>http://www.ohloh.net/p/Motion.xml</url>
+      <html_url>http://www.ohloh.net/p/Motion</html_url>
+      <created_at>2009-01-29T22:53:46Z</created_at>
+      <updated_at>2013-06-26T00:08:21Z</updated_at>
+      <description>Motion is a program that monitors the video signal from one or more cameras and is able to detect if a significant part of the picture has changed; in other words, it can detect motion.
+
+The program is written in C and is made for the Linux operating system. Motion is a command line based tool whose output can be either jpeg, ppm fies or mpeg video sequences. Motion is strictly command line driven and can run as a daemon with a rather small footprint.
+
+Motion is the perfect tool for keeping an eye on your property, keeping only those images that are interesting.</description>
+      <homepage_url>http://www.lavrsen.dk/twiki/bin/view/Motion/WebHome</homepage_url>
+      <download_url>http://www.lavrsen.dk/twiki/bin/view/Motion/DownloadFiles</download_url>
+      <url_name>Motion</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14410114</analysis_id>
+      <tags>
+        <tag>movement</tag>
+        <tag>surveillance</tag>
+        <tag>cam</tag>
+        <tag>videosurveillance</tag>
+        <tag>motiondetection</tag>
+        <tag>cctv</tag>
+        <tag>camera</tag>
+        <tag>security</tag>
+      </tags>
+      <analysis>
+        <id>14410114</id>
+        <url>http://www.ohloh.net/analyses/14410114.xml</url>
+        <project_id>308924</project_id>
+        <updated_at>2013-07-11T03:27:30Z</updated_at>
+        <logged_at>2013-07-11T03:27:28Z</logged_at>
+        <min_month>2005-12-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>30809</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Motion/analyses/14410114/languages.png">
+          <language color="FF8F00" percentage="62" id="42">
+C          </language>
+          <language color="EEE" percentage="25" id="51">
+Autoconf          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

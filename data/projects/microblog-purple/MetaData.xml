@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21423</id>
+      <name>microblog-purple</name>
+      <url>http://www.ohloh.net/p/microblog-purple.xml</url>
+      <html_url>http://www.ohloh.net/p/microblog-purple</html_url>
+      <created_at>2008-10-07T13:58:24Z</created_at>
+      <updated_at>2013-07-05T17:30:05Z</updated_at>
+      <description>This project implement a plug-in for any LibPurple base client like Pidgin or Finch . Currently it support Twitter, Identica, and Laconica-base server through the conversation windows. Right now it run on Linux and Windows.  
+
+Please upgrade your MBPurple to 0.2.4 before reporting any bugs!   Ubuntu's PPA is available Awashiro Ikuya's PPA repository README is here Version 0.2.4 is released (26/9/2009)Fix &quot;Twitpocalypse2&quot; where mbpurple download whole lots of old tweets over and over. This bug occurred on some platform (as of now Windows XP seems to be affected by this) Fix reply and retweet links for Pidgin 2.6. Fix stability bug that crash Pidgin when connection is unstable All users are recommended to upgrade to 0.2.4, and also upgrade your Pidgin to 2.6.1 at the least. Ubuntu user please consider using Pidgin PPA built from Pidgin team to upgrade your Pidgin (instruction here) 
+
+Will available on PPA soon. 
+
+Version 0.2.2 is released (14/6/2009)Fix id overflow (receiving duplicate tweets) bug for twitter.com Add CACerts to windows installer Fix few minor bugs Plug-in for Adium is also released! Thanks to @jsippel. Another new release for Adium (21/5/2009)This release update libpurple Courtesy goes to @jsippel! Download it here Version 0.2.1 is released (3/3/2009)Don't forget to enable Twitgin in Tools-&gt;Plugin 
+
+This version contain major bug fixes and some improvements 
+
+Twitter, Identica, and Laconica now serve mainly as protocol only plug-in. You need to enable Twitgin in order to get old fancy output in conversation windows Fix SSL connection bug that may crash Pidgin when connection is unstable Clicking reply link now add in_reply_to_id http parameter (make the message appear sa &quot;reply to message&quot; in web-site) Remove &quot;twitter.com&quot; label. Now conversation showed as if coming from each individual user Add * (Favorite) and RT (Retweet) link for easy favorite and retweet (thanks to @nopparat) Move &quot;Enable reply link&quot; preference to Twitgin &quot;Configure plug-in&quot;.  We are also working on Adium port of MBPurple. Hopefully this will be released very soon! 
+
+Version 0.2.0 is released (7/11/2008)This is a new major release with some more features, along with major code restructure. This release only works with Pidgin 2.5.x 
+
+Beta support for Identi.ca and Laconica, as separated plug-ins. A bit of improvement in message display Improve Twitgin support, no self-generated message also being renice Support for 2 commands, right now it only works for Twitter. /replies - get replies timeline /refresh - get new tweets immediately /tag, /btag, /untag - automatically tag all your message, good for tagging messages with some hash tag (Example: #election2008). Lots more configurable options in Plug-in. 
+
+Don't forget to enable Twitgin to see new features! 
+
+Note that, this new version is INCOMPATIBLE with older version. You will need to remove and re-add the plug-in to get all new features. 
+
+Version 0.1.2 is released (16/8/2008)This release fix &amp;nbsp;issue#17&amp;nbsp; which can crash Pidgin when clicking &quot;reconnect&quot; or Pidgin do automatic reconnect.</description>
+      <homepage_url>http://code.google.com/p/microblog-purple</homepage_url>
+      <download_url></download_url>
+      <url_name>microblog-purple</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14539168</analysis_id>
+      <tags>
+        <tag>pidgin</tag>
+        <tag>microblog</tag>
+        <tag>noknok</tag>
+        <tag>mbpidgin</tag>
+        <tag>laconica</tag>
+        <tag>twitter</tag>
+        <tag>mbpurple</tag>
+        <tag>libpurple</tag>
+        <tag>identica</tag>
+      </tags>
+      <analysis>
+        <id>14539168</id>
+        <url>http://www.ohloh.net/analyses/14539168.xml</url>
+        <project_id>21423</project_id>
+        <updated_at>2013-07-05T17:30:04Z</updated_at>
+        <logged_at>2013-07-05T17:29:44Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5051</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/microblog-purple/analyses/14539168/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="EEE" percentage="4" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

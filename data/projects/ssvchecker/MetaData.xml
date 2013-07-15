@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480601</id>
+      <name>SSVChecker</name>
+      <url>http://www.ohloh.net/p/ssvchecker.xml</url>
+      <html_url>http://www.ohloh.net/p/ssvchecker</html_url>
+      <created_at>2010-01-19T22:12:05Z</created_at>
+      <updated_at>2013-06-23T09:35:51Z</updated_at>
+      <description>SSVChecker is a static security vulnerability checker for Eclipse.</description>
+      <homepage_url>https://sourceforge.net/projects/ssvchecker/</homepage_url>
+      <download_url></download_url>
+      <url_name>ssvchecker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56335/magglas2_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56335/magglas2_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14355879</analysis_id>
+      <tags>
+        <tag>security</tag>
+      </tags>
+      <analysis>
+        <id>14355879</id>
+        <url>http://www.ohloh.net/analyses/14355879.xml</url>
+        <project_id>480601</project_id>
+        <updated_at>2013-07-10T00:53:10Z</updated_at>
+        <logged_at>2013-07-10T00:53:05Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4039</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ssvchecker/analyses/14355879/languages.png">
+          <language color="9A63AD" percentage="97" id="5">
+Java          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

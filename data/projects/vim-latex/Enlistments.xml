@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>460969</id>
+      <project_id>34102</project_id>
+      <repository_id>457967</repository_id>
+      <repository>
+        <id>457967</id>
+        <type>GitRepository</type>
+        <url>git://vim-latex.git.sourceforge.net/gitroot/vim-latex/htdocs</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T01:46:55Z</logged_at>
+        <commits>126</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>460970</id>
+      <project_id>34102</project_id>
+      <repository_id>457968</repository_id>
+      <repository>
+        <id>457968</id>
+        <type>GitRepository</type>
+        <url>git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-07T02:10:11Z</logged_at>
+        <commits>789</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

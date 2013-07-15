@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9078</id>
+      <name>Bad Behavior</name>
+      <url>http://www.ohloh.net/p/bad_behavior.xml</url>
+      <html_url>http://www.ohloh.net/p/bad_behavior</html_url>
+      <created_at>2007-10-11T00:00:39Z</created_at>
+      <updated_at>2013-06-26T01:04:13Z</updated_at>
+      <description>Bad Behavior is a PHP-based solution for blocking link spam and the robots which deliver it.
+
+Bad Behavior complements other link spam solutions by acting as a gatekeeper, preventing spammers from ever delivering their junk, and in many cases, from ever reading your site in the first place.
+ 
+This keeps your site's load down, makes your site logs cleaner, and can help prevent denial of service conditions caused by spammers. Instead of merely looking at the content of potential spam, Bad Behavior analyzes the delivery method as well as the software the spammer is using.</description>
+      <homepage_url>http://bad-behavior.ioerror.us/</homepage_url>
+      <download_url></download_url>
+      <url_name>bad_behavior</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14410550</analysis_id>
+      <tags>
+        <tag>trackback</tag>
+        <tag>mysql</tag>
+        <tag>log</tag>
+        <tag>spam</tag>
+        <tag>security</tag>
+        <tag>antispam</tag>
+        <tag>php</tag>
+        <tag>link_spam</tag>
+        <tag>badbehavior</tag>
+      </tags>
+      <analysis>
+        <id>14410550</id>
+        <url>http://www.ohloh.net/analyses/14410550.xml</url>
+        <project_id>9078</project_id>
+        <updated_at>2013-07-11T23:57:59Z</updated_at>
+        <logged_at>2013-07-11T23:46:58Z</logged_at>
+        <min_month>2012-02-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bad_behavior/analyses/14410550/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

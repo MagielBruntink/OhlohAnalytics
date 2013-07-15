@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>24311</id>
+      <name>SWT/XML</name>
+      <url>http://www.ohloh.net/p/swtxml.xml</url>
+      <html_url>http://www.ohloh.net/p/swtxml</html_url>
+      <created_at>2008-10-07T16:21:48Z</created_at>
+      <updated_at>2013-07-11T06:59:06Z</updated_at>
+      <description>SWT/XML is a lightweight XML markup language for describing Eclipse SWT / RCP user interfaces. It includes an Eclipse Web Tools based IDE editor plug-in. 
+
+* Very readable and compact XML grammar for describing SWT user interfaces.
+
+* Easy to learn and to use. If you know SWT, you just need to learn few API / XML conversion rules. 
+
+* I18N support using label properties and resource bundles (same as for plugin.xml files).
+
+* Eclipse IDE plug-in with Content Assist and Preview.
+
+* Strict markup validation with meaningful exception messages. 
+
+* Easy integration in your application, the runtime library of SWT/XML is very small (&lt;150KB) and has almost no external dependencies (except for Eclipse RCP plug-ins)</description>
+      <homepage_url>http://www.swtxml.com/</homepage_url>
+      <download_url>http://code.google.com/p/swtxml/wiki/UpdateSite</download_url>
+      <url_name>swtxml</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9299/swtxml_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9299/swtxml_64x64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585630</analysis_id>
+      <tags>
+        <tag>eclipse</tag>
+        <tag>rcp</tag>
+        <tag>xml</tag>
+        <tag>java</tag>
+        <tag>jface</tag>
+        <tag>client</tag>
+        <tag>widgets</tag>
+        <tag>swt</tag>
+        <tag>eclipsercp</tag>
+      </tags>
+      <analysis>
+        <id>14585630</id>
+        <url>http://www.ohloh.net/analyses/14585630.xml</url>
+        <project_id>24311</project_id>
+        <updated_at>2013-07-11T06:59:06Z</updated_at>
+        <logged_at>2013-07-11T06:58:44Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12535</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/swtxml/analyses/14585630/languages.png">
+          <language color="9A63AD" percentage="51" id="5">
+Java          </language>
+          <language color="555555" percentage="48" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

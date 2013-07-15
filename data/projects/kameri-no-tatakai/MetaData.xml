@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318967</id>
+      <name>Kameri no Tatakai</name>
+      <url>http://www.ohloh.net/p/kameri-no-tatakai.xml</url>
+      <html_url>http://www.ohloh.net/p/kameri-no-tatakai</html_url>
+      <created_at>2009-03-11T18:35:26Z</created_at>
+      <updated_at>2009-06-25T21:11:01Z</updated_at>
+      <description>A game mixing realtime and turn-by-turn strategy, without any random, making it really deterministic and based on the player experience more than its chance.
+
+It is developed using the Objective Caml programming language, as a school project for our first year in EPITA, a french programming school.</description>
+      <homepage_url>http://mamelouks.net</homepage_url>
+      <download_url>http://mamelouks.net/downloads</download_url>
+      <url_name>kameri-no-tatakai</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15634/logo_mamelouks_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15634/logo_mamelouks_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>513444</analysis_id>
+      <tags>
+        <tag>strategygames</tag>
+        <tag>games</tag>
+        <tag>lisp</tag>
+        <tag>lighty_lisp</tag>
+        <tag>ocaml</tag>
+        <tag>artificialintelligence</tag>
+      </tags>
+      <analysis>
+        <id>513444</id>
+        <url>http://www.ohloh.net/analyses/513444.xml</url>
+        <project_id>318967</project_id>
+        <updated_at>2009-04-15T09:50:33Z</updated_at>
+        <logged_at>2009-04-15T09:50:03Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>18974</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kameri-no-tatakai/analyses/513444/languages.png">
+          <language color="EEE" percentage="45" id="61">
+Objective Caml          </language>
+          <language color="EEE" percentage="26" id="51">
+Autoconf          </language>
+          <language color="FF8F00" percentage="21" id="42">
+C          </language>
+          <language color="000000" percentage="8" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

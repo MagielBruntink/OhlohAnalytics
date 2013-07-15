@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22304</id>
+      <name>petsc4py</name>
+      <url>http://www.ohloh.net/p/petsc4py.xml</url>
+      <html_url>http://www.ohloh.net/p/petsc4py</html_url>
+      <created_at>2008-10-07T14:41:11Z</created_at>
+      <updated_at>2013-07-15T09:30:47Z</updated_at>
+      <description>PETSc is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations.  It employs the MPI standard for all message-passing communication. 
+
+petsc4py are Python bindings for PETSc, the Portable, Extensible Toolkit for Scientific Computation. 
+
+A good friend of petsc4py is: 
+
+mpi4py: Python bindings for MPI, the Message Passing Interface. Other two projects depend on petsc4py: 
+
+slepc4py: Python bindings for SLEPc, the Scalable Library for Eigenvalue Problem Computations. tao4py: Python bindings for TAO, the Toolkit for Advanced Optimization.</description>
+      <homepage_url>http://code.google.com/p/petsc4py</homepage_url>
+      <download_url></download_url>
+      <url_name>petsc4py</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14637659</analysis_id>
+      <tags>
+        <tag>mpi</tag>
+        <tag>python</tag>
+        <tag>petsc</tag>
+      </tags>
+      <analysis>
+        <id>14637659</id>
+        <url>http://www.ohloh.net/analyses/14637659.xml</url>
+        <project_id>22304</project_id>
+        <updated_at>2013-07-15T09:30:46Z</updated_at>
+        <logged_at>2013-07-15T09:30:14Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2008-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17978</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/petsc4py/analyses/14637659/languages.png">
+          <language color="4A246B" percentage="57" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="40" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

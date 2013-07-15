@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484818</id>
+      <name>Pithos</name>
+      <url>http://www.ohloh.net/p/pithos.xml</url>
+      <html_url>http://www.ohloh.net/p/pithos</html_url>
+      <created_at>2010-08-16T17:31:44Z</created_at>
+      <updated_at>2012-07-15T20:41:14Z</updated_at>
+      <description>Pithos is a Pandora client for the GNOME Desktop. The official Flash-based client is a CPU hog, and Pianobar  is a great reverse-engineered implementation, but is command-line only. Neither integrate with the desktop very well, missing things like media key support and song notifications.</description>
+      <homepage_url>http://kevinmehall.net/p/pithos/</homepage_url>
+      <download_url>http://launchpad.net/pithos</download_url>
+      <url_name>pithos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36350/pithos64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36350/pithos64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3583435</analysis_id>
+      <analysis>
+        <id>3583435</id>
+        <url>http://www.ohloh.net/analyses/3583435.xml</url>
+        <project_id>484818</project_id>
+        <updated_at>2011-09-21T08:29:43Z</updated_at>
+        <logged_at>2011-09-21T08:29:35Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>5432</total_code_lines>
+        <languages graph_url="http://www.ohloh.net/p/pithos/analyses/3583435/languages.png">
+          <language color="4A246B" percentage="77" id="9">
+Python          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>CC_AttributionNonCommercialShareAlike_3_0</name>
+          <nice_name>CC Attribution-NonCommercial-ShareAlike 3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

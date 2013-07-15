@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>237357</id>
+      <project_id>348585</project_id>
+      <repository_id>235125</repository_id>
+      <repository>
+        <id>235125</id>
+        <type>SvnRepository</type>
+        <url>https://svn.softmethod.de/opensource/blackray/branches/issue-77/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-10-20T16:28:56Z</logged_at>
+        <commits>208</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>100395</id>
+      <project_id>348585</project_id>
+      <repository_id>98828</repository_id>
+      <repository>
+        <id>98828</id>
+        <type>SvnRepository</type>
+        <url>https://svn.softmethod.de/opensource/blackray/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-10-20T16:28:56Z</logged_at>
+        <commits>198</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

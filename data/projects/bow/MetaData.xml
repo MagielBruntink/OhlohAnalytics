@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485465</id>
+      <name>bow</name>
+      <url>http://www.ohloh.net/p/bow.xml</url>
+      <html_url>http://www.ohloh.net/p/bow</html_url>
+      <created_at>2010-09-20T13:17:15Z</created_at>
+      <updated_at>2013-07-13T20:17:03Z</updated_at>
+      <description>BOW (Bookmark On the Web) is a project of website on which you can centralize your bookmarks to find them on different computers. You can tag them, search through them, share them,...</description>
+      <homepage_url>http://chorem.org/projects/show/bow</homepage_url>
+      <download_url>http://chorem.org/projects/list_files/bow</download_url>
+      <url_name>bow</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37841/logo-bow_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37841/logo-bow_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14519850</analysis_id>
+      <analysis>
+        <id>14519850</id>
+        <url>http://www.ohloh.net/analyses/14519850.xml</url>
+        <project_id>485465</project_id>
+        <updated_at>2013-07-12T09:42:59Z</updated_at>
+        <logged_at>2013-07-12T09:42:45Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>7154</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bow/analyses/14519850/languages.png">
+          <language color="9A63AD" percentage="47" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="27" id="4">
+CSS          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="12" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3_or_later</name>
+          <nice_name>GNU Affero General Public License 3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

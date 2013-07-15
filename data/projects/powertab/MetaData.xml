@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485794</id>
+      <name>PowerTab</name>
+      <url>http://www.ohloh.net/p/powertab.xml</url>
+      <html_url>http://www.ohloh.net/p/powertab</html_url>
+      <created_at>2010-10-06T02:34:02Z</created_at>
+      <updated_at>2013-07-02T23:21:14Z</updated_at>
+      <description>PowerTab extends the tab expansion feature of PowerShell to offer more productivity for PowerShell users.
+
+Tab expansion is a productivity feature of PowerShell similar to intellisense. Pressing the TAB key will cause PowerTab to suggest full paths, command names or values based on the current context of the cursor.
+
+PowerTab offers handling for many common features of PowerShell, such as parameter names or enum values. PowerTab also contains extension points for adding specialized tab expansion support for third party applications and commands.</description>
+      <homepage_url>http://powertab.codeplex.com/</homepage_url>
+      <download_url>http://powertab.codeplex.com/releases</download_url>
+      <url_name>powertab</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14508170</analysis_id>
+      <tags>
+        <tag>powershell</tag>
+        <tag>productivity</tag>
+      </tags>
+      <analysis>
+        <id>14508170</id>
+        <url>http://www.ohloh.net/analyses/14508170.xml</url>
+        <project_id>485794</project_id>
+        <updated_at>2013-07-13T22:24:09Z</updated_at>
+        <logged_at>2013-07-13T22:24:06Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2255</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/powertab/analyses/14508170/languages.png">
+          <language color="555555" percentage="100" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>3</main_language_id>
+        <main_language_name>XML</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Microsoft_Public_License_</name>
+          <nice_name>Microsoft Public License </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483660</id>
+      <name>Newznab</name>
+      <url>http://www.ohloh.net/p/newznab.xml</url>
+      <html_url>http://www.ohloh.net/p/newznab</html_url>
+      <created_at>2010-06-19T20:44:31Z</created_at>
+      <updated_at>2012-02-16T21:47:40Z</updated_at>
+      <description>A PHP/Smarty application, which supports the indexing of usenet headers into a mysql database and provides a simple web based search interface onto the data. Similar in features to ikbin.
+
+Includes simple CMS facilities, SEO friendly URLs and designed with the intention of allowing users to create a community around their index.</description>
+      <homepage_url>http://www.newznab.com</homepage_url>
+      <download_url>http://code.google.com/p/newznab/</download_url>
+      <url_name>newznab</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34792/newznab_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34792/newznab_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6568071</analysis_id>
+      <tags>
+        <tag>newzbin</tag>
+        <tag>cms</tag>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>nzbsorg</tag>
+        <tag>nzb</tag>
+        <tag>smarty</tag>
+        <tag>nntp</tag>
+        <tag>usenet</tag>
+      </tags>
+      <analysis>
+        <id>6568071</id>
+        <url>http://www.ohloh.net/analyses/6568071.xml</url>
+        <project_id>483660</project_id>
+        <updated_at>2012-02-16T21:47:40Z</updated_at>
+        <logged_at>2012-02-16T20:09:19Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>10396</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/newznab/analyses/6568071/languages.png">
+          <language color="47A400" percentage="44" id="1">
+HTML          </language>
+          <language color="356AA0" percentage="36" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="12" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

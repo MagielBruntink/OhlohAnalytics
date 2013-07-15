@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480057</id>
+      <name>C++ Simulated Fare Quote System Library</name>
+      <url>http://www.ohloh.net/p/simfqt.xml</url>
+      <html_url>http://www.ohloh.net/p/simfqt</html_url>
+      <created_at>2009-12-24T14:06:10Z</created_at>
+      <updated_at>2013-06-19T16:31:49Z</updated_at>
+      <description>That project aims at providing a clean API and a simple implementation, as a C++ library, of a Travel-oriented fare engine. It corresponds to the simulated version of the real-world Fare Quote System.</description>
+      <homepage_url>http://www.simfqt.org</homepage_url>
+      <download_url>https://sourceforge.net/projects/simfqt/files/</download_url>
+      <url_name>simfqt</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60470/airsim_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60470/airsim_logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.33333</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14310597</analysis_id>
+      <analysis>
+        <id>14310597</id>
+        <url>http://www.ohloh.net/analyses/14310597.xml</url>
+        <project_id>480057</project_id>
+        <updated_at>2013-07-12T21:55:40Z</updated_at>
+        <logged_at>2013-07-12T21:55:38Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>10318</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/simfqt/analyses/14310597/languages.png">
+          <language color="EEE" percentage="39" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="31" id="44">
+C++          </language>
+          <language color="EEE" percentage="21" id="74">
+CMake          </language>
+          <language color="000000" percentage="9" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

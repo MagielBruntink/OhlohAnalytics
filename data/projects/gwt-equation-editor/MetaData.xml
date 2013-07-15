@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480920</id>
+      <name>GWT Equation Editor</name>
+      <url>http://www.ohloh.net/p/gwt-equation-editor.xml</url>
+      <html_url>http://www.ohloh.net/p/gwt-equation-editor</html_url>
+      <created_at>2010-02-04T10:14:23Z</created_at>
+      <updated_at>2013-06-29T17:14:10Z</updated_at>
+      <description>Equation/Formula Editor for GWT that preserves formula semantics.
+(also supports Java SE and Java ME)
+
+Preserving formula semantics - in short it's that you can use entered formulas to make real calculations. But there's more.
+
+Special supported features:
+ * entering and editing everything via keyboard
+ * code completion for variable (greek and other), function and operator names
+ * preserved semantics
+
+Special features to be implemented:
+ * automatic hints on incorrect formulas
+ * and many more</description>
+      <homepage_url>http://code.google.com/p/gwt-equation-editor/</homepage_url>
+      <download_url>http://code.google.com/p/gwt-equation-editor/downloads/</download_url>
+      <url_name>gwt-equation-editor</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14463301</analysis_id>
+      <tags>
+        <tag>formula</tag>
+        <tag>gwt</tag>
+        <tag>javase</tag>
+        <tag>java</tag>
+        <tag>javame</tag>
+        <tag>equation</tag>
+        <tag>editor</tag>
+      </tags>
+      <analysis>
+        <id>14463301</id>
+        <url>http://www.ohloh.net/analyses/14463301.xml</url>
+        <project_id>480920</project_id>
+        <updated_at>2013-07-09T10:48:32Z</updated_at>
+        <logged_at>2013-07-09T10:48:30Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8843</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gwt-equation-editor/analyses/14463301/languages.png">
+          <language color="9A63AD" percentage="58" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="23" id="4">
+CSS          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

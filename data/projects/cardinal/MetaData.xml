@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>1003</id>
+      <name>Cardinal - Ruby compiler for Parrot</name>
+      <url>http://www.ohloh.net/p/cardinal.xml</url>
+      <html_url>http://www.ohloh.net/p/cardinal</html_url>
+      <created_at>2006-10-11T19:15:09Z</created_at>
+      <updated_at>2013-06-28T01:16:56Z</updated_at>
+      <description>This is a project intended to compile Ruby programs so that they can be run on top of the Parrot virtual machine.
+
+It will convert the Ruby source into InterMediate Compiler Code which will then be compiled and executed by Parrot.</description>
+      <homepage_url>http://cardinal.github.com/</homepage_url>
+      <download_url>http://cardinal.github.com/</download_url>
+      <url_name>cardinal</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14439854</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>language</tag>
+        <tag>development</tag>
+        <tag>compiler</tag>
+      </tags>
+      <analysis>
+        <id>14439854</id>
+        <url>http://www.ohloh.net/analyses/14439854.xml</url>
+        <project_id>1003</project_id>
+        <updated_at>2013-07-06T19:41:16Z</updated_at>
+        <logged_at>2013-07-06T19:41:04Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2433</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cardinal/analyses/14439854/languages.png">
+          <language color="D2C690" percentage="97" id="8">
+Perl          </language>
+          <language color="A40011" percentage="3" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

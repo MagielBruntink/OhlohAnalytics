@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584528</id>
+      <name>poezio</name>
+      <url>http://www.ohloh.net/p/poezio.xml</url>
+      <html_url>http://www.ohloh.net/p/poezio</html_url>
+      <created_at>2011-06-14T12:38:46Z</created_at>
+      <updated_at>2013-07-06T15:01:35Z</updated_at>
+      <description>Poezio is a free console XMPP client (the protocol on which the Jabber IM network is built).
+
+
+  Its goal is to let you connect very easily (no account creation needed) to the network and join various chatrooms, immediately. It tries to look like the most famous IRC clients (weechat, irssi, etc). Many commands are identical and you won't be lost if you already know these clients. Configuration can be made in a configuration file or directly from the client.
+
+
+  You'll find the light, fast, geeky and anonymous spirit of IRC while using a new, powerful, standard and open protocol.</description>
+      <homepage_url>http://poez.io</homepage_url>
+      <download_url>http://poez.io/en/download</download_url>
+      <url_name>poezio</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44625/logo_03_copie_1.resized_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44625/logo_03_copie_1.resized_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551407</analysis_id>
+      <tags>
+        <tag>jabber_client</tag>
+        <tag>xmpp</tag>
+        <tag>python</tag>
+        <tag>jabber</tag>
+        <tag>console</tag>
+      </tags>
+      <analysis>
+        <id>14551407</id>
+        <url>http://www.ohloh.net/analyses/14551407.xml</url>
+        <project_id>584528</project_id>
+        <updated_at>2013-07-06T15:01:34Z</updated_at>
+        <logged_at>2013-07-06T15:01:14Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>14833</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/poezio/analyses/14551407/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="000000" percentage="8" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

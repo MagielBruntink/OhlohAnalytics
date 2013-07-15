@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>243041</id>
+      <project_id>485360</project_id>
+      <repository_id>240670</repository_id>
+      <repository>
+        <id>240670</id>
+        <type>SvnRepository</type>
+        <url>http://svn2.xp-dev.com/svn/WhyEmu/branches/cataclysm</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-05-16T12:02:29Z</logged_at>
+        <commits>96</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>238645</id>
+      <project_id>485360</project_id>
+      <repository_id>235474</repository_id>
+      <repository>
+        <id>235474</id>
+        <type>SvnRepository</type>
+        <url>http://svn2.xp-dev.com/svn/WhyEmu/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-05-16T07:55:58Z</logged_at>
+        <commits>94</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

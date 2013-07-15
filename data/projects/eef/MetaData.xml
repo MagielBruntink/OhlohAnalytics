@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>463480</id>
+      <name>Extended Editing Framework (EEF)</name>
+      <url>http://www.ohloh.net/p/eef.xml</url>
+      <html_url>http://www.ohloh.net/p/eef</html_url>
+      <created_at>2009-10-16T08:25:11Z</created_at>
+      <updated_at>2012-11-24T19:06:20Z</updated_at>
+      <description>The Extended Editing Framework aims at giving another way to improve the EMF model creation phase by providing new services dedicated to editing and using more appealing editing elements. The way to obtain these services and elements is based on a generative approach similar to the EMF.Edit one. The framework provides advanced editing components for the properties of EMF elements and a default generation based on standard metamodels using these components. The generic generators create a standard architecture with advanced graphical components to edit EMF model objects. These components are meant to leverage every aspects of the Eclipse Platform as for instance the Eclipse Dynamic Help.</description>
+      <homepage_url>http://www.eclipse.org/modeling/emft/?project=eef</homepage_url>
+      <download_url>http://www.eclipse.org/modeling/emft/downloads/?project=eef</download_url>
+      <url_name>eef</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11344381</analysis_id>
+      <analysis>
+        <id>11344381</id>
+        <url>http://www.ohloh.net/analyses/11344381.xml</url>
+        <project_id>463480</project_id>
+        <updated_at>2012-11-24T19:06:20Z</updated_at>
+        <logged_at>2012-11-24T19:02:46Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>615126</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eef/analyses/11344381/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

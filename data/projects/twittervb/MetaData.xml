@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>394453</id>
+      <name>twittervb</name>
+      <url>http://www.ohloh.net/p/twittervb.xml</url>
+      <html_url>http://www.ohloh.net/p/twittervb</html_url>
+      <created_at>2009-08-18T14:43:04Z</created_at>
+      <updated_at>2012-02-24T11:44:00Z</updated_at>
+      <description>TwitterVB is a .NET library that is designed to allow desktop applications to communicate with Twitter. 
+
+TwitterVB Facts: 
+
+TwitterVB is 100% Visual Basic.NET code, implemented to be compatible with version 2.0 or higher of the .NET Framework. TwitterVB started out life as a port of the excellent Twitterizer library.  I ported that library to C# and extended it. TwitterVB includes a working implementation of Twitter's OAuth authentication system, as well as Basic Authentication. TwitterVB is the library that drives Quitter, a Twitter client that runs in a command window. TwitterVB is a work in progress, and I welcome suggestions, feedback, issue reports, and code submissions. 
+
+Are You Using TwitterVB In Your Application?Let us know so we can link to your app!  duane@getquitter.c</description>
+      <homepage_url>http://twittervb.codeplex.com/</homepage_url>
+      <download_url>http://twittervb.codeplex.com/</download_url>
+      <url_name>twittervb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38210/twittervb_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38210/twittervb_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1863749</analysis_id>
+      <tags>
+        <tag>twitter</tag>
+        <tag>net</tag>
+        <tag>visualbasic</tag>
+        <tag>oauth</tag>
+      </tags>
+      <analysis>
+        <id>1863749</id>
+        <url>http://www.ohloh.net/analyses/1863749.xml</url>
+        <project_id>394453</project_id>
+        <updated_at>2011-04-02T06:26:37Z</updated_at>
+        <logged_at>2009-09-24T16:44:07Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1909</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/twittervb/analyses/1863749/languages.png">
+          <language color="2C5DC7" percentage="97" id="15">
+Visual Basic          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>15</main_language_id>
+        <main_language_name>Visual Basic</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

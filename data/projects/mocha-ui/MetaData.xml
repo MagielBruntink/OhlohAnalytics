@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21502</id>
+      <name>mocha-ui</name>
+      <url>http://www.ohloh.net/p/mocha-ui.xml</url>
+      <html_url>http://www.ohloh.net/p/mocha-ui</html_url>
+      <created_at>2008-10-07T14:02:24Z</created_at>
+      <updated_at>2013-06-24T23:15:52Z</updated_at>
+      <description>MochaUI is a web applications user interface library built on the Mootools javascript framework. Canvas tag graphics are used for much of the Mocha GUI components. 
+
+IE8 RC1 CompatibilityAs of r426 in the SVN, all of the MochaUI demos should now be compatible with IE8 RC1 in both the &quot;IE=7&quot; and &quot;IE=8&quot; X-UA-Compatible modes. 
+
+As long as it isn't too far off in the future, sometime after the final release of IE8 I will probably release MochaUI 1.0. So if you want to get your sites IE8 compatible before that time please get the code from the SVN. 
+
+UsesWeb Applications Web Desktops Web Sites Widgets Standalone Windows, Modal Dialogs and Wizards FeaturesLayoutHorizontally and vertically fluid layout module with columns and panels. Optional toolbars. Columns and panels can be collapsed, expanded, and resized. Panels can be tabbed. Panel content can be loaded with innerHTML, XHR, or an iFrame. Toolboxes can be inserted in the toolbars. WindowsThe windows and their drop shadows are drawn with the canvas element. Windows can be focused, dragged, resized, collapsed/expanded, maximized/restored, minimized/restored and closed. Windows are resizable in 8 directions. Adjustable rounded corner radius. Adjustable shadow blur. Windows can have tabs and toolbars. Dynamically create new windows on demand and load their content with innerHTML, XHR, or an iFrame. The ability to create multiple new windows from a single Json data request. Create modal and notification dialog windows. Dynamically update window content. GeneralMinimal HTML markup required. Tested in Firefox 3, Internet Explorer 6 &amp; 7, Safari 3, and Opera 9.5. Validates as XHTML 1.0 Strict if you use no target attributes in your anchors and validates as XHTML 1.0 Transitional if you do. Featured Sites Using MochaUICorbis Stock Photography Career Day by Chase Wilson of Echo::Factory Featured Application Using MochaUIPork.Generator More Sites using MochaUISoundseller Universal Curve Change LogNext ReleaseThemes Split panels and windows Bezier Path Animation IE8 RC1 Compatibility  v0.9.5 9/07/2008Added a horizontally and vertically fluid layout module with columns and panels. Columns and panels can be collapsed, expanded, and resized. Panels can be tabbed. Panel content can be loaded with innerHTML, XHR, or an iFrame. Added toolboxes which can be inserted in the toolbars. Added a second toolbar to the windows so you can now have top and bottom toolbars. Added a simple file tree plugin. v0.9 6/11/2008Windows are resizable in 8-directions Adjustable drop-shadow width Gauges (round windows) Sortable dock Tabbed windows Windows can now be collapsed by double-clicking on their titlebars Overhauled code structure to make it more modular Added more window options and events v0.8 3/13/2008Added functionality for creating multiple new windows from a single Json data request Added animated canvas loading icon to xhr and iframe load methods onContentLoaded now works with iframes Added styling options which can be set globally and for individual windows Added global effects option which toggles most of the window transition effects Now you can set individual windows to be draggable, resizable, closable, maximizable, or minimizable, overriding the global settings (Joel Lindau) Added closeAll() method which closes all windows at once Added more examples Fixed scrollbar bug in Firefox 2 on the Mac. Scrollbars no longer bleed through windows that are above them Made speed optimizations (Joel Lindau) v0.7 r22 12/11/2007Iframes now resize when you resize a window Fixed it so that if the desktop toolbars are removed the rest of the code still works Modal windows can now be used standalone without any Mocha UI html markup Removed the inline javascript from the example html Added optional autohide to the dock (Scott F. Frederick) Added the following options to new windows: onContentLoaded, onFocus, onResize, onMinimize, onMaximize, onClose and onCloseComplete (Joel Lindau) Added screens/workspaces (Joel Lindau) Pulled the slider function out of the core class Code optimizations v0.7 - 12/03/2007Added minimize functionality (Scott F. Frederick) Added mouseover &quot;title&quot; to close, maximize, and minimize buttons (Scott F. Frederick) Added onmouseover &quot;title&quot; to minimized window buttons displaying full header title (Scott F. Frederick) The close, maximize, and minimize buttons are now individually optional Added several options for setting the properties and style of new windows Added additional ajax and iframe support Reconfigured how the core class is loaded so it is easier to access the class methods Added optional toolbars to the &quot;desktop&quot; Added modal dialog windows Code optimizations v0.6 - 11/26/2007Fixed the IE6 select issue Added a couple more class options Minor code optimizations v0.5 - 11/17/2007Initial release</description>
+      <homepage_url>http://code.google.com/p/mocha-ui</homepage_url>
+      <download_url></download_url>
+      <url_name>mocha-ui</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14389833</analysis_id>
+      <tags>
+        <tag>canvas</tag>
+        <tag>ajax</tag>
+        <tag>dialog</tag>
+        <tag>animation</tag>
+        <tag>mootools</tag>
+        <tag>ui</tag>
+        <tag>interface</tag>
+        <tag>modal</tag>
+        <tag>window</tag>
+        <tag>javascript</tag>
+        <tag>widget</tag>
+        <tag>gui</tag>
+      </tags>
+      <analysis>
+        <id>14389833</id>
+        <url>http://www.ohloh.net/analyses/14389833.xml</url>
+        <project_id>21502</project_id>
+        <updated_at>2013-07-13T09:29:12Z</updated_at>
+        <logged_at>2013-07-13T09:29:09Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17352</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mocha-ui/analyses/14389833/languages.png">
+          <language color="A4007E" percentage="75" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="18" id="4">
+CSS          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="356AA0" percentage="&lt;1" id="2">
+PHP          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

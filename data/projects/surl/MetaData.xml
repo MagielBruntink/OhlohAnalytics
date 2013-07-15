@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>256887</id>
+      <name>surl</name>
+      <url>http://www.ohloh.net/p/surl.xml</url>
+      <html_url>http://www.ohloh.net/p/surl</html_url>
+      <created_at>2009-01-20T01:07:40Z</created_at>
+      <updated_at>2013-07-13T18:10:38Z</updated_at>
+      <description>surl is a URL shortening command line application that supports various sites. It supports stdin or filename input. It grabs the URLs, converts them, and returns the same text that was used in the input. It is known to work with a wealth of services, such as bit.ly and tinyurl.com.</description>
+      <homepage_url>https://launchpad.net/surl</homepage_url>
+      <download_url>https://launchpad.net/surl/+download</download_url>
+      <url_name>surl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28856/g19466_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28856/g19466_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14278332</analysis_id>
+      <tags>
+        <tag>urlshortening</tag>
+        <tag>ubuntu</tag>
+        <tag>url</tag>
+        <tag>library</tag>
+        <tag>libraries</tag>
+        <tag>utility</tag>
+        <tag>linux</tag>
+        <tag>python</tag>
+        <tag>utility-library</tag>
+        <tag>debian</tag>
+      </tags>
+      <analysis>
+        <id>14278332</id>
+        <url>http://www.ohloh.net/analyses/14278332.xml</url>
+        <project_id>256887</project_id>
+        <updated_at>2013-07-12T00:25:55Z</updated_at>
+        <logged_at>2013-07-12T00:25:28Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1061</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/surl/analyses/14278332/languages.png">
+          <language color="4A246B" percentage="84" id="9">
+Python          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

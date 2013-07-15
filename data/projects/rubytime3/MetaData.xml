@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>71747</id>
+      <name>RubyTime3</name>
+      <url>http://www.ohloh.net/p/rubytime3.xml</url>
+      <html_url>http://www.ohloh.net/p/rubytime3</html_url>
+      <created_at>2008-12-19T11:09:04Z</created_at>
+      <updated_at>2013-06-23T09:00:36Z</updated_at>
+      <description>RubyTime started life as a simple time tracking system written by Lunar Logic Polska for internal use. We open sourced the code for two reasons:
+
+1) It doesn&#8217;t make sense for every software company to have to re-invent the wheel. Anyone is welcome to use our solution if it suits their needs.
+2) If there&#8217;s two things programmers understand, it&#8217;s time tracking and bug tracking. Back in 2005, Rails was new and everyone wanted to play with it. We made RubyTime open source so that novice Ruby developers could analyze it and play with it to develop their skills. 
+
+That was a long time ago, in Ruby years. With RubyTime 3.0 we&#8217;re doing the same thing, for Merb developers. Merb is an exciting new tool for Ruby developers and we think it&#8217;s going to have a big impact on the future of the language. Th</description>
+      <homepage_url>http://www.rubytime.org/</homepage_url>
+      <download_url>http://www.rubytime.org/installation.html</download_url>
+      <url_name>rubytime3</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14355413</analysis_id>
+      <analysis>
+        <id>14355413</id>
+        <url>http://www.ohloh.net/analyses/14355413.xml</url>
+        <project_id>71747</project_id>
+        <updated_at>2013-07-14T21:43:13Z</updated_at>
+        <logged_at>2013-07-14T21:42:50Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11037</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rubytime3/analyses/14355413/languages.png">
+          <language color="A40011" percentage="74" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="14" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="12" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

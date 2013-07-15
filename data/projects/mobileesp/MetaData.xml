@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488395</id>
+      <name>MobileESP</name>
+      <url>http://www.ohloh.net/p/mobileesp.xml</url>
+      <html_url>http://www.ohloh.net/p/mobileesp</html_url>
+      <created_at>2011-02-27T16:37:16Z</created_at>
+      <updated_at>2013-06-27T18:26:07Z</updated_at>
+      <description>The MobileESP project seeks to provide web site developers an easy-to-use and lightweight API for detecting whether visitors are using a mobile device, and if so, what kind. The APIs provide simple boolean results (&#8220;true&#8221; or &#8220;false&#8221;) for identifying individual device categories (such as iPhone, BlackBerry, Android, and Windows Mobile), device capabilities (e.g., J2ME), and broad classes of devices, such as &#8220;iPhone Tier&#8221; (iPhone/Android/WebOS) and smartphones.</description>
+      <homepage_url>http://mobileesp.com</homepage_url>
+      <download_url>http://blog.mobileesp.com/?page_id=20</download_url>
+      <url_name>mobileesp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14435462</analysis_id>
+      <tags>
+        <tag>mobile_phones</tag>
+        <tag>javascript</tag>
+        <tag>java</tag>
+        <tag>device</tag>
+        <tag>mobile</tag>
+        <tag>detection</tag>
+        <tag>phone</tag>
+        <tag>php</tag>
+        <tag>ruby</tag>
+        <tag>aspnet</tag>
+        <tag>tikiwiki</tag>
+      </tags>
+      <analysis>
+        <id>14435462</id>
+        <url>http://www.ohloh.net/analyses/14435462.xml</url>
+        <project_id>488395</project_id>
+        <updated_at>2013-07-09T14:54:23Z</updated_at>
+        <logged_at>2013-07-09T14:54:22Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2162</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mobileesp/analyses/14435462/languages.png">
+          <language color="356AA0" percentage="30" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="27" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="27" id="5">
+Java          </language>
+          <language color="000000" percentage="16" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

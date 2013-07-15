@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9698</id>
+      <name>PalOOCa OpenOffice Add-On for Palo</name>
+      <url>http://www.ohloh.net/p/palooca.xml</url>
+      <html_url>http://www.ohloh.net/p/palooca</html_url>
+      <created_at>2007-11-15T07:58:40Z</created_at>
+      <updated_at>2013-07-09T18:41:17Z</updated_at>
+      <description>The intention of the PalOOCa Project is to develop an alternative to the Palo Excel Add-in. Although the Excel Add-in is a valuable BI-Tool for many companies, with PalOOCa we will also be able to offer a fully open-source based BI-MOLAP-stack which will be available using Java as platform, OpenOffice.org as front-end and the Palo database as multidimensional MOLAP-server. PalOOCa serves as OLAP interface. 
+
+The first stable version 1.0 was published in July 2008. Development goes on with improvements in user interface, documentation and functionality. Keep connected!</description>
+      <homepage_url>http://palooca.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/projects/palooca/download</download_url>
+      <url_name>palooca</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14564451</analysis_id>
+      <tags>
+        <tag>openoffice</tag>
+        <tag>molap</tag>
+        <tag>finance</tag>
+        <tag>palo</tag>
+        <tag>business-intelligence</tag>
+        <tag>oss</tag>
+        <tag>openofficeorg</tag>
+        <tag>spreadsheet</tag>
+        <tag>calc</tag>
+        <tag>olap</tag>
+        <tag>free</tag>
+        <tag>multidimensional</tag>
+      </tags>
+      <analysis>
+        <id>14564451</id>
+        <url>http://www.ohloh.net/analyses/14564451.xml</url>
+        <project_id>9698</project_id>
+        <updated_at>2013-07-07T21:27:37Z</updated_at>
+        <logged_at>2013-07-07T19:13:12Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2008-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15644</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/palooca/analyses/14564451/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="000080" percentage="3" id="37">
+TeX/LaTeX          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>117623</id>
+      <name>jValidator</name>
+      <url>http://www.ohloh.net/p/jValidator.xml</url>
+      <html_url>http://www.ohloh.net/p/jValidator</html_url>
+      <created_at>2009-01-02T06:02:33Z</created_at>
+      <updated_at>2013-07-13T18:27:38Z</updated_at>
+      <description>jValidator is the first Open Source Data Quality Firewall.
+It's a middleware for the validation and processing of data streams. It operates in Real-Time on the elements of data between heterogeneous systems and processes the data stream ensuring the consistency of your database.</description>
+      <homepage_url>http://www.jvalidator.com</homepage_url>
+      <download_url>http://sourceforge.net/projects/javalidator/files/</download_url>
+      <url_name>jValidator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51442/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51442/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12341874</analysis_id>
+      <tags>
+        <tag>syncronize</tag>
+        <tag>x12</tag>
+        <tag>quality</tag>
+        <tag>data</tag>
+        <tag>qualitycontrol</tag>
+        <tag>json</tag>
+        <tag>flatfile</tag>
+        <tag>exi</tag>
+        <tag>rulebased</tag>
+        <tag>firewall</tag>
+        <tag>dataquality</tag>
+        <tag>validator</tag>
+        <tag>validation</tag>
+        <tag>edi</tag>
+        <tag>monitoring</tag>
+        <tag>hl7</tag>
+        <tag>swift</tag>
+        <tag>datastream</tag>
+        <tag>profiler</tag>
+        <tag>matching</tag>
+      </tags>
+      <analysis>
+        <id>12341874</id>
+        <url>http://www.ohloh.net/analyses/12341874.xml</url>
+        <project_id>117623</project_id>
+        <updated_at>2013-01-29T04:30:11Z</updated_at>
+        <logged_at>2013-01-29T04:28:29Z</logged_at>
+        <min_month>2011-04-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>74359</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jValidator/analyses/12341874/languages.png">
+          <language color="9A63AD" percentage="61" id="5">
+Java          </language>
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="9" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

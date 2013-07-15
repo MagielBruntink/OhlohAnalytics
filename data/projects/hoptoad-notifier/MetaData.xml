@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>27196</id>
+      <name>hoptoad_notifier</name>
+      <url>http://www.ohloh.net/p/hoptoad-notifier.xml</url>
+      <html_url>http://www.ohloh.net/p/hoptoad-notifier</html_url>
+      <created_at>2008-12-01T02:59:35Z</created_at>
+      <updated_at>2013-07-05T20:48:32Z</updated_at>
+      <description>This is the notifier plugin for integrating apps with Hoptoad.
+
+When an uncaught exception occurs, HoptoadNotifier will POST the relevant data to the Hoptoad server specified in your environment.</description>
+      <homepage_url>http://github.com/thoughtbot/hoptoad_notifier</homepage_url>
+      <download_url>http://github.com/thoughtbot/hoptoad_notifier</download_url>
+      <url_name>hoptoad-notifier</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542190</analysis_id>
+      <tags>
+        <tag>thoughtbot</tag>
+        <tag>plugin</tag>
+        <tag>hoptoad</tag>
+        <tag>rails</tag>
+        <tag>error</tag>
+        <tag>exception</tag>
+        <tag>ruby</tag>
+      </tags>
+      <analysis>
+        <id>14542190</id>
+        <url>http://www.ohloh.net/analyses/14542190.xml</url>
+        <project_id>27196</project_id>
+        <updated_at>2013-07-15T09:49:54Z</updated_at>
+        <logged_at>2013-07-15T09:49:51Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4079</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hoptoad-notifier/analyses/14542190/languages.png">
+          <language color="A40011" percentage="98" id="12">
+Ruby          </language>
+          <language color="556677" percentage="2" id="35">
+XML Schema          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

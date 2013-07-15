@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480399</id>
+      <name>xpyb</name>
+      <url>http://www.ohloh.net/p/xpyb.xml</url>
+      <html_url>http://www.ohloh.net/p/xpyb</html_url>
+      <created_at>2010-01-10T09:43:19Z</created_at>
+      <updated_at>2013-07-02T18:20:08Z</updated_at>
+      <description>X Python Bindings.
+
+Python bindings to libxcb.</description>
+      <homepage_url>http://xcb.freedesktop.org</homepage_url>
+      <download_url>http://xcb.freedesktop.org/dist/</download_url>
+      <url_name>xpyb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505361</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>x-window</tag>
+        <tag>xcb</tag>
+        <tag>xwindows</tag>
+        <tag>xorg</tag>
+        <tag>xwindow</tag>
+        <tag>freedesktop</tag>
+        <tag>x11</tag>
+      </tags>
+      <analysis>
+        <id>14505361</id>
+        <url>http://www.ohloh.net/analyses/14505361.xml</url>
+        <project_id>480399</project_id>
+        <updated_at>2013-07-10T11:21:41Z</updated_at>
+        <logged_at>2013-07-10T11:21:39Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2585</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xpyb/analyses/14505361/languages.png">
+          <language color="FF8F00" percentage="76" id="42">
+C          </language>
+          <language color="4A246B" percentage="16" id="9">
+Python          </language>
+          <language color="EEE" percentage="5" id="50">
+Automake          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

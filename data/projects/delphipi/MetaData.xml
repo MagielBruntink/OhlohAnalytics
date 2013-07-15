@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15748</id>
+      <name>DelphiPI</name>
+      <url>http://www.ohloh.net/p/delphipi.xml</url>
+      <html_url>http://www.ohloh.net/p/delphipi</html_url>
+      <created_at>2008-07-26T12:57:29Z</created_at>
+      <updated_at>2013-07-13T18:01:55Z</updated_at>
+      <description>Delphi Package Installer (DelphiPI) is a tool which aids you installing components to your Delphi IDE. DelphiPI automatically resolves dependencies between packages, compiles, installs and adds source paths to your IDE.</description>
+      <homepage_url>http://delphipi.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/delphipi/downloads/list</download_url>
+      <url_name>delphipi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12649/d_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12649/d_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11457270</analysis_id>
+      <tags>
+        <tag>developertool</tag>
+        <tag>delphi</tag>
+        <tag>installer</tag>
+        <tag>packageinstaller</tag>
+        <tag>windows</tag>
+        <tag>tool</tag>
+      </tags>
+      <analysis>
+        <id>11457270</id>
+        <url>http://www.ohloh.net/analyses/11457270.xml</url>
+        <project_id>15748</project_id>
+        <updated_at>2012-11-29T18:16:26Z</updated_at>
+        <logged_at>2012-11-29T18:16:18Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>4224</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/delphipi/analyses/11457270/languages.png">
+          <language color="D15600" percentage="100" id="14">
+Pascal          </language>
+          <language color="AAAAAA" percentage="&lt;1" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

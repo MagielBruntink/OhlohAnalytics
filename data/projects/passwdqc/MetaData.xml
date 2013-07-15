@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11704</id>
+      <name>Openwall - passwdqc</name>
+      <url>http://www.ohloh.net/p/passwdqc.xml</url>
+      <html_url>http://www.ohloh.net/p/passwdqc</html_url>
+      <created_at>2008-02-13T18:55:16Z</created_at>
+      <updated_at>2013-07-02T15:29:02Z</updated_at>
+      <description>pam_passwdqc is a simple password strength checking module for PAM-aware password changing programs, such as passwd(1).  In addition to checking regular passwords, it offers support for passphrases and can provide randomly generated ones.  All features are optional and can be (re-)configured without rebuilding.
+
+The package additionally includes libpasswdqc (a password/passphrase strength checking library), pwqcheck (a standalone password/passphrase strength checking program), and pwqgen (a standalone random passphrase generator program).</description>
+      <homepage_url>http://www.openwall.com/passwdqc/</homepage_url>
+      <download_url>http://www.openwall.com/passwdqc/</download_url>
+      <url_name>passwdqc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14503953</analysis_id>
+      <tags>
+        <tag>hp-ux</tag>
+        <tag>pluggable</tag>
+        <tag>freebsd</tag>
+        <tag>policy</tag>
+        <tag>infosec</tag>
+        <tag>authentication</tag>
+        <tag>passphrase</tag>
+        <tag>linux</tag>
+        <tag>pam</tag>
+        <tag>security</tag>
+        <tag>solaris</tag>
+        <tag>systems_administration</tag>
+        <tag>password</tag>
+        <tag>cryptography</tag>
+        <tag>sysadmin</tag>
+        <tag>enforcement</tag>
+        <tag>crypto</tag>
+        <tag>proactive</tag>
+        <tag>random</tag>
+        <tag>strength</tag>
+        <tag>module</tag>
+      </tags>
+      <analysis>
+        <id>14503953</id>
+        <url>http://www.ohloh.net/analyses/14503953.xml</url>
+        <project_id>11704</project_id>
+        <updated_at>2013-07-10T00:05:59Z</updated_at>
+        <logged_at>2013-07-10T00:05:57Z</logged_at>
+        <min_month>2000-07-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5876</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/passwdqc/analyses/14503953/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

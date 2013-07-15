@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486734</id>
+      <name>Siddhi-CEP</name>
+      <url>http://www.ohloh.net/p/siddhi-cep.xml</url>
+      <html_url>http://www.ohloh.net/p/siddhi-cep</html_url>
+      <created_at>2010-11-26T19:48:32Z</created_at>
+      <updated_at>2013-07-13T17:34:39Z</updated_at>
+      <description>Siddhi is an open-source high performance complex event processing engine released under the Apache license 2.0. In a very high level view of Siddhi, the events come into the system in streams, and goes through several pre-set user queries. If the incoming events get matched with a given query, the system triggers corresponding complex event to the output stream notifying the user of successful execution of the query.</description>
+      <homepage_url>http://siddhi.sourceforge.net/</homepage_url>
+      <download_url>https://sourceforge.net/projects/siddhi/files/</download_url>
+      <url_name>siddhi-cep</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42925/siddhi-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42925/siddhi-logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14195409</analysis_id>
+      <tags>
+        <tag>siddhi</tag>
+        <tag>xml</tag>
+        <tag>esp</tag>
+        <tag>siddhi-cep</tag>
+        <tag>eda</tag>
+        <tag>performance</tag>
+        <tag>complexeventprocessing</tag>
+        <tag>java</tag>
+        <tag>cep</tag>
+      </tags>
+      <analysis>
+        <id>14195409</id>
+        <url>http://www.ohloh.net/analyses/14195409.xml</url>
+        <project_id>486734</project_id>
+        <updated_at>2013-07-08T07:53:23Z</updated_at>
+        <logged_at>2013-07-08T07:53:01Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>19788</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/siddhi-cep/analyses/14195409/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

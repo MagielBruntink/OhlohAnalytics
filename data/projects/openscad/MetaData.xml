@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22081</id>
+      <name>OpenSCAD</name>
+      <url>http://www.ohloh.net/p/openscad.xml</url>
+      <html_url>http://www.ohloh.net/p/openscad</html_url>
+      <created_at>2008-10-07T14:30:30Z</created_at>
+      <updated_at>2013-07-09T18:46:12Z</updated_at>
+      <description>OpenSCAD is a software for creating solid 3D CAD objects.
+
+Unlike most free software for creating 3D models (such as the famous application Blender) it does not focus on the artistic aspects of 3D modelling but instead on the CAD aspects. Thus it might be the application you are looking for when you are planning to create 3D models of machine parts but pretty sure is not what you are looking for when you are more interested in creating computer-animated movies.</description>
+      <homepage_url>http://openscad.org</homepage_url>
+      <download_url>https://github.com/openscad/openscad/downloads</download_url>
+      <url_name>openscad</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53311/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53311/icon_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574500</analysis_id>
+      <tags>
+        <tag>solid_modeling</tag>
+        <tag>openscad</tag>
+        <tag>3d_modeling</tag>
+        <tag>off</tag>
+        <tag>stl</tag>
+        <tag>csg</tag>
+        <tag>cad</tag>
+        <tag>dxf</tag>
+        <tag>csgmodeling</tag>
+        <tag>3d</tag>
+        <tag>3d_modelling</tag>
+        <tag>parametric</tag>
+      </tags>
+      <analysis>
+        <id>14574500</id>
+        <url>http://www.ohloh.net/analyses/14574500.xml</url>
+        <project_id>22081</project_id>
+        <updated_at>2013-07-09T18:46:11Z</updated_at>
+        <logged_at>2013-07-09T18:39:37Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>38973</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openscad/analyses/14574500/languages.png">
+          <language color="F35F1F" percentage="65" id="44">
+C++          </language>
+          <language color="777777" percentage="9" id="11">
+shell script          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="19" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5781</id>
+      <name>Pylot</name>
+      <url>http://www.ohloh.net/p/pylot.xml</url>
+      <html_url>http://www.ohloh.net/p/pylot</html_url>
+      <created_at>2007-06-04T14:57:20Z</created_at>
+      <updated_at>2013-07-11T12:38:32Z</updated_at>
+      <description>Pylot is a free open source tool for testing performance and scalability of web services. It runs HTTP load tests, which are useful for capacity planning, benchmarking, analysis, and system tuning.
+
+Pylot generates concurrent load (HTTP Requests), verifies server responses, and produces reports with metrics. Tests suites are executed and monitored from a GUI.</description>
+      <homepage_url>http://www.pylot.org</homepage_url>
+      <download_url>http://www.pylot.org/download.html</download_url>
+      <url_name>pylot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/18986/pylot_logo_large_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/18986/pylot_logo_large_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590069</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>scalability</tag>
+        <tag>benchmark</tag>
+        <tag>stress</tag>
+        <tag>performance</tag>
+        <tag>test</tag>
+        <tag>http</tag>
+        <tag>load</tag>
+        <tag>python</tag>
+        <tag>tool</tag>
+        <tag>qa</tag>
+      </tags>
+      <analysis>
+        <id>14590069</id>
+        <url>http://www.ohloh.net/analyses/14590069.xml</url>
+        <project_id>5781</project_id>
+        <updated_at>2013-07-11T12:38:32Z</updated_at>
+        <logged_at>2013-07-11T12:38:15Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1560</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pylot/analyses/14590069/languages.png">
+          <language color="4A246B" percentage="93" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="6" id="44">
+C++          </language>
+          <language color="555555" percentage="1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

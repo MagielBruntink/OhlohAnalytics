@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12238</id>
+      <name>freedict</name>
+      <url>http://www.ohloh.net/p/freedict.xml</url>
+      <html_url>http://www.ohloh.net/p/freedict</html_url>
+      <created_at>2008-02-24T17:31:04Z</created_at>
+      <updated_at>2013-06-18T22:55:59Z</updated_at>
+      <description>Free translating dictionaries. The data is kept as XML complying to the TEI (Text Encoding Initiative) schemas. The dictionaries may include information on the pronunciation, etymology and such, in a platform-independent format. Dictionaries can be accessed online via the DICT protocol, but also via web front-ends, DICT, Stardict, etc. clients, and as standalone XML.</description>
+      <homepage_url>http://freedict.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/freedict/</download_url>
+      <url_name>freedict</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14301846</analysis_id>
+      <tags>
+        <tag>dict</tag>
+        <tag>dictionaries</tag>
+        <tag>multilingual</tag>
+        <tag>xml</tag>
+        <tag>tei</tag>
+        <tag>lexicons</tag>
+      </tags>
+      <analysis>
+        <id>14301846</id>
+        <url>http://www.ohloh.net/analyses/14301846.xml</url>
+        <project_id>12238</project_id>
+        <updated_at>2013-07-05T23:30:51Z</updated_at>
+        <logged_at>2013-07-05T23:30:45Z</logged_at>
+        <min_month>1999-11-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>10940245</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freedict/analyses/14301846/languages.png">
+          <language color="555555" percentage="100" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

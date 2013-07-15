@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>459857</id>
+      <name>HTTP Builder</name>
+      <url>http://www.ohloh.net/p/http-builder.xml</url>
+      <html_url>http://www.ohloh.net/p/http-builder</html_url>
+      <created_at>2009-10-13T16:50:20Z</created_at>
+      <updated_at>2013-07-14T21:13:36Z</updated_at>
+      <description>HTTP and REST client framework for Groovy.  
+
+Includes parsing and builder support for XML, HTML and JSON.  Simplified API for authentication, header manipulation and response code handling.</description>
+      <homepage_url>http://groovy.codehaus.org/modules/http-builder/</homepage_url>
+      <download_url>http://groovy.codehaus.org/modules/http-builder/download.html</download_url>
+      <url_name>http-builder</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25837/logo_bigger_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25837/logo_bigger_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14631063</analysis_id>
+      <tags>
+        <tag>rest</tag>
+        <tag>httpclient</tag>
+        <tag>groovy</tag>
+        <tag>xml</tag>
+        <tag>framework</tag>
+        <tag>webservices</tag>
+        <tag>http</tag>
+        <tag>json</tag>
+        <tag>java</tag>
+        <tag>html</tag>
+      </tags>
+      <analysis>
+        <id>14631063</id>
+        <url>http://www.ohloh.net/analyses/14631063.xml</url>
+        <project_id>459857</project_id>
+        <updated_at>2013-07-14T21:13:36Z</updated_at>
+        <logged_at>2013-07-14T21:13:09Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4699</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/http-builder/analyses/14631063/languages.png">
+          <language color="9A63AD" percentage="51" id="5">
+Java          </language>
+          <language color="C72C2C" percentage="30" id="29">
+Groovy          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

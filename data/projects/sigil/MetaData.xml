@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584373</id>
+      <name>sigil</name>
+      <url>http://www.ohloh.net/p/sigil.xml</url>
+      <html_url>http://www.ohloh.net/p/sigil</html_url>
+      <created_at>2011-06-07T08:20:26Z</created_at>
+      <updated_at>2013-03-27T00:08:21Z</updated_at>
+      <description>Sigil is a multi-platform WYSIWYG ebook editor. It is designed to edit books in ePub format.</description>
+      <homepage_url>http://code.google.com/p/sigil/</homepage_url>
+      <download_url>http://code.google.com/p/sigil/downloads/list</download_url>
+      <url_name>sigil</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44403/sigil-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44403/sigil-logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10110870</analysis_id>
+      <tags>
+        <tag>editor</tag>
+        <tag>ebooks</tag>
+        <tag>ebook</tag>
+        <tag>epub</tag>
+        <tag>qt</tag>
+        <tag>editors</tag>
+      </tags>
+      <analysis>
+        <id>10110870</id>
+        <url>http://www.ohloh.net/analyses/10110870.xml</url>
+        <project_id>584373</project_id>
+        <updated_at>2012-09-16T23:19:53Z</updated_at>
+        <logged_at>2012-09-16T22:54:24Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>691954</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sigil/analyses/10110870/languages.png">
+          <language color="F35F1F" percentage="78" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="13" id="42">
+C          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

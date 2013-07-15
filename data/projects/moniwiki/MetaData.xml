@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>42835</id>
+      <name>MoniWiki</name>
+      <url>http://www.ohloh.net/p/moniwiki.xml</url>
+      <html_url>http://www.ohloh.net/p/moniwiki</html_url>
+      <created_at>2008-12-15T09:10:53Z</created_at>
+      <updated_at>2013-07-06T13:53:39Z</updated_at>
+      <description>MoniWiki is a PHP based WikiEngine. WikiFormattingRules are imported and inspired from the MoinMoin. Moni is slightly modified sound which means What ? or What is it ? in Korean.</description>
+      <homepage_url>http://sourceforge.net/projects/moniwiki</homepage_url>
+      <download_url>http://kldp.net/frs/?group_id=210</download_url>
+      <url_name>moniwiki</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16851/moniwiki-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16851/moniwiki-logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550551</analysis_id>
+      <tags>
+        <tag>wikis</tag>
+        <tag>utf8</tag>
+        <tag>dynamic_content</tag>
+        <tag>wikiwiki</tag>
+        <tag>web</tag>
+        <tag>wikiengine</tag>
+        <tag>php</tag>
+        <tag>rcs</tag>
+        <tag>cms</tag>
+        <tag>openid</tag>
+      </tags>
+      <analysis>
+        <id>14550551</id>
+        <url>http://www.ohloh.net/analyses/14550551.xml</url>
+        <project_id>42835</project_id>
+        <updated_at>2013-07-06T13:53:38Z</updated_at>
+        <logged_at>2013-07-06T13:53:07Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>72370</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/moniwiki/analyses/14550551/languages.png">
+          <language color="356AA0" percentage="58" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="27" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

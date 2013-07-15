@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>214456</id>
+      <name>pymarc</name>
+      <url>http://www.ohloh.net/p/pymarc.xml</url>
+      <html_url>http://www.ohloh.net/p/pymarc</html_url>
+      <created_at>2009-01-18T02:24:02Z</created_at>
+      <updated_at>2013-07-12T02:34:50Z</updated_at>
+      <description>pymarc is a python library for working with MARC (Machine Readable Cataloging) data. MARC is used by libraries and archives to provide bibliographic and authority data.</description>
+      <homepage_url>http://github.com/edsu/pymarc/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/pymarc</download_url>
+      <url_name>pymarc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599115</analysis_id>
+      <tags>
+        <tag>code4lib</tag>
+      </tags>
+      <analysis>
+        <id>14599115</id>
+        <url>http://www.ohloh.net/analyses/14599115.xml</url>
+        <project_id>214456</project_id>
+        <updated_at>2013-07-12T02:34:49Z</updated_at>
+        <logged_at>2013-07-12T02:34:36Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>18234</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pymarc/analyses/14599115/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="555555" percentage="1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>350244</id>
+      <name>forumarchivebuilder</name>
+      <url>http://www.ohloh.net/p/forumarchivebuilder.xml</url>
+      <html_url>http://www.ohloh.net/p/forumarchivebuilder</html_url>
+      <created_at>2009-07-19T00:07:40Z</created_at>
+      <updated_at>2013-07-13T17:23:19Z</updated_at>
+      <description>This is a small console application that downloads forums, topics and posts from a forum for a given date range. 
+
+For the found topics it then downloads images and archives into a given download folder, unpacks the archives and renames the files according to configured renamers. 
+
+At the moment only the Dundjinni Forum (http://www.dundjinni.com/forums) is implemented. Additional Forums can be supplied by extending existing base classes. 
+
+This project is stable and almost ready to leave beta state. It's functional and stable for the mentioned forum from within the Eclipse Workspace or a maven console. An out-of-the-box jar file and a GUI will follow.</description>
+      <homepage_url>http://code.google.com/p/forumarchivebuilder</homepage_url>
+      <download_url>http://code.google.com/p/forumarchivebuilder/downloads/list</download_url>
+      <url_name>forumarchivebuilder</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14570456</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>images</tag>
+        <tag>download</tag>
+        <tag>forum</tag>
+        <tag>topics</tag>
+      </tags>
+      <analysis>
+        <id>14570456</id>
+        <url>http://www.ohloh.net/analyses/14570456.xml</url>
+        <project_id>350244</project_id>
+        <updated_at>2013-07-13T16:32:50Z</updated_at>
+        <logged_at>2013-07-13T16:32:47Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>54655</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/forumarchivebuilder/analyses/14570456/languages.png">
+          <language color="555555" percentage="90" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="10" id="5">
+Java          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>18280</id>
+      <project_id>7677</project_id>
+      <repository_id>17712</repository_id>
+      <repository>
+        <id>17712</id>
+        <type>SvnSyncRepository</type>
+        <url>https://packtag.svn.sourceforge.net/svnroot/packtag</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T16:06:28Z</logged_at>
+        <commits>111</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>15223</id>
+      <project_id>7677</project_id>
+      <repository_id>14746</repository_id>
+      <repository>
+        <id>14746</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@packtag.cvs.sourceforge.net:/cvsroot/packtag</url>
+        <module_name>packtag</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-12T16:08:08Z</logged_at>
+        <commits>138</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

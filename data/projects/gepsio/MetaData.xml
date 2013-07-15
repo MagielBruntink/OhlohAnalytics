@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>343395</id>
+      <name>Gepsio: XBRL Object Model for .NET</name>
+      <url>http://www.ohloh.net/p/gepsio.xml</url>
+      <html_url>http://www.ohloh.net/p/gepsio</html_url>
+      <created_at>2009-05-27T04:27:49Z</created_at>
+      <updated_at>2013-07-10T04:59:50Z</updated_at>
+      <description>Gepsio is a .NET-based document object model for XBRL documents. Load your XBRL document with the XbrlDocument class and work with your XBRL document exposed as a set of .NET classes with a variety of properties and methods. Loaded XBRL documents are automatically validated against the information against the XBRL specification, and exceptions are thrown when invalid XBRL documents are loaded. The Gepsio code base is unit tested using the XBRL-CONF-CR3-2007-03-05 unit tests designed by the XBRL organization.</description>
+      <homepage_url>http://gepsio.codeplex.com</homepage_url>
+      <download_url>http://gepsio.codeplex.com</download_url>
+      <url_name>gepsio</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14578215</analysis_id>
+      <tags>
+        <tag>xbrl</tag>
+        <tag>business</tag>
+        <tag>document</tag>
+      </tags>
+      <analysis>
+        <id>14578215</id>
+        <url>http://www.ohloh.net/analyses/14578215.xml</url>
+        <project_id>343395</project_id>
+        <updated_at>2013-07-10T04:59:50Z</updated_at>
+        <logged_at>2013-07-10T04:25:53Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>879441</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gepsio/analyses/14578215/languages.png">
+          <language color="555555" percentage="92" id="3">
+XML          </language>
+          <language color="556677" percentage="7" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Microsoft_Public_License_</name>
+          <nice_name>Microsoft Public License </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
