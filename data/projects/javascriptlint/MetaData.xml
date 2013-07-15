@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>89380</id>
+      <name>JavaScript Lint</name>
+      <url>http://www.ohloh.net/p/javascriptlint.xml</url>
+      <html_url>http://www.ohloh.net/p/javascriptlint</html_url>
+      <created_at>2008-12-21T06:11:54Z</created_at>
+      <updated_at>2013-06-08T20:15:07Z</updated_at>
+      <description>JavaScript Lint is a development tool that validates JavaScript code for best coding practices, finding common mistakes without actually running the script or opening the web page.</description>
+      <homepage_url>http://sourceforge.net/projects/javascriptlint</homepage_url>
+      <download_url></download_url>
+      <url_name>javascriptlint</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14199318</analysis_id>
+      <analysis>
+        <id>14199318</id>
+        <url>http://www.ohloh.net/analyses/14199318.xml</url>
+        <project_id>89380</project_id>
+        <updated_at>2013-07-07T04:28:54Z</updated_at>
+        <logged_at>2013-07-07T04:22:23Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>702339</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/javascriptlint/analyses/14199318/languages.png">
+          <language color="FF8F00" percentage="89" id="42">
+C          </language>
+          <language color="F35F1F" percentage="6" id="44">
+C++          </language>
+          <language color="000000" percentage="5" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

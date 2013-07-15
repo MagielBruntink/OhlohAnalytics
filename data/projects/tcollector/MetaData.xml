@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487408</id>
+      <name>tcollector</name>
+      <url>http://www.ohloh.net/p/tcollector.xml</url>
+      <html_url>http://www.ohloh.net/p/tcollector</html_url>
+      <created_at>2011-01-07T20:11:41Z</created_at>
+      <updated_at>2013-07-14T21:09:37Z</updated_at>
+      <description>tcollector is a data collection framework for OpenTSDB, primarily designed to collect all sorts of system metrics from Linux and to make it easy to write new custom data collectors for OpenTSDB.</description>
+      <homepage_url>http://opentsdb.net/tcollector.html</homepage_url>
+      <download_url>https://github.com/OpenTSDB/tcollector</download_url>
+      <url_name>tcollector</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14631003</analysis_id>
+      <analysis>
+        <id>14631003</id>
+        <url>http://www.ohloh.net/analyses/14631003.xml</url>
+        <project_id>487408</project_id>
+        <updated_at>2013-07-14T21:09:36Z</updated_at>
+        <logged_at>2013-07-14T21:05:55Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>3722</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tcollector/analyses/14631003/languages.png">
+          <language color="4A246B" percentage="78" id="9">
+Python          </language>
+          <language color="9A63AD" percentage="12" id="5">
+Java          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482487</id>
+      <name>JPaster</name>
+      <url>http://www.ohloh.net/p/jpaster.xml</url>
+      <html_url>http://www.ohloh.net/p/jpaster</html_url>
+      <created_at>2010-04-18T15:12:12Z</created_at>
+      <updated_at>2013-06-29T02:43:53Z</updated_at>
+      <description>Paster is an small application that lets you collect snippets of text so that you can easily copy them to the clipboard, and paste them later.
+
+It is created for people who have to answer the same questions by email, multiple times a day. They enter the answer in the tool one time and then just copy it when needed. :)
+
+Paster is written in Java and uses a SQLite database. It works on Windows, Mac and Linux
+
+On this site this program is called JPaster (J for Java) because the name Paster was not available anymore. :)</description>
+      <homepage_url>http://code.google.com/p/paster/</homepage_url>
+      <download_url>http://code.google.com/p/paster/downloads/list</download_url>
+      <url_name>jpaster</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32623/icon-48_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32623/icon-48_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14452065</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>mac</tag>
+        <tag>linux</tag>
+        <tag>copy</tag>
+        <tag>desktop</tag>
+        <tag>osx</tag>
+        <tag>paste</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14452065</id>
+        <url>http://www.ohloh.net/analyses/14452065.xml</url>
+        <project_id>482487</project_id>
+        <updated_at>2013-07-09T16:53:33Z</updated_at>
+        <logged_at>2013-07-09T16:53:31Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1308</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jpaster/analyses/14452065/languages.png">
+          <language color="555555" percentage="68" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="31" id="5">
+Java          </language>
+          <language color="EEE" percentage="1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

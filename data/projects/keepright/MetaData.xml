@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>338135</id>
+      <name>KeepRight</name>
+      <url>http://www.ohloh.net/p/keepright.xml</url>
+      <html_url>http://www.ohloh.net/p/keepright</html_url>
+      <created_at>2009-04-30T06:49:34Z</created_at>
+      <updated_at>2013-07-13T02:25:57Z</updated_at>
+      <description>KeepRight offers data consistency check routines for openstreetmap.org
+
+openstreetmap.org (OSM) provides a wiki-style means of creating a world-wide street map where everybody is encouraged to contribute. This is a collection of scripts that will examine part of the OSM database and try to find errors that should be corrected by users. As a result you get ugly lists of errors and are invited to correct them.</description>
+      <homepage_url>http://apps.sourceforge.net/trac/keepright/</homepage_url>
+      <download_url></download_url>
+      <url_name>keepright</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14613564</analysis_id>
+      <tags>
+        <tag>keepright</tag>
+        <tag>openstreetmap</tag>
+        <tag>geography</tag>
+        <tag>osm</tag>
+        <tag>mapping</tag>
+        <tag>openstreetmaporg</tag>
+        <tag>consistency</tag>
+      </tags>
+      <analysis>
+        <id>14613564</id>
+        <url>http://www.ohloh.net/analyses/14613564.xml</url>
+        <project_id>338135</project_id>
+        <updated_at>2013-07-13T02:25:57Z</updated_at>
+        <logged_at>2013-07-13T02:13:22Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>17229</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/keepright/analyses/14613564/languages.png">
+          <language color="356AA0" percentage="53" id="2">
+PHP          </language>
+          <language color="493625" percentage="23" id="30">
+SQL          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="13" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

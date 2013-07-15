@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25535</id>
+      <name>LightMediaScanner</name>
+      <url>http://www.ohloh.net/p/lightmediascanner.xml</url>
+      <html_url>http://www.ohloh.net/p/lightmediascanner</html_url>
+      <created_at>2008-10-11T05:29:50Z</created_at>
+      <updated_at>2013-06-29T15:41:12Z</updated_at>
+      <description>Lightweight media scanner meant to be used in not-so-powerful devices, like embedded systems or old machines.
+
+Provides an optimized way to recursively scan directories, handling the parser in a child process, avoiding breaks of the main process when parsers break (quite common with such bad libs and tags). One can opt to use the single process version, but be aware that if something bad happens during parsing, your application will suffer.
+
+Parsers are plugins in the form of shared objects, so it's easy to add new without having to recompiling the scanner.</description>
+      <homepage_url>http://lms.garage.maemo.org/</homepage_url>
+      <download_url>https://garage.maemo.org/frs/?group_id=498</download_url>
+      <url_name>lightmediascanner</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14461630</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>media</tag>
+        <tag>scanning</tag>
+      </tags>
+      <analysis>
+        <id>14461630</id>
+        <url>http://www.ohloh.net/analyses/14461630.xml</url>
+        <project_id>25535</project_id>
+        <updated_at>2013-07-07T07:46:56Z</updated_at>
+        <logged_at>2013-07-07T07:46:33Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>10294</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lightmediascanner/analyses/14461630/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="000000" percentage="14" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

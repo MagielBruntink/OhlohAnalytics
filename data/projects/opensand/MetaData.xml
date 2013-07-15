@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603422</id>
+      <name>OpenSAND, satellite emulation platform</name>
+      <url>http://www.ohloh.net/p/opensand.xml</url>
+      <html_url>http://www.ohloh.net/p/opensand</html_url>
+      <created_at>2012-07-13T15:43:22Z</created_at>
+      <updated_at>2013-07-13T19:16:24Z</updated_at>
+      <description>OpenSAND, formerly known as Platine, is a user-friendly and efficient tool to emulate satellite communication systems. It provides a suitable and simple means for performance evaluation and innovative access and network techniques validation. Its ability to interconnect real equipments with real applications provides excellent demonstration means.</description>
+      <homepage_url>http://opensand.org/</homepage_url>
+      <download_url>http://opensand.org/support/download.php</download_url>
+      <url_name>opensand</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54833/OpenSAND-Bleu_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54833/OpenSAND-Bleu_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14558990</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>c++</tag>
+        <tag>linux</tag>
+        <tag>dvb</tag>
+        <tag>telecommunication</tag>
+        <tag>emulation</tag>
+        <tag>satellite</tag>
+        <tag>gpl3</tag>
+        <tag>lgpl3</tag>
+      </tags>
+      <analysis>
+        <id>14558990</id>
+        <url>http://www.ohloh.net/analyses/14558990.xml</url>
+        <project_id>603422</project_id>
+        <updated_at>2013-07-07T03:52:25Z</updated_at>
+        <logged_at>2013-07-07T03:48:05Z</logged_at>
+        <min_month>2012-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>92336</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opensand/analyses/14558990/languages.png">
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="36" id="44">
+C++          </language>
+          <language color="4A246B" percentage="16" id="9">
+Python          </language>
+          <language color="000000" percentage="11" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

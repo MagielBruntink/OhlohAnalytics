@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>13126</id>
+      <project_id>6169</project_id>
+      <repository_id>12703</repository_id>
+      <repository>
+        <id>12703</id>
+        <type>CvsRepository</type>
+        <url>:pserver:cvs:@cvs.hypermail.org:/CVS</url>
+        <module_name>hypermail</module_name>
+        <username>cvs</username>
+        <password></password>
+        <logged_at>2009-11-03T19:29:48Z</logged_at>
+        <commits>446</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

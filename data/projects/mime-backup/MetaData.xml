@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>59048</id>
+      <name>mime-backup</name>
+      <url>http://www.ohloh.net/p/mime-backup.xml</url>
+      <html_url>http://www.ohloh.net/p/mime-backup</html_url>
+      <created_at>2008-12-17T17:36:19Z</created_at>
+      <updated_at>2013-07-10T11:38:02Z</updated_at>
+      <description>DescriptionBased on and inspired by Apple's Time Machine backup system.  Mime is a backup program written in Python that will perform an initial full system backup to any mounted drive that is formatted to a standard Linux/Unix file system that supports hard links.  All successive backups will create full incremental system images, thus allowing multiple versions of files to exist on the backup media.  The package also includes a powerful command line utility called lsmime for listing, restoring and deleting files from your backups. 
+
+If you have more than one system in your home or office, each system can use the same backup media to backup their data without interrupting data backed up from the other systems.</description>
+      <homepage_url>http://code.google.com/p/mime-backup</homepage_url>
+      <download_url></download_url>
+      <url_name>mime-backup</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581276</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>timemachine</tag>
+        <tag>backup</tag>
+        <tag>unix</tag>
+        <tag>linux</tag>
+        <tag>bsd</tag>
+        <tag>usb</tag>
+      </tags>
+      <analysis>
+        <id>14581276</id>
+        <url>http://www.ohloh.net/analyses/14581276.xml</url>
+        <project_id>59048</project_id>
+        <updated_at>2013-07-10T11:38:02Z</updated_at>
+        <logged_at>2013-07-10T11:37:48Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2008-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mime-backup/analyses/14581276/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

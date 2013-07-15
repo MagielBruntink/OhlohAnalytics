@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>3119</id>
+      <project_id>1065</project_id>
+      <repository_id>3129</repository_id>
+      <repository>
+        <id>3129</id>
+        <type>CvsRepository</type>
+        <url>:pserver:guest:@cvs.dev.java.net:/shared/data/ccvs/repository</url>
+        <module_name>wsunit</module_name>
+        <username>guest</username>
+        <password></password>
+        <logged_at>2011-01-17T20:17:09Z</logged_at>
+        <commits>188</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

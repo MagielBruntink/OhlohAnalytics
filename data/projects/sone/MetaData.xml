@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488187</id>
+      <name>Sone</name>
+      <url>http://www.ohloh.net/p/sone.xml</url>
+      <html_url>http://www.ohloh.net/p/sone</html_url>
+      <created_at>2011-02-18T10:06:06Z</created_at>
+      <updated_at>2013-07-11T06:58:16Z</updated_at>
+      <description>Social Network plugin for Freenet. It is modelled after Facebook, allowing people to maintain a short profile, create posts and reply to posts of other people.</description>
+      <homepage_url>https://github.com/Bombe/Sone</homepage_url>
+      <download_url>https://github.com/Bombe/Sone/downloads</download_url>
+      <url_name>sone</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41470/sone_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41470/sone_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14585615</analysis_id>
+      <tags>
+        <tag>communication</tag>
+        <tag>java</tag>
+        <tag>freenet</tag>
+      </tags>
+      <analysis>
+        <id>14585615</id>
+        <url>http://www.ohloh.net/analyses/14585615.xml</url>
+        <project_id>488187</project_id>
+        <updated_at>2013-07-11T06:58:16Z</updated_at>
+        <logged_at>2013-07-11T06:53:08Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>22233</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sone/analyses/14585615/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="A4007E" percentage="26" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

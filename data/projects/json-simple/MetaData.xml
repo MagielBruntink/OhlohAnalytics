@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>60399</id>
+      <name>json-simple</name>
+      <url>http://www.ohloh.net/p/json-simple.xml</url>
+      <html_url>http://www.ohloh.net/p/json-simple</html_url>
+      <created_at>2008-12-17T22:21:47Z</created_at>
+      <updated_at>2013-07-11T08:47:36Z</updated_at>
+      <description>OverviewJSON.simple is a simple Java toolkit for JSON. You can use JSON.simple to encode or decode JSON text. 
+
+FeaturesFull compliance with JSON specification (RFC4627) and reliable (see compliance testing) Provides multiple functionalities such as encode, decode/parse and escape JSON text while keeping the library lightweight Flexible, simple and easy to use by reusing Map and List interfaces  Supports streaming output of JSON text Stoppable SAX-like interface for streaming input of JSON text (learn more) Heap based parser High performance (see performance testing) No dependency on external libraries Both of the source code and the binary are JDK1.2 compatible Getting StartedNote: You need to put the latest json_simple-1.1.jar in your CLASSPATH before compiling and running the example codes. 
+
+Encoding Examples Decoding Examples Escaping Examples JSP and AJAX Examples Mapping Between JSON and Java Entities
+
+JSON  Java   string  java.lang.String   number  java.lang.Number   true|false  java.lang.Boolean   null  null   array  java.util.List   object  java.util.Map  
+
+JSON.simple maps entities from the left side to the right side while decoding or parsing, and maps entities from the right to the left while encoding. While decoding, default concrete class of java.util.List is org.json.simple.JSONArray and default concrete class of java.util.Map is org.json.simple.JSONObject. While encoding, other classes that are not listed on the right side of the table need to implement JSONAware or JSONStreamAware (streaming only) to customize JSON outputs. In such cases, JSON.simple calls JSONAware.toJSONString() or JSONStreamAware.writeJSONString() to determine the resulting JSON text. 
+
+Maven RepositoryJSON.simple in central maven repository Developer's GuideBuild With Ant Build With Eclipse The JSON Lexer JSON.simple in ProjectsVuze (Azureus) Apache Cassandra Apache Clerezza Apache MyFaces Apusic OperaMasks co-ode-owl-plugins google-caja GV Hula from Novell jmx4perl LabKey Server Mozilla Bespin MTS MUSCLE NuGram Platform  PhyloWidget TopQuadrant TopBraid Suite&#8482; XBrain ZK.forge JSON.simple in FedoraFedora 12, Fedora 11 and Fedora EPEL 5 JSON.simple in PublicationsO'Reilly - Ajax On Java Ajax development case study Tutorial from webucator A Review of 5 Java JSON Libraries (Rob@Rojotek) PeopleSoft PeopleTools Tips &amp; Techniques by Jim J. Marion Tutorial: Using Ext JS, Servlets, JSON, MySQL and Tomcat on Fedora Next StepsAuto marshalling and unmarshalling utils for Java Beans LinksJSON.org Initial version of JSON.simple Special ThanksYourKit is kindly supporting open source projects with its full-featured Java Profiler. YourKit, LLC is the creator of innovative and intelligent tools for profiling Java and .NET applications. Take a look at YourKit's leading software products: YourKit Java Profiler and  YourKit .NET Profiler.</description>
+      <homepage_url>http://code.google.com/p/json-simple</homepage_url>
+      <download_url></download_url>
+      <url_name>json-simple</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14586825</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>ajax</tag>
+        <tag>marshal</tag>
+        <tag>json_simple</tag>
+        <tag>java</tag>
+        <tag>unmarshal</tag>
+        <tag>sax-like</tag>
+        <tag>decode</tag>
+        <tag>jsonsimple</tag>
+        <tag>stoppable</tag>
+        <tag>json</tag>
+        <tag>encode</tag>
+        <tag>streaming</tag>
+        <tag>tutorial</tag>
+        <tag>parser</tag>
+      </tags>
+      <analysis>
+        <id>14586825</id>
+        <url>http://www.ohloh.net/analyses/14586825.xml</url>
+        <project_id>60399</project_id>
+        <updated_at>2013-07-11T08:47:36Z</updated_at>
+        <logged_at>2013-07-11T08:47:22Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2024</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/json-simple/analyses/14586825/languages.png">
+          <language color="9A63AD" percentage="90" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

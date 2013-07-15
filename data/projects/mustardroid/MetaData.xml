@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482274</id>
+      <name>mustardroid</name>
+      <url>http://www.ohloh.net/p/mustardroid.xml</url>
+      <html_url>http://www.ohloh.net/p/mustardroid</html_url>
+      <created_at>2010-04-06T03:57:33Z</created_at>
+      <updated_at>2013-07-11T16:43:14Z</updated_at>
+      <description>MuSTArDroid is an Android app to allow interaction with StatusNet.</description>
+      <homepage_url>https://launchpad.net/mustardroid</homepage_url>
+      <download_url>http://mustard.macno.org/download</download_url>
+      <url_name>mustardroid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32311/mustard_shadow_compact_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32311/mustard_shadow_compact_64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591777</analysis_id>
+      <analysis>
+        <id>14591777</id>
+        <url>http://www.ohloh.net/analyses/14591777.xml</url>
+        <project_id>482274</project_id>
+        <updated_at>2013-07-11T16:43:13Z</updated_at>
+        <logged_at>2013-07-11T16:22:35Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>56481</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mustardroid/analyses/14591777/languages.png">
+          <language color="9A63AD" percentage="70" id="5">
+Java          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>247662</id>
+      <project_id>483660</project_id>
+      <repository_id>245132</repository_id>
+      <repository>
+        <id>245132</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.newznab.com/nn/trunk</url>
+        <username>svn</username>
+        <password>svn</password>
+        <logged_at>2012-02-16T20:09:19Z</logged_at>
+        <commits>1434</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

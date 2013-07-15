@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>287260</id>
+      <project_id>355223</project_id>
+      <repository_id>284691</repository_id>
+      <repository>
+        <id>284691</id>
+        <type>GitRepository</type>
+        <url>git://siremis.git.sourceforge.net/gitroot/siremis/siremis</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-14T15:12:06Z</logged_at>
+        <commits>135</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>131724</id>
+      <project_id>355223</project_id>
+      <repository_id>129824</repository_id>
+      <repository>
+        <id>129824</id>
+        <type>SvnSyncRepository</type>
+        <url>https://siremis.svn.sourceforge.net/svnroot/siremis/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-14T15:19:25Z</logged_at>
+        <commits>59</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

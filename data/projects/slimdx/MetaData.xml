@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23964</id>
+      <name>slimdx</name>
+      <url>http://www.ohloh.net/p/slimdx.xml</url>
+      <html_url>http://www.ohloh.net/p/slimdx</html_url>
+      <created_at>2008-10-07T16:02:43Z</created_at>
+      <updated_at>2013-06-08T17:01:22Z</updated_at>
+      <description>SlimDX is a free open source framework that enables developers to easily build DirectX applications using .NET technologies such as C#, VB.NET, and IronPython. It is designed to be an efficient, simple, and lean wrapper that fully encompasses all of Microsoft's gaming and multimedia technologies and exposes them to managed code. All of the code is under the MIT/X11 license, and all content is under the Creative Commons Attribution-Share Alike license. 
+
+Please note that while SlimDX is similar to Managed DirectX, it is NOT intended to be the same API. More information, as well as documentation and other support, can be found at our homepage at http://slimdx.org. 
+
+SlimDX currently supports: 
+
+Direct3D 9 Direct3D 9 Ex Direct3D 10 Direct3D 10.1 Direct3D 11 DXGI DirectInput 8 DirectSound 8 XInput RawInput XAudio2 X3DAudio XAPO Direct2D DirectWrite An extensive math library Various pieces of Windows Multimedia 
+
+In addition, check out these other loosely related projects: 
+
+SlimTune - Free and open source profiler for .NET. SlimGen - Experimental ASM injection software for .NET assemblies. SlimBuffer - Unmanaged memory buffer component. SlimMath - Completely managed 3D vector math library.</description>
+      <homepage_url>http://code.google.com/p/slimdx</homepage_url>
+      <download_url></download_url>
+      <url_name>slimdx</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14197058</analysis_id>
+      <tags>
+        <tag>slimdx</tag>
+        <tag>commons</tag>
+        <tag>c</tag>
+        <tag>direct3d</tag>
+        <tag>mit</tag>
+        <tag>mdx</tag>
+        <tag>directx</tag>
+        <tag>net</tag>
+        <tag>gamedev</tag>
+        <tag>csharp</tag>
+        <tag>creative</tag>
+        <tag>manageddx</tag>
+      </tags>
+      <analysis>
+        <id>14197058</id>
+        <url>http://www.ohloh.net/analyses/14197058.xml</url>
+        <project_id>23964</project_id>
+        <updated_at>2013-07-08T04:12:13Z</updated_at>
+        <logged_at>2013-07-08T04:12:11Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>426997</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/slimdx/analyses/14197058/languages.png">
+          <language color="555555" percentage="60" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="31" id="44">
+C++          </language>
+          <language color="4096EE" percentage="5" id="17">
+C#          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

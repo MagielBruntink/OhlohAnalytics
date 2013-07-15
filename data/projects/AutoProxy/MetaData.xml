@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>341415</id>
+      <name>AutoProxy</name>
+      <url>http://www.ohloh.net/p/AutoProxy.xml</url>
+      <html_url>http://www.ohloh.net/p/AutoProxy</html_url>
+      <created_at>2009-05-21T00:16:03Z</created_at>
+      <updated_at>2013-06-21T06:30:08Z</updated_at>
+      <description>AutoProxy is an add-on to help you use your proxy (http/socks) automatically &amp; efficiently.
+
+With AutoProxy, you no longer need to switch your proxy status between on &amp; off manually. If you prefer to visit a website via proxy, just add it's domain to AutoProxy's preference. After that, when you surfing, specified websites will be transfered through proxy while leaving others connect directly.
+
+What's more, you can subscribe to rule lists maintained by people who have similar requirements as you. So, you don't need to add all proxy rules by yourself.
+
+(Note: &quot;gfwList&quot; is a list for people in mainland China suffering from the censorship of GFW. If you aren't in mainland China, please do NOT subscribe to &quot;gfwList&quot;.)</description>
+      <homepage_url>http://code.google.com/p/autoproxy/</homepage_url>
+      <download_url>https://addons.mozilla.org/firefox/addon/11009</download_url>
+      <url_name>AutoProxy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26518/64X_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26518/64X_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14323878</analysis_id>
+      <analysis>
+        <id>14323878</id>
+        <url>http://www.ohloh.net/analyses/14323878.xml</url>
+        <project_id>341415</project_id>
+        <updated_at>2013-07-07T10:50:52Z</updated_at>
+        <logged_at>2013-07-07T10:50:51Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>8950</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/AutoProxy/analyses/14323878/languages.png">
+          <language color="A4007E" percentage="74" id="6">
+JavaScript          </language>
+          <language color="D2C690" percentage="10" id="8">
+Perl          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

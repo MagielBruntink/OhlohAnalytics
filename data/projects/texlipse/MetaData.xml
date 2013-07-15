@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15430</id>
+      <name>TeXlipse</name>
+      <url>http://www.ohloh.net/p/texlipse.xml</url>
+      <html_url>http://www.ohloh.net/p/texlipse</html_url>
+      <created_at>2008-07-09T20:30:54Z</created_at>
+      <updated_at>2013-06-25T06:54:40Z</updated_at>
+      <description>The TeXlipse plugin for Eclipse provides support for LaTeX projects. It is primarily aimed at users who already know the basics about LaTeX, newbies will surely find it useful but also a steeper learning curve. The following main features are offered:
+
+    * Syntax highlighting
+    * Document outline
+    * Code folding
+    * Templates
+    * Build support, also partial building
+    * Annotations for errors (while editing)
+    * Content assist (completion of commands and references)
+    * Easy navigation with F3
+    * Outline of the current file and the full project
+    * Spell checking
+    * Menu with common LaTeX math symbols
+    * BibTeX editor and BibTeX-support
+    * Line wrapping
+    * Table editor
+    * Support for several platforms (Windows, Linux, OS X)
+    * ...and many more</description>
+      <homepage_url>http://texlipse.sourceforge.net/</homepage_url>
+      <download_url>http://texlipse.sourceforge.net/release.html</download_url>
+      <url_name>texlipse</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14398662</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>postscript</tag>
+        <tag>eclipse</tag>
+        <tag>typesetting</tag>
+        <tag>layout</tag>
+        <tag>editor</tag>
+        <tag>pdf</tag>
+        <tag>tex</tag>
+        <tag>pstricks</tag>
+        <tag>bibtex</tag>
+        <tag>latex</tag>
+      </tags>
+      <analysis>
+        <id>14398662</id>
+        <url>http://www.ohloh.net/analyses/14398662.xml</url>
+        <project_id>15430</project_id>
+        <updated_at>2013-07-15T01:46:53Z</updated_at>
+        <logged_at>2013-07-15T01:46:50Z</logged_at>
+        <min_month>2005-03-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>37681</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/texlipse/analyses/14398662/languages.png">
+          <language color="9A63AD" percentage="87" id="5">
+Java          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

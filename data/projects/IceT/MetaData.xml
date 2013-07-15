@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345596</id>
+      <name>IceT</name>
+      <url>http://www.ohloh.net/p/IceT.xml</url>
+      <html_url>http://www.ohloh.net/p/IceT</html_url>
+      <created_at>2009-06-03T22:51:02Z</created_at>
+      <updated_at>2013-07-09T11:34:46Z</updated_at>
+      <description>The Image Composition Engine for Tiles (IceT) is a high-performance sort-last parallel rendering library. In addition to providing accelerated rendering for a standard display, IceT provides the unique ability to generate images for tiled displays. The overall resolution of the display may be several times larger than any viewport that may be rendered by a single machine.
+
+IceT is currently available for use in large scale, high performance visualization and graphics applications like ParaView and VisIt.</description>
+      <homepage_url>http://icet.sandia.gov</homepage_url>
+      <download_url>http://icet.sandia.gov/download.html</download_url>
+      <url_name>IceT</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571620</analysis_id>
+      <analysis>
+        <id>14571620</id>
+        <url>http://www.ohloh.net/analyses/14571620.xml</url>
+        <project_id>345596</project_id>
+        <updated_at>2013-07-09T11:34:46Z</updated_at>
+        <logged_at>2013-07-09T11:33:26Z</logged_at>
+        <min_month>2003-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>15999</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/IceT/analyses/14571620/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="EEE" percentage="4" id="74">
+CMake          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

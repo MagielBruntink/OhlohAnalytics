@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487495</id>
+      <name>Yioop!</name>
+      <url>http://www.ohloh.net/p/yioop.xml</url>
+      <html_url>http://www.ohloh.net/p/yioop</html_url>
+      <created_at>2011-01-11T18:06:32Z</created_at>
+      <updated_at>2013-07-13T17:47:49Z</updated_at>
+      <description>Yioop! is a PHP search engine. Yioop! can be configured as either a general purpose search engine for the whole Web or it can be configured to provide search results for a set of URLs or domains. It supports indexing several file formats such as HTML, PDF, DOC, PPT, RTF, RSS, XML, SVG, PNG, JPG, BMP, and GIF. The Yioop! crawler can be deployed on one or many machines. On reasonably low-end hardware with cable Internet, four machines can download a million pages every couple of days. Crawling respects robots.txt including Crawl-delay. Yioop! crawls are stored in a Web archive format that is easy to move around. Crawling can be done on one machine and the results deployed elsewhere. Yioop! supports mixing of crawls.</description>
+      <homepage_url>http://www.seekquarry.com/</homepage_url>
+      <download_url>http://www.seekquarry.com/?c=main&amp;p=downloads</download_url>
+      <url_name>yioop</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40424/yioop_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40424/yioop_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14540697</analysis_id>
+      <tags>
+        <tag>indexing</tag>
+        <tag>php</tag>
+        <tag>search-engine</tag>
+        <tag>search_engine</tag>
+        <tag>search</tag>
+      </tags>
+      <analysis>
+        <id>14540697</id>
+        <url>http://www.ohloh.net/analyses/14540697.xml</url>
+        <project_id>487495</project_id>
+        <updated_at>2013-07-05T19:12:13Z</updated_at>
+        <logged_at>2013-07-05T19:10:34Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>42540</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yioop/analyses/14540697/languages.png">
+          <language color="356AA0" percentage="88" id="2">
+PHP          </language>
+          <language color="000000" percentage="12" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

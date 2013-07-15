@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9290</id>
+      <name>Diouzhtu</name>
+      <url>http://www.ohloh.net/p/diouzhtu.xml</url>
+      <html_url>http://www.ohloh.net/p/diouzhtu</html_url>
+      <created_at>2007-10-23T12:15:38Z</created_at>
+      <updated_at>2013-06-26T12:25:14Z</updated_at>
+      <description>Diouzhtu aims to provide a simple way to publish html pages with a wiki interface.</description>
+      <homepage_url>http://code.google.com/p/diouzhtu/</homepage_url>
+      <download_url></download_url>
+      <url_name>diouzhtu</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14417700</analysis_id>
+      <tags>
+        <tag>gnat</tag>
+        <tag>aws</tag>
+        <tag>ada</tag>
+        <tag>markdown</tag>
+        <tag>gwiad</tag>
+        <tag>gcc</tag>
+        <tag>plugin</tag>
+        <tag>wiki</tag>
+        <tag>ajax</tag>
+      </tags>
+      <analysis>
+        <id>14417700</id>
+        <url>http://www.ohloh.net/analyses/14417700.xml</url>
+        <project_id>9290</project_id>
+        <updated_at>2013-07-15T01:46:29Z</updated_at>
+        <logged_at>2013-07-15T01:46:27Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5401</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/diouzhtu/analyses/14417700/languages.png">
+          <language color="FAE028" percentage="49" id="21">
+Ada          </language>
+          <language color="A4007E" percentage="28" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="000000" percentage="11" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>21</main_language_id>
+        <main_language_name>Ada</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

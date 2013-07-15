@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13241</id>
+      <name>PTM</name>
+      <url>http://www.ohloh.net/p/ptm.xml</url>
+      <html_url>http://www.ohloh.net/p/ptm</html_url>
+      <created_at>2008-04-08T19:00:48Z</created_at>
+      <updated_at>2013-06-23T18:31:49Z</updated_at>
+      <description>PTM is a Rails application that manages your team tasks, with a project management oriented vision. The demo site is fully operational and you can start using it right now.</description>
+      <homepage_url>http://protaskm.com</homepage_url>
+      <download_url>http://code.google.com/p/rorptm/source/checkout</download_url>
+      <url_name>ptm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2489/tasks_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2489/tasks_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14254305</analysis_id>
+      <tags>
+        <tag>project</tag>
+        <tag>rails</tag>
+        <tag>collaborative</tag>
+        <tag>gtd</tag>
+        <tag>project_collaboration</tag>
+        <tag>collaboration</tag>
+        <tag>project_manager</tag>
+        <tag>tasks</tag>
+        <tag>management</tag>
+        <tag>todo</tag>
+        <tag>productivity</tag>
+        <tag>project_planning</tag>
+        <tag>project_management</tag>
+      </tags>
+      <analysis>
+        <id>14254305</id>
+        <url>http://www.ohloh.net/analyses/14254305.xml</url>
+        <project_id>13241</project_id>
+        <updated_at>2013-07-13T23:23:21Z</updated_at>
+        <logged_at>2013-07-13T23:23:18Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>72775</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ptm/analyses/14254305/languages.png">
+          <language color="A4007E" percentage="63" id="6">
+JavaScript          </language>
+          <language color="A40011" percentage="20" id="12">
+Ruby          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26516</id>
+      <name>LEAF Linux Embedded Appliance Framework</name>
+      <url>http://www.ohloh.net/p/leaf.xml</url>
+      <html_url>http://www.ohloh.net/p/leaf</html_url>
+      <created_at>2008-11-11T15:15:21Z</created_at>
+      <updated_at>2012-12-29T22:39:15Z</updated_at>
+      <description>A secure, feature-rich, customizable embedded Linux network appliance for use in a variety of network topologies. Although it can be used in other ways; it's primarily used as a Internet gateway, router, firewall, and wireless access point.</description>
+      <homepage_url>http://sourceforge.net/projects/leaf/</homepage_url>
+      <download_url>http://sourceforge.net/projects/leaf/files/</download_url>
+      <url_name>leaf</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11898690</analysis_id>
+      <tags>
+        <tag>router</tag>
+        <tag>network</tag>
+        <tag>iptables</tag>
+        <tag>ipv6</tag>
+        <tag>dnsmasq</tag>
+        <tag>busybox</tag>
+        <tag>shorewall</tag>
+        <tag>linux</tag>
+        <tag>dropbear</tag>
+        <tag>ipv4</tag>
+        <tag>firewall</tag>
+        <tag>x86</tag>
+        <tag>networking</tag>
+        <tag>bridge</tag>
+      </tags>
+      <analysis>
+        <id>11898690</id>
+        <url>http://www.ohloh.net/analyses/11898690.xml</url>
+        <project_id>26516</project_id>
+        <updated_at>2012-12-29T22:39:15Z</updated_at>
+        <logged_at>2012-12-23T07:00:18Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>84442</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/leaf/analyses/11898690/languages.png">
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="777777" percentage="26" id="11">
+shell script          </language>
+          <language color="EEE" percentage="19" id="52">
+Make          </language>
+          <language color="000000" percentage="21" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

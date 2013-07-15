@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484179</id>
+      <name>Mailing List Stats</name>
+      <url>http://www.ohloh.net/p/mlstats.xml</url>
+      <html_url>http://www.ohloh.net/p/mlstats</html_url>
+      <created_at>2010-07-20T08:57:53Z</created_at>
+      <updated_at>2013-06-29T22:36:48Z</updated_at>
+      <description>Mailing List Stats is a command line based tool used to analyze mboxes. It downloads the mboxes in a directory where database will be created. It stores all the information which is contained in a e-mail.</description>
+      <homepage_url>http://metricsgrimoire.github.com/MailingListStats/</homepage_url>
+      <download_url>https://github.com/MetricsGrimoire/MailingListStats/downloads</download_url>
+      <url_name>mlstats</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14468759</analysis_id>
+      <tags>
+        <tag>research</tag>
+        <tag>mlstats</tag>
+        <tag>libresoft</tag>
+        <tag>msr</tag>
+      </tags>
+      <analysis>
+        <id>14468759</id>
+        <url>http://www.ohloh.net/analyses/14468759.xml</url>
+        <project_id>484179</project_id>
+        <updated_at>2013-07-11T12:49:12Z</updated_at>
+        <logged_at>2013-07-11T12:49:10Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>1997</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mlstats/analyses/14468759/languages.png">
+          <language color="4A246B" percentage="59" id="9">
+Python          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="493625" percentage="12" id="30">
+SQL          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

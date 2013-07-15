@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347142</id>
+      <name>bios_extract</name>
+      <url>http://www.ohloh.net/p/bios_extract.xml</url>
+      <html_url>http://www.ohloh.net/p/bios_extract</html_url>
+      <created_at>2009-06-17T00:00:54Z</created_at>
+      <updated_at>2013-07-06T13:28:53Z</updated_at>
+      <description>bios_extract is a utility to extract submodules several different legacy bios images from ami, award, phoenix, etc.</description>
+      <homepage_url>http://review.coreboot.org/gitweb?p=bios_extract.git</homepage_url>
+      <download_url>http://cgit.freedesktop.org/~libv/bios_extract/commit/</download_url>
+      <url_name>bios_extract</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550422</analysis_id>
+      <tags>
+        <tag>award</tag>
+        <tag>coreboot</tag>
+        <tag>hardware</tag>
+        <tag>embedded</tag>
+        <tag>lha</tag>
+        <tag>phoenix</tag>
+        <tag>firmware</tag>
+        <tag>extract</tag>
+        <tag>bios</tag>
+        <tag>x86</tag>
+        <tag>boot</tag>
+        <tag>ami</tag>
+      </tags>
+      <analysis>
+        <id>14550422</id>
+        <url>http://www.ohloh.net/analyses/14550422.xml</url>
+        <project_id>347142</project_id>
+        <updated_at>2013-07-06T13:28:53Z</updated_at>
+        <logged_at>2013-07-06T13:28:14Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>4773</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bios_extract/analyses/14550422/languages.png">
+          <language color="FF8F00" percentage="55" id="42">
+C          </language>
+          <language color="4A246B" percentage="44" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

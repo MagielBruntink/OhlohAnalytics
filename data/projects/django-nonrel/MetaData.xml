@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481660</id>
+      <name>Django-nonrel</name>
+      <url>http://www.ohloh.net/p/django-nonrel.xml</url>
+      <html_url>http://www.ohloh.net/p/django-nonrel</html_url>
+      <created_at>2010-03-07T23:11:57Z</created_at>
+      <updated_at>2013-06-30T21:46:19Z</updated_at>
+      <description>Django-nonrel is a port of Django that adds support for NoSQL databases. Backends for App Engine, MongoDB, ElasticSearch, and Cassandra already exist.</description>
+      <homepage_url>http://www.allbuttonspressed.com/projects/django-nonrel</homepage_url>
+      <download_url>http://www.allbuttonspressed.com/projects/django-nonrel</download_url>
+      <url_name>django-nonrel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14486988</analysis_id>
+      <tags>
+        <tag>non-relational</tag>
+        <tag>nosql</tag>
+        <tag>cassandra</tag>
+        <tag>mongodb</tag>
+        <tag>appengine</tag>
+        <tag>elasticsearch</tag>
+        <tag>django</tag>
+      </tags>
+      <analysis>
+        <id>14486988</id>
+        <url>http://www.ohloh.net/analyses/14486988.xml</url>
+        <project_id>481660</project_id>
+        <updated_at>2013-07-12T00:43:10Z</updated_at>
+        <logged_at>2013-07-12T00:40:17Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>126760</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-nonrel/analyses/14486988/languages.png">
+          <language color="4A246B" percentage="91" id="9">
+Python          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

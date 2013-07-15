@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483234</id>
+      <name>Hadron Project</name>
+      <url>http://www.ohloh.net/p/hadronproject.xml</url>
+      <html_url>http://www.ohloh.net/p/hadronproject</html_url>
+      <created_at>2010-05-27T16:32:28Z</created_at>
+      <updated_at>2013-06-25T02:11:01Z</updated_at>
+      <description>Hadron is a source-based GNU/Linux distribution which is designed for power users. At the same time, Hadron follows KISS principles.
+
+Main power of Hadron comes from lpms, which is a new package manager designed with Python. lpms uses scripts to build packages (like Gentoo's Portage) and noticeably fast. We re-implemented some old features, because we didn't want to use and fix the spaghetti stuff.
+
+You may not find every package you want (e.g. desktop environments) in Hadron, because it's still at development stage. We don't provide an installation media for now. Instead, you can find a rootfs, which is suitable for trying in a chroot environment.</description>
+      <homepage_url>http://hadronproject.org</homepage_url>
+      <download_url>http://hadronproject.org/</download_url>
+      <url_name>hadronproject</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50898/gnu-and-penguin-color-1024x946_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50898/gnu-and-penguin-color-1024x946_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14393653</analysis_id>
+      <tags>
+        <tag>package-manager</tag>
+        <tag>linuxdistro</tag>
+        <tag>x86</tag>
+        <tag>xfce4</tag>
+        <tag>gnu_linux</tag>
+        <tag>source_code</tag>
+        <tag>linuxdistribution</tag>
+        <tag>linux</tag>
+        <tag>python</tag>
+        <tag>minimal</tag>
+        <tag>operating-system</tag>
+        <tag>bsd</tag>
+        <tag>packagemanagement</tag>
+        <tag>experimental</tag>
+      </tags>
+      <analysis>
+        <id>14393653</id>
+        <url>http://www.ohloh.net/analyses/14393653.xml</url>
+        <project_id>483234</project_id>
+        <updated_at>2013-07-06T00:50:27Z</updated_at>
+        <logged_at>2013-07-06T00:27:57Z</logged_at>
+        <min_month>2002-03-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>30937</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hadronproject/analyses/14393653/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="777777" percentage="19" id="11">
+shell script          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

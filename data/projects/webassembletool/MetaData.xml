@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9896</id>
+      <name>ESIGate (Website Assembling Toolkit)</name>
+      <url>http://www.ohloh.net/p/webassembletool.xml</url>
+      <html_url>http://www.ohloh.net/p/webassembletool</html_url>
+      <created_at>2007-11-26T18:07:40Z</created_at>
+      <updated_at>2013-07-13T19:25:14Z</updated_at>
+      <description>This toolkit allows developpers to assemble several web applications into a single one. Pages are build using contents, resources and page templates coming from the original applications. The applications may use different technologies (Java, PHP...)</description>
+      <homepage_url>http://www.esigate.org/</homepage_url>
+      <download_url>https://sourceforge.net/projects/webassembletool/files/</download_url>
+      <url_name>webassembletool</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35508/Capture_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35508/Capture_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566754</analysis_id>
+      <tags>
+        <tag>edgesideinclude</tag>
+        <tag>loadbalancer</tag>
+        <tag>reverseproxy</tag>
+        <tag>loadbalancing</tag>
+        <tag>webassembletool</tag>
+        <tag>web</tag>
+        <tag>development</tag>
+        <tag>scraper</tag>
+        <tag>wat</tag>
+        <tag>java</tag>
+        <tag>esi</tag>
+        <tag>cache</tag>
+        <tag>proxy</tag>
+        <tag>http</tag>
+        <tag>networking</tag>
+        <tag>server</tag>
+      </tags>
+      <analysis>
+        <id>14566754</id>
+        <url>http://www.ohloh.net/analyses/14566754.xml</url>
+        <project_id>9896</project_id>
+        <updated_at>2013-07-08T04:04:58Z</updated_at>
+        <logged_at>2013-07-07T21:06:48Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>26696</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/webassembletool/analyses/14566754/languages.png">
+          <language color="9A63AD" percentage="53" id="5">
+Java          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

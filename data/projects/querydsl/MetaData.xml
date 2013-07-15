@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>37678</id>
+      <name>Querydsl</name>
+      <url>http://www.ohloh.net/p/querydsl.xml</url>
+      <html_url>http://www.ohloh.net/p/querydsl</html_url>
+      <created_at>2008-12-12T13:52:51Z</created_at>
+      <updated_at>2013-07-12T03:16:17Z</updated_at>
+      <description>Querydsl is a framework which enables the construction of statically typed SQL-like queries. Instead of writing queries as inline strings or externalizing them into XML files they can be constructed via a fluent DSL/API.
+
+The benefits of using a fluent API in comparison to simple strings are
+
+    * code completion in IDE
+    * almost none syntactically invalid queries allowed
+    * domain types and properties can be referenced safely
+    * adopts better to refactoring changes in domain types</description>
+      <homepage_url>http://www.querydsl.com</homepage_url>
+      <download_url>http://www.querydsl.com/downloads</download_url>
+      <url_name>querydsl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599743</analysis_id>
+      <tags>
+        <tag>fluent-interface</tag>
+        <tag>fluent</tag>
+        <tag>hql</tag>
+        <tag>linq</tag>
+        <tag>query</tag>
+        <tag>java</tag>
+        <tag>dsl</tag>
+        <tag>fluentinterface</tag>
+        <tag>fluentapi</tag>
+      </tags>
+      <analysis>
+        <id>14599743</id>
+        <url>http://www.ohloh.net/analyses/14599743.xml</url>
+        <project_id>37678</project_id>
+        <updated_at>2013-07-12T03:16:17Z</updated_at>
+        <logged_at>2013-07-12T03:15:58Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>90728</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/querydsl/analyses/14599743/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484758</id>
+      <name>GRAL</name>
+      <url>http://www.ohloh.net/p/gral.xml</url>
+      <html_url>http://www.ohloh.net/p/gral</html_url>
+      <created_at>2010-08-13T12:39:11Z</created_at>
+      <updated_at>2013-07-05T01:46:34Z</updated_at>
+      <description>GRAL is a Java library for creating high quality plots and charts. Many plot types are available like scatter plots, bubble plots, line plots, time series, area plots, pie charts, and bar charts. Nearly every aspect of a plot's appearance can be adjusted using a settings system.
+Additionally, GRAL can interchange and process data in various ways: filters can be used to smooth, derive, or rescale data. Several plug-ins allow the import and export of data and graphics to formats like CSV, JPEG, PNG, EPS, PDF, or SVG.
+Once a plot is set up it can be integrated into any application. Using the included system of Swing classes the user can interactively pan and zoom a plot.</description>
+      <homepage_url>http://trac.erichseifert.de/gral/</homepage_url>
+      <download_url>http://trac.erichseifert.de/gral/wiki/Download</download_url>
+      <url_name>gral</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36234/logo_only_210x210_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36234/logo_only_210x210_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14531633</analysis_id>
+      <tags>
+        <tag>plotting</tag>
+        <tag>graphics</tag>
+        <tag>chart</tag>
+        <tag>development</tag>
+        <tag>library</tag>
+        <tag>plot</tag>
+        <tag>graph</tag>
+        <tag>programming</tag>
+        <tag>visualization</tag>
+        <tag>plots</tag>
+        <tag>pdf</tag>
+        <tag>java</tag>
+        <tag>csv</tag>
+        <tag>eps</tag>
+        <tag>graphing</tag>
+        <tag>api</tag>
+        <tag>charting</tag>
+        <tag>data</tag>
+        <tag>svg</tag>
+        <tag>charts</tag>
+        <tag>reporting</tag>
+        <tag>visualisation</tag>
+      </tags>
+      <analysis>
+        <id>14531633</id>
+        <url>http://www.ohloh.net/analyses/14531633.xml</url>
+        <project_id>484758</project_id>
+        <updated_at>2013-07-12T18:54:05Z</updated_at>
+        <logged_at>2013-07-12T18:53:39Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>22279</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gral/analyses/14531633/languages.png">
+          <language color="9A63AD" percentage="97" id="5">
+Java          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

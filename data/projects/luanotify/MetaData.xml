@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484590</id>
+      <name>Luanotify</name>
+      <url>http://www.ohloh.net/p/luanotify.xml</url>
+      <html_url>http://www.ohloh.net/p/luanotify</html_url>
+      <created_at>2010-08-06T17:06:53Z</created_at>
+      <updated_at>2012-02-24T18:32:31Z</updated_at>
+      <description>LuaNotify is inspired on many libraries that do event dispatching, like
+py-notify, GSignals, QT event system, wxWidgets event system, etc.
+But trying to do something different that can make use of Lua resources
+and to be more Lua-ish as possible.</description>
+      <homepage_url>http://github.com/katcipis/luanotify</homepage_url>
+      <download_url>http://sourceforge.net/projects/luanotify</download_url>
+      <url_name>luanotify</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3304514</analysis_id>
+      <tags>
+        <tag>observed</tag>
+        <tag>observer</tag>
+        <tag>signal</tag>
+        <tag>notify</tag>
+        <tag>luanotify</tag>
+        <tag>lua</tag>
+        <tag>event</tag>
+      </tags>
+      <analysis>
+        <id>3304514</id>
+        <url>http://www.ohloh.net/analyses/3304514.xml</url>
+        <project_id>484590</project_id>
+        <updated_at>2011-08-14T20:51:10Z</updated_at>
+        <logged_at>2011-08-14T20:51:08Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2450</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/luanotify/analyses/3304514/languages.png">
+          <language color="A42E00" percentage="100" id="27">
+Lua          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

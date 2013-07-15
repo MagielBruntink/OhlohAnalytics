@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>358736</id>
+      <name>Home-Bank</name>
+      <url>http://www.ohloh.net/p/Home-Bank.xml</url>
+      <html_url>http://www.ohloh.net/p/Home-Bank</html_url>
+      <created_at>2009-08-02T13:40:58Z</created_at>
+      <updated_at>2013-06-18T03:09:24Z</updated_at>
+      <description>&#171;HomeBank&#187; is free software aimed to manage your personal accounts, and is designed to be easy to use. Analyse your finances in detail using powerful filtering tools and graphs.
+
+&#171;HomeBank&#187; benefits from more than 14 years of user experience and feedback. Its development started in 1995 on Amiga computers. It is available for 57 languages on GNU/Linux, FreeBSD, Microsoft Windows, MacOSX, Nokia N*** and Amiga.
+
+If you are looking for an easy way to manage your accounts then &#171;HomeBank&#187; should be the software of choice. Take some time to try it out, you won't regret it.</description>
+      <homepage_url>http://homebank.free.fr/</homepage_url>
+      <download_url>http://homebank.free.fr/index.php?id=20</download_url>
+      <url_name>Home-Bank</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22520/homebank_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22520/homebank_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14296258</analysis_id>
+      <analysis>
+        <id>14296258</id>
+        <url>http://www.ohloh.net/analyses/14296258.xml</url>
+        <project_id>358736</project_id>
+        <updated_at>2013-06-18T03:09:24Z</updated_at>
+        <logged_at>2013-06-18T03:09:07Z</logged_at>
+        <min_month>2012-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>45825</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Home-Bank/analyses/14296258/languages.png">
+          <language color="FF8F00" percentage="65" id="42">
+C          </language>
+          <language color="EEE" percentage="16" id="51">
+Autoconf          </language>
+          <language color="EEE" percentage="10" id="52">
+Make          </language>
+          <language color="000000" percentage="9" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>freeware</name>
+          <nice_name>Freeware</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

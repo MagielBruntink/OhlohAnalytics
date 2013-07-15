@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>321103</id>
+      <name>MoreKomodo</name>
+      <url>http://www.ohloh.net/p/morekomodo.xml</url>
+      <html_url>http://www.ohloh.net/p/morekomodo</html_url>
+      <created_at>2009-04-05T10:38:39Z</created_at>
+      <updated_at>2013-07-06T16:18:26Z</updated_at>
+      <description>MoreKomodo enhances ActiveState's KomodoEdit
+New operations on files
+
+These features are accessible from context menus
+
+    * backup
+    * quick rename
+    * quick delete
+    * quick move
+    * Show file in file manager
+
+Clipboard enhancement
+
+New features to use clipboard
+
+    * Copy to clipboard full path, file name or directory for current editor
+    * Past from clipboard HTML code
+      Many applications (browsers, word processors, spreadsheets) copy into clipboard HTML source code and using this option you can paste directly into Komodo
+    * Copy selection appending text in clipboard
+      The copy doesn't overwrite text in clipboard but appends it
+    * Cut selection appending text in clipboard
+      The cut doesn't overwrite text in clipboard but appends</description>
+      <homepage_url>http://dafizilla.sourceforge.net/morekomodo/index.php</homepage_url>
+      <download_url>http://dafizilla.sourceforge.net/morekomodo/index.php</download_url>
+      <url_name>morekomodo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19775/morekomodo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19775/morekomodo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551969</analysis_id>
+      <tags>
+        <tag>xul</tag>
+        <tag>mozillaaddon</tag>
+        <tag>javascript</tag>
+        <tag>openkomodo</tag>
+        <tag>komodo</tag>
+        <tag>extension</tag>
+        <tag>activestate</tag>
+      </tags>
+      <analysis>
+        <id>14551969</id>
+        <url>http://www.ohloh.net/analyses/14551969.xml</url>
+        <project_id>321103</project_id>
+        <updated_at>2013-07-06T16:18:26Z</updated_at>
+        <logged_at>2013-07-06T16:14:57Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6221</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/morekomodo/analyses/14551969/languages.png">
+          <language color="A4007E" percentage="69" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="2" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

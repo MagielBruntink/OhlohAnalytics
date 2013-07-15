@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19698</id>
+      <name>gaeunit</name>
+      <url>http://www.ohloh.net/p/gaeunit.xml</url>
+      <html_url>http://www.ohloh.net/p/gaeunit</html_url>
+      <created_at>2008-10-07T12:35:25Z</created_at>
+      <updated_at>2013-07-12T02:35:12Z</updated_at>
+      <description>GAEUnit 2.0 alpha for Django is released, please download and follow the instruction.GAEUnit is a unit test framework that helps to automate testing of your Google App Engine application. With a single configuration change (it can be completed within 30 seconds), your unit tests can be run in the real GAE app server environment using a web browser. 
+
+GAEUnit is simple. It contains only one file: gaeunit.py. Just copy that file into your application directory and add the test URL to app.yaml. 
+
+Usage 
+
+1. Configure the environment: 
+
+Copy gaeunit.py to the project directory. Add the following 2 lines to app.yaml: 
+
+- url: /test.*
+  script: gaeunit.py2. Write your test case scripts in Python modules, each containing unittest.TestCase subclasses, in the 'test' directory and launch dev_appserver.py 
+
+3. Browse to the following URL (change the port if necessary): 
+
+http://localhost:8080/testYour test results will be displayed in the browser: 
+
+ 
+
+If you wish to run a single module, execute it like this: 
+
+http://localhost:8080/test?name=my_test_moduleYou can also specify a single test class, like name=my_test_module.MyTestCase or even a single test method, like name=my_test_module.MyTestCase.test_stuff 
+
+See FeatureCandidates for a list of potential upcoming features. 
+
+Please let us know if you have interesting ideas or specific requirements for GAEUnit.  Use the comments on the FeatureCandidates page, or use the Issues tab above.</description>
+      <homepage_url>http://code.google.com/p/gaeunit</homepage_url>
+      <download_url></download_url>
+      <url_name>gaeunit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599124</analysis_id>
+      <tags>
+        <tag>gae</tag>
+        <tag>appengine</tag>
+        <tag>python</tag>
+        <tag>unittest</tag>
+      </tags>
+      <analysis>
+        <id>14599124</id>
+        <url>http://www.ohloh.net/analyses/14599124.xml</url>
+        <project_id>19698</project_id>
+        <updated_at>2013-07-12T02:35:12Z</updated_at>
+        <logged_at>2013-07-12T02:34:14Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1395</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gaeunit/analyses/14599124/languages.png">
+          <language color="4A246B" percentage="96" id="9">
+Python          </language>
+          <language color="555555" percentage="4" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

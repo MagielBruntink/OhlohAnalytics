@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>27419</id>
+      <name>Nagiosgraph</name>
+      <url>http://www.ohloh.net/p/nagiosgraph.xml</url>
+      <html_url>http://www.ohloh.net/p/nagiosgraph</html_url>
+      <created_at>2008-12-04T08:18:25Z</created_at>
+      <updated_at>2013-07-02T17:42:32Z</updated_at>
+      <description>Nagiosgraph parses output and performance data from Nagios plugins, stores the data in RRD files, and creates graphs and reports from the data. Graphs and reports can be embedded in Nagios. Easy to setup, highly customizable, and few dependencies.</description>
+      <homepage_url>http://sourceforge.net/projects/nagiosgraph</homepage_url>
+      <download_url></download_url>
+      <url_name>nagiosgraph</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505156</analysis_id>
+      <analysis>
+        <id>14505156</id>
+        <url>http://www.ohloh.net/analyses/14505156.xml</url>
+        <project_id>27419</project_id>
+        <updated_at>2013-07-12T03:31:01Z</updated_at>
+        <logged_at>2013-07-12T03:29:09Z</logged_at>
+        <min_month>2004-08-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>19415</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nagiosgraph/analyses/14505156/languages.png">
+          <language color="D2C690" percentage="83" id="8">
+Perl          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="7" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

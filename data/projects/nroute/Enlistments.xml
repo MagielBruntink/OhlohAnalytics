@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>222407</id>
+      <project_id>325683</project_id>
+      <repository_id>220260</repository_id>
+      <repository>
+        <id>220260</id>
+        <type>SvnRepository</type>
+        <url>https://nroute.svn.codeplex.com/svn/nRoute4/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T07:52:44Z</logged_at>
+        <commits>5</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>222406</id>
+      <project_id>325683</project_id>
+      <repository_id>220259</repository_id>
+      <repository>
+        <id>220259</id>
+        <type>SvnRepository</type>
+        <url>https://nroute.svn.codeplex.com/svn/nRoute4.5/</url>
+        <username>Orktane</username>
+        <password>hpdv9000</password>
+        <logged_at>2013-07-13T07:57:55Z</logged_at>
+        <commits>10</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

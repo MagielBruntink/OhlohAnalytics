@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26867</id>
+      <name>VTE</name>
+      <url>http://www.ohloh.net/p/vte.xml</url>
+      <html_url>http://www.ohloh.net/p/vte</html_url>
+      <created_at>2008-11-20T20:27:25Z</created_at>
+      <updated_at>2013-06-19T22:29:07Z</updated_at>
+      <description>VTE is an embeddable terminal emulation widget. It is what does most of the work for gnome-terminal (gnome-terminal is just a vte widget in a window with a menu bar).
+
+Other applications that use VTE include: ROXTerm, XFCE Terminal, termit, Tilda, Gnome Terminator, osso-xterm, stjerm, LilyTerm, AntiRight, sakura, GTKTerm2, and evilvte.</description>
+      <homepage_url>http://live.gnome.org/VTE</homepage_url>
+      <download_url>http://ftp.gnome.org/pub/GNOME/sources/vte/</download_url>
+      <url_name>vte</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14312344</analysis_id>
+      <tags>
+        <tag>terminal</tag>
+      </tags>
+      <analysis>
+        <id>14312344</id>
+        <url>http://www.ohloh.net/analyses/14312344.xml</url>
+        <project_id>26867</project_id>
+        <updated_at>2013-07-14T19:17:14Z</updated_at>
+        <logged_at>2013-07-14T19:17:11Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>35919</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vte/analyses/14312344/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="000000" percentage="9" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

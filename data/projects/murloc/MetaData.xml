@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484777</id>
+      <name>Murloc</name>
+      <url>http://www.ohloh.net/p/murloc.xml</url>
+      <html_url>http://www.ohloh.net/p/murloc</html_url>
+      <created_at>2010-08-15T07:26:45Z</created_at>
+      <updated_at>2011-05-30T08:08:17Z</updated_at>
+      <description>Murloc is a website parser framework written in PHP. It features a plugin system that allows quick and easy development of new parsers. It provides several functions that are more or less commonly needed by parsers.
+Murloc comes with a bunch of handy plugins.
+
+As it is written in PHP, it should run on pretty much any platform, although some of its features are missing on Microsoft Windows systems.</description>
+      <homepage_url>http://not-a-blog.blogsite.org/2010/02/murloc</homepage_url>
+      <download_url>http://not-a-blog.blogsite.org/2010/02/murloc</download_url>
+      <url_name>murloc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2268070</analysis_id>
+      <tags>
+        <tag>platform-independent</tag>
+        <tag>php</tag>
+        <tag>worldofwarcraft</tag>
+        <tag>arcemu</tag>
+        <tag>arcemudb</tag>
+        <tag>crawler</tag>
+        <tag>bsdlicense</tag>
+        <tag>world-of-warcraft</tag>
+        <tag>arcemudatabase</tag>
+        <tag>parser</tag>
+      </tags>
+      <analysis>
+        <id>2268070</id>
+        <url>http://www.ohloh.net/analyses/2268070.xml</url>
+        <project_id>484777</project_id>
+        <updated_at>2011-06-20T10:20:47Z</updated_at>
+        <logged_at>2011-06-20T10:20:36Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3718</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/murloc/analyses/2268070/languages.png">
+          <language color="356AA0" percentage="99" id="2">
+PHP          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

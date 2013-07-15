@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16072</id>
+      <name>ejson</name>
+      <url>http://www.ohloh.net/p/ejson.xml</url>
+      <html_url>http://www.ohloh.net/p/ejson</html_url>
+      <created_at>2008-08-14T17:40:07Z</created_at>
+      <updated_at>2012-05-22T15:28:29Z</updated_at>
+      <description>EJSON is a simple API for dealing with the JSON format.</description>
+      <homepage_url>http://ejson.origo.ethz.ch/</homepage_url>
+      <download_url>https://svn.origo.ethz.ch/ejson/</download_url>
+      <url_name>ejson</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8218018</analysis_id>
+      <tags>
+        <tag>eiffel</tag>
+      </tags>
+      <analysis>
+        <id>8218018</id>
+        <url>http://www.ohloh.net/analyses/8218018.xml</url>
+        <project_id>16072</project_id>
+        <updated_at>2012-05-30T21:15:00Z</updated_at>
+        <logged_at>2012-05-30T21:14:21Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9006</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ejson/analyses/8218018/languages.png">
+          <language color="EEE" percentage="96" id="60">
+Eiffel          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>60</main_language_id>
+        <main_language_name>Eiffel</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

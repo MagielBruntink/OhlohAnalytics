@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>465330</id>
+      <name>LuaTeX</name>
+      <url>http://www.ohloh.net/p/luatex.xml</url>
+      <html_url>http://www.ohloh.net/p/luatex</html_url>
+      <created_at>2009-10-19T20:24:17Z</created_at>
+      <updated_at>2013-06-23T21:21:11Z</updated_at>
+      <description>LuaTeX is an extended version of pdfTeX using Lua as an embedded scripting language. The LuaTeX projects main objective is to provide an open and configurable variant of TeX while at the same time offering downward compatibility.</description>
+      <homepage_url>http://www.luatex.org/index.html</homepage_url>
+      <download_url>http://www.luatex.org/download.html</download_url>
+      <url_name>luatex</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56845/200px-LuaTeX_logo.svg_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56845/200px-LuaTeX_logo.svg_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12529475</analysis_id>
+      <tags>
+        <tag>lua</tag>
+        <tag>publishing</tag>
+        <tag>text_processing</tag>
+        <tag>pdf</tag>
+        <tag>tex</tag>
+        <tag>mathematics</tag>
+        <tag>typesetting</tag>
+        <tag>typography</tag>
+      </tags>
+      <analysis>
+        <id>12529475</id>
+        <url>http://www.ohloh.net/analyses/12529475.xml</url>
+        <project_id>465330</project_id>
+        <updated_at>2013-02-08T16:32:20Z</updated_at>
+        <logged_at>2013-02-08T16:31:46Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>1018363</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/luatex/analyses/12529475/languages.png">
+          <language color="FF8F00" percentage="49" id="42">
+C          </language>
+          <language color="EEE" percentage="25" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="10" id="44">
+C++          </language>
+          <language color="000000" percentage="16" id="">
+23 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

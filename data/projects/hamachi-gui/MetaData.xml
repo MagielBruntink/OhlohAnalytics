@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10819</id>
+      <name>hamachi-gui</name>
+      <url>http://www.ohloh.net/p/hamachi-gui.xml</url>
+      <html_url>http://www.ohloh.net/p/hamachi-gui</html_url>
+      <created_at>2008-01-08T17:14:47Z</created_at>
+      <updated_at>2012-02-22T19:22:49Z</updated_at>
+      <description>Hamachi-gui is a graphical user interface (GUI) for the zero configuration VPN client Hamachi.
+
+The official client for linux has only a command line interface, hamachi-gui provides a user friendly GUI with comparable features.</description>
+      <homepage_url>http://hamachi-gui.sourceforge.net/</homepage_url>
+      <download_url>http://hamachi-gui.sourceforge.net/download.html</download_url>
+      <url_name>hamachi-gui</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3474563</analysis_id>
+      <tags>
+        <tag>gnome</tag>
+        <tag>vpn</tag>
+        <tag>c</tag>
+        <tag>gui</tag>
+        <tag>gtk</tag>
+        <tag>hamachi</tag>
+        <tag>frontend</tag>
+      </tags>
+      <analysis>
+        <id>3474563</id>
+        <url>http://www.ohloh.net/analyses/3474563.xml</url>
+        <project_id>10819</project_id>
+        <updated_at>2011-09-10T10:23:39Z</updated_at>
+        <logged_at>2011-09-10T10:23:35Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7219</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hamachi-gui/analyses/3474563/languages.png">
+          <language color="FF8F00" percentage="82" id="42">
+C          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

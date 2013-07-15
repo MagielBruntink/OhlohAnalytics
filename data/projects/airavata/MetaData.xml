@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588866</id>
+      <name>Apache Airavata</name>
+      <url>http://www.ohloh.net/p/airavata.xml</url>
+      <html_url>http://www.ohloh.net/p/airavata</html_url>
+      <created_at>2012-02-03T21:40:05Z</created_at>
+      <updated_at>2013-07-12T07:18:55Z</updated_at>
+      <description>Apache Airavata is a software toolkit currently used to build science gateways but that has a much wider potential use. It provides features to compose, manage, execute, and monitor small to large scale applications and workflows on computational resources ranging from local clusters to national grids and computing clouds. Gadgets interfaces to Airavata back end services can be deployed in open social containers such as Apache Rave and modify them to suit their needs. Airavata builds on general concepts of service oriented computing, distributed messaging, and workflow composition and orchestration.</description>
+      <homepage_url>http://airavata.org/</homepage_url>
+      <download_url>http://incubator.apache.org/airavata/development/source.html</download_url>
+      <url_name>airavata</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50591/airavata-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50591/airavata-logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14602459</analysis_id>
+      <tags>
+        <tag>clustercomputing</tag>
+        <tag>workflow</tag>
+        <tag>highperformancecomputing</tag>
+        <tag>apache</tag>
+        <tag>bigdata</tag>
+        <tag>distributed_computing</tag>
+      </tags>
+      <analysis>
+        <id>14602459</id>
+        <url>http://www.ohloh.net/analyses/14602459.xml</url>
+        <project_id>588866</project_id>
+        <updated_at>2013-07-12T07:18:55Z</updated_at>
+        <logged_at>2013-07-12T07:11:13Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>136720</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/airavata/analyses/14602459/languages.png">
+          <language color="9A63AD" percentage="84" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

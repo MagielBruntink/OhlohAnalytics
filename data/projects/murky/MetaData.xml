@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481163</id>
+      <name>Murky</name>
+      <url>http://www.ohloh.net/p/murky.xml</url>
+      <html_url>http://www.ohloh.net/p/murky</html_url>
+      <created_at>2010-02-16T10:30:40Z</created_at>
+      <updated_at>2013-07-06T21:58:39Z</updated_at>
+      <description>Murky is a GUI client app for the Mercurial distributed version-control system. It lets you manage repositories and source files without using a command-line.
+
+Murky runs on Mac OS X 10.5 or later. It's written in Objective-C 2.0. It's released under a BSD license.</description>
+      <homepage_url>http://bitbucket.org/snej/murky/wiki/Home</homepage_url>
+      <download_url>http://bitbucket.org/snej/murky/downloads/</download_url>
+      <url_name>murky</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14555993</analysis_id>
+      <tags>
+        <tag>mercurial</tag>
+        <tag>hg</tag>
+        <tag>gui</tag>
+      </tags>
+      <analysis>
+        <id>14555993</id>
+        <url>http://www.ohloh.net/analyses/14555993.xml</url>
+        <project_id>481163</project_id>
+        <updated_at>2013-07-06T21:58:39Z</updated_at>
+        <logged_at>2013-07-06T21:58:27Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>22216</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/murky/analyses/14555993/languages.png">
+          <language color="555555" percentage="58" id="3">
+XML          </language>
+          <language color="C7932C" percentage="24" id="16">
+Objective-C          </language>
+          <language color="F35F1F" percentage="12" id="44">
+C++          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

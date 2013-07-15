@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>1646</id>
+      <name>Gluster</name>
+      <url>http://www.ohloh.net/p/gluster.xml</url>
+      <html_url>http://www.ohloh.net/p/gluster</html_url>
+      <created_at>2006-10-12T03:08:11Z</created_at>
+      <updated_at>2013-07-13T01:40:53Z</updated_at>
+      <description>GlusterFS is a free software parallel distributed file system, capable of scaling to several petabyte.
+GlusterFS is a powerful network/cluster filesystem. GlusterFS package comes with two components, a server and a client. The storage server (or each in a cluster) runs glusterfsd and the clients use mount command or glusterfs client to mount the exported filesystem. Storage can be kept scaling beyond petabytes as demand increases.
+To mount GlusterFS file systems, the client computers need FUSE support in the kernel. Servers can run on any node, without any extra prerequisites. As of date, GlusterFS server is tested on Linux, FreeBSD and Opensolaris, and client runs on only Linux machines.
+GlusterFS is one of the few projects which supports both TCP/IP and InfiniBand VAPI/Verbs transport.</description>
+      <homepage_url>http://savannah.nongnu.org/projects/gluster/</homepage_url>
+      <download_url></download_url>
+      <url_name>gluster</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14612875</analysis_id>
+      <tags>
+        <tag>filesystem</tag>
+        <tag>clustering</tag>
+        <tag>cloud_computing</tag>
+        <tag>cloudcomputing</tag>
+        <tag>shell_script</tag>
+        <tag>c++</tag>
+        <tag>python</tag>
+        <tag>cloud</tag>
+        <tag>cloudstorage</tag>
+        <tag>storageengine</tag>
+        <tag>clusters</tag>
+        <tag>filesystems</tag>
+      </tags>
+      <analysis>
+        <id>14612875</id>
+        <url>http://www.ohloh.net/analyses/14612875.xml</url>
+        <project_id>1646</project_id>
+        <updated_at>2013-07-13T01:40:53Z</updated_at>
+        <logged_at>2013-07-13T01:40:26Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>206562</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gluster/analyses/14612875/languages.png">
+          <language color="FF8F00" percentage="97" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

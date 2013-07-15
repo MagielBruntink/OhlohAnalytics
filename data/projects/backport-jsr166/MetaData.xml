@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12279</id>
+      <name>backport-util-concurrent</name>
+      <url>http://www.ohloh.net/p/backport-jsr166.xml</url>
+      <html_url>http://www.ohloh.net/p/backport-jsr166</html_url>
+      <created_at>2008-02-26T01:00:41Z</created_at>
+      <updated_at>2012-02-22T19:26:36Z</updated_at>
+      <description>Backport of JSR-166 java.util.concurrent API, first introduced in Java 5.0, to Java 1.4 and other releases. Based in most part on public-domain sources from JSR 166, and the dl.util.concurrent package.</description>
+      <homepage_url>http://backport-jsr166.sourceforge.net/</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=153802&amp;package_id=170644</download_url>
+      <url_name>backport-jsr166</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1779234</analysis_id>
+      <analysis>
+        <id>1779234</id>
+        <url>http://www.ohloh.net/analyses/1779234.xml</url>
+        <project_id>12279</project_id>
+        <updated_at>2011-03-17T07:46:36Z</updated_at>
+        <logged_at>2010-04-02T10:48:32Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2008-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>366565</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/backport-jsr166/analyses/1779234/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

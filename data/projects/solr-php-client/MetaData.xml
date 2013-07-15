@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>309527</id>
+      <name>solr-php-client</name>
+      <url>http://www.ohloh.net/p/solr-php-client.xml</url>
+      <html_url>http://www.ohloh.net/p/solr-php-client</html_url>
+      <created_at>2009-02-06T03:15:55Z</created_at>
+      <updated_at>2013-06-21T21:59:01Z</updated_at>
+      <description>A PHP library for indexing and searching documents within an Apache Solr installation.   
+
+What is Apache Solr?Solr is an open source enterprise search server based on the Lucene Java search library, with XML/HTTP and JSON APIs, hit highlighting, faceted search, caching, replication, a web administration interface and many more features. It runs in a Java servlet container such as Tomcat. 
+For more information about Solr, please see the Solr Web Page . The project's Wiki is the de facto starting point for information on how to install and configure Solr for your individual needs 
+
+This client library was originally hosted in Solr's issue tracker: https://issues.apache.org/jira/browse/SOLR-341 
+
+Further InformationPlease see Frequently Asked Questions 
+
+Or, if you have usage questions, try posting to the USER DISCUSSION GROUP. 
+
+DisclaimerThis PHP library is not part of the Apache Solr project, nor is it maintained by the Apache Software Foundation. All linked Apache Solr documentation or logos remain the sole property of the Apache Solr project, its authors, and the Apache Software Foundation.</description>
+      <homepage_url>http://code.google.com/p/solr-php-client</homepage_url>
+      <download_url></download_url>
+      <url_name>solr-php-client</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14331402</analysis_id>
+      <tags>
+        <tag>search</tag>
+        <tag>php</tag>
+        <tag>solr</tag>
+      </tags>
+      <analysis>
+        <id>14331402</id>
+        <url>http://www.ohloh.net/analyses/14331402.xml</url>
+        <project_id>309527</project_id>
+        <updated_at>2013-07-13T05:48:17Z</updated_at>
+        <logged_at>2013-07-13T05:48:14Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3107</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/solr-php-client/analyses/14331402/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

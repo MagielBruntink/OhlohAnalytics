@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7108</id>
+      <name>footprint</name>
+      <url>http://www.ohloh.net/p/footprint.xml</url>
+      <html_url>http://www.ohloh.net/p/footprint</html_url>
+      <created_at>2007-08-03T17:36:45Z</created_at>
+      <updated_at>2012-04-20T18:46:16Z</updated_at>
+      <description>Our goal is to produce a set of tools for generating signed PDF documents. The tools were originally planned to generate certificates for JUG events, but can be used to create other parameterized documents.</description>
+      <homepage_url>https://footprint.dev.java.net/</homepage_url>
+      <download_url>https://footprint.dev.java.net/</download_url>
+      <url_name>footprint</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11572/foot_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11572/foot_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7740361</analysis_id>
+      <tags>
+        <tag>community</tag>
+        <tag>pdf</tag>
+        <tag>certificates</tag>
+        <tag>jug</tag>
+        <tag>lgpl</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>7740361</id>
+        <url>http://www.ohloh.net/analyses/7740361.xml</url>
+        <project_id>7108</project_id>
+        <updated_at>2012-05-04T01:24:33Z</updated_at>
+        <logged_at>2012-05-04T01:24:29Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10635</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/footprint/analyses/7740361/languages.png">
+          <language color="9A63AD" percentage="44" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="556655" percentage="13" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="26" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

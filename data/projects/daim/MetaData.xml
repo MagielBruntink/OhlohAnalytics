@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>1423</id>
+      <name>daim</name>
+      <url>http://www.ohloh.net/p/daim.xml</url>
+      <html_url>http://www.ohloh.net/p/daim</html_url>
+      <created_at>2006-10-12T02:32:44Z</created_at>
+      <updated_at>2013-01-12T03:05:07Z</updated_at>
+      <description>Message from the owner(s)
+   Welcome!
+
+Joining the daim project is encouraged. We are especially looking for Swing developers. Knowledge of the AIM/ICQ protocol is not necessary.
+
+NOTE: If you are considering joining the daim project as a Developer, please contact me by email first with your previous Java experience and hopefully a patch (diff -u) of some significant addition you've made to the daim source code. This will help me to approve your request.
+
+Supported Features
+
+daim already supports many features, including Add-Ins, AIM Proxy, Buddy Icon, Chat, Direct IM, File Transfer, File Sharing, Send Buddy List and Trillian SecureIM. daim also supports retrieving News and Stocks.  daim tries to support as many features as possible from WinAIM 5.2.
+
+Scripting Support
+
+daim supports scripting through Apache BSF. Sample Jython scripts can be found in the script/ directory in CVS, but any language supported by BSF is supported by daim, including JavaScript and Tcl (among others).
+
+ICQ Support
+
+You may log in using your ICQ UIN and password using daim. daim has full support for the non-TCP portion of the ICQ protocol up to ICQ 2003a.
+
+iChat Support
+
+In addition to ICQ, daim can emulate Apple's iChat client, and daim supports iChat available messages as well.
+
+Features In Progress
+
+Features currently in progress include AIM 5.2 SecureIM (PKCS12) and ICQ TCP (Chat, Filetransfer).
+
+Graphical User Interface (GUI)
+
+A graphical user interface (GUI) for daim is in early development. Currently, the GUI only supports normal Instant Messaging and some Buddy List functionality. The features listed above as supported refer only to the library portion of daim. Most features have not yet been implemented in the Swing client. As soon as someone has created the GUI components for various protocol features, they can be added to the existing client quite easily.
+
+Other Uses
+
+It would be interesting to see daim used in other ways besides as a backend to a GUI, such as using daim as a Jabber transport.
+
+Building daim
+
+To build daim, the following jars should be added to your CLASSPATH (Linux users should instead use the appropriate package management tool for their distribution, e.g. JPackage):
+
+
+ant.jar
+bsf.jar
+checkstyle-all.jar
+junit.jar
+log4j.jar
+xerces-j2.jar
+bouncycastle prov and mail packages for your jdk
+
+
+bouncycastle 1.4: bcmail, bcprov
+bouncycastle 1.3: bcmail, bcprov
+
+
+You may then build daim using the ant build tool.
+
+Contacting Us
+
+Feel free to email any questions or comments to me, walluck at dev.java.net. See Description for any news.
+
+(August 13, 2008) This project has been reviewed and archived because it has seen no activity in the last 6 months. If you disagree with this assessment, please contact me at auditor@dev.java.net. If the project has been abandoned and you are interested in taking ownership, please contact the community manager at communitymanager.dev.java.net. Archived projects can be moved back to current status (and into their original communities) if activity resumes in the project. - Sonya Barry, java.net Staff Engineer</description>
+      <homepage_url>https://daim.dev.java.net</homepage_url>
+      <download_url></download_url>
+      <url_name>daim</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1760995</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>messaging</tag>
+        <tag>chat</tag>
+      </tags>
+      <analysis>
+        <id>1760995</id>
+        <url>http://www.ohloh.net/analyses/1760995.xml</url>
+        <project_id>1423</project_id>
+        <updated_at>2011-03-09T21:07:29Z</updated_at>
+        <logged_at>2011-03-02T02:19:35Z</logged_at>
+        <min_month>2003-06-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>28537</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/daim/analyses/1760995/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

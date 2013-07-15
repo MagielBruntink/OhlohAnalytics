@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605293</id>
+      <name>werecycle</name>
+      <url>http://www.ohloh.net/p/werecycle.xml</url>
+      <html_url>http://www.ohloh.net/p/werecycle</html_url>
+      <created_at>2012-09-17T14:44:47Z</created_at>
+      <updated_at>2013-07-13T04:06:20Z</updated_at>
+      <description>app for finding various recycling points in a given location</description>
+      <homepage_url>http://www.recyclefinder.co.uk</homepage_url>
+      <download_url></download_url>
+      <url_name>werecycle</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56962/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56962/logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14614628</analysis_id>
+      <analysis>
+        <id>14614628</id>
+        <url>http://www.ohloh.net/analyses/14614628.xml</url>
+        <project_id>605293</project_id>
+        <updated_at>2013-07-13T04:06:20Z</updated_at>
+        <logged_at>2013-07-13T04:06:08Z</logged_at>
+        <min_month>2012-09-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>31786</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/werecycle/analyses/14614628/languages.png">
+          <language color="356AA0" percentage="82" id="2">
+PHP          </language>
+          <language color="9A63AD" percentage="7" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

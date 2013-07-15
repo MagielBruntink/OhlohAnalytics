@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596296</id>
+      <name>PRoot</name>
+      <url>http://www.ohloh.net/p/proot.xml</url>
+      <html_url>http://www.ohloh.net/p/proot</html_url>
+      <created_at>2012-03-14T16:07:30Z</created_at>
+      <updated_at>2013-07-13T17:54:04Z</updated_at>
+      <description>PRoot is a user-space implementation of &quot;chroot&quot;, &quot;mount --bind&quot;, and &quot;binfmt_misc&quot;.  This means that users don't need any privilege or setup to do things like: using an arbitrary directory as the new root filesystem, making files accessible somewhere else in the filesystem hierarchy, or executing programs built for another CPU architecture transparently through QEMU user-mode.  Also, developers can add their own features or use PRoot as a Linux process instrumentation engine thanks to its extension mechanism.  Technically PRoot relies on &quot;ptrace&quot;, an unprivileged system-call available in every Linux kernel.</description>
+      <homepage_url>http://proot.me</homepage_url>
+      <download_url>http://proot.me/#download</download_url>
+      <url_name>proot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14572577</analysis_id>
+      <tags>
+        <tag>instrumentation</tag>
+        <tag>rootfs</tag>
+        <tag>mount_bind</tag>
+        <tag>filesystem</tag>
+        <tag>binfmt_misc</tag>
+        <tag>linux</tag>
+        <tag>chroot</tag>
+        <tag>mount</tag>
+        <tag>cross_compilers</tag>
+        <tag>qemu</tag>
+        <tag>permission</tag>
+        <tag>fake</tag>
+        <tag>root</tag>
+        <tag>ptrace</tag>
+        <tag>process</tag>
+      </tags>
+      <analysis>
+        <id>14572577</id>
+        <url>http://www.ohloh.net/analyses/14572577.xml</url>
+        <project_id>596296</project_id>
+        <updated_at>2013-07-09T13:36:29Z</updated_at>
+        <logged_at>2013-07-09T13:27:56Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>11962</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/proot/analyses/14572577/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

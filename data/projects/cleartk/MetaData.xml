@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>112050</id>
+      <name>ClearTK</name>
+      <url>http://www.ohloh.net/p/cleartk.xml</url>
+      <html_url>http://www.ohloh.net/p/cleartk</html_url>
+      <created_at>2008-12-27T22:00:21Z</created_at>
+      <updated_at>2013-06-11T12:40:01Z</updated_at>
+      <description>ClearTK is a toolkit developed at the Center for Computational Language and Education Research (CLEAR) at the University of Colorado at Boulder.  ClearTK provides a framework for developing statistical natural language processing components in Java. It is based on the Apache UIMA framework for text analysis, and provides: 
+
+A rich feature extraction library A common interface and wrappers for popular machine learning libraries based on models such as maximum entropy, support vector machines and conditional random fields. Infrastructure for creating NLP components such as sequential taggers, chunkers, syntactic parsers, semantic role labeling, temporal resolution, etc. Collection readers for commonly used corpora wrappers for common NLP components such as the Snowball stemmer and OpenNLP sy</description>
+      <homepage_url>http://code.google.com/p/cleartk</homepage_url>
+      <download_url></download_url>
+      <url_name>cleartk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14228599</analysis_id>
+      <tags>
+        <tag>machine</tag>
+        <tag>learning</tag>
+        <tag>svmlight</tag>
+        <tag>framework</tag>
+        <tag>opennlp</tag>
+        <tag>natural</tag>
+        <tag>java</tag>
+        <tag>uima</tag>
+        <tag>processing</tag>
+        <tag>mallet</tag>
+        <tag>analysis</tag>
+        <tag>language</tag>
+        <tag>libsvm</tag>
+      </tags>
+      <analysis>
+        <id>14228599</id>
+        <url>http://www.ohloh.net/analyses/14228599.xml</url>
+        <project_id>112050</project_id>
+        <updated_at>2013-07-07T04:47:47Z</updated_at>
+        <logged_at>2013-07-07T04:47:45Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>933644</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cleartk/analyses/14228599/languages.png">
+          <language color="555555" percentage="77" id="3">
+XML          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="6" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

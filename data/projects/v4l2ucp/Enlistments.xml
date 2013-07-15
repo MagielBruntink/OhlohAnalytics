@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>110847</id>
+      <project_id>270703</project_id>
+      <repository_id>109002</repository_id>
+      <repository>
+        <id>109002</id>
+        <type>GitRepository</type>
+        <url>git://v4l2ucp.git.sourceforge.net/gitroot/v4l2ucp/v4l2ucp</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T03:48:28Z</logged_at>
+        <commits>39</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>222721</id>
+      <project_id>270703</project_id>
+      <repository_id>220571</repository_id>
+      <repository>
+        <id>220571</id>
+        <type>BzrRepository</type>
+        <url>https://code.launchpad.net/~ubuntu-branches/ubuntu/maverick/v4l2ucp/maverick</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T14:12:55Z</logged_at>
+        <commits>17</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

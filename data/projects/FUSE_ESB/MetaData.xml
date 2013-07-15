@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14707</id>
+      <name>FUSE ESB (enterprise ServiceMix)</name>
+      <url>http://www.ohloh.net/p/FUSE_ESB.xml</url>
+      <html_url>http://www.ohloh.net/p/FUSE_ESB</html_url>
+      <created_at>2008-06-05T17:57:47Z</created_at>
+      <updated_at>2013-07-05T23:43:57Z</updated_at>
+      <description>FUSE ESB is an open source, enterprise version of Apache ServiceMix. This enterprise release is tested, certified and supported.
+
+FUSE ESB is an open source enterprise service bus (ESB) that provides a standardized methodology, server, and tools to deploy integration components, freeing architects from the dependencies that have traditionally locked enterprises into proprietary middleware stacks. 
+
+Built from the ground up to support the JBI specification (JSR 208), FUSE ESB provides a structured environment to manage and deploy the components that developers create using FUSE Services Framework and FUSE Mediation Router, as well as additional JBI-compliant components like BPEL. FUSE ESB uses FUSE Message Broker as its underlying messaging infrastructure.</description>
+      <homepage_url>http://open.iona.com/products/enterprise-servicemix/</homepage_url>
+      <download_url>http://open.iona.com/products/enterprise-servicemix/#download</download_url>
+      <url_name>FUSE_ESB</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14543925</analysis_id>
+      <tags>
+        <tag>bus</tag>
+        <tag>middleware</tag>
+        <tag>framework</tag>
+        <tag>apache</tag>
+        <tag>esb</tag>
+        <tag>servicemix</tag>
+        <tag>jbi</tag>
+        <tag>enterprise</tag>
+        <tag>java</tag>
+        <tag>soa</tag>
+        <tag>xml</tag>
+        <tag>service</tag>
+      </tags>
+      <analysis>
+        <id>14543925</id>
+        <url>http://www.ohloh.net/analyses/14543925.xml</url>
+        <project_id>14707</project_id>
+        <updated_at>2013-07-05T23:43:56Z</updated_at>
+        <logged_at>2013-07-05T23:40:21Z</logged_at>
+        <min_month>2011-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>28</twelve_month_contributor_count>
+        <total_code_lines>274514</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/FUSE_ESB/analyses/14543925/languages.png">
+          <language color="9A63AD" percentage="38" id="5">
+Java          </language>
+          <language color="A4007E" percentage="30" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="20" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

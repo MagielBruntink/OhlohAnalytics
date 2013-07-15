@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>459555</id>
+      <name>grsecurity</name>
+      <url>http://www.ohloh.net/p/grsecurity.xml</url>
+      <html_url>http://www.ohloh.net/p/grsecurity</html_url>
+      <created_at>2009-10-05T12:04:08Z</created_at>
+      <updated_at>2013-03-27T04:54:09Z</updated_at>
+      <description>grsecurity is an innovative approach to security utilizing a multi-layered detection, prevention, and containment model</description>
+      <homepage_url>http://www.grsecurity.net/</homepage_url>
+      <download_url>http://www.grsecurity.net/download.php</download_url>
+      <url_name>grsecurity</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13233496</analysis_id>
+      <tags>
+        <tag>hardening</tag>
+        <tag>selinux</tag>
+        <tag>security</tag>
+        <tag>rbacqwe</tag>
+        <tag>kernel</tag>
+        <tag>rbac</tag>
+        <tag>grsecurity</tag>
+      </tags>
+      <analysis>
+        <id>13233496</id>
+        <url>http://www.ohloh.net/analyses/13233496.xml</url>
+        <project_id>459555</project_id>
+        <updated_at>2013-04-06T21:26:12Z</updated_at>
+        <logged_at>2013-04-06T21:26:09Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8418</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grsecurity/analyses/13233496/languages.png">
+          <language color="FF8F00" percentage="99" id="42">
+C          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
