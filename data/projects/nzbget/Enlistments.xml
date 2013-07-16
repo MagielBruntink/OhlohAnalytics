@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>53913</id>
+      <project_id>99833</project_id>
+      <repository_id>52516</repository_id>
+      <repository>
+        <id>52516</id>
+        <type>SvnRepository</type>
+        <url>https://nzbget.svn.sourceforge.net/svnroot/nzbget/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T00:27:12Z</logged_at>
+        <commits>666</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>53916</id>
+      <project_id>99833</project_id>
+      <repository_id>52519</repository_id>
+      <repository>
+        <id>52519</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@nzbget.cvs.sourceforge.net:/cvsroot/nzbget</url>
+        <module_name>nzbget</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-06T00:27:13Z</logged_at>
+        <commits>98</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

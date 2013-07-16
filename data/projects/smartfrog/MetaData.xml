@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5150</id>
+      <name>SmartFrog</name>
+      <url>http://www.ohloh.net/p/smartfrog.xml</url>
+      <html_url>http://www.ohloh.net/p/smartfrog</html_url>
+      <created_at>2007-05-08T09:08:16Z</created_at>
+      <updated_at>2013-06-26T23:24:39Z</updated_at>
+      <description>SmartFrog is a distributed deployment system. It allows developers, architects and operations teams to describe the deployment of different parts (&quot;components&quot;) of a server-side configuration, then take this description and deploy it across multiple servers. Every host runs a small SmartFrog daemon which can deploy and manage part of the overall distributed system.
+
+Deployed components (and systems built from them) can be started, stopped and &quot;pinged&quot; for health...some components can apply failure handling and workflow to deployments, enabling the &quot;deployment descriptor&quot; to even include failure handling logic&quot;
+
+SmartFrog was developed at HP Labs in Bristol, in the UK.</description>
+      <homepage_url>http://smartfrog.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>smartfrog</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14424832</analysis_id>
+      <tags>
+        <tag>grid</tag>
+        <tag>sysadmin</tag>
+        <tag>tomcat</tag>
+        <tag>testing</tag>
+        <tag>netbeans</tag>
+        <tag>automation</tag>
+        <tag>ivy</tag>
+        <tag>eclipse</tag>
+        <tag>tools</tag>
+        <tag>ant</tag>
+        <tag>java</tag>
+        <tag>deployment</tag>
+        <tag>dsl</tag>
+        <tag>jboss</tag>
+        <tag>rmi</tag>
+        <tag>development</tag>
+        <tag>junit</tag>
+        <tag>smartfrog</tag>
+        <tag>jetty</tag>
+        <tag>configuration</tag>
+      </tags>
+      <analysis>
+        <id>14424832</id>
+        <url>http://www.ohloh.net/analyses/14424832.xml</url>
+        <project_id>5150</project_id>
+        <updated_at>2013-07-15T18:35:11Z</updated_at>
+        <logged_at>2013-07-15T18:35:07Z</logged_at>
+        <min_month>2003-09-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1152925</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/smartfrog/analyses/14424832/languages.png">
+          <language color="47A400" percentage="50" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="16" id="5">
+Java          </language>
+          <language color="FF8F00" percentage="13" id="42">
+C          </language>
+          <language color="000000" percentage="21" id="">
+20 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>223153</id>
+      <project_id>382434</project_id>
+      <repository_id>220995</repository_id>
+      <repository>
+        <id>220995</id>
+        <type>SvnSyncRepository</type>
+        <url>http://evedev-kb.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T11:32:44Z</logged_at>
+        <commits>1332</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>464593</id>
+      <project_id>382434</project_id>
+      <repository_id>461328</repository_id>
+      <repository>
+        <id>461328</id>
+        <type>GitRepository</type>
+        <url>https://code.google.com/p/evedev-kb</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-09T10:36:56Z</logged_at>
+        <commits>1816</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

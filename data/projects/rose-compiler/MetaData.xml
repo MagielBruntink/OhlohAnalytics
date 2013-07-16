@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633127</id>
+      <name>ROSE Compiler</name>
+      <url>http://www.ohloh.net/p/rose-compiler.xml</url>
+      <html_url>http://www.ohloh.net/p/rose-compiler</html_url>
+      <created_at>2013-02-06T22:29:01Z</created_at>
+      <updated_at>2013-07-12T12:24:29Z</updated_at>
+      <description>A compiler infrastructure to build source-to-source program transformation and analysis tools.</description>
+      <homepage_url>http://www.rosecompiler.org/</homepage_url>
+      <download_url>http://rosecompiler.org/?page_id=14</download_url>
+      <url_name>rose-compiler</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14605750</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>c++98</tag>
+        <tag>c89</tag>
+        <tag>fortran952003</tag>
+        <tag>fortran95</tag>
+        <tag>c</tag>
+        <tag>program_transformation</tag>
+        <tag>program_analysis</tag>
+        <tag>compilers</tag>
+        <tag>c++</tag>
+        <tag>compiler</tag>
+        <tag>compiler_construction</tag>
+        <tag>source_to_source</tag>
+        <tag>fortran</tag>
+        <tag>fortran77</tag>
+        <tag>fortran2003</tag>
+        <tag>c98</tag>
+        <tag>openmp</tag>
+        <tag>java</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>14605750</id>
+        <url>http://www.ohloh.net/analyses/14605750.xml</url>
+        <project_id>633127</project_id>
+        <updated_at>2013-07-12T12:24:29Z</updated_at>
+        <logged_at>2013-07-12T11:56:05Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>3283850</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rose-compiler/analyses/14605750/languages.png">
+          <language color="F35F1F" percentage="54" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="21" id="42">
+C          </language>
+          <language color="EEE" percentage="7" id="41">
+Fortran (Free-format)          </language>
+          <language color="000000" percentage="18" id="">
+32 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

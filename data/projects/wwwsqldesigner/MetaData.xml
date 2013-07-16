@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>44812</id>
+      <name>wwwsqldesigner</name>
+      <url>http://www.ohloh.net/p/wwwsqldesigner.xml</url>
+      <html_url>http://www.ohloh.net/p/wwwsqldesigner</html_url>
+      <created_at>2008-12-15T20:25:06Z</created_at>
+      <updated_at>2013-06-19T18:21:00Z</updated_at>
+      <description>WWW SQL Designer allows users to create database designs, which can be saved/loaded and exported to SQL scripts. Various databases and languages are supported. Ability to import existing database design. 
+
+AboutHi and welcome to WWW SQL Designer! This tool allows you to draw and create database schemas (E-R diagrams) directly in browser, without the need for any external programs (flash). You only need JavaScript enabled. The Designer works perfectly in Mozillas (Firefox, Seamonkey), Internet Explorers (6, 7, 8), Safari and Operas. Konqueror works, but the experience is limited. 
+
+Many database features are supported, such as keys, foreign key constraints, comments and indexes. You can either save your design (for further loading &amp; modifications), print it or export as SQL script. It is possible to retrieve (import) schema from existing database. 
+
+WWW SQL Designer was created by Ondrej Zara and is built atop the oz.js JavaScript module. It is distributed under New BSD license. 
+
+If you wish to support this project,  at PayPal! 
+
+NewsNew releaseVersion 2.4 was released on 5.11.2009. Several outstanding issues were fixed and new locales added. 
+
+ReleaseVersion 2.3.3 was released on 28.7.2009. This long-awaited release includes numerous fixes, compatibility improvements, new locales, backends and DB datatypes. 
+
+ReleaseVersion 2.3.2 was released on 8.1.2009. Apart from some traditional bugfixes and locales, a new functionality is introduced - the ability to mark foregin keys between existing table fields! 
+
+Google CodeThe project was recently moved to Google Code hosting, which (amongst many other things) introduces Subversion hosting. Enjoy! (The old website, http://ondras.zarovi.cz/sql/, will still exist for some time.) 
+
+2.0 is hereGood news: A new version of WWW SQL Designer, rewritten from scratch, is now available. I has many new features, including bezier connectors, support for various customizations, localization, options and more. 
+
+Bad news: This new version is not backwards compatible with 1.x, so all old localizations and XSLT templates won't work with 2.x. Sorry for inconvenience :/</description>
+      <homepage_url>http://code.google.com/p/wwwsqldesigner</homepage_url>
+      <download_url></download_url>
+      <url_name>wwwsqldesigner</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14311518</analysis_id>
+      <tags>
+        <tag>modelling</tag>
+        <tag>web</tag>
+        <tag>xslt</tag>
+        <tag>database</tag>
+        <tag>vml</tag>
+        <tag>javascript</tag>
+        <tag>entity-relationship</tag>
+        <tag>e-r</tag>
+        <tag>sql</tag>
+        <tag>svg</tag>
+        <tag>diagram</tag>
+        <tag>www</tag>
+        <tag>dba</tag>
+      </tags>
+      <analysis>
+        <id>14311518</id>
+        <url>http://www.ohloh.net/analyses/14311518.xml</url>
+        <project_id>44812</project_id>
+        <updated_at>2013-07-12T04:39:33Z</updated_at>
+        <logged_at>2013-07-12T04:39:31Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>7988</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wwwsqldesigner/analyses/14311518/languages.png">
+          <language color="A4007E" percentage="33" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="22" id="2">
+PHP          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="23" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

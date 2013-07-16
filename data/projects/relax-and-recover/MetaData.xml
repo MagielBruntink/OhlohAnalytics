@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>42277</id>
+      <name>Relax-and-Recover</name>
+      <url>http://www.ohloh.net/p/relax-and-recover.xml</url>
+      <html_url>http://www.ohloh.net/p/relax-and-recover</html_url>
+      <created_at>2008-12-15T05:46:01Z</created_at>
+      <updated_at>2013-07-09T19:33:00Z</updated_at>
+      <description>Relax-and-Recover is the leading Open Source disaster recovery and system migration solution, and successor to mkcdrec. It comprises of a modular framework and ready-to-go workflows for many common situations to produce a bootable image and restore from backup using this image. As a benefit, it  allows to restore to different hardware and can therefore be used as a migration tool as well.
+
+Currently Relax-and-Recover supports various boot media (incl. ISO, PXE, OBDR tape, USB or eSATA storage), a variety of network protocols as well as a multitude of backup strategies.</description>
+      <homepage_url>http://relax-and-recover.org/</homepage_url>
+      <download_url>http://relax-and-recover.org/download/</download_url>
+      <url_name>relax-and-recover</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54446/barretr_Lifesaver_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54446/barretr_Lifesaver_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574632</analysis_id>
+      <tags>
+        <tag>rescue</tag>
+        <tag>migration</tag>
+        <tag>disaster</tag>
+        <tag>linux</tag>
+        <tag>recovery</tag>
+        <tag>imaging</tag>
+        <tag>disaster_recovery</tag>
+        <tag>rear</tag>
+        <tag>backup</tag>
+        <tag>bare_metal</tag>
+        <tag>enterprise</tag>
+        <tag>recover</tag>
+        <tag>datalossprevention</tag>
+      </tags>
+      <analysis>
+        <id>14574632</id>
+        <url>http://www.ohloh.net/analyses/14574632.xml</url>
+        <project_id>42277</project_id>
+        <updated_at>2013-07-09T19:32:59Z</updated_at>
+        <logged_at>2013-07-09T19:17:13Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>10480</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/relax-and-recover/analyses/14574632/languages.png">
+          <language color="777777" percentage="97" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

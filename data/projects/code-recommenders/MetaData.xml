@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479848</id>
+      <name>Eclipse Code Recommenders</name>
+      <url>http://www.ohloh.net/p/code-recommenders.xml</url>
+      <html_url>http://www.ohloh.net/p/code-recommenders</html_url>
+      <created_at>2009-12-12T23:12:10Z</created_at>
+      <updated_at>2013-07-08T10:13:21Z</updated_at>
+      <description>Eclipse Code Recommenders is an extension of the Eclipse IDE that provides advanced features like 
+
+* intelligent code completion, 
+* extended (mined) API documenation, 
+* dynamic &amp; intelligen code patterns, and
+* an integrated Example Code recommender (in the near future).
+
+Visit the project homepage for detailed description of these features.</description>
+      <homepage_url>http://eclipse.org/recommenders</homepage_url>
+      <download_url>http://eclipse.org/recommenders/downloads/</download_url>
+      <url_name>code-recommenders</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14568907</analysis_id>
+      <analysis>
+        <id>14568907</id>
+        <url>http://www.ohloh.net/analyses/14568907.xml</url>
+        <project_id>479848</project_id>
+        <updated_at>2013-07-08T10:13:20Z</updated_at>
+        <logged_at>2013-07-08T06:40:36Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>111424</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/code-recommenders/analyses/14568907/languages.png">
+          <language color="555555" percentage="56" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="41" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

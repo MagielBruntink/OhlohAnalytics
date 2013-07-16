@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7430</id>
+      <name>hildon</name>
+      <url>http://www.ohloh.net/p/hildon.xml</url>
+      <html_url>http://www.ohloh.net/p/hildon</html_url>
+      <created_at>2007-08-11T02:16:22Z</created_at>
+      <updated_at>2013-07-15T18:56:46Z</updated_at>
+      <description>Hildon is an application framework originally developed for mobile devices (PDAs, mobile phones, etc.) running the Linux operating system. It was developed by Nokia for the Maemo operating system and is now a part of GNOME. It focuses on providing a finger-friendly interface. It is primarily a set of GTK+ extensions that provide mobile-device&#8211;oriented functionality, but also provides a desktop environment that includes a task navigator for opening and switching between programs, a control panel for user settings, and status bar, task bar and home applets. It is standard on the Maemo platform used by the Nokia Internet Tablets and the Nokia N900 smartphone.
+
+Hildon has also been selected as the framework for Ubuntu Mobile and Embedded Edition.</description>
+      <homepage_url>http://live.gnome.org/Hildon</homepage_url>
+      <download_url></download_url>
+      <url_name>hildon</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14370651</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>library</tag>
+        <tag>hildon</tag>
+        <tag>maemo</tag>
+        <tag>c</tag>
+        <tag>gtk</tag>
+        <tag>mobile</tag>
+        <tag>n900</tag>
+        <tag>api</tag>
+        <tag>gnome</tag>
+        <tag>gui</tag>
+        <tag>gtk+</tag>
+        <tag>toolkit</tag>
+      </tags>
+      <analysis>
+        <id>14370651</id>
+        <url>http://www.ohloh.net/analyses/14370651.xml</url>
+        <project_id>7430</project_id>
+        <updated_at>2013-07-12T04:20:10Z</updated_at>
+        <logged_at>2013-07-12T04:20:08Z</logged_at>
+        <min_month>2005-07-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>50540</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hildon/analyses/14370651/languages.png">
+          <language color="FF8F00" percentage="97" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

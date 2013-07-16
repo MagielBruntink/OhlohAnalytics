@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>567888</id>
+      <name>Floodlight</name>
+      <url>http://www.ohloh.net/p/Floodlight.xml</url>
+      <html_url>http://www.ohloh.net/p/Floodlight</html_url>
+      <created_at>2011-05-09T06:56:00Z</created_at>
+      <updated_at>2013-07-15T19:10:37Z</updated_at>
+      <description>The Floodlight controller is an enterprise-class, Apache-licensed, Java-based OpenFlow Controller. It is supported by a community of developers including a number of engineers from Big Switch Networks.
+
+OpenFlow is a open standard managed by the Open Networking Foundation (ONF).  It specifies a protocol through switch a remote controller can modify the behavior of networking devices through a well-defined &#8220;forwarding instruction set&#8221;.  Floodlight is designed to work with the growing number of switches, routers, virtual witches, and access points that support the OpenFlow standard.</description>
+      <homepage_url>http://floodlight.openflowhub.org/</homepage_url>
+      <download_url>http://floodlight.openflowhub.org/download/</download_url>
+      <url_name>Floodlight</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53542/floodlight_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53542/floodlight_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>2.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574724</analysis_id>
+      <tags>
+        <tag>platform</tag>
+        <tag>openflow</tag>
+        <tag>java</tag>
+        <tag>routing</tag>
+      </tags>
+      <analysis>
+        <id>14574724</id>
+        <url>http://www.ohloh.net/analyses/14574724.xml</url>
+        <project_id>567888</project_id>
+        <updated_at>2013-07-09T19:50:07Z</updated_at>
+        <logged_at>2013-07-09T19:49:26Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>41</twelve_month_contributor_count>
+        <total_code_lines>97006</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Floodlight/analyses/14574724/languages.png">
+          <language color="9A63AD" percentage="93" id="5">
+Java          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

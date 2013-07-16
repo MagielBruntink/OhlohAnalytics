@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587644</id>
+      <name>syncloud</name>
+      <url>http://www.ohloh.net/p/syncloud.xml</url>
+      <html_url>http://www.ohloh.net/p/syncloud</html_url>
+      <created_at>2011-12-08T02:02:44Z</created_at>
+      <updated_at>2013-06-26T00:33:35Z</updated_at>
+      <description>Synchronize files on your devices to various cloud storages.</description>
+      <homepage_url>http://www.syncloud.org</homepage_url>
+      <download_url></download_url>
+      <url_name>syncloud</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55443/syncloud_icon_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55443/syncloud_icon_64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14410328</analysis_id>
+      <analysis>
+        <id>14410328</id>
+        <url>http://www.ohloh.net/analyses/14410328.xml</url>
+        <project_id>587644</project_id>
+        <updated_at>2013-07-13T07:14:37Z</updated_at>
+        <logged_at>2013-07-13T07:03:51Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>20640</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/syncloud/analyses/14410328/languages.png">
+          <language color="9A63AD" percentage="72" id="5">
+Java          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

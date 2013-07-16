@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484406</id>
+      <name>GoodData-CL</name>
+      <url>http://www.ohloh.net/p/gooddata-cl.xml</url>
+      <html_url>http://www.ohloh.net/p/gooddata-cl</html_url>
+      <created_at>2010-07-29T13:35:37Z</created_at>
+      <updated_at>2013-07-13T17:36:22Z</updated_at>
+      <description>A quick, easy-to-use command-line utility that wraps access to GoodData APIs to simplify creating projects, building data model, extracting and loading data.</description>
+      <homepage_url>http://developer.gooddata.com/</homepage_url>
+      <download_url>http://github.com/gooddata/GoodData-CL/downloads</download_url>
+      <url_name>gooddata-cl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14383898</analysis_id>
+      <tags>
+        <tag>business-intelligence</tag>
+        <tag>web</tag>
+        <tag>reporting</tag>
+        <tag>reports</tag>
+        <tag>java</tag>
+        <tag>datawarehouse</tag>
+        <tag>olap</tag>
+      </tags>
+      <analysis>
+        <id>14383898</id>
+        <url>http://www.ohloh.net/analyses/14383898.xml</url>
+        <project_id>484406</project_id>
+        <updated_at>2013-07-15T08:41:56Z</updated_at>
+        <logged_at>2013-07-15T08:41:52Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>60294</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gooddata-cl/analyses/14383898/languages.png">
+          <language color="9A63AD" percentage="65" id="5">
+Java          </language>
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

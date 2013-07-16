@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6374</id>
+      <name>igraph library</name>
+      <url>http://www.ohloh.net/p/igraph-library.xml</url>
+      <html_url>http://www.ohloh.net/p/igraph-library</html_url>
+      <created_at>2007-07-02T13:24:32Z</created_at>
+      <updated_at>2013-07-12T10:41:23Z</updated_at>
+      <description>This is another library for creating and manipulating graphs. There is simply no other graph library out there which can be handle graphs of the size the author is confronted with efficiently. Whenever possible igraph tries to be also user friendly and portable.
+
+igraph started as an additional package to the GNU R statistical environment, and still some functions which are hard to implement in C are available only in R (like interactive graphics). Most functions are however now written in C and they can be compiled without R as a separate library.</description>
+      <homepage_url>http://igraph.sourceforge.net</homepage_url>
+      <download_url>http://igraph.sourceforge.net</download_url>
+      <url_name>igraph-library</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17602/igraph_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17602/igraph_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14604730</analysis_id>
+      <tags>
+        <tag>algorithms</tag>
+        <tag>r</tag>
+        <tag>python</tag>
+        <tag>mac</tag>
+        <tag>science</tag>
+        <tag>graphml</tag>
+        <tag>tools</tag>
+        <tag>windows</tag>
+        <tag>c++</tag>
+        <tag>library</tag>
+        <tag>graph</tag>
+        <tag>visualization</tag>
+        <tag>programming</tag>
+        <tag>network</tag>
+        <tag>mathematics</tag>
+        <tag>linux</tag>
+        <tag>math</tag>
+      </tags>
+      <analysis>
+        <id>14604730</id>
+        <url>http://www.ohloh.net/analyses/14604730.xml</url>
+        <project_id>6374</project_id>
+        <updated_at>2013-07-12T10:41:23Z</updated_at>
+        <logged_at>2013-07-12T10:40:13Z</logged_at>
+        <min_month>2005-01-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>449261</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/igraph-library/analyses/14604730/languages.png">
+          <language color="FF8F00" percentage="71" id="42">
+C          </language>
+          <language color="EEE" percentage="7" id="65">
+R          </language>
+          <language color="4A246B" percentage="6" id="9">
+Python          </language>
+          <language color="000000" percentage="16" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

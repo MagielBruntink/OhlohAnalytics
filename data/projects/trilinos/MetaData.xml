@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>391885</id>
+      <name>Trilinos</name>
+      <url>http://www.ohloh.net/p/trilinos.xml</url>
+      <html_url>http://www.ohloh.net/p/trilinos</html_url>
+      <created_at>2009-08-18T10:43:05Z</created_at>
+      <updated_at>2013-04-17T19:24:24Z</updated_at>
+      <description>The Trilinos Project is an effort to develop algorithms and enabling technologies within an object-oriented software framework for the solution of large-scale, complex multi-physics engineering and scientific problems. A unique design feature of Trilinos is its focus on packages.
+
+Trilinos provides capabilities in meshing, load balancing, discretizations, mathematical optimization and uncertainty quantification, and transient, nonlinear, and linear solvers. Trilinos software is designed for scalability on the largest computer systems available and represents the state-of-the-art in scalable unstructured linear algebra, scalable unstructured preconditioning, block iterative methods, embedded optimization, stochastic methods, compatible discretizations and parallel partitioning algorithms.</description>
+      <homepage_url>http://code.google.com/p/trilinos/</homepage_url>
+      <download_url>http://trilinos.sandia.gov/download/</download_url>
+      <url_name>trilinos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13576285</analysis_id>
+      <tags>
+        <tag>iterativemethods</tag>
+        <tag>scientific</tag>
+        <tag>solvers</tag>
+        <tag>discretizations</tag>
+        <tag>parallel</tag>
+        <tag>loadbalancing</tag>
+        <tag>scalable</tag>
+        <tag>libraries</tag>
+        <tag>linearalgebra</tag>
+        <tag>optimization</tag>
+        <tag>math</tag>
+        <tag>meshing</tag>
+        <tag>nonlinear</tag>
+        <tag>multicore</tag>
+        <tag>objectoriented</tag>
+      </tags>
+      <analysis>
+        <id>13576285</id>
+        <url>http://www.ohloh.net/analyses/13576285.xml</url>
+        <project_id>391885</project_id>
+        <updated_at>2013-04-17T19:24:24Z</updated_at>
+        <logged_at>2013-04-17T19:12:44Z</logged_at>
+        <min_month>1998-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>103</twelve_month_contributor_count>
+        <total_code_lines>3079533</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/trilinos/analyses/13576285/languages.png">
+          <language color="F35F1F" percentage="64" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="12" id="42">
+C          </language>
+          <language color="000000" percentage="24" id="">
+23 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

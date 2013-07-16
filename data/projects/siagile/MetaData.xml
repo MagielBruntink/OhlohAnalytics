@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>116354</id>
+      <name>siagile</name>
+      <url>http://www.ohloh.net/p/siagile.xml</url>
+      <html_url>http://www.ohloh.net/p/siagile</html_url>
+      <created_at>2008-12-29T22:31:12Z</created_at>
+      <updated_at>2013-07-01T09:13:57Z</updated_at>
+      <description></description>
+      <homepage_url>http://www.googlegroups.com/groups/siagile</homepage_url>
+      <download_url></download_url>
+      <url_name>siagile</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14497524</analysis_id>
+      <analysis>
+        <id>14497524</id>
+        <url>http://www.ohloh.net/analyses/14497524.xml</url>
+        <project_id>116354</project_id>
+        <updated_at>2013-07-13T20:21:19Z</updated_at>
+        <logged_at>2013-07-13T20:21:16Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>14025</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/siagile/analyses/14497524/languages.png">
+          <language color="555555" percentage="66" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="13" id="5">
+Java          </language>
+          <language color="EEE" percentage="7" id="55">
+Scala          </language>
+          <language color="000000" percentage="14" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

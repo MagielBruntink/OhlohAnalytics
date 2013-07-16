@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13449</id>
+      <name>KTechLab</name>
+      <url>http://www.ohloh.net/p/ktechlab.xml</url>
+      <html_url>http://www.ohloh.net/p/ktechlab</html_url>
+      <created_at>2008-04-19T10:37:24Z</created_at>
+      <updated_at>2013-07-11T18:39:23Z</updated_at>
+      <description>KTechLab is an Open Source Integrated Design Environment (IDE) for electronic and PIC microcontroller circuit design and simulation.
+
+Featuring an extensive circuit designer with autorouting and simulation of many common electronic components and logic elements, KTechLab is the idea tool for educational or hobbyist use.
+
+KTechLab features an easy to use, flowchart based PIC program designer - Flowcoder; along with a BASIC like programming language called Microbe. Programs designed by these tools can be added to any circuit design as a 'virtual' PIC allowing complex microcontroller based circuits to be created.
+
+KTechLab supports a wide range of Open Source PIC programmers, enabling finalised PIC programs to be quickly and easily transfered to a real PIC microcontroller.</description>
+      <homepage_url>http://ktechlab.org</homepage_url>
+      <download_url></download_url>
+      <url_name>ktechlab</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2871/ktechlab_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2871/ktechlab_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14592651</analysis_id>
+      <tags>
+        <tag>cmos</tag>
+        <tag>circuit</tag>
+        <tag>circuitsimulator</tag>
+        <tag>circuitsimulation</tag>
+      </tags>
+      <analysis>
+        <id>14592651</id>
+        <url>http://www.ohloh.net/analyses/14592651.xml</url>
+        <project_id>13449</project_id>
+        <updated_at>2013-07-11T18:39:22Z</updated_at>
+        <logged_at>2013-07-11T18:34:49Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>139848</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ktechlab/analyses/14592651/languages.png">
+          <language color="F35F1F" percentage="81" id="44">
+C++          </language>
+          <language color="EEE" percentage="8" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

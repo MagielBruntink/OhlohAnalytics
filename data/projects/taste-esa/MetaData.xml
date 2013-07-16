@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596304</id>
+      <name>TASTE-ESA</name>
+      <url>http://www.ohloh.net/p/taste-esa.xml</url>
+      <html_url>http://www.ohloh.net/p/taste-esa</html_url>
+      <created_at>2012-03-15T08:47:47Z</created_at>
+      <updated_at>2013-07-09T10:02:57Z</updated_at>
+      <description>The ASSERT Set of Tools for Engineering (TASTE) is a framework of programs that aims at automating safety-critical software development. It is composed by a development consortium and lead by the European Space Agency (ESA).</description>
+      <homepage_url>http://taste.tuxfamily.org</homepage_url>
+      <download_url>http://download.tuxfamily.org/taste/</download_url>
+      <url_name>taste-esa</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51625/logo-taste_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51625/logo-taste_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14570339</analysis_id>
+      <tags>
+        <tag>ada</tag>
+        <tag>xenomai</tag>
+        <tag>generation</tag>
+        <tag>code</tag>
+        <tag>toolkit</tag>
+        <tag>ecss</tag>
+        <tag>simulink</tag>
+        <tag>asn1</tag>
+        <tag>ber</tag>
+        <tag>aadl</tag>
+        <tag>mda</tag>
+        <tag>ocarina</tag>
+        <tag>rtems</tag>
+        <tag>rtos</tag>
+        <tag>c</tag>
+      </tags>
+      <analysis>
+        <id>14570339</id>
+        <url>http://www.ohloh.net/analyses/14570339.xml</url>
+        <project_id>596304</project_id>
+        <updated_at>2013-07-09T10:02:57Z</updated_at>
+        <logged_at>2013-07-08T07:52:37Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>783789</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/taste-esa/analyses/14570339/languages.png">
+          <language color="FF8F00" percentage="23" id="42">
+C          </language>
+          <language color="FAE028" percentage="21" id="21">
+Ada          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="39" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

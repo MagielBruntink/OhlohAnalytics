@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>533404</id>
+      <project_id>9669</project_id>
+      <repository_id>535856</repository_id>
+      <repository>
+        <id>535856</id>
+        <type>GitRepository</type>
+        <url>git://github.com/jline/jline2</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T23:05:31Z</logged_at>
+        <commits>539</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>18597</id>
+      <project_id>9669</project_id>
+      <repository_id>18022</repository_id>
+      <repository>
+        <id>18022</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@jline.cvs.sourceforge.net:/cvsroot/jline</url>
+        <module_name>jline</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-06T23:20:32Z</logged_at>
+        <commits>55</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

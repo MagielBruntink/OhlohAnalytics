@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17119</id>
+      <name>DWSIM</name>
+      <url>http://www.ohloh.net/p/dwsim.xml</url>
+      <html_url>http://www.ohloh.net/p/dwsim</html_url>
+      <created_at>2008-10-07T02:20:22Z</created_at>
+      <updated_at>2013-06-19T23:08:01Z</updated_at>
+      <description>DWSIM is an open-source, steady-state chemical process simulator written in VB.NET.</description>
+      <homepage_url>http://dwsim.inforside.com.br/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=233626</download_url>
+      <url_name>dwsim</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55909/fullcolumn_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55909/fullcolumn_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14312480</analysis_id>
+      <tags>
+        <tag>reactions</tag>
+        <tag>thermodynamics</tag>
+        <tag>process</tag>
+        <tag>chemical</tag>
+        <tag>simulator</tag>
+        <tag>heat</tag>
+        <tag>transfer</tag>
+        <tag>petroleum</tag>
+        <tag>natural</tag>
+        <tag>gas</tag>
+      </tags>
+      <analysis>
+        <id>14312480</id>
+        <url>http://www.ohloh.net/analyses/14312480.xml</url>
+        <project_id>17119</project_id>
+        <updated_at>2013-07-11T17:08:08Z</updated_at>
+        <logged_at>2013-07-11T13:49:07Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1091194</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dwsim/analyses/14312480/languages.png">
+          <language color="2C5DC7" percentage="58" id="15">
+Visual Basic          </language>
+          <language color="555555" percentage="42" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>15</main_language_id>
+        <main_language_name>Visual Basic</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

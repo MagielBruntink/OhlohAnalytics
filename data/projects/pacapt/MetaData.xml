@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588642</id>
+      <name>pacapt</name>
+      <url>http://www.ohloh.net/p/pacapt.xml</url>
+      <html_url>http://www.ohloh.net/p/pacapt</html_url>
+      <created_at>2012-01-27T19:02:32Z</created_at>
+      <updated_at>2013-07-09T19:59:20Z</updated_at>
+      <description>An (Arch Linux) pacman-like package manager for some Linux distributions.
+Actually this Bash script provides a wrapper for system's package manager.
+
+Instead of remembering various options/tools on different OSs, you only need a common way to manipulate packages. Not all options of the native package manager are ported; the tool only provides a very basic interface to search, install, remove packages, and/or update the system.</description>
+      <homepage_url>https://github.com/icy/pacapt</homepage_url>
+      <download_url>https://github.com/icy/pacapt/downloads</download_url>
+      <url_name>pacapt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574761</analysis_id>
+      <tags>
+        <tag>system</tag>
+        <tag>install</tag>
+        <tag>package</tag>
+        <tag>arch-linux</tag>
+        <tag>debian</tag>
+        <tag>ubuntu</tag>
+        <tag>redhat</tag>
+        <tag>fedora</tag>
+        <tag>rpm</tag>
+        <tag>yum</tag>
+        <tag>dpkg</tag>
+        <tag>apt-get</tag>
+        <tag>linux</tag>
+        <tag>management</tag>
+        <tag>portable</tag>
+      </tags>
+      <analysis>
+        <id>14574761</id>
+        <url>http://www.ohloh.net/analyses/14574761.xml</url>
+        <project_id>588642</project_id>
+        <updated_at>2013-07-09T19:59:20Z</updated_at>
+        <logged_at>2013-07-09T19:56:09Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>533</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pacapt/analyses/14574761/languages.png">
+          <language color="777777" percentage="95" id="11">
+shell script          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>fair</name>
+          <nice_name>Fair License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

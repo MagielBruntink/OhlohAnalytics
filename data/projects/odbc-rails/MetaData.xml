@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26237</id>
+      <name>ODBC Data Adapter for Ruby on Rails</name>
+      <url>http://www.ohloh.net/p/odbc-rails.xml</url>
+      <html_url>http://www.ohloh.net/p/odbc-rails</html_url>
+      <created_at>2008-11-07T21:46:25Z</created_at>
+      <updated_at>2013-06-26T18:56:52Z</updated_at>
+      <description>Data adapter for ODBC-accessible databases such as Oracle, Informix, Ingres, OpenLink Virtuoso, SQL Server, Sybase, MySQL, PostgreSQL, DB2, Firebird, Progress, and others, providing consistent behaviour to ActiveRecord.</description>
+      <homepage_url>http://odbc-rails.rubyforge.org/</homepage_url>
+      <download_url>http://odbc-rails.rubyforge.org/RailsAdapterWebDownloads.html</download_url>
+      <url_name>odbc-rails</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60198/openlink_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60198/openlink_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14420638</analysis_id>
+      <tags>
+        <tag>rails</tag>
+        <tag>front-ends</tag>
+      </tags>
+      <analysis>
+        <id>14420638</id>
+        <url>http://www.ohloh.net/analyses/14420638.xml</url>
+        <project_id>26237</project_id>
+        <updated_at>2013-07-15T19:16:29Z</updated_at>
+        <logged_at>2013-07-15T19:16:10Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2008-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7564</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/odbc-rails/analyses/14420638/languages.png">
+          <language color="A40011" percentage="66" id="12">
+Ruby          </language>
+          <language color="493625" percentage="34" id="30">
+SQL          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

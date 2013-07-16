@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488898</id>
+      <name>JawaBot</name>
+      <url>http://www.ohloh.net/p/JawaBot.xml</url>
+      <html_url>http://www.ohloh.net/p/JawaBot</html_url>
+      <created_at>2011-03-28T07:54:58Z</created_at>
+      <updated_at>2013-07-15T20:17:33Z</updated_at>
+      <description>JawaBot - pluggable IRC bot with optional Wicket-based web UI. Based on PircBot, CDI/Weld, JPA 2.0/Hibernate.
+
+Aims to put multiple functionalities under one bot, while still keeping the structure of the code sane. Mavenized.
+Plugins:
+
+    Jira - resolves name, status and assignee from a Jira issue tracker. Configurable. Default config supports opensource repos: JBoss, Codehaus, Apache and others.
+    Logger - logs IRC events to a DB. Has a web UI.
+    Reservation - for reservation of resources over IRC. Has a web UI.
+    WhereIs - looks for nicks in all channels, supports wildcards.
+    Messenger - delivers messages to offline users when they connect (&quot;answering machine&quot;).
+    AutoOp - gives op to users.
+    Social - reacts to &quot;Hi!&quot; etc. Hello World plugin.
+    PasteBin</description>
+      <homepage_url>http://code.google.com/p/ondrazizka/</homepage_url>
+      <download_url>http://code.google.com/p/jawabot/downloads/list</download_url>
+      <url_name>JawaBot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/66358/simay-gabor_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/66358/simay-gabor_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14642264</analysis_id>
+      <tags>
+        <tag>twitter</tag>
+        <tag>wicket</tag>
+        <tag>pastebin</tag>
+        <tag>client</tag>
+        <tag>logger</tag>
+        <tag>bot</tag>
+        <tag>java</tag>
+        <tag>irc</tag>
+        <tag>ircbot</tag>
+        <tag>reservation</tag>
+        <tag>plugin</tag>
+        <tag>jira</tag>
+        <tag>modular</tag>
+        <tag>library</tag>
+        <tag>rss</tag>
+      </tags>
+      <analysis>
+        <id>14642264</id>
+        <url>http://www.ohloh.net/analyses/14642264.xml</url>
+        <project_id>488898</project_id>
+        <updated_at>2013-07-15T20:17:32Z</updated_at>
+        <logged_at>2013-07-15T20:12:12Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>39426</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/JawaBot/analyses/14642264/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

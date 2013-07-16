@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588705</id>
+      <name>HPCC Systems</name>
+      <url>http://www.ohloh.net/p/hpcc.xml</url>
+      <html_url>http://www.ohloh.net/p/hpcc</html_url>
+      <created_at>2012-01-30T03:16:00Z</created_at>
+      <updated_at>2013-07-15T18:53:40Z</updated_at>
+      <description>HPCC (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform that solves Big Data problems.
+
+The HPCC Systems architecture incorporates the Thor and Roxie clusters as well as common middleware components, an external communications layer, client interfaces which provide both end-user services and system management tools, and auxiliary components to support monitoring and to facilitate loading and storing of filesystem data from external sources. An HPCC environment can include only Thor clusters, or both Thor and Roxie clusters.</description>
+      <homepage_url>http://hpccsystems.com</homepage_url>
+      <download_url>http://hpccsystems.com/download</download_url>
+      <url_name>hpcc</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64306/logo_50x50_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64306/logo_50x50_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569870</analysis_id>
+      <tags>
+        <tag>highperformancecomputing</tag>
+        <tag>ec2</tag>
+        <tag>hadoop</tag>
+        <tag>bigdata</tag>
+        <tag>hpcc</tag>
+        <tag>high_performance_computing</tag>
+        <tag>ecl</tag>
+      </tags>
+      <analysis>
+        <id>14569870</id>
+        <url>http://www.ohloh.net/analyses/14569870.xml</url>
+        <project_id>588705</project_id>
+        <updated_at>2013-07-08T17:13:26Z</updated_at>
+        <logged_at>2013-07-08T09:41:43Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>1524605</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hpcc/analyses/14569870/languages.png">
+          <language color="F35F1F" percentage="44" id="44">
+C++          </language>
+          <language color="A4007E" percentage="23" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="16" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>cc-byncsa3</name>
+          <nice_name>Creative Commons BY-NC-SA 3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

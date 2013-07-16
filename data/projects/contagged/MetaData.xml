@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482512</id>
+      <name>ConTagged</name>
+      <url>http://www.ohloh.net/p/contagged.xml</url>
+      <html_url>http://www.ohloh.net/p/contagged</html_url>
+      <created_at>2010-04-20T11:37:51Z</created_at>
+      <updated_at>2013-06-18T14:36:53Z</updated_at>
+      <description>ConTagged is a web-based address book for small companies written in PHP. It provides access to a company-wide address book, as well as private address books for each employee. All contact details are stored in the LDAP directory and are available from all common e-mail clients.
+
+Contacts can be grouped and looked up in infinite ways by assigning tags to them.
+
+ConTagged integrates perfectly into an existing infrastructure by using an existing LDAP directory for authenticating the users.
+
+It was developed for our own needs and was released under the GNU General Public License.
+
+Features:
+    * Public company address book
+    * Employees' personal address books
+    * Tagging
+    * Photo upload
+    * Google Maps
+    * Multilingual and easily extendable</description>
+      <homepage_url>http://www.cosmocode.de/en/opensource/contagged</homepage_url>
+      <download_url>http://www.cosmocode.de/en/opensource/contagged</download_url>
+      <url_name>contagged</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14299588</analysis_id>
+      <tags>
+        <tag>addressbook</tag>
+        <tag>ldap</tag>
+        <tag>web</tag>
+        <tag>googlemaps</tag>
+        <tag>enterprise</tag>
+        <tag>php</tag>
+        <tag>enterprise_software</tag>
+      </tags>
+      <analysis>
+        <id>14299588</id>
+        <url>http://www.ohloh.net/analyses/14299588.xml</url>
+        <project_id>482512</project_id>
+        <updated_at>2013-07-11T14:35:26Z</updated_at>
+        <logged_at>2013-07-11T14:35:25Z</logged_at>
+        <min_month>2005-12-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>16150</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/contagged/analyses/14299588/languages.png">
+          <language color="356AA0" percentage="49" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="39" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

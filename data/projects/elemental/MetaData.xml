@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587170</id>
+      <name>Elemental (linear algebra)</name>
+      <url>http://www.ohloh.net/p/elemental.xml</url>
+      <html_url>http://www.ohloh.net/p/elemental</html_url>
+      <created_at>2011-11-10T00:01:24Z</created_at>
+      <updated_at>2013-07-14T13:20:13Z</updated_at>
+      <description>Distributed-memory dense linear algebra.</description>
+      <homepage_url>http://code.google.com/p/elemental</homepage_url>
+      <download_url>http://code.google.com/p/elemental</download_url>
+      <url_name>elemental</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14625599</analysis_id>
+      <tags>
+        <tag>distributed</tag>
+        <tag>mathematics</tag>
+        <tag>scientific</tag>
+        <tag>solver</tag>
+        <tag>algebra</tag>
+        <tag>linear</tag>
+        <tag>matrix</tag>
+        <tag>computing</tag>
+        <tag>vector</tag>
+        <tag>numerics</tag>
+        <tag>dense</tag>
+        <tag>eigensolver</tag>
+      </tags>
+      <analysis>
+        <id>14625599</id>
+        <url>http://www.ohloh.net/analyses/14625599.xml</url>
+        <project_id>587170</project_id>
+        <updated_at>2013-07-14T13:20:12Z</updated_at>
+        <logged_at>2013-07-13T22:18:42Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>209075</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/elemental/analyses/14625599/languages.png">
+          <language color="F35F1F" percentage="86" id="44">
+C++          </language>
+          <language color="EEE" percentage="9" id="40">
+Fortran (Fixed-format)          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

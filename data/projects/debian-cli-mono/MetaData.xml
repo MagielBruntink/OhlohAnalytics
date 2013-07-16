@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483905</id>
+      <name>Debian CLI/Mono packaging</name>
+      <url>http://www.ohloh.net/p/debian-cli-mono.xml</url>
+      <html_url>http://www.ohloh.net/p/debian-cli-mono</html_url>
+      <created_at>2010-07-06T15:14:53Z</created_at>
+      <updated_at>2013-05-12T10:00:21Z</updated_at>
+      <description></description>
+      <homepage_url>http://pkg-mono.alioth.debian.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>debian-cli-mono</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13866724</analysis_id>
+      <analysis>
+        <id>13866724</id>
+        <url>http://www.ohloh.net/analyses/13866724.xml</url>
+        <project_id>483905</project_id>
+        <updated_at>2013-06-11T03:32:45Z</updated_at>
+        <logged_at>2013-06-11T03:30:28Z</logged_at>
+        <min_month>2004-01-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>7874953</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/debian-cli-mono/analyses/13866724/languages.png">
+          <language color="4096EE" percentage="39" id="17">
+C#          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="777777" percentage="14" id="11">
+shell script          </language>
+          <language color="000000" percentage="21" id="">
+21 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

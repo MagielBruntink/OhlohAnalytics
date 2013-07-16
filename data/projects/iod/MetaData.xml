@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588111</id>
+      <name>Iod</name>
+      <url>http://www.ohloh.net/p/iod.xml</url>
+      <html_url>http://www.ohloh.net/p/iod</html_url>
+      <created_at>2012-01-05T09:34:46Z</created_at>
+      <updated_at>2013-07-14T01:58:56Z</updated_at>
+      <description>Iod (Implementation Of Dynamic-Causal -Modelling) provides functionality to analyze (intracranial) EEG/MEG and fMRI data in terms of connectivity of predetermined brain regions utilizing the DCM method.</description>
+      <homepage_url>http://wwwmath.uni-muenster.de/num/publications/2011/Him11/</homepage_url>
+      <download_url></download_url>
+      <url_name>iod</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49792/iod_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49792/iod_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14621423</analysis_id>
+      <tags>
+        <tag>hemodynamic</tag>
+        <tag>mri</tag>
+        <tag>brain</tag>
+        <tag>physiology</tag>
+        <tag>timeseries</tag>
+        <tag>eeg</tag>
+        <tag>fmri</tag>
+        <tag>meg</tag>
+        <tag>linux</tag>
+        <tag>erp</tag>
+        <tag>dcm</tag>
+        <tag>fnirs</tag>
+        <tag>connectivity</tag>
+        <tag>neuro</tag>
+      </tags>
+      <analysis>
+        <id>14621423</id>
+        <url>http://www.ohloh.net/analyses/14621423.xml</url>
+        <project_id>588111</project_id>
+        <updated_at>2013-07-14T01:58:56Z</updated_at>
+        <logged_at>2013-07-13T20:10:11Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>4956</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/iod/analyses/14621423/languages.png">
+          <language color="F35F1F" percentage="95" id="44">
+C++          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

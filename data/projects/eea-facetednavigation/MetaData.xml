@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587525</id>
+      <name>EEA Faceted Navigation</name>
+      <url>http://www.ohloh.net/p/eea-facetednavigation.xml</url>
+      <html_url>http://www.ohloh.net/p/eea-facetednavigation</html_url>
+      <created_at>2011-11-30T13:08:25Z</created_at>
+      <updated_at>2013-07-15T18:41:19Z</updated_at>
+      <description>The EEA Faceted Navigation (FacetedNav) gives you a very powerful interface to improve search within large collections of items. No programming skills are required by the website manager to configure the faceted navigation interface, configuration is done TTW. It lets you gradually select and explore different facets (metadata/properties) of the site content and narrow down you search quickly and dynamically.
+
+On the contrary, plone collections are static, in a way that the site admin decides the search criteria and the end user is not able to further sort or filter the presented results.
+
+FacetedNav is fully customizable, site admin may decide that some criteria (facets) must have fixed values while other may be presented as filter options to the web visitor.</description>
+      <homepage_url>http://plone.org/products/eea.facetednavigation</homepage_url>
+      <download_url>http://plone.org/products/eea.facetednavigation</download_url>
+      <url_name>eea-facetednavigation</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48752/logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48752/logo_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14553563</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>faceted</tag>
+        <tag>plone</tag>
+        <tag>eea</tag>
+        <tag>zope</tag>
+        <tag>facetednavigation</tag>
+        <tag>navigation</tag>
+      </tags>
+      <analysis>
+        <id>14553563</id>
+        <url>http://www.ohloh.net/analyses/14553563.xml</url>
+        <project_id>587525</project_id>
+        <updated_at>2013-07-06T19:18:40Z</updated_at>
+        <logged_at>2013-07-06T19:14:08Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>29</twelve_month_contributor_count>
+        <total_code_lines>11914</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eea-facetednavigation/analyses/14553563/languages.png">
+          <language color="4A246B" percentage="48" id="9">
+Python          </language>
+          <language color="A4007E" percentage="42" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="7" id="4">
+CSS          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

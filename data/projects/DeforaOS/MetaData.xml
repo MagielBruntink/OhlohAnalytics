@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>429823</id>
+      <name>DeforaOS</name>
+      <url>http://www.ohloh.net/p/DeforaOS.xml</url>
+      <html_url>http://www.ohloh.net/p/DeforaOS</html_url>
+      <created_at>2009-09-05T01:26:29Z</created_at>
+      <updated_at>2013-07-16T05:35:26Z</updated_at>
+      <description>DeforaOS is a multi-purpose Operating System, providing an ubiquitous, secure and transparent access to user resources. It features a POSIX-compliant environment, and can work on top of existing systems (Linux, *BSD...). Its desktop environment is focused on usability, coherence and integration, with many applications available already. Developed with simplicity and efficiency in mind, it suits modern embedded platforms as well.</description>
+      <homepage_url>http://www.defora.org/</homepage_url>
+      <download_url>http://www.defora.org/os/wiki/2131/Download</download_url>
+      <url_name>DeforaOS</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40811/defora-d_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40811/defora-d_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14647296</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>assembly</tag>
+        <tag>gtk3</tag>
+        <tag>mobile</tag>
+        <tag>gtk2</tag>
+        <tag>system</tag>
+        <tag>c</tag>
+        <tag>portable</tag>
+        <tag>embedded</tag>
+        <tag>posix</tag>
+        <tag>telephony</tag>
+        <tag>libc</tag>
+        <tag>linux</tag>
+        <tag>desktop</tag>
+        <tag>smartphone</tag>
+        <tag>gsm</tag>
+        <tag>os</tag>
+        <tag>opengl</tag>
+        <tag>clean-slate</tag>
+        <tag>bsd</tag>
+      </tags>
+      <analysis>
+        <id>14647296</id>
+        <url>http://www.ohloh.net/analyses/14647296.xml</url>
+        <project_id>429823</project_id>
+        <updated_at>2013-07-16T05:35:25Z</updated_at>
+        <logged_at>2013-07-16T05:21:57Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>195294</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/DeforaOS/analyses/14647296/languages.png">
+          <language color="FF8F00" percentage="72" id="42">
+C          </language>
+          <language color="EEE" percentage="8" id="52">
+Make          </language>
+          <language color="356AA0" percentage="7" id="2">
+PHP          </language>
+          <language color="000000" percentage="13" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

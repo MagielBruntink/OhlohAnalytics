@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26023</id>
+      <name>libdiscid</name>
+      <url>http://www.ohloh.net/p/libdiscid.xml</url>
+      <html_url>http://www.ohloh.net/p/libdiscid</html_url>
+      <created_at>2008-11-03T16:45:55Z</created_at>
+      <updated_at>2013-07-13T06:07:43Z</updated_at>
+      <description>libdiscid is a C library for creating MusicBrainz DiscIDs from audio CDs. It reads a CD's table of contents (TOC) and generates an identifier which can be used to lookup the CD at MusicBrainz. Additionally, it provides a submission URL for adding the DiscID to the database.</description>
+      <homepage_url>http://musicbrainz.org/doc/libdiscid</homepage_url>
+      <download_url>http://musicbrainz.org/doc/libdiscid</download_url>
+      <url_name>libdiscid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14616422</analysis_id>
+      <tags>
+        <tag>musicbrainz</tag>
+        <tag>audio</tag>
+        <tag>audiocd</tag>
+        <tag>discid</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>14616422</id>
+        <url>http://www.ohloh.net/analyses/14616422.xml</url>
+        <project_id>26023</project_id>
+        <updated_at>2013-07-13T06:07:42Z</updated_at>
+        <logged_at>2013-07-13T06:07:09Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>2468</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libdiscid/analyses/14616422/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="EEE" percentage="8" id="74">
+CMake          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345387</id>
+      <name>UrMEL archive</name>
+      <url>http://www.ohloh.net/p/archive.xml</url>
+      <html_url>http://www.ohloh.net/p/archive</html_url>
+      <created_at>2009-06-02T08:19:43Z</created_at>
+      <updated_at>2013-07-15T20:22:56Z</updated_at>
+      <description>Is an archive application which uses the MyCoRe framework as it base.
+
+Supports various kinds of datamodels
+
+- file
+- document
+- image
+- print
+- manuscript
+- fourier entries
+- gloss
+- comment
+- cover
+- person
+- corporation
+- group
+
+that can be linked together. Support for WebServices and OAI is available.</description>
+      <homepage_url>http://archive.thulb.uni-jena.de</homepage_url>
+      <download_url></download_url>
+      <url_name>archive</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19666/archive-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19666/archive-logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14618630</analysis_id>
+      <tags>
+        <tag>file</tag>
+        <tag>mycore</tag>
+        <tag>docportal</tag>
+        <tag>xslt</tag>
+        <tag>archives</tag>
+        <tag>archive</tag>
+        <tag>code4lib</tag>
+      </tags>
+      <analysis>
+        <id>14618630</id>
+        <url>http://www.ohloh.net/analyses/14618630.xml</url>
+        <project_id>345387</project_id>
+        <updated_at>2013-07-13T10:45:18Z</updated_at>
+        <logged_at>2013-07-13T10:29:17Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>110824</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/archive/analyses/14618630/languages.png">
+          <language color="555555" percentage="45" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="17" id="5">
+Java          </language>
+          <language color="556655" percentage="16" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="22" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

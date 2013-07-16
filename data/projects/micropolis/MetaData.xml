@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10933</id>
+      <name>Micropolis (SimCity)</name>
+      <url>http://www.ohloh.net/p/micropolis.xml</url>
+      <html_url>http://www.ohloh.net/p/micropolis</html_url>
+      <created_at>2008-01-14T22:50:07Z</created_at>
+      <updated_at>2013-07-12T00:26:31Z</updated_at>
+      <description>Simulation and city-building personal computer game. The goal of the game is to build and design a city. The player can mark land as being zoned as commercial, industrial, or residential, add buildings, change the tax rate, build a power grid, build transportation systems and many other actions, in order to enhance the city.</description>
+      <homepage_url>http://www.donhopkins.com/home/micropolis/</homepage_url>
+      <download_url></download_url>
+      <url_name>micropolis</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14596980</analysis_id>
+      <tags>
+        <tag>simulation</tag>
+        <tag>city_building</tag>
+      </tags>
+      <analysis>
+        <id>14596980</id>
+        <url>http://www.ohloh.net/analyses/14596980.xml</url>
+        <project_id>10933</project_id>
+        <updated_at>2013-07-12T00:26:31Z</updated_at>
+        <logged_at>2013-07-12T00:26:13Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>269547</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/micropolis/analyses/14596980/languages.png">
+          <language color="47A400" percentage="37" id="1">
+HTML          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="F35F1F" percentage="9" id="44">
+C++          </language>
+          <language color="000000" percentage="22" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

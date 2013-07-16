@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5253</id>
+      <name>Spring Python</name>
+      <url>http://www.ohloh.net/p/springpython.xml</url>
+      <html_url>http://www.ohloh.net/p/springpython</html_url>
+      <created_at>2007-05-10T19:27:08Z</created_at>
+      <updated_at>2013-07-15T17:40:42Z</updated_at>
+      <description>Spring Python is an offshoot of the Java-based SpringFramework and AcegiSecurityFramework, targeted for Python. Spring provides many useful features, and I wanted those same features available when working with Python.
+
+Several key features include:
+* Inversion of control
+* Aspect oriented programming
+* DatabaseTemplate
+* Database transaction management
+* Distributed remoting
+* Security
+
+You can pick and choose which parts to  use. Visit the web site for more details.
+
+The main library of Spring Python as well the sample applications are released under Apache License 2.0, making it a business friendly library. The SpringWiki sample application reuses a set of style sheets written for mediawiki that are GPL.</description>
+      <homepage_url>http://springpython.webfactional.com/</homepage_url>
+      <download_url>http://s3browse.com/explore/dist.springframework.org/release/EXT/se-springpython-py/</download_url>
+      <url_name>springpython</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41571/spring_python_logo_twitter_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41571/spring_python_logo_twitter_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14341808</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>programming</tag>
+        <tag>web</tag>
+        <tag>security</tag>
+        <tag>transactions</tag>
+        <tag>remoting</tag>
+        <tag>postgresql</tag>
+        <tag>cross-platform</tag>
+        <tag>acegi</tag>
+        <tag>framework</tag>
+        <tag>coding</tag>
+        <tag>sqlite</tag>
+        <tag>transaction</tag>
+        <tag>ioc</tag>
+        <tag>tools</tag>
+        <tag>aop</tag>
+        <tag>cherrypy</tag>
+        <tag>database</tag>
+        <tag>spring</tag>
+        <tag>distributed</tag>
+        <tag>python</tag>
+        <tag>springframework</tag>
+        <tag>code</tag>
+        <tag>mysql</tag>
+      </tags>
+      <analysis>
+        <id>14341808</id>
+        <url>http://www.ohloh.net/analyses/14341808.xml</url>
+        <project_id>5253</project_id>
+        <updated_at>2013-07-07T00:50:11Z</updated_at>
+        <logged_at>2013-07-07T00:50:09Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>20771</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/springpython/analyses/14341808/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="000000" percentage="11" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

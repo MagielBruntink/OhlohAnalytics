@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10641</id>
+      <name>Dada Mail</name>
+      <url>http://www.ohloh.net/p/dadamail.xml</url>
+      <html_url>http://www.ohloh.net/p/dadamail</html_url>
+      <created_at>2008-01-01T00:15:38Z</created_at>
+      <updated_at>2013-07-14T17:18:14Z</updated_at>
+      <description>Dada Mail is an intuitive, web-based e-mail list management system, which runs on any hosting account that can execute custom CGI scripts. Dada Mail is also a conceptual art project. [More Information]
+
+Dada Mail handles double opt-in/opt-out subscriptions, sending complex announce-only and/or discussion mailing list messages, archiving/viewing/searching/resending/syndicating (rss, atom) sent messages and doing all this and more with style.
+
+Dada Mail produces XHTML valid web content and sticks to best practices when creating email messages. Write Once: Distribute Everywhere. Dada Mail is free software that you're able to use, modify and enhance under the terms of the GNU General Public License. Dada Mail is written in Perl.</description>
+      <homepage_url>http://mojo.skazat.com</homepage_url>
+      <download_url>http://mojo.skazat.com/download</download_url>
+      <url_name>dadamail</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1443/dada_mail_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1443/dada_mail_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14626729</analysis_id>
+      <tags>
+        <tag>mail</tag>
+        <tag>perl</tag>
+        <tag>art</tag>
+        <tag>mailing_list</tag>
+        <tag>dada</tag>
+        <tag>email</tag>
+      </tags>
+      <analysis>
+        <id>14626729</id>
+        <url>http://www.ohloh.net/analyses/14626729.xml</url>
+        <project_id>10641</project_id>
+        <updated_at>2013-07-14T14:58:39Z</updated_at>
+        <logged_at>2013-07-14T14:43:07Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>144616</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dadamail/analyses/14626729/languages.png">
+          <language color="D2C690" percentage="93" id="8">
+Perl          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

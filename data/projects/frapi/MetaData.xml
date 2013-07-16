@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483811</id>
+      <name>FRAPI</name>
+      <url>http://www.ohloh.net/p/frapi.xml</url>
+      <html_url>http://www.ohloh.net/p/frapi</html_url>
+      <created_at>2010-06-29T12:45:16Z</created_at>
+      <updated_at>2013-06-29T10:46:10Z</updated_at>
+      <description>FRAPI is a high-level API framework that puts the &#8220;rest&#8221; back into RESTful. Use it to power your web apps, mobile services, and legacy systems.</description>
+      <homepage_url>http://getfrapi.com</homepage_url>
+      <download_url></download_url>
+      <url_name>frapi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14455513</analysis_id>
+      <analysis>
+        <id>14455513</id>
+        <url>http://www.ohloh.net/analyses/14455513.xml</url>
+        <project_id>483811</project_id>
+        <updated_at>2013-07-08T07:38:50Z</updated_at>
+        <logged_at>2013-07-08T07:38:47Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>445165</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/frapi/analyses/14455513/languages.png">
+          <language color="555555" percentage="53" id="3">
+XML          </language>
+          <language color="356AA0" percentage="45" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

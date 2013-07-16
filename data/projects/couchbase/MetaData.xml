@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596231</id>
+      <name>Couchbase</name>
+      <url>http://www.ohloh.net/p/couchbase.xml</url>
+      <html_url>http://www.ohloh.net/p/couchbase</html_url>
+      <created_at>2012-03-11T08:45:22Z</created_at>
+      <updated_at>2013-07-13T18:54:34Z</updated_at>
+      <description>The couchbase server and its components.</description>
+      <homepage_url>http://www.couchbase.com/</homepage_url>
+      <download_url>http://www.couchbase.com/download</download_url>
+      <url_name>couchbase</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64326/Couchbase_Logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64326/Couchbase_Logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11837955</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>nosql</tag>
+        <tag>distributed</tag>
+        <tag>erlang</tag>
+      </tags>
+      <analysis>
+        <id>11837955</id>
+        <url>http://www.ohloh.net/analyses/11837955.xml</url>
+        <project_id>596231</project_id>
+        <updated_at>2012-12-25T13:56:25Z</updated_at>
+        <logged_at>2012-12-25T11:02:59Z</logged_at>
+        <min_month>2003-05-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>38</twelve_month_contributor_count>
+        <total_code_lines>197960</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/couchbase/analyses/11837955/languages.png">
+          <language color="FF8F00" percentage="31" id="42">
+C          </language>
+          <language color="6A2CC7" percentage="20" id="28">
+Erlang          </language>
+          <language color="F35F1F" percentage="18" id="44">
+C++          </language>
+          <language color="000000" percentage="31" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

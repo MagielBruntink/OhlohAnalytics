@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586497</id>
+      <name>Linked Media Framework</name>
+      <url>http://www.ohloh.net/p/lmf.xml</url>
+      <html_url>http://www.ohloh.net/p/lmf</html_url>
+      <created_at>2011-10-06T20:13:39Z</created_at>
+      <updated_at>2013-07-15T16:18:23Z</updated_at>
+      <description>The Linked Media Framework is an easy-to-setup server application that bundles central Semantic Web technologies to offer advanced services. The Linked Media Framework consists of LMF Core and LMF Modules.
+
+LMF Core
+The core component of the Linked Media Framework is a Linked Data Server that allows to expose data following the Linked Data Principles:
+
+The Linked Data Server implemented as part of the LMF goes beyond the Linked Data principles by extending them with Linked Data Updates and by integrating management of metadata and content and making both accessible in a uniform way. Our extensions are described in more detail in LinkedMediaPrinciples. In addition to the Linked Data Server, the LMF Core also offers a SPARQL endpoint.</description>
+      <homepage_url>http://lmf.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/lmf/downloads/list</download_url>
+      <url_name>lmf</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14640805</analysis_id>
+      <tags>
+        <tag>sesame</tag>
+        <tag>sparql</tag>
+        <tag>rww</tag>
+        <tag>linkeddata</tag>
+        <tag>media</tag>
+        <tag>rdf</tag>
+        <tag>skos</tag>
+        <tag>webid</tag>
+      </tags>
+      <analysis>
+        <id>14640805</id>
+        <url>http://www.ohloh.net/analyses/14640805.xml</url>
+        <project_id>586497</project_id>
+        <updated_at>2013-07-15T16:18:23Z</updated_at>
+        <logged_at>2013-07-15T16:17:17Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>133605</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lmf/analyses/14640805/languages.png">
+          <language color="9A63AD" percentage="46" id="5">
+Java          </language>
+          <language color="A4007E" percentage="33" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="9" id="4">
+CSS          </language>
+          <language color="000000" percentage="12" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584667</id>
+      <name>Salome Platform</name>
+      <url>http://www.ohloh.net/p/salome.xml</url>
+      <html_url>http://www.ohloh.net/p/salome</html_url>
+      <created_at>2011-06-22T02:06:00Z</created_at>
+      <updated_at>2013-07-14T17:23:29Z</updated_at>
+      <description>SALOME is an open-source software that provides a generic platform for Pre- and Post-Processing for numerical simulation. It is based on an open and flexible architecture made of reusable components.
+SALOME is a cross-platform solution. It is distributed as open-source software under the terms of the GNU LGPL license. You can download both the source code and the executables from this site.</description>
+      <homepage_url>http://www.salome-platform.org/</homepage_url>
+      <download_url>http://git.salome-platform.org/gitweb/</download_url>
+      <url_name>salome</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61866/icon_about_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61866/icon_about_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14572555</analysis_id>
+      <tags>
+        <tag>engineering_analysis</tag>
+        <tag>scientific_computing</tag>
+        <tag>cad</tag>
+        <tag>simulation_framework</tag>
+        <tag>opencascade</tag>
+      </tags>
+      <analysis>
+        <id>14572555</id>
+        <url>http://www.ohloh.net/analyses/14572555.xml</url>
+        <project_id>584667</project_id>
+        <updated_at>2013-07-09T13:32:16Z</updated_at>
+        <logged_at>2013-07-09T13:13:42Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1562146</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/salome/analyses/14572555/languages.png">
+          <language color="F35F1F" percentage="68" id="44">
+C++          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="4A246B" percentage="8" id="9">
+Python          </language>
+          <language color="000000" percentage="10" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

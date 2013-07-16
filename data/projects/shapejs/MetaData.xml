@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>622550</id>
+      <name>shapejs</name>
+      <url>http://www.ohloh.net/p/shapejs.xml</url>
+      <html_url>http://www.ohloh.net/p/shapejs</html_url>
+      <created_at>2012-11-30T22:54:21Z</created_at>
+      <updated_at>2013-04-01T09:40:30Z</updated_at>
+      <description>Experimental web interface framework for creating complex RIA applications using Java Script 
+
+- MVC (MVVM) with clean and simple architecture
+- component oriented (yes, create reusable components with HTML!)
+- client side  Pub/Sub channels (safe and sound against asynchronous weirdness in computed values/expressions from  models or in callbacks for other messages/events)
+- reusable layouts (experimental)
+- works with Ajax and swarms (Swarm ESB) for backend</description>
+      <homepage_url>https://github.com/salboaie/shape</homepage_url>
+      <download_url></download_url>
+      <url_name>shapejs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13265477</analysis_id>
+      <tags>
+        <tag>controller</tag>
+        <tag>view</tag>
+        <tag>model</tag>
+        <tag>java</tag>
+        <tag>script</tag>
+        <tag>mvc</tag>
+        <tag>mvvm</tag>
+        <tag>ria</tag>
+        <tag>real</tag>
+        <tag>time</tag>
+        <tag>web</tag>
+        <tag>single</tag>
+        <tag>page</tag>
+        <tag>applications</tag>
+        <tag>components</tag>
+        <tag>swarm</tag>
+        <tag>ajax</tag>
+        <tag>esb</tag>
+      </tags>
+      <analysis>
+        <id>13265477</id>
+        <url>http://www.ohloh.net/analyses/13265477.xml</url>
+        <project_id>622550</project_id>
+        <updated_at>2013-04-01T09:40:30Z</updated_at>
+        <logged_at>2013-04-01T09:40:22Z</logged_at>
+        <min_month>2012-11-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>5989</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/shapejs/analyses/13265477/languages.png">
+          <language color="A4007E" percentage="84" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="13" id="4">
+CSS          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpv3_or_later</name>
+          <nice_name>GNU Lesser General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6283</id>
+      <name>Eclipse XPS</name>
+      <url>http://www.ohloh.net/p/eclipse-xps.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse-xps</html_url>
+      <created_at>2007-06-27T09:42:02Z</created_at>
+      <updated_at>2013-07-15T19:25:46Z</updated_at>
+      <description>The Eclipse XPS plug-in shows the results of JUnit test runs using the Dell XPS' built-in LEDs.
+
+The LED colors change when the JUnit test run starts, when a test fails and when the test run completes successfully. In the plug-in's preferences you can configure colors, brightness, which LEDs should be used and whether the LEDs should pulsate (glow) during the test run.</description>
+      <homepage_url>http://code.google.com/p/eclipse-xps/</homepage_url>
+      <download_url>http://code.google.com/p/eclipse-xps/downloads/list</download_url>
+      <url_name>eclipse-xps</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14376407</analysis_id>
+      <tags>
+        <tag>dell_xps</tag>
+        <tag>testing</tag>
+        <tag>plugin</tag>
+        <tag>eclipse</tag>
+        <tag>led</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>junit</tag>
+        <tag>xps</tag>
+      </tags>
+      <analysis>
+        <id>14376407</id>
+        <url>http://www.ohloh.net/analyses/14376407.xml</url>
+        <project_id>6283</project_id>
+        <updated_at>2013-07-15T03:13:38Z</updated_at>
+        <logged_at>2013-07-15T03:13:35Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2008-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>943</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse-xps/analyses/14376407/languages.png">
+          <language color="9A63AD" percentage="59" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

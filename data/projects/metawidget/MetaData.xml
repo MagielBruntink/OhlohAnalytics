@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11547</id>
+      <name>Metawidget</name>
+      <url>http://www.ohloh.net/p/metawidget.xml</url>
+      <html_url>http://www.ohloh.net/p/metawidget</html_url>
+      <created_at>2008-02-06T20:57:10Z</created_at>
+      <updated_at>2013-07-15T18:23:42Z</updated_at>
+      <description>Metawidget takes your domain objects and automatically creates, at runtime, native User Interface components for them - saving you handcoding your UIs. Supports Swing, Java Server Faces (JSF), Spring (Spring Web MVC), Struts, Android, Hibernate...</description>
+      <homepage_url>http://metawidget.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/projects/metawidget/</download_url>
+      <url_name>metawidget</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9074/metawidget_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9074/metawidget_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14637904</analysis_id>
+      <tags>
+        <tag>hibernate</tag>
+        <tag>facelets</tag>
+        <tag>jexl</tag>
+        <tag>groovy</tag>
+        <tag>jpa</tag>
+        <tag>richfaces</tag>
+        <tag>struts</tag>
+        <tag>jsp</tag>
+        <tag>gwt</tag>
+        <tag>java</tag>
+        <tag>swing</tag>
+        <tag>android</tag>
+        <tag>jsf</tag>
+        <tag>spring</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14637904</id>
+        <url>http://www.ohloh.net/analyses/14637904.xml</url>
+        <project_id>11547</project_id>
+        <updated_at>2013-07-15T09:55:46Z</updated_at>
+        <logged_at>2013-07-15T09:49:37Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>320905</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/metawidget/analyses/14637904/languages.png">
+          <language color="9A63AD" percentage="39" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="A4007E" percentage="24" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="11" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21le</name>
+          <nice_name>GNU LGPL 2.1 + linking exception (FPC/Lazarus)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

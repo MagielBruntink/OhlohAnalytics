@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>128696</id>
+      <name>Java Caching System</name>
+      <url>http://www.ohloh.net/p/jcs.xml</url>
+      <html_url>http://www.ohloh.net/p/jcs</html_url>
+      <created_at>2009-01-04T15:40:03Z</created_at>
+      <updated_at>2013-06-26T23:30:37Z</updated_at>
+      <description>JCS is a distributed caching system written in java. It is intended to speed up applications by providing a means to manage cached data of various dynamic natures. Like any caching system, JCS is most useful  for high read, low put applications. Latency times drop sharply and bottlenecks move away from the database in an effectively cached system.  Learn how to start using JCS.</description>
+      <homepage_url>http://commons.apache.org/jcs/index.html</homepage_url>
+      <download_url>http://commons.apache.org/jcs/DownloadPage.html</download_url>
+      <url_name>jcs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14424868</analysis_id>
+      <analysis>
+        <id>14424868</id>
+        <url>http://www.ohloh.net/analyses/14424868.xml</url>
+        <project_id>128696</project_id>
+        <updated_at>2013-07-15T22:49:39Z</updated_at>
+        <logged_at>2013-07-15T22:49:34Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>57774</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jcs/analyses/14424868/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

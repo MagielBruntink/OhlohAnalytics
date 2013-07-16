@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50282</id>
+      <name>dhis2</name>
+      <url>http://www.ohloh.net/p/dhis2.xml</url>
+      <html_url>http://www.ohloh.net/p/dhis2</html_url>
+      <created_at>2008-12-16T12:16:36Z</created_at>
+      <updated_at>2013-07-11T08:36:04Z</updated_at>
+      <description>The DHIS 2 is a tool for collection, validation, analysis, and presentation of aggregate statistical data, tailored (but not limited) to integrated health information management activities. It is a generic tool rather than a pre-configured database application, with an open meta-data model and a flexible user interface that allows the user to design the contents of a specific information system without the need for programming. DHIS 2 and upwards is a modular web-based software package built with free and open source Java frameworks.
+
+The core is built with Java frameworks: Hibernate, Spring, and Struts 2. The software is developed as part of the HISP project, but is generic.</description>
+      <homepage_url>http://dhis2.org</homepage_url>
+      <download_url>http://dhis2.org/downloads</download_url>
+      <url_name>dhis2</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28509/dhis2_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28509/dhis2_logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14586606</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>webapplication</tag>
+        <tag>healthinformationsystem</tag>
+        <tag>healthinformatics</tag>
+        <tag>dhis</tag>
+      </tags>
+      <analysis>
+        <id>14586606</id>
+        <url>http://www.ohloh.net/analyses/14586606.xml</url>
+        <project_id>50282</project_id>
+        <updated_at>2013-07-11T08:36:04Z</updated_at>
+        <logged_at>2013-07-11T08:32:44Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>770450</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dhis2/analyses/14586606/languages.png">
+          <language color="9A63AD" percentage="53" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="A4007E" percentage="18" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="3" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

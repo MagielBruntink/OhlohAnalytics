@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>372696</id>
+      <name>libforensics</name>
+      <url>http://www.ohloh.net/p/libforensics.xml</url>
+      <html_url>http://www.ohloh.net/p/libforensics</html_url>
+      <created_at>2009-08-13T18:58:14Z</created_at>
+      <updated_at>2013-07-15T18:12:18Z</updated_at>
+      <description>LibForensics is a library for developing digital forensics applications.  Currently it is developed in pure Python.  After a majority of the code has been developed and stabilized, the bottlenecks will likely be converted into C-based modules. 
+
+I'm looking for people to use and test the framework.  I've developed some sample Python tools (under the demo directory in the repository) that use various parts of the framework.  Even if you're not a coder, feel free to experiment with the tools, and report any bugs you find. 
+
+LibForensics requires Python version 3.1.  You can get the latest version of Python from http://www.python.org 
+
+News:
+Whats new - March 18, 2010
+I've been working on the next major release (0.3).  Several things have changed, including the data typing system (we now use ctypes instead of struct), more thorough unit testing, numerous bug fixes, and API documentation.  Look for a major release in the next few weeks. 
+
+Some basic factoids</description>
+      <homepage_url>http://code.google.com/p/libforensics/</homepage_url>
+      <download_url></download_url>
+      <url_name>libforensics</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14313658</analysis_id>
+      <tags>
+        <tag>objectoriented</tag>
+        <tag>forensic</tag>
+        <tag>python3</tag>
+        <tag>thumbsdb</tag>
+        <tag>compoundfile</tag>
+        <tag>digitalforensics</tag>
+        <tag>lnk</tag>
+        <tag>cross-platform</tag>
+        <tag>linux</tag>
+        <tag>security</tag>
+        <tag>python</tag>
+        <tag>datastructures</tag>
+        <tag>multiplatform</tag>
+        <tag>analysis</tag>
+        <tag>forensics</tag>
+        <tag>multi-platform</tag>
+        <tag>development</tag>
+        <tag>extraction</tag>
+        <tag>metadata</tag>
+        <tag>library</tag>
+        <tag>ole2</tag>
+        <tag>parser</tag>
+        <tag>osx</tag>
+        <tag>toolkit</tag>
+        <tag>propertysets</tag>
+        <tag>mac_os_x</tag>
+        <tag>windows</tag>
+        <tag>office</tag>
+        <tag>open-source</tag>
+        <tag>datatypes</tag>
+        <tag>lnk_file</tag>
+        <tag>file_format</tag>
+        <tag>object_oriented</tag>
+        <tag>computerforensics</tag>
+        <tag>framework</tag>
+        <tag>extract</tag>
+        <tag>python31</tag>
+        <tag>recyclebin</tag>
+      </tags>
+      <analysis>
+        <id>14313658</id>
+        <url>http://www.ohloh.net/analyses/14313658.xml</url>
+        <project_id>372696</project_id>
+        <updated_at>2013-07-12T02:04:37Z</updated_at>
+        <logged_at>2013-07-12T02:04:35Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>21273</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libforensics/analyses/14313658/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

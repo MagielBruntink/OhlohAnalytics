@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340143</id>
+      <name>DVBlast</name>
+      <url>http://www.ohloh.net/p/DVBlast.xml</url>
+      <html_url>http://www.ohloh.net/p/DVBlast</html_url>
+      <created_at>2009-05-12T09:54:18Z</created_at>
+      <updated_at>2013-07-12T08:55:39Z</updated_at>
+      <description>DVBlast is a simple and powerful streaming application based on the linux-dvb API.
+It opens a DVB device, tunes it, places PID filters, configures a CAM module, and demultiplexes the packets to several RTP outputs.
+
+DVBlast is designed to be the core of a custom IRD or CID, based on a PC with Linux-supported DVB cards.
+
+DVBlast does not do any kind of processing on the elementary streams, such as transcoding, PID remapping or remultiplexing. it does not stream from plain files, only DVB devices. If you were looking for these features, switch to VLC.</description>
+      <homepage_url>http://www.videolan.org/projects/dvblast.html</homepage_url>
+      <download_url>http://www.videolan.org/projects/dvblast.html</download_url>
+      <url_name>DVBlast</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59385/DVBlast-Icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59385/DVBlast-Icon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14603428</analysis_id>
+      <tags>
+        <tag>videolan</tag>
+        <tag>streaming</tag>
+        <tag>dvb</tag>
+      </tags>
+      <analysis>
+        <id>14603428</id>
+        <url>http://www.ohloh.net/analyses/14603428.xml</url>
+        <project_id>340143</project_id>
+        <updated_at>2013-07-12T08:55:38Z</updated_at>
+        <logged_at>2013-07-12T08:55:20Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>9811</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/DVBlast/analyses/14603428/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

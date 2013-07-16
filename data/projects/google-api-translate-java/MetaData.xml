@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19936</id>
+      <name>google-api-translate-java</name>
+      <url>http://www.ohloh.net/p/google-api-translate-java.xml</url>
+      <html_url>http://www.ohloh.net/p/google-api-translate-java</html_url>
+      <created_at>2008-10-07T12:46:37Z</created_at>
+      <updated_at>2013-06-29T18:39:33Z</updated_at>
+      <description>Provides a simple, unofficial, Java client API for using Google Translate. 
+
+Install 
+
+Simply include the google-api-translate-java.jar file in your application's classpath. 
+
+Quickstart 
+
+This is our &quot;Hello World&quot; example: 
+
+import com.google.api.translate.Language;
+import com.google.api.translate.Translate;
+
+public class Main {
+  public static void main(String[] args) {
+    try {
+      String translatedText = Translate.translate(&quot;Salut le monde&quot;, Language.FRENCH, Language.ENGLISH);
+      System.out.println(translatedText);
+    } catch (Exception ex) {
+      ex.printStackTrace();
+    }
+  }
+}Well done. You're now an expert in using this API! The wiki has a more complete example usage within a desktop application. 
+
+Features 
+
+Automatically throttles repeated queri</description>
+      <homepage_url>http://code.google.com/p/google-api-translate-java</homepage_url>
+      <download_url></download_url>
+      <url_name>google-api-translate-java</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14465461</analysis_id>
+      <tags>
+        <tag>api</tag>
+        <tag>java</tag>
+        <tag>translate</tag>
+        <tag>library</tag>
+        <tag>language</tag>
+      </tags>
+      <analysis>
+        <id>14465461</id>
+        <url>http://www.ohloh.net/analyses/14465461.xml</url>
+        <project_id>19936</project_id>
+        <updated_at>2013-07-13T22:24:35Z</updated_at>
+        <logged_at>2013-07-13T22:24:32Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7200</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/google-api-translate-java/analyses/14465461/languages.png">
+          <language color="47A400" percentage="59" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="34" id="5">
+Java          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

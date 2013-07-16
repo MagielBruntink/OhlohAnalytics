@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14754</id>
+      <name>Persian Firefox</name>
+      <url>http://www.ohloh.net/p/persian-firefox.xml</url>
+      <html_url>http://www.ohloh.net/p/persian-firefox</html_url>
+      <created_at>2008-06-06T09:38:27Z</created_at>
+      <updated_at>2013-06-22T18:08:05Z</updated_at>
+      <description>The official Persian localization project for Mozilla Firefox.</description>
+      <homepage_url>http://www.firefox.ir/</homepage_url>
+      <download_url>http://l10n.mozilla.org/~buildslave/incubator/firefox-2.0.0.15pre.fa.langpack.xpi</download_url>
+      <url_name>persian-firefox</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14066/firefox-ir.15.01.w160px-740497_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14066/firefox-ir.15.01.w160px-740497_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14345485</analysis_id>
+      <tags>
+        <tag>firefox</tag>
+        <tag>l10n</tag>
+        <tag>persian</tag>
+        <tag>mozilla</tag>
+      </tags>
+      <analysis>
+        <id>14345485</id>
+        <url>http://www.ohloh.net/analyses/14345485.xml</url>
+        <project_id>14754</project_id>
+        <updated_at>2013-07-09T23:14:01Z</updated_at>
+        <logged_at>2013-07-09T23:13:57Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2008-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3826</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/persian-firefox/analyses/14345485/languages.png">
+          <language color="555555" percentage="94" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

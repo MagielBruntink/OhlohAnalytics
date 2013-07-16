@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346449</id>
+      <name>frogr: flickr remote organizer for GNOME</name>
+      <url>http://www.ohloh.net/p/frogr.xml</url>
+      <html_url>http://www.ohloh.net/p/frogr</html_url>
+      <created_at>2009-06-10T16:25:43Z</created_at>
+      <updated_at>2013-07-14T17:56:01Z</updated_at>
+      <description>A flickr remote organizer for GNOME.
+
+Frogr intends to be a complete GNOME application to remotely manage a flickr account from the desktop. It uses flicksoup, a libsoup-based library to communicate with the server through the publicly available flickr REST API</description>
+      <homepage_url>http://live.gnome.org/Frogr</homepage_url>
+      <download_url>http://people.gnome.org/~msanchez/files/frogr</download_url>
+      <url_name>frogr</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20081/frogr_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20081/frogr_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14629026</analysis_id>
+      <tags>
+        <tag>flickr</tag>
+        <tag>gnome</tag>
+      </tags>
+      <analysis>
+        <id>14629026</id>
+        <url>http://www.ohloh.net/analyses/14629026.xml</url>
+        <project_id>346449</project_id>
+        <updated_at>2013-07-14T17:56:01Z</updated_at>
+        <logged_at>2013-07-14T17:50:22Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>24</twelve_month_contributor_count>
+        <total_code_lines>20410</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/frogr/analyses/14629026/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

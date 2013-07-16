@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>223341</id>
+      <project_id>18751</project_id>
+      <repository_id>221169</repository_id>
+      <repository>
+        <id>221169</id>
+        <type>GitRepository</type>
+        <url>git://github.com/idlesign/django-firebird.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T10:47:37Z</logged_at>
+        <commits>42</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>46383</id>
+      <project_id>18751</project_id>
+      <repository_id>45079</repository_id>
+      <repository>
+        <id>45079</id>
+        <type>SvnSyncRepository</type>
+        <url>http://django-firebird.googlecode.com/svn/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T10:16:04Z</logged_at>
+        <commits>38</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

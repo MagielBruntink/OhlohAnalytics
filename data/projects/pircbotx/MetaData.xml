@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487520</id>
+      <name>PircBotX</name>
+      <url>http://www.ohloh.net/p/pircbotx.xml</url>
+      <html_url>http://www.ohloh.net/p/pircbotx</html_url>
+      <created_at>2011-01-12T19:49:18Z</created_at>
+      <updated_at>2013-07-11T07:12:23Z</updated_at>
+      <description>PircBotX is a simple, easy to use, Java IRC Bot Framework forked from the popular PircBot framework, bringing many new up-to-date features and bug fixes in an official alternative distribution.
+
+The major goals of this project include
+ - Taking advantage of the many features available in Java 1.5
+ - Cleaning up the code to meet coding standards
+ - Have a very open API that welcomes extension instead of preventing it.
+ - Replace the method based event system with a new event object based event system
+ - Ensure that the stability in the original PircBot? project continues into this one
+ - Make it easy to integrate into larger frameworks 
+
+See our website at http://code.google.com/p/pircbotx/</description>
+      <homepage_url>http://pircbotx.googlecode.com/</homepage_url>
+      <download_url>http://code.google.com/p/pircbotx/#Downloading</download_url>
+      <url_name>pircbotx</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14585746</analysis_id>
+      <tags>
+        <tag>ircbot</tag>
+        <tag>pircbot</tag>
+        <tag>irc-bot</tag>
+        <tag>java</tag>
+        <tag>bot</tag>
+        <tag>irc</tag>
+        <tag>framework</tag>
+        <tag>internet_relay_chat</tag>
+      </tags>
+      <analysis>
+        <id>14585746</id>
+        <url>http://www.ohloh.net/analyses/14585746.xml</url>
+        <project_id>487520</project_id>
+        <updated_at>2013-07-11T07:12:23Z</updated_at>
+        <logged_at>2013-07-11T07:10:52Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>8865</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pircbotx/analyses/14585746/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

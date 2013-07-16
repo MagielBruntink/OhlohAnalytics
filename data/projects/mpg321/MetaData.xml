@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10659</id>
+      <name>mpg321</name>
+      <url>http://www.ohloh.net/p/mpg321.xml</url>
+      <html_url>http://www.ohloh.net/p/mpg321</html_url>
+      <created_at>2008-01-02T09:12:06Z</created_at>
+      <updated_at>2013-07-01T07:41:21Z</updated_at>
+      <description>mpg321 is a Free replacement for mpg123, a very popular command-line mp3 player. mpg123 is used for frontends, as an mp3 player and as an mp3 to wave file decoder (primarily for use with CD-recording software.) In all of these capacities, mpg321 can be used as a drop-in replacement for mpg123.</description>
+      <homepage_url>http://mpg321.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=36274</download_url>
+      <url_name>mpg321</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14494330</analysis_id>
+      <analysis>
+        <id>14494330</id>
+        <url>http://www.ohloh.net/analyses/14494330.xml</url>
+        <project_id>10659</project_id>
+        <updated_at>2013-07-12T01:47:07Z</updated_at>
+        <logged_at>2013-07-12T01:47:03Z</logged_at>
+        <min_month>2001-10-01T00:00:00Z</min_month>
+        <max_month>2004-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11652</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mpg321/analyses/14494330/languages.png">
+          <language color="EEE" percentage="59" id="51">
+Autoconf          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

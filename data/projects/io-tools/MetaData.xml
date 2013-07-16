@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20446</id>
+      <name>io-tools</name>
+      <url>http://www.ohloh.net/p/io-tools.xml</url>
+      <html_url>http://www.ohloh.net/p/io-tools</html_url>
+      <created_at>2008-10-07T13:10:57Z</created_at>
+      <updated_at>2013-06-23T23:57:07Z</updated_at>
+      <description>Stream Utilities (EasyStream)Small set of utilities for dealing with streams. You can use this library for: 
+
+'Convert' an OutputStream into an InputStream. Stream statistics gathering: bytes read/written, bit rate. Stream buffering: read the content of an InputStream multiple times or seek to a definite position. Stream wiring: While reading the data from an InputStream &quot;tee&quot; it to supplied OutputStream(s) or write data to multiple OutputStream(s) at the same time. EasyStream is a natural extension of Apache commons-io, providing advanced solutions to some common but not trivial problem. Focus is on performance and memory usage.  
+
+Format detection (WazFormat)This library is a format identification framework that integrates a native format identification engine with droid and in future will integrate mime-utils and apache tika. 
+
+Supports more than 60 file formats. on the fly detection: it wraps the original InputStream so it's able to &quot;preserve&quot; the data in it for further processing (the data is eventually buffered to disk or to memory but the users won't notice it). Nested detection: it can detect what is inside a bzip2 stream or a PKCS#7 document. Result of identification is an Enum. Most of identification libraries return a string that must be further parsed by the calling software. What is next ?Take the 5 minutes tutorials:  'Convert' an OutputStream into an InputStream introduction stream utilities explained usage. format identification. Check out the full API (Javadoc) at easystream and wazformat .  Download the latest version (see the link on the right) or if you're a Maven2 user install it (if you use Maven2 you'll get the freshest but stable version). Post your questions on the users forum. 
+
+Any help is appreciated (also comment or suggestion or bug reports). If you want to contribute please contact me through the forum and request for a membership.</description>
+      <homepage_url>http://code.google.com/p/io-tools</homepage_url>
+      <download_url>http://code.google.com/p/io-tools/downloads/list</download_url>
+      <url_name>io-tools</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39663/i-o.ico_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39663/i-o.ico_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14368331</analysis_id>
+      <tags>
+        <tag>inputstream</tag>
+        <tag>java</tag>
+        <tag>mime</tag>
+        <tag>readinputstreammultipletimes</tag>
+        <tag>library</tag>
+        <tag>outputstream</tag>
+        <tag>wiring</tag>
+        <tag>detection</tag>
+        <tag>pipe</tag>
+        <tag>format</tag>
+        <tag>streamutilities</tag>
+      </tags>
+      <analysis>
+        <id>14368331</id>
+        <url>http://www.ohloh.net/analyses/14368331.xml</url>
+        <project_id>20446</project_id>
+        <updated_at>2013-07-13T09:09:10Z</updated_at>
+        <logged_at>2013-07-13T09:06:07Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>14246</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/io-tools/analyses/14368331/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

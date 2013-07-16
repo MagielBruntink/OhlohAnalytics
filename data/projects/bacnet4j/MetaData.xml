@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>130206</id>
+      <name>BACnet I/P for Java</name>
+      <url>http://www.ohloh.net/p/bacnet4j.xml</url>
+      <html_url>http://www.ohloh.net/p/bacnet4j</html_url>
+      <created_at>2009-01-05T05:52:26Z</created_at>
+      <updated_at>2013-06-24T15:53:32Z</updated_at>
+      <description>A high-performance implementation of the BACnet I/P protocol written for Java (minimum version 1.5) by Serotonin Software. Supports all BACnet services and full message segregation. Can be used for field devices or for control platforms.</description>
+      <homepage_url>http://sourceforge.net/projects/bacnet4j</homepage_url>
+      <download_url></download_url>
+      <url_name>bacnet4j</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14382019</analysis_id>
+      <analysis>
+        <id>14382019</id>
+        <url>http://www.ohloh.net/analyses/14382019.xml</url>
+        <project_id>130206</project_id>
+        <updated_at>2013-07-15T07:31:48Z</updated_at>
+        <logged_at>2013-07-15T07:31:37Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>28607</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bacnet4j/analyses/14382019/languages.png">
+          <language color="9A63AD" percentage="100" id="5">
+Java          </language>
+          <language color="555555" percentage="&lt;1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

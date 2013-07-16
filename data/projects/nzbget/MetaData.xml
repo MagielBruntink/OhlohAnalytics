@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>99833</id>
+      <name>NZBGet</name>
+      <url>http://www.ohloh.net/p/nzbget.xml</url>
+      <html_url>http://www.ohloh.net/p/nzbget</html_url>
+      <created_at>2008-12-24T13:16:28Z</created_at>
+      <updated_at>2013-07-06T00:27:44Z</updated_at>
+      <description>NZBGet is a command-line based binary newsgrabber for nzb files, written in C++. Supports client/server mode, automatic par-check/-repair and web-interface (via additional package). Requires low system resources and runs great on routers and NAS-devices.</description>
+      <homepage_url>http://sourceforge.net/projects/nzbget</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=102632</download_url>
+      <url_name>nzbget</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14544286</analysis_id>
+      <tags>
+        <tag>nzb</tag>
+      </tags>
+      <analysis>
+        <id>14544286</id>
+        <url>http://www.ohloh.net/analyses/14544286.xml</url>
+        <project_id>99833</project_id>
+        <updated_at>2013-07-06T00:27:43Z</updated_at>
+        <logged_at>2013-07-06T00:27:12Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>87920</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nzbget/analyses/14544286/languages.png">
+          <language color="F35F1F" percentage="38" id="44">
+C++          </language>
+          <language color="EEE" percentage="21" id="51">
+Autoconf          </language>
+          <language color="A4007E" percentage="15" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="26" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

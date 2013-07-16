@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10351</id>
+      <name>UFace</name>
+      <url>http://www.ohloh.net/p/uface.xml</url>
+      <html_url>http://www.ohloh.net/p/uface</html_url>
+      <created_at>2007-12-17T18:50:42Z</created_at>
+      <updated_at>2013-06-24T12:25:26Z</updated_at>
+      <description>UFace provides a Universal API to create rich user interface applications on a variety of platforms such as the web via GWT or Java via Swing or Eclipse.
+
+UFace provides a thin facade above the various widget implementations, then uses JFace Data Binding to bind your model objects to the user interface widgets.
+
+The primary targets are implementation for GWT (including 3rd party widgets from e.g. gwt-ext, MyGWT), SWT/JFace and Swing but the API should flexible enough to allow other widget libraries to provide their own facades such as for things like QT-Jambi or JGoodies.</description>
+      <homepage_url>http://code.google.com/p/uface/</homepage_url>
+      <download_url>http://code.google.com/p/uface/downloads/list</download_url>
+      <url_name>uface</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14378640</analysis_id>
+      <tags>
+        <tag>ui</tag>
+        <tag>java</tag>
+        <tag>gwt</tag>
+        <tag>api</tag>
+        <tag>widgets</tag>
+        <tag>cross-platform</tag>
+        <tag>extjs</tag>
+        <tag>swt</tag>
+        <tag>web</tag>
+        <tag>programming</tag>
+        <tag>toolkit</tag>
+        <tag>development</tag>
+        <tag>swf</tag>
+        <tag>library</tag>
+        <tag>ajax</tag>
+        <tag>gui</tag>
+        <tag>swing</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14378640</id>
+        <url>http://www.ohloh.net/analyses/14378640.xml</url>
+        <project_id>10351</project_id>
+        <updated_at>2013-07-13T01:33:53Z</updated_at>
+        <logged_at>2013-07-13T01:33:50Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>671591</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/uface/analyses/14378640/languages.png">
+          <language color="47A400" percentage="38" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="28" id="5">
+Java          </language>
+          <language color="A4007E" percentage="24" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

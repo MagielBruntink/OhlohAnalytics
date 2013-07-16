@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>335234</id>
+      <name>Kendo Tournament Generator</name>
+      <url>http://www.ohloh.net/p/kendotournament.xml</url>
+      <html_url>http://www.ohloh.net/p/kendotournament</html_url>
+      <created_at>2009-04-29T10:21:28Z</created_at>
+      <updated_at>2013-07-11T14:16:32Z</updated_at>
+      <description>This software manage different kendo tournaments: from local simple championships to professional tournaments with high number of teams. 
+
+The software can manage the registration of competitors, team generation, design of the tournament (simple, championship, manual, ... ). Also allows the creation of accreditations, list of teams and other documents in PDF useful for manage a real kendo tournament. 
+
+Finally, it allows to obtain some statistics and feedback from each team and competitors.</description>
+      <homepage_url>http://sourceforge.net/projects/kendotournament/</homepage_url>
+      <download_url>https://sourceforge.net/projects/kendotournament/files/latest/download</download_url>
+      <url_name>kendotournament</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55138/kendo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55138/kendo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14582781</analysis_id>
+      <tags>
+        <tag>desktop_application</tag>
+        <tag>generator</tag>
+        <tag>kendo</tag>
+        <tag>java</tag>
+        <tag>linux</tag>
+        <tag>championship</tag>
+        <tag>mysql</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14582781</id>
+        <url>http://www.ohloh.net/analyses/14582781.xml</url>
+        <project_id>335234</project_id>
+        <updated_at>2013-07-10T20:36:09Z</updated_at>
+        <logged_at>2013-07-10T08:22:42Z</logged_at>
+        <min_month>2012-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>98537</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kendotournament/analyses/14582781/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="555555" percentage="27" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

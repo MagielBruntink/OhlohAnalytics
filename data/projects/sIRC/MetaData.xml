@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>320508</id>
+      <name>sIRC</name>
+      <url>http://www.ohloh.net/p/sIRC.xml</url>
+      <html_url>http://www.ohloh.net/p/sIRC</html_url>
+      <created_at>2009-03-21T13:52:24Z</created_at>
+      <updated_at>2013-07-15T18:06:29Z</updated_at>
+      <description>sIRC is a general purpose IRC client library for Java, to be used as a foundation for IRC clients or bots. Using an event-driven architecture for recieving messages and a easy way of sending messages, sIRC simplifies the task of working with IRC servers.</description>
+      <homepage_url>http://j-sirc.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/j-sirc/downloads/list</download_url>
+      <url_name>sIRC</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29388/sirc_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29388/sirc_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14467723</analysis_id>
+      <tags>
+        <tag>irc-bot</tag>
+        <tag>ircbot</tag>
+        <tag>ircclient</tag>
+        <tag>irc</tag>
+        <tag>ircservice</tag>
+        <tag>ircservices</tag>
+        <tag>java</tag>
+        <tag>cross-platform</tag>
+        <tag>chatbot</tag>
+        <tag>internet_relay_chat</tag>
+        <tag>chat</tag>
+      </tags>
+      <analysis>
+        <id>14467723</id>
+        <url>http://www.ohloh.net/analyses/14467723.xml</url>
+        <project_id>320508</project_id>
+        <updated_at>2013-07-11T11:08:44Z</updated_at>
+        <logged_at>2013-07-11T11:08:41Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1578</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sIRC/analyses/14467723/languages.png">
+          <language color="9A63AD" percentage="100" id="5">
+Java          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

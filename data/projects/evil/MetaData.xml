@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>851</id>
+      <name>Evil Ruby</name>
+      <url>http://www.ohloh.net/p/evil.xml</url>
+      <html_url>http://www.ohloh.net/p/evil</html_url>
+      <created_at>2006-10-11T07:22:03Z</created_at>
+      <updated_at>2013-06-21T23:45:55Z</updated_at>
+      <description>Extends Ruby's semantics by accessing its internals from pure Ruby code.</description>
+      <homepage_url>http://rubyforge.org/projects/evil/</homepage_url>
+      <download_url></download_url>
+      <url_name>evil</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14333411</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>ruby</tag>
+        <tag>religion</tag>
+      </tags>
+      <analysis>
+        <id>14333411</id>
+        <url>http://www.ohloh.net/analyses/14333411.xml</url>
+        <project_id>851</project_id>
+        <updated_at>2013-07-11T14:31:53Z</updated_at>
+        <logged_at>2013-07-11T14:18:23Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2007-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3115</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/evil/analyses/14333411/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+          <language color="AAAAAA" percentage="&lt;1" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

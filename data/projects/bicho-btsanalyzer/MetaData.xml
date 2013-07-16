@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484155</id>
+      <name>Bicho: Bug tracking system tool analyzer</name>
+      <url>http://www.ohloh.net/p/bicho-btsanalyzer.xml</url>
+      <html_url>http://www.ohloh.net/p/bicho-btsanalyzer</html_url>
+      <created_at>2010-07-19T16:31:32Z</created_at>
+      <updated_at>2013-07-12T09:33:14Z</updated_at>
+      <description>Bicho is a command line based tool used to analyze bug tracking systems. It creates a database with three tables. Bugs, which contains general information about bugs; Comments, which contains information about each comment found in the BTS; and Attachments, wich contains information about each attachment found. Also, each Comment and Attachment are associated with a Bug.</description>
+      <homepage_url>https://projects.libresoft.es/wiki/bicho</homepage_url>
+      <download_url>http://projects.libresoft.es/projects/bicho/files</download_url>
+      <url_name>bicho-btsanalyzer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39947/Bicho-caterpillar_david_wislon_01_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39947/Bicho-caterpillar_david_wislon_01_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>2.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14603847</analysis_id>
+      <tags>
+        <tag>jira</tag>
+        <tag>extractor</tag>
+        <tag>mantisbt</tag>
+        <tag>bugzilla</tag>
+        <tag>bugreport</tag>
+        <tag>bug</tag>
+      </tags>
+      <analysis>
+        <id>14603847</id>
+        <url>http://www.ohloh.net/analyses/14603847.xml</url>
+        <project_id>484155</project_id>
+        <updated_at>2013-07-12T09:33:14Z</updated_at>
+        <logged_at>2013-07-12T09:32:37Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>8834</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bicho-btsanalyzer/analyses/14603847/languages.png">
+          <language color="4A246B" percentage="83" id="9">
+Python          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>480250</id>
+      <project_id>483303</project_id>
+      <repository_id>480562</repository_id>
+      <repository>
+        <id>480562</id>
+        <type>BzrRepository</type>
+        <url>https://code.launchpad.net/~ztefn/haguichi/gtk3</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T09:31:47Z</logged_at>
+        <commits>382</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>223442</id>
+      <project_id>483303</project_id>
+      <repository_id>221266</repository_id>
+      <repository>
+        <id>221266</id>
+        <type>BzrRepository</type>
+        <url>https://code.launchpad.net/~ztefn/haguichi/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T09:31:49Z</logged_at>
+        <commits>348</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>
