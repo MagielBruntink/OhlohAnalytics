@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>468243</id>
+      <name>Apache Wookie</name>
+      <url>http://www.ohloh.net/p/wookie.xml</url>
+      <html_url>http://www.ohloh.net/p/wookie</html_url>
+      <created_at>2009-10-28T01:42:03Z</created_at>
+      <updated_at>2013-07-13T08:58:21Z</updated_at>
+      <description>Apache Wookie is a Java server application that allows you to upload and deploy widgets for your applications; widgets can not only include all the usual kinds of mini-applications, badges, and gadgets, but also fully-collaborative applications such as chats, quizzes, and games.
+
+Wookie is based on the W3C Widgets specification, but widgets can also be included that use extended APIs such as Google Wave Gadgets and OpenSocial.</description>
+      <homepage_url>http://incubator.apache.org/wookie</homepage_url>
+      <download_url>http://wookie.apache.org/docs/download.html</download_url>
+      <url_name>wookie</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27582/defaultwidget_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27582/defaultwidget_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14617693</analysis_id>
+      <tags>
+        <tag>w3c</tag>
+        <tag>widget</tag>
+        <tag>opensocial</tag>
+      </tags>
+      <analysis>
+        <id>14617693</id>
+        <url>http://www.ohloh.net/analyses/14617693.xml</url>
+        <project_id>468243</project_id>
+        <updated_at>2013-07-13T08:58:21Z</updated_at>
+        <logged_at>2013-07-13T08:57:08Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>97559</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wookie/analyses/14617693/languages.png">
+          <language color="A4007E" percentage="46" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="29" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="10" id="4">
+CSS          </language>
+          <language color="000000" percentage="15" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

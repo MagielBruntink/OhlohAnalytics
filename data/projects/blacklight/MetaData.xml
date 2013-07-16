@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26444</id>
+      <name>Blacklight</name>
+      <url>http://www.ohloh.net/p/blacklight.xml</url>
+      <html_url>http://www.ohloh.net/p/blacklight</html_url>
+      <created_at>2008-11-10T18:35:27Z</created_at>
+      <updated_at>2013-07-15T17:25:05Z</updated_at>
+      <description>A next generation library catalog written in ruby, using solr as the underlying search engine. All you have to do is export your marc records, index them with the scripts provided, start up ruby on rails, and you're on your way to faceted browsing bliss.</description>
+      <homepage_url>http://projectblacklight.org</homepage_url>
+      <download_url>https://github.com/projectblacklight/blacklight/downloads</download_url>
+      <url_name>blacklight</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39026/Picture_11_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39026/Picture_11_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14619311</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>solr</tag>
+        <tag>library</tag>
+        <tag>rails</tag>
+        <tag>discovery</tag>
+        <tag>search</tag>
+        <tag>code4lib</tag>
+        <tag>catalog</tag>
+        <tag>marc</tag>
+      </tags>
+      <analysis>
+        <id>14619311</id>
+        <url>http://www.ohloh.net/analyses/14619311.xml</url>
+        <project_id>26444</project_id>
+        <updated_at>2013-07-13T14:06:59Z</updated_at>
+        <logged_at>2013-07-13T14:02:55Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>10074</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blacklight/analyses/14619311/languages.png">
+          <language color="A40011" percentage="92" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="7" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="1" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

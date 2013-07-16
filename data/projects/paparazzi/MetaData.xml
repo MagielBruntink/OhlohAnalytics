@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>1095</id>
+      <name>paparazzi</name>
+      <url>http://www.ohloh.net/p/paparazzi.xml</url>
+      <html_url>http://www.ohloh.net/p/paparazzi</html_url>
+      <created_at>2006-10-11T20:59:25Z</created_at>
+      <updated_at>2013-07-12T13:39:18Z</updated_at>
+      <description>Paparazzi is a free and open-source hardware and software project intended to create an exceptionally powerful and versatile autopilot system by allowing and encouraging input from the community. The project includes not only the airborne hardware and software, from voltage regulators and GPS receivers to Kalman filtering code, but also a powerful and ever-expanding array of ground hardware and software including modems, antennas, and a highly evolved user-friendly ground control software interface.
+All hardware and software is open-source and freely available to anyone under the GNU licencing agreement. Several vendors are currently producing and selling Paparazzi autopilots and popular accessories, making the system easy and affordable to all.
+The key feature of the paparazzi autopilot is its unique combination of infrared thermopiles and inertial measurement for attitude sensing, providing a robust and accurate attitude estimate that requires no ground calibration and can recover from any launch attitude.
+The sourcecode is hosted at GitHub http://github.org/paparazzi/paparazzi for more information see http://paparazzi.enac.fr/wiki/Git</description>
+      <homepage_url>http://paparazzi.enac.fr/wiki/Main_Page</homepage_url>
+      <download_url>http://paparazzi.enac.fr/wiki/Downloads</download_url>
+      <url_name>paparazzi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34008/paparazzi_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34008/paparazzi_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14606256</analysis_id>
+      <tags>
+        <tag>paparazzi</tag>
+        <tag>drone</tag>
+        <tag>enac</tag>
+        <tag>uav</tag>
+        <tag>arm7tdmi</tag>
+        <tag>microcontroller</tag>
+        <tag>arm</tag>
+        <tag>c</tag>
+        <tag>embedded</tag>
+        <tag>cortex-m3</tag>
+        <tag>robotics</tag>
+        <tag>ocaml</tag>
+        <tag>uas</tag>
+      </tags>
+      <analysis>
+        <id>14606256</id>
+        <url>http://www.ohloh.net/analyses/14606256.xml</url>
+        <project_id>1095</project_id>
+        <updated_at>2013-07-12T13:39:18Z</updated_at>
+        <logged_at>2013-07-12T11:37:59Z</logged_at>
+        <min_month>2005-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>22</twelve_month_contributor_count>
+        <total_code_lines>1260968</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/paparazzi/analyses/14606256/languages.png">
+          <language color="555555" percentage="66" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="18" id="42">
+C          </language>
+          <language color="000000" percentage="16" id="">
+18 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

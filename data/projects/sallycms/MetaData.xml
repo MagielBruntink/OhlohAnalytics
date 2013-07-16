@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484103</id>
+      <name>SallyCMS</name>
+      <url>http://www.ohloh.net/p/sallycms.xml</url>
+      <html_url>http://www.ohloh.net/p/sallycms</html_url>
+      <created_at>2010-07-17T00:02:50Z</created_at>
+      <updated_at>2013-07-16T05:06:19Z</updated_at>
+      <description>Das Sally CMS richtet sich besonders an Professionals und Integratoren, die f&#252;r ihre Kunden gut bedienbare und professionelle Webseiten auf Basis eines CMS umsetzen wollen.
+Zentrale Aspekte bei der Entwicklung an Sally sind: 
+
+Das Sally CMS ist ein Fork des REDAXO CMS. Wir finden das Konzept des REDAXO CMS in vielen Aspekten sehr interessant und haben daher Sally von REDAXO abgespalten. Gro&#223;e Bestandteile von Sally stehen unter MIT-License, das Gesamtprojekt allerdings noch unter GPL, da es noch GPL-Code enth&#228;lt. Wir arbeiten allerdings daran, die gesamte Quellcode-Basis von REDAXO durch neuen Sally-Spezifischen Code zu ersetzen, um das CMS m&#246;glichst z&#252;gig komplett unter MIT-License stellen zu k&#246;nnen.</description>
+      <homepage_url>http://www.sallycms.de/</homepage_url>
+      <download_url>http://bitbucket.org/SallyCMS/trunk</download_url>
+      <url_name>sallycms</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35349/sally_logo_220x100_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35349/sally_logo_220x100_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14646730</analysis_id>
+      <tags>
+        <tag>html5</tag>
+        <tag>php53</tag>
+        <tag>mod_rewrite</tag>
+        <tag>yaml</tag>
+        <tag>cms</tag>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>javascript</tag>
+        <tag>jquery</tag>
+        <tag>web</tag>
+        <tag>xhtml</tag>
+        <tag>php52</tag>
+        <tag>php54</tag>
+        <tag>lesscss</tag>
+        <tag>apache</tag>
+      </tags>
+      <analysis>
+        <id>14646730</id>
+        <url>http://www.ohloh.net/analyses/14646730.xml</url>
+        <project_id>484103</project_id>
+        <updated_at>2013-07-16T05:06:18Z</updated_at>
+        <logged_at>2013-07-16T05:04:42Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>28926</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sallycms/analyses/14646730/languages.png">
+          <language color="356AA0" percentage="89" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

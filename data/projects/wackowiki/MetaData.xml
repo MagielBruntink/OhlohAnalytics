@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5247</id>
+      <name>WackoWiki</name>
+      <url>http://www.ohloh.net/p/wackowiki.xml</url>
+      <html_url>http://www.ohloh.net/p/wackowiki</html_url>
+      <created_at>2007-05-10T17:02:04Z</created_at>
+      <updated_at>2013-06-21T22:58:52Z</updated_at>
+      <description>WackoWiki is a small, lightweight, handy, expandable, multilingual Wiki-engine based on Wakka Wiki written in PHP, which uses MySQL to store pages. WackoWiki has an WYSIWYG-like editor, easy installer, many localizations, email notification on changes/comments, several cache levels, design themes (skins) support, XHTML compliance, page rights (ACLs), and page comments. WackoWiki is licensed under BSD.</description>
+      <homepage_url>http://wackowiki.sf.net</homepage_url>
+      <download_url>http://downloads.sourceforge.net/wackowiki</download_url>
+      <url_name>wackowiki</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54266/wackowiki_icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54266/wackowiki_icon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14332579</analysis_id>
+      <tags>
+        <tag>multilingual</tag>
+        <tag>forum</tag>
+        <tag>permissions</tag>
+        <tag>xhtml</tag>
+        <tag>education</tag>
+        <tag>lamp</tag>
+        <tag>collaboration</tag>
+        <tag>web</tag>
+        <tag>javascript</tag>
+        <tag>php</tag>
+        <tag>wiki</tag>
+        <tag>mysql</tag>
+        <tag>cms</tag>
+        <tag>html</tag>
+        <tag>groupware</tag>
+        <tag>front-ends</tag>
+        <tag>blog</tag>
+        <tag>rss</tag>
+        <tag>extranet</tag>
+        <tag>intranet</tag>
+      </tags>
+      <analysis>
+        <id>14332579</id>
+        <url>http://www.ohloh.net/analyses/14332579.xml</url>
+        <project_id>5247</project_id>
+        <updated_at>2013-07-10T06:20:41Z</updated_at>
+        <logged_at>2013-07-10T06:20:38Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>97285</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wackowiki/analyses/14332579/languages.png">
+          <language color="356AA0" percentage="79" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="14" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

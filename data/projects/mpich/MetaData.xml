@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>593922</id>
+      <name>MPICH</name>
+      <url>http://www.ohloh.net/p/mpich.xml</url>
+      <html_url>http://www.ohloh.net/p/mpich</html_url>
+      <created_at>2012-03-08T07:55:28Z</created_at>
+      <updated_at>2013-07-14T08:00:58Z</updated_at>
+      <description>MPICH is a high-performance and widely portable implementation of the Message Passing Interface (MPI) standard. The goals of MPICH are: (1) to provide an MPI implementation that efficiently supports different computation and communication platforms including commodity clusters (desktop systems, shared-memory systems, multicore architectures), high-speed networks and proprietary high-end computing systems and (2) to enable cutting-edge research in MPI through an easy-to-extend modular framework for other derived implementations.</description>
+      <homepage_url>http://www.mpich.org/</homepage_url>
+      <download_url>http://www.mcs.anl.gov/research/projects/mpich2/downloads/index.php?s=downloads</download_url>
+      <url_name>mpich</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14623777</analysis_id>
+      <tags>
+        <tag>parallelcomputing</tag>
+        <tag>mpich3</tag>
+        <tag>mpi_2</tag>
+        <tag>parallel</tag>
+        <tag>mpi_io</tag>
+        <tag>message_passing</tag>
+        <tag>high_performance_computing</tag>
+        <tag>hpc</tag>
+        <tag>mpi</tag>
+        <tag>mpich2</tag>
+        <tag>portable</tag>
+        <tag>mpich</tag>
+        <tag>mpi_3</tag>
+        <tag>parallelprogramming</tag>
+      </tags>
+      <analysis>
+        <id>14623777</id>
+        <url>http://www.ohloh.net/analyses/14623777.xml</url>
+        <project_id>593922</project_id>
+        <updated_at>2013-07-14T08:00:58Z</updated_at>
+        <logged_at>2013-07-13T22:09:05Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>23</twelve_month_contributor_count>
+        <total_code_lines>520956</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mpich/analyses/14623777/languages.png">
+          <language color="FF8F00" percentage="77" id="42">
+C          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="14" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

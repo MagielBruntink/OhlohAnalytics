@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587793</id>
+      <name>eTrice</name>
+      <url>http://www.ohloh.net/p/etrice.xml</url>
+      <html_url>http://www.ohloh.net/p/etrice</html_url>
+      <created_at>2011-12-16T08:18:43Z</created_at>
+      <updated_at>2013-07-14T23:23:34Z</updated_at>
+      <description>eTrice provides an implementation of the ROOM modeling language together with editors, code generators for Java, C++ and C code and exemplary target middleware.
+The model is defined in textual form (Xtext) with graphical editors (Graphiti) for the structural and behavioral (i.e. state machine) parts.</description>
+      <homepage_url>http://www.eclipse.org/etrice</homepage_url>
+      <download_url>http://www.eclipse.org/etrice/download.php</download_url>
+      <url_name>etrice</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49200/eTRICE-logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49200/eTRICE-logo_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14632398</analysis_id>
+      <tags>
+        <tag>tool</tag>
+        <tag>graphiti</tag>
+        <tag>dsl</tag>
+        <tag>emf</tag>
+        <tag>model-driven-development</tag>
+        <tag>modeling</tag>
+        <tag>eclispe</tag>
+        <tag>model-driven</tag>
+        <tag>room</tag>
+        <tag>xtext</tag>
+        <tag>code_generator</tag>
+        <tag>middleware</tag>
+      </tags>
+      <analysis>
+        <id>14632398</id>
+        <url>http://www.ohloh.net/analyses/14632398.xml</url>
+        <project_id>587793</project_id>
+        <updated_at>2013-07-14T23:23:34Z</updated_at>
+        <logged_at>2013-07-13T17:30:09Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>434949</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/etrice/analyses/14632398/languages.png">
+          <language color="9A63AD" percentage="81" id="5">
+Java          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

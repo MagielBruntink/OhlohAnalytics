@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>325407</id>
+      <name>jquery-in-place-editor</name>
+      <url>http://www.ohloh.net/p/jquery-in-place-editor.xml</url>
+      <html_url>http://www.ohloh.net/p/jquery-in-place-editor</html_url>
+      <created_at>2009-04-15T00:24:38Z</created_at>
+      <updated_at>2013-07-04T03:22:18Z</updated_at>
+      <description>Dave Hauenstein's Homepage 
+
+Martin Haecker's Blog 
+
+What is it?Another In-Place Editor is a jQuery plugin that turns any element or group of elements into an Ajax in-place editor using only one line of code. It&#8217;s written using the jQuery Library, which is available free at http://jquery.com. I saw this on Flickr a while back and I thought it was really great how you can update the title and description of a photo without having to go to an admin page. 
+
+Some FeaturesEsc key will cancel an active editor On blur will by default cause the editor to submit the value to the server. This can be overridden to cancel the submission. Submit to a callback function to handle the in-place submission, rather than submitting to a URL Optional validation of a blank field; By default if the field is blank, the form won&#8217;t submit and the user will receive an alert Demohttp://jquery-in-place-editor.googlecode.com/svn/trunk/demo/index.html 
+
+UsageIt&#8217;s extremely easy to implment! The code below looks for an element with a class value of &#8216;name&#8217; and applies an in-place editor to it. These are only a few of the parameters that can be passed into the editor. See below for a full listing of the parameters. It&#8217;s highly customizable. view plaincopy to clipboardprint? 
+
+$(&quot;.name&quot;).editInPlace({
+    url: &quot;http://com.examplesite.www/users&quot;,
+    params: &quot;name=david&quot;
+});Once the in-place editor form is submitted, it sends a POST request to the URL that is specified in the editor&#8217;s parameters along with three form fields: 
+
+original_html; the original text in the in-place editor container update_value; the new value of the text from the in-place editor element_id; the id attribute of the in-place editor Parametersbg_out (string) default: transparent hex code of background color on restore from hover bg_over (string) default: #ffc hex code of background color on hover callback (function) default: null function to be called when editing is complete; cancels ajax submission to the url param cancel_button (string) default:  image button tag to use as &#8220;Cancel&#8221; button default_text (string) default: &#8220;(Click here to add text)&#8221; text to show up if the element that has this functionality is empty element_id (string) default: element_id name of parameter holding element_id error (function) this function gets called if server responds with an error field_type (string) &#8220;text&#8221;, &#8220;textarea&#8221;, or &#8220;select&#8221;; default: &#8220;text&#8221; The type of form field that will appear on instantiation on_blur (string) &#8220;save&#8221; or null; default: &#8220;save&#8221; what to do on blur; will be overridden if $param show_buttons is true original_html (string) default: original_html name of parameter holding original_html params (string) example: first_name=dave&amp;last_name=hauenstein paramters sent via the post request to the server save_button (string) default:  image button tag to use as &#8220;Save&#8221; button saving_image (string) default: uses saving text specify an image location instead of text while server is saving saving_text (string) default: &#8220;Saving&#8230;&#8221; text to be used when server is saving information select_options (string) comma delimited list of options if field_type is set to select select_text (string)default text to show up in select box show_buttons (boolean) default: false will show the buttons: cancel or save; will automatically cancel out the onBlur functionality success (function) default: null this function gets called if server responds with a success textarea_cols (integer) default: 25 set cols attribute of textarea, if field_type is set to textarea textarea_rows (integer) default: 10 set rows attribute of textarea, if field_type is set to textarea update_value (string) default: update_value name of parameter holding update_value url (string) POST URL to send edited content value_required (string) default: false if set to true, the element will not be saved unless a value is entered</description>
+      <homepage_url>http://code.google.com/p/jquery-in-place-editor</homepage_url>
+      <download_url></download_url>
+      <url_name>jquery-in-place-editor</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14521479</analysis_id>
+      <analysis>
+        <id>14521479</id>
+        <url>http://www.ohloh.net/analyses/14521479.xml</url>
+        <project_id>325407</project_id>
+        <updated_at>2013-07-12T06:39:27Z</updated_at>
+        <logged_at>2013-07-12T06:39:23Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>34222</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jquery-in-place-editor/analyses/14521479/languages.png">
+          <language color="A4007E" percentage="99" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

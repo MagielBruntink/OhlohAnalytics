@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4157</id>
+      <name>Open Harvester Systems</name>
+      <url>http://www.ohloh.net/p/ohs.xml</url>
+      <html_url>http://www.ohloh.net/p/ohs</html_url>
+      <created_at>2007-01-25T17:35:14Z</created_at>
+      <updated_at>2013-06-29T02:41:25Z</updated_at>
+      <description>Open Harvester Systems is a free metadata indexing system developed by the Public Knowledge Project through its federally funded efforts to expand and improve access to research.
+
+OHS allows you to create a searchable index of the metadata from Open Archives Initiative (OAI)-compliant archives, such as sites using Open Journal Systems (OJS) or Open Conference Systems (OCS).</description>
+      <homepage_url>http://pkp.sfu.ca/harvester</homepage_url>
+      <download_url>http://pkp.sfu.ca/harvester_download</download_url>
+      <url_name>ohs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14451970</analysis_id>
+      <tags>
+        <tag>indexing</tag>
+        <tag>metadata</tag>
+        <tag>search</tag>
+      </tags>
+      <analysis>
+        <id>14451970</id>
+        <url>http://www.ohloh.net/analyses/14451970.xml</url>
+        <project_id>4157</project_id>
+        <updated_at>2013-07-07T03:55:51Z</updated_at>
+        <logged_at>2013-07-07T03:55:49Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>32217</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ohs/analyses/14451970/languages.png">
+          <language color="555555" percentage="41" id="3">
+XML          </language>
+          <language color="356AA0" percentage="39" id="2">
+PHP          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

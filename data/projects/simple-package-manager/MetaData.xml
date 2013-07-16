@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587302</id>
+      <name>SPM - Simple Package Manager</name>
+      <url>http://www.ohloh.net/p/simple-package-manager.xml</url>
+      <html_url>http://www.ohloh.net/p/simple-package-manager</html_url>
+      <created_at>2011-11-17T04:57:35Z</created_at>
+      <updated_at>2013-07-03T04:39:20Z</updated_at>
+      <description>Simple Package Manager (SPM), as the name suggests is a simple package manager. It is intended to operate in similar way to existing package managers (e.g apt, dpkg, Pacman, etc). Instead of supporting a centralised package repository, SPM allows remote packages to be downloaded and installed automatically given thier URL (Universal Resource Locator). This allows a developer to package and distribute their software via a package management system without having to worry about the many different formats and Linux distrbution repositories.</description>
+      <homepage_url>http://code.google.com/p/simple-package-manager/</homepage_url>
+      <download_url>http://code.google.com/p/simple-package-manager/downloads/list</download_url>
+      <url_name>simple-package-manager</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48408/logo64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48408/logo64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14511381</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>devtool</tag>
+        <tag>shell-script</tag>
+        <tag>configuration</tag>
+        <tag>bash</tag>
+        <tag>spm</tag>
+        <tag>package</tag>
+      </tags>
+      <analysis>
+        <id>14511381</id>
+        <url>http://www.ohloh.net/analyses/14511381.xml</url>
+        <project_id>587302</project_id>
+        <updated_at>2013-07-12T02:49:54Z</updated_at>
+        <logged_at>2013-07-12T02:49:26Z</logged_at>
+        <min_month>2011-11-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4654</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/simple-package-manager/analyses/14511381/languages.png">
+          <language color="9A63AD" percentage="57" id="5">
+Java          </language>
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+          <language color="777777" percentage="9" id="11">
+shell script          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

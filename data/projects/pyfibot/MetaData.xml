@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>52693</id>
+      <name>pyfibot</name>
+      <url>http://www.ohloh.net/p/pyfibot.xml</url>
+      <html_url>http://www.ohloh.net/p/pyfibot</html_url>
+      <created_at>2008-12-16T19:18:22Z</created_at>
+      <updated_at>2013-07-14T06:31:15Z</updated_at>
+      <description>A Python IRC bot made using the Twisted matrix IRC library. 
+
+Features: 
+
+modular live refresh of modules coder friendly (a basic module requires just 2 lines of code) 
+
+This is not the most non-coder friendly bot out there. You might want to try Supybot or Phenny instead (see sidebar).</description>
+      <homepage_url>http://code.google.com/p/pyfibot</homepage_url>
+      <download_url></download_url>
+      <url_name>pyfibot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14623150</analysis_id>
+      <tags>
+        <tag>irc</tag>
+        <tag>python</tag>
+        <tag>ircbot</tag>
+        <tag>plugins</tag>
+        <tag>twisted</tag>
+        <tag>bot</tag>
+        <tag>twistedwords</tag>
+      </tags>
+      <analysis>
+        <id>14623150</id>
+        <url>http://www.ohloh.net/analyses/14623150.xml</url>
+        <project_id>52693</project_id>
+        <updated_at>2013-07-14T06:31:15Z</updated_at>
+        <logged_at>2013-07-13T19:45:53Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>10034</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyfibot/analyses/14623150/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

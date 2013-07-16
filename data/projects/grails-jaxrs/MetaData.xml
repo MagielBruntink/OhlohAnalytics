@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>372481</id>
+      <name>grails-jaxrs</name>
+      <url>http://www.ohloh.net/p/grails-jaxrs.xml</url>
+      <html_url>http://www.ohloh.net/p/grails-jaxrs</html_url>
+      <created_at>2009-08-13T18:35:05Z</created_at>
+      <updated_at>2013-07-05T13:33:46Z</updated_at>
+      <description>Introductiongrails-jaxrs is a Grails plugin that supports the development of RESTful web services based on the Java API for RESTful Web Services (JSR 311: JAX-RS). It is targeted at developers who want to structure the web service layer of an application in a JSR 311 compatible way but still want to continue to use Grails' powerful features such as GORM, automated XML and JSON marshalling, Grails services, Grails filters and so on. This plugin is an alternative to Grails' built-in mechanism for implementing RESTful web services. 
+
+At the moment, plugin users may choose between Jersey and Restlet as JAX-RS implementations. Both implementations are packaged with the plugin. Support for Restlet was added in version 0.2 of the plugin in order to support deployments to Google App Engine. Other JAX-RS implementations such as RestEasy or Apache Wink are likely to be added in upcoming versions of the plugin. Please let us know if you'd like to have them added. 
+
+Latest ReleaseRelease notes for grails-jaxrs version 0.3 FeaturesMakes the JSR 311 (JAX-RS) available to Grails applications for developing RESTful web services. New Grails artefact types, Resource and Provider, for JAX-RS classes. JAX-RS Resource classes under grails-app/resources are auto-detected and can be modified at runtime.  JAX-RS Provider classes under grails-app/providers are auto-detected and can be modified at runtime.  Extended Grails command line interface Create new resources and unit test templates via grails create-resource . Generate ready-to-use resources from domain objects via grails generate-resources . Scaffolding Generate RESTful service interfaces for Grails domain objects Content negotiation support for XML and JSON representations Ability to use any Grails feature within JAX-RS resources and providers such as GORM can be for interacting with persistent domain objects. Grails filters for intercepting requests to JAX-RS resources.  Grails services which can be auto-injected by name. Entity providers Domain object providers that convert between Grails domain objects and XML or JSON representations Support classes for developing custom entity providers Support for content negotiation using the Accept request header  Plugin users may choose between Jersey and Restlet as JAX-RS implementations by means of configuration.  grails-jaxrs applications can be deployed to Google App Engine (GAE). Getting startedIf you've used an older version of grails-jaxrs take a look at the release notes for version 0.3  Detailed installation instructions can be found on the InstallationInstructions page. First steps with the grails-jaxrs plugin are described in the GettingStarted guide. Advanced grails-jaxrs features are described on the AdvancedFeatures page.</description>
+      <homepage_url>http://code.google.com/p/grails-jaxrs/</homepage_url>
+      <download_url></download_url>
+      <url_name>grails-jaxrs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14537466</analysis_id>
+      <tags>
+        <tag>grails</tag>
+        <tag>jsr311</tag>
+        <tag>restlet</tag>
+        <tag>jersey</tag>
+        <tag>groovy</tag>
+        <tag>rest</tag>
+        <tag>gae</tag>
+        <tag>jax-rs</tag>
+      </tags>
+      <analysis>
+        <id>14537466</id>
+        <url>http://www.ohloh.net/analyses/14537466.xml</url>
+        <project_id>372481</project_id>
+        <updated_at>2013-07-05T13:33:46Z</updated_at>
+        <logged_at>2013-07-05T13:33:04Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>5359</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grails-jaxrs/analyses/14537466/languages.png">
+          <language color="C72C2C" percentage="61" id="29">
+Groovy          </language>
+          <language color="9A63AD" percentage="33" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>29</main_language_id>
+        <main_language_name>Groovy</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

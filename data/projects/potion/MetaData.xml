@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486659</id>
+      <name>Potion</name>
+      <url>http://www.ohloh.net/p/potion.xml</url>
+      <html_url>http://www.ohloh.net/p/potion</html_url>
+      <created_at>2010-11-22T16:32:19Z</created_at>
+      <updated_at>2013-07-08T05:51:24Z</updated_at>
+      <description>Potion is an object- and mixin-oriented (traits) language.</description>
+      <homepage_url>https://github.com/fogus/potion</homepage_url>
+      <download_url>https://github.com/fogus/potion/archives/master</download_url>
+      <url_name>potion</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39867/potion_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39867/potion_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14567503</analysis_id>
+      <analysis>
+        <id>14567503</id>
+        <url>http://www.ohloh.net/analyses/14567503.xml</url>
+        <project_id>486659</project_id>
+        <updated_at>2013-07-08T05:51:24Z</updated_at>
+        <logged_at>2013-07-07T23:15:51Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>12188</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/potion/analyses/14567503/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="000000" percentage="15" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

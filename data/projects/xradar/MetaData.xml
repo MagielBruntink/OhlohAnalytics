@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9280</id>
+      <name>XRadar</name>
+      <url>http://www.ohloh.net/p/xradar.xml</url>
+      <html_url>http://www.ohloh.net/p/xradar</html_url>
+      <created_at>2007-10-22T20:13:14Z</created_at>
+      <updated_at>2013-06-27T03:20:36Z</updated_at>
+      <description>The XRadar is an open extensible code report tool currently supporting all Java based systems. The batch-processing framework produces HTML/SVG reports of the systems current state and the development over time - all presented in sexy tables and graphs. It gets results from several brilliant open source projects and a couple of in house grown projects and presents the results as massive unified html/svg reports. The architecture is based on java, xml and xsl. Presently it only supports Java, but there are plans to produce plug ins for other leading languages.</description>
+      <homepage_url>http://xradar.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>xradar</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48356/xradar-basic-sign_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48356/xradar-basic-sign_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14427737</analysis_id>
+      <tags>
+        <tag>quality</tag>
+        <tag>visualization</tag>
+        <tag>quality_assurance</tag>
+        <tag>metrics</tag>
+        <tag>analysis</tag>
+        <tag>graphing</tag>
+        <tag>qa</tag>
+        <tag>java</tag>
+        <tag>static</tag>
+        <tag>checkstyle</tag>
+        <tag>code_analysis</tag>
+        <tag>code_quality</tag>
+      </tags>
+      <analysis>
+        <id>14427737</id>
+        <url>http://www.ohloh.net/analyses/14427737.xml</url>
+        <project_id>9280</project_id>
+        <updated_at>2013-07-09T17:45:06Z</updated_at>
+        <logged_at>2013-07-09T16:56:52Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>771521</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xradar/analyses/14427737/languages.png">
+          <language color="556655" percentage="41" id="36">
+XSL Transformation          </language>
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="14" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

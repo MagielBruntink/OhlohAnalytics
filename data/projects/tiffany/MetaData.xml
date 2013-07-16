@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605227</id>
+      <name>tiffany</name>
+      <url>http://www.ohloh.net/p/tiffany.xml</url>
+      <html_url>http://www.ohloh.net/p/tiffany</html_url>
+      <created_at>2012-09-13T23:00:03Z</created_at>
+      <updated_at>2013-07-07T02:41:44Z</updated_at>
+      <description>Tiffany is a very small Python module that allows to read and write any multi-file tiff. Tiffany does not create or change image data or compression, it just re-arranges existing pages and cleans the tags a bit. This package is using a subset of PIL but without any interference, i.E. you can install and build PIL independantly.</description>
+      <homepage_url>http://pypi.python.org/pypi/tiffany/</homepage_url>
+      <download_url>https://bitbucket.org/pydica/tiffany/downloads</download_url>
+      <url_name>tiffany</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14558468</analysis_id>
+      <analysis>
+        <id>14558468</id>
+        <url>http://www.ohloh.net/analyses/14558468.xml</url>
+        <project_id>605227</project_id>
+        <updated_at>2013-07-07T02:41:44Z</updated_at>
+        <logged_at>2013-07-07T02:41:16Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2505</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tiffany/analyses/14558468/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

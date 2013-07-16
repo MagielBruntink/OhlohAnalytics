@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13215</id>
+      <name>VLMa</name>
+      <url>http://www.ohloh.net/p/vlma.xml</url>
+      <html_url>http://www.ohloh.net/p/vlma</html_url>
+      <created_at>2008-04-07T19:43:41Z</created_at>
+      <updated_at>2013-06-25T00:06:07Z</updated_at>
+      <description>VLMa is a Java application which provides a daemon and a web interface to manage several VLC streamers.
+
+It has some nice features like:
+- dynamic stream assignments (incl. fallback if a server is unavailable)
+- drawing of the servers stats as RRD graphs
+- and more...
+
+It is designed to be used in large networks such as universities or corporate networks.</description>
+      <homepage_url>http://www.videolan.org/vlma</homepage_url>
+      <download_url>http://www.videolan.org/vlma/download.html</download_url>
+      <url_name>vlma</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2470/VLMa4_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2470/VLMa4_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14390415</analysis_id>
+      <tags>
+        <tag>ircbot</tag>
+        <tag>springframework</tag>
+        <tag>streaming</tag>
+        <tag>vlm</tag>
+        <tag>multimedia</tag>
+        <tag>administration</tag>
+        <tag>dwr</tag>
+        <tag>rrdtool</tag>
+        <tag>mail</tag>
+        <tag>spring_portlet_mvc</tag>
+        <tag>notification</tag>
+        <tag>java</tag>
+        <tag>vlma</tag>
+        <tag>multicast</tag>
+        <tag>spring</tag>
+        <tag>videolan</tag>
+        <tag>management</tag>
+        <tag>snmp</tag>
+        <tag>vlc</tag>
+        <tag>graphing</tag>
+        <tag>monitoring</tag>
+        <tag>j2ee</tag>
+        <tag>manager</tag>
+        <tag>monitor</tag>
+        <tag>javaee</tag>
+        <tag>sap</tag>
+        <tag>rrd</tag>
+        <tag>graph</tag>
+        <tag>web</tag>
+        <tag>daemon</tag>
+        <tag>maven</tag>
+      </tags>
+      <analysis>
+        <id>14390415</id>
+        <url>http://www.ohloh.net/analyses/14390415.xml</url>
+        <project_id>13215</project_id>
+        <updated_at>2013-07-13T13:35:15Z</updated_at>
+        <logged_at>2013-07-13T13:35:13Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>81627</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vlma/analyses/14390415/languages.png">
+          <language color="47A400" percentage="84" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="12" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

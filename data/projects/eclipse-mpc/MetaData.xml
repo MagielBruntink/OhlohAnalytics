@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>507346</id>
+      <name>Eclipse Marketplace</name>
+      <url>http://www.ohloh.net/p/eclipse-mpc.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse-mpc</html_url>
+      <created_at>2011-04-20T21:43:14Z</created_at>
+      <updated_at>2013-07-14T03:20:49Z</updated_at>
+      <description>Marketplace Client is a rich client solution for installing solutions listed on Eclipse Marketplace directly from an Eclipse Installation.
+
+The Eclipse Foundation operates a website, called Eclipse Marketplace, that provides a listing of Eclipse-based solutions. The listings allow each solution provider to specify a P2 repository for their solution. Eclipse users now have a central catalog to find Eclipse solutions but the install process is still not tightly integrated with the Eclipse workspace.
+
+MPC provides the tight install integration between the Eclipse workspace and Eclipse Marketplace, plus other third party solution listings. MPC is included in many of the EPP packages.</description>
+      <homepage_url>http://www.eclipse.org/mpc</homepage_url>
+      <download_url>http://eclipse.org/mpc/archive.php</download_url>
+      <url_name>eclipse-mpc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14622313</analysis_id>
+      <analysis>
+        <id>14622313</id>
+        <url>http://www.ohloh.net/analyses/14622313.xml</url>
+        <project_id>507346</project_id>
+        <updated_at>2013-07-14T03:20:48Z</updated_at>
+        <logged_at>2013-07-13T19:44:32Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>17004</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse-mpc/analyses/14622313/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

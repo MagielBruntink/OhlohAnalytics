@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>504766</id>
+      <name>Stage</name>
+      <url>http://www.ohloh.net/p/Stage.xml</url>
+      <html_url>http://www.ohloh.net/p/Stage</html_url>
+      <created_at>2011-04-20T18:25:00Z</created_at>
+      <updated_at>2013-07-15T17:45:13Z</updated_at>
+      <description>Stage, part of the Player Project, is a 2.5D robot simulation environment.  Stage simulates a population of mobile robots, sensors and objects in a two-dimensional bitmapped environment. Stage is designed to support research into multi-agent autonomous systems, so it provides fairly simple, computationally cheap models of lots of devices rather than attempting to emulate any device with great fidelity.</description>
+      <homepage_url>http://playerstage.sourceforge.net/index.php?src=stage</homepage_url>
+      <download_url></download_url>
+      <url_name>Stage</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14641124</analysis_id>
+      <tags>
+        <tag>robots</tag>
+        <tag>fltk</tag>
+        <tag>robotics</tag>
+        <tag>c++</tag>
+        <tag>simulator</tag>
+        <tag>simulation</tag>
+        <tag>robot</tag>
+      </tags>
+      <analysis>
+        <id>14641124</id>
+        <url>http://www.ohloh.net/analyses/14641124.xml</url>
+        <project_id>504766</project_id>
+        <updated_at>2013-07-15T17:45:13Z</updated_at>
+        <logged_at>2013-07-15T17:44:15Z</logged_at>
+        <min_month>2000-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>18661</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Stage/analyses/14641124/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="000080" percentage="5" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="12" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

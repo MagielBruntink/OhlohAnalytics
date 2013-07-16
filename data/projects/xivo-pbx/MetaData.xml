@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586709</id>
+      <name>XiVO PBX</name>
+      <url>http://www.ohloh.net/p/xivo-pbx.xml</url>
+      <html_url>http://www.ohloh.net/p/xivo-pbx</html_url>
+      <created_at>2011-10-17T12:08:34Z</created_at>
+      <updated_at>2013-07-13T09:53:07Z</updated_at>
+      <description>XiVO is a complete IP communications system for businesses, based on Asterisk and licensed under GPLv3.
+
+&#8226; This powerful and scalable solution provides access to a comprehensive set of telephony, voice mail and call center functions.
+XiVO is an open system, enabling development of new functions to tailor it perfectly to your requirements.
+
+&#8226; The XiVO solution boasts these features:
+
+- web interface for easy administration, supervision and operation,,
+- provisioning server to facilitate mass deployment of telephone services,
+- CTI server giving access to additional features via the XiVO Client application.
+
+&#8226; XiVO's flexible design does not restrict the choice of system architecture.</description>
+      <homepage_url>https://wiki.xivo.fr/</homepage_url>
+      <download_url>http://downloads.xivo.fr/</download_url>
+      <url_name>xivo-pbx</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47708/xivo_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47708/xivo_64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14618408</analysis_id>
+      <tags>
+        <tag>voip</tag>
+        <tag>sip</tag>
+        <tag>pbx</tag>
+        <tag>ivr</tag>
+        <tag>asterisk</tag>
+        <tag>python</tag>
+        <tag>telephony</tag>
+        <tag>softswitch</tag>
+        <tag>voicemail</tag>
+        <tag>iax</tag>
+        <tag>telecommunications</tag>
+      </tags>
+      <analysis>
+        <id>14618408</id>
+        <url>http://www.ohloh.net/analyses/14618408.xml</url>
+        <project_id>586709</project_id>
+        <updated_at>2013-07-13T09:53:07Z</updated_at>
+        <logged_at>2013-07-13T09:33:29Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>36</twelve_month_contributor_count>
+        <total_code_lines>311654</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xivo-pbx/analyses/14618408/languages.png">
+          <language color="356AA0" percentage="38" id="2">
+PHP          </language>
+          <language color="4A246B" percentage="22" id="9">
+Python          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="000000" percentage="20" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

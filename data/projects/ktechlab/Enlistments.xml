@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>476239</id>
+      <project_id>13449</project_id>
+      <repository_id>476378</repository_id>
+      <repository>
+        <id>476378</id>
+        <type>GitRepository</type>
+        <url>git://github.com/ktechlab/ktechlab.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T18:37:45Z</logged_at>
+        <commits>2118</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>24499</id>
+      <project_id>13449</project_id>
+      <repository_id>23704</repository_id>
+      <repository>
+        <id>23704</id>
+        <type>SvnSyncRepository</type>
+        <url>https://ktechlab.svn.sourceforge.net/svnroot/ktechlab/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-11T18:34:49Z</logged_at>
+        <commits>555</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

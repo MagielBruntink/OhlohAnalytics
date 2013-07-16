@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20342</id>
+      <name>ie7-js</name>
+      <url>http://www.ohloh.net/p/ie7-js.xml</url>
+      <html_url>http://www.ohloh.net/p/ie7-js</html_url>
+      <created_at>2008-10-07T13:06:03Z</created_at>
+      <updated_at>2013-06-30T16:01:53Z</updated_at>
+      <description>AboutIE7.js is a JavaScript library to make Microsoft Internet Explorer behave like a standards-compliant browser. It fixes many HTML and CSS issues and makes transparent PNG work correctly under IE5 and IE6. 
+
+StatusCurrent version: 2.1 beta3. 
+
+UsageIE7.jsUpgrade MSIE5.5-6 to be compatible with MSIE7. 
+
+IE8.jsUpgrade MSIE5.5-7 to be compatible with MSIE8. 
+
+You do not need to include IE7.js if you are using IE8.js 
+
+IE9.jsUpgrade MSIE5.5-8 to be compatible with modern browsers. 
+
+You do not need to include IE7/IE8.js if you are using IE9.js 
+
+PNGThe script only fixes images named: *-trans.png 
+
+If you want the fix to apply to all PNG images then set a global variable as follows: 
+
+var IE7_PNG_SUFFIX = &quot;.png&quot;;You must set this variable before including the IE7.js script. Alternatively, you can set the variable inside the IE7.js script element: 
+
+IE7_PNG_SUFFIX=&quot;.png&quot;;The suffix will ignore query string parameters. For more fine-grained control you can also set IE7_PNG_SUFFIX to a RegExp object. If you want to use an alternative PNG solution then set the suffix to something that cannot possibly match: 
+
+var IE7_PNG_SUFFIX = &quot;:&quot;;By default, the PNG will be stretched (this simulates tiling). If you want to turn this off then set the no-repeat property as follows: 
+
+div.example {
+  background: url(my-trans.png) no-repeat;
+}Unfortunately, the transparent background image cannot be tiled (repeated) using background-repeat. Nor can it be positioned using background-position. 
+
+DownloadYou may link directly to these files if you wish: 
+
+http://ie7-js.googlecode.com/svn/version/ 
+
+Or go to the downloads section to download the current version. 
+
+Getting StartedHere is a nice introduction: 
+
+http://www.charlescooke.me.uk/web/lab_notes/ie7_script.html 
+
+Demohttp://ie7-js.googlecode.com/svn/test/index.html</description>
+      <homepage_url>http://code.google.com/p/ie7-js</homepage_url>
+      <download_url></download_url>
+      <url_name>ie7-js</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14480448</analysis_id>
+      <tags>
+        <tag>ie7</tag>
+        <tag>ie8</tag>
+        <tag>css</tag>
+        <tag>html</tag>
+        <tag>javascript</tag>
+        <tag>ie9</tag>
+      </tags>
+      <analysis>
+        <id>14480448</id>
+        <url>http://www.ohloh.net/analyses/14480448.xml</url>
+        <project_id>20342</project_id>
+        <updated_at>2013-07-11T19:07:42Z</updated_at>
+        <logged_at>2013-07-11T19:07:02Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8386</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ie7-js/analyses/14480448/languages.png">
+          <language color="A4007E" percentage="96" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

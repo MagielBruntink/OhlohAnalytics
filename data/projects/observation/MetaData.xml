@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>33262</id>
+      <name>Observation Manager</name>
+      <url>http://www.ohloh.net/p/observation.xml</url>
+      <html_url>http://www.ohloh.net/p/observation</html_url>
+      <created_at>2008-12-07T01:20:34Z</created_at>
+      <updated_at>2013-07-15T18:32:43Z</updated_at>
+      <description>Observation Manager is a free and open logbook for (amateur-) astronomical observations. It's written in pure Java and runs on every plattform supporting Java 1.4 or higher.
+All logbook entries made in Observation Manager are stored in the free and open OpenAstronomyLog XML Schema.
+
+Log your observations and make sure next time you're searching for an celestial object you can make benefit of your past observations!
+Observation Manager comes with four catalogs of astronomical objects (Messier, NGC, IC, Caldwell, Solar system, GCVS 4.0) and if you miss an object, just add your own entry!
+
+Some features of Observation Manager:
+    - Full compatible with  2.0 format
+    - Written in pure Java (runs on many platforms)
+    - FITS Image support
+    - Export data to HTML
+    - Run statistics</description>
+      <homepage_url>http://sourceforge.net/projects/observation</homepage_url>
+      <download_url>http://observation.sourceforge.net/en/download.html</download_url>
+      <url_name>observation</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29472/om_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29472/om_logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14477937</analysis_id>
+      <tags>
+        <tag>observation</tag>
+        <tag>observer</tag>
+        <tag>ngc</tag>
+        <tag>logging</tag>
+        <tag>fits</tag>
+        <tag>observing</tag>
+        <tag>logbook</tag>
+        <tag>analytics</tag>
+        <tag>java</tag>
+        <tag>log</tag>
+        <tag>openastronomylog</tag>
+        <tag>aavso</tag>
+        <tag>xml</tag>
+        <tag>oal</tag>
+        <tag>messier</tag>
+        <tag>astronomy</tag>
+      </tags>
+      <analysis>
+        <id>14477937</id>
+        <url>http://www.ohloh.net/analyses/14477937.xml</url>
+        <project_id>33262</project_id>
+        <updated_at>2013-07-11T14:46:59Z</updated_at>
+        <logged_at>2013-07-11T14:46:29Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>65808</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/observation/analyses/14477937/languages.png">
+          <language color="9A63AD" percentage="73" id="5">
+Java          </language>
+          <language color="556655" percentage="17" id="36">
+XSL Transformation          </language>
+          <language color="556677" percentage="7" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

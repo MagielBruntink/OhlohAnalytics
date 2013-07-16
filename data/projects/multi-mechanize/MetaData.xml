@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480715</id>
+      <name>Multi-Mechanize</name>
+      <url>http://www.ohloh.net/p/multi-mechanize.xml</url>
+      <html_url>http://www.ohloh.net/p/multi-mechanize</html_url>
+      <created_at>2010-01-24T18:44:27Z</created_at>
+      <updated_at>2013-06-24T15:53:58Z</updated_at>
+      <description>Multi-Mechanize is an open source framework for performance and load testing. It runs concurrent Python scripts to generate load (synthetic transactions) against a remote site or service.</description>
+      <homepage_url>http://multimechanize.com</homepage_url>
+      <download_url>http://pypi.python.org/pypi/multi-mechanize</download_url>
+      <url_name>multi-mechanize</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50450/multimech_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50450/multimech_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14382067</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>load</tag>
+        <tag>performance</tag>
+        <tag>scalability</tag>
+        <tag>test</tag>
+        <tag>benchmark</tag>
+      </tags>
+      <analysis>
+        <id>14382067</id>
+        <url>http://www.ohloh.net/analyses/14382067.xml</url>
+        <project_id>480715</project_id>
+        <updated_at>2013-07-12T06:46:07Z</updated_at>
+        <logged_at>2013-07-12T06:45:48Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>2604</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/multi-mechanize/analyses/14382067/languages.png">
+          <language color="4A246B" percentage="48" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="29" id="4">
+CSS          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

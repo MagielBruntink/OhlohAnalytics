@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584934</id>
+      <name>Udev Discover</name>
+      <url>http://www.ohloh.net/p/udev-discover.xml</url>
+      <html_url>http://www.ohloh.net/p/udev-discover</html_url>
+      <created_at>2011-07-06T21:47:54Z</created_at>
+      <updated_at>2013-06-26T11:02:18Z</updated_at>
+      <description>Sysfs browsing tool focused on helping udev users and developers.
+
+Main features:
+* Browsing the sysfs tree via udev
+* Reports udev device info and properties
+* Filter and search devices
+* Monitorize udev device events
+
+Udev discover aims for being a gnome-device-manager-like app using gudev instead of HAL, and to provide some fancy features for udev users and hackers.</description>
+      <homepage_url>https://github.com/fontanon/udev-discover</homepage_url>
+      <download_url>https://github.com/fontanon/udev-discover</download_url>
+      <url_name>udev-discover</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46046/udev-discover_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46046/udev-discover_logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14415924</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>python</tag>
+        <tag>udev</tag>
+        <tag>gtk</tag>
+        <tag>hotplug</tag>
+      </tags>
+      <analysis>
+        <id>14415924</id>
+        <url>http://www.ohloh.net/analyses/14415924.xml</url>
+        <project_id>584934</project_id>
+        <updated_at>2013-07-14T21:24:23Z</updated_at>
+        <logged_at>2013-07-14T21:24:21Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3577</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/udev-discover/analyses/14415924/languages.png">
+          <language color="4A246B" percentage="51" id="9">
+Python          </language>
+          <language color="555555" percentage="49" id="3">
+XML          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

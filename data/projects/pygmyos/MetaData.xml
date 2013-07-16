@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587418</id>
+      <name>PygmyOS</name>
+      <url>http://www.ohloh.net/p/pygmyos.xml</url>
+      <html_url>http://www.ohloh.net/p/pygmyos</html_url>
+      <created_at>2011-11-24T05:08:16Z</created_at>
+      <updated_at>2013-06-29T13:22:42Z</updated_at>
+      <description>PygmyOS is an ARM Based Operating System.</description>
+      <homepage_url>http://code.google.com/p/pygmyos/</homepage_url>
+      <download_url>http://code.google.com/p/pygmyos/downloads/list</download_url>
+      <url_name>pygmyos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50615/Icon2Blue_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50615/Icon2Blue_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14457884</analysis_id>
+      <tags>
+        <tag>stm32f415</tag>
+        <tag>stm32f417</tag>
+        <tag>stm32f4</tag>
+        <tag>firmware</tag>
+        <tag>microcontrollers</tag>
+        <tag>opensourcehardware</tag>
+        <tag>os</tag>
+        <tag>robotics</tag>
+        <tag>hardware</tag>
+        <tag>embedded</tag>
+        <tag>cortex-m4</tag>
+        <tag>stm32f103</tag>
+        <tag>stm32</tag>
+        <tag>arm</tag>
+        <tag>electronics</tag>
+        <tag>microcontroller</tag>
+        <tag>openhardware</tag>
+        <tag>board</tag>
+        <tag>stm32f10x</tag>
+        <tag>stm32f2</tag>
+      </tags>
+      <analysis>
+        <id>14457884</id>
+        <url>http://www.ohloh.net/analyses/14457884.xml</url>
+        <project_id>587418</project_id>
+        <updated_at>2013-07-11T08:42:31Z</updated_at>
+        <logged_at>2013-07-11T08:42:29Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>25596</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pygmyos/analyses/14457884/languages.png">
+          <language color="FF8F00" percentage="100" id="42">
+C          </language>
+          <language color="F35F1F" percentage="&lt;1" id="44">
+C++          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

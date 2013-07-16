@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>598027</id>
+      <name>NiftyReg</name>
+      <url>http://www.ohloh.net/p/niftyreg.xml</url>
+      <html_url>http://www.ohloh.net/p/niftyreg</html_url>
+      <created_at>2012-05-10T17:23:24Z</created_at>
+      <updated_at>2013-07-02T22:33:32Z</updated_at>
+      <description>This project, developed at University College London, contains programs to perform rigid, affine and non-linear registration of nifti or analyse images. Two versions of the algorithms are included, a CPU- and a GPU- (using CUDA) based implementation.</description>
+      <homepage_url>http://cmic.cs.ucl.ac.uk/staff/marc_modat/Code</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=278811</download_url>
+      <url_name>niftyreg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53069/nifty_reg_logo_128_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53069/nifty_reg_logo_128_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14507703</analysis_id>
+      <tags>
+        <tag>image_transformation</tag>
+        <tag>image</tag>
+        <tag>medical</tag>
+        <tag>cuda</tag>
+        <tag>c</tag>
+        <tag>c++</tag>
+        <tag>registration</tag>
+        <tag>nifti</tag>
+        <tag>image_processing</tag>
+      </tags>
+      <analysis>
+        <id>14507703</id>
+        <url>http://www.ohloh.net/analyses/14507703.xml</url>
+        <project_id>598027</project_id>
+        <updated_at>2013-07-12T12:53:54Z</updated_at>
+        <logged_at>2013-07-12T12:53:46Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>36598</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/niftyreg/analyses/14507703/languages.png">
+          <language color="F35F1F" percentage="80" id="44">
+C++          </language>
+          <language color="EEE" percentage="15" id="84">
+CUDA          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

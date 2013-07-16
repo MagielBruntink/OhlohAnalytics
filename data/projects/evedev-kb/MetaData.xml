@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>382434</id>
+      <name>evedev-kb</name>
+      <url>http://www.ohloh.net/p/evedev-kb.xml</url>
+      <html_url>http://www.ohloh.net/p/evedev-kb</html_url>
+      <created_at>2009-08-17T18:24:08Z</created_at>
+      <updated_at>2013-06-29T22:12:40Z</updated_at>
+      <description>This is the EVE Development Network Killboard, created for EVE Online corporations and alliances. Based on the EVE-Killboard created by rig0r, it is now developed and maintained by the EVE-Dev group. All EVE graphics and data used are property of CCP. 
+
+Requirements: Webserver (Apache) PHP 5.0.0+ Mysql 5.0 + GD 2 or higher.
+
+Development versions may break your board, your database or your marriage.</description>
+      <homepage_url>http://code.google.com/p/evedev-kb/</homepage_url>
+      <download_url>http://code.google.com/p/evedev-kb/downloads/list?q=label:Featured</download_url>
+      <url_name>evedev-kb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14468597</analysis_id>
+      <tags>
+        <tag>edk</tag>
+        <tag>php</tag>
+        <tag>mysql</tag>
+        <tag>eve-online</tag>
+      </tags>
+      <analysis>
+        <id>14468597</id>
+        <url>http://www.ohloh.net/analyses/14468597.xml</url>
+        <project_id>382434</project_id>
+        <updated_at>2013-07-09T11:32:48Z</updated_at>
+        <logged_at>2013-07-09T10:36:56Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>1320402</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/evedev-kb/analyses/14468597/languages.png">
+          <language color="493625" percentage="86" id="30">
+SQL          </language>
+          <language color="356AA0" percentage="9" id="2">
+PHP          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

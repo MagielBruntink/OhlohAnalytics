@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>149034</id>
+      <name>GitStats</name>
+      <url>http://www.ohloh.net/p/gitstats.xml</url>
+      <html_url>http://www.ohloh.net/p/gitstats</html_url>
+      <created_at>2009-01-13T11:58:23Z</created_at>
+      <updated_at>2013-06-09T23:18:40Z</updated_at>
+      <description>GitStats is a statistics generator for git repositories. It examines the repository and produces some interesting statistics from the history. Currently it outputs only HTML.</description>
+      <homepage_url>http://gitstats.sourceforge.net/</homepage_url>
+      <download_url>http://gitstats.sourceforge.net/</download_url>
+      <url_name>gitstats</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14213660</analysis_id>
+      <tags>
+        <tag>statistics</tag>
+        <tag>python</tag>
+        <tag>git</tag>
+        <tag>stats</tag>
+      </tags>
+      <analysis>
+        <id>14213660</id>
+        <url>http://www.ohloh.net/analyses/14213660.xml</url>
+        <project_id>149034</project_id>
+        <updated_at>2013-07-06T11:33:55Z</updated_at>
+        <logged_at>2013-07-06T11:33:38Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>1480</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gitstats/analyses/14213660/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="A4007E" percentage="19" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="9" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

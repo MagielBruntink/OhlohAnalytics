@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>622644</id>
+      <name>Mbeddr</name>
+      <url>http://www.ohloh.net/p/mbeddr.xml</url>
+      <html_url>http://www.ohloh.net/p/mbeddr</html_url>
+      <created_at>2012-12-05T09:14:48Z</created_at>
+      <updated_at>2013-07-15T00:51:53Z</updated_at>
+      <description>Mbeddr aims at creating a different way of developing embedded software systems. Instead of using archaic modeling tools and manually written C code, we use the open source JetBrains MPS language workbench to create an integrated approach to embedded development, where C programming, DSLs, domain specific extensions to C, product line variability, requirements traceability and model checking are supported directly.</description>
+      <homepage_url>http://mbeddr.wordpress.com/</homepage_url>
+      <download_url></download_url>
+      <url_name>mbeddr</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14633623</analysis_id>
+      <analysis>
+        <id>14633623</id>
+        <url>http://www.ohloh.net/analyses/14633623.xml</url>
+        <project_id>622644</project_id>
+        <updated_at>2013-07-15T00:51:53Z</updated_at>
+        <logged_at>2013-07-13T17:12:41Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>1286968</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mbeddr/analyses/14633623/languages.png">
+          <language color="555555" percentage="97" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

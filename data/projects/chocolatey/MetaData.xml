@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605315</id>
+      <name>chocolatey</name>
+      <url>http://www.ohloh.net/p/chocolatey.xml</url>
+      <html_url>http://www.ohloh.net/p/chocolatey</html_url>
+      <created_at>2012-09-18T18:35:14Z</created_at>
+      <updated_at>2013-07-12T21:52:16Z</updated_at>
+      <description>Chocolatey NuGet - Like apt-get, but for windows.</description>
+      <homepage_url>https://github.com/chocolatey/chocolatey</homepage_url>
+      <download_url></download_url>
+      <url_name>chocolatey</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57452/chocolateyicon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57452/chocolateyicon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14609906</analysis_id>
+      <tags>
+        <tag>packagemanager</tag>
+        <tag>apt-get</tag>
+        <tag>chocolatey</tag>
+        <tag>windows</tag>
+        <tag>powershell</tag>
+      </tags>
+      <analysis>
+        <id>14609906</id>
+        <url>http://www.ohloh.net/analyses/14609906.xml</url>
+        <project_id>605315</project_id>
+        <updated_at>2013-07-12T21:52:16Z</updated_at>
+        <logged_at>2013-07-12T21:50:42Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>73</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/chocolatey/analyses/14609906/languages.png">
+          <language color="555555" percentage="82" id="3">
+XML          </language>
+          <language color="AAAAAA" percentage="18" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>13</main_language_id>
+        <main_language_name>DOS batch script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

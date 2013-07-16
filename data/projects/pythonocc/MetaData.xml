@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480224</id>
+      <name>pythonocc</name>
+      <url>http://www.ohloh.net/p/pythonocc.xml</url>
+      <html_url>http://www.ohloh.net/p/pythonocc</html_url>
+      <created_at>2010-01-03T16:28:48Z</created_at>
+      <updated_at>2013-06-21T21:18:23Z</updated_at>
+      <description>pythonOCC is a 3D CAD/CAE/PLM development framework for the Python programming language. It provides features such as advanced topological and geometrical operations, data exchange (STEP, IGES, STL import/export), 2D and 3D meshing, rigid body simulation, parametric modeling, GUI management support (wxPython, PyQt, python-xlib).
+
+Some high level packages (parametric modeling, rigid body simulation, knowledge-based engineering, topology, data exchange, webservices, etc.), relying on industrial quality proven libraries, extend the builtin features of those libraries to enable highly dynamic and modular programming in the engineering field.
+
+Get ready for Agile CAD Development.</description>
+      <homepage_url>http://www.pythonocc.org</homepage_url>
+      <download_url>http://www.pythonocc.org/#Download</download_url>
+      <url_name>pythonocc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14330395</analysis_id>
+      <analysis>
+        <id>14330395</id>
+        <url>http://www.ohloh.net/analyses/14330395.xml</url>
+        <project_id>480224</project_id>
+        <updated_at>2013-07-15T13:41:42Z</updated_at>
+        <logged_at>2013-07-15T13:41:34Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1086251</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pythonocc/analyses/14330395/languages.png">
+          <language color="F35F1F" percentage="95" id="44">
+C++          </language>
+          <language color="000000" percentage="5" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

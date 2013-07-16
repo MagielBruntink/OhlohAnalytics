@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597674</id>
+      <name>salt-cloud</name>
+      <url>http://www.ohloh.net/p/salt-cloud.xml</url>
+      <html_url>http://www.ohloh.net/p/salt-cloud</html_url>
+      <created_at>2012-05-01T19:48:32Z</created_at>
+      <updated_at>2013-07-14T01:19:24Z</updated_at>
+      <description>Provisioning salted minions to various cloud providers</description>
+      <homepage_url>https://github.com/saltstack/salt-cloud</homepage_url>
+      <download_url></download_url>
+      <url_name>salt-cloud</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65226/SaltStack_cube_-_black_on_white_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65226/SaltStack_cube_-_black_on_white_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14620820</analysis_id>
+      <analysis>
+        <id>14620820</id>
+        <url>http://www.ohloh.net/analyses/14620820.xml</url>
+        <project_id>597674</project_id>
+        <updated_at>2013-07-14T01:19:24Z</updated_at>
+        <logged_at>2013-07-13T20:08:13Z</logged_at>
+        <min_month>2012-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>46</twelve_month_contributor_count>
+        <total_code_lines>10680</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/salt-cloud/analyses/14620820/languages.png">
+          <language color="4A246B" percentage="77" id="9">
+Python          </language>
+          <language color="777777" percentage="22" id="11">
+shell script          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

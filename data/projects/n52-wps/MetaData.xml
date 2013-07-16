@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633153</id>
+      <name>52&#176;North WPS</name>
+      <url>http://www.ohloh.net/p/n52-wps.xml</url>
+      <html_url>http://www.ohloh.net/p/n52-wps</html_url>
+      <created_at>2013-02-08T11:01:56Z</created_at>
+      <updated_at>2013-07-15T08:22:16Z</updated_at>
+      <description>The 52&#176;North Web Processing Service enables the deployment of geo-processes on the web in a standardized way. It features a pluggable architecture for processes and data encodings.
+
+The implementation is based on the current OGC specification WPS 1.0.0.</description>
+      <homepage_url>http://52north.org/communities/geoprocessing/</homepage_url>
+      <download_url>http://52north.org/downloads/geoprocessing</download_url>
+      <url_name>n52-wps</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65854/ico_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65854/ico_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14637134</analysis_id>
+      <tags>
+        <tag>ows</tag>
+        <tag>java</tag>
+        <tag>ogc</tag>
+        <tag>processing</tag>
+        <tag>wps</tag>
+        <tag>geoprocessing</tag>
+        <tag>geospatial</tag>
+        <tag>gis</tag>
+        <tag>geo</tag>
+        <tag>spatial</tag>
+      </tags>
+      <analysis>
+        <id>14637134</id>
+        <url>http://www.ohloh.net/analyses/14637134.xml</url>
+        <project_id>633153</project_id>
+        <updated_at>2013-07-15T08:22:16Z</updated_at>
+        <logged_at>2013-07-15T06:42:31Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>94345</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/n52-wps/analyses/14637134/languages.png">
+          <language color="9A63AD" percentage="46" id="5">
+Java          </language>
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="A4007E" percentage="13" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="3" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_v2_0_only</name>
+          <nice_name>GNU General Public License v2.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

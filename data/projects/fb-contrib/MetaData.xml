@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>92089</id>
+      <name>fb-contrib</name>
+      <url>http://www.ohloh.net/p/fb-contrib.xml</url>
+      <html_url>http://www.ohloh.net/p/fb-contrib</html_url>
+      <created_at>2008-12-22T04:47:25Z</created_at>
+      <updated_at>2013-06-30T03:21:24Z</updated_at>
+      <description>An auxiliary findbugs.sourceforge.net plugin for java bug detectors that fall outside the narrow scope of detectors to be packaged with the product itself. These detectors are not limited by 'pure bug' percentages, or by general purpose value. See webs</description>
+      <homepage_url>http://sourceforge.net/projects/fb-contrib</homepage_url>
+      <download_url></download_url>
+      <url_name>fb-contrib</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471145</analysis_id>
+      <analysis>
+        <id>14471145</id>
+        <url>http://www.ohloh.net/analyses/14471145.xml</url>
+        <project_id>92089</project_id>
+        <updated_at>2013-07-11T10:15:51Z</updated_at>
+        <logged_at>2013-07-11T10:15:46Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>31649</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fb-contrib/analyses/14471145/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="555555" percentage="28" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

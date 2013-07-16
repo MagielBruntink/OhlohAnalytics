@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12459</id>
+      <name>hslogger</name>
+      <url>http://www.ohloh.net/p/hslogger.xml</url>
+      <html_url>http://www.ohloh.net/p/hslogger</html_url>
+      <created_at>2008-03-03T00:00:24Z</created_at>
+      <updated_at>2013-06-29T18:42:02Z</updated_at>
+      <description>hslogger is a logging framework for Haskell, roughly similar to Python's logging module.
+
+hslogger lets each log message have a priority and source be associated with it. The programmer can
+then define global handlers that route or filter messages based on the priority and source. hslogger
+also has a syslog handler built in.</description>
+      <homepage_url>http://software.complete.org/hslogger</homepage_url>
+      <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/hslogger</download_url>
+      <url_name>hslogger</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14465598</analysis_id>
+      <analysis>
+        <id>14465598</id>
+        <url>http://www.ohloh.net/analyses/14465598.xml</url>
+        <project_id>12459</project_id>
+        <updated_at>2013-07-11T09:26:38Z</updated_at>
+        <logged_at>2013-07-11T09:21:44Z</logged_at>
+        <min_month>2004-10-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>1999</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hslogger/analyses/14465598/languages.png">
+          <language color="9A63AD" percentage="55" id="5">
+Java          </language>
+          <language color="007B7C" percentage="39" id="38">
+Haskell          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

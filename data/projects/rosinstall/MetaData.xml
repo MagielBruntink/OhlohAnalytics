@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596592</id>
+      <name>rosinstall</name>
+      <url>http://www.ohloh.net/p/rosinstall.xml</url>
+      <html_url>http://www.ohloh.net/p/rosinstall</html_url>
+      <created_at>2012-03-26T19:47:54Z</created_at>
+      <updated_at>2013-05-05T03:48:13Z</updated_at>
+      <description>The rosinstall package provides a Python API for interacting with a source code workspace as well as a group of command line tools. Rosinstall leverages the vcstools package for source control and stores its state in .rosinstall files.</description>
+      <homepage_url>http://www.ros.org/wiki/rosinstall</homepage_url>
+      <download_url>http://www.ros.org/wiki/rosinstall</download_url>
+      <url_name>rosinstall</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13780945</analysis_id>
+      <tags>
+        <tag>ros</tag>
+      </tags>
+      <analysis>
+        <id>13780945</id>
+        <url>http://www.ohloh.net/analyses/13780945.xml</url>
+        <project_id>596592</project_id>
+        <updated_at>2013-05-05T03:48:13Z</updated_at>
+        <logged_at>2013-05-05T03:43:16Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>10634</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rosinstall/analyses/13780945/languages.png">
+          <language color="4A246B" percentage="90" id="9">
+Python          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

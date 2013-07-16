@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588751</id>
+      <name>CWE-Plasma</name>
+      <url>http://www.ohloh.net/p/cwe.xml</url>
+      <html_url>http://www.ohloh.net/p/cwe</html_url>
+      <created_at>2012-01-31T17:53:41Z</created_at>
+      <updated_at>2013-07-07T04:28:35Z</updated_at>
+      <description>Plasma is a mature engine for developing virtual worlds.
+
+It is currently being used commercially for Myst Online: Uru Live and MagiQuest Online, both developed by Cyan Worlds.</description>
+      <homepage_url>http://www.guildofwriters.org/cwe-dev/</homepage_url>
+      <download_url></download_url>
+      <url_name>cwe</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559198</analysis_id>
+      <tags>
+        <tag>onlinegame</tag>
+        <tag>virtualworlds</tag>
+        <tag>virtual_world</tag>
+        <tag>mmo</tag>
+        <tag>ogg</tag>
+        <tag>open-source</tag>
+        <tag>windows</tag>
+        <tag>python</tag>
+        <tag>objectoriented</tag>
+        <tag>gameengine</tag>
+        <tag>3d_engine</tag>
+        <tag>cmake</tag>
+        <tag>game_engine</tag>
+        <tag>python27</tag>
+        <tag>openal</tag>
+        <tag>gplv3</tag>
+        <tag>engine</tag>
+        <tag>opensource</tag>
+        <tag>direct3d</tag>
+        <tag>game</tag>
+        <tag>c++</tag>
+        <tag>physx</tag>
+        <tag>virtualworld</tag>
+        <tag>virtual_worlds</tag>
+        <tag>online</tag>
+        <tag>online-game</tag>
+      </tags>
+      <analysis>
+        <id>14559198</id>
+        <url>http://www.ohloh.net/analyses/14559198.xml</url>
+        <project_id>588751</project_id>
+        <updated_at>2013-07-07T04:28:34Z</updated_at>
+        <logged_at>2013-07-07T04:22:33Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>412850</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cwe/analyses/14559198/languages.png">
+          <language color="F35F1F" percentage="91" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="8" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

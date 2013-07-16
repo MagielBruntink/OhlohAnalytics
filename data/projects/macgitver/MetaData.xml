@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603307</id>
+      <name>MacGitver</name>
+      <url>http://www.ohloh.net/p/macgitver.xml</url>
+      <html_url>http://www.ohloh.net/p/macgitver</html_url>
+      <created_at>2012-07-09T16:20:25Z</created_at>
+      <updated_at>2013-07-12T17:05:57Z</updated_at>
+      <description>MacGitver is a cross platform, Qt-based GUI for git repositories.</description>
+      <homepage_url>https://github.com/macgitver/macgitver</homepage_url>
+      <download_url></download_url>
+      <url_name>macgitver</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55650/mgv_sak64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55650/mgv_sak64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14608014</analysis_id>
+      <tags>
+        <tag>scm</tag>
+        <tag>vcs</tag>
+        <tag>qt</tag>
+        <tag>gui</tag>
+        <tag>git</tag>
+        <tag>tools</tag>
+        <tag>development</tag>
+      </tags>
+      <analysis>
+        <id>14608014</id>
+        <url>http://www.ohloh.net/analyses/14608014.xml</url>
+        <project_id>603307</project_id>
+        <updated_at>2013-07-12T17:05:56Z</updated_at>
+        <logged_at>2013-07-12T17:01:05Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>15172</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/macgitver/analyses/14608014/languages.png">
+          <language color="F35F1F" percentage="69" id="44">
+C++          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="EEE" percentage="8" id="74">
+CMake          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_v2_0_only</name>
+          <nice_name>GNU General Public License v2.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

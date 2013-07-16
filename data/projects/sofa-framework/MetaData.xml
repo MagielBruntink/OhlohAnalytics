@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11696</id>
+      <name>SOFA - Simulation Framework</name>
+      <url>http://www.ohloh.net/p/sofa-framework.xml</url>
+      <html_url>http://www.ohloh.net/p/sofa-framework</html_url>
+      <created_at>2008-02-13T10:45:08Z</created_at>
+      <updated_at>2013-07-14T01:31:46Z</updated_at>
+      <description>SOFA is an Open Source framework primarily targeted at real-time simulation, with an emphasis on medical simulation. It is mostly intended for the research community to help develop newer algorithms, but can also be used as an efficient prototyping tool. Based on an advanced software architecture, it allows to:
+
+Create complex and evolving simulations by combining new algorithms with algorithms already included in SOFA
+
+Modify most parameters of the simulation &#8211; deformable behavior, surface representation, solver, constraints, collision algorithm, etc. &#8211; by simply editing an XML file
+
+Build complex models from simpler ones using a scene-graph description
+
+Efficiently simulate the dynamics of interacting objects using abstract equation solvers
+
+Reuse and compare a variety available methods</description>
+      <homepage_url>http://www.sofa-framework.org</homepage_url>
+      <download_url>http://www.sofa-framework.org/download</download_url>
+      <url_name>sofa-framework</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/58394/sofa-logo-alpha-text_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/58394/sofa-logo-alpha-text_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14620970</analysis_id>
+      <tags>
+        <tag>gpgpu</tag>
+        <tag>windows</tag>
+        <tag>linux</tag>
+        <tag>soft_body</tag>
+        <tag>physicsengine</tag>
+        <tag>collision_detection</tag>
+        <tag>3d</tag>
+        <tag>animation</tag>
+        <tag>physics</tag>
+        <tag>c++</tag>
+        <tag>mathematics</tag>
+        <tag>simulation</tag>
+        <tag>rigid_body</tag>
+        <tag>fluid</tag>
+        <tag>macosx</tag>
+        <tag>mechanics</tag>
+        <tag>opengl</tag>
+      </tags>
+      <analysis>
+        <id>14620970</id>
+        <url>http://www.ohloh.net/analyses/14620970.xml</url>
+        <project_id>11696</project_id>
+        <updated_at>2013-07-14T01:31:45Z</updated_at>
+        <logged_at>2013-07-13T23:25:04Z</logged_at>
+        <min_month>2005-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>36</twelve_month_contributor_count>
+        <total_code_lines>412439</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sofa-framework/analyses/14620970/languages.png">
+          <language color="F35F1F" percentage="74" id="44">
+C++          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="16" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

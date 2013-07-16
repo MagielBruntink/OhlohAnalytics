@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8741</id>
+      <name>Photo uploader</name>
+      <url>http://www.ohloh.net/p/photo_uploader.xml</url>
+      <html_url>http://www.ohloh.net/p/photo_uploader</html_url>
+      <created_at>2007-09-25T02:44:03Z</created_at>
+      <updated_at>2013-06-30T06:56:55Z</updated_at>
+      <description>Simple Python script to upload photos to minilab.</description>
+      <homepage_url>http://cihar.com/software/photo-uploader/</homepage_url>
+      <download_url>http://cihar.com/software/photo-uploader/</download_url>
+      <url_name>photo_uploader</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14474541</analysis_id>
+      <tags>
+        <tag>photography</tag>
+        <tag>upload</tag>
+        <tag>image</tag>
+        <tag>pictures</tag>
+        <tag>photo</tag>
+        <tag>minilab</tag>
+        <tag>fotolab</tag>
+        <tag>jpeg</tag>
+        <tag>digital_camera</tag>
+      </tags>
+      <analysis>
+        <id>14474541</id>
+        <url>http://www.ohloh.net/analyses/14474541.xml</url>
+        <project_id>8741</project_id>
+        <updated_at>2013-07-13T01:07:30Z</updated_at>
+        <logged_at>2013-07-13T01:07:27Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1147</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/photo_uploader/analyses/14474541/languages.png">
+          <language color="4A246B" percentage="76" id="9">
+Python          </language>
+          <language color="AAAAAA" percentage="12" id="13">
+DOS batch script          </language>
+          <language color="EEE" percentage="9" id="52">
+Make          </language>
+          <language color="777777" percentage="3" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479751</id>
+      <name>CoilMQ</name>
+      <url>http://www.ohloh.net/p/coilmq.xml</url>
+      <html_url>http://www.ohloh.net/p/coilmq</html_url>
+      <created_at>2009-12-05T17:28:55Z</created_at>
+      <updated_at>2013-06-26T10:47:24Z</updated_at>
+      <description>CoilMQ is a simple, but configurable STOMP message broker (aka STOMP server) written in Python. This project is inspired by the design of the simple Ruby stompserver project and the intent is to provide a working reference implementation with a basic set of functionality built-in and the necessary extensibility so that developers can easily tailor this project to their needs.</description>
+      <homepage_url>http://code.google.com/p/coilmq/</homepage_url>
+      <download_url>http://code.google.com/p/coilmq/downloads/list</download_url>
+      <url_name>coilmq</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14415794</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>broker</tag>
+        <tag>stomp</tag>
+      </tags>
+      <analysis>
+        <id>14415794</id>
+        <url>http://www.ohloh.net/analyses/14415794.xml</url>
+        <project_id>479751</project_id>
+        <updated_at>2013-07-14T00:00:11Z</updated_at>
+        <logged_at>2013-07-14T00:00:08Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2333</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/coilmq/analyses/14415794/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

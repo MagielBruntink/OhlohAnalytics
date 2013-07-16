@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>27736</id>
+      <name>Amiga Development Tools (adtools)</name>
+      <url>http://www.ohloh.net/p/adtools.xml</url>
+      <html_url>http://www.ohloh.net/p/adtools</html_url>
+      <created_at>2008-12-04T19:50:06Z</created_at>
+      <updated_at>2013-06-26T18:42:24Z</updated_at>
+      <description>An effort to unify the development of patches against binutils, gdb, and GCC to support all kind of AmigaOS target platforms (AmigaOS, MorphOS, AROS, etc). Another target is to achieve an integration of these patches to the official development projects.</description>
+      <homepage_url>http://sourceforge.net/projects/adtools</homepage_url>
+      <download_url>http://sourceforge.net/projects/adtools/files</download_url>
+      <url_name>adtools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14420473</analysis_id>
+      <tags>
+        <tag>aros</tag>
+        <tag>development</tag>
+        <tag>amiga</tag>
+        <tag>morphos</tag>
+      </tags>
+      <analysis>
+        <id>14420473</id>
+        <url>http://www.ohloh.net/analyses/14420473.xml</url>
+        <project_id>27736</project_id>
+        <updated_at>2013-07-11T18:50:37Z</updated_at>
+        <logged_at>2013-07-11T18:50:27Z</logged_at>
+        <min_month>2006-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>7724655</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/adtools/analyses/14420473/languages.png">
+          <language color="FF8F00" percentage="47" id="42">
+C          </language>
+          <language color="EEE" percentage="11" id="51">
+Autoconf          </language>
+          <language color="9A63AD" percentage="8" id="5">
+Java          </language>
+          <language color="000000" percentage="34" id="">
+34 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

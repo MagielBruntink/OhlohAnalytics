@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>359619</id>
+      <name>redbeanphp</name>
+      <url>http://www.ohloh.net/p/redbeanphp.xml</url>
+      <html_url>http://www.ohloh.net/p/redbeanphp</html_url>
+      <created_at>2009-08-07T09:37:15Z</created_at>
+      <updated_at>2013-07-13T23:48:05Z</updated_at>
+      <description>Redbean is an ORM layer that designs a database - on the fly - to fit your code. With RedBeanPHP you don't need configuration files, data mapping files or SQL imports. You even don't have to write models! Just enter your database connection string and include RedBean. RedBean will just generate all the tables you need out of the blue as soon as you start coding. What's more... RedBean also takes care of indexes, redundant tables and eliminates race-conditions. Object relational mapping coding has never been this easy!</description>
+      <homepage_url>http://www.redbeanphp.com</homepage_url>
+      <download_url>http://www.redbeanphp.com/download-redbean</download_url>
+      <url_name>redbeanphp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/22784/beanlogo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/22784/beanlogo_small.gif</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14619697</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>persistence</tag>
+        <tag>php5</tag>
+        <tag>oop</tag>
+        <tag>orm_mapper</tag>
+        <tag>development</tag>
+        <tag>programming</tag>
+        <tag>orm</tag>
+        <tag>ormmapper</tag>
+        <tag>pdo</tag>
+        <tag>code</tag>
+        <tag>database</tag>
+        <tag>ormapping</tag>
+      </tags>
+      <analysis>
+        <id>14619697</id>
+        <url>http://www.ohloh.net/analyses/14619697.xml</url>
+        <project_id>359619</project_id>
+        <updated_at>2013-07-13T23:48:05Z</updated_at>
+        <logged_at>2013-07-13T23:32:40Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>14046</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/redbeanphp/analyses/14619697/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

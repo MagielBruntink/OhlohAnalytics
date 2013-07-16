@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3851</id>
+      <name>SEMS</name>
+      <url>http://www.ohloh.net/p/sems.xml</url>
+      <html_url>http://www.ohloh.net/p/sems</html_url>
+      <created_at>2006-12-20T21:10:39Z</created_at>
+      <updated_at>2013-07-09T19:38:18Z</updated_at>
+      <description>Sems is a extensible media server which helps you adding voice services to your VoIP system.</description>
+      <homepage_url>http://www.iptel.org/sems</homepage_url>
+      <download_url>http://ftp.iptel.org/pub/sems/</download_url>
+      <url_name>sems</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574645</analysis_id>
+      <tags>
+        <tag>voicemail</tag>
+        <tag>voip</tag>
+        <tag>conferencing</tag>
+        <tag>telephony</tag>
+        <tag>ivr</tag>
+        <tag>voice</tag>
+        <tag>sip</tag>
+        <tag>rtp</tag>
+      </tags>
+      <analysis>
+        <id>14574645</id>
+        <url>http://www.ohloh.net/analyses/14574645.xml</url>
+        <project_id>3851</project_id>
+        <updated_at>2013-07-09T19:38:18Z</updated_at>
+        <logged_at>2013-07-09T19:22:02Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>149859</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sems/analyses/14574645/languages.png">
+          <language color="F35F1F" percentage="62" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

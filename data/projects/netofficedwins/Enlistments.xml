@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>487320</id>
+      <project_id>38260</project_id>
+      <repository_id>488534</repository_id>
+      <repository>
+        <id>488534</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@netofficedwins.cvs.sourceforge.net:/cvsroot/netofficedwins</url>
+        <module_name>netofficedwins</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-08T08:10:40Z</logged_at>
+        <commits>791</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>487321</id>
+      <project_id>38260</project_id>
+      <repository_id>488535</repository_id>
+      <repository>
+        <id>488535</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@netofficedwins.cvs.sourceforge.net:/cvsroot/netofficedwins</url>
+        <module_name>netofficedwins-xmlrpc</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-08T08:08:29Z</logged_at>
+        <commits>2</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

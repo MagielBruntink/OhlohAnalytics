@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>489165</id>
+      <name>MediaMosa</name>
+      <url>http://www.ohloh.net/p/mediamosa.xml</url>
+      <html_url>http://www.ohloh.net/p/mediamosa</html_url>
+      <created_at>2011-04-09T09:05:16Z</created_at>
+      <updated_at>2013-07-12T01:27:09Z</updated_at>
+      <description>MediaMosa is software to build a Full Featured, Webservice Oriented Media Management and Distribution platform.
+
+With MediaMosa you can build a state-of-the-art, scalable middleware media distribution platform which facilitates access to, and usage of storage capacity, metadata databases, transcoding- and streaming servers. A MediaMosa platform offers functionality for searching, playing, uploading, transcoding, as well as a fine granularity media access control system towards its users. MediaMosa is based on a REST architecture and is designed to support content streaming applications by providing a back-end-, audio- and video-infrastructure.
+
+MediaMosa is based on the Drupal CMS and supports the use of several other Open Source software software such as FFmpeg.
+
+See: http://mediamosa.org</description>
+      <homepage_url>http://mediamosa.org/</homepage_url>
+      <download_url>https://github.com/mediamosa</download_url>
+      <url_name>mediamosa</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42805/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42805/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14597919</analysis_id>
+      <tags>
+        <tag>mediamanagement</tag>
+        <tag>media</tag>
+      </tags>
+      <analysis>
+        <id>14597919</id>
+        <url>http://www.ohloh.net/analyses/14597919.xml</url>
+        <project_id>489165</project_id>
+        <updated_at>2013-07-12T01:27:09Z</updated_at>
+        <logged_at>2013-07-12T01:12:09Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>1246782</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mediamosa/analyses/14597919/languages.png">
+          <language color="356AA0" percentage="71" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="15" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="8" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>278566</id>
+      <project_id>36341</project_id>
+      <repository_id>276000</repository_id>
+      <repository>
+        <id>276000</id>
+        <type>SvnSyncRepository</type>
+        <url>http://mtasa-blue.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T20:29:26Z</logged_at>
+        <commits>4029</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>278575</id>
+      <project_id>36341</project_id>
+      <repository_id>276009</repository_id>
+      <repository>
+        <id>276009</id>
+        <type>SvnSyncRepository</type>
+        <url>http://mtasa-resources.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T20:29:28Z</logged_at>
+        <commits>939</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487139</id>
+      <name>HipHop for PHP</name>
+      <url>http://www.ohloh.net/p/hiphop-php.xml</url>
+      <html_url>http://www.ohloh.net/p/hiphop-php</html_url>
+      <created_at>2010-12-20T16:55:14Z</created_at>
+      <updated_at>2013-07-16T03:25:15Z</updated_at>
+      <description>HipHop is a source code transformer which transforms PHP source code into highly optimized C++ and then compiles it using g++.</description>
+      <homepage_url>https://github.com/facebook/hiphop-php</homepage_url>
+      <download_url></download_url>
+      <url_name>hiphop-php</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14646063</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>g++</tag>
+        <tag>compiler</tag>
+        <tag>performance</tag>
+        <tag>facebook</tag>
+        <tag>hphp</tag>
+        <tag>hiphop</tag>
+        <tag>optimize</tag>
+        <tag>optimization</tag>
+        <tag>tranform</tag>
+        <tag>c++</tag>
+      </tags>
+      <analysis>
+        <id>14646063</id>
+        <url>http://www.ohloh.net/analyses/14646063.xml</url>
+        <project_id>487139</project_id>
+        <updated_at>2013-07-16T03:25:15Z</updated_at>
+        <logged_at>2013-07-16T03:11:24Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>116</twelve_month_contributor_count>
+        <total_code_lines>1003797</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hiphop-php/analyses/14646063/languages.png">
+          <language color="FF8F00" percentage="42" id="42">
+C          </language>
+          <language color="356AA0" percentage="32" id="2">
+PHP          </language>
+          <language color="F35F1F" percentage="19" id="44">
+C++          </language>
+          <language color="000000" percentage="7" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>php_license</name>
+          <nice_name>PHP License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

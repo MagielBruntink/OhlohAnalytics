@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>535987</id>
+      <name>Bookyt</name>
+      <url>http://www.ohloh.net/p/bookyt.xml</url>
+      <html_url>http://www.ohloh.net/p/bookyt</html_url>
+      <created_at>2011-05-05T20:53:03Z</created_at>
+      <updated_at>2013-07-15T20:19:54Z</updated_at>
+      <description>Bookyt is a bookkeeping/ERP application designed for small-to-medium-sized companies. It can handle debit invoices, credit invoices, projects with timelogs, swiss salary management, and much more.
+
+Bookyt is built on Ruby On Rails and released as Open Source.</description>
+      <homepage_url>http://bookyt.ch</homepage_url>
+      <download_url>https://github.com/huerlisi/bookyt</download_url>
+      <url_name>bookyt</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43506/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43506/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14597199</analysis_id>
+      <tags>
+        <tag>invoice</tag>
+        <tag>accounting-invoice</tag>
+        <tag>accounting</tag>
+        <tag>webapp</tag>
+        <tag>contacts</tag>
+      </tags>
+      <analysis>
+        <id>14597199</id>
+        <url>http://www.ohloh.net/analyses/14597199.xml</url>
+        <project_id>535987</project_id>
+        <updated_at>2013-07-12T00:38:01Z</updated_at>
+        <logged_at>2013-07-12T00:36:47Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>11063</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bookyt/analyses/14597199/languages.png">
+          <language color="A40011" percentage="77" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3_or_later</name>
+          <nice_name>GNU Affero General Public License 3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

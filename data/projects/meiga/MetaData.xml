@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346447</id>
+      <name>Meiga</name>
+      <url>http://www.ohloh.net/p/meiga.xml</url>
+      <html_url>http://www.ohloh.net/p/meiga</html_url>
+      <created_at>2009-06-10T15:39:39Z</created_at>
+      <updated_at>2013-07-07T04:38:32Z</updated_at>
+      <description>Light and easy content server for your desktop.
+
+Meiga shares selected local directories via web and also as an RSS feed. It can reconfigure your LAN router using UPnP to make the share accessible from the Internet.</description>
+      <homepage_url>http://meiga.igalia.com</homepage_url>
+      <download_url>http://meiga.igalia.com</download_url>
+      <url_name>meiga</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19964/meiga_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19964/meiga_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559227</analysis_id>
+      <tags>
+        <tag>desktop</tag>
+        <tag>share</tag>
+        <tag>gtk</tag>
+        <tag>igalia</tag>
+        <tag>vala</tag>
+        <tag>gnome</tag>
+      </tags>
+      <analysis>
+        <id>14559227</id>
+        <url>http://www.ohloh.net/analyses/14559227.xml</url>
+        <project_id>346447</project_id>
+        <updated_at>2013-07-07T04:38:31Z</updated_at>
+        <logged_at>2013-07-07T04:37:43Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3737</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/meiga/analyses/14559227/languages.png">
+          <language color="729FCF" percentage="59" id="34">
+Vala          </language>
+          <language color="FF8F00" percentage="21" id="42">
+C          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="000000" percentage="10" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482353</id>
+      <name>Ostinato</name>
+      <url>http://www.ohloh.net/p/ostinato.xml</url>
+      <html_url>http://www.ohloh.net/p/ostinato</html_url>
+      <created_at>2010-04-11T02:24:11Z</created_at>
+      <updated_at>2013-07-15T18:04:55Z</updated_at>
+      <description>Ostinato is a cross-platform network packet and traffic generator and analyzer with a friendly GUI. It aims to be &quot;Wireshark in Reverse&quot; and thus become complementary to Wireshark.
+
+Features custom packet crafting with any field editing support for several protocols - 
+L2: Ethernet, 802.3, LLC SNAP, VLAN (with Q-in-Q)
+L3: ARP, IPv4, IPv6, IP-in-IP (a.k.a IP Tunneling)
+L4: TCP, UDP, ICMPv4, ICMPv6, IGMP, MLD
+L5: HTTP, SIP, RTSP, NNTP etc.
+
+Useful for both functional and performance testing.
+
+Works on Windows, Linux, BSD and Mac OS X.
+
+See the Homepage for a full list of features.</description>
+      <homepage_url>http://code.google.com/p/ostinato</homepage_url>
+      <download_url>http://code.google.com/p/ostinato/wiki/Downloads?tm=2</download_url>
+      <url_name>ostinato</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/32425/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/32425/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14624509</analysis_id>
+      <tags>
+        <tag>traffic-generator</tag>
+        <tag>packet-generator</tag>
+        <tag>packet-analyzer</tag>
+        <tag>protocol-testing</tag>
+        <tag>network-testing</tag>
+        <tag>wireshark-in-reverse</tag>
+        <tag>custom-packet</tag>
+        <tag>packet-crafting</tag>
+        <tag>traffic-analysis</tag>
+      </tags>
+      <analysis>
+        <id>14624509</id>
+        <url>http://www.ohloh.net/analyses/14624509.xml</url>
+        <project_id>482353</project_id>
+        <updated_at>2013-07-14T10:37:41Z</updated_at>
+        <logged_at>2013-07-13T21:13:11Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>26119</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ostinato/analyses/14624509/languages.png">
+          <language color="F35F1F" percentage="98" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
