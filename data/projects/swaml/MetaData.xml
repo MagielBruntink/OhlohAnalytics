@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13509</id>
+      <name>SWAML</name>
+      <url>http://www.ohloh.net/p/swaml.xml</url>
+      <html_url>http://www.ohloh.net/p/swaml</html_url>
+      <created_at>2008-04-23T11:07:02Z</created_at>
+      <updated_at>2013-07-01T07:13:06Z</updated_at>
+      <description>SWAML, pronounced [sw&#230;ml], is a research project around the semantic web technologies to publish the mailing lists' archives into a RDF format. It has been developed by the CTIC Foundation and the WESO-RG  at University of Oviedo (Spain). You can visit the project page at BerliOS for more details.
+
+SWAML reads a collection of email messages stored in a mailbox (from a mailing list compatible with RFC 4155) and generates a RDF description. It is written in Python using SIOC as the main ontology to represent in RDF a mailing list.</description>
+      <homepage_url>http://swaml.berlios.de/</homepage_url>
+      <download_url>http://swaml.berlios.de/showfiles</download_url>
+      <url_name>swaml</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14493708</analysis_id>
+      <tags>
+        <tag>rdf</tag>
+        <tag>rdflib</tag>
+        <tag>uniovi</tag>
+        <tag>sioc</tag>
+        <tag>python</tag>
+        <tag>ctic</tag>
+      </tags>
+      <analysis>
+        <id>14493708</id>
+        <url>http://www.ohloh.net/analyses/14493708.xml</url>
+        <project_id>13509</project_id>
+        <updated_at>2013-07-13T14:20:13Z</updated_at>
+        <logged_at>2013-07-13T14:20:11Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>114423</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/swaml/analyses/14493708/languages.png">
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="777777" percentage="21" id="11">
+shell script          </language>
+          <language color="EEE" percentage="15" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="32" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

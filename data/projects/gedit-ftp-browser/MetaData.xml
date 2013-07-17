@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>61091</id>
+      <name>gedit-ftp-browser</name>
+      <url>http://www.ohloh.net/p/gedit-ftp-browser.xml</url>
+      <html_url>http://www.ohloh.net/p/gedit-ftp-browser</html_url>
+      <created_at>2008-12-18T00:47:03Z</created_at>
+      <updated_at>2013-06-29T16:06:06Z</updated_at>
+      <description>What is thisFTP Browser is a plugin for Gedit that enable direct editing of files from an FTP location.  
+
+Altough the same thing can be done using the File Browser Pane plugin, but this plugin does not rely on nautilus. 
+
+InstallationCheckout the project (svn checkout http://gedit-ftp-browser.googlecode.com/svn/trunk/ gedit-ftp-browser-read-only) Put FTP.gedit-plugin and FTP.py inside .gnome2/gedit/plugins/ under your home directory. (Re)start Gedit.  Go to Edit-&gt;Preferences-&gt;Plugins and check the box for FTP Browser.  UsageEnter FTP hostname (www.sample.com) Enter FTP Username  Enter FTP Password click the Home icon to open the / folder on FTP click the Refresh icon to re-list the last folder you viewed Join/ContributeBug reports, feedback, or help to enhance the plugin are all welcome! you can email to the gnome mailing list @ gedit-list_at_gnome.org 
+
+Screenshot</description>
+      <homepage_url>http://code.google.com/p/gedit-ftp-browser</homepage_url>
+      <download_url></download_url>
+      <url_name>gedit-ftp-browser</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28042/gnome_sm_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28042/gnome_sm_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14462240</analysis_id>
+      <tags>
+        <tag>gedit</tag>
+        <tag>linux</tag>
+        <tag>ftp</tag>
+        <tag>plugin</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14462240</id>
+        <url>http://www.ohloh.net/analyses/14462240.xml</url>
+        <project_id>61091</project_id>
+        <updated_at>2013-07-11T05:10:15Z</updated_at>
+        <logged_at>2013-07-11T05:10:14Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>376</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gedit-ftp-browser/analyses/14462240/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15177</id>
+      <name>ssh-tunnels</name>
+      <url>http://www.ohloh.net/p/ssh-tunnels.xml</url>
+      <html_url>http://www.ohloh.net/p/ssh-tunnels</html_url>
+      <created_at>2008-06-27T05:47:20Z</created_at>
+      <updated_at>2013-06-18T14:49:43Z</updated_at>
+      <description>This program provides a graphical front-end for creating SSH tunnels that are backed by a corresponding Iptables rule thus creating the illusion that the remote target being tunneled is accessible directly. All traffic to the target is automatically redirected through the tunnel thanks to the corresponding Iptables rule.
+
+This software is ideal when firewall rules forbid a client to reach different targets. This program will ease the task of creating SSH tunnels and to assign them a corresponding Iptable rule.</description>
+      <homepage_url>http://code.google.com/p/ssh-tunnels/</homepage_url>
+      <download_url>http://code.google.com/p/ssh-tunnels/downloads/list</download_url>
+      <url_name>ssh-tunnels</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6123/ssh-tunnels_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6123/ssh-tunnels_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14299801</analysis_id>
+      <tags>
+        <tag>iptables</tag>
+        <tag>ssh</tag>
+        <tag>gtk</tag>
+        <tag>tunnels</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14299801</id>
+        <url>http://www.ohloh.net/analyses/14299801.xml</url>
+        <project_id>15177</project_id>
+        <updated_at>2013-07-11T14:48:44Z</updated_at>
+        <logged_at>2013-07-11T14:48:34Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1751</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ssh-tunnels/analyses/14299801/languages.png">
+          <language color="EC2E24" percentage="88" id="32">
+D          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

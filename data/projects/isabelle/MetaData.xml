@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13669</id>
+      <name>Isabelle</name>
+      <url>http://www.ohloh.net/p/isabelle.xml</url>
+      <html_url>http://www.ohloh.net/p/isabelle</html_url>
+      <created_at>2008-05-01T05:58:22Z</created_at>
+      <updated_at>2013-07-06T19:31:48Z</updated_at>
+      <description>Isabelle is a generic proof assistant. It allows mathematical formulas to be expressed in a formal language and provides tools for proving those formulas in a logical calculus. Isabelle is developed at University of Cambridge (Larry Paulson) and Technical University of Munich (Tobias Nipkow).</description>
+      <homepage_url>http://isabelle.in.tum.de/</homepage_url>
+      <download_url>http://isabelle.in.tum.de/download.html</download_url>
+      <url_name>isabelle</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14553624</analysis_id>
+      <analysis>
+        <id>14553624</id>
+        <url>http://www.ohloh.net/analyses/14553624.xml</url>
+        <project_id>13669</project_id>
+        <updated_at>2013-07-06T19:31:47Z</updated_at>
+        <logged_at>2013-07-06T19:25:16Z</logged_at>
+        <min_month>1993-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>28</twelve_month_contributor_count>
+        <total_code_lines>247125</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/isabelle/analyses/14553624/languages.png">
+          <language color="3BE133" percentage="77" id="61">
+Objective Caml          </language>
+          <language color="000080" percentage="10" id="37">
+TeX/LaTeX          </language>
+          <language color="7DD3B0" percentage="6" id="55">
+Scala          </language>
+          <language color="000000" percentage="7" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

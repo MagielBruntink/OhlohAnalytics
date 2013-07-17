@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>309857</id>
+      <name>icoutils</name>
+      <url>http://www.ohloh.net/p/icoutils.xml</url>
+      <html_url>http://www.ohloh.net/p/icoutils</html_url>
+      <created_at>2009-02-07T02:08:14Z</created_at>
+      <updated_at>2013-06-30T01:24:19Z</updated_at>
+      <description>The icoutils are a set of program for extracting and converting images in Microsoft Windows(R) icon and cursor files. These files usually have the extension .ico or .cur, but they can also be embedded in executables and libraries (.dll-files).
+The icotool program converts icon and cursor files into a set of PNG images. (Each icon/cursor file may contain multiple images, usually of different sizes and with different number of colors.) Icotool can also create icon/cursor files from PNG images.
+The wrestool program can extract both icons and cursors from 32-bit (&quot;PE&quot;) and 16-bit (&quot;NE&quot;) executables and libraries. It writes .ico and .cur files that can be used on Windows(R) operating systems as well. Other types of embedded resourced can be extracted, however only in raw form - icons and cursors require additional conversion before they can be saved as icon and cursor files.
+The extresso script automates the tasks of extracting and converting icons. This is done with the help of of special resource scripts. The purpose of these scripts are to give names to the icons in the executables and libraries.
+The icoutils were designed to compile and run on modern POSIX compatible systems such as Linux.</description>
+      <homepage_url>http://savannah.nongnu.org/projects/icoutils</homepage_url>
+      <download_url></download_url>
+      <url_name>icoutils</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14469919</analysis_id>
+      <analysis>
+        <id>14469919</id>
+        <url>http://www.ohloh.net/analyses/14469919.xml</url>
+        <project_id>309857</project_id>
+        <updated_at>2013-07-11T11:30:57Z</updated_at>
+        <logged_at>2013-07-11T11:30:55Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>50167</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/icoutils/analyses/14469919/languages.png">
+          <language color="FF8F00" percentage="35" id="42">
+C          </language>
+          <language color="EEE" percentage="27" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="24" id="11">
+shell script          </language>
+          <language color="000000" percentage="14" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

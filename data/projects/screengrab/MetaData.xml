@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23691</id>
+      <name>screengrab</name>
+      <url>http://www.ohloh.net/p/screengrab.xml</url>
+      <html_url>http://www.ohloh.net/p/screengrab</html_url>
+      <created_at>2008-10-07T15:48:59Z</created_at>
+      <updated_at>2013-07-15T01:30:32Z</updated_at>
+      <description>Screengrab! is a Firefox extension for saving web pages as images. 
+
+Much more information about it is available at... http://www.screengrab.org 
+
+It is currently on hiatus (will keep the version number ticking over to match FF releases), as the lead (only) developer now has a baby to look after and he is, oddly enough, extremely tired most of the time.</description>
+      <homepage_url>http://code.google.com/p/screengrab</homepage_url>
+      <download_url></download_url>
+      <url_name>screengrab</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14634152</analysis_id>
+      <analysis>
+        <id>14634152</id>
+        <url>http://www.ohloh.net/analyses/14634152.xml</url>
+        <project_id>23691</project_id>
+        <updated_at>2013-07-15T01:30:32Z</updated_at>
+        <logged_at>2013-07-15T01:30:11Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1288</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/screengrab/analyses/14634152/languages.png">
+          <language color="A4007E" percentage="57" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="40" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="3" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

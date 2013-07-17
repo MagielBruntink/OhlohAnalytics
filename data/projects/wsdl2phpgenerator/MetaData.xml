@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>467503</id>
+      <name>wsdl2phpgenerator</name>
+      <url>http://www.ohloh.net/p/wsdl2phpgenerator.xml</url>
+      <html_url>http://www.ohloh.net/p/wsdl2phpgenerator</html_url>
+      <created_at>2009-10-26T07:43:11Z</created_at>
+      <updated_at>2013-07-15T19:18:41Z</updated_at>
+      <description>Simple php utility and class library for generating classes ready to use with a web service from the wsdl file. 
+
+About wsdl2phpgenerator
+Wsdl2phpgenerator generates valid php 5.3 classes with optional namespace support. It enables a fast start when about to use a webservice, just generate the code from the wsdl file, include the service class and start calling functions from the web service. 
+
+Wsdl2phpgenerator has support for separating the classes to multiple files inclusion guard the classes by class_exists() calls, namespaces and a option to just make one file with all classes. 
+
+CLI
+The source does also contain a nice library for reading input from the command line. It has support for required parameters, optional parameters. Boolean and string parameters and generates a help</description>
+      <homepage_url>https://github.com/walle/wsdl2phpgenerator</homepage_url>
+      <download_url>https://github.com/walle/wsdl2phpgenerator</download_url>
+      <url_name>wsdl2phpgenerator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14257177</analysis_id>
+      <tags>
+        <tag>codegeneration</tag>
+        <tag>wsdl</tag>
+        <tag>webservice</tag>
+        <tag>php</tag>
+        <tag>classgeneration</tag>
+        <tag>cli</tag>
+        <tag>soap</tag>
+      </tags>
+      <analysis>
+        <id>14257177</id>
+        <url>http://www.ohloh.net/analyses/14257177.xml</url>
+        <project_id>467503</project_id>
+        <updated_at>2013-07-06T11:06:29Z</updated_at>
+        <logged_at>2013-07-06T10:57:53Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5065</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wsdl2phpgenerator/analyses/14257177/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

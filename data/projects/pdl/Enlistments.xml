@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>504763</id>
+      <project_id>14594</project_id>
+      <repository_id>505883</repository_id>
+      <repository>
+        <id>505883</id>
+        <type>GitRepository</type>
+        <url>git://pdl.git.sourceforge.net/gitroot/pdl/pdl</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T19:06:39Z</logged_at>
+        <commits>3530</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>25992</id>
+      <project_id>14594</project_id>
+      <repository_id>25139</repository_id>
+      <repository>
+        <id>25139</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@pdl.cvs.sourceforge.net:/cvsroot/pdl</url>
+        <module_name>PDL</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-16T19:10:53Z</logged_at>
+        <commits>1489</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

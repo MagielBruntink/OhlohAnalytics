@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>467058</id>
+      <project_id>13548</project_id>
+      <repository_id>315693</repository_id>
+      <repository>
+        <id>315693</id>
+        <type>GitRepository</type>
+        <url>git://github.com/wolfmuel/ctdb.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T06:53:48Z</logged_at>
+        <commits>3000</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>246635</id>
+      <project_id>13548</project_id>
+      <repository_id>244169</repository_id>
+      <repository>
+        <id>244169</id>
+        <type>GitRepository</type>
+        <url>git://git.samba.org/ctdb.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T06:51:01Z</logged_at>
+        <commits>4916</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>490442</id>
+      <name>pycassa</name>
+      <url>http://www.ohloh.net/p/pycassa.xml</url>
+      <html_url>http://www.ohloh.net/p/pycassa</html_url>
+      <created_at>2011-04-18T19:46:56Z</created_at>
+      <updated_at>2013-07-11T13:04:22Z</updated_at>
+      <description>pycassa is a python client library for Apache Cassandra with the following features:
+
+ * Automatic failover and operation retries
+ * Connection pooling
+ * Multithreading support
+ * A batch interface
+ * A class for mapping classes to Cassandra column families</description>
+      <homepage_url>http://github.com/pycassa/pycassa</homepage_url>
+      <download_url>http://github.com/pycassa/pycassa/downloads</download_url>
+      <url_name>pycassa</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52843/cassandra-eye-square_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52843/cassandra-eye-square_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590319</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>cassandra</tag>
+        <tag>database</tag>
+      </tags>
+      <analysis>
+        <id>14590319</id>
+        <url>http://www.ohloh.net/analyses/14590319.xml</url>
+        <project_id>490442</project_id>
+        <updated_at>2013-07-11T13:04:22Z</updated_at>
+        <logged_at>2013-07-11T13:03:14Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>6075</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pycassa/analyses/14590319/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

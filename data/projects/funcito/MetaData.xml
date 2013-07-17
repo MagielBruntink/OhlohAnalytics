@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597289</id>
+      <name>Funcito</name>
+      <url>http://www.ohloh.net/p/funcito.xml</url>
+      <html_url>http://www.ohloh.net/p/funcito</html_url>
+      <created_at>2012-04-17T16:48:22Z</created_at>
+      <updated_at>2013-07-17T08:07:12Z</updated_at>
+      <description>Funcito is a Java library that simplifies access to your favorite functional programming APIs by wrapping Java methods as the function-type objects defined in those libraries.
+
+Rather than creating another functional programming API, Funcito makes it easy to define function-type objects that wrap existing methods. As a result, your code has less noise and clutter of anonymous inner classes, annotations, etc. And your code remains safe for automated-refactoring, since there is no String-based reflection or forced naming conventions.
+
+Funcito currently supports the following libraries with functional programming capabilities:
+    * Google Guava: Function and Predicate interfaces
+    * Functional Java: the F (function) interface
+    * Jedi-core: Functor and Filter interfaces</description>
+      <homepage_url>http://funcito.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/funcito/downloads/list</download_url>
+      <url_name>funcito</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52550/funcito_small_logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52550/funcito_small_logo_small.jpg</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14660045</analysis_id>
+      <tags>
+        <tag>functional</tag>
+        <tag>functional_programming</tag>
+        <tag>java</tag>
+        <tag>guava</tag>
+        <tag>wrapper</tag>
+      </tags>
+      <analysis>
+        <id>14660045</id>
+        <url>http://www.ohloh.net/analyses/14660045.xml</url>
+        <project_id>597289</project_id>
+        <updated_at>2013-07-17T08:07:11Z</updated_at>
+        <logged_at>2013-07-17T08:05:52Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5062</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/funcito/analyses/14660045/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

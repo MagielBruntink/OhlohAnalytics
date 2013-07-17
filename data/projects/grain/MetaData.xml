@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310466</id>
+      <name>Grain</name>
+      <url>http://www.ohloh.net/p/grain.xml</url>
+      <html_url>http://www.ohloh.net/p/grain</html_url>
+      <created_at>2009-02-07T21:42:40Z</created_at>
+      <updated_at>2013-04-01T10:19:10Z</updated_at>
+      <description>Grain is the course platform for SynergyJ</description>
+      <homepage_url>http://github.com/synergyj/grain</homepage_url>
+      <download_url></download_url>
+      <url_name>grain</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13265971</analysis_id>
+      <analysis>
+        <id>13265971</id>
+        <url>http://www.ohloh.net/analyses/13265971.xml</url>
+        <project_id>310466</project_id>
+        <updated_at>2013-04-25T04:46:40Z</updated_at>
+        <logged_at>2013-04-25T04:46:38Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>12602</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grain/analyses/13265971/languages.png">
+          <language color="C72C2C" percentage="54" id="29">
+Groovy          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="15" id="4">
+CSS          </language>
+          <language color="000000" percentage="15" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>29</main_language_id>
+        <main_language_name>Groovy</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

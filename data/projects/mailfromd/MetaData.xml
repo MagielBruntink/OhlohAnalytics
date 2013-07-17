@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8162</id>
+      <name>mailfromd</name>
+      <url>http://www.ohloh.net/p/mailfromd.xml</url>
+      <html_url>http://www.ohloh.net/p/mailfromd</html_url>
+      <created_at>2007-09-03T12:51:12Z</created_at>
+      <updated_at>2013-06-19T15:13:02Z</updated_at>
+      <description>Mailfromd is a general-purpose mail filtering daemon for Sendmail. It is able to filter both incoming and outgoing messages using criteria of arbitrary complexity, supplied by the administrator in the form of a script file. The daemon interfaces with Sendmail using Milter protocol.</description>
+      <homepage_url>http://puszcza.gnu.org.ua/software/mailfromd/</homepage_url>
+      <download_url>https://puszcza.gnu.org.ua/files/?group=mailfromd</download_url>
+      <url_name>mailfromd</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14309828</analysis_id>
+      <tags>
+        <tag>milter</tag>
+        <tag>filter</tag>
+        <tag>sendmail</tag>
+        <tag>smtp</tag>
+      </tags>
+      <analysis>
+        <id>14309828</id>
+        <url>http://www.ohloh.net/analyses/14309828.xml</url>
+        <project_id>8162</project_id>
+        <updated_at>2013-07-12T00:37:18Z</updated_at>
+        <logged_at>2013-07-12T00:37:16Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>40484</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mailfromd/analyses/14309828/languages.png">
+          <language color="FF8F00" percentage="84" id="42">
+C          </language>
+          <language color="000000" percentage="16" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

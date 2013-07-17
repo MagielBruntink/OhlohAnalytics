@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16785</id>
+      <name>LightVC</name>
+      <url>http://www.ohloh.net/p/lightvc.xml</url>
+      <html_url>http://www.ohloh.net/p/lightvc</html_url>
+      <created_at>2008-09-19T01:44:23Z</created_at>
+      <updated_at>2013-06-15T19:11:51Z</updated_at>
+      <description>LightVC is a lightweight model-view-controller (MVC) framework without the model.  Any ORM can be used for the model, such as CoughPHP, Doctrine, and Propel.</description>
+      <homepage_url>http://lightvc.org/</homepage_url>
+      <download_url>http://lightvc.org/downloads/</download_url>
+      <url_name>lightvc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14270942</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>object_oriented</tag>
+        <tag>model-view-controller</tag>
+        <tag>php</tag>
+        <tag>oop</tag>
+        <tag>php5</tag>
+      </tags>
+      <analysis>
+        <id>14270942</id>
+        <url>http://www.ohloh.net/analyses/14270942.xml</url>
+        <project_id>16785</project_id>
+        <updated_at>2013-07-13T19:44:56Z</updated_at>
+        <logged_at>2013-07-13T19:44:54Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>1280</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lightvc/analyses/14270942/languages.png">
+          <language color="356AA0" percentage="92" id="2">
+PHP          </language>
+          <language color="000000" percentage="8" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

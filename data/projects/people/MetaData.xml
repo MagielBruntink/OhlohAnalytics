@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310790</id>
+      <name>People project</name>
+      <url>http://www.ohloh.net/p/people.xml</url>
+      <html_url>http://www.ohloh.net/p/people</html_url>
+      <created_at>2009-02-10T14:40:57Z</created_at>
+      <updated_at>2013-07-15T19:09:54Z</updated_at>
+      <description>Moved to libfolks http://telepathy.freedesktop.org/wiki/Folks</description>
+      <homepage_url>https://launchpad.net/people-core/</homepage_url>
+      <download_url>https://launchpad.net/people-core/+download</download_url>
+      <url_name>people</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14865/people-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14865/people-64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14283522</analysis_id>
+      <tags>
+        <tag>social-networks</tag>
+        <tag>contactmanagement</tag>
+        <tag>vala</tag>
+        <tag>contacts</tag>
+        <tag>gnome</tag>
+        <tag>addressbook</tag>
+        <tag>dbus</tag>
+        <tag>xfce4</tag>
+        <tag>kde</tag>
+        <tag>freedesktop</tag>
+        <tag>people</tag>
+      </tags>
+      <analysis>
+        <id>14283522</id>
+        <url>http://www.ohloh.net/analyses/14283522.xml</url>
+        <project_id>310790</project_id>
+        <updated_at>2013-07-11T19:05:54Z</updated_at>
+        <logged_at>2013-07-11T18:58:51Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9832</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/people/analyses/14283522/languages.png">
+          <language color="729FCF" percentage="91" id="34">
+Vala          </language>
+          <language color="4A246B" percentage="5" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

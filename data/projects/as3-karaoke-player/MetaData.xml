@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483446</id>
+      <name>as3-karaoke-player</name>
+      <url>http://www.ohloh.net/p/as3-karaoke-player.xml</url>
+      <html_url>http://www.ohloh.net/p/as3-karaoke-player</html_url>
+      <created_at>2010-06-07T11:05:14Z</created_at>
+      <updated_at>2013-06-30T06:59:02Z</updated_at>
+      <description>This AS3 Karaoke player will render lyrics and music in synchronization so that viewer can sing a long.
+The lyrics data file is adopted from W3C standard Timed Text.
+The player uses AS3Signals as communication mechanism among components. (Instead of AS3 Events)
+The core player is just a rendering engine. Developers can implement their own graphical interface to control the engine and add other features.
+Current features:
+
+- Load and parse a Timed Text-based lyrics XML file
+- Load and play progressive beat audio (MP3)
+- Lyric texts are synchronized with audio
+- Play, pause, stop, seek allowed
+- Set global lyric styles (font, color, size) and few options</description>
+      <homepage_url>http://code.google.com/p/as3-karaoke-player/</homepage_url>
+      <download_url>http://code.google.com/p/as3-karaoke-player/downloads/list</download_url>
+      <url_name>as3-karaoke-player</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34331/icon_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34331/icon_64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14474548</analysis_id>
+      <tags>
+        <tag>as3</tag>
+        <tag>actionscript3</tag>
+        <tag>timedtext</tag>
+        <tag>web</tag>
+        <tag>karaoke</tag>
+        <tag>audio</tag>
+        <tag>audioplayer</tag>
+      </tags>
+      <analysis>
+        <id>14474548</id>
+        <url>http://www.ohloh.net/analyses/14474548.xml</url>
+        <project_id>483446</project_id>
+        <updated_at>2013-07-10T02:00:44Z</updated_at>
+        <logged_at>2013-07-10T02:00:41Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>30256</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/as3-karaoke-player/analyses/14474548/languages.png">
+          <language color="47A400" percentage="34" id="1">
+HTML          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="E3491A" percentage="31" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="12" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>53</main_language_id>
+        <main_language_name>ActionScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

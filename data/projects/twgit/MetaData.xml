@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>600961</id>
+      <name>twgit</name>
+      <url>http://www.ohloh.net/p/twgit.xml</url>
+      <html_url>http://www.ohloh.net/p/twgit</html_url>
+      <created_at>2012-05-30T22:14:16Z</created_at>
+      <updated_at>2013-07-11T05:33:20Z</updated_at>
+      <description>Twgit is a free and open source management tools for Git. By defining the concepts of &#8220;feature, release and hotfix&#8221; in the development branches and by guaranteeing integrity until production release of a feature, Twgit brings structure to Git as needed in a professional environment.
+
+It has been successfully used at Twenga since 2011 and has enabled our agile teams to follow an optimised &amp; efficient workflow from development to production.</description>
+      <homepage_url>http://twgit.twenga.com</homepage_url>
+      <download_url>https://github.com/Twenga/twgit/downloads</download_url>
+      <url_name>twgit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57444/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57444/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14584764</analysis_id>
+      <tags>
+        <tag>workflow</tag>
+        <tag>git</tag>
+        <tag>twgit</tag>
+        <tag>twenga</tag>
+      </tags>
+      <analysis>
+        <id>14584764</id>
+        <url>http://www.ohloh.net/analyses/14584764.xml</url>
+        <project_id>600961</project_id>
+        <updated_at>2013-07-11T05:33:19Z</updated_at>
+        <logged_at>2013-07-11T05:33:09Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>5997</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/twgit/analyses/14584764/languages.png">
+          <language color="356AA0" percentage="52" id="2">
+PHP          </language>
+          <language color="777777" percentage="40" id="11">
+shell script          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

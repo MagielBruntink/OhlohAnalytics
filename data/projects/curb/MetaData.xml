@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26242</id>
+      <name>Curb</name>
+      <url>http://www.ohloh.net/p/curb.xml</url>
+      <html_url>http://www.ohloh.net/p/curb</html_url>
+      <created_at>2008-11-07T21:52:07Z</created_at>
+      <updated_at>2013-07-15T01:39:17Z</updated_at>
+      <description>Curb provides ruby language bindings to the libcurl(3) URL transfer library.</description>
+      <homepage_url>http://curb.rubyforge.org</homepage_url>
+      <download_url></download_url>
+      <url_name>curb</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1180/ruby_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1180/ruby_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14634238</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>network</tag>
+        <tag>ssl</tag>
+        <tag>ftps</tag>
+        <tag>httpapi</tag>
+        <tag>httpmodule</tag>
+        <tag>httprequest</tag>
+        <tag>file_transfer_protocol_(ftp)</tag>
+        <tag>hypertext</tag>
+        <tag>http</tag>
+        <tag>httpclient</tag>
+        <tag>httplib</tag>
+        <tag>httpupload</tag>
+        <tag>httpdownload</tag>
+        <tag>ftpclient</tag>
+        <tag>ftp</tag>
+        <tag>programming</tag>
+        <tag>networking</tag>
+        <tag>extension</tag>
+      </tags>
+      <analysis>
+        <id>14634238</id>
+        <url>http://www.ohloh.net/analyses/14634238.xml</url>
+        <project_id>26242</project_id>
+        <updated_at>2013-07-15T01:39:17Z</updated_at>
+        <logged_at>2013-07-15T01:35:37Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>61553</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/curb/analyses/14634238/languages.png">
+          <language color="FF8F00" percentage="74" id="42">
+C          </language>
+          <language color="A40011" percentage="23" id="12">
+Ruby          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

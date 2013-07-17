@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8880</id>
+      <name>DIL</name>
+      <url>http://www.ohloh.net/p/dil.xml</url>
+      <html_url>http://www.ohloh.net/p/dil</html_url>
+      <created_at>2007-10-01T13:23:36Z</created_at>
+      <updated_at>2013-07-15T19:03:33Z</updated_at>
+      <description>DIL is a hand-crafted compiler implementation for the D programming language written in D v2 using the Tango standard library. The lexer and the parser are fully implemented. Semantic analysis is being worked on. The backend will most probably be LLVM.</description>
+      <homepage_url>http://code.google.com/p/dil/</homepage_url>
+      <download_url></download_url>
+      <url_name>dil</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14617566</analysis_id>
+      <tags>
+        <tag>d</tag>
+        <tag>compiler</tag>
+      </tags>
+      <analysis>
+        <id>14617566</id>
+        <url>http://www.ohloh.net/analyses/14617566.xml</url>
+        <project_id>8880</project_id>
+        <updated_at>2013-07-13T08:35:06Z</updated_at>
+        <logged_at>2013-07-13T08:34:50Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>41001</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dil/analyses/14617566/languages.png">
+          <language color="EC2E24" percentage="83" id="32">
+D          </language>
+          <language color="4A246B" percentage="11" id="9">
+Python          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

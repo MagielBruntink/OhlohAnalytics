@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25690</id>
+      <name>Open Asset Import Library</name>
+      <url>http://www.ohloh.net/p/assimp.xml</url>
+      <html_url>http://www.ohloh.net/p/assimp</html_url>
+      <created_at>2008-10-18T08:58:00Z</created_at>
+      <updated_at>2013-07-14T02:29:29Z</updated_at>
+      <description>Assimp is a portable and extensible library designed for reading various well-known 3D file formats. It reads more than 20 different 3D file formats (including Collada, 3DS, OBJ, LWO, and X) into a straightforward, hierarchical in-memory data structure that can easily be read and processed by applications. Several post processing steps such as normal and tangent computations, indexing or vertex cache optimization are provided to optimize the data for a particular purpose.
+
+The library supports complex multi-layer materials and skinned meshes with multiple animations. A Windows-based viewer utility is provided as implementation reference.</description>
+      <homepage_url>http://assimp.sourceforge.net/</homepage_url>
+      <download_url>http://assimp.sourceforge.net/main_downloads.html</download_url>
+      <url_name>assimp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17670/ohloh_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17670/ohloh_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14621845</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>collada</tag>
+        <tag>mdl</tag>
+        <tag>hmp</tag>
+        <tag>mdr</tag>
+        <tag>off</tag>
+        <tag>assimp</tag>
+        <tag>stl</tag>
+        <tag>md5</tag>
+        <tag>3ds</tag>
+        <tag>ase</tag>
+        <tag>dxf</tag>
+        <tag>mdc</tag>
+        <tag>ply</tag>
+        <tag>scene</tag>
+        <tag>3d</tag>
+        <tag>smd</tag>
+        <tag>raw</tag>
+        <tag>vta</tag>
+        <tag>x</tag>
+        <tag>model</tag>
+        <tag>ms3d</tag>
+        <tag>lwo</tag>
+        <tag>md3</tag>
+        <tag>skinning</tag>
+        <tag>md2</tag>
+        <tag>import</tag>
+        <tag>obj</tag>
+        <tag>file</tag>
+        <tag>loader</tag>
+        <tag>nff</tag>
+      </tags>
+      <analysis>
+        <id>14621845</id>
+        <url>http://www.ohloh.net/analyses/14621845.xml</url>
+        <project_id>25690</project_id>
+        <updated_at>2013-07-14T02:29:29Z</updated_at>
+        <logged_at>2013-07-13T23:26:07Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>618582</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/assimp/analyses/14621845/languages.png">
+          <language color="F35F1F" percentage="45" id="44">
+C++          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+          <language color="EEE" percentage="7" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="22" id="">
+17 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

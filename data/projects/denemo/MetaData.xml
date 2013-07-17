@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>975</id>
+      <name>GNU Denemo</name>
+      <url>http://www.ohloh.net/p/denemo.xml</url>
+      <html_url>http://www.ohloh.net/p/denemo</html_url>
+      <created_at>2006-10-11T18:59:35Z</created_at>
+      <updated_at>2013-07-17T02:58:46Z</updated_at>
+      <description>Denemo is a GUI musical score editor written in C/gtk2. It is intended primarily as a frontend to GNU Lilypond.</description>
+      <homepage_url>http://denemo.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>denemo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14645/denemo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14645/denemo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14656650</analysis_id>
+      <tags>
+        <tag>editors</tag>
+        <tag>lilypond</tag>
+        <tag>c</tag>
+        <tag>gtk2</tag>
+        <tag>music_notation</tag>
+        <tag>composition</tag>
+        <tag>music</tag>
+        <tag>wysiwym</tag>
+      </tags>
+      <analysis>
+        <id>14656650</id>
+        <url>http://www.ohloh.net/analyses/14656650.xml</url>
+        <project_id>975</project_id>
+        <updated_at>2013-07-17T02:58:46Z</updated_at>
+        <logged_at>2013-07-17T02:34:08Z</logged_at>
+        <min_month>2003-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>312351</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/denemo/analyses/14656650/languages.png">
+          <language color="555555" percentage="36" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="48" id="42">
+C          </language>
+          <language color="90C0D2" percentage="9" id="20">
+Scheme          </language>
+          <language color="000000" percentage="7" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

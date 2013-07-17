@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8290</id>
+      <name>Flatpack</name>
+      <url>http://www.ohloh.net/p/pzfilereader.xml</url>
+      <html_url>http://www.ohloh.net/p/pzfilereader</html_url>
+      <created_at>2007-09-06T17:49:59Z</created_at>
+      <updated_at>2013-06-24T19:37:59Z</updated_at>
+      <description>FlatPack came out of the frustration of having to mix file parsing logic with business logic.
+
+FlatPack on SourceForge: a Java (1.4+) flat file parser that handles CSV, fixed length and custom delimiters. The formats are configured in XML, it is fast and released under Apache license 2.0.
+
+Substrings in a fixed width parse can be daunting to deal with when trying to analyze what existing code is doing, and what about when you have no comments...
+
+We also provide delimited file parsing; works with any delimiter / qualifier, multiline records, delimiter or qualifier allowed in column value.</description>
+      <homepage_url>http://flatpack.sourceforge.net</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=127761</download_url>
+      <url_name>pzfilereader</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14386545</analysis_id>
+      <tags>
+        <tag>fixed-length</tag>
+        <tag>parser</tag>
+        <tag>delimited</tag>
+        <tag>parsing</tag>
+        <tag>mule</tag>
+        <tag>excel</tag>
+        <tag>flat_file</tag>
+        <tag>csv</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14386545</id>
+        <url>http://www.ohloh.net/analyses/14386545.xml</url>
+        <project_id>8290</project_id>
+        <updated_at>2013-07-13T03:51:29Z</updated_at>
+        <logged_at>2013-07-13T03:51:26Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12434</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pzfilereader/analyses/14386545/languages.png">
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="59" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

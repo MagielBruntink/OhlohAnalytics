@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>613747</id>
+      <name>VisualEditor</name>
+      <url>http://www.ohloh.net/p/VisualEditor.xml</url>
+      <html_url>http://www.ohloh.net/p/VisualEditor</html_url>
+      <created_at>2012-10-24T18:03:07Z</created_at>
+      <updated_at>2013-07-13T04:47:22Z</updated_at>
+      <description>The VisualEditor project aims to create a reliable rich-text editor for MediaWiki. It is being developed so it can be used as a MediaWiki extension, using the related Parsoid project to convert between its HTML+RDFa and MediaWiki's wikitext.</description>
+      <homepage_url>https://www.mediawiki.org/wiki/VisualEditor</homepage_url>
+      <download_url>https://www.mediawiki.org/wiki/Extension:VisualEditor</download_url>
+      <url_name>VisualEditor</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/58176/visualeditor-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/58176/visualeditor-logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14615145</analysis_id>
+      <tags>
+        <tag>mediawikiextension</tag>
+        <tag>editors</tag>
+        <tag>wysiwygeditors</tag>
+        <tag>html5</tag>
+        <tag>javascript</tag>
+        <tag>wysiwyg</tag>
+      </tags>
+      <analysis>
+        <id>14615145</id>
+        <url>http://www.ohloh.net/analyses/14615145.xml</url>
+        <project_id>613747</project_id>
+        <updated_at>2013-07-13T04:47:22Z</updated_at>
+        <logged_at>2013-07-13T04:45:58Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>30</twelve_month_contributor_count>
+        <total_code_lines>58790</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/VisualEditor/analyses/14615145/languages.png">
+          <language color="A4007E" percentage="83" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="12" id="2">
+PHP          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

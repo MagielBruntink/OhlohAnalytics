@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605656</id>
+      <name>irker</name>
+      <url>http://www.ohloh.net/p/irker.xml</url>
+      <html_url>http://www.ohloh.net/p/irker</html_url>
+      <created_at>2012-10-03T20:07:27Z</created_at>
+      <updated_at>2013-06-27T07:16:38Z</updated_at>
+      <description>irker is a relaying daemon (and repository hook script) that can be used to automatically broadcast commit notifications from version-control systems to IRC channels.</description>
+      <homepage_url>http://www.catb.org/esr/irker/</homepage_url>
+      <download_url></download_url>
+      <url_name>irker</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57423/irker-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57423/irker-logo_small.png</small_logo_url>
+      <user_count>4</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14430139</analysis_id>
+      <tags>
+        <tag>irc</tag>
+        <tag>vcs</tag>
+        <tag>python</tag>
+        <tag>daemon</tag>
+      </tags>
+      <analysis>
+        <id>14430139</id>
+        <url>http://www.ohloh.net/analyses/14430139.xml</url>
+        <project_id>605656</project_id>
+        <updated_at>2013-07-16T03:34:46Z</updated_at>
+        <logged_at>2013-07-16T03:34:43Z</logged_at>
+        <min_month>2012-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>1423</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/irker/analyses/14430139/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="555555" percentage="30" id="3">
+XML          </language>
+          <language color="EEE" percentage="4" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-2-Clause</name>
+          <nice_name>BSD 2-clause &quot;FreeBSD&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>598598</id>
+      <name>inasafe</name>
+      <url>http://www.ohloh.net/p/inasafe.xml</url>
+      <html_url>http://www.ohloh.net/p/inasafe</html_url>
+      <created_at>2012-05-30T17:43:00Z</created_at>
+      <updated_at>2013-07-16T07:32:33Z</updated_at>
+      <description>InaSAFE produces realistic natural hazard impact scenarios for better planning, preparedness and response activities.
+
+To effectively prepare for future floods, earthquakes or tsunami you must first understand the likely impacts that need to be managed. For example, to prepare contingency plans for a severe flood in Jakarta, emergency managers need to answer questions like:
+
+what are the areas likely to be affected;
+how many people will need to be evacuated and sheltered;
+which schools will be closed;
+which hospitals can still take patients; and
+what roads will be closed?
+How does it work?
+
+InaSAFE provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.</description>
+      <homepage_url>https://github.com/AIFDR/inasafe</homepage_url>
+      <download_url>https://github.com/AIFDR/inasafe/downloads</download_url>
+      <url_name>inasafe</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14648533</analysis_id>
+      <tags>
+        <tag>tsunami</tag>
+        <tag>earthquake</tag>
+        <tag>flood</tag>
+        <tag>disasterresponse</tag>
+        <tag>disasterrelief</tag>
+        <tag>natural_disaster</tag>
+      </tags>
+      <analysis>
+        <id>14648533</id>
+        <url>http://www.ohloh.net/analyses/14648533.xml</url>
+        <project_id>598598</project_id>
+        <updated_at>2013-07-16T07:32:33Z</updated_at>
+        <logged_at>2013-07-16T07:31:37Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>19</twelve_month_contributor_count>
+        <total_code_lines>92514</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/inasafe/analyses/14648533/languages.png">
+          <language color="4A246B" percentage="68" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="16" id="4">
+CSS          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

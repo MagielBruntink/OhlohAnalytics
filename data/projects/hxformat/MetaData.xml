@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>56536</id>
+      <name>hxformat</name>
+      <url>http://www.ohloh.net/p/hxformat.xml</url>
+      <html_url>http://www.ohloh.net/p/hxformat</html_url>
+      <created_at>2008-12-17T08:36:04Z</created_at>
+      <updated_at>2013-06-21T13:23:38Z</updated_at>
+      <description>hxFormat is the repository for different file-formats support for the haXe language. 
+
+FormatsCurrently supported formats are : 
+
+FLV (Flash Video) AMF0 (Flash serialized object) PDF (only generic file structure and partial decryption) ZIP TAR GZ PBJ (PixelBender Binary file) SWF (Flash file format) ABC (Flash AS3 bytecode format) MP3 Planned future formats include : 
+
+AMF3 (supported in FlashPlayer 9+) PE (Windows EXE) DMG (Mac ISO) PNG, JPG ... anything you want to contribute (please ask on the haXe mailing list) InstallationhxFormat is available on haxelib, so simply run the following command : haxelib install format. To use the library, simply add -lib format to your commandline parameters. 
+
+Package StructureEach format lies in its own package, for example format.pdf contains classes for PDF. 
+
+The format.tools package contain some tools that might be shared by several formats but don't belong to a specific one. 
+
+Each format must provide the following files : 
+
+one Data.hx file that contain only data structures / enums used by the format. If there is really a lot, they can be separated into several files, but it's often my easy for the end user to only have to do one single import format.xxx.Data to access to all the defined types. one Reader.hx class which enable to read the file format from an haxe.io.Input one Writer.hx class which enable to write the file format to an haxe.io.Output some other classes that might be necessary for manipulating the data structures 
+
+It's important in particular that the data structures storing the decoded information are separated from the actual classes manipulating it. This enable full access to all the file format infos and the ability to easily write libraries that manipulate the format, even if later the Reader implementation is changed for example.</description>
+      <homepage_url>http://code.google.com/p/hxformat</homepage_url>
+      <download_url></download_url>
+      <url_name>hxformat</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40819/_hxFormat_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40819/_hxFormat_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14327125</analysis_id>
+      <tags>
+        <tag>swf</tag>
+        <tag>flv</tag>
+        <tag>haxe</tag>
+        <tag>pdf</tag>
+        <tag>amf</tag>
+      </tags>
+      <analysis>
+        <id>14327125</id>
+        <url>http://www.ohloh.net/analyses/14327125.xml</url>
+        <project_id>56536</project_id>
+        <updated_at>2013-07-17T06:04:53Z</updated_at>
+        <logged_at>2013-07-17T06:04:50Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>12541</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hxformat/analyses/14327125/languages.png">
+          <language color="346D51" percentage="99" id="66">
+HaXe          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>66</main_language_id>
+        <main_language_name>HaXe</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>12957</id>
+      <project_id>6071</project_id>
+      <repository_id>12565</repository_id>
+      <repository>
+        <id>12565</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@smallsql.cvs.sourceforge.net:/cvsroot/smallsql</url>
+        <module_name>SmallSQL</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-17T03:00:10Z</logged_at>
+        <commits>309</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

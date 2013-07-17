@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481041</id>
+      <name>cl-icalendar</name>
+      <url>http://www.ohloh.net/p/cl-icalendar.xml</url>
+      <html_url>http://www.ohloh.net/p/cl-icalendar</html_url>
+      <created_at>2010-02-09T19:57:07Z</created_at>
+      <updated_at>2013-06-26T01:54:16Z</updated_at>
+      <description>A Common Lisp implementation of iCalendar specification.</description>
+      <homepage_url>http://www.nongnu.org/cl-icalendar/</homepage_url>
+      <download_url></download_url>
+      <url_name>cl-icalendar</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14410792</analysis_id>
+      <tags>
+        <tag>icalendar</tag>
+        <tag>lisp</tag>
+        <tag>ical</tag>
+        <tag>rfc5545</tag>
+      </tags>
+      <analysis>
+        <id>14410792</id>
+        <url>http://www.ohloh.net/analyses/14410792.xml</url>
+        <project_id>481041</project_id>
+        <updated_at>2013-07-13T03:31:35Z</updated_at>
+        <logged_at>2013-07-13T03:31:34Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2982</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cl-icalendar/analyses/14410792/languages.png">
+          <language color="93D290" percentage="99" id="22">
+Lisp          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>22</main_language_id>
+        <main_language_name>Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>492177</id>
+      <name>TorqueBox</name>
+      <url>http://www.ohloh.net/p/torquebox.xml</url>
+      <html_url>http://www.ohloh.net/p/torquebox</html_url>
+      <created_at>2011-04-19T04:41:00Z</created_at>
+      <updated_at>2013-07-15T18:55:19Z</updated_at>
+      <description>TorqueBox is a new kind of Ruby application platform that integrates popular technologies such as Ruby on Rails, while extending the footprint of Ruby applications to include built-in support for services such as messaging, scheduling, and daemons.
+
+TorqueBox provides an all-in-one environment, built upon the latest, most powerful JBoss AS Java application server. Functionality such as clustering, load-balancing and high-availability is included right out-of-the-box.</description>
+      <homepage_url>http://torquebox.org/</homepage_url>
+      <download_url>http://torquebox.org/download/</download_url>
+      <url_name>torquebox</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14304901</analysis_id>
+      <tags>
+        <tag>rack</tag>
+        <tag>hornetq</tag>
+        <tag>rubyonrails</tag>
+        <tag>jboss</tag>
+        <tag>jruby</tag>
+        <tag>ruby</tag>
+        <tag>jaas</tag>
+        <tag>sinatra</tag>
+      </tags>
+      <analysis>
+        <id>14304901</id>
+        <url>http://www.ohloh.net/analyses/14304901.xml</url>
+        <project_id>492177</project_id>
+        <updated_at>2013-07-06T14:09:27Z</updated_at>
+        <logged_at>2013-07-06T14:06:13Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>25</twelve_month_contributor_count>
+        <total_code_lines>629556</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/torquebox/analyses/14304901/languages.png">
+          <language color="A40011" percentage="47" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="36" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

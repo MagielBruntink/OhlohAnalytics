@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>488648</id>
+      <project_id>13715</project_id>
+      <repository_id>489926</repository_id>
+      <repository>
+        <id>489926</id>
+        <type>GitRepository</type>
+        <url>git://github.com/jlouis/etorrent_core.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T22:10:39Z</logged_at>
+        <commits>935</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>224423</id>
+      <project_id>13715</project_id>
+      <repository_id>222233</repository_id>
+      <repository>
+        <id>222233</id>
+        <type>GitRepository</type>
+        <url>git://github.com/jlouis/etorrent.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T22:08:10Z</logged_at>
+        <commits>2636</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

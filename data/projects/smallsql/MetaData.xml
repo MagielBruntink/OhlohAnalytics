@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6071</id>
+      <name>SmallSQL Database</name>
+      <url>http://www.ohloh.net/p/smallsql.xml</url>
+      <html_url>http://www.ohloh.net/p/smallsql</html_url>
+      <created_at>2007-06-16T13:35:26Z</created_at>
+      <updated_at>2013-06-23T00:28:34Z</updated_at>
+      <description>Java Desktop SQL Database Engine with JDBC 3.0 API. SmallSQL is small, fast, embeddable, SQL 99 conformance, platform independent and 100% pure Java</description>
+      <homepage_url>http://www.smallsql.de</homepage_url>
+      <download_url>http://www.smallsql.de/download.html</download_url>
+      <url_name>smallsql</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14349267</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>relational</tag>
+        <tag>transactions</tag>
+        <tag>sql</tag>
+        <tag>embedded</tag>
+        <tag>rdbms</tag>
+        <tag>database</tag>
+        <tag>dbms</tag>
+        <tag>jdbc</tag>
+      </tags>
+      <analysis>
+        <id>14349267</id>
+        <url>http://www.ohloh.net/analyses/14349267.xml</url>
+        <project_id>6071</project_id>
+        <updated_at>2013-07-17T03:00:14Z</updated_at>
+        <logged_at>2013-07-17T03:00:10Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>24594</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/smallsql/analyses/14349267/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

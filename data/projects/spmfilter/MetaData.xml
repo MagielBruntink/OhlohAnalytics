@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479686</id>
+      <name>spmfilter</name>
+      <url>http://www.ohloh.net/p/spmfilter.xml</url>
+      <html_url>http://www.ohloh.net/p/spmfilter</html_url>
+      <created_at>2009-12-02T21:22:31Z</created_at>
+      <updated_at>2013-07-13T02:08:35Z</updated_at>
+      <description>spmfilter is a mail filtering framework, written in C. It attempts to be a general filtering framework for any purposes. The API enables spmfilter plugins to access messages as they are being processed by the MTA. This allows them to examine and modify message content and meta-information during the SMTP transaction. Plugins are loaded at runtime and can be processed in any sequence, the processing chain can also be altered by a single plugin, for example if the plugin has to stop the further processing.</description>
+      <homepage_url>http://www.spmfilter.org</homepage_url>
+      <download_url>http://www.spmfilter.org/projects/spmfilter/files</download_url>
+      <url_name>spmfilter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/27610/smf_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/27610/smf_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14613320</analysis_id>
+      <tags>
+        <tag>mail</tag>
+        <tag>filter</tag>
+        <tag>framework</tag>
+        <tag>mta</tag>
+      </tags>
+      <analysis>
+        <id>14613320</id>
+        <url>http://www.ohloh.net/analyses/14613320.xml</url>
+        <project_id>479686</project_id>
+        <updated_at>2013-07-13T02:08:35Z</updated_at>
+        <logged_at>2013-07-13T01:58:45Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>11899</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/spmfilter/analyses/14613320/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="EEE" percentage="6" id="74">
+CMake          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

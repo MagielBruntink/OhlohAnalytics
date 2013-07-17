@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483552</id>
+      <name>Libravatar</name>
+      <url>http://www.ohloh.net/p/libravatar.xml</url>
+      <html_url>http://www.ohloh.net/p/libravatar</html_url>
+      <created_at>2010-06-13T01:07:34Z</created_at>
+      <updated_at>2013-07-12T06:03:23Z</updated_at>
+      <description>Libravatar is a service which delivers avatars to other websites.
+
+It implements the same API as Gravatar but adds DNS-based federation allowing domain name owners to host profile pictures for their own organisations. It also allows users to associate photos to their OpenID URLs, not just their email addresses.</description>
+      <homepage_url>https://www.libravatar.org</homepage_url>
+      <download_url>https://code.launchpad.net/libravatar</download_url>
+      <url_name>libravatar</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45284/64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45284/64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14601341</analysis_id>
+      <tags>
+        <tag>openid</tag>
+        <tag>autonomous</tag>
+        <tag>avatar</tag>
+        <tag>social</tag>
+        <tag>gravatar</tag>
+        <tag>django</tag>
+        <tag>browserid</tag>
+      </tags>
+      <analysis>
+        <id>14601341</id>
+        <url>http://www.ohloh.net/analyses/14601341.xml</url>
+        <project_id>483552</project_id>
+        <updated_at>2013-07-12T06:03:23Z</updated_at>
+        <logged_at>2013-07-12T06:00:59Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>6045</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libravatar/analyses/14601341/languages.png">
+          <language color="4A246B" percentage="40" id="9">
+Python          </language>
+          <language color="A4007E" percentage="16" id="6">
+JavaScript          </language>
+          <language color="777777" percentage="23" id="11">
+shell script          </language>
+          <language color="000000" percentage="21" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

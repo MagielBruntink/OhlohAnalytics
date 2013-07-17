@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>53270</id>
+      <project_id>975</project_id>
+      <repository_id>51884</repository_id>
+      <repository>
+        <id>51884</id>
+        <type>GitRepository</type>
+        <url>git://git.savannah.gnu.org/denemo.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T02:42:24Z</logged_at>
+        <commits>6870</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>2997</id>
+      <project_id>975</project_id>
+      <repository_id>3007</repository_id>
+      <repository>
+        <id>3007</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@cvs.savannah.gnu.org:/sources/denemo</url>
+        <module_name>denemo</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-17T02:34:08Z</logged_at>
+        <commits>216</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

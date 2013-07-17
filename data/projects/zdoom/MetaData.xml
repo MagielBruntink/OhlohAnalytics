@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7198</id>
+      <name>zdoom</name>
+      <url>http://www.ohloh.net/p/zdoom.xml</url>
+      <html_url>http://www.ohloh.net/p/zdoom</html_url>
+      <created_at>2007-08-05T12:34:20Z</created_at>
+      <updated_at>2013-07-10T06:47:04Z</updated_at>
+      <description>ZDoom is an enhanced port of the official DOOM source code to Win32. As such, it not only works with (and requires) Windows 95/NT 4.0, but it also adds new features not found in the version published by id Software.
+
+ZDoom may be used and distributed free of charge. No profit may be made from the sale of it.
+
+ZDoom was created by Randy Heit using id Software's and various others' sources.</description>
+      <homepage_url>http://zdoom.org/</homepage_url>
+      <download_url>http://zdoom.org/download.html</download_url>
+      <url_name>zdoom</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14579265</analysis_id>
+      <tags>
+        <tag>windows</tag>
+        <tag>fps</tag>
+        <tag>strife</tag>
+        <tag>heretic</tag>
+        <tag>doom</tag>
+        <tag>hexen</tag>
+        <tag>game</tag>
+        <tag>linux</tag>
+        <tag>mac</tag>
+      </tags>
+      <analysis>
+        <id>14579265</id>
+        <url>http://www.ohloh.net/analyses/14579265.xml</url>
+        <project_id>7198</project_id>
+        <updated_at>2013-07-10T06:47:04Z</updated_at>
+        <logged_at>2013-07-10T06:46:44Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>272194</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zdoom/analyses/14579265/languages.png">
+          <language color="F35F1F" percentage="92" id="44">
+C++          </language>
+          <language color="000000" percentage="8" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

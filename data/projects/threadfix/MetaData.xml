@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588813</id>
+      <name>ThreadFix</name>
+      <url>http://www.ohloh.net/p/threadfix.xml</url>
+      <html_url>http://www.ohloh.net/p/threadfix</html_url>
+      <created_at>2012-02-02T02:11:17Z</created_at>
+      <updated_at>2013-07-03T10:22:09Z</updated_at>
+      <description>ThreadFix is a software vulnerability aggregation and management system that reduces the time it takes to fix software vulnerabilities. ThreadFix imports the results from dynamic, static and manual testing to provide a centralized view of software security defects across development teams and applications. The system allows companies to correlate testing results and streamline software remediation efforts by simplifying feeds to software issue trackers. By auto generating application firewall rules, this tool allows organizations to continue remediation work uninterrupted. ThreadFix empowers managers with vulnerability trending reports that show progress over time, giving them justification for their efforts.</description>
+      <homepage_url>http://code.google.com/p/threadfix/</homepage_url>
+      <download_url>http://code.google.com/p/threadfix/downloads/list</download_url>
+      <url_name>threadfix</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62074/ThreadFix_Twitter_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62074/ThreadFix_Twitter_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514024</analysis_id>
+      <tags>
+        <tag>bugtracker</tag>
+        <tag>pentest</tag>
+        <tag>security</tag>
+        <tag>vulnerability</tag>
+      </tags>
+      <analysis>
+        <id>14514024</id>
+        <url>http://www.ohloh.net/analyses/14514024.xml</url>
+        <project_id>588813</project_id>
+        <updated_at>2013-07-12T15:28:02Z</updated_at>
+        <logged_at>2013-07-12T15:27:59Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>632671</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/threadfix/analyses/14514024/languages.png">
+          <language color="555555" percentage="80" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="10" id="5">
+Java          </language>
+          <language color="493625" percentage="6" id="30">
+SQL          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_2_0</name>
+          <nice_name>Mozilla Public License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

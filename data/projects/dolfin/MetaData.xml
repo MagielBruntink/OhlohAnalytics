@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586198</id>
+      <name>DOLFIN</name>
+      <url>http://www.ohloh.net/p/dolfin.xml</url>
+      <html_url>http://www.ohloh.net/p/dolfin</html_url>
+      <created_at>2011-09-16T12:08:52Z</created_at>
+      <updated_at>2013-07-15T17:40:46Z</updated_at>
+      <description>DOLFIN is a C++/Python library that functions as the main user interface of FEniCS. A large part of the functionality of FEniCS is implemented as part of DOLFIN. It provides a problem solving environment for models based on partial differential equations and implements core parts of the functionality of FEniCS, including data structures and algorithms for computational meshes and finite element assembly. To provide a simple and consistent user interface, DOLFIN wraps the functionality of other FEniCS components and external software, and handles the communication between these components.</description>
+      <homepage_url>http://fenicsproject.org</homepage_url>
+      <download_url>https://bitbucket.org/fenics-project/dolfin/downloads</download_url>
+      <url_name>dolfin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46961/dolfin-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46961/dolfin-64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571612</analysis_id>
+      <tags>
+        <tag>problemsolving</tag>
+        <tag>algorithm</tag>
+        <tag>parallel</tag>
+        <tag>simulation</tag>
+        <tag>numerics</tag>
+        <tag>differential_equations</tag>
+        <tag>pde</tag>
+        <tag>finiteelementmethod</tag>
+        <tag>fenicsproject</tag>
+        <tag>mathematics</tag>
+        <tag>numerical</tag>
+        <tag>c++</tag>
+        <tag>python</tag>
+        <tag>scientific</tag>
+        <tag>math</tag>
+        <tag>fenics</tag>
+        <tag>finiteelement</tag>
+        <tag>fem</tag>
+        <tag>pde-solver</tag>
+        <tag>finiteelements</tag>
+        <tag>programming</tag>
+        <tag>science</tag>
+        <tag>high_performance_computing</tag>
+        <tag>framework</tag>
+        <tag>assembly</tag>
+      </tags>
+      <analysis>
+        <id>14571612</id>
+        <url>http://www.ohloh.net/analyses/14571612.xml</url>
+        <project_id>586198</project_id>
+        <updated_at>2013-07-09T11:35:54Z</updated_at>
+        <logged_at>2013-07-08T12:06:13Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>27</twelve_month_contributor_count>
+        <total_code_lines>83906</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dolfin/analyses/14571612/languages.png">
+          <language color="F35F1F" percentage="78" id="44">
+C++          </language>
+          <language color="4A246B" percentage="11" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

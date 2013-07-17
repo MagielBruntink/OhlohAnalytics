@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14900</id>
+      <name>HSH (haskell)</name>
+      <url>http://www.ohloh.net/p/hsh.xml</url>
+      <html_url>http://www.ohloh.net/p/hsh</html_url>
+      <created_at>2008-06-12T20:56:26Z</created_at>
+      <updated_at>2013-06-27T23:50:36Z</updated_at>
+      <description>HSH is designed to let you mix and match shell expressions with Haskell programs. With HSH, it is possible to easily run shell commands, capture their output or provide their input, and pipe them to/from other shell commands and arbitrary Haskell functions at will.</description>
+      <homepage_url>http://software.complete.org/hsh</homepage_url>
+      <download_url>http://software.complete.org/software/projects/list_files/hsh</download_url>
+      <url_name>hsh</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14438279</analysis_id>
+      <tags>
+        <tag>haskell</tag>
+        <tag>shell</tag>
+      </tags>
+      <analysis>
+        <id>14438279</id>
+        <url>http://www.ohloh.net/analyses/14438279.xml</url>
+        <project_id>14900</project_id>
+        <updated_at>2013-07-14T14:58:11Z</updated_at>
+        <logged_at>2013-07-14T14:58:09Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>982</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hsh/analyses/14438279/languages.png">
+          <language color="007B7C" percentage="97" id="38">
+Haskell          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

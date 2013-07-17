@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>333193</id>
+      <project_id>584078</project_id>
+      <repository_id>330594</repository_id>
+      <repository>
+        <id>330594</id>
+        <type>HgRepository</type>
+        <url>http://osrpgcreation.hg.sourceforge.net:8000/hgroot/osrpgcreation/mj</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-01-16T08:12:31Z</logged_at>
+        <commits>241</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>333192</id>
+      <project_id>584078</project_id>
+      <repository_id>330593</repository_id>
+      <repository>
+        <id>330593</id>
+        <type>HgRepository</type>
+        <url>http://osrpgcreation.hg.sourceforge.net:8000/hgroot/osrpgcreation/mjin</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-01-16T08:12:52Z</logged_at>
+        <commits>481</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

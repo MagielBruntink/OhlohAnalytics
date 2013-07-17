@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602496</id>
+      <name>fitnesse-launcher-maven-plugin</name>
+      <url>http://www.ohloh.net/p/fitnesse-launcher-maven-plugin.xml</url>
+      <html_url>http://www.ohloh.net/p/fitnesse-launcher-maven-plugin</html_url>
+      <created_at>2012-06-08T22:41:36Z</created_at>
+      <updated_at>2013-07-12T09:33:08Z</updated_at>
+      <description>Maven Plugin which directly launches Fitnesse server. Provides ability to launch FitNesse as a wiki server, or automatically run FitNesse tests as part of a standard integration-test / verify build. Allows configuration of FitNesse's classpath through plugin dependencies, and injects all Maven project properties as FitNesse variables, ( which can be overridden from the command line using '-D' ).</description>
+      <homepage_url>http://code.google.com/p/fitnesse-launcher-maven-plugin/</homepage_url>
+      <download_url></download_url>
+      <url_name>fitnesse-launcher-maven-plugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14603845</analysis_id>
+      <tags>
+        <tag>acceptance</tag>
+        <tag>continuous_integration</tag>
+        <tag>tdd</tag>
+        <tag>acceptance_testing</tag>
+        <tag>slim</tag>
+        <tag>useracceptancetests</tag>
+        <tag>maven_3</tag>
+        <tag>integration_test</tag>
+        <tag>fitnesse</tag>
+        <tag>maven_plugin</tag>
+        <tag>java</tag>
+        <tag>integration_testing</tag>
+        <tag>maven</tag>
+        <tag>testing</tag>
+        <tag>classpath</tag>
+        <tag>fit</tag>
+        <tag>acceptance_test</tag>
+        <tag>uat</tag>
+        <tag>bdd</tag>
+        <tag>agile_development_tools</tag>
+      </tags>
+      <analysis>
+        <id>14603845</id>
+        <url>http://www.ohloh.net/analyses/14603845.xml</url>
+        <project_id>602496</project_id>
+        <updated_at>2013-07-12T09:33:08Z</updated_at>
+        <logged_at>2013-07-12T09:31:22Z</logged_at>
+        <min_month>2012-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>7278</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fitnesse-launcher-maven-plugin/analyses/14603845/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="14" id="4">
+CSS          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

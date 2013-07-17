@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585780</id>
+      <name>midPoint</name>
+      <url>http://www.ohloh.net/p/midPoint.xml</url>
+      <html_url>http://www.ohloh.net/p/midPoint</html_url>
+      <created_at>2011-08-24T15:14:13Z</created_at>
+      <updated_at>2013-07-12T03:20:54Z</updated_at>
+      <description>midPoint is a tool that synchronizes several identity repositories, manages them and makes them available in unified form. It belongs to the user provisioning category of the enterprise identity management field. The basic features include:
+
+    User provisioning and deprovisioning
+    Identity synchronization
+    Identity management process automation
+    Management of identity-related parts of the enterprise security policy
+    Support for security auditing and reporting</description>
+      <homepage_url>http://evolveum.com/midpoint.php</homepage_url>
+      <download_url>http://evolveum.com/download.php</download_url>
+      <url_name>midPoint</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49612/avatar-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49612/avatar-64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599799</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>passwordmanagement</tag>
+        <tag>security</tag>
+        <tag>java</tag>
+        <tag>identitymanagement</tag>
+        <tag>identity</tag>
+        <tag>provisioning</tag>
+        <tag>identityconnectors</tag>
+        <tag>system_administration</tag>
+      </tags>
+      <analysis>
+        <id>14599799</id>
+        <url>http://www.ohloh.net/analyses/14599799.xml</url>
+        <project_id>585780</project_id>
+        <updated_at>2013-07-12T03:20:53Z</updated_at>
+        <logged_at>2013-07-12T03:15:25Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>280632</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/midPoint/analyses/14599799/languages.png">
+          <language color="9A63AD" percentage="68" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="556677" percentage="5" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="10" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

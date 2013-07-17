@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15292</id>
+      <name>SOFA Component Framework</name>
+      <url>http://www.ohloh.net/p/sofa.xml</url>
+      <html_url>http://www.ohloh.net/p/sofa</html_url>
+      <created_at>2008-07-03T12:58:01Z</created_at>
+      <updated_at>2013-07-08T10:55:26Z</updated_at>
+      <description>SOFA is a component system employing hierarchically composed components with aspect oriented controllers, behavior specification using behavior protocols, automatically generated connectors supporting seamless and transparent distribution of applications, and distributed runtime environment with dynamic update of components. SOFA provides a complete framework supporting all the stages of an application lifecycle from development to execution.</description>
+      <homepage_url>http://sofa.ow2.org</homepage_url>
+      <download_url>http://sofa.ow2.org/download.html</download_url>
+      <url_name>sofa</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26831/sofa_bigger_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26831/sofa_bigger_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569079</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>middleware</tag>
+        <tag>aspect</tag>
+        <tag>component</tag>
+        <tag>java</tag>
+        <tag>components</tag>
+      </tags>
+      <analysis>
+        <id>14569079</id>
+        <url>http://www.ohloh.net/analyses/14569079.xml</url>
+        <project_id>15292</project_id>
+        <updated_at>2013-07-08T10:55:25Z</updated_at>
+        <logged_at>2013-07-08T06:48:00Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1428222</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sofa/analyses/14569079/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="EEE" percentage="17" id="51">
+Autoconf          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="15" id="">
+20 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
