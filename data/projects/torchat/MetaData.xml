@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9990</id>
+      <name>TorChat</name>
+      <url>http://www.ohloh.net/p/torchat.xml</url>
+      <html_url>http://www.ohloh.net/p/torchat</html_url>
+      <created_at>2007-11-30T23:42:16Z</created_at>
+      <updated_at>2013-06-26T07:59:43Z</updated_at>
+      <description>TorChat is a peer to peer instant messenger with a completely decentralized design, built on top of Tor's location hidden services, giving you extremely strong anonymity while being very easy to use without the need to install or configure anything.</description>
+      <homepage_url>http://torchat.googlecode.com/</homepage_url>
+      <download_url>http://code.google.com/p/torchat/downloads/list</download_url>
+      <url_name>torchat</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14413029</analysis_id>
+      <analysis>
+        <id>14413029</id>
+        <url>http://www.ohloh.net/analyses/14413029.xml</url>
+        <project_id>9990</project_id>
+        <updated_at>2013-07-13T16:10:48Z</updated_at>
+        <logged_at>2013-07-13T16:10:46Z</logged_at>
+        <min_month>2012-02-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>9173</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/torchat/analyses/14413029/languages.png">
+          <language color="D15600" percentage="93" id="14">
+Pascal          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

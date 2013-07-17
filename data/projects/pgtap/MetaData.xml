@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>348050</id>
+      <name>pgTAP</name>
+      <url>http://www.ohloh.net/p/pgtap.xml</url>
+      <html_url>http://www.ohloh.net/p/pgtap</html_url>
+      <created_at>2009-06-29T16:13:46Z</created_at>
+      <updated_at>2013-07-08T10:33:01Z</updated_at>
+      <description>pgTAP is a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions. The TAP output is suitable for harvesting, analysis, and reporting by a TAP harness, such as those used in Perl applications.</description>
+      <homepage_url>http://pgtap.org/</homepage_url>
+      <download_url>http://pgxn.org/dist/pgtap/</download_url>
+      <url_name>pgtap</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56801/tap_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56801/tap_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14568991</analysis_id>
+      <tags>
+        <tag>unit-testing</tag>
+        <tag>testing</tag>
+        <tag>plpgsql</tag>
+        <tag>unittesting</tag>
+        <tag>postgresql</tag>
+        <tag>sql</tag>
+        <tag>tap</tag>
+        <tag>unit_testing</tag>
+      </tags>
+      <analysis>
+        <id>14568991</id>
+        <url>http://www.ohloh.net/analyses/14568991.xml</url>
+        <project_id>348050</project_id>
+        <updated_at>2013-07-16T20:13:09Z</updated_at>
+        <logged_at>2013-07-16T20:13:07Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>26300</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pgtap/analyses/14568991/languages.png">
+          <language color="493625" percentage="97" id="30">
+SQL          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>342176</id>
+      <name>pywinusb</name>
+      <url>http://www.ohloh.net/p/pywinusb.xml</url>
+      <html_url>http://www.ohloh.net/p/pywinusb</html_url>
+      <created_at>2009-05-23T02:10:51Z</created_at>
+      <updated_at>2013-07-13T07:32:16Z</updated_at>
+      <description>IntroductionThis project aims to be a simple USB/HID user application space (hence no drivers needed) 100% python package. 
+
+Initially targeting simple HID devices management, the vision for this project is to be something similar to PySerial or PyParallel for USB/HID hardware enthusiasts. 
+
+AdvantagesAll python code, using ctypes Top level handling of HID events (usage events calling hook handlers) LimitationsDepending on your application you might find these limitations 
+
+Windows only (so far...) InstallationNo package releases yet. I expect to have it working by using easy_install. For now you can access the code using the svn repository. 
+
+I'm planning initially to have a mature pywinusb.hid name space (sub-package) implementatio</description>
+      <homepage_url>https://github.com/rene-aguirre/pywinusb</homepage_url>
+      <download_url>http://pypi.python.org/pypi/pywinusb</download_url>
+      <url_name>pywinusb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14616980</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>hid</tag>
+        <tag>windows</tag>
+        <tag>usb</tag>
+      </tags>
+      <analysis>
+        <id>14616980</id>
+        <url>http://www.ohloh.net/analyses/14616980.xml</url>
+        <project_id>342176</project_id>
+        <updated_at>2013-07-13T07:32:16Z</updated_at>
+        <logged_at>2013-07-13T07:30:39Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3030</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pywinusb/analyses/14616980/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

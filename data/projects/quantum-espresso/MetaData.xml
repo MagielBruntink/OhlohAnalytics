@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589371</id>
+      <name>Quantum ESPRESSO</name>
+      <url>http://www.ohloh.net/p/quantum-espresso.xml</url>
+      <html_url>http://www.ohloh.net/p/quantum-espresso</html_url>
+      <created_at>2012-02-24T14:23:02Z</created_at>
+      <updated_at>2013-07-09T11:26:24Z</updated_at>
+      <description>Quantum ESPRESSO is an integrated suite of Open-Source computer codes for electronic-structure calculations and materials modeling at the nanoscale. It is based on density-functional theory, plane waves, and pseudopotentials.
+
+Quantum ESPRESSO stands for opEn Source Package for Research in Electronic Structure, Simulation, and Optimization. 
+
+Quantum ESPRESSO is evolving towards a distribution of independent and inter-operable codes in the spirit of an open-source project. Researchers active in the field of electronic-structure calculations are encouraged to participate in the project by contributing their own codes or by implementing their own ideas into existing codes.</description>
+      <homepage_url>http://www.quantum-espresso.org</homepage_url>
+      <download_url>http://qe-forge.org/gf/project/q-e</download_url>
+      <url_name>quantum-espresso</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51045/Quantum_espresso_logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51045/Quantum_espresso_logo_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571471</analysis_id>
+      <tags>
+        <tag>ultrasoft</tag>
+        <tag>nanoscale</tag>
+        <tag>electronic_structure</tag>
+        <tag>gpu</tag>
+        <tag>high_performance_computing</tag>
+        <tag>scientific</tag>
+        <tag>physics</tag>
+        <tag>planes-waves</tag>
+        <tag>density-functional-theory</tag>
+        <tag>fortran</tag>
+        <tag>condensed_matter</tag>
+        <tag>simulation</tag>
+        <tag>parallel</tag>
+        <tag>materials_modelling</tag>
+        <tag>pseudopotentials</tag>
+        <tag>non_conserving</tag>
+      </tags>
+      <analysis>
+        <id>14571471</id>
+        <url>http://www.ohloh.net/analyses/14571471.xml</url>
+        <project_id>589371</project_id>
+        <updated_at>2013-07-09T11:26:24Z</updated_at>
+        <logged_at>2013-07-07T18:50:12Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>34</twelve_month_contributor_count>
+        <total_code_lines>379052</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/quantum-espresso/analyses/14571471/languages.png">
+          <language color="4d41b1" percentage="71" id="41">
+Fortran (Free-format)          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="000000" percentage="12" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>41</main_language_id>
+        <main_language_name>Fortran (Free-format)</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

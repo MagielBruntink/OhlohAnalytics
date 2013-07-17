@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>489120</id>
+      <name>EOxServer</name>
+      <url>http://www.ohloh.net/p/eoxserver.xml</url>
+      <html_url>http://www.ohloh.net/p/eoxserver</html_url>
+      <created_at>2011-04-07T11:48:10Z</created_at>
+      <updated_at>2013-07-15T18:39:59Z</updated_at>
+      <description>EOxServer is a server for Earth Observation (EO) data
+
+EOxServer implements the OGC Implementation Specifications EO-WCS and EO-WMS on top of MapServer's WCS and WMS implementations.
+
+EOxServer is released under the EOxServer Open License a MIT-style license and written in  Python and entirely based on Open Source software including  MapServer,  Django,  GDAL,  SpatiaLite, or  PostGIS, and  PROJ.4.</description>
+      <homepage_url>http://eoxserver.org</homepage_url>
+      <download_url>http://eoxserver.org/wiki/Download</download_url>
+      <url_name>eoxserver</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42760/EOxServer_logo_20110131_twitter_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42760/EOxServer_logo_20110131_twitter_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14641493</analysis_id>
+      <tags>
+        <tag>soap</tag>
+        <tag>webcoverageservice</tag>
+        <tag>osgeo</tag>
+        <tag>mapping</tag>
+        <tag>eoxserver</tag>
+        <tag>ows</tag>
+        <tag>python</tag>
+        <tag>wcs</tag>
+        <tag>ogc</tag>
+        <tag>mapserver</tag>
+        <tag>django</tag>
+        <tag>gdal</tag>
+        <tag>ogc_web_services</tag>
+        <tag>wms</tag>
+        <tag>python26</tag>
+        <tag>earthobservation</tag>
+        <tag>gis</tag>
+        <tag>opensource</tag>
+        <tag>coverage</tag>
+        <tag>webmapservice</tag>
+        <tag>proxy</tag>
+      </tags>
+      <analysis>
+        <id>14641493</id>
+        <url>http://www.ohloh.net/analyses/14641493.xml</url>
+        <project_id>489120</project_id>
+        <updated_at>2013-07-15T18:39:58Z</updated_at>
+        <logged_at>2013-07-15T18:27:13Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>39167</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eoxserver/analyses/14641493/languages.png">
+          <language color="4A246B" percentage="73" id="9">
+Python          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="493625" percentage="5" id="30">
+SQL          </language>
+          <language color="000000" percentage="14" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>EOxServer_Open_License</name>
+          <nice_name>EOxServer Open License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

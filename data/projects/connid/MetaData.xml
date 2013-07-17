@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584852</id>
+      <name>ConnId</name>
+      <url>http://www.ohloh.net/p/connid.xml</url>
+      <html_url>http://www.ohloh.net/p/connid</html_url>
+      <created_at>2011-07-01T07:33:13Z</created_at>
+      <updated_at>2013-07-12T23:27:02Z</updated_at>
+      <description>ConnId (Connectors for Identity Management) is built to help drive development of Connectors.
+
+Connectors provide a consistent generic layer between applications and target resources. The main focus of the API is provisioning operations and password management. The toolkit is intended to facilitate development with as few dependences as possible.
+
+ConnId's main purpose is to build a new home for the Identity Connectors project, with all that is required nowadays for a modern Open Source project: Apache Maven driven build, artifacts and mailing lists.</description>
+      <homepage_url>http://connid.googlecode.com/</homepage_url>
+      <download_url>http://code.google.com/p/connid/wiki/Downloads</download_url>
+      <url_name>connid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45118/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45118/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14610620</analysis_id>
+      <analysis>
+        <id>14610620</id>
+        <url>http://www.ohloh.net/analyses/14610620.xml</url>
+        <project_id>584852</project_id>
+        <updated_at>2013-07-12T23:27:02Z</updated_at>
+        <logged_at>2013-07-12T23:25:35Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>69749</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/connid/analyses/14610620/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>common_development_and_distribution</name>
+          <nice_name>Common Development and Distribution License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

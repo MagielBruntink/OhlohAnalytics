@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318791</id>
+      <name>pycsp</name>
+      <url>http://www.ohloh.net/p/pycsp.xml</url>
+      <html_url>http://www.ohloh.net/p/pycsp</html_url>
+      <created_at>2009-03-08T00:54:38Z</created_at>
+      <updated_at>2013-07-11T08:15:20Z</updated_at>
+      <description>The PyCSP project is an on-going project to bring CSP (Communicating Sequential Processes) to Python. 
+
+It was started in 2006 and has been updated about every three month. Bug reports and suggestions for new features are most welcome. 
+
+Example: 
+
+  
+
+import sys
+from pycsp import *
+
+@process
+def source(chan_out):
+    for i in range(10):
+        chan_out(&quot;Hello world (%d)\n&quot; % (i))
+    retire(chan_out)
+    
+@process
+def sink(chan_in):
+    while True:
+        sys.stdout.write(chan_in())
+
+chan = Channel()
+Parallel(
+    5 * source(-chan),
+    5 * sink(+chan)
+)
+
+For a short introduction read this. 
+
+A more complete documentation of all elements can be found here 
+
+Related publications: 
+
+Vinter, Brian ; Bj&#248;rndalen, John Markus ; Friborg, Rune M&#248;llegaard. PyCSP Revisited. Communicating Process Architectures 2009 : WoTUG-32, Proceedings of the 32st WoTUG Technical Meeting (CPA-09). Eindhoven, The Netherlands. 
+
+Friborg, Rune M&#248;llegaard ; Bj&#248;rndalen, John Markus ; Vinter, Brian. Three Unique Implementations of Processes for PyCSP. Communicating Process Architectures 2009 : WoTUG-32, Proceedings of the 32st WoTUG Technical Meeting (CPA-09). Eindhoven, The Netherlands. Friborg, Rune M&#248;llegaard ; Vinter, Brian. CSPBuilder - CSP based Scientific Workflow Modelling. Communicating Process Architectures 2008 : WoTUG-31, Proceedings of the 31st WoTUG Technical Meeting (CPA-08). York, UK. Bj&#248;rndalen, John Markus ; Sampson, Adam T. Process-Oriented Collective Operations. Communicating Process Architectures 2008 : WoTUG-31, Proceedings of the 31st WoTUG Technical Meeting (CPA-08). York, UK. Bj&#248;rndalen, John Markus ; Vinter, Brian ; Anshus, Otto. PyCSP - Communicating Sequential Processes for Python. Communicating Process Architectures 2007 : WoTUG-30, Proceedings of the 30st WoTUG Technical Meeting (CPA-07). Surrey, UK.</description>
+      <homepage_url>http://code.google.com/p/pycsp</homepage_url>
+      <download_url></download_url>
+      <url_name>pycsp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14586394</analysis_id>
+      <tags>
+        <tag>concurrency</tag>
+        <tag>escience</tag>
+        <tag>parallel</tag>
+        <tag>python</tag>
+        <tag>csp</tag>
+        <tag>distributed</tag>
+      </tags>
+      <analysis>
+        <id>14586394</id>
+        <url>http://www.ohloh.net/analyses/14586394.xml</url>
+        <project_id>318791</project_id>
+        <updated_at>2013-07-11T08:15:19Z</updated_at>
+        <logged_at>2013-07-11T08:15:03Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>20063</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pycsp/analyses/14586394/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

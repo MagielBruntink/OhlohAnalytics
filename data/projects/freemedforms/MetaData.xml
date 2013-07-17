@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>94262</id>
+      <name>FreeMedForms</name>
+      <url>http://www.ohloh.net/p/freemedforms.xml</url>
+      <html_url>http://www.ohloh.net/p/freemedforms</html_url>
+      <created_at>2008-12-23T00:12:32Z</created_at>
+      <updated_at>2013-07-15T19:28:27Z</updated_at>
+      <description>The FreeMedForms project is a full set of medical applications (EMR, prescriber, drugs interaction checker)&#8230;). The project is administrated and developed by a community of medical doctors and computer scientists. The whole applications are freely available without charges and are released with the full code source. 
+
+You can contact the FreeMedForms team with our mailing freemedforms@googlegroups.com.</description>
+      <homepage_url>http://www.freemedforms.com/</homepage_url>
+      <download_url>http://www.freemedforms.com/</download_url>
+      <url_name>freemedforms</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41404/freemedforms-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41404/freemedforms-64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14628919</analysis_id>
+      <tags>
+        <tag>healthinformatics</tag>
+        <tag>electronichealthrecord</tag>
+        <tag>drugsafety</tag>
+        <tag>health_professionals</tag>
+        <tag>clinicaldecisionsupport</tag>
+        <tag>icd10</tag>
+        <tag>druginteractionchecker</tag>
+        <tag>medicalinformatics</tag>
+        <tag>medicalrecord</tag>
+        <tag>healthcare</tag>
+      </tags>
+      <analysis>
+        <id>14628919</id>
+        <url>http://www.ohloh.net/analyses/14628919.xml</url>
+        <project_id>94262</project_id>
+        <updated_at>2013-07-14T17:45:51Z</updated_at>
+        <logged_at>2013-07-13T14:44:30Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>559828</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freemedforms/analyses/14628919/languages.png">
+          <language color="555555" percentage="41" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="41" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="14" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

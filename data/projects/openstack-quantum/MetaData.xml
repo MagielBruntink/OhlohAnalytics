@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603752</id>
+      <name>OpenStack Quantum</name>
+      <url>http://www.ohloh.net/p/openstack-quantum.xml</url>
+      <html_url>http://www.ohloh.net/p/openstack-quantum</html_url>
+      <created_at>2012-07-23T18:06:21Z</created_at>
+      <updated_at>2013-07-16T20:49:42Z</updated_at>
+      <description>Quantum is a virtual network service for Openstack, and a part of Netstack.</description>
+      <homepage_url>http://launchpad.net/quantum</homepage_url>
+      <download_url></download_url>
+      <url_name>openstack-quantum</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55106/openstack-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55106/openstack-logo_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14652397</analysis_id>
+      <tags>
+        <tag>openstack</tag>
+        <tag>infrastructure</tag>
+        <tag>virtual</tag>
+        <tag>networking</tag>
+      </tags>
+      <analysis>
+        <id>14652397</id>
+        <url>http://www.ohloh.net/analyses/14652397.xml</url>
+        <project_id>603752</project_id>
+        <updated_at>2013-07-16T20:49:42Z</updated_at>
+        <logged_at>2013-07-16T20:46:48Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>145</twelve_month_contributor_count>
+        <total_code_lines>89695</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openstack-quantum/analyses/14652397/languages.png">
+          <language color="4A246B" percentage="89" id="9">
+Python          </language>
+          <language color="000000" percentage="11" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

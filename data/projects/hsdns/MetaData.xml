@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12208</id>
+      <name>hsdns</name>
+      <url>http://www.ohloh.net/p/hsdns.xml</url>
+      <html_url>http://www.ohloh.net/p/hsdns</html_url>
+      <created_at>2008-02-23T23:38:34Z</created_at>
+      <updated_at>2013-07-06T19:04:00Z</updated_at>
+      <description>HsDns provides an asynchronous DNS resolver on top of GNU ADNS. Not all options are supported, but A, MX, and PTR lookups work nicely. There is also support for retrieving generic RR types, CNAMEs, and for NSEC zone walking. The library can be expected to work with fine ADNS 1.4 or later. It might also work with version ADNS 1.3, but that hasn&#8217;t been tested.</description>
+      <homepage_url>http://gitorious.org/hsdns</homepage_url>
+      <download_url>http://hackage.haskell.org/cgi-bin/hackage-scripts/package/hsdns</download_url>
+      <url_name>hsdns</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14553437</analysis_id>
+      <tags>
+        <tag>haskell</tag>
+        <tag>resolver</tag>
+        <tag>dns</tag>
+        <tag>network</tag>
+      </tags>
+      <analysis>
+        <id>14553437</id>
+        <url>http://www.ohloh.net/analyses/14553437.xml</url>
+        <project_id>12208</project_id>
+        <updated_at>2013-07-06T19:04:00Z</updated_at>
+        <logged_at>2013-07-06T19:03:38Z</logged_at>
+        <min_month>2004-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>240</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hsdns/analyses/14553437/languages.png">
+          <language color="007B7C" percentage="100" id="38">
+Haskell          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

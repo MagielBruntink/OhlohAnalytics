@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602413</id>
+      <name>Semantic Glossary</name>
+      <url>http://www.ohloh.net/p/Semantic_Glossary.xml</url>
+      <html_url>http://www.ohloh.net/p/Semantic_Glossary</html_url>
+      <created_at>2012-06-05T13:48:40Z</created_at>
+      <updated_at>2013-07-13T00:41:07Z</updated_at>
+      <description>Semantic Glossary is a MediaWiki extension that lets you define terms and abbreviations together with a definition. Whenever a term or abbreviation is hovered over in an article its definition is displayed.
+
+The extension is an alternative back-end for the Lingo extension: Where the Lingo extension uses a dedicated page to store the glossary, SemanticGlossary retrieves the data from a Semantic MediaWiki store. The advantages of this approach are: the glossary can be queried like any other semantic data, storing of the data is not limited to one pre-defined page and editing the data can be made more user-frienly using Semantic Forms.</description>
+      <homepage_url>http://www.mediawiki.org/wiki/Extension:Semantic_Glossary</homepage_url>
+      <download_url>http://code.google.com/p/semanticglossary/downloads/list</download_url>
+      <url_name>Semantic_Glossary</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14611830</analysis_id>
+      <tags>
+        <tag>mediawiki</tag>
+        <tag>smw</tag>
+        <tag>glossary</tag>
+      </tags>
+      <analysis>
+        <id>14611830</id>
+        <url>http://www.ohloh.net/analyses/14611830.xml</url>
+        <project_id>602413</project_id>
+        <updated_at>2013-07-13T00:41:07Z</updated_at>
+        <logged_at>2013-07-13T00:40:11Z</logged_at>
+        <min_month>2011-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>494</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Semantic_Glossary/analyses/14611830/languages.png">
+          <language color="356AA0" percentage="100" id="2">
+PHP          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

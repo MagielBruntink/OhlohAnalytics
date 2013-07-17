@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>480024</id>
+      <project_id>486286</project_id>
+      <repository_id>480302</repository_id>
+      <repository>
+        <id>480302</id>
+        <type>GitRepository</type>
+        <url>git://github.com/xtaran/unburden-home-dir.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T21:20:11Z</logged_at>
+        <commits>425</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>240887</id>
+      <project_id>486286</project_id>
+      <repository_id>238564</repository_id>
+      <repository>
+        <id>238564</id>
+        <type>GitRepository</type>
+        <url>git://gitorious.org/unburden-home-dir/unburden-home-dir.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T21:17:54Z</logged_at>
+        <commits>420</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

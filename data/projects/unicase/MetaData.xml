@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>423717</id>
+      <name>UNICASE</name>
+      <url>http://www.ohloh.net/p/unicase.xml</url>
+      <html_url>http://www.ohloh.net/p/unicase</html_url>
+      <created_at>2009-09-02T06:20:19Z</created_at>
+      <updated_at>2013-07-11T12:29:37Z</updated_at>
+      <description>UNICASE is a CASE-tool that supports modeling artifacts of a software engineering project, such as components and tasks. All artifacts in UNICASE are part of one unified model, and we refer to them as model elements. UNICASE provides an initial set of model elements from two domains, the system model and the project model. Model elements from the system model describe the system under construction, such as functional requirements, use cases, components or UML artifacts. Model elements from the project model describe the on-going project, such as tasks, bug reports, the organizational structure, iterations or meetings. Since the UNICASE model explicitly defines the associations among model elements by model links it enables traceability even across domain boundaries.</description>
+      <homepage_url>http://code.google.com/p/unicase/</homepage_url>
+      <download_url></download_url>
+      <url_name>unicase</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48081/3564a_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48081/3564a_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14589967</analysis_id>
+      <tags>
+        <tag>modeling</tag>
+        <tag>uml</tag>
+        <tag>ecp</tag>
+        <tag>case-tool</tag>
+        <tag>emfclientplatform</tag>
+        <tag>emfstore</tag>
+        <tag>modelrepository</tag>
+        <tag>emf</tag>
+        <tag>projectmanagement</tag>
+        <tag>softwareengineering</tag>
+      </tags>
+      <analysis>
+        <id>14589967</id>
+        <url>http://www.ohloh.net/analyses/14589967.xml</url>
+        <project_id>423717</project_id>
+        <updated_at>2013-07-11T12:29:37Z</updated_at>
+        <logged_at>2013-07-11T12:15:22Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>5290380</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/unicase/analyses/14589967/languages.png">
+          <language color="9A63AD" percentage="82" id="5">
+Java          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

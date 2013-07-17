@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>535939</id>
+      <name>Hibernate OGM</name>
+      <url>http://www.ohloh.net/p/hibernate-ogm.xml</url>
+      <html_url>http://www.ohloh.net/p/hibernate-ogm</html_url>
+      <created_at>2011-05-03T14:13:03Z</created_at>
+      <updated_at>2013-07-15T15:01:42Z</updated_at>
+      <description>Hibernate Object/Grid Mapper (OGM) aims at providing Java Persistence (JPA) support for NoSQL solutions. It reuses Hibernate Core's engine but persists entities into a NoSQL data store instead of a relational database. It reuses the Java Persistence Query Language (JP-QL) to search their data.</description>
+      <homepage_url>http://www.hibernate.org/subprojects/ogm</homepage_url>
+      <download_url>https://www.jboss.org/hibernate/subprojects/ogm/downloads</download_url>
+      <url_name>hibernate-ogm</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45756/hibernate_icon-120_120px_med_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45756/hibernate_icon-120_120px_med_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14638387</analysis_id>
+      <tags>
+        <tag>scalability</tag>
+        <tag>hibernate3</tag>
+        <tag>jpahibernate</tag>
+        <tag>infinispan</tag>
+        <tag>gridcomputing</tag>
+        <tag>cloud</tag>
+        <tag>distributed_computing</tag>
+        <tag>querying</tag>
+        <tag>scalable</tag>
+        <tag>jpastandalone</tag>
+        <tag>hibernate</tag>
+        <tag>jboss</tag>
+        <tag>jpa</tag>
+        <tag>datagrid</tag>
+        <tag>nosql</tag>
+        <tag>orm</tag>
+        <tag>java</tag>
+        <tag>ormapping</tag>
+        <tag>grid</tag>
+        <tag>persistence</tag>
+        <tag>jpa2</tag>
+      </tags>
+      <analysis>
+        <id>14638387</id>
+        <url>http://www.ohloh.net/analyses/14638387.xml</url>
+        <project_id>535939</project_id>
+        <updated_at>2013-07-15T10:49:10Z</updated_at>
+        <logged_at>2013-07-15T10:42:51Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>474541</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hibernate-ogm/analyses/14638387/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

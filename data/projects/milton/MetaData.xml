@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480779</id>
+      <name>Milton Webdav Server</name>
+      <url>http://www.ohloh.net/p/milton.xml</url>
+      <html_url>http://www.ohloh.net/p/milton</html_url>
+      <created_at>2010-01-27T17:14:36Z</created_at>
+      <updated_at>2013-07-15T00:54:58Z</updated_at>
+      <description>Milton is an open-source server-side webdav API written in java. Add Milton to your webapp, then implement a few interfaces, and your app becomes a read/write file server accessible from all major OS's and office productivity apps like Word and Excel.
+
+Milton implements file browsing with Webdav, Calendars with Caldav and Contacts with CardDav and also implements a mini LDAP server for native integration with Outlook and Thunderbird (which dont support Carddav natively)
+
+The commits graph flat line is just due to moving the code from subversion to github. I've put the github repo into ohloh now so should update soon.</description>
+      <homepage_url>http://milton.io/</homepage_url>
+      <download_url>http://milton.ettrema.com/downloads/</download_url>
+      <url_name>milton</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14633698</analysis_id>
+      <tags>
+        <tag>server</tag>
+        <tag>web</tag>
+        <tag>library</tag>
+        <tag>webdav</tag>
+        <tag>http</tag>
+        <tag>rfc2616</tag>
+        <tag>remote</tag>
+        <tag>rfc4437</tag>
+        <tag>rfc2617</tag>
+        <tag>rfc4918</tag>
+        <tag>api</tag>
+        <tag>rfc3253</tag>
+        <tag>rfc3744</tag>
+        <tag>authoring</tag>
+        <tag>rfc5323</tag>
+        <tag>filesystem</tag>
+        <tag>webservice</tag>
+      </tags>
+      <analysis>
+        <id>14633698</id>
+        <url>http://www.ohloh.net/analyses/14633698.xml</url>
+        <project_id>480779</project_id>
+        <updated_at>2013-07-15T00:54:58Z</updated_at>
+        <logged_at>2013-07-13T17:13:41Z</logged_at>
+        <min_month>2012-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>138321</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/milton/analyses/14633698/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="18" id="4">
+CSS          </language>
+          <language color="000000" percentage="11" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>Affero General Public License</nice_name>
+        </license>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

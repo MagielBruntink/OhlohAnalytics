@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>107505</id>
+      <project_id>10372</project_id>
+      <repository_id>105799</repository_id>
+      <repository>
+        <id>105799</id>
+        <type>GitRepository</type>
+        <url>git://git.linuxcnc.org/git/emc2.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T22:40:12Z</logged_at>
+        <commits>13936</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>107521</id>
+      <project_id>10372</project_id>
+      <repository_id>105815</repository_id>
+      <repository>
+        <id>105815</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymour:@emc.cvs.sourceforge.net:/cvsroot/emc</url>
+        <module_name>emc</module_name>
+        <username>anonymour</username>
+        <password></password>
+        <logged_at>2013-07-16T22:47:04Z</logged_at>
+        <commits>721</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

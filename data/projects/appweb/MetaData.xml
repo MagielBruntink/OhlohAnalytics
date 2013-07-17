@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>180931</id>
+      <name>appweb</name>
+      <url>http://www.ohloh.net/p/appweb.xml</url>
+      <html_url>http://www.ohloh.net/p/appweb</html_url>
+      <created_at>2009-01-16T19:33:06Z</created_at>
+      <updated_at>2013-07-16T07:48:02Z</updated_at>
+      <description>AppWeb is an embedded HTTP Web server that has been designed with security in mind. It is integrated directly into customers' applications and devices, providing easy development and deployment of Web-based applications and devices. It is fast (over 10,000 requests per second) and compact (from 160K) and includes support for dynamic page creation, server-side embedded Javascript, in-process CGI, dynamically loadable modules, SSL, Digest authentication, Virtual hosts, Apache-style configuration, logging, and single- and multi-threaded apps. It has extensive documentation and samples.</description>
+      <homepage_url>http://code.google.com/p/appweb</homepage_url>
+      <download_url></download_url>
+      <url_name>appweb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14648674</analysis_id>
+      <analysis>
+        <id>14648674</id>
+        <url>http://www.ohloh.net/analyses/14648674.xml</url>
+        <project_id>180931</project_id>
+        <updated_at>2013-07-16T07:48:02Z</updated_at>
+        <logged_at>2013-07-16T07:47:03Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>461736</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/appweb/analyses/14648674/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="47A400" percentage="17" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="13" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

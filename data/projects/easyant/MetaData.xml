@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>87883</id>
+      <name>easyAnt</name>
+      <url>http://www.ohloh.net/p/easyant.xml</url>
+      <html_url>http://www.ohloh.net/p/easyant</html_url>
+      <created_at>2008-12-20T23:13:20Z</created_at>
+      <updated_at>2013-07-15T19:20:23Z</updated_at>
+      <description>Easyant is a build system, that is based on Apache Ant and Apache Ivy.
+
+Our goals are :
+
+    * to leverage popularity and flexibility of Ant.
+    * to integrate Apache Ivy, such that the build system combines a ready-to-use dependency manager.
+    * to simplify standard build types, such as building web applications, JARs etc, by providing ready to use builds.
+    * to provide conventions and guidelines.
+    * to make plugging-in of fresh functionalities easy as writing simple Ant scripts as Easyant plugins. 
+
+To still remain adaptable,
+
+    * Though Easyant comes with a lot of conventions, we never lock you in.
+    * Easyant allows you to easily extend existing modules or create and use your own modules.
+    * Easyant makes migration from Ant very simple. Your legacy Ant scripts could sti</description>
+      <homepage_url>http://www.easyant.org</homepage_url>
+      <download_url>http://incubator.apache.org/easyant/download.cgi</download_url>
+      <url_name>easyant</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14833/easyant_ico_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14833/easyant_ico_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12966644</analysis_id>
+      <tags>
+        <tag>dependency_management</tag>
+        <tag>ant</tag>
+        <tag>release_management</tag>
+        <tag>ivy</tag>
+        <tag>java</tag>
+        <tag>project_management</tag>
+        <tag>buildsystems</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>12966644</id>
+        <url>http://www.ohloh.net/analyses/12966644.xml</url>
+        <project_id>87883</project_id>
+        <updated_at>2013-03-23T11:53:40Z</updated_at>
+        <logged_at>2013-03-23T11:51:37Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>48633</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/easyant/analyses/12966644/languages.png">
+          <language color="9A63AD" percentage="54" id="5">
+Java          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="16" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603516</id>
+      <name>ralph-datacenter</name>
+      <url>http://www.ohloh.net/p/ralph-datacenter.xml</url>
+      <html_url>http://www.ohloh.net/p/ralph-datacenter</html_url>
+      <created_at>2012-07-17T13:05:13Z</created_at>
+      <updated_at>2013-07-14T11:11:30Z</updated_at>
+      <description>Ralph is an asset management system for your data center.</description>
+      <homepage_url>http://ralph.allegrogroup.com/</homepage_url>
+      <download_url></download_url>
+      <url_name>ralph-datacenter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54857/ralph-logo64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54857/ralph-logo64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14624678</analysis_id>
+      <tags>
+        <tag>allegro</tag>
+        <tag>cmdb</tag>
+        <tag>inventorysoftware</tag>
+        <tag>assetpricing</tag>
+        <tag>datacentre</tag>
+        <tag>datacenter</tag>
+        <tag>assetmanagement</tag>
+        <tag>inventory</tag>
+        <tag>stock</tag>
+        <tag>deployment</tag>
+        <tag>allegrogroup</tag>
+      </tags>
+      <analysis>
+        <id>14624678</id>
+        <url>http://www.ohloh.net/analyses/14624678.xml</url>
+        <project_id>603516</project_id>
+        <updated_at>2013-07-14T11:11:30Z</updated_at>
+        <logged_at>2013-07-13T18:39:11Z</logged_at>
+        <min_month>2012-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>12</twelve_month_contributor_count>
+        <total_code_lines>106056</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ralph-datacenter/analyses/14624678/languages.png">
+          <language color="4A246B" percentage="59" id="9">
+Python          </language>
+          <language color="A4007E" percentage="28" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

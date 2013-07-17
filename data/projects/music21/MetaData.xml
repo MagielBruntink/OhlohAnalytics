@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>441370</id>
+      <name>music21</name>
+      <url>http://www.ohloh.net/p/music21.xml</url>
+      <html_url>http://www.ohloh.net/p/music21</html_url>
+      <created_at>2009-09-16T01:35:19Z</created_at>
+      <updated_at>2013-07-14T03:15:33Z</updated_at>
+      <description>Although computers have transformed how we listen to, obtain, compose, and notate music, they have not fundamentally changed how we research and analyze music. Though many computer databases have been created for musicology, they are not well adapted for sophisticated music queries. For instance, melodies can be found if exact matches exist. But melodic variations such as the repetition of a phrase or a change in embellishment are extremely common, yet cause searches to fail. More complex investigations, such as finding all melodies that imply a particular underlying harmony, can barely begin to be created with existing software packages. The lack of relevant software for analyzing music hampers scientific attempts to understand what we listen for and how we process what we hear; these act</description>
+      <homepage_url>http://code.google.com/p/music21/</homepage_url>
+      <download_url>http://code.google.com/p/music21/downloads</download_url>
+      <url_name>music21</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14622245</analysis_id>
+      <tags>
+        <tag>musicxml</tag>
+        <tag>python</tag>
+        <tag>composition</tag>
+        <tag>music</tag>
+        <tag>audio</tag>
+        <tag>musicology</tag>
+        <tag>lilypond</tag>
+        <tag>musictheory</tag>
+      </tags>
+      <analysis>
+        <id>14622245</id>
+        <url>http://www.ohloh.net/analyses/14622245.xml</url>
+        <project_id>441370</project_id>
+        <updated_at>2013-07-14T03:15:32Z</updated_at>
+        <logged_at>2013-07-14T00:52:09Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>1256674</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/music21/analyses/14622245/languages.png">
+          <language color="555555" percentage="81" id="3">
+XML          </language>
+          <language color="4A246B" percentage="18" id="9">
+Python          </language>
+          <language color="000000" percentage="1" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

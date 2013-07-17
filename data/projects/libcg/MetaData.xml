@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13477</id>
+      <name>Control Group Configuration Library</name>
+      <url>http://www.ohloh.net/p/libcg.xml</url>
+      <html_url>http://www.ohloh.net/p/libcg</html_url>
+      <created_at>2008-04-22T03:22:45Z</created_at>
+      <updated_at>2013-06-25T02:59:26Z</updated_at>
+      <description>Control groups, a new kernel feature in Linux 2.6.24 provides a file system interface to manipulate and control the details on task grouping including creation of new task groups (control groups), permission handling and task assignment.</description>
+      <homepage_url>http://libcg.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=218421</download_url>
+      <url_name>libcg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14394959</analysis_id>
+      <tags>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14394959</id>
+        <url>http://www.ohloh.net/analyses/14394959.xml</url>
+        <project_id>13477</project_id>
+        <updated_at>2013-07-13T00:19:54Z</updated_at>
+        <logged_at>2013-07-13T00:19:46Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>12629</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libcg/analyses/14394959/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

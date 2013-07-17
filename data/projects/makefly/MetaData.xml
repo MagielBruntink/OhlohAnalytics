@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602932</id>
+      <name>makefly</name>
+      <url>http://www.ohloh.net/p/makefly.xml</url>
+      <html_url>http://www.ohloh.net/p/makefly</html_url>
+      <created_at>2012-06-25T09:42:13Z</created_at>
+      <updated_at>2013-07-07T06:43:42Z</updated_at>
+      <description>A static weblog engine using a BSD makefile</description>
+      <homepage_url>http://makefly.e-mergence.org/</homepage_url>
+      <download_url>http://makefly.e-mergence.org/makefly_0.1.zip</download_url>
+      <url_name>makefly</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60438/makefly-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60438/makefly-64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559911</analysis_id>
+      <tags>
+        <tag>engine</tag>
+        <tag>weblog</tag>
+        <tag>static</tag>
+        <tag>makefile</tag>
+      </tags>
+      <analysis>
+        <id>14559911</id>
+        <url>http://www.ohloh.net/analyses/14559911.xml</url>
+        <project_id>602932</project_id>
+        <updated_at>2013-07-12T09:19:16Z</updated_at>
+        <logged_at>2013-07-12T09:17:51Z</logged_at>
+        <min_month>2012-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>14606</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/makefly/analyses/14559911/languages.png">
+          <language color="FF1A00" percentage="57" id="4">
+CSS          </language>
+          <language color="A4007E" percentage="31" id="6">
+JavaScript          </language>
+          <language color="EEE" percentage="9" id="52">
+Make          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3</name>
+          <nice_name>GNU Affero General Public License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

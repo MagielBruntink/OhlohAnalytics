@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485462</id>
+      <name>Wikitty</name>
+      <url>http://www.ohloh.net/p/wikitty.xml</url>
+      <html_url>http://www.ohloh.net/p/wikitty</html_url>
+      <created_at>2010-09-20T10:16:52Z</created_at>
+      <updated_at>2013-07-15T20:31:10Z</updated_at>
+      <description>Key/value storage and search engine.</description>
+      <homepage_url>http://nuiton.org/projects/show/wikitty</homepage_url>
+      <download_url>http://nuiton.org/projects/list_files/wikitty</download_url>
+      <url_name>wikitty</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14499347</analysis_id>
+      <tags>
+        <tag>codegeneration</tag>
+        <tag>java</tag>
+        <tag>index</tag>
+        <tag>persistance</tag>
+        <tag>lucene</tag>
+        <tag>solr</tag>
+        <tag>searchengine</tag>
+        <tag>jdbc</tag>
+        <tag>facet</tag>
+        <tag>faceted-search</tag>
+        <tag>search-engine</tag>
+        <tag>documents</tag>
+        <tag>framework</tag>
+        <tag>extension</tag>
+        <tag>indexation</tag>
+        <tag>search</tag>
+        <tag>extensions</tag>
+      </tags>
+      <analysis>
+        <id>14499347</id>
+        <url>http://www.ohloh.net/analyses/14499347.xml</url>
+        <project_id>485462</project_id>
+        <updated_at>2013-07-10T08:17:56Z</updated_at>
+        <logged_at>2013-07-10T08:17:53Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>59197</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wikitty/analyses/14499347/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="A4007E" percentage="5" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

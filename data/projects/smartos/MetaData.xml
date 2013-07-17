@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587373</id>
+      <name>SmartOS</name>
+      <url>http://www.ohloh.net/p/smartos.xml</url>
+      <html_url>http://www.ohloh.net/p/smartos</html_url>
+      <created_at>2011-11-21T15:03:37Z</created_at>
+      <updated_at>2013-07-17T06:24:57Z</updated_at>
+      <description>SmartOS: The Complete Modern Operating System
+
+SmartOS incorporates the four most revolutionary OS technologies of the past decade &#8212; Zones, ZFS, DTrace and KVM &#8212; into a single operating system, providing an arbitrarily observable, highly multi-tenant environment built on a reliable, enterprise-grade storage stack. With the introduction of KVM in SmartOS, you no longer have to give up the power of an enterprise-grade operating system in order to run legacy applications and stacks.
+
+SmartOS turns any server into a highly efficient hosting platform for multi-tenant, machine-to-machine, or storage applications. SmartOS offers unique, innovative tools for application developers, service providers and data center operators &#8211; tuned and hardened for modern datacenter deployment.</description>
+      <homepage_url>http://smartos.org</homepage_url>
+      <download_url>http://wiki.smartos.org/display/DOC/Download+SmartOS</download_url>
+      <url_name>smartos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14659032</analysis_id>
+      <tags>
+        <tag>i386</tag>
+        <tag>operating_system_kernels</tag>
+        <tag>containers</tag>
+        <tag>multithreaded</tag>
+        <tag>opensolaris</tag>
+        <tag>os</tag>
+        <tag>virtualization</tag>
+        <tag>x86_64</tag>
+        <tag>posix</tag>
+        <tag>networking</tag>
+        <tag>kernel</tag>
+        <tag>amd64</tag>
+        <tag>dtrace</tag>
+        <tag>illumos</tag>
+        <tag>solaris</tag>
+        <tag>zones</tag>
+        <tag>zfs</tag>
+        <tag>distro</tag>
+        <tag>operating_system</tag>
+        <tag>nfs</tag>
+        <tag>smp</tag>
+        <tag>unix</tag>
+        <tag>filesystem</tag>
+        <tag>symmetric_multi-processing</tag>
+        <tag>x86-64</tag>
+        <tag>kvm</tag>
+        <tag>x86</tag>
+        <tag>operating-system</tag>
+        <tag>ia32</tag>
+      </tags>
+      <analysis>
+        <id>14659032</id>
+        <url>http://www.ohloh.net/analyses/14659032.xml</url>
+        <project_id>587373</project_id>
+        <updated_at>2013-07-17T06:24:57Z</updated_at>
+        <logged_at>2013-07-17T06:24:12Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>320536</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/smartos/analyses/14659032/languages.png">
+          <language color="FF8F00" percentage="54" id="42">
+C          </language>
+          <language color="A4007E" percentage="21" id="6">
+JavaScript          </language>
+          <language color="EEE" percentage="9" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="16" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

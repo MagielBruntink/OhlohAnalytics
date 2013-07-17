@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16972</id>
+      <name>JSMin Ant Task</name>
+      <url>http://www.ohloh.net/p/jsmin-ant-task.xml</url>
+      <html_url>http://www.ohloh.net/p/jsmin-ant-task</html_url>
+      <created_at>2008-09-28T23:45:22Z</created_at>
+      <updated_at>2013-06-18T07:56:40Z</updated_at>
+      <description>JSMin Ant Task
+
+A custom task for Apache Ant which acts as an interface to the JSMin program.
+
+About JSMin
+
+&quot;JSMin is a filter which removes comments and unnecessary whitespace from javascript files. It typically reduces filesize by half, resulting in faster downloads. It also encourages a more expressive programming style because it eliminates the download cost of clean, literate self-documentation.&quot;
+
+Excerpt from Douglas Crockford's JSMin page
+
+Description
+
+The JSMin Ant task acts as an interface to the JSMin Java class. The task can be used for the automated minification of javascript files in your build and deploy processes.
+
+Specify destination directory option.
+Suffix minified files option.
+Support for nested filesets
+Tested with Apache Ant 6.5+. Please let us know if the task works</description>
+      <homepage_url>http://code.google.com/p/jsmin-ant-task/</homepage_url>
+      <download_url>http://code.google.com/p/jsmin-ant-task/downloads/list</download_url>
+      <url_name>jsmin-ant-task</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14297764</analysis_id>
+      <tags>
+        <tag>minification</tag>
+        <tag>js</tag>
+        <tag>compress</tag>
+        <tag>ant</tag>
+        <tag>javascript</tag>
+        <tag>optimization</tag>
+        <tag>utility</tag>
+        <tag>development</tag>
+        <tag>web</tag>
+        <tag>lightweight</tag>
+        <tag>jsmin</tag>
+        <tag>java</tag>
+        <tag>minify</tag>
+        <tag>light</tag>
+        <tag>compression</tag>
+        <tag>script</tag>
+      </tags>
+      <analysis>
+        <id>14297764</id>
+        <url>http://www.ohloh.net/analyses/14297764.xml</url>
+        <project_id>16972</project_id>
+        <updated_at>2013-07-12T13:22:44Z</updated_at>
+        <logged_at>2013-07-12T13:22:42Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>425</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jsmin-ant-task/analyses/14297764/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

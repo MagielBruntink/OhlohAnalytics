@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586397</id>
+      <name>Maniaplanet Web Services SDK for PHP</name>
+      <url>http://www.ohloh.net/p/maniaplanet-ws-sdk.xml</url>
+      <html_url>http://www.ohloh.net/p/maniaplanet-ws-sdk</html_url>
+      <created_at>2011-09-28T09:36:08Z</created_at>
+      <updated_at>2013-07-13T11:40:10Z</updated_at>
+      <description>The Maniaplanet Web Services is the public API that everyone can use to retrieve various information about the game, the players, the rankings, etc. You can use that API to build all sorts of applications.
+
+This project is an open-source PHP SDK for easy integration in your applications.
+
+It comes with ManiaConnect support. It is a unified authentication system and a set of Web Services that let your application authenticate players with their Maniaplanet account and retrieve various protected information.</description>
+      <homepage_url>http://code.google.com/p/maniaplanet-ws-sdk/</homepage_url>
+      <download_url>http://code.google.com/p/maniaplanet-ws-sdk/downloads/list</download_url>
+      <url_name>maniaplanet-ws-sdk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14618825</analysis_id>
+      <tags>
+        <tag>webservices</tag>
+        <tag>php</tag>
+        <tag>nadeo</tag>
+        <tag>maniaplanet</tag>
+        <tag>trackmania</tag>
+        <tag>oauth2</tag>
+      </tags>
+      <analysis>
+        <id>14618825</id>
+        <url>http://www.ohloh.net/analyses/14618825.xml</url>
+        <project_id>586397</project_id>
+        <updated_at>2013-07-13T11:40:10Z</updated_at>
+        <logged_at>2013-07-13T11:05:04Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>1767</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/maniaplanet-ws-sdk/analyses/14618825/languages.png">
+          <language color="356AA0" percentage="93" id="2">
+PHP          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

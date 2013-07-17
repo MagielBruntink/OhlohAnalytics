@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587400</id>
+      <name>Yolk Ada based web-toolbox</name>
+      <url>http://www.ohloh.net/p/yolk-ada.xml</url>
+      <html_url>http://www.ohloh.net/p/yolk-ada</html_url>
+      <created_at>2011-11-23T07:54:12Z</created_at>
+      <updated_at>2013-06-15T06:54:26Z</updated_at>
+      <description>Yolk is an Ada based web-toolbox that sits on top of AWS[1], GNATcoll[2], 
+Florist[3], XML/Ada[4] and PostgreSQL[5].
+
+It is important to understand that Yolk itself does very little that cannot be
+accomplished using plain AWS, GNATcoll, XML/Ada and Florist. It is, for lack of
+a better term, a convenience. Some of things that Yolk offers are:
+
+    * Sending emails from the application
+    * Setting up rotating log files and handling basic log file management
+    * Loading configuration files
+    * Handling the most common static content types (HTML, PNG, ICO and so on)
+    * Easy Atom RSS feed generation
+    * Connecting to one or more PostgreSQL databases
+    * Switching to an un-privileged user.
+    * Start/stop as a &quot;regular&quot; daemon using an rc script.
+
+Be sure to check out the Yolk demo</description>
+      <homepage_url>https://github.com/ThomasLocke/yolk</homepage_url>
+      <download_url>https://github.com/ThomasLocke/yolk</download_url>
+      <url_name>yolk-ada</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14264003</analysis_id>
+      <tags>
+        <tag>web-toolkit</tag>
+        <tag>ada</tag>
+        <tag>ada2005</tag>
+      </tags>
+      <analysis>
+        <id>14264003</id>
+        <url>http://www.ohloh.net/analyses/14264003.xml</url>
+        <project_id>587400</project_id>
+        <updated_at>2013-07-09T12:03:54Z</updated_at>
+        <logged_at>2013-07-09T12:03:49Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>8406</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yolk-ada/analyses/14264003/languages.png">
+          <language color="FAE028" percentage="81" id="21">
+Ada          </language>
+          <language color="000080" percentage="15" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>21</main_language_id>
+        <main_language_name>Ada</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

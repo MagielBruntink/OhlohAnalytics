@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9880</id>
+      <name>xOperator</name>
+      <url>http://www.ohloh.net/p/xoperator.xml</url>
+      <html_url>http://www.ohloh.net/p/xoperator</html_url>
+      <created_at>2007-11-25T18:04:59Z</created_at>
+      <updated_at>2013-07-03T20:34:36Z</updated_at>
+      <description>xOperator combines advantages of social network websites with instant messaging. It tries to be a semantic agent for xmpp / jabber network which finds and shares content about resources (using RDF/SPARQL) for you and your jabber friends.</description>
+      <homepage_url>http://aksw.org/Projects/xOperator</homepage_url>
+      <download_url>http://code.google.com/p/xoperator/downloads/list</download_url>
+      <url_name>xoperator</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14494435</analysis_id>
+      <tags>
+        <tag>xmpp</tag>
+        <tag>sparql</tag>
+        <tag>jabber</tag>
+        <tag>java</tag>
+        <tag>agent</tag>
+        <tag>client</tag>
+        <tag>rdf</tag>
+        <tag>semantic_web</tag>
+      </tags>
+      <analysis>
+        <id>14494435</id>
+        <url>http://www.ohloh.net/analyses/14494435.xml</url>
+        <project_id>9880</project_id>
+        <updated_at>2013-07-13T15:50:34Z</updated_at>
+        <logged_at>2013-07-13T15:50:31Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5432</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xoperator/analyses/14494435/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="C72C2C" percentage="8" id="29">
+Groovy          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

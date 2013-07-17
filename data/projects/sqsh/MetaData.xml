@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14162</id>
+      <name>sqsh</name>
+      <url>http://www.ohloh.net/p/sqsh.xml</url>
+      <html_url>http://www.ohloh.net/p/sqsh</html_url>
+      <created_at>2008-05-20T15:42:52Z</created_at>
+      <updated_at>2013-07-17T01:06:35Z</updated_at>
+      <description>The SQL SHell is intended as a replacement for the venerable 'isql' program supplied by Sybase. It came about due to years of frustration of trying to do real work with a program that was never meant to perform real work.
+
+Sqsh provides much of the functionality of a good shell: variables, redirection, pipes, back-grounding, job control, history, command completion, and dynamic configuration.</description>
+      <homepage_url>http://www.sqsh.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=106336</download_url>
+      <url_name>sqsh</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14655269</analysis_id>
+      <analysis>
+        <id>14655269</id>
+        <url>http://www.ohloh.net/analyses/14655269.xml</url>
+        <project_id>14162</project_id>
+        <updated_at>2013-07-17T01:06:35Z</updated_at>
+        <logged_at>2013-07-17T01:06:17Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>43747</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sqsh/analyses/14655269/languages.png">
+          <language color="FF8F00" percentage="58" id="42">
+C          </language>
+          <language color="777777" percentage="18" id="11">
+shell script          </language>
+          <language color="EEE" percentage="10" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="14" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

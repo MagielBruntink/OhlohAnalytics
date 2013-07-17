@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>473719</id>
+      <name>ObjFW</name>
+      <url>http://www.ohloh.net/p/objfw.xml</url>
+      <html_url>http://www.ohloh.net/p/objfw</html_url>
+      <created_at>2009-11-09T22:33:17Z</created_at>
+      <updated_at>2013-07-07T20:42:52Z</updated_at>
+      <description>A portable, lightweight framework for the Objective C language.</description>
+      <homepage_url>https://webkeks.org/objfw</homepage_url>
+      <download_url></download_url>
+      <url_name>objfw</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14564224</analysis_id>
+      <tags>
+        <tag>portable</tag>
+        <tag>objfw</tag>
+        <tag>framework</tag>
+        <tag>lightweight</tag>
+        <tag>objc</tag>
+      </tags>
+      <analysis>
+        <id>14564224</id>
+        <url>http://www.ohloh.net/analyses/14564224.xml</url>
+        <project_id>473719</project_id>
+        <updated_at>2013-07-07T20:42:51Z</updated_at>
+        <logged_at>2013-07-07T19:32:29Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>49819</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/objfw/analyses/14564224/languages.png">
+          <language color="C7932C" percentage="62" id="16">
+Objective-C          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="F35F1F" percentage="17" id="44">
+C++          </language>
+          <language color="000000" percentage="16" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>qt_public</name>
+          <nice_name>Q Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

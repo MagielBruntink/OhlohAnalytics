@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488884</id>
+      <name>gnome15</name>
+      <url>http://www.ohloh.net/p/gnome15.xml</url>
+      <html_url>http://www.ohloh.net/p/gnome15</html_url>
+      <created_at>2011-03-27T05:03:42Z</created_at>
+      <updated_at>2013-07-15T18:20:17Z</updated_at>
+      <description>Gnome15 provides a panel indicator (or applet), configuration tool, macro system and plugin framework for the Logitech G series keyboards and headsets, including the G15, G19, G13, G930, G35, G510, G11, G110 and the Z-10 speakers. The intention is to provide the best integration with the Linux desktop possible, using the standard protocols and libraries where appropriate.</description>
+      <homepage_url>http://www.gnome15.org</homepage_url>
+      <download_url>http://www.gnome15.org/index.php?option=com_content&amp;view=article&amp;id=9&amp;Itemid=2</download_url>
+      <url_name>gnome15</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42744/gnome15_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42744/gnome15_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14578226</analysis_id>
+      <analysis>
+        <id>14578226</id>
+        <url>http://www.ohloh.net/analyses/14578226.xml</url>
+        <project_id>488884</project_id>
+        <updated_at>2013-07-17T05:45:13Z</updated_at>
+        <logged_at>2013-07-17T05:44:05Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>77115</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnome15/analyses/14578226/languages.png">
+          <language color="4A246B" percentage="48" id="9">
+Python          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="000000" percentage="13" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

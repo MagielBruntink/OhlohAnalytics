@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633344</id>
+      <name>forbidden-apis</name>
+      <url>http://www.ohloh.net/p/forbidden-apis.xml</url>
+      <html_url>http://www.ohloh.net/p/forbidden-apis</html_url>
+      <created_at>2013-02-18T13:33:07Z</created_at>
+      <updated_at>2013-07-16T01:35:33Z</updated_at>
+      <description>Generics Policeman's Forbidden API check</description>
+      <homepage_url>http://code.google.com/p/forbidden-apis/</homepage_url>
+      <download_url>http://code.google.com/p/forbidden-apis/downloads/list</download_url>
+      <url_name>forbidden-apis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14645196</analysis_id>
+      <tags>
+        <tag>buildtool</tag>
+        <tag>timezone</tag>
+        <tag>default</tag>
+        <tag>codeanalysis</tag>
+        <tag>signature</tag>
+        <tag>lucene</tag>
+        <tag>build_tools</tag>
+        <tag>maven2</tag>
+        <tag>maven</tag>
+        <tag>apache</tag>
+        <tag>ant</tag>
+        <tag>maven2plugin</tag>
+        <tag>validation</tag>
+        <tag>build_tool</tag>
+        <tag>api</tag>
+        <tag>asm</tag>
+        <tag>locales</tag>
+        <tag>charset</tag>
+        <tag>buildtools</tag>
+        <tag>mavenplugin</tag>
+      </tags>
+      <analysis>
+        <id>14645196</id>
+        <url>http://www.ohloh.net/analyses/14645196.xml</url>
+        <project_id>633344</project_id>
+        <updated_at>2013-07-16T01:35:33Z</updated_at>
+        <logged_at>2013-07-16T01:35:16Z</logged_at>
+        <min_month>2013-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>2119</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/forbidden-apis/analyses/14645196/languages.png">
+          <language color="9A63AD" percentage="65" id="5">
+Java          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="556655" percentage="3" id="36">
+XSL Transformation          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

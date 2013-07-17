@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587527</id>
+      <name>EEA Relations</name>
+      <url>http://www.ohloh.net/p/eea-relations.xml</url>
+      <html_url>http://www.ohloh.net/p/eea-relations</html_url>
+      <created_at>2011-11-30T13:41:49Z</created_at>
+      <updated_at>2013-06-30T20:29:12Z</updated_at>
+      <description>EEA Possible Relations. This package provides a flexible way to manage relations in a Plone site. it provides a new reference browser widget and a central management interface for relations, their labels and requirements.</description>
+      <homepage_url>http://plone.org/products/eea.relations</homepage_url>
+      <download_url>http://plone.org/products/eea.relations</download_url>
+      <url_name>eea-relations</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48760/logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48760/logo_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14485360</analysis_id>
+      <tags>
+        <tag>referencebrowserwidget</tag>
+        <tag>browser</tag>
+        <tag>reference</tag>
+        <tag>widget</tag>
+        <tag>relations</tag>
+        <tag>eea</tag>
+        <tag>faceted</tag>
+        <tag>facetednavigation</tag>
+        <tag>plone</tag>
+        <tag>zope</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14485360</id>
+        <url>http://www.ohloh.net/analyses/14485360.xml</url>
+        <project_id>587527</project_id>
+        <updated_at>2013-07-11T17:47:49Z</updated_at>
+        <logged_at>2013-07-11T17:47:21Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>2676</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eea-relations/analyses/14485360/languages.png">
+          <language color="4A246B" percentage="71" id="9">
+Python          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="777777" percentage="2" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

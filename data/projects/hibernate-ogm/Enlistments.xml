@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>463393</id>
+      <project_id>535939</project_id>
+      <repository_id>318364</repository_id>
+      <repository>
+        <id>318364</id>
+        <type>GitRepository</type>
+        <url>git://github.com/emmanuelbernard/hibernate-core-ogm.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-15T10:42:51Z</logged_at>
+        <commits>3278</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>291745</id>
+      <project_id>535939</project_id>
+      <repository_id>289169</repository_id>
+      <repository>
+        <id>289169</id>
+        <type>GitRepository</type>
+        <url>git://github.com/hibernate/hibernate-ogm.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-15T10:47:48Z</logged_at>
+        <commits>816</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14594</id>
+      <name>Perl Data Language</name>
+      <url>http://www.ohloh.net/p/pdl.xml</url>
+      <html_url>http://www.ohloh.net/p/pdl</html_url>
+      <created_at>2008-06-01T10:08:43Z</created_at>
+      <updated_at>2013-06-24T16:01:17Z</updated_at>
+      <description>PDL (the &quot;Perl Data Language&quot;) gives standard Perl the ability to compactly store and speedily manipulate the large N-dimensional data arrays which are the bread and butter of scientific computing.
+
+PDL turns perl in to a free, array-oriented, numerical language similar to (but, we believe, better than) such commerical packages as IDL and MatLab. One can write simple perl expressions to manipulate entire numerical arrays all at once.
+
+A simple interactive shell (perldl) is provided for use from the command line and a module (PDL) for use in perl scripts.
+
+The PDL distribution for Perl provides extensive numerical and semi-numerical functionality with support for two- and three-dimensional visualisation as well as a variety of I/O formats.</description>
+      <homepage_url>http://pdl.sourceforge.net/</homepage_url>
+      <download_url>http://search.cpan.org/dist/PDL</download_url>
+      <url_name>pdl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14382457</analysis_id>
+      <analysis>
+        <id>14382457</id>
+        <url>http://www.ohloh.net/analyses/14382457.xml</url>
+        <project_id>14594</project_id>
+        <updated_at>2013-07-16T19:11:29Z</updated_at>
+        <logged_at>2013-07-16T19:06:39Z</logged_at>
+        <min_month>1996-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>87135</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pdl/analyses/14382457/languages.png">
+          <language color="D2C690" percentage="59" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="22" id="42">
+C          </language>
+          <language color="4d41b1" percentage="15" id="40">
+Fortran (Fixed-format)          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic</name>
+          <nice_name>Artistic License</nice_name>
+        </license>
+        <license>
+          <name>GNU_General_Public_License_1_0</name>
+          <nice_name>GNU General Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

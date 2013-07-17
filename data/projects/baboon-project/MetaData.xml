@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>612010</id>
+      <name>Baboon Project</name>
+      <url>http://www.ohloh.net/p/baboon-project.xml</url>
+      <html_url>http://www.ohloh.net/p/baboon-project</html_url>
+      <created_at>2012-10-23T13:14:38Z</created_at>
+      <updated_at>2013-06-25T23:03:14Z</updated_at>
+      <description>Baboon detects all merge conflicts in realtime.</description>
+      <homepage_url>http://baboon-project.org</homepage_url>
+      <download_url></download_url>
+      <url_name>baboon-project</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409750</analysis_id>
+      <analysis>
+        <id>14409750</id>
+        <url>http://www.ohloh.net/analyses/14409750.xml</url>
+        <project_id>612010</project_id>
+        <updated_at>2013-07-16T07:23:45Z</updated_at>
+        <logged_at>2013-07-16T07:23:44Z</logged_at>
+        <min_month>2012-02-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>3024</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/baboon-project/analyses/14409750/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

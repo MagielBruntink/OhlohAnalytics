@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484399</id>
+      <name>hostapd</name>
+      <url>http://www.ohloh.net/p/hostapd.xml</url>
+      <html_url>http://www.ohloh.net/p/hostapd</html_url>
+      <created_at>2010-07-29T08:53:52Z</created_at>
+      <updated_at>2013-07-15T19:43:33Z</updated_at>
+      <description>hostapd is a user space daemon for access point and authentication servers. It implements IEEE 802.11 access point management, IEEE 802.1X/WPA/WPA2/EAP Authenticators, RADIUS client, EAP server, and RADIUS authentication server. The current version supports Linux (Host AP, madwifi, mac80211-based drivers) and FreeBSD (net80211).</description>
+      <homepage_url>http://hostap.epitest.fi/hostapd/</homepage_url>
+      <download_url>http://hostap.epitest.fi/hostapd/</download_url>
+      <url_name>hostapd</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14641843</analysis_id>
+      <tags>
+        <tag>wireless</tag>
+        <tag>wirelessnetwork</tag>
+        <tag>80211n</tag>
+        <tag>wi-fi</tag>
+        <tag>80211</tag>
+        <tag>80211g</tag>
+        <tag>accesspoint</tag>
+      </tags>
+      <analysis>
+        <id>14641843</id>
+        <url>http://www.ohloh.net/analyses/14641843.xml</url>
+        <project_id>484399</project_id>
+        <updated_at>2013-07-15T19:43:33Z</updated_at>
+        <logged_at>2013-07-15T19:23:01Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>79</twelve_month_contributor_count>
+        <total_code_lines>258561</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hostapd/analyses/14641843/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="F35F1F" percentage="5" id="44">
+C++          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

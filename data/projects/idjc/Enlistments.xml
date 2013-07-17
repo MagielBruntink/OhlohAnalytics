@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>222718</id>
+      <project_id>75403</project_id>
+      <repository_id>220568</repository_id>
+      <repository>
+        <id>220568</id>
+        <type>GitRepository</type>
+        <url>git://git.debian.org/git/pkg-multimedia/idjc.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T20:09:34Z</logged_at>
+        <commits>177</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>487125</id>
+      <project_id>75403</project_id>
+      <repository_id>488336</repository_id>
+      <repository>
+        <id>488336</id>
+        <type>GitRepository</type>
+        <url>git://idjc.git.sourceforge.net/gitroot/idjc/idjc</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-06T20:08:18Z</logged_at>
+        <commits>705</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

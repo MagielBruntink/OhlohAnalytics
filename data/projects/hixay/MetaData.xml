@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>343977</id>
+      <name>hixay</name>
+      <url>http://www.ohloh.net/p/hixay.xml</url>
+      <html_url>http://www.ohloh.net/p/hixay</html_url>
+      <created_at>2009-05-29T16:22:30Z</created_at>
+      <updated_at>2013-06-26T13:57:44Z</updated_at>
+      <description>Using web services SAP XI Directory API to generate documentation, create an alternative editor and so on.
+
+Written on Haskell.</description>
+      <homepage_url>http://code.google.com/p/hixay/</homepage_url>
+      <download_url>http://code.google.com/p/hixay/downloads/list</download_url>
+      <url_name>hixay</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14418699</analysis_id>
+      <tags>
+        <tag>enterpriseintegration</tag>
+        <tag>haskell</tag>
+        <tag>webservices</tag>
+        <tag>enterprise-service-bus</tag>
+        <tag>xi</tag>
+        <tag>pi</tag>
+        <tag>sap</tag>
+        <tag>sdn</tag>
+        <tag>exchangeinfrastructure</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>14418699</id>
+        <url>http://www.ohloh.net/analyses/14418699.xml</url>
+        <project_id>343977</project_id>
+        <updated_at>2013-07-15T11:38:52Z</updated_at>
+        <logged_at>2013-07-15T11:38:49Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2010-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>32594</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hixay/analyses/14418699/languages.png">
+          <language color="555555" percentage="39" id="3">
+XML          </language>
+          <language color="007B7C" percentage="44" id="38">
+Haskell          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

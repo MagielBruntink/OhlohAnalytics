@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>315849</id>
+      <name>Nuxeo Platform</name>
+      <url>http://www.ohloh.net/p/nuxeo-platform.xml</url>
+      <html_url>http://www.ohloh.net/p/nuxeo-platform</html_url>
+      <created_at>2009-02-14T18:14:47Z</created_at>
+      <updated_at>2013-06-24T03:08:17Z</updated_at>
+      <description></description>
+      <homepage_url>http://www.nuxeo.org/</homepage_url>
+      <download_url>http://www.nuxeo.org/</download_url>
+      <url_name>nuxeo-platform</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14372048</analysis_id>
+      <analysis>
+        <id>14372048</id>
+        <url>http://www.ohloh.net/analyses/14372048.xml</url>
+        <project_id>315849</project_id>
+        <updated_at>2013-07-16T04:27:20Z</updated_at>
+        <logged_at>2013-07-16T04:27:17Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>233953</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nuxeo-platform/analyses/14372048/languages.png">
+          <language color="9A63AD" percentage="66" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
