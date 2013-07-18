@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12781</id>
+      <name>RelEx Semantic Relationship Extractor</name>
+      <url>http://www.ohloh.net/p/relex.xml</url>
+      <html_url>http://www.ohloh.net/p/relex</html_url>
+      <created_at>2008-03-16T04:01:13Z</created_at>
+      <updated_at>2013-07-07T00:26:47Z</updated_at>
+      <description>RelEx is an English-language semantic relationship extractor, built on the Carnegie-Mellon link parser. It can identify subject, object, indirect object and many other relationships between words in a sentence. It can also provide part-of-speech tagging, noun-number tagging, verb tense tagging, gender tagging, and so on. Relex includes a basic implementation of the Hobbs anaphora (pronoun) resolution algorithm. Optionally, it can use GATE for entity detection. RelEx also provides semantic relationship framing, similar to that of FrameNet.</description>
+      <homepage_url>http://opencog.org/wiki/RelEx</homepage_url>
+      <download_url>https://code.launchpad.net/relex</download_url>
+      <url_name>relex</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14557553</analysis_id>
+      <tags>
+        <tag>grammar</tag>
+        <tag>dependency</tag>
+        <tag>linguistics</tag>
+        <tag>opencog</tag>
+        <tag>dependency_grammar</tag>
+        <tag>wordnet</tag>
+        <tag>gate</tag>
+        <tag>nlp</tag>
+        <tag>parser</tag>
+        <tag>natural_language</tag>
+        <tag>ai</tag>
+        <tag>part_of_speech</tag>
+        <tag>semantics</tag>
+        <tag>corpus_linguistics</tag>
+        <tag>computational_linguistics</tag>
+        <tag>hobbs</tag>
+        <tag>natural-language-processing</tag>
+        <tag>anaphora</tag>
+        <tag>java</tag>
+        <tag>artificial_intelligence</tag>
+        <tag>natural_language_processing</tag>
+      </tags>
+      <analysis>
+        <id>14557553</id>
+        <url>http://www.ohloh.net/analyses/14557553.xml</url>
+        <project_id>12781</project_id>
+        <updated_at>2013-07-15T02:28:31Z</updated_at>
+        <logged_at>2013-07-15T02:28:21Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>17564</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/relex/analyses/14557553/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="000000" percentage="8" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

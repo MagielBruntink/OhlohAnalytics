@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483018</id>
+      <name>build-tool</name>
+      <url>http://www.ohloh.net/p/build-tool.xml</url>
+      <html_url>http://www.ohloh.net/p/build-tool</html_url>
+      <created_at>2010-05-16T21:59:14Z</created_at>
+      <updated_at>2013-07-11T11:33:52Z</updated_at>
+      <description>Build-tool helps maintaining development environments if complex dependencies have to be met. It makes it possible to run the builds in a reproducable way.
+
+A build is described by a recipe. A recipe is the collection of everything needed to perform a build. It controls every aspect of the build by separating the users environment from the actual build environment as much as possible.
+
+The tool brings a collection of recipes. They are mainly kde related because that is what i use the script for. But it could easily compile the xorg modules or gnome or the linux kernel if someone wrote the recipe.</description>
+      <homepage_url>http://michael-jansen.biz/build-tool</homepage_url>
+      <download_url>http://michael-jansen.biz/content/how-get-it</download_url>
+      <url_name>build-tool</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14589392</analysis_id>
+      <analysis>
+        <id>14589392</id>
+        <url>http://www.ohloh.net/analyses/14589392.xml</url>
+        <project_id>483018</project_id>
+        <updated_at>2013-07-11T11:33:52Z</updated_at>
+        <logged_at>2013-07-11T09:28:30Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7432</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/build-tool/analyses/14589392/languages.png">
+          <language color="A40011" percentage="93" id="12">
+Ruby          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

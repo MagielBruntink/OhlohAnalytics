@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>149219</id>
+      <name>PHPCoverage</name>
+      <url>http://www.ohloh.net/p/phpcoverage.xml</url>
+      <html_url>http://www.ohloh.net/p/phpcoverage</html_url>
+      <created_at>2009-01-13T12:27:39Z</created_at>
+      <updated_at>2013-07-18T14:00:28Z</updated_at>
+      <description>PHPCoverage is an open-source tool for measuring and reporting code coverage provided by the test suite of a PHP application. PHPCoverage can instrument and record the line coverage information for any PHP script at runtime.</description>
+      <homepage_url>http://sourceforge.net/projects/phpcoverage</homepage_url>
+      <download_url>http://developer.spikesource.com/frs/?group_id=9</download_url>
+      <url_name>phpcoverage</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14676882</analysis_id>
+      <tags>
+        <tag>code_analysis</tag>
+        <tag>php</tag>
+        <tag>xdebug</tag>
+        <tag>coverage</tag>
+      </tags>
+      <analysis>
+        <id>14676882</id>
+        <url>http://www.ohloh.net/analyses/14676882.xml</url>
+        <project_id>149219</project_id>
+        <updated_at>2013-07-18T14:00:27Z</updated_at>
+        <logged_at>2013-07-18T13:57:58Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5108</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phpcoverage/analyses/14676882/languages.png">
+          <language color="356AA0" percentage="80" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="13" id="4">
+CSS          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

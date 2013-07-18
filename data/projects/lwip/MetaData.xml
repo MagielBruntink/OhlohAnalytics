@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13074</id>
+      <name>lwIP</name>
+      <url>http://www.ohloh.net/p/lwip.xml</url>
+      <html_url>http://www.ohloh.net/p/lwip</html_url>
+      <created_at>2008-03-29T23:16:31Z</created_at>
+      <updated_at>2013-07-15T07:37:26Z</updated_at>
+      <description>lwIP is a small independent implementation of the TCP/IP protocol suite that has been developed by Adam Dunkels at the Computer and Networks Architectures (CNA) lab at the Swedish Institute of Computer Science (SICS). 
+
+The focus of the lwIP TCP/IP implementation is to reduce resource usage while still having a full scale TCP. This making lwIP suitable for use in embedded systems with tens of kilobytes of free RAM and room for around 40 kilobytes of code ROM. 
+
+lwIP features: 
+
+- IP (Internet Protocol) including packet forwarding over multiple network interfaces 
+- ICMP (Internet Control Message Protocol) for network maintenance and debugging 
+- UDP (User Datagram Protocol) including experimental UDP-lite extensions 
+- TCP (Transmission Control Protocol) with congestion control, RTT estimation and fast recovery/fast retransmit 
+- Specialized raw API for enhanced performance 
+- Optional Berkeley-alike socket API 
+- DHCP (Dynamic Host Configuration Protocol) 
+- PPP (Point-to-Point Protocol) 
+- ARP (Address Resolution Protocol) for Ethernet</description>
+      <homepage_url>http://savannah.nongnu.org/projects/lwip/</homepage_url>
+      <download_url>http://download.savannah.nongnu.org/releases/lwip/</download_url>
+      <url_name>lwip</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14636881</analysis_id>
+      <tags>
+        <tag>networking</tag>
+        <tag>ethernet</tag>
+        <tag>socket</tag>
+        <tag>dhcp</tag>
+        <tag>ppp</tag>
+        <tag>ipv4</tag>
+        <tag>tcp</tag>
+        <tag>embedded</tag>
+        <tag>tcpip</tag>
+        <tag>arp</tag>
+        <tag>udp</tag>
+        <tag>udplite</tag>
+        <tag>stack</tag>
+      </tags>
+      <analysis>
+        <id>14636881</id>
+        <url>http://www.ohloh.net/analyses/14636881.xml</url>
+        <project_id>13074</project_id>
+        <updated_at>2013-07-15T07:37:25Z</updated_at>
+        <logged_at>2013-07-14T23:29:41Z</logged_at>
+        <min_month>2002-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>69560</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lwip/analyses/14636881/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>108433</id>
+      <project_id>465502</project_id>
+      <repository_id>106697</repository_id>
+      <repository>
+        <id>106697</id>
+        <type>BzrRepository</type>
+        <url>bzr://research.operationaldynamics.com/bzr/quill/mainline/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-04-19T14:26:43Z</logged_at>
+        <commits>1341</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>525864</id>
+      <project_id>465502</project_id>
+      <repository_id>528411</repository_id>
+      <repository>
+        <id>528411</id>
+        <type>GitRepository</type>
+        <url>git://github.com/afcowie/quill.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-04-22T15:53:01Z</logged_at>
+        <commits>1341</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

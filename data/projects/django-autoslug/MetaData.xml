@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340595</id>
+      <name>django-autoslug</name>
+      <url>http://www.ohloh.net/p/django-autoslug.xml</url>
+      <html_url>http://www.ohloh.net/p/django-autoslug</html_url>
+      <created_at>2009-05-15T00:20:29Z</created_at>
+      <updated_at>2013-07-17T06:52:02Z</updated_at>
+      <description>django-autoslug (Automated Slug Field for Django) is a pluggable application for Django web framework containing an extended version of SlugField class shipped with Django itself.
+
+AutoSlugField can automatically do the following on save:
+    - populate itself from another field (using 'populate_from'),
+    - use custom slugify() function (can be defined in settings), and
+    - preserve uniqueness of the value (using 'unique' or 'unique_with').</description>
+      <homepage_url>http://bitbucket.org/neithere/django-autoslug/</homepage_url>
+      <download_url>http://pypi.python.org/packages/source/d/django-autoslug/</download_url>
+      <url_name>django-autoslug</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14659265</analysis_id>
+      <analysis>
+        <id>14659265</id>
+        <url>http://www.ohloh.net/analyses/14659265.xml</url>
+        <project_id>340595</project_id>
+        <updated_at>2013-07-17T06:52:02Z</updated_at>
+        <logged_at>2013-07-17T06:46:56Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>1013</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-autoslug/analyses/14659265/languages.png">
+          <language color="4A246B" percentage="91" id="9">
+Python          </language>
+          <language color="EEE" percentage="9" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

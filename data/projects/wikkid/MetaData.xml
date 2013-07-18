@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482639</id>
+      <name>Wikkid Wiki</name>
+      <url>http://www.ohloh.net/p/wikkid.xml</url>
+      <html_url>http://www.ohloh.net/p/wikkid</html_url>
+      <created_at>2010-04-26T22:49:32Z</created_at>
+      <updated_at>2013-07-17T17:41:45Z</updated_at>
+      <description>A new wiki that uses Bazaar (bzr) as a back-end file-store.
+
+Renders using ReST or creole.</description>
+      <homepage_url>http://wikkid.info</homepage_url>
+      <download_url>https://edge.launchpad.net/wikkid/+download</download_url>
+      <url_name>wikkid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33568/wikkid-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33568/wikkid-64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14632339</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>bzr</tag>
+        <tag>creole</tag>
+        <tag>rest</tag>
+        <tag>wiki</tag>
+      </tags>
+      <analysis>
+        <id>14632339</id>
+        <url>http://www.ohloh.net/analyses/14632339.xml</url>
+        <project_id>482639</project_id>
+        <updated_at>2013-07-14T23:20:32Z</updated_at>
+        <logged_at>2013-07-13T17:06:20Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4083</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wikkid/analyses/14632339/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3</name>
+          <nice_name>GNU Affero General Public License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

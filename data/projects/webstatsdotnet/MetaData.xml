@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5901</id>
+      <name>WebStats dotNet</name>
+      <url>http://www.ohloh.net/p/webstatsdotnet.xml</url>
+      <html_url>http://www.ohloh.net/p/webstatsdotnet</html_url>
+      <created_at>2007-06-08T18:41:03Z</created_at>
+      <updated_at>2013-07-12T05:20:52Z</updated_at>
+      <description>WebStats dotNet is a series of projects used to generate website statistics from IIS W3C http server log files. Best of all, it&#65533;s all free and licensed under the LGPL. The projects are written in C# using the Microsoft .NET Framework v 2.0. The projects composing WebStats dotNet are: the WebStats Class Library (.dll), the WebStats Website (ASP.NET) and the WebStats Scheduler (Windows Service).</description>
+      <homepage_url>http://webstatsdotnet.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=197618</download_url>
+      <url_name>webstatsdotnet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14600798</analysis_id>
+      <tags>
+        <tag>logging</tag>
+        <tag>development</tag>
+        <tag>web</tag>
+        <tag>hosting</tag>
+        <tag>c#</tag>
+        <tag>server</tag>
+        <tag>analysis</tag>
+        <tag>referrer</tag>
+        <tag>windows</tag>
+        <tag>dotnet</tag>
+        <tag>http</tag>
+        <tag>log</tag>
+        <tag>sysadmin</tag>
+        <tag>awstats</tag>
+        <tag>statistics</tag>
+      </tags>
+      <analysis>
+        <id>14600798</id>
+        <url>http://www.ohloh.net/analyses/14600798.xml</url>
+        <project_id>5901</project_id>
+        <updated_at>2013-07-17T09:28:35Z</updated_at>
+        <logged_at>2013-07-17T09:28:16Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2007-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>19576</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/webstatsdotnet/analyses/14600798/languages.png">
+          <language color="555555" percentage="54" id="3">
+XML          </language>
+          <language color="4096EE" percentage="44" id="17">
+C#          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

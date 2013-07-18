@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>74604</id>
+      <name>java-traveling-salesman</name>
+      <url>http://www.ohloh.net/p/java-traveling-salesman.xml</url>
+      <html_url>http://www.ohloh.net/p/java-traveling-salesman</html_url>
+      <created_at>2008-12-19T18:45:28Z</created_at>
+      <updated_at>2013-07-11T09:21:35Z</updated_at>
+      <description>Traveling Salesman Problem - Java Genetic Algorithm Solution 
+
+Binary/Source/SVN/Documentation available. 
+
+Application features 
+
+Implementation and comparison of different genetic algorithms - unisex random mutation 
+- crossover algorithm 
+- 2opt heuristics + unisex random mutation 
+- 2opt heuristics + crossover algorithm 
+Open source multi platform Java application with well commented source code Console and GUI application mode Parametrized configuration Multi threading computation engine Application thread priority settings Simple map file formats, exporting existing maps, using external maps - map of 192 real cities from CZ, coordinates in S-JTSK, distances in meters 
+- fractal maps (circle, triangle, square, spiral, ... ) 
+Descriptive XML and PDF reports, converting XML reports to P</description>
+      <homepage_url>http://code.google.com/p/java-traveling-salesman</homepage_url>
+      <download_url></download_url>
+      <url_name>java-traveling-salesman</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14587222</analysis_id>
+      <tags>
+        <tag>tsp</tag>
+        <tag>intelligence</tag>
+        <tag>travelling</tag>
+        <tag>traveling</tag>
+        <tag>genetic</tag>
+        <tag>java</tag>
+        <tag>genetics</tag>
+        <tag>salesman</tag>
+        <tag>ai</tag>
+        <tag>algorithm</tag>
+        <tag>artificial</tag>
+      </tags>
+      <analysis>
+        <id>14587222</id>
+        <url>http://www.ohloh.net/analyses/14587222.xml</url>
+        <project_id>74604</project_id>
+        <updated_at>2013-07-18T08:54:25Z</updated_at>
+        <logged_at>2013-07-18T08:54:22Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2007-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2915</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/java-traveling-salesman/analyses/14587222/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

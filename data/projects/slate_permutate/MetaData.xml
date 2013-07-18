@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487985</id>
+      <name>slate_permutate</name>
+      <url>http://www.ohloh.net/p/slate_permutate.xml</url>
+      <html_url>http://www.ohloh.net/p/slate_permutate</html_url>
+      <created_at>2011-02-07T04:17:55Z</created_at>
+      <updated_at>2013-06-30T03:05:26Z</updated_at>
+      <description>PHP-based web application which helps one map out a semester of college courses. Is extensible to support crawling data from other colleges and was initially written to support Calvin College students. The course/section input page is college agnostic, so people may use the basic functionality without having a crawler script for their colleges. However, it is unlikely that anyone would find it useful if he/she must enter all of the data -- therefore, we call all Computer Science students to add support for their respective schools.</description>
+      <homepage_url>http://ohnopub.net/w/SlatePermutate</homepage_url>
+      <download_url>http://ohnopub.net/w/SlatePermutate</download_url>
+      <url_name>slate_permutate</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14470890</analysis_id>
+      <tags>
+        <tag>college</tag>
+        <tag>sections</tag>
+        <tag>courses</tag>
+        <tag>semester</tag>
+        <tag>schedule</tag>
+        <tag>university</tag>
+      </tags>
+      <analysis>
+        <id>14470890</id>
+        <url>http://www.ohloh.net/analyses/14470890.xml</url>
+        <project_id>487985</project_id>
+        <updated_at>2013-07-15T19:53:33Z</updated_at>
+        <logged_at>2013-07-15T19:53:31Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8133</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/slate_permutate/analyses/14470890/languages.png">
+          <language color="356AA0" percentage="81" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="9" id="4">
+CSS          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3_or_later</name>
+          <nice_name>GNU Affero General Public License 3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

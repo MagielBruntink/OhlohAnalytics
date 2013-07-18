@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584830</id>
+      <name>Input History</name>
+      <url>http://www.ohloh.net/p/inputhistory.xml</url>
+      <html_url>http://www.ohloh.net/p/inputhistory</html_url>
+      <created_at>2011-06-30T08:12:51Z</created_at>
+      <updated_at>2013-07-09T22:46:51Z</updated_at>
+      <description>Input history for conversation windows using CTRL-up and CTRL-down in Instantbird.</description>
+      <homepage_url>https://code.douglasthrift.net/trac/instantbird#InputHistory</homepage_url>
+      <download_url>https://addons.instantbird.org/en-US/instantbird/addon/278</download_url>
+      <url_name>inputhistory</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1534/js_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1534/js_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14575078</analysis_id>
+      <tags>
+        <tag>instantbird</tag>
+        <tag>javascript</tag>
+      </tags>
+      <analysis>
+        <id>14575078</id>
+        <url>http://www.ohloh.net/analyses/14575078.xml</url>
+        <project_id>584830</project_id>
+        <updated_at>2013-07-15T23:23:28Z</updated_at>
+        <logged_at>2013-07-15T23:23:26Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>156</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/inputhistory/analyses/14575078/languages.png">
+          <language color="A4007E" percentage="63" id="6">
+JavaScript          </language>
+          <language color="EEE" percentage="28" id="52">
+Make          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

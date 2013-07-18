@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587401</id>
+      <name>PtExtlist</name>
+      <url>http://www.ohloh.net/p/PtExtlist.xml</url>
+      <html_url>http://www.ohloh.net/p/PtExtlist</html_url>
+      <created_at>2011-11-23T09:10:02Z</created_at>
+      <updated_at>2013-07-05T08:51:34Z</updated_at>
+      <description>Generic List Generator. Build a filterable, pageable, sortable list of any data by just writing typoscript.</description>
+      <homepage_url>http://extlist.punkt.de/</homepage_url>
+      <download_url>http://typo3.org/extensions/repository/view/pt_extlist/current/</download_url>
+      <url_name>PtExtlist</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48631/Punkt_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48631/Punkt_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14534388</analysis_id>
+      <tags>
+        <tag>list</tag>
+        <tag>typo3</tag>
+        <tag>typoscript</tag>
+      </tags>
+      <analysis>
+        <id>14534388</id>
+        <url>http://www.ohloh.net/analyses/14534388.xml</url>
+        <project_id>587401</project_id>
+        <updated_at>2013-07-16T18:30:20Z</updated_at>
+        <logged_at>2013-07-16T18:30:18Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>50751</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/PtExtlist/analyses/14534388/languages.png">
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="356AA0" percentage="65" id="2">
+PHP          </language>
+          <language color="000000" percentage="4" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

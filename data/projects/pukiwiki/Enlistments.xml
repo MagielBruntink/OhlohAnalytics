@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>22743</id>
+      <project_id>12339</project_id>
+      <repository_id>21998</repository_id>
+      <repository>
+        <id>21998</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@cvs.sourceforge.jp:/cvsroot/pukiwiki</url>
+        <module_name>pukiwiki</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-15T20:13:01Z</logged_at>
+        <commits>2366</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

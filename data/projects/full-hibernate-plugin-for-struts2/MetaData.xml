@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>377519</id>
+      <name>full-hibernate-plugin-for-struts2</name>
+      <url>http://www.ohloh.net/p/full-hibernate-plugin-for-struts2.xml</url>
+      <html_url>http://www.ohloh.net/p/full-hibernate-plugin-for-struts2</html_url>
+      <created_at>2009-08-14T14:34:08Z</created_at>
+      <updated_at>2013-07-08T03:56:10Z</updated_at>
+      <description>Full Hibernate Plugin 2.2 GA Released (08 mar 2010)(Release Notes page) 
+
+ 
+
+Alternative Tutorial HereHibernate Validator integrationDRY - Don't Repeat Yourself! 
+
+This feature allow the use of the fantastic Hibernate Validator Framework with very simple use of annotations in your Actions. This plugin is compatible with Hibernate Validator 3.1.0 and 4.0.2 (since 2.2 version). 
+
+More about Hibernate Validator at http://www.hibernate.org/412.html 
+
+
+ 
+
+Hibernate Core Sessions injection capabilityThe Open Session in View pattern made easy 
+
+This feature provides an Interceptor that open and sets in the value stack a Hibernate Core Session and closes (or not) this after the results are rendered for the client. 
+
+Very easy to use: Using the @SessionTarget Annotation or some XML lines.  This feature follows the concepts in http://www.hibernate.org/43.html 
+
+Important! hibernatesession-plugin-for-struts2 users: You are strongly encouraged to migrate for this plugin! 
+
+
+ 
+
+Hibernate Transactions injection capabilityTransactions by request 
+
+This feature provides an Interceptor that opens and sets in the value stack a Transaction and commit this after the results are rendered for the client if a rollback method was not invoked. 
+
+You can configure multiple databases (2.0+). 
+
+Very easy to use: Using the @TransactionTarget Annotation or some XML lines.  
+
+
+ 
+
+Hibernate Core configuration management Web ToolManage, reload and test your Hibernate Core configurations without reload your web content 
+
+This feature provides an WEB front-end tool for view and reload your Hibernate Core configurations. 
+
+You can provide this tool in your context in a public way or protect this by 2 ways: IPs/Hosts list or HTTP Autentication.</description>
+      <homepage_url>http://code.google.com/p/full-hibernate-plugin-for-struts2/</homepage_url>
+      <download_url></download_url>
+      <url_name>full-hibernate-plugin-for-struts2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566657</analysis_id>
+      <tags>
+        <tag>transaction</tag>
+        <tag>session</tag>
+        <tag>validator</tag>
+        <tag>opensessioninview</tag>
+        <tag>hibernate</tag>
+        <tag>struts2</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14566657</id>
+        <url>http://www.ohloh.net/analyses/14566657.xml</url>
+        <project_id>377519</project_id>
+        <updated_at>2013-07-18T08:31:14Z</updated_at>
+        <logged_at>2013-07-18T08:31:11Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2130</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/full-hibernate-plugin-for-struts2/analyses/14566657/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

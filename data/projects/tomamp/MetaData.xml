@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485160</id>
+      <name>TomAmp</name>
+      <url>http://www.ohloh.net/p/tomamp.xml</url>
+      <html_url>http://www.ohloh.net/p/tomamp</html_url>
+      <created_at>2010-09-03T08:57:38Z</created_at>
+      <updated_at>2013-07-17T09:30:15Z</updated_at>
+      <description>TomAmp is a simple playlist-based music player that can save/load playlists, play back most popular formats and also shoutcast streams. It's purpose is to be small, quick, and easy to use.</description>
+      <homepage_url>http://talk.maemo.org/showthread.php?t=60089</homepage_url>
+      <download_url>http://maemo.org/packages/view/tomamp/</download_url>
+      <url_name>tomamp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36914/Tomamp_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36914/Tomamp_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14660660</analysis_id>
+      <analysis>
+        <id>14660660</id>
+        <url>http://www.ohloh.net/analyses/14660660.xml</url>
+        <project_id>485160</project_id>
+        <updated_at>2013-07-17T09:30:15Z</updated_at>
+        <logged_at>2013-07-17T09:29:17Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2468</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tomamp/analyses/14660660/languages.png">
+          <language color="F35F1F" percentage="94" id="44">
+C++          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

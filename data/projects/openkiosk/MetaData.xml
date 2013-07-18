@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5554</id>
+      <name>OpenKiosk</name>
+      <url>http://www.ohloh.net/p/openkiosk.xml</url>
+      <html_url>http://www.ohloh.net/p/openkiosk</html_url>
+      <created_at>2007-05-23T18:57:38Z</created_at>
+      <updated_at>2013-07-15T03:34:42Z</updated_at>
+      <description>OpenKiosk is an open-source multi-platform kiosk system. OpenKiosk is ideally suited for use in locations where a controlled computing environment is paramount such as public access systems, libraries, school computer laboratories, internet cafes and more!</description>
+      <homepage_url>http://openkiosk.sourceforge.net/</homepage_url>
+      <download_url>http://openkiosk.sourceforge.net/dw.htm</download_url>
+      <url_name>openkiosk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14634971</analysis_id>
+      <tags>
+        <tag>management</tag>
+        <tag>prepaid</tag>
+        <tag>networking</tag>
+        <tag>membership</tag>
+        <tag>administration</tag>
+        <tag>cyber</tag>
+        <tag>cafe</tag>
+        <tag>monitor</tag>
+        <tag>server</tag>
+        <tag>monitoring</tag>
+        <tag>client</tag>
+      </tags>
+      <analysis>
+        <id>14634971</id>
+        <url>http://www.ohloh.net/analyses/14634971.xml</url>
+        <project_id>5554</project_id>
+        <updated_at>2013-07-15T03:34:42Z</updated_at>
+        <logged_at>2013-07-15T03:33:06Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2007-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>85730</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openkiosk/analyses/14634971/languages.png">
+          <language color="EEE" percentage="55" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="23" id="44">
+C++          </language>
+          <language color="777777" percentage="11" id="11">
+shell script          </language>
+          <language color="000000" percentage="11" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

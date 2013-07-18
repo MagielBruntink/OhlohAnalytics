@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>485346</id>
+      <project_id>601767</project_id>
+      <repository_id>486408</repository_id>
+      <repository>
+        <id>486408</id>
+        <type>GitRepository</type>
+        <url>git://github.com/andreasrosdal/freeciv-web.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T10:51:17Z</logged_at>
+        <commits>471</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>490945</id>
+      <project_id>601767</project_id>
+      <repository_id>492307</repository_id>
+      <repository>
+        <id>492307</id>
+        <type>GitRepository</type>
+        <url>git://github.com/cazfi/freeciv-web.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T10:47:39Z</logged_at>
+        <commits>467</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

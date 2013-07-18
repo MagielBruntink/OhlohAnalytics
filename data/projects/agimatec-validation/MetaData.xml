@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17293</id>
+      <name>agimatec-validation</name>
+      <url>http://www.ohloh.net/p/agimatec-validation.xml</url>
+      <html_url>http://www.ohloh.net/p/agimatec-validation</html_url>
+      <created_at>2008-10-07T10:46:28Z</created_at>
+      <updated_at>2013-06-19T11:05:37Z</updated_at>
+      <description>This is one of the first complete implementations of JSR 303 (Bean Validation), a specification of the Java API for JavaBean validation in Java EE and Java SE.  
+
+The technical objective is to provide a class level constraint declaration and validation facility for the Java application developer, as well as a constraint metadata repository and query API. 
+
+This implementation is based on the validation framework of agimatec GmbH, a small validation framework that is in production since 2007 and offers additional features, like XML-based extensible metadata, code generation (JSON for AJAX applications). 
+
+For more information refer to the Wiki at Overview or contact us. 
+
+17 march 2010: 
+
+agimatec-validation sources are now hosted on http://svn.apache.org/repos/asf/incubator/bval/.  
+
+Dependencies, API documentationJSR303 specification agimatec-validation - Maven-site with dependencies agimatec-validation - JavaDoc  agimatec-jsr303 - Maven-site with dependencies agimatec-jsr303 - JavaDoc</description>
+      <homepage_url>http://code.google.com/p/agimatec-validation</homepage_url>
+      <download_url></download_url>
+      <url_name>agimatec-validation</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14305992</analysis_id>
+      <tags>
+        <tag>validator</tag>
+        <tag>validation</tag>
+        <tag>metadata</tag>
+        <tag>constraint</tag>
+        <tag>bean-validation</tag>
+        <tag>jsr303</tag>
+        <tag>java</tag>
+        <tag>agimatec</tag>
+      </tags>
+      <analysis>
+        <id>14305992</id>
+        <url>http://www.ohloh.net/analyses/14305992.xml</url>
+        <project_id>17293</project_id>
+        <updated_at>2013-07-15T07:52:12Z</updated_at>
+        <logged_at>2013-07-15T07:52:09Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12932</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/agimatec-validation/analyses/14305992/languages.png">
+          <language color="9A63AD" percentage="93" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="556677" percentage="1" id="35">
+XML Schema          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

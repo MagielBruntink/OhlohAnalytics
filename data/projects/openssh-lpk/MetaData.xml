@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>59509</id>
+      <name>openssh-lpk</name>
+      <url>http://www.ohloh.net/p/openssh-lpk.xml</url>
+      <html_url>http://www.ohloh.net/p/openssh-lpk</html_url>
+      <created_at>2008-12-17T19:10:37Z</created_at>
+      <updated_at>2013-07-07T05:45:04Z</updated_at>
+      <description>OpenSSH-LPKThe OpenSSH LDAP Public Key patch provides an easy way of centralizing strong user authentication by using an LDAP server for retrieving public keys instead of ~/.ssh/authorized_keys. 
+
+Quick LinksDocumentation Sources Discussion Group Supporters/Contribution/LPK-&quot;aware&quot; ProjectsIncluded in FreeBSD ports Included in Gentoo portage Included in Mandriva SRPM building process Contributed RPMs LAM supports LPK shema OpenSSH LPK debian user contributed documentation LegacyPrevious mailing list archive Previous home</description>
+      <homepage_url>http://code.google.com/p/openssh-lpk</homepage_url>
+      <download_url></download_url>
+      <url_name>openssh-lpk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559597</analysis_id>
+      <tags>
+        <tag>authentication</tag>
+        <tag>ldap</tag>
+        <tag>openssh</tag>
+      </tags>
+      <analysis>
+        <id>14559597</id>
+        <url>http://www.ohloh.net/analyses/14559597.xml</url>
+        <project_id>59509</project_id>
+        <updated_at>2013-07-18T05:48:19Z</updated_at>
+        <logged_at>2013-07-18T05:48:16Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openssh-lpk/analyses/14559597/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

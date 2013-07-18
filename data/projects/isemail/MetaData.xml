@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>314084</id>
+      <name>is_email()</name>
+      <url>http://www.ohloh.net/p/isemail.xml</url>
+      <html_url>http://www.ohloh.net/p/isemail</html_url>
+      <created_at>2009-02-11T15:23:36Z</created_at>
+      <updated_at>2013-04-05T17:01:46Z</updated_at>
+      <description>Checks an email address against the followings RFCs:
+
+http://tools.ietf.org/html/rfc5321
+
+http://tools.ietf.org/html/rfc5322
+
+http://tools.ietf.org/html/rfc4291
+
+http://tools.ietf.org/html/rfc1123#section-2.1
+
+http://tools.ietf.org/html/rfc3696</description>
+      <homepage_url>http://www.dominicsayers.com/isemail/</homepage_url>
+      <download_url>http://code.google.com/p/isemail/source/browse/#svn/trunk</download_url>
+      <url_name>isemail</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13316585</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>function</tag>
+        <tag>rfc4291</tag>
+        <tag>address</tag>
+        <tag>email</tag>
+        <tag>rfc5322</tag>
+        <tag>validation</tag>
+        <tag>rfc3696</tag>
+        <tag>smtp</tag>
+        <tag>emailaddress</tag>
+        <tag>rfc2822</tag>
+        <tag>rfc822</tag>
+      </tags>
+      <analysis>
+        <id>13316585</id>
+        <url>http://www.ohloh.net/analyses/13316585.xml</url>
+        <project_id>314084</project_id>
+        <updated_at>2013-05-03T06:21:38Z</updated_at>
+        <logged_at>2013-05-03T06:01:51Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>57289</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/isemail/analyses/13316585/languages.png">
+          <language color="555555" percentage="61" id="3">
+XML          </language>
+          <language color="356AA0" percentage="28" id="2">
+PHP          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

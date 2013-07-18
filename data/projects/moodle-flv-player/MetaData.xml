@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318568</id>
+      <name>moodle-flv-player</name>
+      <url>http://www.ohloh.net/p/moodle-flv-player.xml</url>
+      <html_url>http://www.ohloh.net/p/moodle-flv-player</html_url>
+      <created_at>2009-03-07T23:59:13Z</created_at>
+      <updated_at>2013-07-18T03:20:18Z</updated_at>
+      <description>FLV Player plugin for Moodle 
+
+BetaPlease note: This module is currently in beta and is not intended for production use. Future versions of this module may not be compatible and upgrading may &quot;break&quot; existing activities deployed on Moodle courses. 
+
+The FLV Player provides an easy, reliable way for developers and non-developers alike (i.e. teachers, trainers and course content developers) to deploy a variety of different video formats as learning interactions in Moodle. 
+
+Features:Optional tutor notes which appear with video (new) Video file types: flv, f4v, mov, mp3 or any media types supported by Flash Player 9.0.115+ Direct links to YouTube.com flv videos Easy to set up RTMP, Lighttpd or other media streaming protocols Timed Text video captions (SMIL Standard) A selection of 27 JW Playe</description>
+      <homepage_url>http://code.google.com/p/moodle-flv-player</homepage_url>
+      <download_url></download_url>
+      <url_name>moodle-flv-player</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14670590</analysis_id>
+      <tags>
+        <tag>swf</tag>
+        <tag>video</tag>
+        <tag>flv</tag>
+        <tag>flash</tag>
+        <tag>media</tag>
+        <tag>youtube</tag>
+        <tag>moodle</tag>
+        <tag>plugin</tag>
+        <tag>php</tag>
+        <tag>f4v</tag>
+        <tag>mov</tag>
+        <tag>player</tag>
+        <tag>mp4</tag>
+        <tag>streaming</tag>
+        <tag>module</tag>
+      </tags>
+      <analysis>
+        <id>14670590</id>
+        <url>http://www.ohloh.net/analyses/14670590.xml</url>
+        <project_id>318568</project_id>
+        <updated_at>2013-07-18T03:20:17Z</updated_at>
+        <logged_at>2013-07-18T03:20:06Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1605</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/moodle-flv-player/analyses/14670590/languages.png">
+          <language color="356AA0" percentage="86" id="2">
+PHP          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

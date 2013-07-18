@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4304</id>
+      <name>Atlas for FlightGear</name>
+      <url>http://www.ohloh.net/p/atlas.xml</url>
+      <html_url>http://www.ohloh.net/p/atlas</html_url>
+      <created_at>2007-02-05T17:59:47Z</created_at>
+      <updated_at>2013-06-20T05:31:58Z</updated_at>
+      <description>Atlas aims to produce and display high quality charts of the world for users of FlightGear, an open source flight simulator.</description>
+      <homepage_url>http://sourceforge.net/projects/atlas</homepage_url>
+      <download_url></download_url>
+      <url_name>atlas</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14314573</analysis_id>
+      <tags>
+        <tag>plib</tag>
+        <tag>flight</tag>
+        <tag>simulation</tag>
+        <tag>maps</tag>
+        <tag>map</tag>
+        <tag>flightgear</tag>
+      </tags>
+      <analysis>
+        <id>14314573</id>
+        <url>http://www.ohloh.net/analyses/14314573.xml</url>
+        <project_id>4304</project_id>
+        <updated_at>2013-07-12T17:39:52Z</updated_at>
+        <logged_at>2013-07-12T17:39:47Z</logged_at>
+        <min_month>2000-08-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>24648</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/atlas/analyses/14314573/languages.png">
+          <language color="F35F1F" percentage="88" id="44">
+C++          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

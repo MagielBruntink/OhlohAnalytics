@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>202201</id>
+      <project_id>78308</project_id>
+      <repository_id>200233</repository_id>
+      <repository>
+        <id>200233</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@iscrobbler.cvs.sourceforge.net:/cvsroot/iscrobbler</url>
+        <module_name>iscrobbler/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-15T08:35:22Z</logged_at>
+        <commits>23</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

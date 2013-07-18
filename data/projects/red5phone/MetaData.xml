@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23085</id>
+      <name>red5phone</name>
+      <url>http://www.ohloh.net/p/red5phone.xml</url>
+      <html_url>http://www.ohloh.net/p/red5phone</html_url>
+      <created_at>2008-10-07T15:19:19Z</created_at>
+      <updated_at>2013-06-15T08:22:19Z</updated_at>
+      <description>SIP Application for Standalone Red5 Server 0.8.0 and above is http://red5phone.googlecode.com/files/sip_r29.zip. 
+
+Unzip and move the sip folder to webapps. 
+
+ You will need to install Red5 server 0.8.0   Run red5phone application with http://your_red5_server:5080/sip 
+
+To checkout SVN use http://red5phone.googlecode.com/svn/trunk/sip/ 
+
+ 
+
+Changelog 
+
+R29 
+
+Incoming call failt falt fixed by Marcin Balcer 
+
+R28 
+
+Timestamp fix by Rafael on RTPSender Ignore non-audio RTP packets for RTMP audio by Naoki 
+
+Transfer feature by  Lior 
+
+Blind transfer button to be used as followed: 
+
+a. register to your proxy 
+b. make a call or get a call (than the transfer button will show up after call is answered) 
+c. change the text of the dialed number to the number you want to transfer the call too  
+d. press transfer button. 
+Conference feature using transfer by Dele 
+
+a. set your conference number 
+b. call person. click on conference button to put caller in conference 
+c. do that for all participants and click on conference icon to join confeence 
+R27 
+
+Dele Olajide Made red5phone compatible with Red5 server 0.8.0 
+
+Lior Herman Added outbound proxy settings in flex object, to solve realm problems. 
+
+Fixed DTMF. Tested with UK PSTN and works ok.  Added Nellymoser encoder from Joseph Artsimovich (jart@users.sourceforge.net). 
+
+  Mauro Brasil, Rafael and UOL (www.uol.co.br) contributions 
+
+Cleaned up the code  
+
+Implemented multi-codec support for Red5phone (PCMU, PCMA, iLBC and G.729). G.729 requires payment of royalities and license rights if used.  
+
+Adjustments to support different packetization were made as well.  
+
+Prabhu Tamilarasan contributions 
+
+Normalize function to improve volume  
+
+Lior Herman contributions 
+
+Red5phone show busy or rejected message for busy outgoing calls.  
+
+Openlaszlo and Javascript API made compatible with latest chages to Red5phone  Add Dial external command to Flex to dial from a link.  
+
+Used UID (unique identifier) in Flex instead of the username value for binding the sipprovider object in Mjsip. Now you can use same sip account to register from multiple remote locations.  
+
+Changed registration of red5phone using phone@sip_provider.getViaAddress() instead of phone@realm  
+
+Mjsip now uses Outboundproxy = Proxy like that all sip headers using realm, but the message is send to the proxy ip.  
+
+Process of OPTIONS messages in Mjsip some sbc&#8217;s using to check call keep alive.  
+
+Fix authentication header for REG and INVITE to use cnounce value when proxy send qop= auth in 401 or 407 message.  
+
+Fix red5phone application close for complete unregister before sipprovider.halt is execute.  
+
+Fix the microphone.init in Flex to not be bind to the REGISTER SUCCESS message as it can be many SUCCESS messages coming during a call and mic need to be init only once.  
+
+Fix Cancel message for Invite (call) that have not been answered yet. When you want hangup a call before the remote user answered Mjsip send wrong Cseq in Cancel message.  Fixed NullException error when application is closed in provider.halt() its try to close a null tcp_socket and get Null exception back. Fix is in org.zoolu.net.TcpServer.java in the end of the file.  
+
+Janny_buh contribution 
+
+Patch all sip Register message using same Call-ID header and increment Cseq as recommended by RFC3261.</description>
+      <homepage_url>http://code.google.com/p/red5phone</homepage_url>
+      <download_url></download_url>
+      <url_name>red5phone</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14264525</analysis_id>
+      <tags>
+        <tag>flex</tag>
+        <tag>openlaszlo</tag>
+        <tag>flash</tag>
+        <tag>red5</tag>
+        <tag>sip</tag>
+      </tags>
+      <analysis>
+        <id>14264525</id>
+        <url>http://www.ohloh.net/analyses/14264525.xml</url>
+        <project_id>23085</project_id>
+        <updated_at>2013-07-13T01:48:37Z</updated_at>
+        <logged_at>2013-07-13T01:46:45Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>74434</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/red5phone/analyses/14264525/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="000000" percentage="8" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

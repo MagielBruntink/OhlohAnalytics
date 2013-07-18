@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6073</id>
+      <name>Web Application Component Toolkit</name>
+      <url>http://www.ohloh.net/p/wact.xml</url>
+      <html_url>http://www.ohloh.net/p/wact</html_url>
+      <created_at>2007-06-16T15:09:13Z</created_at>
+      <updated_at>2013-07-12T02:45:43Z</updated_at>
+      <description>The Web Application Component Toolkit is a framework for creating web applications. WACT facilitates a modular approach where individual, independent or reusable components may be integrated into a larger web application. WACT assists in implementing the Model View Controller pattern and the related Domain Model, Template View, Front Controller and Application Controller patterns.
+
+The WACT framework is developed with the philosophy of continuous refactoring and Unit Testing. WACT encourages these activities in applications based on the framework. WACT uses Simple Test as a unit testing framework.</description>
+      <homepage_url>http://www.phpwact.org/</homepage_url>
+      <download_url>http://channel.phpwact.org</download_url>
+      <url_name>wact</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/4926/wactlogo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/4926/wactlogo_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599328</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>unit_testing</tag>
+        <tag>template_engine</tag>
+        <tag>continuous_integration</tag>
+        <tag>web</tag>
+        <tag>framework</tag>
+        <tag>mvc</tag>
+        <tag>unit-testing</tag>
+      </tags>
+      <analysis>
+        <id>14599328</id>
+        <url>http://www.ohloh.net/analyses/14599328.xml</url>
+        <project_id>6073</project_id>
+        <updated_at>2013-07-18T08:18:52Z</updated_at>
+        <logged_at>2013-07-18T08:16:49Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>66334</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wact/analyses/14599328/languages.png">
+          <language color="356AA0" percentage="91" id="2">
+PHP          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6268</id>
+      <name>NPack</name>
+      <url>http://www.ohloh.net/p/npack.xml</url>
+      <html_url>http://www.ohloh.net/p/npack</html_url>
+      <created_at>2007-06-26T20:40:04Z</created_at>
+      <updated_at>2013-06-29T12:52:55Z</updated_at>
+      <description>An implementation of linear algebra numerical structures and methods for the CLR. NPack is unique in that it uses generics for matrix element definitions, and a set of matrix operations via an interface, allowing a CLR-based operations engine as well as the opportunity to use GPGPU-based operation engines. NPack was initially ported from Java Matrix Package (JAMA) by the US National Institute of Standards and Technology (which was a Java reinterpretation of LINPACK).</description>
+      <homepage_url>http://www.codeplex.com/NPack</homepage_url>
+      <download_url>http://www.codeplex.com/NPack/Release/ProjectReleases.aspx</download_url>
+      <url_name>npack</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14457102</analysis_id>
+      <tags>
+        <tag>matrix</tag>
+        <tag>jama</tag>
+        <tag>maths</tag>
+        <tag>mathematics</tag>
+        <tag>iarithmatic</tag>
+        <tag>numerical</tag>
+        <tag>math</tag>
+        <tag>vector</tag>
+        <tag>linear_algebra</tag>
+      </tags>
+      <analysis>
+        <id>14457102</id>
+        <url>http://www.ohloh.net/analyses/14457102.xml</url>
+        <project_id>6268</project_id>
+        <updated_at>2013-07-11T09:21:21Z</updated_at>
+        <logged_at>2013-07-11T09:20:57Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>66520</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/npack/analyses/14457102/languages.png">
+          <language color="555555" percentage="68" id="3">
+XML          </language>
+          <language color="4096EE" percentage="31" id="17">
+C#          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Microsoft_Shared_Source_Permissive_License</name>
+          <nice_name>Microsoft Shared Source Permissive License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

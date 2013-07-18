@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484959</id>
+      <name>eclipse-macker</name>
+      <url>http://www.ohloh.net/p/eclipse-macker.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipse-macker</html_url>
+      <created_at>2010-08-24T08:12:54Z</created_at>
+      <updated_at>2013-07-12T01:12:07Z</updated_at>
+      <description>The Eclipse Macker Plugins displays warnings and errors about architectural violations discovered by Macker right in Eclipse.</description>
+      <homepage_url>http://eclipse-macker.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/projects/eclipse-macker/files/</download_url>
+      <url_name>eclipse-macker</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14597725</analysis_id>
+      <analysis>
+        <id>14597725</id>
+        <url>http://www.ohloh.net/analyses/14597725.xml</url>
+        <project_id>484959</project_id>
+        <updated_at>2013-07-12T01:12:06Z</updated_at>
+        <logged_at>2013-07-12T01:11:53Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1864</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipse-macker/analyses/14597725/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="EEE" percentage="1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

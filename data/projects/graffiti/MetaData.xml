@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>442289</id>
+      <name>Graffiti</name>
+      <url>http://www.ohloh.net/p/graffiti.xml</url>
+      <html_url>http://www.ohloh.net/p/graffiti</html_url>
+      <created_at>2009-09-19T09:11:29Z</created_at>
+      <updated_at>2013-07-05T22:29:41Z</updated_at>
+      <description>Graffiti is a Live XML protocol based Whiteboard written in C++/Qt for Linux, Mac OS X and Windows. It's currently optimised for LAN featuring automatic peer detection and group chatting.</description>
+      <homepage_url>http://graffiti.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/projects/graffiti/files/</download_url>
+      <url_name>graffiti</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33260/shapeimage_2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33260/shapeimage_2_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542764</analysis_id>
+      <tags>
+        <tag>whiteboard</tag>
+        <tag>im</tag>
+        <tag>lan</tag>
+      </tags>
+      <analysis>
+        <id>14542764</id>
+        <url>http://www.ohloh.net/analyses/14542764.xml</url>
+        <project_id>442289</project_id>
+        <updated_at>2013-07-16T18:10:29Z</updated_at>
+        <logged_at>2013-07-16T18:10:28Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>37815</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/graffiti/analyses/14542764/languages.png">
+          <language color="F35F1F" percentage="97" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

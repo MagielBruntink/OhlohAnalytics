@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>58430</id>
+      <name>crawl-e</name>
+      <url>http://www.ohloh.net/p/crawl-e.xml</url>
+      <html_url>http://www.ohloh.net/p/crawl-e</html_url>
+      <created_at>2008-12-17T15:24:07Z</created_at>
+      <updated_at>2013-06-23T09:04:13Z</updated_at>
+      <description>CRAWL-E is a web crawling framework that seamlessly supports distributed crawling across multiple threads as well as multiple machines. 
+
+CRAWL-E was designed to crawl the web fast fast as possible with as little development time as possible. It is only a framework, and requires the development of a Handler module in order to function properly. 
+
+The CRAWL-E developers are very familiar with how TCP and HTTP works and using that knowledge have written a web crawler intended to maximize TCP throughput. This benefit is realized when crawling web servers that utilize persistent HTTP connections as numerous requests will be made over a single TCP connection thus increasing the throughput. 
+
+Other features of CRAWL-E are multiple HTTP request method support, the most basic being GET, POST, PUT, DELETE, HEAD. 
+
+CRAWL-E has been utilized in the data collection of: 
+
+Can Social Networks Improve e-Commerce: a Study on Social Marketplaces, Gayatri Swamynathan, Christo Wilson, Bryce Boe, Kevin C. Almeroth and Ben Y. Zhao, WOSN'08 User Interactions in Social Networks and their Implications, Christo Wilson, Bryce Boe, Alessandra Sala, Krishna P. N. Puttaswamy and Ben Y. Zhao, EuroSys'09</description>
+      <homepage_url>http://code.google.com/p/crawl-e</homepage_url>
+      <download_url></download_url>
+      <url_name>crawl-e</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14355548</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>spider</tag>
+        <tag>queue</tag>
+        <tag>distributed</tag>
+        <tag>crawler</tag>
+      </tags>
+      <analysis>
+        <id>14355548</id>
+        <url>http://www.ohloh.net/analyses/14355548.xml</url>
+        <project_id>58430</project_id>
+        <updated_at>2013-07-17T07:37:56Z</updated_at>
+        <logged_at>2013-07-17T07:37:53Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>539</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/crawl-e/analyses/14355548/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="777777" percentage="1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

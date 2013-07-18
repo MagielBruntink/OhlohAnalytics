@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482081</id>
+      <name>External Import (TYPO3 extension)</name>
+      <url>http://www.ohloh.net/p/external_import.xml</url>
+      <html_url>http://www.ohloh.net/p/external_import</html_url>
+      <created_at>2010-03-26T16:18:27Z</created_at>
+      <updated_at>2013-06-21T05:59:37Z</updated_at>
+      <description>External Import is a flexible designed to import data from a variety of external sources into the TYPO3 database, either into existing tables or into tables created solely for that purpose.
+
+The mapping between external and internal data is achieved using an extended syntax of the TCA.</description>
+      <homepage_url>http://forge.typo3.org/projects/show/extension-external_import</homepage_url>
+      <download_url></download_url>
+      <url_name>external_import</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14323375</analysis_id>
+      <tags>
+        <tag>extension</tag>
+        <tag>t3x</tag>
+        <tag>typo3</tag>
+        <tag>forge</tag>
+      </tags>
+      <analysis>
+        <id>14323375</id>
+        <url>http://www.ohloh.net/analyses/14323375.xml</url>
+        <project_id>482081</project_id>
+        <updated_at>2013-07-14T00:08:23Z</updated_at>
+        <logged_at>2013-07-14T00:03:35Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4406</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/external_import/analyses/14323375/languages.png">
+          <language color="356AA0" percentage="80" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

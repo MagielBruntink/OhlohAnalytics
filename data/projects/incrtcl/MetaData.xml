@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8749</id>
+      <name>incrTcl</name>
+      <url>http://www.ohloh.net/p/incrtcl.xml</url>
+      <html_url>http://www.ohloh.net/p/incrtcl</html_url>
+      <created_at>2007-09-25T10:17:25Z</created_at>
+      <updated_at>2013-07-12T19:47:34Z</updated_at>
+      <description>[incr Tcl] is the most widely used O-O system for Tcl. The name is a play on C++, and [incr Tcl] provides a similar object model, including multiple inheritence and public and private classes and variables.</description>
+      <homepage_url>http://www.tcl.tk/itcl</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=13244</download_url>
+      <url_name>incrtcl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14609055</analysis_id>
+      <analysis>
+        <id>14609055</id>
+        <url>http://www.ohloh.net/analyses/14609055.xml</url>
+        <project_id>8749</project_id>
+        <updated_at>2013-07-17T22:12:43Z</updated_at>
+        <logged_at>2013-07-17T22:12:19Z</logged_at>
+        <min_month>1998-07-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>68447</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/incrtcl/analyses/14609055/languages.png">
+          <language color="EEE" percentage="42" id="51">
+Autoconf          </language>
+          <language color="47A400" percentage="21" id="1">
+HTML          </language>
+          <language color="FF8F00" percentage="27" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

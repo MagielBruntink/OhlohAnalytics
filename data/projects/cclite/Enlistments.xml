@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>490907</id>
+      <project_id>51501</project_id>
+      <repository_id>492264</repository_id>
+      <repository>
+        <id>492264</id>
+        <type>GitRepository</type>
+        <url>git://github.com/hbarnard/cclite</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T12:47:59Z</logged_at>
+        <commits>107</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>347896</id>
+      <project_id>51501</project_id>
+      <repository_id>345048</repository_id>
+      <repository>
+        <id>345048</id>
+        <type>SvnRepository</type>
+        <url>http://cclite.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T12:27:09Z</logged_at>
+        <commits>2</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

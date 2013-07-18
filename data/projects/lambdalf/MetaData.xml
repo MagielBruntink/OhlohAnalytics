@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>549706</id>
+      <name>lambdalf</name>
+      <url>http://www.ohloh.net/p/lambdalf.xml</url>
+      <html_url>http://www.ohloh.net/p/lambdalf</html_url>
+      <created_at>2011-05-08T15:53:57Z</created_at>
+      <updated_at>2013-07-09T18:07:54Z</updated_at>
+      <description>Lambdalf -- Alfresco with a Clojure taste
+
+Lambdalf is a Clojure adapter that provides funtional APIs to the Alfresco foundation classes. It ships as an AMP, so that you can graceful install it on any Alfresco instance.</description>
+      <homepage_url>https://github.com/skuro/lambdalf</homepage_url>
+      <download_url></download_url>
+      <url_name>lambdalf</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574425</analysis_id>
+      <tags>
+        <tag>ecm</tag>
+        <tag>webscripting</tag>
+        <tag>clojure</tag>
+        <tag>alfresco</tag>
+        <tag>springsurf</tag>
+        <tag>cmis</tag>
+      </tags>
+      <analysis>
+        <id>14574425</id>
+        <url>http://www.ohloh.net/analyses/14574425.xml</url>
+        <project_id>549706</project_id>
+        <updated_at>2013-07-17T05:28:36Z</updated_at>
+        <logged_at>2013-07-17T04:13:32Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2818</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lambdalf/analyses/14574425/languages.png">
+          <language color="555555" percentage="64" id="3">
+XML          </language>
+          <language color="DB5855" percentage="31" id="80">
+Clojure          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>80</main_language_id>
+        <main_language_name>Clojure</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

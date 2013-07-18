@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>322065</id>
+      <name>htmlcompressor</name>
+      <url>http://www.ohloh.net/p/htmlcompressor.xml</url>
+      <html_url>http://www.ohloh.net/p/htmlcompressor</html_url>
+      <created_at>2009-04-09T01:47:36Z</created_at>
+      <updated_at>2013-07-14T16:59:08Z</updated_at>
+      <description>Java HTML/XML Compressor is a very small, fast and easy to use library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result pages become smaller in size and load faster. A command-line version of the compressor is also available. 
+
+Table of Contents
+
+IntroductionOverviewCompressing HTMLCompressing XMLCompressing selective content in JSP pagesCompressing selective content in Velocity templatesCompressing HTML and XML files from a command lineSetting up Ant task to compress files 
+
+IntroductionBefore reading further, if you are not serving your HTML/XML content using GZip compression, you should really look into that first as it would give you very significant compression ratio (sometimes up to 10 times) and usually very easy to implement. For further reading on GZip compression read this article for example. 
+
+If you want to reach further size decrease, the next step would be removing insignificant, from browser's perspective, characters from your pages, that's where this library comes in handy. Please note that this library is intended for compressing HTML or XML source files only.  
+
+For Java ProjectsIf you are generating static HTML files on the server, the most flexible solution would be calling html compression before writing output to the file. If you are generating HTML files once in a while and then uploading them to a production server, the easiest solution that doesn't require any code modifications would be using ANT task that calls the command line version of the library and rewrites files with their compressed versions. 
+
+For dynamic sites that are using JSP, the best way of compressing the output would be using compressor taglib. 
+
+For dynamic sites using Velocity, you can either wrap your templates with compressor directives or call compressor manually after merging the template. 
+
+For other dynamic cases you will probably have to call compressors directly from the code before serving a page to the client. 
+
+For Non-Java ProjectsIf you are generating HTML for your site (or have simple site in pure HTML) you can use a command line version of the library (Java still must be installed). For dynamic sites it other languages there is not much this library could do for you, sorry.  
+
+Bad PracticesDon't feed the compressor actual templates (php, jsp, etc). This most likely won't work, even if it does it would be a bad idea anyway as you will lose their readability and further development will be very inconvenient. Instead of compressing templates you should consider compressing resulting html after a template is merged. If your site is in pure HTML, always keep original files and only compress their copies that will be served to the client. If you compress your only sources, again your further development will be very hard and there is no easy way to decompress pages back. OverviewHere is a few samples of HTML compression results with default settings: 
+
+Site Name  Original  Compressed  Decrease  BBC77,054b55,324b 28.2%  CNet86,492b61,896b 28.4%  FOX News75,266b64,221b 14.7%  GameTrailers 112,199b92,851b 17.2%  Kotaku134,938b116,280b 13.8%  National Post75,006b55,628b 25.8%  SlashDot158,137b142,346b 10.0%  StackOverflow116,032b100,478b 13.4%  
+
+When compressing the HTML source it will preserve any content within , ,  and  tags by default, but you can optionally turn on  or  content compression as well using Yahoo YUI Compressor. You can also optionally remove all unnecessary quotes from tag attributes and inter-tag whitespace characters. 
+
+When compressing the XML source all whitespace characters outside of the tags as well as any comments get removed. The content inside CDATA blocks remains untouched. 
+
+It is also possible to compress selected blocks within JSP or Velocity templates by using corresponding JSP taglibs and Velocity directives. 
+
+Command line compression is also available. 
+
+HtmlCompressor and XmlCompressor classes are considered thread safe* and can be used in multi-thread environment (the only unsafe part is setting compression options, so it would be a good idea to initialize a compressor with required settings once per application and then use it to compress different pages in parallel in multiple threads). 
+
+Compressing HTMLYou start by creating HtmlCompressor instance and passing HTML content to compress(String content) method. As a result you will get compressed source: 
+
+String html = getHtml(); //your external method to get html from memory, file, url etc.
+HtmlCompressor compressor = new HtmlCompressor();
+String compressedHtml = compressor.compress(html);By default it: 
+
+Preserves any content within , ,  and  tags Removes HTML comments Replaces multiple whitespace characters and line breaks with spaces 
+
+If you need to set additional compression parameters: 
+
+HtmlCompressor compressor = new HtmlCompressor();
+
+compressor.setEnabled(true);                   //if false all compression is off (default is true)
+compressor.setRemoveComments(true);            //if false keeps HTML comments (default is true)
+compressor.setRemoveMultiSpaces(true);         //if false keeps multiple whitespace characters (default is true)
+compressor.setRemoveIntertagSpaces(true);      //removes iter-tag whitespace characters
+compressor.setRemoveQuotes(true);              //removes unnecessary tag attribute quotes
+compressor.setCompressCss(true);               //compress css using Yahoo YUI Compressor 
+compressor.setCompressJavaScript(true);        //compress js using Yahoo YUI Compressor 
+compressor.setYuiCssLineBreak(80);             //--line-break param for Yahoo YUI Compressor 
+compressor.setYuiJsDisableOptimizations(true); //--disable-optimizations param for Yahoo YUI Compressor 
+compressor.setYuiJsLineBreak(-1);              //--line-break param for Yahoo YUI Compressor 
+compressor.setYuiJsNoMunge(true);              //--nomunge param for Yahoo YUI Compressor 
+compressor.setYuiJsPreserveAllSemiColons(true);//--preserve-semi param for Yahoo YUI Compressor 
+
+String compressedHtml = compressor.compress(html);If you would like to compress  and  tag content you need to download Yahoo YUI Compressor library and put it within your project classpath. To get detailed instructions on what each of Yui-specific parameters is doing please read Yahoo YUI Compressor Readme. 
+
+You can optionally remove all unnecessary quotes from tag attributes (attributes that consist from a single word:  would become ). This usually gives around 3% pagesize decrease at no performance cost but might break strict HTML validation so this option is disabled by default. 
+
+About extra 3% pagesize can be saved by removing inter-tag spaces. It is fairly safe to turn this option on unless you rely on spaces for page formatting. Even if you do, you can always preserve required spaces with &amp;#20; or &amp;nbsp;. This option has no performance impact. 
+
+Compressing XMLYou need to create XmlCompressor instance and pass XML content to compress(String content) method. As a result you will get compressed source: 
+
+String xml = getXml(); //your external method to get xml from memory, file, url etc.
+XmlCompressor compressor = new XmlCompressor();
+String compressedXml = compressor.compress(xml);By default it: 
+
+Preserves any content within tags and CDATA blocks. Removes XML comments Removes all whitespace characters outside of the tags 
+
+If you need to set additional compression parameters: 
+
+XmlCompressor compressor = new XmlCompressor();
+
+compressor.setEnabled(true);             //if false all compression is off (default is true)
+compressor.setRemoveComments(true);      //if false keeps XML comments (default is true)
+compressor.setRemoveIntertagSpaces(true);//removes iter-tag whitespace characters  (default is true)
+String compressedXml = compressor.compress(xml);Compressing selective content in JSP pagesIf you install a compressor taglib you will be able to use , ,  and  tags on your JSP pages to mark selective blocks that need to be compressed.  
+
+Taglib installation procedure: 
+
+Download .tld file of the current release, rename it to htmlcompressor.tld and copy it to your WEB-INF folder Edit your web.xml file and add the following taglib description: 
+
+
+	http://htmlcompressor.googlecode.com/taglib/compressor
+	/WEB-INF/htmlcompressor.tld
+Add the following taglib directive to your JSP pages: Now you can wrap parts of JSP pages that need to be compressed with corresponding tags: 
+
+
+
+	Compressor Example
+	
+		
+			Compress
+			Me
+			Please
+		
+	
+Each tag supports all attributes from corresponding compressors, so you have full control over their options, for example: 
+
+
+ and  tags call corresponding YUI Compressor classes directly bypassing HtmlCompressor, so they should be used only for actual JavaScript and Css content. If you need to wrap mixed content use  with required attributes.  For the complete list of available attributes see taglib or javadocs. 
+
+Compressing selective content in Velocity templatesAfter installing Velocity compressor directives you will be able to use #compressHtml, #compressXml, #compressJs and #compressCss directives in your Velocity templates to mark selective blocks that need to be compressed.  
+
+Compressor directive installation procedureFirst you need to set userdirective Velocity property and provide a list of  directive classes. You can do this by either adding the following line into your velocity.properties: 
+
+userdirective=com.googlecode.htmlcompressor.velocity.HtmlCompressorDirective,com.googlecode.htmlcompressor.velocity.XmlCompressorDirective,com.googlecode.htmlcompressor.velocity.JavaScriptCompressorDirective,com.googlecode.htmlcompressor.velocity.CssCompressorDirectiveOr using runtime configuration: 
+
+VelocityEngine velocity = new VelocityEngine();
+velocity.setProperty(&quot;userdirective&quot;, &quot;com.googlecode.htmlcompressor.velocity.HtmlCompressorDirective,com.googlecode.htmlcompressor.velocity.XmlCompressorDirective,com.googlecode.htmlcompressor.velocity.JavaScriptCompressorDirective,com.googlecode.htmlcompressor.velocity.CssCompressorDirective&quot;);
+velocity.init();You can include only compressors you need. 
+
+All compressors are now ready to be used with default configurations. You can change configuration properties either in velocity.properties or using runtime configuration by setting userdirective.{directive}.{property_name} values. Here is a list of all supported parameters with their default values: 
+
+userdirective.compressHtml.enabled = true
+userdirective.compressHtml.removeComments = true
+userdirective.compressHtml.removeMultiSpaces = true
+userdirective.compressHtml.removeIntertagSpaces = false
+userdirective.compressHtml.removeQuotes = false
+userdirective.compressHtml.compressJavaScript = false
+userdirective.compressHtml.compressCss = false
+userdirective.compressHtml.yuiJsNoMunge = false
+userdirective.compressHtml.yuiJsPreserveAllSemiColons = false
+userdirective.compressHtml.yuiJsLineBreak = -1
+userdirective.compressHtml.yuiCssLineBreak = -1
+
+userdirective.compressXml.enabled = true
+userdirective.compressXml.removeComments = true
+userdirective.compressXml.removeIntertagSpaces = true
+
+userdirective.compressJs.enabled = true
+userdirective.compressJs.yuiJsNoMunge = false
+userdirective.compressJs.yuiJsPreserveAllSemiColons = false
+userdirective.compressJs.yuiJsLineBreak = -1
+
+userdirective.compressCss.enabled = true
+userdirective.compressCss.yuiCssLineBreak = -1Using Compressor directivesNow you can wrap parts of Velocity templates that need to be compressed with corresponding directives (please note that directives must end with empty parentheses): 
+
+
+	Compressor Example
+	
+		#compressHtml()
+			Compress
+			Me
+			Please
+		#end
+	
+#compressJs and #compressCss directives call corresponding YUI Compressor classes directly bypassing HtmlCompressor, so they should be used only for actual JavaScript and Css content. If you need to wrap mixed content use #compressHtml with required properties.   
+
+Compressing HTML and XML files from a command lineIf you have Java installed you can call compressors from a command line. 
+
+Usage: java -jar htmlcompressor.jar [options] [input file] 
+
+                  If not provided reads from stdin
+
+Global Options:
+  -o             If not provided outputs result to stdout
+  --type            If not provided autodetects from file extension
+  --charset          Read the input file using 
+  -h, --help                  Display this screen
+
+XML Options:
+  --preserve-comments         Preserve comments
+  --preserve-intertag-spaces  Preserve intertag spaces
+
+HTML Options:
+  --preserve-comments         Preserve comments
+  --preserve-multi-spaces     Preserve multiple spaces
+  --remove-intertag-spaces    Remove intertag spaces
+  --remove-quotes             Remove unneeded quotes
+  --compress-js               Enable JavaScript compression using YUICompressor
+  --compress-css              Enable CSS compression using YUICompressor
+
+JavaScript Options (for YUI Compressor):
+  --nomunge                   Minify only, do not obfuscate
+  --preserve-semi             Preserve all semicolons
+  --disable-optimizations     Disable all micro optimizations
+  --line-break    Insert a line break after the specified column
+
+CSS Options (for YUI Compressor):
+  --line-break    Insert a line break after the specified column
+
+Please note that if you enable JavaScript or Css compression parameters,
+YUI Compressor jar file must be present at the same directory as this jar.Examples: 
+
+java -jar htmlcompressor-0.8.jar --preserve-comments --type html -o /path/compressed/test-compressed.html /path/original/test.html
+
+java -jar htmlcompressor-0.8.jar --compress-js /path/original/test.html &gt; /path/compressed/test-compressed.htmlIf --type parameter is not set it tries to detect it from a file extension. If file extension is not recognized it defaults to html compression. Input and output files could be the same, in this case a file will be overwritten with its compressed version. 
+
+Setting up Ant task to compress filesIf you are using Ant for project builds you can setup a task that will compress provided files automatically during a build. 
+
+For example: 
+
+    
+    	
+	        
+	        	
+	        
+	        
+	        
+	 	
+	 	
+	        
+	        
+	        
+	        
+	    
+    This will compress all html files from /test/ excluding /leave/ subfolders and put results to /compressed/ folder using --preserve-comments and --type html compression parameters. 
+
+Another example: 
+
+    
+    	
+	        
+	        
+	        
+	        
+	        
+	        
+	        
+	    
+    This will overwrite all xml files within /test/ folder with their compressed versions.</description>
+      <homepage_url>http://code.google.com/p/htmlcompressor</homepage_url>
+      <download_url></download_url>
+      <url_name>htmlcompressor</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14628361</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>minify</tag>
+        <tag>java</tag>
+        <tag>optimize</tag>
+        <tag>jsp</tag>
+        <tag>compress</tag>
+        <tag>velocity</tag>
+        <tag>html</tag>
+        <tag>optimization</tag>
+      </tags>
+      <analysis>
+        <id>14628361</id>
+        <url>http://www.ohloh.net/analyses/14628361.xml</url>
+        <project_id>322065</project_id>
+        <updated_at>2013-07-14T16:59:08Z</updated_at>
+        <logged_at>2013-07-14T16:58:41Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>19723</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/htmlcompressor/analyses/14628361/languages.png">
+          <language color="47A400" percentage="70" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="23" id="5">
+Java          </language>
+          <language color="000000" percentage="7" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>11134</id>
+      <project_id>5160</project_id>
+      <repository_id>10879</repository_id>
+      <repository>
+        <id>10879</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@mates.cvs.sourceforge.net:/cvsroot/mates</url>
+        <module_name>htdocs</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-17T07:21:27Z</logged_at>
+        <commits>9</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>11101</id>
+      <project_id>5160</project_id>
+      <repository_id>10849</repository_id>
+      <repository>
+        <id>10849</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@mates.cvs.sourceforge.net:/cvsroot/mates</url>
+        <module_name>mates</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-17T07:18:59Z</logged_at>
+        <commits>129</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

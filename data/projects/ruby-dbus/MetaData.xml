@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16339</id>
+      <name>Ruby D-Bus implementation</name>
+      <url>http://www.ohloh.net/p/ruby-dbus.xml</url>
+      <html_url>http://www.ohloh.net/p/ruby-dbus</html_url>
+      <created_at>2008-08-28T01:35:01Z</created_at>
+      <updated_at>2013-07-10T15:09:58Z</updated_at>
+      <description>A D-Bus implementation for Ruby, allowing D-Bus clients and services to be written in Ruby.</description>
+      <homepage_url>https://trac.luon.net/ruby-dbus/</homepage_url>
+      <download_url>https://trac.luon.net/ruby-dbus/</download_url>
+      <url_name>ruby-dbus</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14581789</analysis_id>
+      <tags>
+        <tag>dbus</tag>
+        <tag>ruby</tag>
+        <tag>d-bus</tag>
+      </tags>
+      <analysis>
+        <id>14581789</id>
+        <url>http://www.ohloh.net/analyses/14581789.xml</url>
+        <project_id>16339</project_id>
+        <updated_at>2013-07-17T00:41:12Z</updated_at>
+        <logged_at>2013-07-17T00:27:16Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>7384</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ruby-dbus/analyses/14581789/languages.png">
+          <language color="A40011" percentage="94" id="12">
+Ruby          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

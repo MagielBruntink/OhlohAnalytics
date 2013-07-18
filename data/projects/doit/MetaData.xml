@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13379</id>
+      <name>doit</name>
+      <url>http://www.ohloh.net/p/doit.xml</url>
+      <html_url>http://www.ohloh.net/p/doit</html_url>
+      <created_at>2008-04-15T16:39:15Z</created_at>
+      <updated_at>2013-07-15T01:02:15Z</updated_at>
+      <description>doit is a build tool that focus not only on making/building things but on executing any kind of tasks in an efficient way. Designed to be easy to use and &quot;get out of your way&quot;.
+
+doit like most build tools is used to execute tasks defined in a configuration file. Configuration files are python modules. The tasks can be python functions (or any callable) or an external shell script. doit automatically keeps track of declared dependencies executing only tasks that needs to be update (based on which dependencies have changed).
+
+In doit, unlike most(all?) build-tools, a task doesn't need to define a target file to use the execute only if not up-to-date feature. This make doit specially suitable for running test suites.
+
+doit can be used to perform any task or build anything, though it doesn't s</description>
+      <homepage_url>http://python-doit.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>doit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14633850</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>testing</tag>
+        <tag>build_tools</tag>
+        <tag>automation</tag>
+        <tag>development</tag>
+        <tag>quality</tag>
+        <tag>build</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>14633850</id>
+        <url>http://www.ohloh.net/analyses/14633850.xml</url>
+        <project_id>13379</project_id>
+        <updated_at>2013-07-15T01:02:15Z</updated_at>
+        <logged_at>2013-07-13T17:14:27Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6521</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/doit/analyses/14633850/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

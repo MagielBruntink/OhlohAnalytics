@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>55939</id>
+      <name>pysuggest</name>
+      <url>http://www.ohloh.net/p/pysuggest.xml</url>
+      <html_url>http://www.ohloh.net/p/pysuggest</html_url>
+      <created_at>2008-12-17T06:33:27Z</created_at>
+      <updated_at>2013-07-11T11:14:23Z</updated_at>
+      <description>SUGGEST is a Top-N recommendation engine that implements a variety of recommendation algorithms for collaborative filtering. 
+
+Python wrapper by Ricardo Niederberger Cabral (ricardo.cabral at imgseek.net). 
+
+Recommendation engine by George Karypis (http://glaros.dtc.umn.edu/gkhome/suggest/overview). 
+
+More about the wrapped library (SUGGEST): 
+
+SUGGEST is a Top-N recommendation engine that implements a variety of recommendation algorithms. Top-N recommender systems, a personalized information filtering technology, are used to identify a set of N items that will be of interest to a certain user. In recent years, top-N recommender systems have been used in a number of different applications such to recommend products a customer will most likely buy; recommend movies, TV programs, or music a</description>
+      <homepage_url>http://code.google.com/p/pysuggest</homepage_url>
+      <download_url>http://code.google.com/p/pysuggest/downloads/list</download_url>
+      <url_name>pysuggest</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14589066</analysis_id>
+      <tags>
+        <tag>datamining</tag>
+        <tag>python</tag>
+        <tag>ai</tag>
+        <tag>recommendation</tag>
+        <tag>recommender</tag>
+        <tag>collaborativefiltering</tag>
+      </tags>
+      <analysis>
+        <id>14589066</id>
+        <url>http://www.ohloh.net/analyses/14589066.xml</url>
+        <project_id>55939</project_id>
+        <updated_at>2013-07-17T06:04:07Z</updated_at>
+        <logged_at>2013-07-17T06:04:04Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2007-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3110</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pysuggest/analyses/14589066/languages.png">
+          <language color="FF8F00" percentage="95" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

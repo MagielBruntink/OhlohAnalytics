@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12589</id>
+      <name>Chameleon (MapServer)</name>
+      <url>http://www.ohloh.net/p/chameleon.xml</url>
+      <html_url>http://www.ohloh.net/p/chameleon</html_url>
+      <created_at>2008-03-07T12:35:29Z</created_at>
+      <updated_at>2013-07-05T20:10:29Z</updated_at>
+      <description>Chameleon is a distributed, highly configurable, environment for developing Web Mapping applications. It is built on MapServer as the core mapping engine and works with all MapServer supported data formats through a regular MAP file. It also works well with OpenGIS Consortium standards for Web Mapping Services (WMS) and WMT Viewer Contexts through MapServer's support for these standards.</description>
+      <homepage_url>http://chameleon.maptools.org</homepage_url>
+      <download_url>http://chameleon.maptools.org/index.phtml?page=downloads.html</download_url>
+      <url_name>chameleon</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541698</analysis_id>
+      <analysis>
+        <id>14541698</id>
+        <url>http://www.ohloh.net/analyses/14541698.xml</url>
+        <project_id>12589</project_id>
+        <updated_at>2013-07-16T21:45:31Z</updated_at>
+        <logged_at>2013-07-16T21:44:40Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>203011</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/chameleon/analyses/14541698/languages.png">
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="356AA0" percentage="30" id="2">
+PHP          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="29" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

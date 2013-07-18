@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>40376</id>
+      <name>Meade LX200 Telescope Simple Client</name>
+      <url>http://www.ohloh.net/p/cli_lx200.xml</url>
+      <html_url>http://www.ohloh.net/p/cli_lx200</html_url>
+      <created_at>2008-12-14T06:06:02Z</created_at>
+      <updated_at>2013-07-01T02:04:45Z</updated_at>
+      <description>cli_lx200 is a Meade LX200 GPS telescope client. It implements the Meade Telescope Serial Command Protocol (revision L, 9 Octuber 2002) by using the serial port interface. The idea is to probe the communication of the telescope and the PC through the serial RS232 port.</description>
+      <homepage_url>https://csrg.inf.utfsm.cl/twiki4/bin/view/ACS/LX200Client</homepage_url>
+      <download_url>https://csrg.inf.utfsm.cl/twiki4/bin/view/ACS/LX200Client</download_url>
+      <url_name>cli_lx200</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14489748</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>client</tag>
+        <tag>telescope</tag>
+        <tag>c++</tag>
+        <tag>serialport</tag>
+      </tags>
+      <analysis>
+        <id>14489748</id>
+        <url>http://www.ohloh.net/analyses/14489748.xml</url>
+        <project_id>40376</project_id>
+        <updated_at>2013-07-18T03:43:24Z</updated_at>
+        <logged_at>2013-07-18T03:43:16Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2008-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>562</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cli_lx200/analyses/14489748/languages.png">
+          <language color="F35F1F" percentage="93" id="44">
+C++          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="FF8F00" percentage="2" id="42">
+C          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>
