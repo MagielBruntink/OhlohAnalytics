@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13823</id>
+      <name>QuickFAQ</name>
+      <url>http://www.ohloh.net/p/quickfaq.xml</url>
+      <html_url>http://www.ohloh.net/p/quickfaq</html_url>
+      <created_at>2008-05-06T23:36:12Z</created_at>
+      <updated_at>2013-07-11T22:47:07Z</updated_at>
+      <description>QuickFAQ is a native Joomla 1.5 component to handle Frequently Asked Questions.
+
+A quick feature overview (the most important ones):
+
++ Unlimited Subcategories
++ Assign FAQ Items to multiple Categories
++ Create Tags/Labels to flag FAQ Items
++ Up/down voting of FAQ Items
++ Favoure FAQ Items to maintain a personal bookmark list
++ Document uploader/manager
++ PDF creation of FAQ Items
++ RSS/ATOM Feeds
++ JComments integration
++ A lot AJAX stuff to make the UI easier
++ and so on
+
+Currently you can grant/restrict permissions for the following actions (Frontend):
++ Add a Faq Item
++ Edit a Faq Item
++ Change the state of a FAQ Item
++ Add new Tags</description>
+      <homepage_url>http://joomlacode.org/gf/project/quickfaq/</homepage_url>
+      <download_url>http://joomlacode.org/gf/project/quickfaq/frs/</download_url>
+      <url_name>quickfaq</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3525/quickfaq_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3525/quickfaq_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14594980</analysis_id>
+      <tags>
+        <tag>content_management</tag>
+        <tag>joomla</tag>
+        <tag>php</tag>
+        <tag>joomla_15</tag>
+      </tags>
+      <analysis>
+        <id>14594980</id>
+        <url>http://www.ohloh.net/analyses/14594980.xml</url>
+        <project_id>13823</project_id>
+        <updated_at>2013-07-18T02:21:41Z</updated_at>
+        <logged_at>2013-07-18T02:21:36Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2009-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>24859</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/quickfaq/analyses/14594980/languages.png">
+          <language color="356AA0" percentage="76" id="2">
+PHP          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

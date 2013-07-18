@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>434480</id>
+      <name>django-compressor</name>
+      <url>http://www.ohloh.net/p/django-compressor.xml</url>
+      <html_url>http://www.ohloh.net/p/django-compressor</html_url>
+      <created_at>2009-09-07T10:39:35Z</created_at>
+      <updated_at>2013-06-06T21:15:14Z</updated_at>
+      <description>Project summarydjango-compressor was inspired by django-compress and planned as its fork, but several architecture disatvantages made me to write fully new application. Compressor allows to define regrouped/postcompiled content &quot;on the fly&quot; inside of django template and output it as inline content, or as static cached file/url with versioning. 
+
+PurposeThe main purpose for this app is to enable of using of content compilers at develop time in transparent fashion. Because i hate to jump between syntaxes during work. 
+
+MoreIn basic it just makes reordering of nodes grouped with {% compress %}{%endcompress%} tags.  Together with that, it supports easy integration with external compilers (Clevercss, PyCow, xslt, etc.) and/or output wrappers. It supports compiled files versioning and precompile caching, respects templates hierarchy to make debugging easier. It allows to use template inheritance, block.super and passes context to custom compilers. 
+
+Basic exampleTemplate test/base.html: 
+
+
+
+Some title
+{% load compressor_tags %}{% compressed &quot;css&quot; &quot;css_file_link&quot; %}
+
+{% block content %}{%endblock%}
+
+Template test/test.html: 
+
+{% extends &quot;test/base.html&quot; %}
+{% block content %}
+{% load compressor_tags %}
+{% compress_file &quot;css&quot; &quot;media/css/reset.css&quot; %}{% compress_file &quot;css&quot; &quot;media/css/base.css&quot; %}
+{% compress_file &quot;css&quot; &quot;media/css/fonts.css&quot; %}{% compress_file &quot;css&quot; &quot;media/css/grids.css&quot; %}
+{% compress &quot;css&quot; %}a{color: #ff0000;}{%endcompress%}
+This is my link
+{%endblock%}All that content will be rendered to: 
+
+
+
+Some title
+
+
+
+This is my link
+
+where /static/CACHE/compressor/0606419490efcbcd3ea9d0f316db8567_nodes_326.css is symlink, wich lays in static zone and contains all yui styles together with your style at the end. 
+
+See also:More examples Installation Configuration Perfomance SourceLink to latest source can be found at my blog in projects section.</description>
+      <homepage_url>http://code.google.com/p/django-compressor/</homepage_url>
+      <download_url></download_url>
+      <url_name>django-compressor</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13312415</analysis_id>
+      <tags>
+        <tag>compilation</tag>
+        <tag>django</tag>
+        <tag>template</tag>
+        <tag>transparentcaching</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>13312415</id>
+        <url>http://www.ohloh.net/analyses/13312415.xml</url>
+        <project_id>434480</project_id>
+        <updated_at>2013-05-02T23:46:08Z</updated_at>
+        <logged_at>2013-05-02T23:46:00Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>901</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-compressor/analyses/13312415/languages.png">
+          <language color="4A246B" percentage="94" id="9">
+Python          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

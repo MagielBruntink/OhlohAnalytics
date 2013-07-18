@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8478</id>
+      <name>SCAN</name>
+      <url>http://www.ohloh.net/p/scan.xml</url>
+      <html_url>http://www.ohloh.net/p/scan</html_url>
+      <created_at>2007-09-14T14:57:11Z</created_at>
+      <updated_at>2013-07-17T08:13:11Z</updated_at>
+      <description>SCAN (Smart Content Aggregation and Navigation) is a text analysis, search, tagging and metadata management tool for personal document collections and other information resources.</description>
+      <homepage_url>http://scan.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=189359</download_url>
+      <url_name>scan</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14660097</analysis_id>
+      <tags>
+        <tag>information_retrieval</tag>
+        <tag>tagging</tag>
+        <tag>taxonomy</tag>
+        <tag>document_management</tag>
+        <tag>aggregator</tag>
+        <tag>metadata</tag>
+        <tag>fulltext-search</tag>
+        <tag>search</tag>
+        <tag>indexing</tag>
+        <tag>text_mining</tag>
+        <tag>contentrepository</tag>
+        <tag>text_analysis</tag>
+        <tag>tags</tag>
+        <tag>search_engine</tag>
+        <tag>tag</tag>
+      </tags>
+      <analysis>
+        <id>14660097</id>
+        <url>http://www.ohloh.net/analyses/14660097.xml</url>
+        <project_id>8478</project_id>
+        <updated_at>2013-07-17T08:13:10Z</updated_at>
+        <logged_at>2013-07-17T08:11:47Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>31808</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/scan/analyses/14660097/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

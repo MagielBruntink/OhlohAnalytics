@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7124</id>
+      <name>The Bitchun Society Whuffie Tracker</name>
+      <url>http://www.ohloh.net/p/bitchun.xml</url>
+      <html_url>http://www.ohloh.net/p/bitchun</html_url>
+      <created_at>2007-08-03T20:58:14Z</created_at>
+      <updated_at>2013-06-23T00:43:19Z</updated_at>
+      <description>The Bitchun Society is a global distributed real-time reputation tracking system. It is implemented as a plugin for Skype that is a layer on top of Skype's p2p network to communicate opinions and calculate the relative reputations of all participants.</description>
+      <homepage_url>http://bitchun.org</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=178858</download_url>
+      <url_name>bitchun</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14349483</analysis_id>
+      <analysis>
+        <id>14349483</id>
+        <url>http://www.ohloh.net/analyses/14349483.xml</url>
+        <project_id>7124</project_id>
+        <updated_at>2013-07-16T20:21:14Z</updated_at>
+        <logged_at>2013-07-16T20:21:10Z</logged_at>
+        <min_month>2006-10-01T00:00:00Z</min_month>
+        <max_month>2006-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>266803</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bitchun/analyses/14349483/languages.png">
+          <language color="FF8F00" percentage="54" id="42">
+C          </language>
+          <language color="A40011" percentage="34" id="12">
+Ruby          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="6" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

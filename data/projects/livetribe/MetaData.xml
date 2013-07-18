@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12882</id>
+      <name>LiveTribe</name>
+      <url>http://www.ohloh.net/p/livetribe.xml</url>
+      <html_url>http://www.ohloh.net/p/livetribe</html_url>
+      <created_at>2008-03-20T00:07:42Z</created_at>
+      <updated_at>2013-06-23T09:23:22Z</updated_at>
+      <description>LiveTribe   is a community effort to provide state-of-the-art management and monitoring tools, available for download and distribution under the open source Apache License 2.0.
+
+The goal of the LiveTribe project is to simplify the life of the application developers and operational users, by eliminating the complexity and overhead of deploying and maintaining multiple management and monitoring tools (one for each application).
+
+Instead, the LiveTribe project provides an easily customisable and extensible plug-in architecture where management and monitoring capabilities for the most commonly-used applications (such as Jetty, Tomcat, Geronimo, etc.) are provided, and where custom functionality can be added easily.</description>
+      <homepage_url>http://www.livetribe.org</homepage_url>
+      <download_url></download_url>
+      <url_name>livetribe</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14355738</analysis_id>
+      <analysis>
+        <id>14355738</id>
+        <url>http://www.ohloh.net/analyses/14355738.xml</url>
+        <project_id>12882</project_id>
+        <updated_at>2013-07-18T05:55:34Z</updated_at>
+        <logged_at>2013-07-18T05:55:31Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>219953</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/livetribe/analyses/14355738/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

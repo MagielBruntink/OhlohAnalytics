@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>78862</id>
+      <name>fast-random-forest</name>
+      <url>http://www.ohloh.net/p/fast-random-forest.xml</url>
+      <html_url>http://www.ohloh.net/p/fast-random-forest</html_url>
+      <created_at>2008-12-20T05:21:31Z</created_at>
+      <updated_at>2013-07-11T15:16:28Z</updated_at>
+      <description>What is FastRandomForest?FastRandomForest is a re-implementation of the Random Forest classifier (RF) for the Weka environment that brings speed and memory use improvements over the original Weka RF. 
+
+Speed gains depend on many factors, but a 5-10x increase over Weka 3-6-1 on a quad core computer is not uncommon, along with a 1.5x reduction in memory use. 
+
+For detailed tests of speed and classification accuracy, as well as description of optimizations in the code, please refer to the FastRandomForest wiki at http://code.google.com/p/fast-random-forest/w 
+
+or email the author at fran.supek\AT\irb.hr. 
+
+Unrelated to the FastRF project, an MPI-enabled version of the Random Forest algorithm written in Fortran 90 is available from http://parf.googlecode.com. 
+
+LicenseThis program is free software; you can redistribute it and/or modify it under  the terms of the GNU General Public License as published by the Free Software  Foundation; either version 2 of the License, or (at your option) any later  version.   This program is distributed in the hope that it will be useful, but WITHOUT ANY  WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A  PARTICULAR PURPOSE.  See the GNU General Public License for more details.   You should have received a copy of the GNU General Public License along with  this program; if not, write to the Free Software Foundation, Inc., 675 Mass  Ave, Cambridge, MA 02139, USA. 
+
+Using from own Java codeJust add FastRandomForest.jar to your Java VM classpath by using the -cp  switch, or by changing project dependencies in NetBeans/Eclipse/whatever IDE  you use. Then use hr.irb.fastRandomForest.FastRandomForest as you would use any other  classifier, see instructions at the WekaWiki: 
+
+http://weka.sourceforge.net/wiki/index.php/Use_Weka_in_your_Java_code 
+
+Using from Weka Explorer or Experimenter (versions 3.7.0, 3.6.1, 3.5.7 or earlier)1. Add the FastRandomForest.jar to your Java classpath when starting Weka. This  is normally done by editing the line beginning with &#8220;cp=&#8221; in &#8220;RunWeka.ini&#8221; If &quot;cp=&quot; doesn't exist, search for &quot;cmd_default=&quot; and add after &quot;#wekajar#;&quot;. 
+
+2. You need to extract the &#8220;GenericPropertiesCreator.props&#8221; file from your  weka.jar (jar files are in fact ordinary zip archives, the  GenericPropertiesCreator.props is under /weka/gui). 
+
+3. Place the file you've just extracted into the directory where you have installed Weka (on Windows this is commonly &quot;C:\Program Files\Weka-3-6&quot;) 
+
+4. Under the 
+
+     # Lists the Classifiers-Packages I want to choose fromheading, add the line 
+
+     hr.irb.fastRandomForestDo not forget to add a comma and a backslash to the previous line. 
+
+5. Use the &#8220;FastRandomForest&#8221; class is in the hr.irb.fastRandomForest package in the &quot;Classify&quot; tab. The other three classes cannot be used directly. 
+
+Using from Weka Explorer or Experimenter (versions 3.5.8 or 3.6.0 only)1. Add the FastRandomForest.jar to your Java classpath when starting Weka. This  is normally done by editing the line beginning with &#8220;cp=&#8221; in &#8220;RunWeka.ini&#8221; 
+
+2. Extract the &#8220;GenericObjectEditor.props&#8221; file from weka.jar (jar files are in fact ordinary zip archives, the GenericObjectEditor.props is  under /weka/gui). 
+
+3. Place the file you've just extracted into the directory where you have installed Weka (on Windows this is commonly &quot;C:\Program Files\Weka-3-5&quot;) 
+
+4. Find the 
+
+     # Lists the Classifiers I want to choose fromheading and scroll far down to the end of the block (first empty line), then  add a line: 
+
+     hr.irb.fastRandomForest.FastRandomForestDo not forget to append a comma and a backslash to the previous line. 
+
+5. The &#8220;FastRandomForest&#8221; class is in the &quot;hr.irb.fastRandomForest&quot; package in the &quot;Classify&quot; tab. Enjoy.</description>
+      <homepage_url>http://code.google.com/p/fast-random-forest</homepage_url>
+      <download_url></download_url>
+      <url_name>fast-random-forest</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591096</analysis_id>
+      <tags>
+        <tag>weka</tag>
+        <tag>classification</tag>
+        <tag>datamining</tag>
+        <tag>randomforest</tag>
+        <tag>machinelearning</tag>
+        <tag>java</tag>
+        <tag>classifier</tag>
+      </tags>
+      <analysis>
+        <id>14591096</id>
+        <url>http://www.ohloh.net/analyses/14591096.xml</url>
+        <project_id>78862</project_id>
+        <updated_at>2013-07-17T11:43:40Z</updated_at>
+        <logged_at>2013-07-17T11:43:37Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1413</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fast-random-forest/analyses/14591096/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

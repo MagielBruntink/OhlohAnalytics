@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>410418</id>
+      <name>pmikro</name>
+      <url>http://www.ohloh.net/p/pmikro.xml</url>
+      <html_url>http://www.ohloh.net/p/pmikro</html_url>
+      <created_at>2009-08-21T07:23:52Z</created_at>
+      <updated_at>2013-07-12T01:48:48Z</updated_at>
+      <description>Pmikro is a tiny framework written in PHP.
+basically consists of a template engine library which allows the creation of HTML templates that are imported and used in PHP scripts to ease the process of web page design and includes caching.</description>
+      <homepage_url>http://ovh.it.cx/cgi-bin/gitweb.cgi?p=pmikro.git</homepage_url>
+      <download_url></download_url>
+      <url_name>pmikro</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51753/pmikro_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51753/pmikro_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14598230</analysis_id>
+      <tags>
+        <tag>templates</tag>
+        <tag>web</tag>
+        <tag>simple</tag>
+        <tag>php</tag>
+        <tag>phpframework</tag>
+        <tag>modular</tag>
+        <tag>html</tag>
+        <tag>small</tag>
+      </tags>
+      <analysis>
+        <id>14598230</id>
+        <url>http://www.ohloh.net/analyses/14598230.xml</url>
+        <project_id>410418</project_id>
+        <updated_at>2013-07-12T01:48:48Z</updated_at>
+        <logged_at>2013-07-12T01:48:36Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>327</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pmikro/analyses/14598230/languages.png">
+          <language color="356AA0" percentage="42" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="29" id="4">
+CSS          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>63857</id>
+      <name>pysqueezecenter</name>
+      <url>http://www.ohloh.net/p/pysqueezecenter.xml</url>
+      <html_url>http://www.ohloh.net/p/pysqueezecenter</html_url>
+      <created_at>2008-12-18T10:27:03Z</created_at>
+      <updated_at>2013-06-16T13:24:42Z</updated_at>
+      <description>Python Wrapper Library for Logitech SqueezeCenter CLI (Telnet) Interface 
+
+UpdatesEasy InstallationNow available on PyPI and can be installed using easy_install. The package for Debian/Ubuntu is python-setuptools. Use your package manager to install this. 
+
+Now, type the following. You may need to prefix this with sudo if you want a system wide (not a virtualenv) installation. 
+
+
+
+easy_install pysqueezecenter 
+
+Command Line ScriptIf installed through &quot;easy_install&quot; or via the setup script, there is a new command called &quot;pysqueezecenter&quot; that can be used in scripts to control your devices. 
+
+
+
+pysqueezecenter --host 192.168.1.10 --device 00:00:00:00:00:00 play 
+
+For more current help: 
+
+
+
+pysqueezecenter --help 
+
+DocumentationClass documentation, and soon to be usage instructions are now available. View Documentation 
+
+FeaturesThe following functions are supported: 
+
+Retrieval of all configured players Retrieval of all properties of configured players Retrieval of Volume, Mode, Play Status, Power Status, IR Status, Volume, Bass, Treble, Pitch etc. Playlist Control (Play, Add, Insert, Delete, Move etc.) Player Control (Play, Stop, Pause, Volume, Muting, Power, IR Remote, Volume, Bass, Treble, Pitch etc.) View Documentation 
+
+Example: 
+
+#!/usr/bin/env python
+
+from pysqueezecenter.server import Server
+from pysqueezecenter.player import Player
+
+sc = Server(hostname=&quot;192.168.1.1&quot;, port=9090, username=&quot;user&quot;, password=&quot;password&quot;)
+sc.connect()
+
+print &quot;Logged in: %s&quot; % sc.logged_in
+print &quot;Version: %s&quot; % sc.get_version()
+
+sq = sc.get_player(&quot;00:11:22:33:44:55&quot;)
+
+print &quot;Name: %s | Mode: %s | Time: %s | Connected: %s | WiFi: %s&quot; % (sq.get_name(), sq.get_mode(), sq.get_time_elapsed(), sq.is_connected, sq.get_wifi_signal_strength())
+
+print sq.get_track_title()
+print sq.get_time_remaining()</description>
+      <homepage_url>http://code.google.com/p/pysqueezecenter</homepage_url>
+      <download_url></download_url>
+      <url_name>pysqueezecenter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14280274</analysis_id>
+      <tags>
+        <tag>logitech</tag>
+        <tag>library</tag>
+        <tag>python</tag>
+        <tag>slimserver</tag>
+        <tag>telnet</tag>
+        <tag>squeezecenter</tag>
+        <tag>api</tag>
+        <tag>squeezebox</tag>
+        <tag>wrapper</tag>
+      </tags>
+      <analysis>
+        <id>14280274</id>
+        <url>http://www.ohloh.net/analyses/14280274.xml</url>
+        <project_id>63857</project_id>
+        <updated_at>2013-07-11T23:15:29Z</updated_at>
+        <logged_at>2013-07-11T23:15:08Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3773</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pysqueezecenter/analyses/14280274/languages.png">
+          <language color="47A400" percentage="29" id="1">
+HTML          </language>
+          <language color="4A246B" percentage="30" id="9">
+Python          </language>
+          <language color="A4007E" percentage="22" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="19" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

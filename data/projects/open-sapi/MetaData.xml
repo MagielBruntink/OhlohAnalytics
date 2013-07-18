@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>67109</id>
+      <name>open-sapi</name>
+      <url>http://www.ohloh.net/p/open-sapi.xml</url>
+      <html_url>http://www.ohloh.net/p/open-sapi</html_url>
+      <created_at>2008-12-19T01:29:18Z</created_at>
+      <updated_at>2013-06-15T21:10:24Z</updated_at>
+      <description>This project aims to create a tool that allows any OS that will run WINE to harness the features provided by the Microsoft SAPI text to speech (TTS) system. 
+
+This project uses a client server architecture to allow for single server multiple clients . This can be setup in any number of configurations and combinations to provide high quality speech to users. The features of the speech system are accessible through a command line interface.
+
+This project aims to bring a wider variety of speech engines and more languages than are currently available in Linux to date.
+
+A side project has been started to help improve the Rockbox utility speech generation by allowing the use of SAPI speech engines in Windows, Mac OS and Linux extending the features that are currently available.</description>
+      <homepage_url>http://code.google.com/p/open-sapi</homepage_url>
+      <download_url></download_url>
+      <url_name>open-sapi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14272558</analysis_id>
+      <tags>
+        <tag>screen-reader</tag>
+        <tag>rockbox</tag>
+        <tag>speechd</tag>
+        <tag>tts</tag>
+        <tag>rockbox-utility</tag>
+        <tag>orca</tag>
+        <tag>sapi</tag>
+        <tag>wine</tag>
+        <tag>linux</tag>
+        <tag>assistive-technology</tag>
+      </tags>
+      <analysis>
+        <id>14272558</id>
+        <url>http://www.ohloh.net/analyses/14272558.xml</url>
+        <project_id>67109</project_id>
+        <updated_at>2013-07-15T07:47:50Z</updated_at>
+        <logged_at>2013-07-15T07:47:46Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>99461</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/open-sapi/analyses/14272558/languages.png">
+          <language color="D290A8" percentage="96" id="25">
+Tcl          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>25</main_language_id>
+        <main_language_name>Tcl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

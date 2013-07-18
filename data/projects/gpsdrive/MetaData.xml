@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11392</id>
+      <name>GpsDrive</name>
+      <url>http://www.ohloh.net/p/gpsdrive.xml</url>
+      <html_url>http://www.ohloh.net/p/gpsdrive</html_url>
+      <created_at>2008-01-31T10:13:07Z</created_at>
+      <updated_at>2013-07-15T23:30:51Z</updated_at>
+      <description>GpsDrive is a car (bike, ship, plane) navigation system. GpsDrive displays your position provided from your GPS receiver on a zoomable map. The maps are autoselected for best resolution depending of your position and can be downloaded from the Internet. Speech output is supported if the &quot;festival&quot; software is running. All GPS receivers supported by gpsd should be usable.
+GpsDrive is written in C with use of the GTK+ toolkit under the GPL license, and runs with Linux and FreeBSD.</description>
+      <homepage_url>http://www.gpsdrive.de/</homepage_url>
+      <download_url>http://www.gpsdrive.de/download.shtml</download_url>
+      <url_name>gpsdrive</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14644434</analysis_id>
+      <tags>
+        <tag>geography</tag>
+        <tag>map</tag>
+        <tag>gps</tag>
+        <tag>gpx</tag>
+      </tags>
+      <analysis>
+        <id>14644434</id>
+        <url>http://www.ohloh.net/analyses/14644434.xml</url>
+        <project_id>11392</project_id>
+        <updated_at>2013-07-15T23:30:51Z</updated_at>
+        <logged_at>2013-07-15T23:30:11Z</logged_at>
+        <min_month>1994-06-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>49329</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gpsdrive/analyses/14644434/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="000000" percentage="18" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

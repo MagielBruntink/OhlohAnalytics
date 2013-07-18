@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>490852</id>
+      <name>Hawk</name>
+      <url>http://www.ohloh.net/p/hawk.xml</url>
+      <html_url>http://www.ohloh.net/p/hawk</html_url>
+      <created_at>2011-04-19T02:12:26Z</created_at>
+      <updated_at>2013-07-18T04:34:41Z</updated_at>
+      <description>A web-based GUI for managing and monitoring the Pacemaker High-Availability cluster resource manager</description>
+      <homepage_url>http://www.clusterlabs.org/wiki/Hawk</homepage_url>
+      <download_url></download_url>
+      <url_name>hawk</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43039/hawk-trans-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43039/hawk-trans-64x64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14671261</analysis_id>
+      <analysis>
+        <id>14671261</id>
+        <url>http://www.ohloh.net/analyses/14671261.xml</url>
+        <project_id>490852</project_id>
+        <updated_at>2013-07-18T04:34:40Z</updated_at>
+        <logged_at>2013-07-18T04:30:48Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>14212</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hawk/analyses/14671261/languages.png">
+          <language color="A40011" percentage="43" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="34" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="13" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>386867</id>
+      <name>jshashtable</name>
+      <url>http://www.ohloh.net/p/jshashtable.xml</url>
+      <html_url>http://www.ohloh.net/p/jshashtable</html_url>
+      <created_at>2009-08-18T02:18:29Z</created_at>
+      <updated_at>2013-07-15T22:04:53Z</updated_at>
+      <description>A standalone implementation of hash table in JavaScript. It associates keys with values, and allows any object to be used as the key (unlike JavaScript's built-in Object, which only allows strings as property names). 
+
+jshashtable requires no libraries and is designed to work in all ECMAScript 3 compliant environments, including all major browsers. In particular, it has been tested and works in: 
+
+Firefox (all versions, back to Phoenix 0.1) Internet Explorer 5+ Safari 3+ (untested in previous versions) Google Chrome (all versions) Opera 7+ See the jshashtable website for full documentation. 
+
+HashSet implementation addedA new HashSet download is now available from today (28 March 2010). Full documentation will follow. 
+
+Version 2.1 releasedVersion 2.1 is released today (21st March 2010). It is a minor bugfix release that fixes  issue #1. 
+
+Version 2.0 releasedVersion 2.0 is released today (30th December 2009). It features big performance improvements (typically 200% speed increase for put and get operations) and adds a few new methods: clone(), putAll(), entries() and each(). Also, the compressed JS file is slightly smaller than in version 1.0 at just under 4K.</description>
+      <homepage_url>http://code.google.com/p/jshashtable/</homepage_url>
+      <download_url></download_url>
+      <url_name>jshashtable</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14643618</analysis_id>
+      <tags>
+        <tag>hashtable</tag>
+        <tag>hashmap</tag>
+        <tag>dictionary</tag>
+        <tag>javascript</tag>
+        <tag>hash</tag>
+        <tag>map</tag>
+      </tags>
+      <analysis>
+        <id>14643618</id>
+        <url>http://www.ohloh.net/analyses/14643618.xml</url>
+        <project_id>386867</project_id>
+        <updated_at>2013-07-15T22:04:52Z</updated_at>
+        <logged_at>2013-07-15T22:04:21Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>17059</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jshashtable/analyses/14643618/languages.png">
+          <language color="A4007E" percentage="92" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584489</id>
+      <name>Deep Space Window Manager</name>
+      <url>http://www.ohloh.net/p/DSWM.xml</url>
+      <html_url>http://www.ohloh.net/p/DSWM</html_url>
+      <created_at>2011-06-11T20:06:43Z</created_at>
+      <updated_at>2013-07-14T14:00:55Z</updated_at>
+      <description>DSWM (Deep Space Window Manager) is a tiling keyboard-driven X11 window manager. It is based on StumpWM code and is written entirely in Common Lisp and oriented for good usability with minimum startup configuration and good integration with Emacs. The project is under hard development, so it has many experimental features.</description>
+      <homepage_url>http://dss-project.org</homepage_url>
+      <download_url>http://sourceforge.net/projects/dswm/</download_url>
+      <url_name>DSWM</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/58571/dss_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/58571/dss_logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14626006</analysis_id>
+      <tags>
+        <tag>x11</tag>
+        <tag>xwindow</tag>
+        <tag>wm</tag>
+        <tag>tiling</tag>
+        <tag>keyboard</tag>
+        <tag>ratpoison</tag>
+        <tag>window_managers</tag>
+        <tag>windowmanager</tag>
+        <tag>tiling_window_manager</tag>
+        <tag>lisp</tag>
+        <tag>x-window</tag>
+        <tag>window_manager</tag>
+        <tag>repl</tag>
+        <tag>x</tag>
+        <tag>dswm</tag>
+        <tag>deep_spac_window_manager</tag>
+      </tags>
+      <analysis>
+        <id>14626006</id>
+        <url>http://www.ohloh.net/analyses/14626006.xml</url>
+        <project_id>584489</project_id>
+        <updated_at>2013-07-14T14:00:55Z</updated_at>
+        <logged_at>2013-07-14T14:00:28Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>15130</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/DSWM/analyses/14626006/languages.png">
+          <language color="93D290" percentage="97" id="22">
+Lisp          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>22</main_language_id>
+        <main_language_name>Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

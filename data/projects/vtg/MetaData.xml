@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>24997</id>
+      <name>vtg</name>
+      <url>http://www.ohloh.net/p/vtg.xml</url>
+      <html_url>http://www.ohloh.net/p/vtg</html_url>
+      <created_at>2008-10-07T16:57:35Z</created_at>
+      <updated_at>2013-07-11T07:44:55Z</updated_at>
+      <description>Vala Toys for gEdit 
+
+Vala Toys for gEdit is an experimental collection of plugins that extends the gEdit editor to make it a better programmer editor for the Vala language. 
+
+Vtg tries to make less comprimises as possible so, for now, its scope is narrowed only to support Vala. 
+
+It is written in Vala and it is currently composed of just one plugin with four modules: 
+
+Bracket completion module Symbol completion module Project Manager Project builder / executer Source code outliner See DOCUMENTATION, COMPILE, TODO and HACKING pages on the right.</description>
+      <homepage_url>http://code.google.com/p/vtg</homepage_url>
+      <download_url>http://code.google.com/p/vtg/downloads/list</download_url>
+      <url_name>vtg</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14586020</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>completion</tag>
+        <tag>code</tag>
+        <tag>vala</tag>
+        <tag>ide</tag>
+        <tag>project</tag>
+        <tag>gedit</tag>
+        <tag>programming</tag>
+      </tags>
+      <analysis>
+        <id>14586020</id>
+        <url>http://www.ohloh.net/analyses/14586020.xml</url>
+        <project_id>24997</project_id>
+        <updated_at>2013-07-11T07:44:55Z</updated_at>
+        <logged_at>2013-07-11T07:44:24Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>49217</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vtg/analyses/14586020/languages.png">
+          <language color="729FCF" percentage="35" id="34">
+Vala          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="777777" percentage="24" id="11">
+shell script          </language>
+          <language color="000000" percentage="17" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

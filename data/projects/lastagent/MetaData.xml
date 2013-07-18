@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26935</id>
+      <name>Last Agent</name>
+      <url>http://www.ohloh.net/p/lastagent.xml</url>
+      <html_url>http://www.ohloh.net/p/lastagent</html_url>
+      <created_at>2008-11-23T22:27:53Z</created_at>
+      <updated_at>2013-06-15T20:38:44Z</updated_at>
+      <description>A Last.fm music tracker (not a scrobbler) for Linux that provides some of the missing functionality of the official client on local music. It allows you to love, tag or share the currently playing track, or add it to a Last.fm playlist, and more... All through a nice, neat and clean interface.</description>
+      <homepage_url>http://code.google.com/p/lastagent</homepage_url>
+      <download_url></download_url>
+      <url_name>lastagent</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10951/app_blue_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10951/app_blue_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14272265</analysis_id>
+      <tags>
+        <tag>amarok</tag>
+        <tag>linux</tag>
+        <tag>pylast</tag>
+        <tag>banshee</tag>
+        <tag>lastfm</tag>
+        <tag>music</tag>
+        <tag>gtk</tag>
+        <tag>audacious</tag>
+        <tag>python</tag>
+        <tag>gnome</tag>
+        <tag>rhythmbox</tag>
+      </tags>
+      <analysis>
+        <id>14272265</id>
+        <url>http://www.ohloh.net/analyses/14272265.xml</url>
+        <project_id>26935</project_id>
+        <updated_at>2013-07-12T20:33:42Z</updated_at>
+        <logged_at>2013-07-12T20:33:40Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2009-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2082</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lastagent/analyses/14272265/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

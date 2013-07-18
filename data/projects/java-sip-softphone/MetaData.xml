@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>421434</id>
+      <name>Java SIP softphone</name>
+      <url>http://www.ohloh.net/p/java-sip-softphone.xml</url>
+      <html_url>http://www.ohloh.net/p/java-sip-softphone</html_url>
+      <created_at>2009-09-01T12:16:52Z</created_at>
+      <updated_at>2013-07-12T23:19:24Z</updated_at>
+      <description>Peers (aka SIP related experiments) is a java sip softphone.
+
+It's open source and gives the ability to register a sip account, place and receive calls on a standard computer. It requires sun java runtime environment version 6 (or later) or openjdk. Its graphical interface has been developed using swing. It has no external dependency and its implementation is quite straight-forward. For sound management, javasound has been used. No native library has been used or developed in Peers. Peers is pure java only, thus Peers is cross-platform.
+
+Try it now! http://peers.sourceforge.net/</description>
+      <homepage_url>http://peers.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=193276</download_url>
+      <url_name>java-sip-softphone</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14610403</analysis_id>
+      <tags>
+        <tag>sdp</tag>
+        <tag>softphone</tag>
+        <tag>sip</tag>
+        <tag>phone</tag>
+        <tag>voip_client</tag>
+        <tag>java</tag>
+        <tag>rtp</tag>
+        <tag>sipphone</tag>
+        <tag>client</tag>
+        <tag>voip</tag>
+      </tags>
+      <analysis>
+        <id>14610403</id>
+        <url>http://www.ohloh.net/analyses/14610403.xml</url>
+        <project_id>421434</project_id>
+        <updated_at>2013-07-12T23:19:24Z</updated_at>
+        <logged_at>2013-07-12T23:19:08Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>32669</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/java-sip-softphone/analyses/14610403/languages.png">
+          <language color="556677" percentage="44" id="35">
+XML Schema          </language>
+          <language color="9A63AD" percentage="47" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

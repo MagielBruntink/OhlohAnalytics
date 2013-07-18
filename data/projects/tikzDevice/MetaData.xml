@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>439888</id>
+      <name>tikzDevice</name>
+      <url>http://www.ohloh.net/p/tikzDevice.xml</url>
+      <html_url>http://www.ohloh.net/p/tikzDevice</html_url>
+      <created_at>2009-09-13T21:06:06Z</created_at>
+      <updated_at>2013-06-25T19:51:16Z</updated_at>
+      <description>The TikZ device enables LaTeX-ready output from R graphics functions. This is done by producing code that can be understood by the TikZ graphics language. All text in a graphic output with the tikz() function will can be typeset by LaTeX and therefore will match whatever fonts are currently used in the document. This also means that LaTeX mathematics can be typeset directly into labels and annotations! Graphics produced this way can also be annotated with custom TikZ commands.</description>
+      <homepage_url>http://github.com/Sharpie/RTikZDevice</homepage_url>
+      <download_url>http://cran.r-project.org/package=tikzDevice</download_url>
+      <url_name>tikzDevice</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408221</analysis_id>
+      <tags>
+        <tag>r</tag>
+        <tag>pgf</tag>
+        <tag>latex</tag>
+        <tag>tikz</tag>
+        <tag>graphics</tag>
+      </tags>
+      <analysis>
+        <id>14408221</id>
+        <url>http://www.ohloh.net/analyses/14408221.xml</url>
+        <project_id>439888</project_id>
+        <updated_at>2013-07-13T19:42:15Z</updated_at>
+        <logged_at>2013-07-13T19:39:16Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6404</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tikzDevice/analyses/14408221/languages.png">
+          <language color="198CE7" percentage="50" id="65">
+R          </language>
+          <language color="FF8F00" percentage="36" id="42">
+C          </language>
+          <language color="000080" percentage="11" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>65</main_language_id>
+        <main_language_name>R</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

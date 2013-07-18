@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>342952</id>
+      <name>Wanderlust - Mail client for Emacsen</name>
+      <url>http://www.ohloh.net/p/wanderlust.xml</url>
+      <html_url>http://www.ohloh.net/p/wanderlust</html_url>
+      <created_at>2009-05-26T17:50:36Z</created_at>
+      <updated_at>2013-07-16T23:35:55Z</updated_at>
+      <description>For those who read emails on multiple client machines such as desktop computer at home, a workstation at office, and a notebook computer while traveling, it is hard to share emails once they download emails to the client machine. For example, if you download emails to your desktop computer at home, you cannot read those emails on a workstation at office.
+
+IMAP (Internet Message Access Protocol) provides a smart solution for this problem. It permits a client email program to access to emails on the shared mail server.
+
+The goal of Wanderlust, a mail and news client program on Emacsen, is to manage messages effectively by use of the IMAP.</description>
+      <homepage_url>http://www.gohome.org/wl/</homepage_url>
+      <download_url>http://www.gohome.org/wl/#GET</download_url>
+      <url_name>wanderlust</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19242/wllogo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19242/wllogo_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14654074</analysis_id>
+      <analysis>
+        <id>14654074</id>
+        <url>http://www.ohloh.net/analyses/14654074.xml</url>
+        <project_id>342952</project_id>
+        <updated_at>2013-07-16T23:35:55Z</updated_at>
+        <logged_at>2013-07-16T23:35:27Z</logged_at>
+        <min_month>2000-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>57481</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wanderlust/analyses/14654074/languages.png">
+          <language color="2B6B24" percentage="85" id="10">
+Emacs Lisp          </language>
+          <language color="000080" percentage="15" id="37">
+TeX/LaTeX          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

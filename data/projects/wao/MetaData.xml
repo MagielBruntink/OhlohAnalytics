@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485573</id>
+      <name>WAO</name>
+      <url>http://www.ohloh.net/p/wao.xml</url>
+      <html_url>http://www.ohloh.net/p/wao</html_url>
+      <created_at>2010-09-25T11:56:54Z</created_at>
+      <updated_at>2013-06-14T10:44:06Z</updated_at>
+      <description>Application to manage missions of scientists on fishing boats. Statistics (graphical, maps) and planning can be created to organize those missions depending on contracts (sampling plan).</description>
+      <homepage_url>http://labs.libre-entreprise.org/scm/?group_id=154</homepage_url>
+      <download_url>http://labs.libre-entreprise.org/frs/?group_id=154</download_url>
+      <url_name>wao</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14259160</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>webapp</tag>
+        <tag>web</tag>
+        <tag>webapplication</tag>
+        <tag>fishing</tag>
+        <tag>fish</tag>
+        <tag>scientific</tag>
+      </tags>
+      <analysis>
+        <id>14259160</id>
+        <url>http://www.ohloh.net/analyses/14259160.xml</url>
+        <project_id>485573</project_id>
+        <updated_at>2013-07-13T23:14:14Z</updated_at>
+        <logged_at>2013-07-13T23:14:12Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>33538</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wao/analyses/14259160/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

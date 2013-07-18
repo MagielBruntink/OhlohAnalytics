@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483624</id>
+      <name>Vineyard</name>
+      <url>http://www.ohloh.net/p/vineyard.xml</url>
+      <html_url>http://www.ohloh.net/p/vineyard</html_url>
+      <created_at>2010-06-16T22:24:58Z</created_at>
+      <updated_at>2013-07-14T03:24:45Z</updated_at>
+      <description>Vineyard is a collection of tools and libraries designed to make managing Windows programs on Linux easier. More specifically, it aims to improve the integration of Wine and the Free Desktop and to make it easier to create programs and tools that integrate with Wine.</description>
+      <homepage_url>http://vineyardproject.org</homepage_url>
+      <download_url>http://vineyardproject.org/download/</download_url>
+      <url_name>vineyard</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37254/vineyard-icon-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37254/vineyard-icon-64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14622361</analysis_id>
+      <tags>
+        <tag>wine</tag>
+        <tag>linux</tag>
+        <tag>ubuntu</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14622361</id>
+        <url>http://www.ohloh.net/analyses/14622361.xml</url>
+        <project_id>483624</project_id>
+        <updated_at>2013-07-14T03:24:44Z</updated_at>
+        <logged_at>2013-07-13T19:45:07Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>19827</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vineyard/analyses/14622361/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

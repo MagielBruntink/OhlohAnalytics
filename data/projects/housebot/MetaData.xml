@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10311</id>
+      <name>housebot</name>
+      <url>http://www.ohloh.net/p/housebot.xml</url>
+      <html_url>http://www.ohloh.net/p/housebot</html_url>
+      <created_at>2007-12-15T18:54:02Z</created_at>
+      <updated_at>2013-07-17T19:50:04Z</updated_at>
+      <description>This is a program for playing the game of go. No go program to date has achieved a level of mastery comparable to chess programs. The design goal is to develop as strong of an AI as possible using D, agile development, an object oriented design, and generic programming.</description>
+      <homepage_url>http://housebot.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=149506</download_url>
+      <url_name>housebot</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9465/housebot-logo-small1_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9465/housebot-logo-small1_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14587911</analysis_id>
+      <tags>
+        <tag>board-game</tag>
+        <tag>weiqi</tag>
+        <tag>igo</tag>
+        <tag>gameplaying</tag>
+        <tag>go</tag>
+        <tag>gtp</tag>
+        <tag>gtp-engine</tag>
+        <tag>d</tag>
+        <tag>game</tag>
+        <tag>ai</tag>
+        <tag>board-games</tag>
+        <tag>game-playing</tag>
+        <tag>baduk</tag>
+        <tag>games</tag>
+      </tags>
+      <analysis>
+        <id>14587911</id>
+        <url>http://www.ohloh.net/analyses/14587911.xml</url>
+        <project_id>10311</project_id>
+        <updated_at>2013-07-11T10:01:21Z</updated_at>
+        <logged_at>2013-07-11T10:01:01Z</logged_at>
+        <min_month>2005-09-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>19475</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/housebot/analyses/14587911/languages.png">
+          <language color="EC2E24" percentage="36" id="32">
+D          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="F35F1F" percentage="22" id="44">
+C++          </language>
+          <language color="000000" percentage="10" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

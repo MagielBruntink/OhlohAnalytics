@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>593860</id>
+      <name>JGraLab-DHHT</name>
+      <url>http://www.ohloh.net/p/dhhtgralab.xml</url>
+      <html_url>http://www.ohloh.net/p/dhhtgralab</html_url>
+      <created_at>2012-03-08T07:39:23Z</created_at>
+      <updated_at>2013-07-14T21:05:58Z</updated_at>
+      <description>The Java Graph Laboratory (JGraLab) DHHT Variant is a Java class library developed at the Institute for Software Technology at the University Koblenz-Landau, Germany.
+
+JGraLab-DHHT provides a highly efficient API for processing DHHTGraphs. DHHT is short for Distributed Hierarchical Hyper-TGraph, where a TGraph itself is a  Typed Attributed and Ordered Directed Graph.  
+
+JGraLab-DHHT can create java source code based on graph schemas defined in files according to the TG Format (also called TG files). These classes can be used in own applications to use DHHTTGraphs as data structure and allow a seamless integration of graphs and object-oriented software.
+
+JGraLab-DHHT can create and manipulate large (Mil. of Elementes) DHHTTGraphs at runtime.
+
+See the homepage for a full features list.</description>
+      <homepage_url>https://github.com/jgralab/jgralab-dhht</homepage_url>
+      <download_url>https://github.com/jgralab/jgralab-dhht/downloads</download_url>
+      <url_name>dhhtgralab</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14630962</analysis_id>
+      <tags>
+        <tag>tgraph</tag>
+        <tag>hierarchical</tag>
+        <tag>graph</tag>
+        <tag>academic</tag>
+        <tag>java</tag>
+        <tag>hypergraph</tag>
+        <tag>distributed</tag>
+        <tag>dhhtgraph</tag>
+      </tags>
+      <analysis>
+        <id>14630962</id>
+        <url>http://www.ohloh.net/analyses/14630962.xml</url>
+        <project_id>593860</project_id>
+        <updated_at>2013-07-14T21:05:58Z</updated_at>
+        <logged_at>2013-07-14T21:01:45Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>169251</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dhhtgralab/analyses/14630962/languages.png">
+          <language color="9A63AD" percentage="97" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

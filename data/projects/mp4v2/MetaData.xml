@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>48544</id>
+      <name>mp4v2</name>
+      <url>http://www.ohloh.net/p/mp4v2.xml</url>
+      <html_url>http://www.ohloh.net/p/mp4v2</html_url>
+      <created_at>2008-12-16T07:48:42Z</created_at>
+      <updated_at>2013-07-17T22:20:12Z</updated_at>
+      <description>The MP4V2 library provides an API to create and modify mp4 files as defined by ISO-IEC:14496-1:2001 MPEG-4 Systems. This file format is derived from Apple's QuickTime file format that has been used as a multimedia file format in a variety of platforms and applications. It is a very powerful and extensible format that can accomodate practically any type of media. 
+
+mp4v2 used to be part of the mpeg4ip library (http://mpeg4ip.sourceforge.net/), but has been moved into its own maintained library due to a combination of the cessation of support of mpeg4ip and the usefulness of this library on its own.</description>
+      <homepage_url>http://code.google.com/p/mp4v2</homepage_url>
+      <download_url></download_url>
+      <url_name>mp4v2</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14668474</analysis_id>
+      <tags>
+        <tag>mp4</tag>
+        <tag>c++</tag>
+        <tag>cross-platform</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>14668474</id>
+        <url>http://www.ohloh.net/analyses/14668474.xml</url>
+        <project_id>48544</project_id>
+        <updated_at>2013-07-17T22:20:12Z</updated_at>
+        <logged_at>2013-07-17T22:19:58Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>47685</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mp4v2/analyses/14668474/languages.png">
+          <language color="F35F1F" percentage="73" id="44">
+C++          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="7" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1</name>
+          <nice_name>Mozilla Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

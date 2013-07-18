@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50403</id>
+      <name>testability-explorer</name>
+      <url>http://www.ohloh.net/p/testability-explorer.xml</url>
+      <html_url>http://www.ohloh.net/p/testability-explorer</html_url>
+      <created_at>2008-12-16T12:35:33Z</created_at>
+      <updated_at>2013-07-11T18:06:28Z</updated_at>
+      <description>Quick LinksGetting Started | How Testability is determined | How to Contribute | Scores for Open-Source projects 
+
+Sample ReportsSource-annotated Report 
+
+Testability-explorer is a tool which analyzes Java bytecode and computes how difficult it will be to write unit tests for the code. It attempts to help you quantitatively determine how hard your code is to test, and where to focus to make it more testable. 
+
+Testability Explorer can be used: 
+
+As a learning tool which flags causes of hard to test code with detailed breakdown of reasons. To identify hard to test hair-balls in legacy code. As part of your code analysis-toolset. As a tool which can be added into continuous integration that can enforce testable code. 
+
+Currently the tool computes: 
+
+Non-Mockable Total Recursive Cyclomatic Complexity. Cyclomatic Complexity is a measure of how many different paths of execution are there in the code. It is computed, by counting the if, while, and case as branching primitives. It is recursive because cost of the method as well as any methods it calls are counted. It is total because cost of object construction as well as any static initializations are counted. And finally, it is non-mockable because any code which can be mocked out in test is not counted as part of the cost. This means that the score is based on the amount of complex code that cannot be mocked out in a unit test. Global Mutable State. Counts the number of fields which are globally reachable by the class under test and which are mutable. Mutable global state makes testing difficult as tests are not isolatable, the global state needs to be set up and cleared between tests. Law of Demeter. This is the principle that calling methods on objects you get from other collaborators is trouble, instead, the collaborator should call that method itself. It makes testing harder because your mocks must expose some internal state through these methods. 
+
+Check out the Readme, or post a message to the mailing list. 
+
+For a demo of testability-explorer in action see http://testabilityexplorer.org/report</description>
+      <homepage_url>http://code.google.com/p/testability-explorer</homepage_url>
+      <download_url></download_url>
+      <url_name>testability-explorer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14592342</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>google</tag>
+        <tag>asm</tag>
+        <tag>analysis</tag>
+        <tag>bytecode</tag>
+      </tags>
+      <analysis>
+        <id>14592342</id>
+        <url>http://www.ohloh.net/analyses/14592342.xml</url>
+        <project_id>50403</project_id>
+        <updated_at>2013-07-11T18:06:28Z</updated_at>
+        <logged_at>2013-07-11T18:06:14Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>23178</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/testability-explorer/analyses/14592342/languages.png">
+          <language color="9A63AD" percentage="87" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

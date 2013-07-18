@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14269</id>
+      <name>pfstools</name>
+      <url>http://www.ohloh.net/p/pfstools.xml</url>
+      <html_url>http://www.ohloh.net/p/pfstools</html_url>
+      <created_at>2008-05-23T19:18:25Z</created_at>
+      <updated_at>2013-07-17T07:40:22Z</updated_at>
+      <description>pfstools is a set of command line (and two GUI) programs for reading, writing, manipulating and viewing high-dynamic range (HDR) images and video frames. All programs in this package exchange data using a simple generic file format (pfs) for HDR data. It is an attempt to integrate existing file formats by providing a simple data format that can be used to exchange data between applications.</description>
+      <homepage_url>http://www.mpi-inf.mpg.de/resources/pfstools/</homepage_url>
+      <download_url>http://www.mpi-inf.mpg.de/resources/pfstools/#download</download_url>
+      <url_name>pfstools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14659682</analysis_id>
+      <tags>
+        <tag>hdr</tag>
+        <tag>command-line-interface</tag>
+        <tag>command-line</tag>
+        <tag>workflow</tag>
+      </tags>
+      <analysis>
+        <id>14659682</id>
+        <url>http://www.ohloh.net/analyses/14659682.xml</url>
+        <project_id>14269</project_id>
+        <updated_at>2013-07-17T07:40:21Z</updated_at>
+        <logged_at>2013-07-17T07:37:57Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>21633</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pfstools/analyses/14659682/languages.png">
+          <language color="F35F1F" percentage="70" id="44">
+C++          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="16" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

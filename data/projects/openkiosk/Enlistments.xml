@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>19383</id>
+      <project_id>5554</project_id>
+      <repository_id>18763</repository_id>
+      <repository>
+        <id>18763</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@openkiosk.cvs.sourceforge.net:/cvsroot/openkiosk</url>
+        <module_name>nodeview</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-15T03:34:12Z</logged_at>
+        <commits>13</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>11876</id>
+      <project_id>5554</project_id>
+      <repository_id>11583</repository_id>
+      <repository>
+        <id>11583</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@openkiosk.cvs.sourceforge.net:/cvsroot/openkiosk</url>
+        <module_name>opkdekiosk</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-15T03:33:06Z</logged_at>
+        <commits>3</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

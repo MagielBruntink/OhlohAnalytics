@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482744</id>
+      <name>alsa mixer applet</name>
+      <url>http://www.ohloh.net/p/ama.xml</url>
+      <html_url>http://www.ohloh.net/p/ama</html_url>
+      <created_at>2010-05-02T12:16:24Z</created_at>
+      <updated_at>2013-07-14T00:46:50Z</updated_at>
+      <description>ama is an alsa mixer applet with one volume control. It fits in your desktop's system tray and can control different cards and differents elements, choosen in the preferences menu. Additionaly, it can launch a full mixer application when needed.</description>
+      <homepage_url>http://herewe.servebeer.com/ama/</homepage_url>
+      <download_url>http://herewe.servebeer.com/ama/releases/</download_url>
+      <url_name>ama</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33122/volume-knob_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33122/volume-knob_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14620302</analysis_id>
+      <tags>
+        <tag>applet</tag>
+        <tag>c</tag>
+        <tag>control</tag>
+        <tag>linux</tag>
+        <tag>sound</tag>
+        <tag>alsa</tag>
+        <tag>gtk2</tag>
+        <tag>mixer</tag>
+        <tag>audio</tag>
+        <tag>volumecontrol</tag>
+        <tag>systray</tag>
+        <tag>gtk+</tag>
+        <tag>systemtray</tag>
+      </tags>
+      <analysis>
+        <id>14620302</id>
+        <url>http://www.ohloh.net/analyses/14620302.xml</url>
+        <project_id>482744</project_id>
+        <updated_at>2013-07-14T00:46:50Z</updated_at>
+        <logged_at>2013-07-13T20:55:24Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>843</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ama/analyses/14620302/languages.png">
+          <language color="FF8F00" percentage="58" id="42">
+C          </language>
+          <language color="555555" percentage="18" id="3">
+XML          </language>
+          <language color="777777" percentage="15" id="11">
+shell script          </language>
+          <language color="000000" percentage="9" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

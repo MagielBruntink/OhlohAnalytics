@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>244046</id>
+      <project_id>40221</project_id>
+      <repository_id>241647</repository_id>
+      <repository>
+        <id>241647</id>
+        <type>BzrRepository</type>
+        <url>https://code.launchpad.net/xpad/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-13T16:03:56Z</logged_at>
+        <commits>643</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>142386</id>
+      <project_id>40221</project_id>
+      <repository_id>140454</repository_id>
+      <repository>
+        <id>140454</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@xpad.cvs.sourceforge.net:/cvsroot/xpad</url>
+        <module_name>xpad/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-13T16:03:03Z</logged_at>
+        <commits>594</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

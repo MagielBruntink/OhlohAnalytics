@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>323974</id>
+      <project_id>573713</project_id>
+      <repository_id>321393</repository_id>
+      <repository>
+        <id>321393</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Glimpse/Glimpse.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T19:30:52Z</logged_at>
+        <commits>2025</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>531057</id>
+      <project_id>573713</project_id>
+      <repository_id>533528</repository_id>
+      <repository>
+        <id>533528</id>
+        <type>GitRepository</type>
+        <url>git://github.com/Glimpse/Glimpse.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T19:24:28Z</logged_at>
+        <commits>1748</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

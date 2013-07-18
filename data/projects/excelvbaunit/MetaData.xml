@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>64629</id>
+      <name>excelvbaunit</name>
+      <url>http://www.ohloh.net/p/excelvbaunit.xml</url>
+      <html_url>http://www.ohloh.net/p/excelvbaunit</html_url>
+      <created_at>2008-12-18T13:09:00Z</created_at>
+      <updated_at>2013-06-22T22:13:09Z</updated_at>
+      <description>A unit test framework similar to nunit and junit for but Excel VBA code. It is similar to the existing VbaUnit project in source forge but
+1. Does not self-modifying code so is easier to write test to test itself.
+2. The code lives in an Excel addin so you do not need to copy the code into each project to be tested (obviously this makes it Excel specific)
+3. The original source forge VbaUnit requires you to call a Prep function prior to running your tests and remembering to call Prep when you add/remove testing functions. There is no need to do this with this framework - just call xRun to execute your tests.
+
+You can direct any queries etc. to me at matt AT helliwell DOT me DOT uk
+
+NEWS
+22 Dec 2006
+Larger example now completed
+
+20 Dec 2006
+Started writing some example spreadsheets in lieu of documentation. Simple example is complete, larger example is still in development.
+
+9 Dec 2006
+Added prototype gui interface so the tests can be run from a gui rather than the immediate window in the VBA editor.
+
+8 Dec 2006
+Added support for fixture level setup/teardown functions
+The xRun routine now allows you to run individual test fixtures rather than all tests.
+
+7 Dec 2006
+Added support for SetUp/TearDown functions in test cases
+This software is now licensed to (and being used by) Barclays Capital
+
+10th Sept 2006 - Just about got everything under test. Not as pretty as it might be but at least now I'm safe to start changing it.
+
+1st Sept 2006 - Project is pre-alpha. I've written enough code to be able to start self-tests</description>
+      <homepage_url>http://code.google.com/p/excelvbaunit</homepage_url>
+      <download_url></download_url>
+      <url_name>excelvbaunit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14347605</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>excel</tag>
+        <tag>vba</tag>
+        <tag>vbaunit</tag>
+        <tag>xunit</tag>
+      </tags>
+      <analysis>
+        <id>14347605</id>
+        <url>http://www.ohloh.net/analyses/14347605.xml</url>
+        <project_id>64629</project_id>
+        <updated_at>2013-07-18T05:46:57Z</updated_at>
+        <logged_at>2013-07-18T05:46:55Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3949</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/excelvbaunit/analyses/14347605/languages.png">
+          <language color="47A400" percentage="35" id="1">
+HTML          </language>
+          <language color="EEE" percentage="65" id="58">
+Structured Basic          </language>
+        </languages>
+        <main_language_id>58</main_language_id>
+        <main_language_name>Structured Basic</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

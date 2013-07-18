@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19953</id>
+      <name>google-ctemplate</name>
+      <url>http://www.ohloh.net/p/google-ctemplate.xml</url>
+      <html_url>http://www.ohloh.net/p/google-ctemplate</html_url>
+      <created_at>2008-10-07T12:47:29Z</created_at>
+      <updated_at>2013-07-13T03:49:43Z</updated_at>
+      <description>ctemplateCTemplate is a simple but powerful template language for C++. It emphasizes separating logic from presentation: it is impossible to embed application logic in this template language. 
+
+Here's an example of how to use it: not complete, but gives a good feel for what the ctemplate API looks like. 
+
+Here is a simple template file: 
+
+Hello {{NAME}},
+You have just won ${{VALUE}}!
+{{#IN_CA}}Well, ${{TAXED_VALUE}}, after taxes.{{/IN_CA}}Here is a C++ program to fill in the template, which we assume is stored in the file 'example.tpl': 
+
+#include 
+#include 
+#include   
+#include   
+int main(int argc, char** argv) {
+  google::TemplateDictionary dict(&quot;example&quot;);
+  dict.SetValue(&quot;NAME&quot;, &quot;John Smith&quot;);
+  int winnings = rand() % 100000;
+  dict.SetIntValue(&quot;VALUE&quot;, winnings);
+  dict.SetFormattedValue(&quot;TAXED_VALUE&quot;, &quot;%.2f&quot;, winnings * 0.83);
+  // For now, assume everyone lives in CA.
+  // (Try running the program with a 0 here instead!)
+  if (1) {
+    dict.ShowSection(&quot;IN_CA&quot;);
+  }
+  google::Template* tpl = google::Template::GetTemplate(&quot;example.tpl&quot;,
+                                                        google::DO_NOT_STRIP);
+  std::string output;
+  tpl-&gt;Expand(&amp;output, &amp;dict);
+  std::cout &lt;&lt; output;
+  return 0;
+}If you are interested in this templating language but are programming in Java, consider Hapax, which is similar to ctemplate. 
+
+Recent news: 
+
+12 June 2009I've just released ctemplate 0.95.  This is entirely an API cleanup release.  Actually, relatively little of the API proper has changed: StringToTemplate no longer takes an autoescape-context arg (instead you specify this as part of the template-string, using the AUTOESCAPE pragma).  A few obsolete constructs have gone away, such as the TemplateFromString class and TemplateDictionary::html_escape and friends (just use the top-level html_escape).  See the ChangeLog for a full list of these changes. 
+
+The biggest change is a renaming: the default namespace is now ctemplate rather than google, and the include directory is ctemplate rather than google.  Other namespaces, such as template_modifiers, have gone away. 
+
+All these changes will require you to modify your old code to get it working with ctemplate 0.95.  I've written a script to help you do that.  Please open an issue if you see a problem with the script.  I've tested it, but not as widely as I'd like.  Also note the script will not be perfect for more complex constructs, which you will have to clean up by hand. 
+
+I hope (expect) the API is now stable, and we won't see any more such changes before ctemplate 1.0.  I tried to isolate them all in this release; except for the API changes, this release should behave identically to ctemplate 0.94. 
+
+7 May 2009I've just released ctemplate 0.94.  A few new features have been added, such as the ability to expand a template into your own custom ExpandEmitter instance, and the ability to hook the annotation system (typically used for debugging).  You can now remove strings from the template cache in addition to adding them.  Also, there continues to be a trickle of new modifiers, in this case a modifier for URL's in a CSS context. 
+
+However, the most invasive changes were made for speed reasons.  The biggest is that (almost) all TemplateDictionary allocations are now done on the arena -- this includes allocations by the STL classes inside the dictionary.  This allows us to free all the memory at once, rather than item by item, and has yielded a 3-4% speed improvement in our tests.  I've combined this with a small_map class that stores items in a vector instead of a hash-map until we get to 3 or 4 items; this gives another speed increase in the (common) case a template has only a few sections or includes. 
+
+I also changed the hashing code to use MurmurHash everywhere, rather than the string hash function built into the STL library.  This should be faster. 
+
+All these changes should not be outwardly visible, but they do use more advanced features of C++ than ctemplate has to date.  This may result in some problems compiling, or conceivably when running.  If you see any, please file an issue report. 
+
+You can see a full list of changes on the ChangeLog. 
+
+20 August 2008ctemplate 0.91 introduces the beginning of some API changes, as I look to clean up the API in preparation for ctemplate 1.0.  After 1.0, the API will remain backwards compatible, but until that time, the API may change.  Please take a look at the ChangeLog to see if any of these changes affect you. 
+
+One change is the introduction of a new PerExpandData class, which holds some state that was formerly in the TemplateDictionary class.  I'm still not sure if this class is a good idea, if it should be separate from TemplateDictionary or a member, or what functionality should move there (for instance, should SetTemplateGlobal move there, since template-global variables are really, in some sense, per-expand variables?)  If you have any feedback, ideally based on your own experience using the current API, feel free to post it at google-ctemplate@googlegroups.com. 
+
+ctemplate also has several new features, including the addition of &quot;separator&quot; sections, and the ability to change the markup character (from {{).  See the ChangeLog for a complete list, and the howto documentation for more details on these new features.</description>
+      <homepage_url>http://code.google.com/p/google-ctemplate</homepage_url>
+      <download_url></download_url>
+      <url_name>google-ctemplate</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14614421</analysis_id>
+      <tags>
+        <tag>cplusplus</tag>
+        <tag>google</tag>
+        <tag>template</tag>
+        <tag>templating</tag>
+      </tags>
+      <analysis>
+        <id>14614421</id>
+        <url>http://www.ohloh.net/analyses/14614421.xml</url>
+        <project_id>19953</project_id>
+        <updated_at>2013-07-13T03:49:43Z</updated_at>
+        <logged_at>2013-07-13T03:49:29Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>67612</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/google-ctemplate/analyses/14614421/languages.png">
+          <language color="EEE" percentage="36" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="32" id="44">
+C++          </language>
+          <language color="777777" percentage="16" id="11">
+shell script          </language>
+          <language color="000000" percentage="16" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

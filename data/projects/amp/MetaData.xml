@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480516</id>
+      <name>Amp (VCS)</name>
+      <url>http://www.ohloh.net/p/amp.xml</url>
+      <html_url>http://www.ohloh.net/p/amp</html_url>
+      <created_at>2010-01-15T17:08:41Z</created_at>
+      <updated_at>2013-07-14T15:46:29Z</updated_at>
+      <description>Amp is unlike any other VCS software to date. Amp's novel command system gives you the flexibility to customize and personalize the way you develop software. Create in your own workspace with full Mercurial compatibility, and no external dependencies.
+
+Amp aims to change the way we approach VCS. 
+Amp is:
+
+Mercurial in Ruby. 100% compatible with hg.
+Uniquely customizable
+Superbly documented with YARD
+Free and Open-Source (GPLv2)
+Performance Focused
+Dependency-free (you just need Ruby!)
+
+Amp has bigger dreams. Here&#8217;s what we want to do:
+
+git, bazaar, svn, cvs, darcs In Ruby. 100% Compatible.
+Common API to all repository formats.
+Command system independent of repository format
+Workflows matching each major VCS system
+Run on Windows
+Demonstrate Ruby performance</description>
+      <homepage_url>http://amp.carboni.ca/</homepage_url>
+      <download_url>http://amp.carboni.ca/</download_url>
+      <url_name>amp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28952/Amp_-_Version_Control_Revolution_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28952/Amp_-_Version_Control_Revolution_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14627346</analysis_id>
+      <tags>
+        <tag>fast</tag>
+        <tag>scm</tag>
+        <tag>dscm</tag>
+        <tag>collaboration</tag>
+        <tag>customizableworkflow</tag>
+        <tag>version-control</tag>
+        <tag>hg</tag>
+        <tag>ruby</tag>
+        <tag>mercurial</tag>
+        <tag>version_control</tag>
+        <tag>source_control</tag>
+        <tag>dvcs</tag>
+      </tags>
+      <analysis>
+        <id>14627346</id>
+        <url>http://www.ohloh.net/analyses/14627346.xml</url>
+        <project_id>480516</project_id>
+        <updated_at>2013-07-14T15:46:29Z</updated_at>
+        <logged_at>2013-07-14T11:48:13Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>38221</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/amp/analyses/14627346/languages.png">
+          <language color="A40011" percentage="80" id="12">
+Ruby          </language>
+          <language color="FF1A00" percentage="12" id="4">
+CSS          </language>
+          <language color="FF8F00" percentage="5" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

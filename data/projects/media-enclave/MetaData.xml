@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310520</id>
+      <name>media-enclave</name>
+      <url>http://www.ohloh.net/p/media-enclave.xml</url>
+      <html_url>http://www.ohloh.net/p/media-enclave</html_url>
+      <created_at>2009-02-08T04:17:53Z</created_at>
+      <updated_at>2013-07-03T22:25:49Z</updated_at>
+      <description>Media-EnclaveMedia-enclave is a collection of Django web applications to manage media in a community environment.  Our two major sub-projects are: 
+
+Audio-enclave, which allows a community to upload their music to a communal &quot;jukebox&quot; where it can be made into shared playlists and played back. Video-enclave, which allows users to search their movie collections using metadata scraped from sites like IMDB, metacritic, and Rotten Tomatoes. Currently, audio-enclave is our only functional application, but we are beginning work on video-enclave. 
+
+Audio-EnclaveAudio-enclave is a web application that controls music player running in the background.  It allows users to upload songs, search for music, make playlists, and control playback.  We eventually intend to support separate channels of music which are piped to specific locations, but for now the player just outputs to the default device.  InstallingAudioEnclave 
+
+Video-EnclaveVideo-enclave is a web application that allows users to search their sometimes large movie collections with metadata scraped from IMDB and other web sites.  The goal is to make finding a movie to watch as easy as finding music with audio-enclave.  We want to allow the user to search for films with Sean Penn or directed by Quentin Tarantino without having to go to an external web site like IMDB and then check if they own that film. 
+
+Speech InterfaceDuring January 2009 we started writing a speech interface for audio-enclave with WAMI from the CS and AI Lab at MIT.  Our goal is to be able to walk into the room where the sound system is set up, push a button on the wall, say &quot;queue song name&quot;, and have the music start.  This would, of course, make a very nice demo.  :)</description>
+      <homepage_url>http://code.google.com/p/media-enclave</homepage_url>
+      <download_url></download_url>
+      <url_name>media-enclave</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14518516</analysis_id>
+      <tags>
+        <tag>music</tag>
+        <tag>web</tag>
+        <tag>djangoapplication</tag>
+        <tag>python</tag>
+        <tag>django</tag>
+      </tags>
+      <analysis>
+        <id>14518516</id>
+        <url>http://www.ohloh.net/analyses/14518516.xml</url>
+        <project_id>310520</project_id>
+        <updated_at>2013-07-12T09:44:28Z</updated_at>
+        <logged_at>2013-07-12T09:44:26Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17566</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/media-enclave/analyses/14518516/languages.png">
+          <language color="A4007E" percentage="40" id="6">
+JavaScript          </language>
+          <language color="4A246B" percentage="40" id="9">
+Python          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

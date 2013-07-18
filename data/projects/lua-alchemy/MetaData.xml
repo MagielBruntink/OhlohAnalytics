@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>55723</id>
+      <name>lua-alchemy</name>
+      <url>http://www.ohloh.net/p/lua-alchemy.xml</url>
+      <html_url>http://www.ohloh.net/p/lua-alchemy</html_url>
+      <created_at>2008-12-17T05:48:30Z</created_at>
+      <updated_at>2013-06-26T01:41:16Z</updated_at>
+      <description>IntroductionBackgroundLua is a great dynamic programming language, Adobe Flash is a great universal platform for applications and Adobe Alchemy is the tool to bind them together. 
+
+A demo can be found here: http://lua-alchemy.googlecode.com/svn/trunk/demo/index.html 
+
+Can you help us? 
+
+LuaLua is a powerful, fast, light-weight, embeddable scripting language. 
+Lua combines simple procedural syntax with powerful data description constructs based on associative arrays and extensible semantics. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping. 
+-- http://lua.org/about.html 
+Adobe FlashAdobe Flash (previously called &quot;Macromedia Flash&quot;') is a set of multimedia software created by Macromedia and currently developed and distributed by Adobe Systems. Since its introduction in 1996, Flash has become a popular method for adding animation and interactivity to web pages; Flash is commonly used to create animation, advertisements, and various web page components, to integrate video into web pages, and more recently, to develop rich Internet applications. 
+-- http://en.wikipedia.com/wiki/Flash 
+Adobe AlchemyWith Alchemy, Web application developers can now reuse hundreds of millions of lines of existing open source C and C++ client or server-side code on the Flash Platform.  Alchemy brings the power of high performance C and C++ libraries to Web applications with minimal degradation on AVM2.  The C/C++ code is compiled to ActionScript 3.0 as a SWF or SWC that runs on Adobe Flash Player 10 or Adobe AIR 1.5. 
+    
+
+-- http://labs.adobe.com/technologies/alchemy/ 
+
+
+MotivationWe need Lua Alchemy to... 
+
+...To use run-time dynamic programming language (Lua) within the Flash framework.  ...To reuse existing Lua code for the Flash-based utilities ...To get a great cross-platform back-end (Flash) for (simpler) Lua-based games ...To have fun with awesome new technology :-) OrganizationSitesMain place for collaboration: GoogleProjects (file releases, wiki, issues) Main place for development: GitHub (Git source control) Developer's mailing list: GoogleGroups (to be made open for public as soon as we're ready) LicenseLua Achemy is licensed at the same license as Lua 5.1: the MIT license. This means that Lua Alchemy is free software and can be used for both academic and commercial purposes at absolutely no cost. 
+
+See alsoLuaToAs3Interface InitialFileReleases FeatureWishList KnownProblems RandomNotes RecommendedReading ToDo LuaAlchemyDevelopmentModel</description>
+      <homepage_url>http://code.google.com/p/lua-alchemy</homepage_url>
+      <download_url></download_url>
+      <url_name>lua-alchemy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14410743</analysis_id>
+      <tags>
+        <tag>flex</tag>
+        <tag>lua</tag>
+        <tag>flash</tag>
+        <tag>actionscript</tag>
+        <tag>alchemy</tag>
+      </tags>
+      <analysis>
+        <id>14410743</id>
+        <url>http://www.ohloh.net/analyses/14410743.xml</url>
+        <project_id>55723</project_id>
+        <updated_at>2013-07-16T06:09:21Z</updated_at>
+        <logged_at>2013-07-16T06:09:20Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>28464</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lua-alchemy/analyses/14410743/languages.png">
+          <language color="FF8F00" percentage="47" id="42">
+C          </language>
+          <language color="47A400" percentage="25" id="1">
+HTML          </language>
+          <language color="E3491A" percentage="16" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="12" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

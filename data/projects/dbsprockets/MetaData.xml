@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>18569</id>
+      <name>dbsprockets</name>
+      <url>http://www.ohloh.net/p/dbsprockets.xml</url>
+      <html_url>http://www.ohloh.net/p/dbsprockets</html_url>
+      <created_at>2008-10-07T11:42:50Z</created_at>
+      <updated_at>2013-07-15T11:30:36Z</updated_at>
+      <description>DBSprocketsThe goal of DBSprockets is to give the developer the power to simply generate web content from available database definitions.  Because DBSprockets relies heavily on Toscawidgets, it is framework-independent.  It is easy to implement forms on TG, TG2, Pylons, Zope, and Grok using DBSprockets' primitives.  
+
+DBSprockets is mainly supporting SQLAlchemy, so any application you have that uses  SQLAlchemy will be well supported.  Support for other ORMs will be available in the future. 
+
+Every component of DBSprockets is extensible so that the developer can override a form or a set of forms to his or her liking. 
+
+One of the important implementations using DBSprockets is DBMechanic, which acts as a control board for your database crud. 
+
+Current Version0.2.2, 0.5dev 
+
+Dependent ongenshi&gt;=0.5 sqlalchemy &gt;=0.5 toscawidgets &gt;=0.9.2 Supported FrameworksTurbogears 1.0 Turbogears 2.0 Grok InstallationIf you don't already have easy_install setup download ez_setup here. And execute it. 
+
+With easy_install: 
+
+easy_install dbsprockets 
+
+more details. 
+
+DeclarativesDeclaratives are the easiest way to get going with DBSprockets. 
+
+FormBaseTake a look a the simplest example, a login form: 
+
+
+from dbsprockets.declaratives import FormBase
+from myProject.myModel import User
+
+class LoginForm(FormBase):
+    __model__ = User
+    __limit_fields__ = 'username', 'password'
+
+login_form = LoginForm()In your template, you would render the form like this: 
+
+${login_form()}Here is what the form looks like: 
+
+ 
+
+More information about the model that created this form. 
+
+TableBaseAnd here is an example showing what it looks like to display a list of users: 
+
+from dbsprockets.declaratives import TableBase
+from dbsprockets.primitives import get_table_value
+from myProject import User
+     
+class UserTable(TableBase):
+    __model__ = User
+
+user_table = UserTable()
+value = get_table_value(User)
+
+user_table(value=value)Which when rendered through a web framework looks something like this: 
+
+ 
+
+Notice that the town name (Arvada) has been automatically added. 
+
+Extensible APIThe power of DBSprockets is that every part of it is extensible so customizing forms, widget templates and other portions of your database view is made easier.  Simply override the fields you want to change by name or type with what you want.  Want a whole set of sprockets that have the same modification?  No problem, create a Sprockets cache with your new defaults. 
+
+more on DBSprocketsAPI 
+
+DBMechanic 
+
+Started as a replacement for Catwalk that works with Sqlalchemy. 
+
+DBMechanic is a stand-alone TG2 controller for database viewing. 
+
+UsageDBMechanic is easy to use!  Here is an example of how to use it in TG 1.0: 
+
+from myproject.model import metadata
+from dbsprockets.dbmechanic.frameworks.tg import DBMechanic
+from dbsprockets.saprovider import SAProvider
+
+dbmechanic = DBMechanic(SAProvider(metadata), '/dbmechanic')more on DBMechanic</description>
+      <homepage_url>http://code.google.com/p/dbsprockets</homepage_url>
+      <download_url></download_url>
+      <url_name>dbsprockets</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14639017</analysis_id>
+      <tags>
+        <tag>widgets</tag>
+        <tag>toscawidgets</tag>
+        <tag>ajax</tag>
+        <tag>twajaxtools</tag>
+        <tag>turbogears</tag>
+        <tag>mochikit</tag>
+        <tag>dbmechanic</tag>
+        <tag>grok</tag>
+        <tag>sqlalchemy</tag>
+        <tag>pylons</tag>
+        <tag>genshi</tag>
+      </tags>
+      <analysis>
+        <id>14639017</id>
+        <url>http://www.ohloh.net/analyses/14639017.xml</url>
+        <project_id>18569</project_id>
+        <updated_at>2013-07-15T11:30:36Z</updated_at>
+        <logged_at>2013-07-15T11:30:01Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6710</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dbsprockets/analyses/14639017/languages.png">
+          <language color="4A246B" percentage="82" id="9">
+Python          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

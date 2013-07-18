@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>328248</id>
+      <name>psi-probe</name>
+      <url>http://www.ohloh.net/p/psi-probe.xml</url>
+      <html_url>http://www.ohloh.net/p/psi-probe</html_url>
+      <created_at>2009-04-24T01:42:41Z</created_at>
+      <updated_at>2013-07-18T08:21:55Z</updated_at>
+      <description>PSI Probe is a community-driven fork of Lambda Probe distributed under the same open-source license (GPLv2). It is intended to replace and extend Tomcat Manager, making it easier to manage and monitor an instance of Apache Tomcat.
+
+Unlike many other server monitoring tools, PSI Probe does not require any changes to your existing apps. It provides all of its features through a web-accessible interface that becomes available simply by deploying it to your server.</description>
+      <homepage_url>http://code.google.com/p/psi-probe</homepage_url>
+      <download_url>http://code.google.com/p/psi-probe/downloads/list</download_url>
+      <url_name>psi-probe</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52262/photo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52262/photo_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14674392</analysis_id>
+      <tags>
+        <tag>session-management</tag>
+        <tag>apache-tomcat</tag>
+        <tag>database</tag>
+        <tag>context</tag>
+        <tag>monitor</tag>
+        <tag>manager</tag>
+        <tag>tomcat</tag>
+        <tag>servlet</tag>
+        <tag>java</tag>
+        <tag>probe</tag>
+        <tag>web</tag>
+        <tag>web-application</tag>
+        <tag>analytics</tag>
+      </tags>
+      <analysis>
+        <id>14674392</id>
+        <url>http://www.ohloh.net/analyses/14674392.xml</url>
+        <project_id>328248</project_id>
+        <updated_at>2013-07-18T08:21:55Z</updated_at>
+        <logged_at>2013-07-18T08:21:16Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>32479</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/psi-probe/analyses/14674392/languages.png">
+          <language color="9A63AD" percentage="50" id="5">
+Java          </language>
+          <language color="A4007E" percentage="33" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

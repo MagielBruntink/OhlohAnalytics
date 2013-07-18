@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>391302</id>
+      <name>mvp4g</name>
+      <url>http://www.ohloh.net/p/mvp4g.xml</url>
+      <html_url>http://www.ohloh.net/p/mvp4g</html_url>
+      <created_at>2009-08-18T09:40:39Z</created_at>
+      <updated_at>2013-07-17T02:04:07Z</updated_at>
+      <description>The goal of the Mvp4g framework is to help you build GWT applications easily, following best practices shown by Ray Ryan at the Google I/O:  
+
+Event Bus  Dependency Injection  Model View Presenter  Place Service  (see http://code.google.com/events/io/2009/sessions/GoogleWebToolkitBestPractices.html for the video or http://extgwt-mvp4g-gae.blogspot.com/2009/10/gwt-app-architecture-best-practices.html for the text, thanks to Araik Minosian.)  
+
+The framework allows you to easily:  
+
+Set an event bus.  Configure which presenter handles an event.  Inject a view and one or more services into the presenter.  Manage history thanks to a Place Service  (NEW) Take advantage of new GWT 2.0 features like GWT code splitting (thanks to Mvp4g Multi-modules features)  (NEW) Optimize your application (in particular thanks to Lazy Loading, build your views and presenters only when you need it, see Mvp4g optimization) 
+
+And now you can do all this thanks to one interface and a few annotations (or you can still use a XML configuration file). Moreover when you use an interface and annotations, you have a strongly typed event bus. 
+
+This is all you need to create an event bus with four events: 
+
+@Events( startView = CompanyListView.class, module = CompanyModule.class, debug = false )
+public interface CompanyEventBus extends EventBus {
+
+	@Event( handlers = CompanyEditPresenter.class )
+	public void goToEdit( CompanyBean company );
+
+	@Event( handlers = CompanyDisplayPresenter.class )
+	public void goToDisplay( CompanyBean company );
+
+	@Event( handlers = { CompanyListPresenter.class, CompanyDisplayPresenter.class } )
+	public void companyCreated( CompanyBean newBean );
+
+	@Event( handlers = CompanyListPresenter.class )
+	public void companyDeleted( CompanyBean newBean );
+
+}To understand how the framework works, you can look at the documentation. 
+
+Examples are also provided to illustrate the framework: 
+
+TestMvp4gA basic example to easily understand how the framework works. UML diagram of this example is available here (thanks to Steffen Nissen) EmployeeAdminThe GWT PureMvc example (as shown here) but implemented with the Mvp4g framework. This example also illustrates how to easily unit test the presenters using JUnit directly (without GWTTestCase, you can look at this message to see an example with a Mock library). EmployeeAdmin with GXTSame example as EmployeeAdmin but implemented with GXT using different approaches (see Mvp4g and GXT post) Mvp4gHistoryThis example shows how history is managed thanks to a Place Service. (see the wiki page for more information). Mvp4gModules &amp; Mvp4gModulesXML These examples demonstrate how you can divide your application into modules and take advantage of GWT 2.0 Code splitting feature. It also shows how history is automatically managed with sub-modules.
+One version has been implemented with an Event bus interface, the other one with a XML configuration file.  MailWithMvp4gThis example shows the GWT Mail example converted with Mvp4g. It illustrates how Mvp4g can be used with UiBinder. Mvp4gWithEdgeboxThis is a really simple example to show how you can use an external library to make non-RPC calls to the server. 
+
+You can test these examples thanks to the Showcase. 
+
+Don't hesitate to let me know your comments and any ideas you have to improve the framework.  
+
+To ensure quality, library code is covered by JUnit tests (See coverage summary result or See full covery result)</description>
+      <homepage_url>http://code.google.com/p/mvp4g/</homepage_url>
+      <download_url></download_url>
+      <url_name>mvp4g</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49360/mvp4g-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49360/mvp4g-logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14656072</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>mvp</tag>
+        <tag>eventbus</tag>
+        <tag>gwt</tag>
+      </tags>
+      <analysis>
+        <id>14656072</id>
+        <url>http://www.ohloh.net/analyses/14656072.xml</url>
+        <project_id>391302</project_id>
+        <updated_at>2013-07-17T02:04:07Z</updated_at>
+        <logged_at>2013-07-17T02:03:51Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>91976</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mvp4g/analyses/14656072/languages.png">
+          <language color="47A400" percentage="53" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="34" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="7" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

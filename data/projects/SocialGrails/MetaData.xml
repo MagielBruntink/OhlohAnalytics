@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586950</id>
+      <name>SocialGrail</name>
+      <url>http://www.ohloh.net/p/SocialGrails.xml</url>
+      <html_url>http://www.ohloh.net/p/SocialGrails</html_url>
+      <created_at>2011-10-28T13:04:29Z</created_at>
+      <updated_at>2013-07-12T16:25:50Z</updated_at>
+      <description>Social Grail is flexible social enterprise search product that is tailored to your needs. Customization includes user interfaces, integration with other applications, and the definition of whic information sources like databases, file systems, or other enterprise applications should be linked with people.
+
+The community edition targets distributed organizations and Web communities. Social Grail provides the following functionalities:
+
+-    Search by topic, name, and keywod
+-    Document search functionalities
+-    Social network compatible with OpenSocial
+-    User management with OpenID authentication
+-    Web crawler for crawling linked Web pages
+-    Document indexing capabilities for HTML, PDF, and MS Word
+-    Web feed aggregation
+-    Wikipedia-Connectors
+-    Flexible customization</description>
+      <homepage_url>http://www.assembla.com/spaces/social-grail/wiki</homepage_url>
+      <download_url>http://subversion.assembla.com/svn/social-grail/</download_url>
+      <url_name>SocialGrails</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47947/Signet_01_cmyk_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47947/Signet_01_cmyk_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14607672</analysis_id>
+      <tags>
+        <tag>community</tag>
+        <tag>opensocial</tag>
+        <tag>grails</tag>
+        <tag>java</tag>
+        <tag>groovy</tag>
+        <tag>search</tag>
+        <tag>shindig</tag>
+      </tags>
+      <analysis>
+        <id>14607672</id>
+        <url>http://www.ohloh.net/analyses/14607672.xml</url>
+        <project_id>586950</project_id>
+        <updated_at>2013-07-12T16:25:49Z</updated_at>
+        <logged_at>2013-07-12T16:25:18Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>519352</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SocialGrails/analyses/14607672/languages.png">
+          <language color="A4007E" percentage="58" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="15" id="5">
+Java          </language>
+          <language color="356AA0" percentage="12" id="2">
+PHP          </language>
+          <language color="000000" percentage="15" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

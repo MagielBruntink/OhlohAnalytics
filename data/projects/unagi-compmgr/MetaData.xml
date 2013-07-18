@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481202</id>
+      <name>Unagi Compositing Manager</name>
+      <url>http://www.ohloh.net/p/unagi-compmgr.xml</url>
+      <html_url>http://www.ohloh.net/p/unagi-compmgr</html_url>
+      <created_at>2010-02-18T09:38:14Z</created_at>
+      <updated_at>2013-07-07T05:33:46Z</updated_at>
+      <description>Unagi is a modular compositing manager which aims to be efficient, lightweight and responsive. It is currently written in C programming language and based on XCB library client library. Any existing window manager can be used as long as it implements properly EWMH and ICCCM specifications (or at least parts of it which are needed), which is generally the case nowadays.
+
+This project also aims to provide a functional and stable software to improve window manager usability from an end-user point of view (for instance windows translucency, application-switcher using live thumbnails instead of plain icons, Expos&#233;...), therefore it does not intend at all to provide useless eye-candy effects.</description>
+      <homepage_url>http://projects.mini-dweeb.org/projects/unagi</homepage_url>
+      <download_url>http://projects.mini-dweeb.org/projects/unagi/files</download_url>
+      <url_name>unagi-compmgr</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14559537</analysis_id>
+      <tags>
+        <tag>xcb</tag>
+        <tag>x</tag>
+        <tag>gui</tag>
+        <tag>xwindows</tag>
+        <tag>ui</tag>
+        <tag>interface</tag>
+        <tag>xdg</tag>
+        <tag>composite</tag>
+        <tag>unix</tag>
+        <tag>desktop</tag>
+        <tag>linux</tag>
+        <tag>c</tag>
+        <tag>x11</tag>
+        <tag>lightweight</tag>
+      </tags>
+      <analysis>
+        <id>14559537</id>
+        <url>http://www.ohloh.net/analyses/14559537.xml</url>
+        <project_id>481202</project_id>
+        <updated_at>2013-07-17T18:50:05Z</updated_at>
+        <logged_at>2013-07-17T18:50:00Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3930</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/unagi-compmgr/analyses/14559537/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

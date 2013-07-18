@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587404</id>
+      <name>TTC TermSuite</name>
+      <url>http://www.ohloh.net/p/ttc-term-suite.xml</url>
+      <html_url>http://www.ohloh.net/p/ttc-term-suite</html_url>
+      <created_at>2011-11-23T12:02:23Z</created_at>
+      <updated_at>2013-07-05T21:30:17Z</updated_at>
+      <description>TTC TermSuite: UIMA applications for terminology extraction and alignment from comparable corpora
+
+This is the UIMA application of the European project TTC Terminology Extraction, Translation Tools and Comparable Corpora. This project aims at leveraging machine translation, computer-assisted translation and multilingual content management tools by automatically generating bilingual terminologies from comparable corpora in five European languages (English, French, German, Spanish and one under-resourced language, Latvian), as well as in Chinese and Russian. This OpenSource UIMA-based application that supports the project activities is called TTC TermSuite.</description>
+      <homepage_url>http://code.google.com/p/ttc-project/</homepage_url>
+      <download_url>http://code.google.com/p/ttc-project/downloads/list</download_url>
+      <url_name>ttc-term-suite</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542376</analysis_id>
+      <tags>
+        <tag>gui</tag>
+        <tag>nlp</tag>
+        <tag>java</tag>
+        <tag>uima</tag>
+        <tag>natural-language-processing</tag>
+        <tag>library</tag>
+        <tag>cli</tag>
+      </tags>
+      <analysis>
+        <id>14542376</id>
+        <url>http://www.ohloh.net/analyses/14542376.xml</url>
+        <project_id>587404</project_id>
+        <updated_at>2013-07-15T10:11:11Z</updated_at>
+        <logged_at>2013-07-15T10:11:08Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>50645</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ttc-term-suite/analyses/14542376/languages.png">
+          <language color="555555" percentage="73" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="27" id="5">
+Java          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

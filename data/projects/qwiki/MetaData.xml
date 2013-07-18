@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483570</id>
+      <name>Qwiki</name>
+      <url>http://www.ohloh.net/p/qwiki.xml</url>
+      <html_url>http://www.ohloh.net/p/qwiki</html_url>
+      <created_at>2010-06-14T10:57:33Z</created_at>
+      <updated_at>2013-07-12T05:56:24Z</updated_at>
+      <description>Qwiki is the &quot;quick wiki&quot;. It is a lightweight wiki which uses sxml for internal wiki page representation. Because it uses sxml as intermediate representation, it is easy to write different output generators through the use of multidoc.
+
+In the future we also hope to support multiple storage backends but right now subversion is the only implementation of that.</description>
+      <homepage_url>http://wiki.call-cc.org/egg/qwiki</homepage_url>
+      <download_url></download_url>
+      <url_name>qwiki</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14601224</analysis_id>
+      <tags>
+        <tag>quick</tag>
+        <tag>subversion</tag>
+        <tag>wiki_toolkit</tag>
+        <tag>wiki</tag>
+      </tags>
+      <analysis>
+        <id>14601224</id>
+        <url>http://www.ohloh.net/analyses/14601224.xml</url>
+        <project_id>483570</project_id>
+        <updated_at>2013-07-18T13:04:15Z</updated_at>
+        <logged_at>2013-07-18T13:04:13Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1156</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qwiki/analyses/14601224/languages.png">
+          <language color="90C0D2" percentage="100" id="20">
+Scheme          </language>
+        </languages>
+        <main_language_id>20</main_language_id>
+        <main_language_name>Scheme</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

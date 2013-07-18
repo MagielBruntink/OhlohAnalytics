@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>76235</id>
+      <name>vcscommand</name>
+      <url>http://www.ohloh.net/p/vcscommand.xml</url>
+      <html_url>http://www.ohloh.net/p/vcscommand</html_url>
+      <created_at>2008-12-19T22:44:12Z</created_at>
+      <updated_at>2013-07-12T00:14:44Z</updated_at>
+      <description>VIM 7 plugin which provides commands to invoke various source control operations on the current file (either the current buffer, or, in the case of an directory buffer, the directory and all subdirectories associated with the current buffer).  The output of the commands is captured in a new scratch window.</description>
+      <homepage_url>http://code.google.com/p/vcscommand</homepage_url>
+      <download_url></download_url>
+      <url_name>vcscommand</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14596781</analysis_id>
+      <tags>
+        <tag>svn</tag>
+        <tag>cvs</tag>
+        <tag>vim</tag>
+        <tag>hg</tag>
+        <tag>svk</tag>
+        <tag>git</tag>
+        <tag>subversion</tag>
+        <tag>vimplugin</tag>
+      </tags>
+      <analysis>
+        <id>14596781</id>
+        <url>http://www.ohloh.net/analyses/14596781.xml</url>
+        <project_id>76235</project_id>
+        <updated_at>2013-07-12T00:14:44Z</updated_at>
+        <logged_at>2013-07-12T00:14:29Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2008-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1466</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vcscommand/analyses/14596781/languages.png">
+          <language color="199C4B" percentage="100" id="48">
+Vim Script          </language>
+        </languages>
+        <main_language_id>48</main_language_id>
+        <main_language_name>Vim Script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

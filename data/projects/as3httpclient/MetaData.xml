@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17509</id>
+      <name>as3httpclient</name>
+      <url>http://www.ohloh.net/p/as3httpclient.xml</url>
+      <html_url>http://www.ohloh.net/p/as3httpclient</html_url>
+      <created_at>2008-10-07T10:55:50Z</created_at>
+      <updated_at>2013-06-30T07:18:23Z</updated_at>
+      <description>This project is meant to extend the capabilities Adobe Flash Player 9 for HTTP/HTTPS related things. 
+
+Following are the objectives:- 
+
+Support for HTTP Basic Authentication through HTTP/GET Way to get different HTTP status messages Add support for HTTPS Background:- 
+
+One the classes is HTTPURLLoader, which was created to do HTTP Basic Authentication through HTTP/GET which is not doable with Adobe Flash Player 9 URLLoader API. For example, Bloglines API needs that kind of authentication. 
+
+HTTPURLLoader also provides different HTTP status messages and can be used for different HTTP methods.</description>
+      <homepage_url>http://code.google.com/p/as3httpclient</homepage_url>
+      <download_url></download_url>
+      <url_name>as3httpclient</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14475158</analysis_id>
+      <tags>
+        <tag>as3</tag>
+        <tag>client</tag>
+        <tag>library</tag>
+        <tag>urlloader</tag>
+        <tag>http</tag>
+        <tag>api</tag>
+        <tag>httpclient</tag>
+        <tag>actionscript</tag>
+      </tags>
+      <analysis>
+        <id>14475158</id>
+        <url>http://www.ohloh.net/analyses/14475158.xml</url>
+        <project_id>17509</project_id>
+        <updated_at>2013-07-13T03:02:52Z</updated_at>
+        <logged_at>2013-07-13T03:02:51Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2607</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/as3httpclient/analyses/14475158/languages.png">
+          <language color="E3491A" percentage="94" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>53</main_language_id>
+        <main_language_name>ActionScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

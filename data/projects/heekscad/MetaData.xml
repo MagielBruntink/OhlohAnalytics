@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20204</id>
+      <name>heekscad</name>
+      <url>http://www.ohloh.net/p/heekscad.xml</url>
+      <html_url>http://www.ohloh.net/p/heekscad</html_url>
+      <created_at>2008-10-07T12:59:39Z</created_at>
+      <updated_at>2013-07-15T04:53:05Z</updated_at>
+      <description>HeeksCAD is not finished, yet. 
+
+HeeksCAD is a free, open source, CAD application written by me, Dan Heeks,  danheeks@gmail.com Anyone can download it from http://code.google.com/p/heekscad/ 
+
+Functionality: Import solid models from STEP and IGES files. Draw construction geometry and lines and arcs. Create new primitive solids, or make solids by extruding a sketch or by making a lofted solid between sketches. Modify solids using blending, or boolean operations. Save IGES, STEP and STL. Printer plot the 2D geometry or to HPGL. Import and export dxf files; lines, arcs, ellipses, splines and polylines are supported. Use the geometric constraints solver to create accurate drawings from rough sketches. 
+
+See here for instruction how to use HeeksCAD http://code.google.com/p/heekscad/wiki/UsingHe</description>
+      <homepage_url>https://github.com/Heeks/heekscad</homepage_url>
+      <download_url></download_url>
+      <url_name>heekscad</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14635626</analysis_id>
+      <tags>
+        <tag>opencascade</tag>
+        <tag>gcode</tag>
+        <tag>cam</tag>
+        <tag>cad</tag>
+        <tag>cadcam</tag>
+        <tag>cnc</tag>
+        <tag>rs274</tag>
+        <tag>machining</tag>
+      </tags>
+      <analysis>
+        <id>14635626</id>
+        <url>http://www.ohloh.net/analyses/14635626.xml</url>
+        <project_id>20204</project_id>
+        <updated_at>2013-07-15T04:53:05Z</updated_at>
+        <logged_at>2013-07-15T04:52:15Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>83573</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/heekscad/analyses/14635626/languages.png">
+          <language color="F35F1F" percentage="93" id="44">
+C++          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

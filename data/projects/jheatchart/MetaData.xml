@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481180</id>
+      <name>JHeatChart</name>
+      <url>http://www.ohloh.net/p/jheatchart.xml</url>
+      <html_url>http://www.ohloh.net/p/jheatchart</html_url>
+      <created_at>2010-02-16T20:47:57Z</created_at>
+      <updated_at>2013-07-17T20:27:26Z</updated_at>
+      <description>JHeatChart is a Java library for generating heat map charts.
+
+Very few charting APIs seem to contain the facility to create heat maps (heat charts). So this is just a very small library for creating heat maps. It is not a full featured charting API, and you cannot use it to create line charts, bar charts or pie charts. But it is pretty good at its one job &#8211; heat charts.
+
+The charts generated are created as Java Image objects which can be incorporated into a GUI or saved to a jpg, png or gif file on disk.</description>
+      <homepage_url>http://www.javaheatmap.com</homepage_url>
+      <download_url>http://www.javaheatmap.com/download</download_url>
+      <url_name>jheatchart</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33632/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33632/icon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14605428</analysis_id>
+      <tags>
+        <tag>tools</tag>
+        <tag>graphs</tag>
+        <tag>bioinformatics</tag>
+        <tag>swing</tag>
+        <tag>visualization</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>library</tag>
+        <tag>gui</tag>
+        <tag>charting</tag>
+        <tag>graphics</tag>
+        <tag>heatmap</tag>
+        <tag>api</tag>
+        <tag>java</tag>
+        <tag>reporting</tag>
+      </tags>
+      <analysis>
+        <id>14605428</id>
+        <url>http://www.ohloh.net/analyses/14605428.xml</url>
+        <project_id>481180</project_id>
+        <updated_at>2013-07-12T11:41:47Z</updated_at>
+        <logged_at>2013-07-12T11:37:49Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>681</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jheatchart/analyses/14605428/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
