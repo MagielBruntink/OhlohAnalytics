@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>97900</id>
+      <name>gcalview</name>
+      <url>http://www.ohloh.net/p/gcalview.xml</url>
+      <html_url>http://www.ohloh.net/p/gcalview</html_url>
+      <created_at>2008-12-23T15:25:19Z</created_at>
+      <updated_at>2013-07-13T00:32:23Z</updated_at>
+      <description>Google Calendar makes it easy to have and maintain a public calendar. There is even an official Google Calendar Widget that can be embedded into a web page. However, this project seeks to be an alternative widget that is themeable, compact, and supports multiple public feeds (feed aggregation).
+
+Built in JavaScriptAndHtml, this project allows simple embedding of a Google Calendar Aggregation widget using JSON and gdata.
+
+Features
+
+Aggregate multiple Google Calendar feeds into a single JavaScriptAndHtml widget.
+AddingGcalView to your web page is easy.
+StylingGcalView with your own colors, text styles, and layouts in CSS is easy.
+Upcoming events are ordered by &quot;proximity&quot; to the current date.
+Intuitive categories of &quot;Today&quot;, &quot;This Week&quot;, &quot;Next Week&quot;, etc. are used to organize and prioritize.</description>
+      <homepage_url>http://gcalview.googlecode.com</homepage_url>
+      <download_url>http://code.google.com/p/gcalview/downloads/list</download_url>
+      <url_name>gcalview</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/12745/gadget_screenshot_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/12745/gadget_screenshot_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14611573</analysis_id>
+      <tags>
+        <tag>aggregator</tag>
+        <tag>html</tag>
+        <tag>gcal</tag>
+        <tag>google</tag>
+        <tag>javascript</tag>
+        <tag>widget</tag>
+        <tag>gcalendar</tag>
+      </tags>
+      <analysis>
+        <id>14611573</id>
+        <url>http://www.ohloh.net/analyses/14611573.xml</url>
+        <project_id>97900</project_id>
+        <updated_at>2013-07-18T02:27:06Z</updated_at>
+        <logged_at>2013-07-18T02:27:03Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2009-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1992</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gcalview/analyses/14611573/languages.png">
+          <language color="555555" percentage="47" id="3">
+XML          </language>
+          <language color="A4007E" percentage="47" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>462606</id>
+      <name>sbql4j</name>
+      <url>http://www.ohloh.net/p/sbql4j.xml</url>
+      <html_url>http://www.ohloh.net/p/sbql4j</html_url>
+      <created_at>2009-10-16T01:28:12Z</created_at>
+      <updated_at>2013-06-20T17:16:07Z</updated_at>
+      <description>An extension to Java language with an engine based on Stack-Based Architecture (SBA) 
+
+It provides capabilities similar to Microsoft LINQ for Java language. Allows to process Java objects with queries. 
+
+SBQL4J follow software engineering principles such as orthogonality, modularity, minimality, universality, typing safety, and clean, precise semantics. 
+
+Code with queries are parsed by preprocessor integrated with OpenJDK Compiler. SBQL4J builds AST query trees which are then analyzed and as output Java code is produced.  
+
+It integrates tightly with Java which means: 
+
+Java variables can be used in queries directly (no special syntax like setParameterX is required). Queries returns Java objects (collection or single object depending on query and used Java types). Java methods and constructors can be invoked inside queries. Query language is type-safe - queries are checked in compile time. Queries can be translated to pure Java code (with no reflection usage) so execution is very fast. (Description) 
+
+SBQL4J gives Java developers full power of SBQL query language . Multiply nested and complicated queries are well-supported, which can't be written in any other query language (including LINQ). 
+
+Available operators: 
+
+arithmetic: +, -. *, /, %, == , != , &gt;, =,  0 and unitPrice &gt; 3.00
+};Selects all orders, while referring to customers by the order in which they are returned from the query (example from LINQ page). (Model description) 
+
+List customers = getCustomerList();
+List customerOrders = #{
+	(customers as c).
+	($index as custIndex, c.orders as o).
+	(&quot;Customer #&quot;+(custIndex + 1)+&quot; has an order with OrderID &quot;+o.orderID)
+};This sample uses an order by operator with a custom comparer to sort first by word length and then by a case-insensitive sort of the words in an array (example from LINQ page). 
+
+String[] words = { &quot;aPPLE&quot;, &quot;AbAcUs&quot;, &quot;bRaNcH&quot;, &quot;BlUeBeRrY&quot;, &quot;ClOvEr&quot;, &quot;cHeRry&quot; };
+Comparator comp = new Comparator() {                              
+	@Override                                                                     
+	public int compare(String o1, String o2) {                                    
+		return o1.toLowerCase().compareTo(o2.toLowerCase());                      
+	}                                                                             
+};                                                                                
+List sortedWords = #{                                                     
+	words as w                                                                    
+	order by w.length(); w using comp                                             
+};                                                                                Is it true that each department employs an employee earning the same as his/her boss? (Model description) 
+
+List dept = data.getDepts();
+Boolean res = #{
+	all (dept as d)
+	any ((d.employs minus d.boss) as e)
+	(e.salary == d.boss.salary)
+};Get the minimal, average and maximal number of employees in departments. (Model description) 
+
+List dept = data.getDepts();
+Struct res = #{
+	min(dept.count(employs)) as minimum, 
+	avg(dept.count(employs)) as average, 
+	max(dept.count(employs)) as maximum
+};For each employee get the message containing his/her name and the percent of the annual budget of his/her department that is consumed by his/her monthly salary (Model description) 
+
+List emp = data.getEmps();
+List res = #{
+	emp.(&quot;Employee &quot; + name + &quot; consumes &quot; + (salary * 12 * 100 / (worksIn.budget)) +
+	     &quot;% of the &quot; + worksIn.name + &quot; department budget.&quot;)
+};See more executable examples (about 90 queries) in download section. There is a run-ready Eclipse project with build SBQL4J library and examples.</description>
+      <homepage_url>http://code.google.com/p/sbql4j/</homepage_url>
+      <download_url></download_url>
+      <url_name>sbql4j</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14322262</analysis_id>
+      <tags>
+        <tag>stackbasedapproach</tag>
+        <tag>sba</tag>
+        <tag>query</tag>
+        <tag>openjdk</tag>
+        <tag>sbql</tag>
+        <tag>typesafe</tag>
+        <tag>precompiler</tag>
+        <tag>java</tag>
+        <tag>javaextension</tag>
+        <tag>querylanguage</tag>
+        <tag>queries</tag>
+        <tag>extension</tag>
+        <tag>linq</tag>
+        <tag>language</tag>
+      </tags>
+      <analysis>
+        <id>14322262</id>
+        <url>http://www.ohloh.net/analyses/14322262.xml</url>
+        <project_id>462606</project_id>
+        <updated_at>2013-07-12T21:53:19Z</updated_at>
+        <logged_at>2013-07-12T21:53:15Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>279179</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sbql4j/analyses/14322262/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

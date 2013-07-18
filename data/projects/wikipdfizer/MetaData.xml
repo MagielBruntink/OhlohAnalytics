@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485382</id>
+      <name>WikiPDFizer</name>
+      <url>http://www.ohloh.net/p/wikipdfizer.xml</url>
+      <html_url>http://www.ohloh.net/p/wikipdfizer</html_url>
+      <created_at>2010-09-16T10:23:29Z</created_at>
+      <updated_at>2013-06-30T07:26:50Z</updated_at>
+      <description>WikiPDF is a command line script to generate PDF documents from a simple Wiki syntax file.
+
+It supports headings, images, splitted documents and create highlighted source code on PDF if you need it.
+
+It uses PHP command line, Html2ps, ps2pdf, Geshi Class, tidy...</description>
+      <homepage_url>http://github.com/metal3d/wikipdfizer</homepage_url>
+      <download_url>http://github.com/metal3d/wikipdfizer/downloads</download_url>
+      <url_name>wikipdfizer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14475526</analysis_id>
+      <tags>
+        <tag>document</tag>
+        <tag>wikirenderer</tag>
+        <tag>tidy</tag>
+        <tag>documents</tag>
+        <tag>php</tag>
+        <tag>pdf</tag>
+        <tag>php5</tag>
+        <tag>wiki_toolkit</tag>
+        <tag>pdf-conversion</tag>
+        <tag>wiki</tag>
+        <tag>pdf-creation</tag>
+        <tag>docbook</tag>
+        <tag>geshi</tag>
+      </tags>
+      <analysis>
+        <id>14475526</id>
+        <url>http://www.ohloh.net/analyses/14475526.xml</url>
+        <project_id>485382</project_id>
+        <updated_at>2013-07-17T14:13:47Z</updated_at>
+        <logged_at>2013-07-17T14:13:45Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>436</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wikipdfizer/analyses/14475526/languages.png">
+          <language color="356AA0" percentage="100" id="2">
+PHP          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

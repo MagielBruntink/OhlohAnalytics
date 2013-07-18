@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>108176</id>
+      <project_id>459873</project_id>
+      <repository_id>106456</repository_id>
+      <repository>
+        <id>106456</id>
+        <type>HgRepository</type>
+        <url>https://ariadna-framework.googlecode.com/hg/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T09:38:44Z</logged_at>
+        <commits>19</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>108178</id>
+      <project_id>459873</project_id>
+      <repository_id>106458</repository_id>
+      <repository>
+        <id>106458</id>
+        <type>HgRepository</type>
+        <url>https://test.ariadna-framework.googlecode.com/hg/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-12T09:42:33Z</logged_at>
+        <commits>3</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

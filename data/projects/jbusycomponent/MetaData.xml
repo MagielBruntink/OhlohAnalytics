@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>71848</id>
+      <name>jbusycomponent</name>
+      <url>http://www.ohloh.net/p/jbusycomponent.xml</url>
+      <html_url>http://www.ohloh.net/p/jbusycomponent</html_url>
+      <created_at>2008-12-19T11:26:10Z</created_at>
+      <updated_at>2013-06-26T18:11:54Z</updated_at>
+      <description>Enhance any swing components with a busy state
+
+JBusyComponent works as follow:
+- Provide a BusyModel that allow you to maintain and control busy properties for your component.
+- A view that is the enhanced component that can now be busy
+- An UI for render by overlay the busy state
+- BusyIcon for smart and simple to use icon that can render a progress bar 
+
+The BusyModel
+A BusyModel is the data model controlling busy properties of some components. When the model is on a busy state, the view becomes inaccessible and a smart overlay animation show it.
+
+This animation can include a progress bar that reflet the underlying job progression or use a BusyIcon. If you enable the cancellable property, a cancel button will be shown also.</description>
+      <homepage_url>http://code.google.com/p/jbusycomponent</homepage_url>
+      <download_url>http://code.google.com/p/jbusycomponent/downloads/list</download_url>
+      <url_name>jbusycomponent</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36044/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36044/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14420286</analysis_id>
+      <tags>
+        <tag>swing</tag>
+        <tag>jxlayer</tag>
+        <tag>swingx</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14420286</id>
+        <url>http://www.ohloh.net/analyses/14420286.xml</url>
+        <project_id>71848</project_id>
+        <updated_at>2013-07-17T03:43:52Z</updated_at>
+        <logged_at>2013-07-17T03:43:49Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6832</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jbusycomponent/analyses/14420286/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="556677" percentage="22" id="35">
+XML Schema          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

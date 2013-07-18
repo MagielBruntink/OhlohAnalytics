@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25138</id>
+      <name>wikimodel</name>
+      <url>http://www.ohloh.net/p/wikimodel.xml</url>
+      <html_url>http://www.ohloh.net/p/wikimodel</html_url>
+      <created_at>2008-10-07T17:05:16Z</created_at>
+      <updated_at>2013-07-12T20:41:20Z</updated_at>
+      <description>Wiki ModelThis project contains a set of wiki-related libraries, such as a parsers for various wiki syntaxes, and common wiki model (event- and object-based). 
+
+WikiModel was developped within the the European project Nepomuk. 
+
+ 
+
+
+
+Projects goalsThe main goal of this project is creation of a &#8220;standard&#8221; model for wiki documents. It contains two different models: 
+
+Wiki Event Model (WEM) &#8211; like Simple API for XML (SAX) Wiki Object Model (WOM) &#8211; like Document Object Model for XML (DOM) End-user benefits/featuresGenerates well-formed XHTML and XML. And it is very persistent for user&#8217;s errors (not closed or overlapping markup elements&#8230;) Wiki pages can be stored in XML-form and converted into a well-formed wiki-syntax only for editing. So all source pages will be &#8220;autoformatted&#8221; &#8211; non closed markup elements will be explicitly closed, overlapping elements will be corrected and so on&#8230; Each page can have its own &#8220;subpages&#8221; (&#8220;documents&#8221;) and each page could be splitted into multiply zones (&#8220;document sections&#8221;). For more information &#8211; see &#8220;Documents&#8221; section. Each page or a subpage can contain the full formatting &#8211; block-level elements (like headers, tables, paragraphs) and inline elements (like links, style elements, special symbols). In-memory representation of all elements offers the possibility of in-memory transformations/refactoring of wiki pages and additional operations with them (like generation of tables of content, extranctions of all link/images and so on) Wiki-engins can cache all wiki-pages in memory in the form of objects. Each block element (paragraph, table cells, list items, headers&#8230;) can have multiply lines. Almost all structural elements can have its own parameters (block elements as well as inline elements). Providing toolsJavaCC-based parser for wiki-syntax. It generates events for Wiki Event Listeners. Usage of this parser garanties that even &#8220;bad-formed&#8221; wiki-pages will produce a &#8220;well-formed&#8221; sequence of events (all opening elements will be explicitly closed, all overlappings will be corrected) XHTML event listener producing well-formed XHTML XML event listener generating well formed XML documents (each structural wiki element is represented in the form of an xml element). The corresponding XML-deserialized (based on standard SAX parser) is also supplied. WomToWem and WemToWom transformers. They offer the possibility to transform sequence of events (WEM) into a in-memory tree of object (WOM) and vice versa. The reference implementation Wiki Object Model is also supplied. &#8220;Semantic Web compatibility&#8221;One of the most important issues is to be compatible with the main standard/datamodel of Semantic Web &#8211; with Resource Description Framework (RDF). It means that both models (WEM as well as WOM) offer the possibility to map elements from wiki pages to RDF-statements. So each wiki page can be considered as a node in an RDF-graph. It allows to transform wiki-tools into powerful yet simple Semantic Web applications.</description>
+      <homepage_url>http://code.google.com/p/wikimodel</homepage_url>
+      <download_url></download_url>
+      <url_name>wikimodel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14609702</analysis_id>
+      <tags>
+        <tag>wikimodel</tag>
+        <tag>wiki</tag>
+      </tags>
+      <analysis>
+        <id>14609702</id>
+        <url>http://www.ohloh.net/analyses/14609702.xml</url>
+        <project_id>25138</project_id>
+        <updated_at>2013-07-12T20:41:19Z</updated_at>
+        <logged_at>2013-07-12T20:40:47Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>79734</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wikimodel/analyses/14609702/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

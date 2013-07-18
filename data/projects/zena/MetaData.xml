@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26015</id>
+      <name>zena CMS</name>
+      <url>http://www.ohloh.net/p/zena.xml</url>
+      <html_url>http://www.ohloh.net/p/zena</html_url>
+      <created_at>2008-11-03T10:24:24Z</created_at>
+      <updated_at>2013-07-17T14:34:30Z</updated_at>
+      <description>zena is a state-of-the-art CMS (content managment system) based on Ruby on Rails with a focus on usability, ease of customization and web 2.0 goodness (application like behaviour).
+
+Main features include: multi-site, multi-lingual and versioned content, powerful xhtml based templating language, groups based access rights, etc.</description>
+      <homepage_url>http://zenadmin.org</homepage_url>
+      <download_url>http://zenadmin.org/community</download_url>
+      <url_name>zena</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10252/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10252/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14664073</analysis_id>
+      <tags>
+        <tag>cms</tag>
+        <tag>framework</tag>
+        <tag>image</tag>
+        <tag>web</tag>
+        <tag>ajax</tag>
+        <tag>blog</tag>
+        <tag>intranet</tag>
+      </tags>
+      <analysis>
+        <id>14664073</id>
+        <url>http://www.ohloh.net/analyses/14664073.xml</url>
+        <project_id>26015</project_id>
+        <updated_at>2013-07-17T14:34:29Z</updated_at>
+        <logged_at>2013-07-17T14:31:54Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>133152</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zena/analyses/14664073/languages.png">
+          <language color="A40011" percentage="44" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="26" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="000000" percentage="15" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

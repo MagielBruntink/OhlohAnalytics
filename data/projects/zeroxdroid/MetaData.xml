@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>395412</id>
+      <name>0xdroid</name>
+      <url>http://www.ohloh.net/p/zeroxdroid.xml</url>
+      <html_url>http://www.ohloh.net/p/zeroxdroid</html_url>
+      <created_at>2009-08-18T16:17:46Z</created_at>
+      <updated_at>2013-07-17T20:44:13Z</updated_at>
+      <description>0xlab maintains 0xdroid for advanced Android distributions and attempts to introduce some improvements. Currently, 0xdroid takes Beagleboard as reference hardware.
+
+Key Feature:
+- Well support for Beagleboard (based on TI OMAP353x SoC) hardware platform
+- Active development and introducing new open source technologies, such as ARM optimizations.
+- Improvements over performance, wireless communications, graphics, multimedia, boot time, etc.</description>
+      <homepage_url>http://code.google.com/p/0xdroid/</homepage_url>
+      <download_url>http://downloads.0xlab.org/</download_url>
+      <url_name>zeroxdroid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28125/0xdroid_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28125/0xdroid_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14351764</analysis_id>
+      <tags>
+        <tag>omap3</tag>
+        <tag>linux</tag>
+        <tag>0xdroid</tag>
+        <tag>beagleboard</tag>
+        <tag>0xlab</tag>
+        <tag>android</tag>
+        <tag>omap</tag>
+      </tags>
+      <analysis>
+        <id>14351764</id>
+        <url>http://www.ohloh.net/analyses/14351764.xml</url>
+        <project_id>395412</project_id>
+        <updated_at>2013-07-12T13:28:43Z</updated_at>
+        <logged_at>2013-07-11T20:07:07Z</logged_at>
+        <min_month>2001-04-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8655875</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zeroxdroid/analyses/14351764/languages.png">
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="17" id="42">
+C          </language>
+          <language color="F35F1F" percentage="17" id="44">
+C++          </language>
+          <language color="000000" percentage="29" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

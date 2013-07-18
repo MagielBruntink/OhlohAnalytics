@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>97746</id>
+      <name>Monkey-Spider</name>
+      <url>http://www.ohloh.net/p/monkeyspider.xml</url>
+      <html_url>http://www.ohloh.net/p/monkeyspider</html_url>
+      <created_at>2008-12-23T13:45:12Z</created_at>
+      <updated_at>2013-07-17T16:25:36Z</updated_at>
+      <description>The Monkey-Spider is a crawler based low-interaction Honeyclient Project. It is not only restricted to this use but it is developed as such. The Monkey-Spider crawles Web sites to expose their threats to Web clients.</description>
+      <homepage_url>http://monkeyspider.sourceforge.net/</homepage_url>
+      <download_url>http://monkeyspider.sourceforge.net/download.html</download_url>
+      <url_name>monkeyspider</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14664958</analysis_id>
+      <tags>
+        <tag>honeyclient</tag>
+        <tag>crawler</tag>
+        <tag>client</tag>
+        <tag>webav</tag>
+        <tag>webscanner</tag>
+      </tags>
+      <analysis>
+        <id>14664958</id>
+        <url>http://www.ohloh.net/analyses/14664958.xml</url>
+        <project_id>97746</project_id>
+        <updated_at>2013-07-17T16:25:36Z</updated_at>
+        <logged_at>2013-07-17T16:25:12Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>356</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/monkeyspider/analyses/14664958/languages.png">
+          <language color="4A246B" percentage="80" id="9">
+Python          </language>
+          <language color="777777" percentage="15" id="11">
+shell script          </language>
+          <language color="493625" percentage="5" id="30">
+SQL          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

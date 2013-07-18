@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13642</id>
+      <name>MetaModel</name>
+      <url>http://www.ohloh.net/p/metamodel.xml</url>
+      <html_url>http://www.ohloh.net/p/metamodel</html_url>
+      <created_at>2008-04-30T12:10:12Z</created_at>
+      <updated_at>2013-07-17T04:37:42Z</updated_at>
+      <description>The eobjects.org MetaModel is a project created for maximum reuse of a domain model of the database domain. The MetaModel is a model that contains classes that represent the structure of a database (schemas, tables, column, relationships) and interaction with the database (queries) using SQL/LINQ-style expressions. In short a model for modelling (hence the word &quot;metamodel&quot;) data in databases and other datastores like CSV-files, MS Access files and Excel spreadsheets.</description>
+      <homepage_url>http://metamodel.eobjects.org</homepage_url>
+      <download_url></download_url>
+      <url_name>metamodel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14657918</analysis_id>
+      <tags>
+        <tag>querying</tag>
+        <tag>database</tag>
+        <tag>sql</tag>
+        <tag>linq</tag>
+        <tag>access</tag>
+        <tag>query</tag>
+        <tag>dbase</tag>
+        <tag>xml</tag>
+        <tag>csv</tag>
+        <tag>excel</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14657918</id>
+        <url>http://www.ohloh.net/analyses/14657918.xml</url>
+        <project_id>13642</project_id>
+        <updated_at>2013-07-17T04:37:42Z</updated_at>
+        <logged_at>2013-07-17T04:37:09Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>48896</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/metamodel/analyses/14657918/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
