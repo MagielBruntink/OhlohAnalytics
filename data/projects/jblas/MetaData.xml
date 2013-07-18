@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>434340</id>
+      <name>jblas</name>
+      <url>http://www.ohloh.net/p/jblas.xml</url>
+      <html_url>http://www.ohloh.net/p/jblas</html_url>
+      <created_at>2009-09-07T08:59:20Z</created_at>
+      <updated_at>2013-07-11T13:03:15Z</updated_at>
+      <description>jblas is a fast linear algebra library for Java. jblas is based on BLAS and LAPACK, the de-facto industry standard for matrix computations, and uses state-of-the-art implementations like ATLAS for all its computational routines, making jBLAS very fast.
+
+jblas can is essentially a light-wight wrapper around the BLAS and LAPACK routines. These packages have originated in the Fortran community which explains their often archaic API. On the other hand modern implementations are hard to beat performance wise. jblas aims to make this functionality available to Java programmers such that they do not have to worry about writing JNI interfaces and calling conventions of Fortran code.</description>
+      <homepage_url>http://jblas.org</homepage_url>
+      <download_url>http://github.com/mikiobraun/jblas/downloads</download_url>
+      <url_name>jblas</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/24046/jblas-logo-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/24046/jblas-logo-64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590316</analysis_id>
+      <tags>
+        <tag>blas</tag>
+        <tag>lapack</tag>
+        <tag>matrix</tag>
+        <tag>java</tag>
+        <tag>linearalgebra</tag>
+      </tags>
+      <analysis>
+        <id>14590316</id>
+        <url>http://www.ohloh.net/analyses/14590316.xml</url>
+        <project_id>434340</project_id>
+        <updated_at>2013-07-17T10:23:56Z</updated_at>
+        <logged_at>2013-07-17T10:23:52Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>21551</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jblas/analyses/14590316/languages.png">
+          <language color="9A63AD" percentage="67" id="5">
+Java          </language>
+          <language color="FF8F00" percentage="17" id="42">
+C          </language>
+          <language color="A40011" percentage="11" id="12">
+Ruby          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

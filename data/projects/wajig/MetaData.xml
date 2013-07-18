@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>56756</id>
+      <name>wajig</name>
+      <url>http://www.ohloh.net/p/wajig.xml</url>
+      <html_url>http://www.ohloh.net/p/wajig</html_url>
+      <created_at>2008-12-17T09:27:22Z</created_at>
+      <updated_at>2013-07-11T16:31:45Z</updated_at>
+      <description>wajig provides a simplified interface to many of the system administration tasks of Debian GNU/Linux. In its simplest form, you can run the command line wajig as: 
+
+   wajig [options] [command] [packages|files]
+
+For a list of common commands, run &quot;wajig help&quot;. For a list of all commands, run &quot;wajig commands&quot;. Full documentation is available from http://linux.togaware.com/survivor/wajig.html</description>
+      <homepage_url>http://code.google.com/p/wajig</homepage_url>
+      <download_url></download_url>
+      <url_name>wajig</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591621</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>debian</tag>
+        <tag>administration</tag>
+        <tag>gnu</tag>
+      </tags>
+      <analysis>
+        <id>14591621</id>
+        <url>http://www.ohloh.net/analyses/14591621.xml</url>
+        <project_id>56756</project_id>
+        <updated_at>2013-07-11T16:31:45Z</updated_at>
+        <logged_at>2013-07-11T16:30:49Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1876</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wajig/analyses/14591621/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

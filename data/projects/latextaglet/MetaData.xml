@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13578</id>
+      <name>LaTeXtaglet</name>
+      <url>http://www.ohloh.net/p/latextaglet.xml</url>
+      <html_url>http://www.ohloh.net/p/latextaglet</html_url>
+      <created_at>2008-04-26T13:05:51Z</created_at>
+      <updated_at>2013-07-17T07:35:46Z</updated_at>
+      <description>LaTeXtaglet allows inclusion of mathematical equations in Javadocs.
+
+This project was originally developed by Stephan Dlugosz and hosted at SourceForge.
+
+The original source code is dependent of Windows conventions for directories and files names. The modified version of LaTeXtaglet described here runs fine on unix platforms but was never tested on Windows.
+
+It's uncertain whether changes in the modified version were propagated back to the original code base as the original author apparently stopped improvements to the original code base. Hence, another code base was created under JQuantLib umbrella. JQuantLib uses LaTeXtaglet to generate nice Javadocs which contains UML diagrams and mathematical equations.
+
+Richard Gomes
+http://www.jquantlib.org/index.php/User:RichardGomes</description>
+      <homepage_url>http://www.jquantlib.org/maven2/sites/latextaglet/</homepage_url>
+      <download_url>http://www.jquantlib.org/maven2/repos/external_free/net/sf/latextaglet/latextaglet/</download_url>
+      <url_name>latextaglet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14659650</analysis_id>
+      <tags>
+        <tag>tetex</tag>
+        <tag>latex</tag>
+        <tag>jquantlib</tag>
+        <tag>tex</tag>
+        <tag>equation</tag>
+        <tag>taglet</tag>
+        <tag>mathematical</tag>
+        <tag>javadoc</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14659650</id>
+        <url>http://www.ohloh.net/analyses/14659650.xml</url>
+        <project_id>13578</project_id>
+        <updated_at>2013-07-17T07:35:46Z</updated_at>
+        <logged_at>2013-07-17T07:35:14Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>890</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/latextaglet/analyses/14659650/languages.png">
+          <language color="555555" percentage="43" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="47" id="5">
+Java          </language>
+          <language color="777777" percentage="8" id="11">
+shell script          </language>
+          <language color="AAAAAA" percentage="2" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

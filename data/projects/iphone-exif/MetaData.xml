@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20466</id>
+      <name>iphone-exif</name>
+      <url>http://www.ohloh.net/p/iphone-exif.xml</url>
+      <html_url>http://www.ohloh.net/p/iphone-exif</html_url>
+      <created_at>2008-10-07T13:11:50Z</created_at>
+      <updated_at>2013-07-18T03:10:16Z</updated_at>
+      <description>24/08/2008 - 0.9.1 release/repository upgrade for optimization issue and inclusion of simulator binary - see issues for detail   06/08/2008 - 0.9 release/repository upgrade for iPhoneOS 2.0  13/07/2008 - User Guide has been Updated 
+
+WhatAn Exif Tag library editor that enables direct viewing and editing of EXIF Meta Data tags in Jpeg files on the iPhone. 
+
+UsesThe most obvious use is to manage Geo location tags into the image. However, it is also possible to edit any of the Exif tags or add your own that are not in the spec. 
+
+This is really useful for image uploads from the phone for sites like Picasa and Flickr. 
+
+FeaturesOn device parsing and editing of EXIF in JPEG files Full support for GPS tag formats Roundtrips existing tags in the image Read/Write access to all EXIF tags Read access to JFIF data Allows custom handlers to override normal processing of any tag data Allows extra handlers to be registered to add user defined tags Builds as a static library which can be imported easily into an iphone project   
+
+DocumentationThere is some documentation in the project directory and an early version user guide is in the download section. There is an initial getting started discussion at http://iphone-land.blogspot.com 
+
+LicenseGPL standard license for other open source projects. A dual license can be discussed for projects which are not GPL compliant.</description>
+      <homepage_url>http://code.google.com/p/iphone-exif</homepage_url>
+      <download_url></download_url>
+      <url_name>iphone-exif</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14670366</analysis_id>
+      <tags>
+        <tag>objective-c</tag>
+        <tag>exif</tag>
+        <tag>iphone</tag>
+        <tag>geo</tag>
+        <tag>location</tag>
+        <tag>geotag</tag>
+        <tag>osx</tag>
+        <tag>geotagging</tag>
+        <tag>mac</tag>
+        <tag>xcode</tag>
+      </tags>
+      <analysis>
+        <id>14670366</id>
+        <url>http://www.ohloh.net/analyses/14670366.xml</url>
+        <project_id>20466</project_id>
+        <updated_at>2013-07-18T03:10:15Z</updated_at>
+        <logged_at>2013-07-18T03:10:02Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2008-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5515</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/iphone-exif/analyses/14670366/languages.png">
+          <language color="C7932C" percentage="50" id="16">
+Objective-C          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="47A400" percentage="17" id="1">
+HTML          </language>
+          <language color="000000" percentage="11" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

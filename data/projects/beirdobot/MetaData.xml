@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480974</id>
+      <name>Beirdobot</name>
+      <url>http://www.ohloh.net/p/beirdobot.xml</url>
+      <html_url>http://www.ohloh.net/p/beirdobot</html_url>
+      <created_at>2010-02-06T22:26:17Z</created_at>
+      <updated_at>2013-07-15T21:06:39Z</updated_at>
+      <description>This is a slim C-based bot that logs IRC channels to mysql, and uses minimal memory. It is designed to be modular, and several plugins exist.  The bot is configured and controlled with a curses-based console for easy use on a remote server.</description>
+      <homepage_url>http://github.com/Beirdo/beirdobot</homepage_url>
+      <download_url>http://github.com/Beirdo/beirdobot/downloads</download_url>
+      <url_name>beirdobot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14642886</analysis_id>
+      <tags>
+        <tag>irc</tag>
+        <tag>logging</tag>
+        <tag>c</tag>
+        <tag>ircbot</tag>
+        <tag>webapp</tag>
+        <tag>mysql</tag>
+      </tags>
+      <analysis>
+        <id>14642886</id>
+        <url>http://www.ohloh.net/analyses/14642886.xml</url>
+        <project_id>480974</project_id>
+        <updated_at>2013-07-15T21:06:39Z</updated_at>
+        <logged_at>2013-07-15T21:06:19Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>281875</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/beirdobot/analyses/14642886/languages.png">
+          <language color="EEE" percentage="28" id="51">
+Autoconf          </language>
+          <language color="FF8F00" percentage="29" id="42">
+C          </language>
+          <language color="F35F1F" percentage="27" id="44">
+C++          </language>
+          <language color="000000" percentage="16" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

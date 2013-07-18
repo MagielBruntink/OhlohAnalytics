@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10536</id>
+      <name>unattended</name>
+      <url>http://www.ohloh.net/p/unattended.xml</url>
+      <html_url>http://www.ohloh.net/p/unattended</html_url>
+      <created_at>2007-12-26T01:23:31Z</created_at>
+      <updated_at>2013-07-14T21:21:35Z</updated_at>
+      <description>This is a system for fully automating the installation of Windows 2000 Professional and Server, Windows XP, and Windows Server 2003.</description>
+      <homepage_url>http://unattended.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=62053</download_url>
+      <url_name>unattended</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14631185</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14631185</id>
+        <url>http://www.ohloh.net/analyses/14631185.xml</url>
+        <project_id>10536</project_id>
+        <updated_at>2013-07-14T21:21:35Z</updated_at>
+        <logged_at>2013-07-13T16:22:46Z</logged_at>
+        <min_month>2002-09-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>21107</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/unattended/analyses/14631185/languages.png">
+          <language color="AAAAAA" percentage="33" id="13">
+DOS batch script          </language>
+          <language color="D2C690" percentage="41" id="8">
+Perl          </language>
+          <language color="356AA0" percentage="11" id="2">
+PHP          </language>
+          <language color="000000" percentage="15" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>13</main_language_id>
+        <main_language_name>DOS batch script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

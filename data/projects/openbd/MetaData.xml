@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482313</id>
+      <name>OpenBD</name>
+      <url>http://www.ohloh.net/p/openbd.xml</url>
+      <html_url>http://www.ohloh.net/p/openbd</html_url>
+      <created_at>2010-04-08T13:41:25Z</created_at>
+      <updated_at>2013-07-15T12:36:24Z</updated_at>
+      <description>OpenBD is the worlds first truly open source GPL Java and Google App Engine CFML runtime. 
+
+CFML is a powerful tag/script based language that takes away all the heavy lifting of producing highly scalable web and email based services and sites.</description>
+      <homepage_url>http://openbd.org/</homepage_url>
+      <download_url>http://openbd.org/download.cfm</download_url>
+      <url_name>openbd</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51004/openBD_logo_noText_64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51004/openBD_logo_noText_64px_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14639602</analysis_id>
+      <tags>
+        <tag>cfml</tag>
+        <tag>java</tag>
+        <tag>coldfusion</tag>
+      </tags>
+      <analysis>
+        <id>14639602</id>
+        <url>http://www.ohloh.net/analyses/14639602.xml</url>
+        <project_id>482313</project_id>
+        <updated_at>2013-07-15T12:36:24Z</updated_at>
+        <logged_at>2013-07-15T12:33:31Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>278799</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openbd/analyses/14639602/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

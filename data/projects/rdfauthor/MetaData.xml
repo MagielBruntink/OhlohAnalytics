@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484373</id>
+      <name>RDFauthor</name>
+      <url>http://www.ohloh.net/p/rdfauthor.xml</url>
+      <html_url>http://www.ohloh.net/p/rdfauthor</html_url>
+      <created_at>2010-07-28T10:23:53Z</created_at>
+      <updated_at>2013-07-17T18:01:37Z</updated_at>
+      <description>RDFauthor is an editing solution for distributed and syndicated structured content on the World Wide Web. RDFauthor is able to extract structured information from RDFa-enhanced websites and to create an edit form based on this data. To this end, we make use of semantics-aware editing widgets that hide most of the RDF data model from the user, thus allowing more people to author semantic content. If the embedded data does not suffice to create a rich user-supporting editing view, the underlying Semantic Web infrastructure is used to retrieve additional schema-related information about the elements used.</description>
+      <homepage_url>http://aksw.org/Projects/RDFAuthor</homepage_url>
+      <download_url>http://code.google.com/p/rdfauthor/downloads/list</download_url>
+      <url_name>rdfauthor</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35734/rdfauthor_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35734/rdfauthor_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14660253</analysis_id>
+      <tags>
+        <tag>javascript</tag>
+        <tag>rdf</tag>
+        <tag>semanticweb</tag>
+        <tag>userinterface</tag>
+        <tag>gui</tag>
+        <tag>rdfa</tag>
+        <tag>sparql</tag>
+      </tags>
+      <analysis>
+        <id>14660253</id>
+        <url>http://www.ohloh.net/analyses/14660253.xml</url>
+        <project_id>484373</project_id>
+        <updated_at>2013-07-17T08:23:17Z</updated_at>
+        <logged_at>2013-07-17T08:22:55Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>77984</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rdfauthor/analyses/14660253/languages.png">
+          <language color="A4007E" percentage="79" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

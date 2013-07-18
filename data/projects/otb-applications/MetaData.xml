@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>308778</id>
+      <name>OTB Applications</name>
+      <url>http://www.ohloh.net/p/otb-applications.xml</url>
+      <html_url>http://www.ohloh.net/p/otb-applications</html_url>
+      <created_at>2009-01-28T03:33:09Z</created_at>
+      <updated_at>2013-07-17T20:28:20Z</updated_at>
+      <description>This package includes a set of applications for remote sensing image processing such as orthorectification, classification, object extraction... Few of these applications come with a full GUI interface. Applications are based on the Orfeo Toolbox (OTB) library. More complex applications are now developed in the integrated application: Monteverdi.
+
+OTB Applications is distributed under a free software licence CeCILL (similar to GPL) to encourage contribution from users and to promote reproducible research.</description>
+      <homepage_url>http://www.orfeo-toolbox.org</homepage_url>
+      <download_url>http://www.orfeo-toolbox.org/otb/download.html</download_url>
+      <url_name>otb-applications</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13403/miniLogo_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13403/miniLogo_med_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14666901</analysis_id>
+      <tags>
+        <tag>gui</tag>
+        <tag>remote_sensing</tag>
+        <tag>segmentation</tag>
+        <tag>sar</tag>
+        <tag>classification</tag>
+        <tag>image_analysis</tag>
+        <tag>informationextraction</tag>
+        <tag>image_processing</tag>
+        <tag>radar</tag>
+        <tag>space</tag>
+        <tag>imaging</tag>
+        <tag>optical</tag>
+        <tag>c++</tag>
+        <tag>image</tag>
+        <tag>application</tag>
+        <tag>registration</tag>
+        <tag>imageprocessing</tag>
+        <tag>mapping</tag>
+        <tag>satellite</tag>
+        <tag>pattern_recognition</tag>
+      </tags>
+      <analysis>
+        <id>14666901</id>
+        <url>http://www.ohloh.net/analyses/14666901.xml</url>
+        <project_id>308778</project_id>
+        <updated_at>2013-07-17T20:28:19Z</updated_at>
+        <logged_at>2013-07-17T20:27:48Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>40731</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/otb-applications/analyses/14666901/languages.png">
+          <language color="F35F1F" percentage="94" id="44">
+C++          </language>
+          <language color="EEE" percentage="6" id="74">
+CMake          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cecill</name>
+          <nice_name>CeCILL Free Software License Agreement v2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

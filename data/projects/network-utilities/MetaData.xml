@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12300</id>
+      <name>nut</name>
+      <url>http://www.ohloh.net/p/network-utilities.xml</url>
+      <html_url>http://www.ohloh.net/p/network-utilities</html_url>
+      <created_at>2008-02-26T23:03:36Z</created_at>
+      <updated_at>2013-06-23T23:09:21Z</updated_at>
+      <description>nut manages your network devices (dhcp, static, zeroconf); currently only supports IPv4 on Linux.
+
+Support for wpa_assistant is included in the client.</description>
+      <homepage_url>http://repo.or.cz/w/nut.git</homepage_url>
+      <download_url></download_url>
+      <url_name>network-utilities</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14367348</analysis_id>
+      <tags>
+        <tag>network</tag>
+        <tag>linux</tag>
+        <tag>network_administration</tag>
+        <tag>networks</tag>
+        <tag>networking</tag>
+        <tag>zeroconf</tag>
+        <tag>nets</tag>
+        <tag>dhcp</tag>
+        <tag>netadmin</tag>
+        <tag>qt</tag>
+        <tag>systems_administration</tag>
+        <tag>gui</tag>
+        <tag>net</tag>
+        <tag>sysadmin</tag>
+        <tag>system_administration</tag>
+        <tag>admin</tag>
+        <tag>tool</tag>
+        <tag>wlan</tag>
+        <tag>qt4</tag>
+      </tags>
+      <analysis>
+        <id>14367348</id>
+        <url>http://www.ohloh.net/analyses/14367348.xml</url>
+        <project_id>12300</project_id>
+        <updated_at>2013-07-15T16:42:14Z</updated_at>
+        <logged_at>2013-07-15T16:42:11Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>28610</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/network-utilities/analyses/14367348/languages.png">
+          <language color="F35F1F" percentage="64" id="44">
+C++          </language>
+          <language color="555555" percentage="20" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="9" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

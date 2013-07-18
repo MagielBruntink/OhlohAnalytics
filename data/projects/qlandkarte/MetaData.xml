@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17087</id>
+      <name>QLandkarte</name>
+      <url>http://www.ohloh.net/p/qlandkarte.xml</url>
+      <html_url>http://www.ohloh.net/p/qlandkarte</html_url>
+      <created_at>2008-10-05T15:13:13Z</created_at>
+      <updated_at>2013-06-29T03:42:23Z</updated_at>
+      <description>Garmin's MapSource software is hardly the only reason for me to boot into Windows and it does not look like Garmin ever wants to address Linux users by writing a portable piece of software. So I started to help myself. I found several tools like GPSBabel or sendmap to handle data for my GPS receiver but no tool to visualize and manage this data in a decent way. On my quest I found a specification of the used IMG format for maps at Sourceforge. After some reading and toying around I considered this specification good enough to start a GUI project to visualize such files. QLandkarte is the result of this effort.</description>
+      <homepage_url>http://qlandkarte.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=183501</download_url>
+      <url_name>qlandkarte</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14452684</analysis_id>
+      <analysis>
+        <id>14452684</id>
+        <url>http://www.ohloh.net/analyses/14452684.xml</url>
+        <project_id>17087</project_id>
+        <updated_at>2013-07-16T22:48:20Z</updated_at>
+        <logged_at>2013-07-16T22:47:53Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>38766</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qlandkarte/analyses/14452684/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+          <language color="000000" percentage="11" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

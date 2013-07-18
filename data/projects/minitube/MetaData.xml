@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485985</id>
+      <name>Minitube</name>
+      <url>http://www.ohloh.net/p/minitube.xml</url>
+      <html_url>http://www.ohloh.net/p/minitube</html_url>
+      <created_at>2010-10-16T09:09:00Z</created_at>
+      <updated_at>2013-07-14T08:58:03Z</updated_at>
+      <description>Minitube is a YouTube desktop client.
+With it you can watch YouTube videos in a new way: you type a keyword, Minitube gives you an endless video stream.
+Minitube is not about cloning the original YouTube web interface, it aims to create a new TV-like experience.</description>
+      <homepage_url>http://flavio.tordini.org/minitube</homepage_url>
+      <download_url>http://flavio.tordini.org/minitube</download_url>
+      <url_name>minitube</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38322/minitube_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38322/minitube_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14624017</analysis_id>
+      <tags>
+        <tag>youtubeviewer</tag>
+        <tag>youtubedownload</tag>
+        <tag>qt</tag>
+        <tag>phonon</tag>
+        <tag>video</tag>
+        <tag>youtube</tag>
+      </tags>
+      <analysis>
+        <id>14624017</id>
+        <url>http://www.ohloh.net/analyses/14624017.xml</url>
+        <project_id>485985</project_id>
+        <updated_at>2013-07-14T08:58:03Z</updated_at>
+        <logged_at>2013-07-13T21:11:10Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>57997</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/minitube/analyses/14624017/languages.png">
+          <language color="555555" percentage="77" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="22" id="44">
+C++          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

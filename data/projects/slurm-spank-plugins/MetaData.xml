@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23968</id>
+      <name>slurm-spank-plugins</name>
+      <url>http://www.ohloh.net/p/slurm-spank-plugins.xml</url>
+      <html_url>http://www.ohloh.net/p/slurm-spank-plugins</html_url>
+      <created_at>2008-10-07T16:02:57Z</created_at>
+      <updated_at>2013-06-12T15:25:43Z</updated_at>
+      <description>LLNL SLURM SPANK pluginsThis package contains several SLURM SPANK plugins developed and used at LLNL. These are all drop-in plugins that enhance and extend the functionality of SLURM for users and administrators, and are hosted here not only so that others may use these plugins directly, but also as good examples of what kind of features and functionality may be developed with the spank plugin framework for slurm. 
+
+Some of the plugins in this package are LLNL-specific, in that they require LLNL-only modifications to the software stack. However, the code for these plugins is still provided for demonstrative purposes. 
+
+Also see the top-level README. 
+
+And the latest NEWS. 
+
+Some further information can be found in the wiki: 
+
+Generic description of SPANK plugins The use-env plugin The SLURM cpuset plugin</description>
+      <homepage_url>http://code.google.com/p/slurm-spank-plugins</homepage_url>
+      <download_url></download_url>
+      <url_name>slurm-spank-plugins</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14240150</analysis_id>
+      <tags>
+        <tag>slurmplugins</tag>
+        <tag>mpi</tag>
+        <tag>plugins</tag>
+        <tag>cluster</tag>
+        <tag>cpuset</tag>
+        <tag>slurm</tag>
+        <tag>hpc</tag>
+        <tag>cpuaffinity</tag>
+      </tags>
+      <analysis>
+        <id>14240150</id>
+        <url>http://www.ohloh.net/analyses/14240150.xml</url>
+        <project_id>23968</project_id>
+        <updated_at>2013-07-12T00:56:47Z</updated_at>
+        <logged_at>2013-07-12T00:56:44Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11920</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/slurm-spank-plugins/analyses/14240150/languages.png">
+          <language color="FF8F00" percentage="87" id="42">
+C          </language>
+          <language color="A42E00" percentage="7" id="27">
+Lua          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

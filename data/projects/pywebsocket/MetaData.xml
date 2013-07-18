@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>435166</id>
+      <name>pywebsocket</name>
+      <url>http://www.ohloh.net/p/pywebsocket.xml</url>
+      <html_url>http://www.ohloh.net/p/pywebsocket</html_url>
+      <created_at>2009-09-08T10:20:16Z</created_at>
+      <updated_at>2013-07-16T21:43:53Z</updated_at>
+      <description>pywebsocketWhat is it?The pywebsocket project aims to provide a Web Socket extension for Apache HTTP Server, mod_pywebsocket. 
+
+mod_pywebsocket is intended for testing or experimental purposes. mod_python is required. For wss, mod_ssl is also required. 
+
+How can I use it?To try mod_pywebsocket, please do: 
+
+svn checkout http://pywebsocket.googlecode.com/svn/trunk/ pywebsocket-read-onlyand follow the instructions in pywebsocket-read-only/src/README. 
+
+To run mod_pywebsocket as an Apache HTTP Server extension module, please read comments in pywebsocket-read-only/mod_pywebsocket/__init__.py. 
+
+To run mod_pywebsocket as a standalone server (i.e., not using Apache HTTP Server), please read comments in pywebsocket-read-only/mod_pywebsocket/standalone.py. 
+
+ExamplesThe following is a list of third party examples. 
+
+http://code.google.com/p/websocket-sample/</description>
+      <homepage_url>http://code.google.com/p/pywebsocket/</homepage_url>
+      <download_url></download_url>
+      <url_name>pywebsocket</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14652894</analysis_id>
+      <tags>
+        <tag>mod_python</tag>
+        <tag>html5</tag>
+        <tag>apache</tag>
+        <tag>websocket</tag>
+        <tag>httpd</tag>
+        <tag>google</tag>
+        <tag>websockets</tag>
+      </tags>
+      <analysis>
+        <id>14652894</id>
+        <url>http://www.ohloh.net/analyses/14652894.xml</url>
+        <project_id>435166</project_id>
+        <updated_at>2013-07-16T21:43:53Z</updated_at>
+        <logged_at>2013-07-16T21:14:08Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>12282</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pywebsocket/analyses/14652894/languages.png">
+          <language color="4A246B" percentage="95" id="9">
+Python          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

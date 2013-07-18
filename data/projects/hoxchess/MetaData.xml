@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>59698</id>
+      <name>hoxchess</name>
+      <url>http://www.ohloh.net/p/hoxchess.xml</url>
+      <html_url>http://www.ohloh.net/p/hoxchess</html_url>
+      <created_at>2008-12-17T19:51:05Z</created_at>
+      <updated_at>2013-07-09T11:11:26Z</updated_at>
+      <description>HOXChess is a cross-platform, open source Xiangqi (aka. Chinese Chess) client, capable of working with multiple online Xiangqi sites. It is a traditional desktop application, developed mainly in C++ using wxWidgets. Two servers are supported so far: PlayXiangqi and Chesscape. There are a number of Artificial Intelligent (AI) engines included. Recently, the App has also been ported to iPhone/iPod touch using Apple's native iPhone SDK.    
+
+Latest NewsMar 25, 2010The iPhone/iPod touch HOXChess-1.0 App is available on the App Store. Mar 23, 2010Merged the iPhone/iPod touch source code from NevoChess to this project. Submitted to the application to Apple's AppStore under the same name HOXChess. Dec 23, 2009Released version 1.0.0 with binary packages for Windows, Mac OS X, and Linux The new features are: Implement a new Click-N-Click move mode Implement the 'highlight' of a next position when moving a Piece Implement a Popup Private Chat window Enable Copy/Paste option with the Chat window Add a new 3D Piece set from Eurasia-Chess Some fixes are: Fix the King-facing-King bug in the Referee Fix the crash if an AI Plugin's name is invalid The Linux binary package has been tested on the following distributions: CentOS 5.4 (32-bit) Ubuntu/Kubuntu 9.10 (32-bit and 64-bit) Fedora 12 (32-bit) openSUSE 11.2 (32-bit) Debian 5.0.3 (32-bit) Mandriva 2010.0 Gentoo 2008.0 (32-bit) Jul 25, 2009Released version 0.8.0.0 with binary packages for Windows, Mac OS X, and Linux The new features are: Add Play with yourself (or Human vs. Human) feature Support Difficulty Level when playing against AI Add Author-name and Web site of the AI's author on the Practice table Add the basic Check for Updates feature AI Folium: synced up the source code with http://folium.googlecode.com Add the Clear button in both the Activities and Messages dialogs Improved localization in Chinese, French, and Vietnamese with help from native speakers Some fixes are: Mac OS X: Optimize the Move-handling code to speed up image drawing. Allow to open the Practice table from everywhere Fix the message-being-cut-off issue when username contains a space Fixed the blank-Chat-window issue when  the window is full Fix the crash when a List-of-tables is displayed while the Site is closed The Linux binary package has been tested on the following distributions: CentOS 5.3 (32-bit) Ubuntu/Kubuntu 9.04 (32-bit and 64-bit) Fedora 11   (32-bit) openSUSE 11 (32-bit) Debian 5.0.2 (32-bit) Gentoo 2008.0 (32-bit) Mandriva 2009.1 (KDE, 32-bit) Old Release Notes can be found here...</description>
+      <homepage_url>http://code.google.com/p/hoxchess</homepage_url>
+      <download_url></download_url>
+      <url_name>hoxchess</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28058/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28058/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571241</analysis_id>
+      <tags>
+        <tag>ipodtouch</tag>
+        <tag>cplusplus</tag>
+        <tag>iphone</tag>
+        <tag>xiangqi</tag>
+        <tag>chinesechess</tag>
+        <tag>windows</tag>
+        <tag>osx</tag>
+        <tag>wxwidgets</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14571241</id>
+        <url>http://www.ohloh.net/analyses/14571241.xml</url>
+        <project_id>59698</project_id>
+        <updated_at>2013-07-16T21:42:14Z</updated_at>
+        <logged_at>2013-07-16T21:42:11Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>355927</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hoxchess/analyses/14571241/languages.png">
+          <language color="F35F1F" percentage="93" id="44">
+C++          </language>
+          <language color="000000" percentage="7" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

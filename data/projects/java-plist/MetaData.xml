@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585472</id>
+      <name>Java Property List Library</name>
+      <url>http://www.ohloh.net/p/java-plist.xml</url>
+      <html_url>http://www.ohloh.net/p/java-plist</html_url>
+      <created_at>2011-08-03T16:18:31Z</created_at>
+      <updated_at>2013-06-15T08:27:18Z</updated_at>
+      <description>This library enables Java applications to work with property lists in various formats.
+
+You can parse existing property lists (e.g. those created by an iOS application) and work with the contents on any operating system.
+
+The library also enables you to create your own property lists from scratch and store them in various formats.
+
+This library provides an API which mimics the Cocoa/NeXTSTEP API, providing access to the basic functions of classes like NSDictionary, NSData, etc.</description>
+      <homepage_url>http://code.google.com/p/plist</homepage_url>
+      <download_url>http://code.google.com/p/plist/downloads/list</download_url>
+      <url_name>java-plist</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46064/plist-icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46064/plist-icon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14264588</analysis_id>
+      <tags>
+        <tag>generator</tag>
+        <tag>parser</tag>
+        <tag>apple</tag>
+        <tag>linux</tag>
+        <tag>java</tag>
+        <tag>windows</tag>
+        <tag>osx</tag>
+        <tag>ios</tag>
+        <tag>parsing</tag>
+        <tag>serialization</tag>
+        <tag>cross-platform</tag>
+      </tags>
+      <analysis>
+        <id>14264588</id>
+        <url>http://www.ohloh.net/analyses/14264588.xml</url>
+        <project_id>585472</project_id>
+        <updated_at>2013-07-13T18:40:39Z</updated_at>
+        <logged_at>2013-07-13T18:40:36Z</logged_at>
+        <min_month>2010-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>4078</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/java-plist/analyses/14264588/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

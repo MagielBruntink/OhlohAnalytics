@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>372601</id>
+      <name>hornget</name>
+      <url>http://www.ohloh.net/p/hornget.xml</url>
+      <html_url>http://www.ohloh.net/p/hornget</html_url>
+      <created_at>2009-08-13T18:49:21Z</created_at>
+      <updated_at>2013-06-24T19:41:06Z</updated_at>
+      <description>The horn source has been migrated to github here.The initial mission statement is to take control of building a common set of open source packages that are probably similar to many in the ALT.NET space. 
+
+Examples of such packages are Nhibernate, Castle and Rhino. 
+
+The grander vision is to provide a standard mechanism for easy installation of .NET packages. 
+
+If you do not want to install every single build tool in the entire .NET universe and do not want to install git, svn and be at the behest of every OSS author's whim then you can download daily built packages here http://www.hornget.net/packages/. 
+
+If you want to know more or can contribute, you can find the horn user group here: 
+
+The following posts set out to give some background. 
+
+Taking Horn for a test drive. 
+
+How to take advantage of horn in your project 
+
+Introduction 
+
+The horn DSL 
+
+Architecture Overview 
+
+Here is a talk at the Dsl DevCon conference that describes horn.</description>
+      <homepage_url>http://code.google.com/p/hornget/</homepage_url>
+      <download_url></download_url>
+      <url_name>hornget</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14386609</analysis_id>
+      <tags>
+        <tag>altnet</tag>
+        <tag>tdd</tag>
+        <tag>c</tag>
+        <tag>net</tag>
+        <tag>boo</tag>
+      </tags>
+      <analysis>
+        <id>14386609</id>
+        <url>http://www.ohloh.net/analyses/14386609.xml</url>
+        <project_id>372601</project_id>
+        <updated_at>2013-07-13T07:16:46Z</updated_at>
+        <logged_at>2013-07-13T07:16:43Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>138149</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hornget/analyses/14386609/languages.png">
+          <language color="555555" percentage="90" id="3">
+XML          </language>
+          <language color="4096EE" percentage="9" id="17">
+C#          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>69674</id>
+      <project_id>126378</project_id>
+      <repository_id>68168</repository_id>
+      <repository>
+        <id>68168</id>
+        <type>SvnSyncRepository</type>
+        <url>https://sqliteclientsyn.svn.sourceforge.net/svnroot/sqliteclientsyn/Tags/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T10:45:57Z</logged_at>
+        <commits>3</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>69675</id>
+      <project_id>126378</project_id>
+      <repository_id>68169</repository_id>
+      <repository>
+        <id>68169</id>
+        <type>SvnSyncRepository</type>
+        <url>https://sqliteclientsyn.svn.sourceforge.net/svnroot/sqliteclientsyn/Trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T10:45:35Z</logged_at>
+        <commits>15</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>
