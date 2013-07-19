@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>35756</id>
+      <project_id>25742</project_id>
+      <repository_id>34509</repository_id>
+      <repository>
+        <id>34509</id>
+        <type>GitRepository</type>
+        <url>git://github.com/neoeinstein/c5.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T10:41:29Z</logged_at>
+        <commits>51</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>102422</id>
+      <project_id>25742</project_id>
+      <repository_id>100796</repository_id>
+      <repository>
+        <id>100796</id>
+        <type>GitRepository</type>
+        <url>git://github.com/neoeinstein/c5.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T10:48:05Z</logged_at>
+        <commits>82</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

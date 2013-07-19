@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25911</id>
+      <name>zynjacku</name>
+      <url>http://www.ohloh.net/p/zynjacku.xml</url>
+      <html_url>http://www.ohloh.net/p/zynjacku</html_url>
+      <created_at>2008-10-28T21:58:54Z</created_at>
+      <updated_at>2012-09-25T14:25:29Z</updated_at>
+      <description>zynjacku is JACK based, GTK (2.x) host for LV2 synths. It has one JACK MIDI input port (routed to all hosted synths) and one (two for stereo synths) JACK audio output port per plugin. Such design provides multi-timbral sound by running several synth plugins.</description>
+      <homepage_url>http://home.gna.org/zynjacku/</homepage_url>
+      <download_url>http://download.gna.org/zynjacku/</download_url>
+      <url_name>zynjacku</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10035/icon_white_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10035/icon_white_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10285317</analysis_id>
+      <tags>
+        <tag>gtk2</tag>
+        <tag>linux</tag>
+        <tag>jack</tag>
+        <tag>lv2</tag>
+        <tag>music</tag>
+        <tag>audio</tag>
+        <tag>sound_synthesis</tag>
+        <tag>midi</tag>
+      </tags>
+      <analysis>
+        <id>10285317</id>
+        <url>http://www.ohloh.net/analyses/10285317.xml</url>
+        <project_id>25911</project_id>
+        <updated_at>2012-10-01T14:48:20Z</updated_at>
+        <logged_at>2012-10-01T14:48:19Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12809</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zynjacku/analyses/10285317/languages.png">
+          <language color="FF8F00" percentage="65" id="42">
+C          </language>
+          <language color="4A246B" percentage="24" id="9">
+Python          </language>
+          <language color="000000" percentage="11" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

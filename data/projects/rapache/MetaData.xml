@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25544</id>
+      <name>Rapache</name>
+      <url>http://www.ohloh.net/p/rapache.xml</url>
+      <html_url>http://www.ohloh.net/p/rapache</html_url>
+      <created_at>2008-10-11T11:12:42Z</created_at>
+      <updated_at>2013-07-17T17:54:01Z</updated_at>
+      <description>A Linux program to manage the Apache 2 server. 
+
+Project is currently broken, as it doesn't work on recent versions of Ubuntu. If you think you can help contact us.
+
+It includes support for virtual hosts, ssl and modules.
+
+Currently only handles the Debian way of separating Apache's configuration files so it can work only on Ubuntu/Debian based distros.</description>
+      <homepage_url>http://www.stefanoforenza.com/category/rapache/</homepage_url>
+      <download_url>https://launchpad.net/rapache/+download</download_url>
+      <url_name>rapache</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14435369</analysis_id>
+      <tags>
+        <tag>gtk2</tag>
+        <tag>apache</tag>
+        <tag>configuration</tag>
+        <tag>ubuntu</tag>
+        <tag>ssl</tag>
+        <tag>pygtk</tag>
+        <tag>vhost</tag>
+        <tag>python</tag>
+        <tag>debian</tag>
+      </tags>
+      <analysis>
+        <id>14435369</id>
+        <url>http://www.ohloh.net/analyses/14435369.xml</url>
+        <project_id>25544</project_id>
+        <updated_at>2013-07-16T08:29:39Z</updated_at>
+        <logged_at>2013-07-16T08:29:32Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11276</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rapache/analyses/14435369/languages.png">
+          <language color="4A246B" percentage="65" id="9">
+Python          </language>
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

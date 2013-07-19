@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5755</id>
+      <name>OpenSTA</name>
+      <url>http://www.ohloh.net/p/opensta.xml</url>
+      <html_url>http://www.ohloh.net/p/opensta</html_url>
+      <created_at>2007-06-02T09:53:02Z</created_at>
+      <updated_at>2013-06-28T00:19:32Z</updated_at>
+      <description>OpenSTA is a distributed software testing architecture designed around CORBA, it was originally developed to be commercial software by CYRANO. The current toolset has the capability of performing scripted HTTP and HTTPS heavy load tests with performance measurements from Win32 platforms.</description>
+      <homepage_url>http://www.opensta.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/opensta/files/</download_url>
+      <url_name>opensta</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14438839</analysis_id>
+      <tags>
+        <tag>quality</tag>
+        <tag>performance</tag>
+        <tag>qa</tag>
+        <tag>testing</tag>
+        <tag>load</tag>
+      </tags>
+      <analysis>
+        <id>14438839</id>
+        <url>http://www.ohloh.net/analyses/14438839.xml</url>
+        <project_id>5755</project_id>
+        <updated_at>2013-07-14T12:01:56Z</updated_at>
+        <logged_at>2013-07-14T11:59:20Z</logged_at>
+        <min_month>2000-09-01T00:00:00Z</min_month>
+        <max_month>2007-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>263674</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opensta/analyses/14438839/languages.png">
+          <language color="F35F1F" percentage="79" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="21" id="42">
+C          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

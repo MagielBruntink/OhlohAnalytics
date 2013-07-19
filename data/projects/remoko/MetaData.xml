@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23124</id>
+      <name>remoko</name>
+      <url>http://www.ohloh.net/p/remoko.xml</url>
+      <html_url>http://www.ohloh.net/p/remoko</html_url>
+      <created_at>2008-10-07T15:21:16Z</created_at>
+      <updated_at>2013-07-11T21:16:59Z</updated_at>
+      <description>OpenMoko Remote ControllerOpenMoko remote controller is a SoC 08 project, that aims to write a application that can make OpenMoko-powered devices appear to be a mixed Bluetooth keyboard-and-mouse device.</description>
+      <homepage_url>http://code.google.com/p/remoko</homepage_url>
+      <download_url>http://code.google.com/p/remoko</download_url>
+      <url_name>remoko</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14594220</analysis_id>
+      <tags>
+        <tag>controller</tag>
+        <tag>pybluez</tag>
+        <tag>bluez</tag>
+        <tag>bluetooth</tag>
+        <tag>soc</tag>
+        <tag>remote</tag>
+        <tag>openmoko</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14594220</id>
+        <url>http://www.ohloh.net/analyses/14594220.xml</url>
+        <project_id>23124</project_id>
+        <updated_at>2013-07-11T21:16:58Z</updated_at>
+        <logged_at>2013-07-11T21:16:47Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6192</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/remoko/analyses/14594220/languages.png">
+          <language color="4A246B" percentage="75" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="22" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

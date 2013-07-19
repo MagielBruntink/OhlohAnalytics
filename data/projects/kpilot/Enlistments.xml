@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>28016</id>
+      <project_id>15577</project_id>
+      <repository_id>27102</repository_id>
+      <repository>
+        <id>27102</id>
+        <type>SvnRepository</type>
+        <url>svn://anonsvn.kde.org/home/kde/trunk/KDE/kdepim/kpilot</url>
+        <username></username>
+        <password></password>
+        <logged_at>2009-12-10T22:39:06Z</logged_at>
+        <commits>839</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>115255</id>
+      <project_id>15577</project_id>
+      <repository_id>113368</repository_id>
+      <repository>
+        <id>113368</id>
+        <type>SvnRepository</type>
+        <url>svn://anonsvn.kde.org/home/kde/trunk/playground/pim/kpilot</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-11-04T21:22:01Z</logged_at>
+        <commits>885</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

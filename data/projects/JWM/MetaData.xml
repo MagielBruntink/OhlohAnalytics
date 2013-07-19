@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479961</id>
+      <name>JWM</name>
+      <url>http://www.ohloh.net/p/JWM.xml</url>
+      <html_url>http://www.ohloh.net/p/JWM</html_url>
+      <created_at>2009-12-19T16:29:42Z</created_at>
+      <updated_at>2013-06-23T17:43:18Z</updated_at>
+      <description>JWM (Joe's Window Manager) is a lightweight window manager for the X Window System written by Joe Wingbermuehle. JWM is written in C and uses only Xlib at a minimum. Support for the following can be added as compile-time options:
+
+    * PNG, JPG and XPM icons
+    * Xft
+    * Xinerama
+    * FriBidi
+    * The Shape extension
+
+It provides an interface akin to Windows 98 with a modern-looking appearance and it can support some GNOME, Motif and WM spec hints.
+
+JWM is the default window manager used in Damn Small Linux version 4.x, Tiny Core Linux, Puppy Linux and SliTaz GNU/Linux(&lt; 2.0).</description>
+      <homepage_url>http://www.joewing.net/programs/jwm/</homepage_url>
+      <download_url>http://sourceforge.net/projects/jwm/</download_url>
+      <url_name>JWM</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14364377</analysis_id>
+      <tags>
+        <tag>window_manager</tag>
+        <tag>windowmanager</tag>
+        <tag>lightweight</tag>
+      </tags>
+      <analysis>
+        <id>14364377</id>
+        <url>http://www.ohloh.net/analyses/14364377.xml</url>
+        <project_id>479961</project_id>
+        <updated_at>2013-07-17T14:10:48Z</updated_at>
+        <logged_at>2013-07-17T14:10:42Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>23484</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/JWM/analyses/14364377/languages.png">
+          <language color="FF8F00" percentage="77" id="42">
+C          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="EEE" percentage="8" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

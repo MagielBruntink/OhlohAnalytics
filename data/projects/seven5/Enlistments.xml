@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>466779</id>
+      <project_id>588435</project_id>
+      <repository_id>463556</repository_id>
+      <repository>
+        <id>463556</id>
+        <type>GitRepository</type>
+        <url>git://github.com/seven5/seven5.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-10-23T16:05:17Z</logged_at>
+        <commits>185</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>466780</id>
+      <project_id>588435</project_id>
+      <repository_id>463557</repository_id>
+      <repository>
+        <id>463557</id>
+        <type>GitRepository</type>
+        <url>git://github.com/seven5/seven5.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-08-13T02:41:38Z</logged_at>
+        <commits>113</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

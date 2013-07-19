@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25694</id>
+      <name>Mandos</name>
+      <url>http://www.ohloh.net/p/mandos.xml</url>
+      <html_url>http://www.ohloh.net/p/mandos</html_url>
+      <created_at>2008-10-18T12:30:03Z</created_at>
+      <updated_at>2013-07-18T17:15:59Z</updated_at>
+      <description>The Mandos system allows computers to have encrypted root file systems and at the same time be capable of remote and/or unattended reboots.
+
+The computers run a small client program in the initial RAM disk environment which will communicate with a server over a network.  All network communication is encrypted using TLS.  The clients are identified by the server using an OpenPGP key; each client has one unique to it.  The server sends the clients an encrypted password. The encrypted password is decrypted by the clients using the same OpenPGP key, and the password is then used to unlock the root file system, whereupon the computers can continue booting normally.</description>
+      <homepage_url>http://www.recompile.se/mandos</homepage_url>
+      <download_url>http://ftp.recompile.se/pub/mandos/</download_url>
+      <url_name>mandos</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>7980681</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>encryption</tag>
+        <tag>boottime</tag>
+        <tag>tls</tag>
+        <tag>dns-sd</tag>
+        <tag>luks</tag>
+        <tag>sysadmin</tag>
+        <tag>gnutls</tag>
+        <tag>privacy</tag>
+        <tag>boot</tag>
+        <tag>ipv6</tag>
+        <tag>encrypted</tag>
+        <tag>dm-crypt</tag>
+        <tag>zeroconf</tag>
+        <tag>networking</tag>
+        <tag>openpgp</tag>
+        <tag>avahi</tag>
+        <tag>tlsssl</tag>
+        <tag>gpgme</tag>
+        <tag>gpl3</tag>
+        <tag>security</tag>
+        <tag>linux</tag>
+        <tag>gnupg</tag>
+        <tag>lan</tag>
+        <tag>cryptsetup</tag>
+        <tag>crypto</tag>
+        <tag>gpg</tag>
+        <tag>cryptography</tag>
+        <tag>password</tag>
+        <tag>mdns</tag>
+      </tags>
+      <analysis>
+        <id>7980681</id>
+        <url>http://www.ohloh.net/analyses/7980681.xml</url>
+        <project_id>25694</project_id>
+        <updated_at>2012-05-11T11:53:51Z</updated_at>
+        <logged_at>2012-05-11T11:51:02Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>14833</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mandos/analyses/7980681/languages.png">
+          <language color="555555" percentage="35" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="33" id="42">
+C          </language>
+          <language color="4A246B" percentage="21" id="9">
+Python          </language>
+          <language color="000000" percentage="11" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588312</id>
+      <name>dwb</name>
+      <url>http://www.ohloh.net/p/dwb.xml</url>
+      <html_url>http://www.ohloh.net/p/dwb</html_url>
+      <created_at>2012-01-14T12:02:37Z</created_at>
+      <updated_at>2012-11-25T07:00:18Z</updated_at>
+      <description>dwb is a lightweight web browser based on the webkit web browser engine and the gtk toolkit.
+
+dwb is highly customizable and can be easily configured through a web interface. It intends to be mostly keyboard driven, inspired by firefox's vimperator plugin.</description>
+      <homepage_url>http://portix.bitbucket.org/dwb/</homepage_url>
+      <download_url>https://bitbucket.org/portix/dwb/downloads</download_url>
+      <url_name>dwb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8930067</analysis_id>
+      <tags>
+        <tag>webkit</tag>
+        <tag>vi</tag>
+        <tag>keyboard-driven</tag>
+        <tag>webbrowser</tag>
+        <tag>lightweight</tag>
+        <tag>keyboard</tag>
+        <tag>vimperator</tag>
+        <tag>webkitgtk</tag>
+      </tags>
+      <analysis>
+        <id>8930067</id>
+        <url>http://www.ohloh.net/analyses/8930067.xml</url>
+        <project_id>588312</project_id>
+        <updated_at>2012-07-01T20:53:58Z</updated_at>
+        <logged_at>2012-06-30T01:39:10Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>18050</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dwb/analyses/8930067/languages.png">
+          <language color="FF8F00" percentage="86" id="42">
+C          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

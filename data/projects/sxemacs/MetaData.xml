@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9927</id>
+      <name>SXEmacs</name>
+      <url>http://www.ohloh.net/p/sxemacs.xml</url>
+      <html_url>http://www.ohloh.net/p/sxemacs</html_url>
+      <created_at>2007-11-28T02:13:13Z</created_at>
+      <updated_at>2013-06-24T00:55:35Z</updated_at>
+      <description>SXEmacs is a highly customisable and extensible real-time display editor and IDE.  
+
+Yes, SXEmacs is an editor, but it is oh so much more than that too.  SXEmacs is like the Swiss Army Knife of Open Source, being everything from a tetris game to a full blown X11 window manager.
+
+It is easier to list what SXEmacs can't do than what it can... hmm, not sure, we haven't found anything worth doing yet that SXEmacs can't do (or be made to do).</description>
+      <homepage_url>http://www.sxemacs.org/</homepage_url>
+      <download_url>http://www.sxemacs.org/download.html</download_url>
+      <url_name>sxemacs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/47326/sxemacs-icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/47326/sxemacs-icon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14369638</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>technology</tag>
+        <tag>development</tag>
+        <tag>editor</tag>
+        <tag>syntax_highlighting</tag>
+        <tag>programming</tag>
+        <tag>x11</tag>
+        <tag>text_editors</tag>
+        <tag>emacs</tag>
+        <tag>editors</tag>
+        <tag>geek</tag>
+        <tag>unix</tag>
+        <tag>text_editor</tag>
+        <tag>lisp</tag>
+        <tag>emacs_lisp</tag>
+        <tag>posix</tag>
+        <tag>devtool</tag>
+        <tag>text</tag>
+      </tags>
+      <analysis>
+        <id>14369638</id>
+        <url>http://www.ohloh.net/analyses/14369638.xml</url>
+        <project_id>9927</project_id>
+        <updated_at>2013-07-19T00:51:53Z</updated_at>
+        <logged_at>2013-07-19T00:51:50Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>365213</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sxemacs/analyses/14369638/languages.png">
+          <language color="FF8F00" percentage="68" id="42">
+C          </language>
+          <language color="2B6B24" percentage="27" id="10">
+Emacs Lisp          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

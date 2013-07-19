@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>748</id>
+      <name>OpenTAL</name>
+      <url>http://www.ohloh.net/p/opental.xml</url>
+      <html_url>http://www.ohloh.net/p/opental</html_url>
+      <created_at>2006-10-11T04:35:33Z</created_at>
+      <updated_at>2013-06-20T11:56:07Z</updated_at>
+      <description>OpenTAL is a Python-based templating system for manipulation of XMLish data.
+The most obvious use is dynamic generation of webpages (similar in spirit to php, jsp and others).
+It implements the same language (TAL) used in Zope Page Templates; in fact one of the packages included is a Zope interface to the engine.
+See the Zope Book, at http://www.zope.org/Documentation/Books/ZopeBook/current/ZPT.stx, for more information about TAL.
+Most of the packages are distributed under the GNU GPL, version 2 or later, with one single exception - the &quot;pax&quot; package is public domain.
+Disclaimer: the &quot;Open&quot; in the name refers to its open architecture, meaning it is designed to be easily extended. It does not refer to &quot;open source&quot;; the developers of OpenTAL do not endorse &quot;open source&quot;. See http://www.gnu.org/philosophy/free-software-for-freedom.html for why.</description>
+      <homepage_url>http://savannah.nongnu.org/projects/opental/</homepage_url>
+      <download_url></download_url>
+      <url_name>opental</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14317271</analysis_id>
+      <tags>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14317271</id>
+        <url>http://www.ohloh.net/analyses/14317271.xml</url>
+        <project_id>748</project_id>
+        <updated_at>2013-07-17T08:18:21Z</updated_at>
+        <logged_at>2013-07-17T08:18:13Z</logged_at>
+        <min_month>2002-06-01T00:00:00Z</min_month>
+        <max_month>2006-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5052</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/opental/analyses/14317271/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="555555" percentage="&lt;1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

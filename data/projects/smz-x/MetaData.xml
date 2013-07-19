@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480249</id>
+      <name>Smeezix</name>
+      <url>http://www.ohloh.net/p/smz-x.xml</url>
+      <html_url>http://www.ohloh.net/p/smz-x</html_url>
+      <created_at>2010-01-05T03:37:59Z</created_at>
+      <updated_at>2013-06-23T04:52:41Z</updated_at>
+      <description>A free tiny OS that i work on in my spare time.
+please note the design is not great and it is very buggy.</description>
+      <homepage_url>http://www.linuxquestions.org/questions/general-10/a-binary-alpha-release-of-my-kernel-now-with-full-source-762850/</homepage_url>
+      <download_url>http://nbtv.angelfire.com/dlp.htm</download_url>
+      <url_name>smz-x</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14352147</analysis_id>
+      <analysis>
+        <id>14352147</id>
+        <url>http://www.ohloh.net/analyses/14352147.xml</url>
+        <project_id>480249</project_id>
+        <updated_at>2013-07-13T23:14:44Z</updated_at>
+        <logged_at>2013-07-13T23:14:39Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1024</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/smz-x/analyses/14352147/languages.png">
+          <language color="F35F1F" percentage="80" id="44">
+C++          </language>
+          <language color="333333" percentage="18" id="19">
+Assembly          </language>
+          <language color="AAAAAA" percentage="2" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

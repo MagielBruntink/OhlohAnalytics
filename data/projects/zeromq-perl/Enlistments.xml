@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>466474</id>
+      <project_id>484072</project_id>
+      <repository_id>463222</repository_id>
+      <repository>
+        <id>463222</id>
+        <type>GitRepository</type>
+        <url>git://github.com/lestrrat/ZeroMQ-Perl.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-15T09:16:50Z</logged_at>
+        <commits>305</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>225274</id>
+      <project_id>484072</project_id>
+      <repository_id>223069</repository_id>
+      <repository>
+        <id>223069</id>
+        <type>GitRepository</type>
+        <url>git://github.com/tsee/ZeroMQ-Perl.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-15T09:16:46Z</logged_at>
+        <commits>303</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

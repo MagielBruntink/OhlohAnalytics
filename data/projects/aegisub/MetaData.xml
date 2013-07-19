@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346462</id>
+      <name>Aegisub</name>
+      <url>http://www.ohloh.net/p/aegisub.xml</url>
+      <html_url>http://www.ohloh.net/p/aegisub</html_url>
+      <created_at>2009-06-10T22:01:15Z</created_at>
+      <updated_at>2012-09-12T15:13:05Z</updated_at>
+      <description>The Aegisub Project is a community-driven effort to write the BSDL licensed cross-platform (Windows, Unix, OS X) subtitle editor Aegisub. Composed completely of volunteers passionate about subtitling, as a project it strives to be open, fair and most of all: free.</description>
+      <homepage_url>http://www.aegisub.org/</homepage_url>
+      <download_url>http://www.aegisub.org/</download_url>
+      <url_name>aegisub</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39789/aegisub_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39789/aegisub_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10062509</analysis_id>
+      <tags>
+        <tag>osx</tag>
+        <tag>cross-platform</tag>
+        <tag>subtitleediting</tag>
+        <tag>unix</tag>
+        <tag>subtitlecreation</tag>
+        <tag>windows</tag>
+        <tag>subtitleeditor</tag>
+        <tag>subtitlecreator</tag>
+        <tag>subtitleresync</tag>
+        <tag>subtitle</tag>
+      </tags>
+      <analysis>
+        <id>10062509</id>
+        <url>http://www.ohloh.net/analyses/10062509.xml</url>
+        <project_id>346462</project_id>
+        <updated_at>2012-09-12T15:13:00Z</updated_at>
+        <logged_at>2012-09-12T15:12:50Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>91398</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/aegisub/analyses/10062509/languages.png">
+          <language color="F35F1F" percentage="67" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="19" id="42">
+C          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

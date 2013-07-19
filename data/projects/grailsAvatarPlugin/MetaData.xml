@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16257</id>
+      <name>grailsAvatarPlugin</name>
+      <url>http://www.ohloh.net/p/grailsAvatarPlugin.xml</url>
+      <html_url>http://www.ohloh.net/p/grailsAvatarPlugin</html_url>
+      <created_at>2008-08-23T21:39:41Z</created_at>
+      <updated_at>2013-06-30T20:58:25Z</updated_at>
+      <description>This plugin provides a taglib for displaying avatars. At the moment we only support gravatars (globally-recognized avatars).</description>
+      <homepage_url>http://grails.org/Avatar+Plugin</homepage_url>
+      <download_url>http://grails.org/Avatar+Plugin</download_url>
+      <url_name>grailsAvatarPlugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14485971</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>grails</tag>
+        <tag>gravatar</tag>
+        <tag>avatar</tag>
+        <tag>groovy</tag>
+      </tags>
+      <analysis>
+        <id>14485971</id>
+        <url>http://www.ohloh.net/analyses/14485971.xml</url>
+        <project_id>16257</project_id>
+        <updated_at>2013-07-17T06:10:29Z</updated_at>
+        <logged_at>2013-07-17T06:10:27Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>167</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grailsAvatarPlugin/analyses/14485971/languages.png">
+          <language color="C72C2C" percentage="85" id="29">
+Groovy          </language>
+          <language color="9A63AD" percentage="15" id="5">
+Java          </language>
+        </languages>
+        <main_language_id>29</main_language_id>
+        <main_language_name>Groovy</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

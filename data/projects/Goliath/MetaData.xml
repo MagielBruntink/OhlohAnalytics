@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>583980</id>
+      <name>Goliath</name>
+      <url>http://www.ohloh.net/p/Goliath.xml</url>
+      <html_url>http://www.ohloh.net/p/Goliath</html_url>
+      <created_at>2011-05-21T04:03:47Z</created_at>
+      <updated_at>2012-10-18T14:40:30Z</updated_at>
+      <description>Goliath is an open source version of the non-blocking (asynchronous) Ruby web server framework powering PostRank. It is a lightweight framework designed to meet the following goals: bare metal performance, Rack API and middleware support, simple configuration, fully asynchronous processing, and readable and maintainable code (read: no callbacks).</description>
+      <homepage_url>http://goliath.io</homepage_url>
+      <download_url>https://github.com/postrank-labs/goliath</download_url>
+      <url_name>Goliath</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10647568</analysis_id>
+      <tags>
+        <tag>server</tag>
+        <tag>framework</tag>
+        <tag>asynchronous</tag>
+        <tag>ruby</tag>
+        <tag>eventmachine</tag>
+        <tag>api</tag>
+        <tag>rack</tag>
+        <tag>http</tag>
+      </tags>
+      <analysis>
+        <id>10647568</id>
+        <url>http://www.ohloh.net/analyses/10647568.xml</url>
+        <project_id>583980</project_id>
+        <updated_at>2012-10-18T14:40:23Z</updated_at>
+        <logged_at>2012-10-18T14:40:14Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>31</twelve_month_contributor_count>
+        <total_code_lines>7729</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Goliath/analyses/10647568/languages.png">
+          <language color="A40011" percentage="94" id="12">
+Ruby          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

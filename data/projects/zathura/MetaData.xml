@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>68580</id>
+      <name>zathura</name>
+      <url>http://www.ohloh.net/p/zathura.xml</url>
+      <html_url>http://www.ohloh.net/p/zathura</html_url>
+      <created_at>2008-12-19T04:33:19Z</created_at>
+      <updated_at>2012-12-16T00:58:46Z</updated_at>
+      <description>Zathura is  a code generator for the JavaEE Platform. 
+
+Coming Soon 
+
+Netbeans 6.7.1 Plugin News: 
+
+Sep-24-2009: Video Tutorial Video Tutorial. 
+
+Aug-31-2009: Plugin for Eclipse3.5-jee-galileo New, Supports ICEfaces-1.8.1 New, Support JPA Lazy loading for DataTable with IceFaces. New, Support Sortable DataTable with IceFaces. New, Editable DataTable. New, Facelets Support Eclipse3.5 Galileo Template of WebFreeTemplate 10 bug fixed May-26-2009: Plugin for eclipse Beta3 Apr-30-2009: Plugin for eclipse Beta2 Mar-11-2009: Plugin for eclipse Beta1 Dic-15-2008: Version 0.1 Beta Oct-12-2008: Start generation tire - Dominio JavaEE-web-centric 
+
+Oct-7-2008: Start zathura-JavaEE-web-centric Oct-5-2008: End of zathura-generator Sep-10-2008: End of zathura-metadatareader 
+
+This project is of the Laboratorio en investigaci&#243;n para el desarrollo de la ingenier&#237;a de software(LIDIS) of San Buenaventura University Cali Colombia 
+
+The main idea behind Zathura is to allow developers to choose between different architectures and is based on Open Standards and JEE Design Patterns. This initial Beta development will only have a Web-Centric Architecture, while further releases will have additional ones. 
+
+Zathura intends to have all generated code as clean as possible, so that developers may alter and change the code to their needs. Zathura also enables developers to create their own architecture based on simple standards. 
+
+The main technologies used are: 
+
+Java   Icefaces  Presentation layer how data is going to be shown(Generated)   Velocity  Generates de code based on some templates(Generates)   JPA  Data Access Layer(Generated)   XML  Used for internal configuration for developers(Generates)  
+
+Technologies 
+
+IceFaces http://www.icefaces.org Hibernate http://www.hibernate.org Simple Logging Facade for Java http://www.slf4j.org/ Velocity http://velocity.apache.org/ Download:  
+
+Zathura-eclipse3.5-jee-galileo-plugins-v2.0.</description>
+      <homepage_url>http://code.google.com/p/zathura</homepage_url>
+      <download_url></download_url>
+      <url_name>zathura</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1820298</analysis_id>
+      <tags>
+        <tag>generator</tag>
+        <tag>eclipse</tag>
+        <tag>crud</tag>
+        <tag>jee</tag>
+        <tag>java</tag>
+        <tag>icefaces</tag>
+        <tag>jpql</tag>
+        <tag>ajax</tag>
+        <tag>jpa</tag>
+        <tag>ejb</tag>
+        <tag>mda</tag>
+        <tag>dao</tag>
+      </tags>
+      <analysis>
+        <id>1820298</id>
+        <url>http://www.ohloh.net/analyses/1820298.xml</url>
+        <project_id>68580</project_id>
+        <updated_at>2011-03-27T03:23:18Z</updated_at>
+        <logged_at>2010-09-20T10:32:10Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>27651</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zathura/analyses/1820298/languages.png">
+          <language color="FF1A00" percentage="72" id="4">
+CSS          </language>
+          <language color="9A63AD" percentage="23" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

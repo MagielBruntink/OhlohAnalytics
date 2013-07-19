@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16353</id>
+      <name>NASPRO</name>
+      <url>http://www.ohloh.net/p/naspro.xml</url>
+      <html_url>http://www.ohloh.net/p/naspro</html_url>
+      <created_at>2008-08-28T13:13:38Z</created_at>
+      <updated_at>2013-07-03T16:08:48Z</updated_at>
+      <description>NASPRO, acronym for &quot;NASPRO Architecture for Sound PROcessing&quot; is a collection of free and open source sound processing software built around the LV2 plugin standard.</description>
+      <homepage_url>http://naspro.sourceforge.net</homepage_url>
+      <download_url>http://naspro.atheme.org/downloads</download_url>
+      <url_name>naspro</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33118/icon64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33118/icon64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14515979</analysis_id>
+      <tags>
+        <tag>c</tag>
+        <tag>dsp</tag>
+        <tag>interoperability</tag>
+        <tag>effects</tag>
+        <tag>ladspa</tag>
+        <tag>free</tag>
+        <tag>audio</tag>
+        <tag>open-source</tag>
+        <tag>framework</tag>
+        <tag>plugin</tag>
+        <tag>api</tag>
+        <tag>lv2</tag>
+        <tag>dssi</tag>
+        <tag>sound</tag>
+        <tag>cross-platform</tag>
+        <tag>processing</tag>
+        <tag>bsd</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14515979</id>
+        <url>http://www.ohloh.net/analyses/14515979.xml</url>
+        <project_id>16353</project_id>
+        <updated_at>2013-07-17T17:51:05Z</updated_at>
+        <logged_at>2013-07-17T17:51:01Z</logged_at>
+        <min_month>2012-10-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12739</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/naspro/analyses/14515979/languages.png">
+          <language color="FF8F00" percentage="88" id="42">
+C          </language>
+          <language color="000000" percentage="12" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+        <license>
+          <name>isc</name>
+          <nice_name>ISC License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

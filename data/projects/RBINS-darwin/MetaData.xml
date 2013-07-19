@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587875</id>
+      <name>RBINS-darwin</name>
+      <url>http://www.ohloh.net/p/RBINS-darwin.xml</url>
+      <html_url>http://www.ohloh.net/p/RBINS-darwin</html_url>
+      <created_at>2011-12-21T22:57:18Z</created_at>
+      <updated_at>2013-07-17T20:43:48Z</updated_at>
+      <description>Darwin is an Open Source tool for collection management.
+It has been build by the IT departement of the Royal Belgian Institute of Natural Sciences.</description>
+      <homepage_url>http://darwin.naturalsciences.be</homepage_url>
+      <download_url>http://projects.naturalsciences.be/projects/darwin</download_url>
+      <url_name>RBINS-darwin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14599829</analysis_id>
+      <tags>
+        <tag>symfony</tag>
+        <tag>taxonomy</tag>
+        <tag>naturalsciences</tag>
+        <tag>collection_management</tag>
+        <tag>collection</tag>
+        <tag>collectionmanager</tag>
+        <tag>science</tag>
+        <tag>natural_sciences</tag>
+        <tag>php</tag>
+        <tag>catalog</tag>
+      </tags>
+      <analysis>
+        <id>14599829</id>
+        <url>http://www.ohloh.net/analyses/14599829.xml</url>
+        <project_id>587875</project_id>
+        <updated_at>2013-07-12T03:21:52Z</updated_at>
+        <logged_at>2013-07-12T03:19:00Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>103286</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/RBINS-darwin/analyses/14599829/languages.png">
+          <language color="356AA0" percentage="41" id="2">
+PHP          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="493625" percentage="17" id="30">
+SQL          </language>
+          <language color="000000" percentage="26" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

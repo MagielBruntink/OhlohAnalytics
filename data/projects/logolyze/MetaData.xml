@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488941</id>
+      <name>LogoLyze</name>
+      <url>http://www.ohloh.net/p/logolyze.xml</url>
+      <html_url>http://www.ohloh.net/p/logolyze</html_url>
+      <created_at>2011-03-30T11:16:57Z</created_at>
+      <updated_at>2013-06-26T09:03:49Z</updated_at>
+      <description>LogoLyze is a software to display an analyze graphs of all kind that are available in an OLAP database. LogoLyze is optimized for maximum flexiblity, regarding analyzation capabilities as well as the possibility to use the software with differently structured databases.</description>
+      <homepage_url>https://github.com/xhochy/logolyze</homepage_url>
+      <download_url></download_url>
+      <url_name>logolyze</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/42552/preview_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/42552/preview_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14414582</analysis_id>
+      <tags>
+        <tag>database</tag>
+        <tag>golap</tag>
+        <tag>olap</tag>
+        <tag>graph</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14414582</id>
+        <url>http://www.ohloh.net/analyses/14414582.xml</url>
+        <project_id>488941</project_id>
+        <updated_at>2013-07-14T17:54:01Z</updated_at>
+        <logged_at>2013-07-14T17:54:00Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>10998</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/logolyze/analyses/14414582/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>logolyze-bsd</name>
+          <nice_name>LogoLyze (4-clause BSD style)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

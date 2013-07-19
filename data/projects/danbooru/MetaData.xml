@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4036</id>
+      <name>danbooru</name>
+      <url>http://www.ohloh.net/p/danbooru.xml</url>
+      <html_url>http://www.ohloh.net/p/danbooru</html_url>
+      <created_at>2007-01-16T20:30:28Z</created_at>
+      <updated_at>2012-08-22T06:56:29Z</updated_at>
+      <description>Danbooru is a social web application that allows you to upload, share, and tag images. Much of it is inspired by both moeboard and Flickr. It was specifically designed to be of maximum utility to seasoned imageboard hunters. Some of these features include:
+
+    * Posts never expire
+    * Anonymously tag and comment on posts
+    * Tag blacklists
+    * Search for tags via intersection, union, negation, or pattern
+    * Integrated wiki
+    * Annotate images with notes
+    * Input a URL and Danbooru automatically downloads the file
+    * Duplicate post detection (via MD5 hashes)
+    * REST-based API
+    * Atom and RSS feeds for posts
+    * Bookmarklet and Firefox extension</description>
+      <homepage_url>http://danbooru.donmai.us</homepage_url>
+      <download_url></download_url>
+      <url_name>danbooru</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9678452</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>directory</tag>
+        <tag>social</tag>
+        <tag>image</tag>
+        <tag>application</tag>
+      </tags>
+      <analysis>
+        <id>9678452</id>
+        <url>http://www.ohloh.net/analyses/9678452.xml</url>
+        <project_id>4036</project_id>
+        <updated_at>2012-08-22T06:56:25Z</updated_at>
+        <logged_at>2012-08-22T06:55:34Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>39381</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/danbooru/analyses/9678452/languages.png">
+          <language color="A40011" percentage="47" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="40" id="6">
+JavaScript          </language>
+          <language color="493625" percentage="7" id="30">
+SQL          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

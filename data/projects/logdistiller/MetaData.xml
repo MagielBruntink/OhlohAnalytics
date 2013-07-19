@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13309</id>
+      <name>LogDistiller</name>
+      <url>http://www.ohloh.net/p/logdistiller.xml</url>
+      <html_url>http://www.ohloh.net/p/logdistiller</html_url>
+      <created_at>2008-04-12T10:53:52Z</created_at>
+      <updated_at>2013-07-01T07:49:37Z</updated_at>
+      <description>LogDistiller  is a log files merge and sort tool. It reads log files, parses them into structured log events with attributes, then classify them according rules configured in an XML file. Classification results go into reports, which are published according to the rules configuration: simply stored in a file, sent by mail, or even added in a news feed.</description>
+      <homepage_url>http://logdistiller.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=101369</download_url>
+      <url_name>logdistiller</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14494618</analysis_id>
+      <tags>
+        <tag>tools</tag>
+        <tag>ant</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14494618</id>
+        <url>http://www.ohloh.net/analyses/14494618.xml</url>
+        <project_id>13309</project_id>
+        <updated_at>2013-07-17T01:59:56Z</updated_at>
+        <logged_at>2013-07-17T01:58:32Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>14330</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/logdistiller/analyses/14494618/languages.png">
+          <language color="9A63AD" percentage="79" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

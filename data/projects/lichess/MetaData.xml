@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483715</id>
+      <name>Lichess</name>
+      <url>http://www.ohloh.net/p/lichess.xml</url>
+      <html_url>http://www.ohloh.net/p/lichess</html_url>
+      <created_at>2010-06-22T13:46:02Z</created_at>
+      <updated_at>2012-12-29T23:04:30Z</updated_at>
+      <description>The purpose of Lichess is to provide a minimalist Chess game.
+It requires no registration. You don't need to create an account.
+It requires no Flash and can be run from any modern web browser.
+
+Lichess provides following features:
+
+* Multiplayer
+* Single player with Artificial Intelligence
+* Castling
+* En passant
+* Promotion
+* Check, Chekmate &amp; Stalemate detection
+* Move hints and validation
+
+Lichess is built using only Open Source software, including:
+
+* PHP 5.3.2 with Symfony 2 &amp; PHPUnit
+* JavaScript with jQuery &amp; UI
+* HTML5 &amp; CSS
+* Ubuntu 10.04, nginx &amp; Vim
+* Crafty Chess engine</description>
+      <homepage_url>http://lichess.org</homepage_url>
+      <download_url>http://github.com/ornicar/lichess</download_url>
+      <url_name>lichess</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11899004</analysis_id>
+      <analysis>
+        <id>11899004</id>
+        <url>http://www.ohloh.net/analyses/11899004.xml</url>
+        <project_id>483715</project_id>
+        <updated_at>2012-12-29T23:04:30Z</updated_at>
+        <logged_at>2012-12-29T23:03:29Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>56152</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lichess/analyses/11899004/languages.png">
+          <language color="7DD3B0" percentage="35" id="55">
+Scala          </language>
+          <language color="A4007E" percentage="26" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="21" id="2">
+PHP          </language>
+          <language color="000000" percentage="18" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>55</main_language_id>
+        <main_language_name>Scala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

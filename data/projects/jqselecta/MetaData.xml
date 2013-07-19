@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>372263</id>
+      <name>jqselecta</name>
+      <url>http://www.ohloh.net/p/jqselecta.xml</url>
+      <html_url>http://www.ohloh.net/p/jqselecta</html_url>
+      <created_at>2009-08-13T18:08:30Z</created_at>
+      <updated_at>2013-07-04T14:02:00Z</updated_at>
+      <description>jqSelecta renders a scrollable tabular view of a  HTML element's s. 
+
+Useful for large data sets (with an arbitrary number of columns, as well as optional select all, select none and invert selection buttons) and also where you'd like the form elements to conform to the UI (i.e. themeroller skin). 
+
+It's non-destructive, in that the underlying form element isn't destroyed - the plugin maintains the state of the underlying select-option, so plain form submission will work and other JS components can access the select-option's state without tight coupling to the jqSelecta plugin. 
+
+State optionally persisted using cookies, and, in multi-select mode the cancel button reverts to previous selection. 
+
+For a full list of features/options see the wiki. 
+
+Notes: 
+
+This plugin is themeroller compatible as of jQueryUI 1.7 Currently this is quite a new project, i'll happily fix any bugs reported while it's still fresh =) Release 0.3 is now available</description>
+      <homepage_url>http://code.google.com/p/jqselecta/</homepage_url>
+      <download_url></download_url>
+      <url_name>jqselecta</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14527442</analysis_id>
+      <tags>
+        <tag>ui</tag>
+        <tag>selectoption</tag>
+        <tag>plugin</tag>
+        <tag>dropdownmenu</tag>
+        <tag>jquery-ui</tag>
+        <tag>jquery</tag>
+        <tag>form</tag>
+        <tag>javascript</tag>
+      </tags>
+      <analysis>
+        <id>14527442</id>
+        <url>http://www.ohloh.net/analyses/14527442.xml</url>
+        <project_id>372263</project_id>
+        <updated_at>2013-07-13T17:26:39Z</updated_at>
+        <logged_at>2013-07-13T17:26:36Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2010-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2878</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jqselecta/analyses/14527442/languages.png">
+          <language color="47A400" percentage="36" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="33" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="000000" percentage="20" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

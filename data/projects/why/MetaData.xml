@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482199</id>
+      <name>Why</name>
+      <url>http://www.ohloh.net/p/why.xml</url>
+      <html_url>http://www.ohloh.net/p/why</html_url>
+      <created_at>2010-04-01T12:11:20Z</created_at>
+      <updated_at>2013-07-18T05:39:47Z</updated_at>
+      <description>Why is a software verification platform.
+
+This platform contains several tools:
+
+    * a general-purpose verification condition generator (VCG), Why, which is used as a back-end by other verification tools (see below) but which can also be used directly to verify programs (see for instance these examples) ;
+    * a tool Krakatoa for the verification of Java programs;
+    * a tool Caduceus for the verification of C programs; note that Caduceus is somewhat obsolete now and users should turn to Frama-C instead. 
+
+One of the main features of Why is to be integrated with many existing provers (proof assistants such as Coq, PVS, Isabelle/HOL, HOL 4, HOL Light, Mizar and decision procedures such as Simplify, Alt-Ergo, Yices, Z3, CVC3, etc.).</description>
+      <homepage_url>http://why.lri.fr/</homepage_url>
+      <download_url>http://why.lri.fr/</download_url>
+      <url_name>why</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14672317</analysis_id>
+      <analysis>
+        <id>14672317</id>
+        <url>http://www.ohloh.net/analyses/14672317.xml</url>
+        <project_id>482199</project_id>
+        <updated_at>2013-07-18T05:39:47Z</updated_at>
+        <logged_at>2013-07-18T05:39:17Z</logged_at>
+        <min_month>2001-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>337666</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/why/analyses/14672317/languages.png">
+          <language color="3BE133" percentage="33" id="61">
+Objective Caml          </language>
+          <language color="CCCCCC" percentage="22" id="100">
+coq          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="35" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

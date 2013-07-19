@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>570285</id>
+      <name>highlight.js</name>
+      <url>http://www.ohloh.net/p/highlight_js.xml</url>
+      <html_url>http://www.ohloh.net/p/highlight_js</html_url>
+      <created_at>2011-05-09T10:27:58Z</created_at>
+      <updated_at>2013-06-16T19:58:51Z</updated_at>
+      <description>highlight.js by Ivan Sagalaev.
+
+Highlight.js highlights syntax in code examples on blogs, forums and in fact on any web pages. It's very easy to use because it works automatically: finds blocks of code, detects a language, highlights it.
+
+This is not only convenient but also allows highlighting for code examples marked up with writing syntaxes like Markdown where there is no way to specify HTML class easily.
+
+The library knows 41 languages and is bundled with 16 style themes.</description>
+      <homepage_url>http://softwaremaniacs.org/soft/highlight/</homepage_url>
+      <download_url>http://softwaremaniacs.org/soft/highlight/download/</download_url>
+      <url_name>highlight_js</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14282660</analysis_id>
+      <tags>
+        <tag>highlight</tag>
+        <tag>javascript</tag>
+        <tag>javascript_library</tag>
+        <tag>highlighter</tag>
+      </tags>
+      <analysis>
+        <id>14282660</id>
+        <url>http://www.ohloh.net/analyses/14282660.xml</url>
+        <project_id>570285</project_id>
+        <updated_at>2013-07-12T01:01:45Z</updated_at>
+        <logged_at>2013-07-12T01:01:43Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>35</twelve_month_contributor_count>
+        <total_code_lines>10671</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/highlight_js/analyses/14282660/languages.png">
+          <language color="A4007E" percentage="42" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="29" id="4">
+CSS          </language>
+          <language color="47A400" percentage="20" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

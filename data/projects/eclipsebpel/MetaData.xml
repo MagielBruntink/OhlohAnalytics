@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13423</id>
+      <name>Eclipse BPEL</name>
+      <url>http://www.ohloh.net/p/eclipsebpel.xml</url>
+      <html_url>http://www.ohloh.net/p/eclipsebpel</html_url>
+      <created_at>2008-04-18T02:18:45Z</created_at>
+      <updated_at>2012-10-22T20:28:37Z</updated_at>
+      <description>The goal of the BPEL Project is to add comprehensive support to Eclipse for the definition, authoring, editing, deploying, testing and debugging of WS-BPEL 2.0 processes. WS-BPEL (Web Services Business Process Execution Language), or BPEL, is a vendor-neutral specification being developed by OASIS to specify business processes as a set of interactions between web services. By providing these tools, this project aims to build a community around support for BPEL in Eclipse.
+
+The key pieces of functionality that will be provided are a GEF-based graphical editor, an EMF model that represents the WS-BPEL 2.0 specification, a validator, a runtime framework for deployment and execution of BPEL processes into a BPEL engine, and a debug framework allowing the user to step through the execution.</description>
+      <homepage_url>http://www.eclipse.org/bpel/</homepage_url>
+      <download_url>http://www.eclipse.org/bpel/downloads.php</download_url>
+      <url_name>eclipsebpel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>1.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5884235</analysis_id>
+      <analysis>
+        <id>5884235</id>
+        <url>http://www.ohloh.net/analyses/5884235.xml</url>
+        <project_id>13423</project_id>
+        <updated_at>2012-01-11T11:33:13Z</updated_at>
+        <logged_at>2012-01-11T11:32:51Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>376917</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eclipsebpel/analyses/5884235/languages.png">
+          <language color="9A63AD" percentage="87" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

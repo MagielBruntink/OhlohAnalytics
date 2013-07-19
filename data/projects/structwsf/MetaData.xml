@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>373237</id>
+      <name>structwsf</name>
+      <url>http://www.ohloh.net/p/structwsf.xml</url>
+      <html_url>http://www.ohloh.net/p/structwsf</html_url>
+      <created_at>2009-08-13T20:13:41Z</created_at>
+      <updated_at>2013-07-14T16:46:50Z</updated_at>
+      <description>structWSF is a platform-independent Web services framework for accessing and exposing structured  RDF data. Its central organizing perspective is that of the dataset. These datasets contain instance records, with the structural relationships amongst the data and their attributes and concepts defined via ontologies (schema with accompanying vocabularies).
+
+The structWSF middleware framework is generally RESTful in design and is based on HTTP and Web protocols and open standards. The initial structWSF framework comes packaged with a baseline set of about a dozen Web services in CRUD, browse, search and export and import. All Web services are exposed via APIs and SPARQL endpoints. Each request to an individual Web service returns an HTTP status and optionally a document of resultsets.</description>
+      <homepage_url>http://openstructs.org/structwsf</homepage_url>
+      <download_url>http://code.google.com/p/structwsf/downloads/list</download_url>
+      <url_name>structwsf</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35097/triple_90_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35097/triple_90_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14628154</analysis_id>
+      <tags>
+        <tag>rdf</tag>
+        <tag>semanticcontent</tag>
+        <tag>semantic-web</tag>
+        <tag>semanticwebservice</tag>
+        <tag>semantic</tag>
+        <tag>semanticnetwork</tag>
+        <tag>structureddata</tag>
+        <tag>linkeddata</tag>
+        <tag>structwsf</tag>
+        <tag>semanticweb</tag>
+        <tag>webservice</tag>
+      </tags>
+      <analysis>
+        <id>14628154</id>
+        <url>http://www.ohloh.net/analyses/14628154.xml</url>
+        <project_id>373237</project_id>
+        <updated_at>2013-07-14T16:46:49Z</updated_at>
+        <logged_at>2013-07-13T15:02:34Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>21588</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/structwsf/analyses/14628154/languages.png">
+          <language color="356AA0" percentage="97" id="2">
+PHP          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

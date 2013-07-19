@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22090</id>
+      <name>openvanilla</name>
+      <url>http://www.ohloh.net/p/openvanilla.xml</url>
+      <html_url>http://www.ohloh.net/p/openvanilla</html_url>
+      <created_at>2008-10-07T14:30:58Z</created_at>
+      <updated_at>2012-11-24T03:04:08Z</updated_at>
+      <description>Mac &#29256;&#26412;&#20351;&#29992;&#32773;&#65292;&#35531;&#25913;&#33267; github &#21462;&#24471;&#26368;&#26032;&#29256;&#26412;&#65306; http://github.com/lukhnos/openvanilla-oranje/downloads &#65292;&#20006;&#35531;&#21443;&#32771; 0.9.0a1 &#30340;&#29256;&#26412;&#30332;&#20296;&#35498;&#26126;&#65306; http://github.com/lukhnos/openvanilla-oranje/blob/master/Documents/20090826-Announcement.markdown  
+
+The source tree for the Mac version has been moved to http://github.com/lukhnos/openvanilla-oranje  
+
+OpenVanilla is an input method project. An input method is a system software program that people use to enter characters not found on their keyboards. The Project includes a large collection of Traditional and Simplified Chinese input methods as well as support for Taiwanese, Japanese, Tibetan, Unicode symbols, among others. 
+
+Input method development used to be platform-dependent. OpenVanilla provides a lightweight API that simplifies the process. Because of its minimalistic design, OpenVanilla is highly portable. Input method modules developed with OpenVanilla's API run smoothly on Mac OS X, Linux/FreeBSD, and Windows. 
+
+The Project also explores the possibilities of input method design. Topics include better user interface design and use cases beyond Asian languages. It's an open source project, participation welcome! 
+
+OpenVanilla&#65288;&#38283;&#25918;&#39321;&#33609;&#36664;&#20837;&#27861;&#35336;&#21123;&#65289;&#25552;&#20379;&#22810;&#31278;&#36664;&#20837;&#27861;&#24037;&#20855;&#65292;&#21487;&#20197;&#22312;Mac OS X&#12289;Linux/FreeBSD/Windows&#31561;&#24179;&#21488;&#19978;&#20351;&#29992;&#12290; 
+
+OpenVanilla&#30340;&#36629;&#37327;&#35373;&#35336;&#65292;&#31777;&#21270;&#20102;&#36664;&#20837;&#27861;&#30340;&#38283;&#30332;&#24037;&#20316;&#12290;&#21516;&#26178;OpenVanilla&#20063;&#38364;&#24515;&#36664;&#20837;&#27861;&#30340;&#21508;&#31278;&#21487;&#33021;&#24615;&#65292;&#20363;&#22914;&#26356;&#22909;&#30340;&#20351;&#29992;&#32773;&#20171;&#38754;&#35373;&#35336;&#65292;&#20197;&#21450;&#22914;&#20309;&#35731;&#36664;&#20837;&#27861;&#20063;&#33021;&#20351;&#29992;&#26044;&#20854;&#20182;&#35486;&#35328;&#12290;</description>
+      <homepage_url>http://code.google.com/p/openvanilla</homepage_url>
+      <download_url></download_url>
+      <url_name>openvanilla</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11334775</analysis_id>
+      <tags>
+        <tag>taiwanese</tag>
+        <tag>input-method</tag>
+        <tag>ime</tag>
+        <tag>nlp</tag>
+        <tag>japanese</tag>
+        <tag>hci</tag>
+        <tag>chinese</tag>
+        <tag>language</tag>
+      </tags>
+      <analysis>
+        <id>11334775</id>
+        <url>http://www.ohloh.net/analyses/11334775.xml</url>
+        <project_id>22090</project_id>
+        <updated_at>2012-11-24T03:03:59Z</updated_at>
+        <logged_at>2012-11-24T03:00:52Z</logged_at>
+        <min_month>2004-10-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>265096</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openvanilla/analyses/11334775/languages.png">
+          <language color="F35F1F" percentage="31" id="44">
+C++          </language>
+          <language color="555555" percentage="23" id="3">
+XML          </language>
+          <language color="EEE" percentage="11" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="35" id="">
+22 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>359629</id>
+      <name>easyXDM</name>
+      <url>http://www.ohloh.net/p/easyXDM.xml</url>
+      <html_url>http://www.ohloh.net/p/easyXDM</html_url>
+      <created_at>2009-08-07T21:34:48Z</created_at>
+      <updated_at>2012-10-25T17:46:01Z</updated_at>
+      <description>A javascript library that uses available techniques to to provide a means of transporting messages and/or method calls between windows in different domains.
+--------------------------------------
+Formerly known as easyXSS
+--------------------------------------
+The library is currently implementing postMessage for browsers that supports this and will fall back to using the IFrame URL Technique for all others, including IE6.
+
+See the homepage for more information.
+--------------------------------------
+Downloads are available at GitHub.</description>
+      <homepage_url>http://easyxdm.net</homepage_url>
+      <download_url>http://github.com/oyvindkinsey/easyXDM/downloads</download_url>
+      <url_name>easyXDM</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1534/js_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1534/js_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1950695</analysis_id>
+      <tags>
+        <tag>messaging</tag>
+        <tag>crosssite</tag>
+        <tag>cross-domain</tag>
+        <tag>interface</tag>
+        <tag>crossdocumentmessages</tag>
+        <tag>cross-site</tag>
+        <tag>secure</tag>
+        <tag>proxy</tag>
+        <tag>postmessage</tag>
+        <tag>crosssitescripting</tag>
+        <tag>easyxdm</tag>
+        <tag>browser</tag>
+        <tag>crossdomain</tag>
+        <tag>iframe</tag>
+        <tag>xss</tag>
+        <tag>javascript</tag>
+        <tag>cross-document</tag>
+        <tag>communication</tag>
+      </tags>
+      <analysis>
+        <id>1950695</id>
+        <url>http://www.ohloh.net/analyses/1950695.xml</url>
+        <project_id>359629</project_id>
+        <updated_at>2011-04-08T08:43:29Z</updated_at>
+        <logged_at>2011-04-08T08:43:26Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>4763</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/easyXDM/analyses/1950695/languages.png">
+          <language color="A4007E" percentage="83" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

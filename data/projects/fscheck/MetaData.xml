@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318207</id>
+      <name>FsCheck</name>
+      <url>http://www.ohloh.net/p/fscheck.xml</url>
+      <html_url>http://www.ohloh.net/p/fscheck</html_url>
+      <created_at>2009-03-05T13:09:53Z</created_at>
+      <updated_at>2013-07-15T09:36:32Z</updated_at>
+      <description>FsCheck is a tool for testing .NET programs automatically. The programmer provides a specification of the program, in the form of properties which functions, methods or objects should satisfy, and FsCheck then tests that the properties hold in a large number of randomly generated cases. While writing the properties, you are actually writing a testable specification of your program. Specifications are expressed in F#, using combinators defined in the FsCheck library. FsCheck provides combinators to define properties, observe the distribution of test data, and define test data generators. When a property fails, FsCheck automatically displays a minimal counter example.
+
+FsCheck started as a port of Haskell's QuickCheck, and draws from ideas in Scala's scalacheck as well.</description>
+      <homepage_url>https://github.com/fsharp/FsCheck</homepage_url>
+      <download_url>https://nuget.org/packages/FsCheck/</download_url>
+      <url_name>fscheck</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14637716</analysis_id>
+      <tags>
+        <tag>testing</tag>
+        <tag>unittesting</tag>
+        <tag>spec</tag>
+        <tag>specifications</tag>
+        <tag>net</tag>
+        <tag>unit-testing</tag>
+        <tag>fsharp</tag>
+      </tags>
+      <analysis>
+        <id>14637716</id>
+        <url>http://www.ohloh.net/analyses/14637716.xml</url>
+        <project_id>318207</project_id>
+        <updated_at>2013-07-15T09:36:32Z</updated_at>
+        <logged_at>2013-07-15T09:31:57Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>18741</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fscheck/analyses/14637716/languages.png">
+          <language color="555555" percentage="71" id="3">
+XML          </language>
+          <language color="B845FC" percentage="25" id="77">
+F#          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>77</main_language_id>
+        <main_language_name>F#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

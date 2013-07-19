@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9003</id>
+      <name>Japt-Proxy</name>
+      <url>http://www.ohloh.net/p/japt-proxy.xml</url>
+      <html_url>http://www.ohloh.net/p/japt-proxy</html_url>
+      <created_at>2007-10-06T22:16:27Z</created_at>
+      <updated_at>2012-05-22T00:13:27Z</updated_at>
+      <description>Japt-Proxy is a JAVA(TM) based Caching Proxy for Debian's APT-System. Japt-Proxy is lightning fast and very reliable. Japt-Proxy is usually used in environments where several Debian systems have to be kept up-to-date without downloading the same files over and over again from the debian mirrors. Mostly these environments are data centers, Linux-powered companies, schools, public authorities and so on.
+
+Often Japt-Proxy is used because of small sized internet connections but it is also useful to install complete debian systems over the net (read: over the proxy). Even with high volume internet connections Japt-Proxy can dramatically reduce the time to install or update Debian on many machines.</description>
+      <homepage_url>http://www.japt-proxy.org/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=160609</download_url>
+      <url_name>japt-proxy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8148916</analysis_id>
+      <tags>
+        <tag>apt</tag>
+        <tag>proxy</tag>
+        <tag>cache</tag>
+        <tag>java</tag>
+        <tag>debian</tag>
+        <tag>linux</tag>
+        <tag>rpm</tag>
+        <tag>deb</tag>
+      </tags>
+      <analysis>
+        <id>8148916</id>
+        <url>http://www.ohloh.net/analyses/8148916.xml</url>
+        <project_id>9003</project_id>
+        <updated_at>2012-06-09T08:58:22Z</updated_at>
+        <logged_at>2012-06-09T08:58:19Z</logged_at>
+        <min_month>2006-02-01T00:00:00Z</min_month>
+        <max_month>2008-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3589</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/japt-proxy/analyses/8148916/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>364</id>
+      <name>WINE for Darwin and Mac OS X</name>
+      <url>http://www.ohloh.net/p/darwine.xml</url>
+      <html_url>http://www.ohloh.net/p/darwine</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-07-09T19:43:51Z</updated_at>
+      <description>The Darwine project is a port of WINE to Mac OS X. The goal is to run X86 Windows applications under Mac OS X (and Darwin) without Microsoft Windows. A shorter term goal is to make Winelib work natively under Mac OS X enabling Win32 applications to be ported.</description>
+      <homepage_url>http://darwine.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=69890</download_url>
+      <url_name>darwine</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14574683</analysis_id>
+      <tags>
+        <tag>desktop_environment</tag>
+        <tag>mac</tag>
+        <tag>emulators</tag>
+        <tag>wine</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14574683</id>
+        <url>http://www.ohloh.net/analyses/14574683.xml</url>
+        <project_id>364</project_id>
+        <updated_at>2013-07-17T07:23:29Z</updated_at>
+        <logged_at>2013-07-17T07:18:29Z</logged_at>
+        <min_month>2003-10-01T00:00:00Z</min_month>
+        <max_month>2008-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3395</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/darwine/analyses/14574683/languages.png">
+          <language color="C7932C" percentage="63" id="16">
+Objective-C          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="16" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

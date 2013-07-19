@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>371921</id>
+      <name>equalsverifier</name>
+      <url>http://www.ohloh.net/p/equalsverifier.xml</url>
+      <html_url>http://www.ohloh.net/p/equalsverifier</html_url>
+      <created_at>2009-08-13T17:25:59Z</created_at>
+      <updated_at>2013-06-25T03:11:25Z</updated_at>
+      <description>EqualsVerifierEqualsVerifier can be used in Java unit tests to verify whether the contract for the equals and hashCode methods in a class is met. The contracts are described in the Javadoc comments for the java.lang.Object class. 
+
+Quick startMaven users: click here. Make sure the following jars are on the classpath: objenesis-1.1.jar cglib-nodep-2.2.jar The EqualsVerifier jar. See Featured Downloads to download. Use, as follows, in your unit test: @Test
+public void equalsContract() {
+    EqualsVerifier.forClass(My.class).verify();
+}Or, with some warnings suppressed: @Test
+public void equalsContract() {
+    EqualsVerifier.forClass(My.class)
+            .suppress(Warning.NONFINAL_FIELDS, Warning.NULL_FIELDS)
+            .verify();
+}When EqualsVerifier detects a problem, it will explain what it thinks is wrong. In some cases (mostly when it needs more information), it will say what to do to fix the problem. 
+
+The long storySee the Documentation. 
+
+What's newSee the Changelog.</description>
+      <homepage_url>http://code.google.com/p/equalsverifier/</homepage_url>
+      <download_url></download_url>
+      <url_name>equalsverifier</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14395122</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>equals</tag>
+        <tag>tostring</tag>
+        <tag>contract</tag>
+        <tag>junit</tag>
+        <tag>hashcode</tag>
+        <tag>unit-test</tag>
+      </tags>
+      <analysis>
+        <id>14395122</id>
+        <url>http://www.ohloh.net/analyses/14395122.xml</url>
+        <project_id>371921</project_id>
+        <updated_at>2013-07-13T19:03:04Z</updated_at>
+        <logged_at>2013-07-13T19:03:01Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8693</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/equalsverifier/analyses/14395122/languages.png">
+          <language color="9A63AD" percentage="96" id="5">
+Java          </language>
+          <language color="555555" percentage="4" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

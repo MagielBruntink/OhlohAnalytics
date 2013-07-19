@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23807</id>
+      <name>shedskin</name>
+      <url>http://www.ohloh.net/p/shedskin.xml</url>
+      <html_url>http://www.ohloh.net/p/shedskin</html_url>
+      <created_at>2008-10-07T15:54:52Z</created_at>
+      <updated_at>2012-02-22T20:14:31Z</updated_at>
+      <description>Shed Skin is an experimental compiler, that can translate pure, but implicitly statically typed Python programs into optimized C++. It can generate stand-alone programs or extension modules that can be imported and used in larger Python programs. 
+
+Besides the typing restriction, programs cannot freely use the Python standard library (although about 20 common modules, such as random and re, are currently supported). Also, not all Python features, such as nested functions and variable numbers of arguments, are supported (see the tutorial for details). 
+
+For a set of 44 non-trivial test programs (at over 10,000 lines in total (sloccount)), measurements show a typical speedup of 2-40 times over Psyco, and 2-220 times over CPython. Because Shed Skin is still in an early stage of development, however, many other programs will not compile out-of-the-box. 
+
+Shed Skin consists of only 5,300 lines of Python code (sloccount), and about 16,000 lines of C++ code (implementation of builtins and library modules). Unfortunately, there is still only one active developer, so please consider joining the project!</description>
+      <homepage_url>http://code.google.com/p/shedskin</homepage_url>
+      <download_url></download_url>
+      <url_name>shedskin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2728013</analysis_id>
+      <tags>
+        <tag>compiler</tag>
+        <tag>performance</tag>
+        <tag>rpython</tag>
+        <tag>psyco</tag>
+        <tag>c</tag>
+        <tag>python</tag>
+        <tag>llvm</tag>
+        <tag>unladenswallow</tag>
+        <tag>typeinference</tag>
+        <tag>statictyping</tag>
+        <tag>cplusplus</tag>
+        <tag>pypy</tag>
+      </tags>
+      <analysis>
+        <id>2728013</id>
+        <url>http://www.ohloh.net/analyses/2728013.xml</url>
+        <project_id>23807</project_id>
+        <updated_at>2011-07-02T15:08:16Z</updated_at>
+        <logged_at>2011-07-02T15:07:53Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>55586</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/shedskin/analyses/2728013/languages.png">
+          <language color="4A246B" percentage="65" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="34" id="44">
+C++          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

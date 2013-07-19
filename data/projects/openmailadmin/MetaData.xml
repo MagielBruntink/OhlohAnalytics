@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13935</id>
+      <name>Openmailadmin</name>
+      <url>http://www.ohloh.net/p/openmailadmin.xml</url>
+      <html_url>http://www.ohloh.net/p/openmailadmin</html_url>
+      <created_at>2008-05-12T11:27:10Z</created_at>
+      <updated_at>2012-10-20T01:11:38Z</updated_at>
+      <description>Openmailadmin is a administration interface to every complete IMAP mailserver daemon. It supports every feature IMAP provides, and fits in most MTA configurations. A key feature is the non-standard, generic administration hierarchy.</description>
+      <homepage_url>http://openmailadmin.ossdl.de/</homepage_url>
+      <download_url>http://static.ossdl.de/openmailadmin/downloads/</download_url>
+      <url_name>openmailadmin</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3862/openmailadmin_logo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3862/openmailadmin_logo_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10671226</analysis_id>
+      <tags>
+        <tag>cyrus-imap</tag>
+        <tag>web</tag>
+        <tag>email</tag>
+        <tag>server</tag>
+        <tag>mda</tag>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>tools</tag>
+        <tag>javascript</tag>
+        <tag>mta</tag>
+        <tag>imap</tag>
+        <tag>systems_administration</tag>
+      </tags>
+      <analysis>
+        <id>10671226</id>
+        <url>http://www.ohloh.net/analyses/10671226.xml</url>
+        <project_id>13935</project_id>
+        <updated_at>2012-10-29T09:15:31Z</updated_at>
+        <logged_at>2012-10-29T09:15:29Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2008-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6136</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openmailadmin/analyses/10671226/languages.png">
+          <language color="356AA0" percentage="65" id="2">
+PHP          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

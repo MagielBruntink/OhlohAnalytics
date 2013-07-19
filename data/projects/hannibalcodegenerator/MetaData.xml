@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>48511</id>
+      <name>hannibalcodegenerator</name>
+      <url>http://www.ohloh.net/p/hannibalcodegenerator.xml</url>
+      <html_url>http://www.ohloh.net/p/hannibalcodegenerator</html_url>
+      <created_at>2008-12-16T07:42:29Z</created_at>
+      <updated_at>2013-07-01T09:08:57Z</updated_at>
+      <description>&quot;We will either find a way, or make one.&quot; - Hannibal Barca 
+
+Hannibal Barca, the great Carthaginian general, is widely regarded as the greatest strategist and tactician of all time. His ability to engage the enemy, using innovative yet simple tactics in such a way as to ensure victory is second to none. Hannibal the code generator, strives to emulate Hannibal Barca's embodiment of minimalism, simplicity, and efficiency to advance pragmatic solutions to solve the problems associated with rapid web application development. 
+
+Hannibal is much more than a code generator. It is a code generator that produces code that is tied to small but effective Hannibal packages that allow developers to efficiently tackle a finite but commonly encountered set of problems. Hannibal is written in Java, but generates code in Java, JavaScript, php, and SQL. We plan to have Hannibal generate code in other languages as well. 
+
+We wanted to solve common problems encountered in web application development, without burdening the developer with the need to understand yet another tool set. Hannibal's supporting packages for Java and php merely support. When using Hannibal, it is our goal that the developer can quickly start creating code that works, and use and extend that generated code to build more interesting web applications. Here is a list of the common problems we are attempting to solve with Hannibal. 
+
+Persistence. URI templating and processing. Search Validation Presentation Authorization Audit Internationalization If we can make these things easier, we can claim success. 
+
+To meet this goal, here are some of the guidelines we developed over time to help of maintain focus: 
+
+Ruthlessly minimize Hannibal's technology set dependencies. Rely on the target programming language built-in capabilities as much as possible. Only when necessary use open source third party software libraries. Keep the amount of Hannibal specific code to a minimum. Cater to popular open source tools for creating web based applications, such as Tomcat, and MySQL. Encourage integration with modern programming platforms like Amazon Web Services. Whenever possible choose the target programming language to be used as a configuration language over other more popular choices like property files or XML. We will try very hard to keep these promises to ourselves.</description>
+      <homepage_url>http://code.google.com/p/hannibalcodegenerator</homepage_url>
+      <download_url>http://code.google.com/p/hannibalcodegenerator</download_url>
+      <url_name>hannibalcodegenerator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14497332</analysis_id>
+      <tags>
+        <tag>e4x</tag>
+        <tag>webservices</tag>
+        <tag>javascript</tag>
+        <tag>rss</tag>
+        <tag>code</tag>
+        <tag>sql</tag>
+        <tag>rdfa</tag>
+        <tag>rest</tag>
+        <tag>xhtml</tag>
+        <tag>java6</tag>
+        <tag>generation</tag>
+        <tag>atom</tag>
+        <tag>java</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>14497332</id>
+        <url>http://www.ohloh.net/analyses/14497332.xml</url>
+        <project_id>48511</project_id>
+        <updated_at>2013-07-18T07:29:38Z</updated_at>
+        <logged_at>2013-07-18T07:29:36Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17261</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hannibalcodegenerator/analyses/14497332/languages.png">
+          <language color="9A63AD" percentage="55" id="5">
+Java          </language>
+          <language color="A4007E" percentage="14" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="13" id="2">
+PHP          </language>
+          <language color="000000" percentage="18" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

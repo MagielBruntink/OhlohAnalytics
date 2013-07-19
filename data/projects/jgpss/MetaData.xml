@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596525</id>
+      <name>JGPSS</name>
+      <url>http://www.ohloh.net/p/jgpss.xml</url>
+      <html_url>http://www.ohloh.net/p/jgpss</html_url>
+      <created_at>2012-03-23T10:50:50Z</created_at>
+      <updated_at>2013-01-21T13:06:53Z</updated_at>
+      <description>GPSS has been used for years to teach simulation. Different tools following the GPSS syntax exist. Usually these tools can be used to construct simulation models helping in the teaching of simulation. However no available framework is capable to simplify the development of a complete simulation tool following the GPSS syntax. This paper presents JGPSS, a framework based in Java language that can be used by students to build a complete simulation tool following the GPSS syntax. 
+JGPSS has two versions, one capable to perform simulations and obtain statistical information, and other designed as a framework for students of computer sciences.</description>
+      <homepage_url>http://jgpss.liam.upc.edu/</homepage_url>
+      <download_url>http://jgpss.liam.upc.edu/downloads</download_url>
+      <url_name>jgpss</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51879/JGPSS_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51879/JGPSS_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12264633</analysis_id>
+      <tags>
+        <tag>gpss</tag>
+        <tag>simulation_framework</tag>
+        <tag>simulation</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>12264633</id>
+        <url>http://www.ohloh.net/analyses/12264633.xml</url>
+        <project_id>596525</project_id>
+        <updated_at>2013-02-14T11:18:22Z</updated_at>
+        <logged_at>2013-02-14T11:18:18Z</logged_at>
+        <min_month>2012-03-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11479</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jgpss/analyses/12264633/languages.png">
+          <language color="9A63AD" percentage="61" id="5">
+Java          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="47A400" percentage="14" id="1">
+HTML          </language>
+          <language color="EEE" percentage="&lt;1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

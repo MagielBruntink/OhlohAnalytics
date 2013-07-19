@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487865</id>
+      <name>Pundle</name>
+      <url>http://www.ohloh.net/p/pundle.xml</url>
+      <html_url>http://www.ohloh.net/p/pundle</html_url>
+      <created_at>2011-01-30T18:05:24Z</created_at>
+      <updated_at>2012-09-05T00:32:13Z</updated_at>
+      <description>Pundle enables you to specify all the dependencies required by your program, so they can be easily installed by everyone else. It also helps you in setting up your different environments, like development, testing, qa und productive.</description>
+      <homepage_url>https://github.com/T-Moe/Pundle</homepage_url>
+      <download_url>http://tmoe.cloudcontrolled.com/pear</download_url>
+      <url_name>pundle</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10006296</analysis_id>
+      <tags>
+        <tag>php5</tag>
+        <tag>resolver</tag>
+        <tag>dependency</tag>
+        <tag>php</tag>
+        <tag>tool</tag>
+      </tags>
+      <analysis>
+        <id>10006296</id>
+        <url>http://www.ohloh.net/analyses/10006296.xml</url>
+        <project_id>487865</project_id>
+        <updated_at>2012-09-11T20:56:08Z</updated_at>
+        <logged_at>2012-09-11T20:55:47Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3596</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pundle/analyses/10006296/languages.png">
+          <language color="356AA0" percentage="96" id="2">
+PHP          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd_2clause_ish</name>
+          <nice_name>BSD 2-clause &quot;Simplified&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

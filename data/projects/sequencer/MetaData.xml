@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587333</id>
+      <name>The sequencer</name>
+      <url>http://www.ohloh.net/p/sequencer.xml</url>
+      <html_url>http://www.ohloh.net/p/sequencer</html_url>
+      <created_at>2011-11-18T10:37:49Z</created_at>
+      <updated_at>2013-07-18T03:56:57Z</updated_at>
+      <description>The sequencer is an engine used by system administrators for the computation and execution of sequences of actions over hardware or software (for example powering on/off a whole cluster or a data-center). The sequencer is very efficient still handling failures nicely.
+
+The sequencer is particularly useful for the creation of Emergency Power Off (EPO) commands.</description>
+      <homepage_url>http://pv-bull.github.com/sequencer/</homepage_url>
+      <download_url>https://github.com/pv-bull/sequencer/downloads</download_url>
+      <url_name>sequencer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14671111</analysis_id>
+      <tags>
+        <tag>powersystem</tag>
+        <tag>launcherprogram</tag>
+        <tag>systemtool</tag>
+        <tag>systemsmanagement</tag>
+        <tag>systems</tag>
+        <tag>systemadministration</tag>
+        <tag>system</tag>
+        <tag>administrator</tag>
+        <tag>administration</tag>
+        <tag>python</tag>
+        <tag>admin</tag>
+        <tag>admintools</tag>
+        <tag>system_administration</tag>
+        <tag>systems_administration</tag>
+        <tag>systems_management</tag>
+        <tag>system-management</tag>
+        <tag>launcher</tag>
+        <tag>datacenter</tag>
+        <tag>parallelization</tag>
+      </tags>
+      <analysis>
+        <id>14671111</id>
+        <url>http://www.ohloh.net/analyses/14671111.xml</url>
+        <project_id>587333</project_id>
+        <updated_at>2013-07-18T03:56:56Z</updated_at>
+        <logged_at>2013-07-18T03:56:37Z</logged_at>
+        <min_month>2011-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>17267</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sequencer/analyses/14671111/languages.png">
+          <language color="4A246B" percentage="89" id="9">
+Python          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>173335</id>
+      <name>DManager</name>
+      <url>http://www.ohloh.net/p/dmanager.xml</url>
+      <html_url>http://www.ohloh.net/p/dmanager</html_url>
+      <created_at>2009-01-16T12:19:11Z</created_at>
+      <updated_at>2013-07-09T14:50:41Z</updated_at>
+      <description>The Document Manager is a PHP application that allows anybody to share and manage documents online, with an easy and configurable web interface. 
+
+The document manager administrator can create user accounts and give them rights on the documents.
+
+version 2.0 does not requires anything else than PHP, version 3.0 requires a MySQL database and includes a simple search engine. 
+
+All versions are working with Linux, MacOSX or Windows Apache and PHP.</description>
+      <homepage_url>http://www.dmanager.org/</homepage_url>
+      <download_url>http://www.dmanager.org/download.php</download_url>
+      <url_name>dmanager</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44195/pelican_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44195/pelican_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14573289</analysis_id>
+      <tags>
+        <tag>windows</tag>
+        <tag>linux</tag>
+        <tag>document_management</tag>
+        <tag>webapplication</tag>
+        <tag>english</tag>
+        <tag>macosx</tag>
+        <tag>spanish</tag>
+        <tag>contentmanagement</tag>
+        <tag>french</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>14573289</id>
+        <url>http://www.ohloh.net/analyses/14573289.xml</url>
+        <project_id>173335</project_id>
+        <updated_at>2013-07-15T19:22:34Z</updated_at>
+        <logged_at>2013-07-15T19:22:30Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8837</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dmanager/analyses/14573289/languages.png">
+          <language color="356AA0" percentage="76" id="2">
+PHP          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

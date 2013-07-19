@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>122921</id>
+      <name>osgi-logging</name>
+      <url>http://www.ohloh.net/p/osgi-logging.xml</url>
+      <html_url>http://www.ohloh.net/p/osgi-logging</html_url>
+      <created_at>2009-01-02T22:12:52Z</created_at>
+      <updated_at>2012-11-01T20:41:47Z</updated_at>
+      <description>This project contains the source code and documentation extracted from articles of my blog. 
+
+For a complete discussion of how to OSGi-fy a legacy logging system and how to set up a logging architecture in an OSGi server, please refer to the Wiki Articles. 
+
+For the impatient, or for the people that only want to have a quick overview of the architecture, you can directly go the last article of the series HERE, you don't need to read the other articles of the series, unless you wish to go into the implementation details. 
+
+IMPORTANT NOTE: A fork of the project was started there: https://www.ohloh.net/p/osgi-logging As I don't work anymore on this code, you may probably find worth getting fresh code from the fork rather than here.</description>
+      <homepage_url>http://code.google.com/p/osgi-logging</homepage_url>
+      <download_url></download_url>
+      <url_name>osgi-logging</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11009096</analysis_id>
+      <analysis>
+        <id>11009096</id>
+        <url>http://www.ohloh.net/analyses/11009096.xml</url>
+        <project_id>122921</project_id>
+        <updated_at>2012-11-29T17:36:12Z</updated_at>
+        <logged_at>2012-11-29T17:36:07Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2090</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/osgi-logging/analyses/11009096/languages.png">
+          <language color="9A63AD" percentage="65" id="5">
+Java          </language>
+          <language color="555555" percentage="32" id="3">
+XML          </language>
+          <language color="EEE" percentage="3" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

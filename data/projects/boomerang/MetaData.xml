@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12644</id>
+      <name>boomerang</name>
+      <url>http://www.ohloh.net/p/boomerang.xml</url>
+      <html_url>http://www.ohloh.net/p/boomerang</html_url>
+      <created_at>2008-03-09T23:17:02Z</created_at>
+      <updated_at>2013-07-18T13:39:31Z</updated_at>
+      <description>After a program has been thrown into the world in binary form, it can boomerang back as source code. The Boomerang reverse engineering framework is the first general native executable decompiler available to the public.</description>
+      <homepage_url>http://boomerang.sourceforge.net/</homepage_url>
+      <download_url>http://boomerang.sourceforge.net/</download_url>
+      <url_name>boomerang</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14676806</analysis_id>
+      <analysis>
+        <id>14676806</id>
+        <url>http://www.ohloh.net/analyses/14676806.xml</url>
+        <project_id>12644</project_id>
+        <updated_at>2013-07-18T13:39:30Z</updated_at>
+        <logged_at>2013-07-18T13:28:51Z</logged_at>
+        <min_month>2002-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>252568</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/boomerang/analyses/14676806/languages.png">
+          <language color="F35F1F" percentage="83" id="44">
+C++          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="11" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602718</id>
+      <name>hackaton-portal</name>
+      <url>http://www.ohloh.net/p/hackaton-portal.xml</url>
+      <html_url>http://www.ohloh.net/p/hackaton-portal</html_url>
+      <created_at>2012-06-18T09:00:00Z</created_at>
+      <updated_at>2012-11-02T07:38:35Z</updated_at>
+      <description>hackaton.pl project</description>
+      <homepage_url>http://www.hackaton.pl</homepage_url>
+      <download_url></download_url>
+      <url_name>hackaton-portal</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55222/twitter_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55222/twitter_logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11024275</analysis_id>
+      <tags>
+        <tag>playframework</tag>
+        <tag>hackathon</tag>
+        <tag>scala</tag>
+        <tag>squeryl</tag>
+      </tags>
+      <analysis>
+        <id>11024275</id>
+        <url>http://www.ohloh.net/analyses/11024275.xml</url>
+        <project_id>602718</project_id>
+        <updated_at>2012-11-02T07:38:29Z</updated_at>
+        <logged_at>2012-11-02T07:38:15Z</logged_at>
+        <min_month>2012-06-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>9308</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hackaton-portal/analyses/11024275/languages.png">
+          <language color="7DD3B0" percentage="66" id="55">
+Scala          </language>
+          <language color="47A400" percentage="23" id="1">
+HTML          </language>
+          <language color="244776" percentage="5" id="90">
+CoffeeScript          </language>
+          <language color="000000" percentage="6" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>55</main_language_id>
+        <main_language_name>Scala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

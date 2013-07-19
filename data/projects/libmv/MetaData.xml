@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>48532</id>
+      <name>libmv</name>
+      <url>http://www.ohloh.net/p/libmv.xml</url>
+      <html_url>http://www.ohloh.net/p/libmv</html_url>
+      <created_at>2008-12-16T07:45:54Z</created_at>
+      <updated_at>2013-06-19T09:27:28Z</updated_at>
+      <description>Currently libmv is only for developers interested in contributing, because it is undergoing a rewrite. It is non-functional at this time. 
+
+libmv is a structure from motion library, which plans to one day take raw video footage or photographs, and produce full camera calibration information and dense 3D models. 
+
+The first targeted application for libmv is to integrate with Blender to make the first open source matchmoving solution. Other matchmoving programs include Andersson's SynthEyes, 2d3's Boujou, RealViz MatchMover, Voodoo Tracker, PFTrack by The Pixel Farm, 3D-Equalizer by Science-D-Visions, Scenespector's VooCAT, among others. A  high-profile application of structure-from-motion is Microsoft's Photosynth, which recently released their SfM source code as GPL. 
+
+The launchpad site is deprecated and superseded by this code.google.com project. 
+
+Matchmoving exampleHere's a sequence that was matchmoved with libmv1: input video, 2D tracking with UKLT (unfortunately it's impossible to see the track markers with the compression), Suzanne added with blender. 
+
+Note that the old version is finicky, so this example required careful tweaking to successfully track. 
+
+Developers needed!If you're a developer interested in helping, please join the list! There are lots of things to work on depending on preferences and skillset. Someone with Qt experience who's interested in making a basic GUI could make a big difference to the project. 
+
+If you make a patch, please make a code review for it on Rietvelt and mail it to the list.</description>
+      <homepage_url>http://code.google.com/p/libmv</homepage_url>
+      <download_url></download_url>
+      <url_name>libmv</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14304929</analysis_id>
+      <tags>
+        <tag>reconstruction</tag>
+        <tag>vision</tag>
+        <tag>sfm</tag>
+        <tag>computervision</tag>
+      </tags>
+      <analysis>
+        <id>14304929</id>
+        <url>http://www.ohloh.net/analyses/14304929.xml</url>
+        <project_id>48532</project_id>
+        <updated_at>2013-07-17T00:52:29Z</updated_at>
+        <logged_at>2013-07-17T00:51:05Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>447264</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libmv/analyses/14304929/languages.png">
+          <language color="F35F1F" percentage="62" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="37" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
