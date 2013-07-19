@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318930</id>
+      <name>PIWI Framework</name>
+      <url>http://www.ohloh.net/p/piwiframework.xml</url>
+      <html_url>http://www.ohloh.net/p/piwiframework</html_url>
+      <created_at>2009-03-10T12:35:54Z</created_at>
+      <updated_at>2013-07-06T12:42:50Z</updated_at>
+      <description>PIWI is an XML/XSLT Transformation Framework written in PHP. It's basic concepts and ideas have been stolen from the great Java-Applications Apache Cocoon and Apache Forrest. Cocoon is still a great webframework, but very complex and of course in Java, which makes it not useful for people who want the power for their small project, but not the pain. Apache Forrest on the other hand is a publishing framework; powerful too but hard to install and quite complex. PIWI addresses some of the problems of both and provides web framework and publishing features. Its easy to install, to learn and to extend.</description>
+      <homepage_url>http://piwi.googlecode.com/</homepage_url>
+      <download_url>http://code.google.com/p/piwi/downloads/list</download_url>
+      <url_name>piwiframework</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/15598/piwi-logo_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/15598/piwi-logo_small_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14550062</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>xslt</tag>
+        <tag>php5</tag>
+        <tag>transformation</tag>
+        <tag>cocoon</tag>
+        <tag>forrest</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14550062</id>
+        <url>http://www.ohloh.net/analyses/14550062.xml</url>
+        <project_id>318930</project_id>
+        <updated_at>2013-07-16T02:54:03Z</updated_at>
+        <logged_at>2013-07-16T02:54:00Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>145648</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/piwiframework/analyses/14550062/languages.png">
+          <language color="356AA0" percentage="62" id="2">
+PHP          </language>
+          <language color="47A400" percentage="13" id="1">
+HTML          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="14" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

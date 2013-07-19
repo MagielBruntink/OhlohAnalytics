@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584420</id>
+      <name>The Dradis Framework</name>
+      <url>http://www.ohloh.net/p/dradisframework.xml</url>
+      <html_url>http://www.ohloh.net/p/dradisframework</html_url>
+      <created_at>2011-06-09T19:32:41Z</created_at>
+      <updated_at>2013-07-12T00:32:44Z</updated_at>
+      <description>Dradis is an open source framework to enable effective information sharing, specially during security assessments.
+
+Our goals:
+
+Share the information effectively.
+Easy to use, easy to be adopted. Otherwise it would present little benefit over other systems.
+Flexible: with a powerful and simple extensions interface.
+Small and portable. You should be able to use it while on site (no outside connectivity). It should be OS independent (no two testers use the same OS).
+Some of the features:
+
+Platform independent
+Easy report generation: in Word, HTML, etc.
+Markup support for the notes: styles, images, links, etc.
+Integration with existing systems and tools: Burp Scanner, Metasploit, Nessus, NeXpose, Nikto, Nmap, OpenVAS, OSVDB, SureCheck, Vuln::DB, w3af, wXf</description>
+      <homepage_url>http://dradisframework.org</homepage_url>
+      <download_url>http://dradisframework.org/download.html</download_url>
+      <url_name>dradisframework</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14597098</analysis_id>
+      <tags>
+        <tag>hacking</tag>
+        <tag>vulnerability</tag>
+        <tag>security</tag>
+        <tag>pentest</tag>
+      </tags>
+      <analysis>
+        <id>14597098</id>
+        <url>http://www.ohloh.net/analyses/14597098.xml</url>
+        <project_id>584420</project_id>
+        <updated_at>2013-07-18T05:26:58Z</updated_at>
+        <logged_at>2013-07-18T05:26:55Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>23877</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dradisframework/analyses/14597098/languages.png">
+          <language color="A40011" percentage="76" id="12">
+Ruby          </language>
+          <language color="A4007E" percentage="18" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

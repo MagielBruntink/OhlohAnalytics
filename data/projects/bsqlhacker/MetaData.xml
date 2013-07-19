@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16149</id>
+      <name>BSQL Hacker</name>
+      <url>http://www.ohloh.net/p/bsqlhacker.xml</url>
+      <html_url>http://www.ohloh.net/p/bsqlhacker</html_url>
+      <created_at>2008-08-17T20:30:47Z</created_at>
+      <updated_at>2012-10-15T00:12:12Z</updated_at>
+      <description>BSQL (Blind SQL) Hacker is an automated SQL Injection Framework / Tool designed to exploit SQL injection vulnerabilities virtually in any database.
+
+BSQL Hacker aims for experienced users as well as beginners who want to automate SQL Injections (especially Blind SQL Injections).
+
+It allows metasploit similar exploit repository to share and update exploits.</description>
+      <homepage_url>http://code.google.com/p/bsqlhacker/</homepage_url>
+      <download_url>http://code.google.com/p/bsqlhacker/downloads/list</download_url>
+      <url_name>bsqlhacker</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9159612</analysis_id>
+      <tags>
+        <tag>bsql</tag>
+        <tag>exploit</tag>
+        <tag>security</tag>
+        <tag>sqli</tag>
+        <tag>sql</tag>
+        <tag>injection</tag>
+      </tags>
+      <analysis>
+        <id>9159612</id>
+        <url>http://www.ohloh.net/analyses/9159612.xml</url>
+        <project_id>16149</project_id>
+        <updated_at>2012-07-21T22:42:50Z</updated_at>
+        <logged_at>2012-07-21T14:23:16Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>22358</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bsqlhacker/analyses/9159612/languages.png">
+          <language color="2C5DC7" percentage="66" id="15">
+Visual Basic          </language>
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="AAAAAA" percentage="&lt;1" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>15</main_language_id>
+        <main_language_name>Visual Basic</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

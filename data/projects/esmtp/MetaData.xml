@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26078</id>
+      <name>esmtp</name>
+      <url>http://www.ohloh.net/p/esmtp.xml</url>
+      <html_url>http://www.ohloh.net/p/esmtp</html_url>
+      <created_at>2008-11-06T13:02:54Z</created_at>
+      <updated_at>2013-07-06T11:14:37Z</updated_at>
+      <description>A simple SMTP client library for sending email from erlang systems.</description>
+      <homepage_url>https://github.com/archaelus/esmtp/tree</homepage_url>
+      <download_url>https://github.com/archaelus/esmtp/tree</download_url>
+      <url_name>esmtp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14548718</analysis_id>
+      <analysis>
+        <id>14548718</id>
+        <url>http://www.ohloh.net/analyses/14548718.xml</url>
+        <project_id>26078</project_id>
+        <updated_at>2013-07-17T10:45:36Z</updated_at>
+        <logged_at>2013-07-17T10:45:27Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>888</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/esmtp/analyses/14548718/languages.png">
+          <language color="6A2CC7" percentage="98" id="28">
+Erlang          </language>
+          <language color="EEE" percentage="2" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>28</main_language_id>
+        <main_language_name>Erlang</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

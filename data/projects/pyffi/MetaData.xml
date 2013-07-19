@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8809</id>
+      <name>pyffi</name>
+      <url>http://www.ohloh.net/p/pyffi.xml</url>
+      <html_url>http://www.ohloh.net/p/pyffi</html_url>
+      <created_at>2007-09-28T18:38:37Z</created_at>
+      <updated_at>2012-10-27T11:53:08Z</updated_at>
+      <description>The Python File Format Interface, briefly PyFFI, is an open source Python library for processing block structured binary files:
+
+* Simple: Reading, writing, and manipulating complex binary files in a Python environment is easy! Currently, PyFFI supports the NetImmerse/Gamebryo NIF and KFM formats, CryTek's CGF format, the DDS format, and the TGA format.
+
+* Batteries included: Many tools for files used by 3D games, such as a stripifier, tangent space calculator, 2d/3d hull algorithms, inertia calculator, as well as a general purpose file editor QSkope (using PyQt4), are included.
+
+* Modular: Its highly modular design makes it easy to add support for new formats, and also to extend existing functionality.</description>
+      <homepage_url>http://pyffi.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=199269</download_url>
+      <url_name>pyffi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10844735</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>3d</tag>
+        <tag>game</tag>
+        <tag>library</tag>
+        <tag>algorithms</tag>
+        <tag>parser</tag>
+        <tag>linux</tag>
+        <tag>python</tag>
+        <tag>tools</tag>
+        <tag>format</tag>
+      </tags>
+      <analysis>
+        <id>10844735</id>
+        <url>http://www.ohloh.net/analyses/10844735.xml</url>
+        <project_id>8809</project_id>
+        <updated_at>2012-10-27T11:53:02Z</updated_at>
+        <logged_at>2012-10-27T08:50:55Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>36440</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyffi/analyses/10844735/languages.png">
+          <language color="4A246B" percentage="64" id="9">
+Python          </language>
+          <language color="556677" percentage="19" id="35">
+XML Schema          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

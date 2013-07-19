@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50438</id>
+      <name>cnc-milling-machine</name>
+      <url>http://www.ohloh.net/p/cnc-milling-machine.xml</url>
+      <html_url>http://www.ohloh.net/p/cnc-milling-machine</html_url>
+      <created_at>2008-12-16T12:41:20Z</created_at>
+      <updated_at>2013-07-06T21:56:38Z</updated_at>
+      <description>The CNC PCB Milling Machine project is the complete specifications for the software and hardware for a complete light duty Computer and Numerical Control (CNC) milling machine designed primarily to mill isolation traces in copper clad printed circuit board material.  Additionally, it can handle milling of soft materials such as plastics and aluminum. 
+
+This entire project is now open source.  This includes the design of the physical machine itself (most of which I owe to many other excellent sources), the design of the electronic motor driver circuit, the PIC assembly source code for the firmware embedded in the driver circuit, and the Java source code for the GUI based application that runs the machine. 
+
+I am very much a junk box designer.  The primary selection criteria from most of the hardware that makes up this project was what I already had on-hand or could obtain cheaply form local resources and EBay.  The design of the physical machine was limited by what I could do with a limited set of power woodworking tools (Table Saw, small Drill Press, Router and Router Table, and Power Miter saw).  There is practically nothing in the physical design of the machine itself that did not come from one of the many excellent references sources I found via a never-ending series of Google searches. 
+
+The software is my own design, influenced heavily by the ideas of many others that had done similar projects in the past.  It is not the best example of my Java development work, but I am proud of it just the same. 
+
+Currently, the software works only with my machine microcode.  It does not generate any G-Code output or convert between formats, but it certainly could go that direction.  There is a simulated machine mode that can work without a connection to the microcode.  It will do the displays and generate the isolation traces, etc.  Modifications to output G-Code (or any other protocol) would not be terribly hard to do, and could be fit into the project nicely.</description>
+      <homepage_url>http://code.google.com/p/cnc-milling-machine</homepage_url>
+      <download_url></download_url>
+      <url_name>cnc-milling-machine</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14555940</analysis_id>
+      <tags>
+        <tag>pcb</tag>
+        <tag>pic</tag>
+        <tag>hardware</tag>
+        <tag>electronics</tag>
+        <tag>milling</tag>
+        <tag>java</tag>
+        <tag>swing</tag>
+        <tag>cnc</tag>
+        <tag>firmware</tag>
+        <tag>gerber</tag>
+        <tag>rs274x</tag>
+      </tags>
+      <analysis>
+        <id>14555940</id>
+        <url>http://www.ohloh.net/analyses/14555940.xml</url>
+        <project_id>50438</project_id>
+        <updated_at>2013-07-15T00:43:59Z</updated_at>
+        <logged_at>2013-07-15T00:43:56Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12371</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cnc-milling-machine/analyses/14555940/languages.png">
+          <language color="333333" percentage="53" id="19">
+Assembly          </language>
+          <language color="9A63AD" percentage="45" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>19</main_language_id>
+        <main_language_name>Assembly</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5103</id>
+      <name>plausj: German Bank Account Check</name>
+      <url>http://www.ohloh.net/p/plausj.xml</url>
+      <html_url>http://www.ohloh.net/p/plausj</html_url>
+      <created_at>2007-05-05T15:17:56Z</created_at>
+      <updated_at>2013-07-06T23:07:47Z</updated_at>
+      <description>Java library that provides support for checking german bank account codes for formal validity. 
+This check is done on base of the algorithm information provided by the german central bank, the &quot;Deutsche Bundesbank&quot;.
+This library is part of the &quot;plausj&quot; library collection. It is a project that aims to provide high quality check digit calculation implementations in java for miscellaneous business keys.</description>
+      <homepage_url>http://plausj.sourceforge.net/bank_german</homepage_url>
+      <download_url></download_url>
+      <url_name>plausj</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.2</average_rating>
+      <rating_count>5</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14556923</analysis_id>
+      <tags>
+        <tag>checksum</tag>
+        <tag>finance</tag>
+        <tag>java</tag>
+        <tag>bank</tag>
+        <tag>account</tag>
+        <tag>validation</tag>
+        <tag>payment</tag>
+        <tag>e-commerce</tag>
+      </tags>
+      <analysis>
+        <id>14556923</id>
+        <url>http://www.ohloh.net/analyses/14556923.xml</url>
+        <project_id>5103</project_id>
+        <updated_at>2013-07-15T09:49:42Z</updated_at>
+        <logged_at>2013-07-15T09:45:50Z</logged_at>
+        <min_month>2005-06-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17640</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/plausj/analyses/14556923/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

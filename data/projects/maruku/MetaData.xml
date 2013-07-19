@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26293</id>
+      <name>maruku</name>
+      <url>http://www.ohloh.net/p/maruku.xml</url>
+      <html_url>http://www.ohloh.net/p/maruku</html_url>
+      <created_at>2008-11-07T22:39:07Z</created_at>
+      <updated_at>2012-10-18T07:44:11Z</updated_at>
+      <description>Maruku is a Markdown interpreter for Ruby. It also implements the syntax of PHP Markdown extra.</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>maruku</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10643456</analysis_id>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+      <analysis>
+        <id>10643456</id>
+        <url>http://www.ohloh.net/analyses/10643456.xml</url>
+        <project_id>26293</project_id>
+        <updated_at>2012-10-27T18:01:11Z</updated_at>
+        <logged_at>2012-10-27T18:01:06Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>6348</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/maruku/analyses/10643456/languages.png">
+          <language color="A40011" percentage="92" id="12">
+Ruby          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

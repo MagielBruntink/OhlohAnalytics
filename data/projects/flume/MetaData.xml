@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588373</id>
+      <name>Apache Flume</name>
+      <url>http://www.ohloh.net/p/flume.xml</url>
+      <html_url>http://www.ohloh.net/p/flume</html_url>
+      <created_at>2012-01-16T18:57:05Z</created_at>
+      <updated_at>2013-07-17T01:57:14Z</updated_at>
+      <description>Apache Flume is a system for reliably collecting high-throughput data from streaming data sources like logs.</description>
+      <homepage_url>http://incubator.apache.org/flume</homepage_url>
+      <download_url>http://www.apache.org/dyn/closer.cgi/incubator/flume</download_url>
+      <url_name>flume</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14655874</analysis_id>
+      <tags>
+        <tag>hdfs</tag>
+        <tag>streamingdata</tag>
+        <tag>java</tag>
+        <tag>hadoop</tag>
+        <tag>bigdata</tag>
+        <tag>apache-software-foundation</tag>
+        <tag>apache</tag>
+        <tag>data</tag>
+        <tag>mapreduce</tag>
+      </tags>
+      <analysis>
+        <id>14655874</id>
+        <url>http://www.ohloh.net/analyses/14655874.xml</url>
+        <project_id>588373</project_id>
+        <updated_at>2013-07-17T01:57:14Z</updated_at>
+        <logged_at>2013-07-17T01:55:49Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>69698</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flume/analyses/14655874/languages.png">
+          <language color="9A63AD" percentage="91" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

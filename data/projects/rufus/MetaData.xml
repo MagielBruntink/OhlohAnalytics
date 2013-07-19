@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11727</id>
+      <name>rufus</name>
+      <url>http://www.ohloh.net/p/rufus.xml</url>
+      <html_url>http://www.ohloh.net/p/rufus</html_url>
+      <created_at>2008-02-15T02:25:11Z</created_at>
+      <updated_at>2012-09-11T20:40:32Z</updated_at>
+      <description>A set of Ruby gems like rufus-scheduler, rufus-decision, rufus-rtm, ...</description>
+      <homepage_url>http://rufus.rubyforge.org</homepage_url>
+      <download_url>http://rubyforge.org/frs/?group_id=4812</download_url>
+      <url_name>rufus</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11312/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11312/icon_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10055405</analysis_id>
+      <tags>
+        <tag>ruby</tag>
+        <tag>scheduler</tag>
+        <tag>rtm</tag>
+        <tag>rubygem</tag>
+      </tags>
+      <analysis>
+        <id>10055405</id>
+        <url>http://www.ohloh.net/analyses/10055405.xml</url>
+        <project_id>11727</project_id>
+        <updated_at>2012-09-11T20:40:28Z</updated_at>
+        <logged_at>2012-09-11T20:35:34Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>20972</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rufus/analyses/10055405/languages.png">
+          <language color="A40011" percentage="95" id="12">
+Ruby          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

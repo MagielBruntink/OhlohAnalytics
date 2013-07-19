@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587204</id>
+      <name>geozet</name>
+      <url>http://www.ohloh.net/p/geozet.xml</url>
+      <html_url>http://www.ohloh.net/p/geozet</html_url>
+      <created_at>2011-11-11T15:07:04Z</created_at>
+      <updated_at>2013-07-15T02:50:50Z</updated_at>
+      <description>Geozet is a geo-viewer, designed to give citizens who visit (local) governmental websites easy access to governmental information on a map.
+
+Very important is the fact that Geozet complies with the guidelines for web accessability. Research conducted by the Dutch Accessibility Foundation states that the GEOZET-viewer meets at least the criteria to comply with the Web Content Accessibility Guidelines (WCAG) 1.0, priority 2 standards.</description>
+      <homepage_url>https://github.com/geozet</homepage_url>
+      <download_url>http://www.osor.eu/projects/geozet</download_url>
+      <url_name>geozet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14634716</analysis_id>
+      <tags>
+        <tag>accessibility</tag>
+        <tag>geoext</tag>
+        <tag>openlayers</tag>
+        <tag>java</tag>
+        <tag>geotools</tag>
+        <tag>extjs</tag>
+        <tag>javascript</tag>
+        <tag>wcag</tag>
+      </tags>
+      <analysis>
+        <id>14634716</id>
+        <url>http://www.ohloh.net/analyses/14634716.xml</url>
+        <project_id>587204</project_id>
+        <updated_at>2013-07-15T02:50:49Z</updated_at>
+        <logged_at>2013-07-15T02:50:07Z</logged_at>
+        <min_month>2011-11-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>151526</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geozet/analyses/14634716/languages.png">
+          <language color="A4007E" percentage="75" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

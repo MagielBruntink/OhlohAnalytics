@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>17252</id>
+      <project_id>4290</project_id>
+      <repository_id>16715</repository_id>
+      <repository>
+        <id>16715</id>
+        <type>SvnRepository</type>
+        <url>https://panopticode.svn.sourceforge.net/svnroot/panopticode/panopticode-java/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2008-07-30T00:03:41Z</logged_at>
+        <commits>439</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>17807</id>
+      <project_id>4290</project_id>
+      <repository_id>17254</repository_id>
+      <repository>
+        <id>17254</id>
+        <type>SvnSyncRepository</type>
+        <url>https://panopticode.svn.sourceforge.net/svnroot/panopticode/peacock/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2008-07-21T16:12:27Z</logged_at>
+        <commits>19</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

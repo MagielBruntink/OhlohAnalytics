@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589091</id>
+      <name>jCapture applet</name>
+      <url>http://www.ohloh.net/p/jcapture_applet.xml</url>
+      <html_url>http://www.ohloh.net/p/jcapture_applet</html_url>
+      <created_at>2012-02-14T02:52:39Z</created_at>
+      <updated_at>2013-06-29T21:15:27Z</updated_at>
+      <description>jCapture is a Java applet which allows to capture screen shots or record screen activity and audio and upload them directly to your web application (wiki, CMS, etc.) With jCapture you can quickly create documentation pages for UI-rich software products.
+
+It is built-in to Tiki 10 and is available via a plug-in for DokuWiki, saving directly to the media manager.
+
+It will be ported other web applications.
+
+Key features
+* Select screen area
+* Capture screenshot as PNG, JPG, etc.
+* Record video
+** Audio from microphone
+** Pause during the recording
+** Play before upload
+** Post-recording editor to remove frames
+** Pick splash frame
+** Generates a .swf file</description>
+      <homepage_url>http://www.hammurapi.com/dokuwiki/doku.php/products:jcapture:start</homepage_url>
+      <download_url>http://www.hammurapi.com/products/jcapture/jcapture.zip</download_url>
+      <url_name>jcapture_applet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14468331</analysis_id>
+      <tags>
+        <tag>screen_capture</tag>
+        <tag>screencapture</tag>
+        <tag>flash</tag>
+        <tag>video</tag>
+        <tag>dokuwiki</tag>
+        <tag>php</tag>
+        <tag>web_based</tag>
+        <tag>java</tag>
+        <tag>applet</tag>
+        <tag>capture</tag>
+        <tag>image</tag>
+        <tag>screenshot</tag>
+        <tag>tikiwiki</tag>
+        <tag>recording</tag>
+        <tag>screenshots</tag>
+        <tag>screen</tag>
+      </tags>
+      <analysis>
+        <id>14468331</id>
+        <url>http://www.ohloh.net/analyses/14468331.xml</url>
+        <project_id>589091</project_id>
+        <updated_at>2013-07-17T19:20:07Z</updated_at>
+        <logged_at>2013-07-17T19:20:02Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>5171</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jcapture_applet/analyses/14468331/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

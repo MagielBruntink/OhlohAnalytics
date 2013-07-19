@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9800</id>
+      <name>aforth</name>
+      <url>http://www.ohloh.net/p/aforth.xml</url>
+      <html_url>http://www.ohloh.net/p/aforth</html_url>
+      <created_at>2007-11-22T00:44:29Z</created_at>
+      <updated_at>2013-06-29T20:13:30Z</updated_at>
+      <description>Embedabble Forth interpreter written in Ada</description>
+      <homepage_url>http://www.rfc1149.net/blog/2006/05/30/forth-interpreter-and-readline-library-in-ada/</homepage_url>
+      <download_url>http://www.rfc1149.net/blog/2006/05/30/forth-interpreter-and-readline-library-in-ada/</download_url>
+      <url_name>aforth</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14467071</analysis_id>
+      <tags>
+        <tag>interpreter</tag>
+        <tag>forth</tag>
+        <tag>ada</tag>
+      </tags>
+      <analysis>
+        <id>14467071</id>
+        <url>http://www.ohloh.net/analyses/14467071.xml</url>
+        <project_id>9800</project_id>
+        <updated_at>2013-07-18T12:09:58Z</updated_at>
+        <logged_at>2013-07-18T12:09:57Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2080</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/aforth/analyses/14467071/languages.png">
+          <language color="FAE028" percentage="88" id="21">
+Ada          </language>
+          <language color="B845FC" percentage="6" id="77">
+F#          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>21</main_language_id>
+        <main_language_name>Ada</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNAT_Modified_General_Public_License</name>
+          <nice_name>GNAT Modified General Public License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

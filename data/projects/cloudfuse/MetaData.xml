@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>87217</id>
+      <name>cloudfuse</name>
+      <url>http://www.ohloh.net/p/cloudfuse.xml</url>
+      <html_url>http://www.ohloh.net/p/cloudfuse</html_url>
+      <created_at>2008-12-20T20:59:37Z</created_at>
+      <updated_at>2012-12-02T21:30:45Z</updated_at>
+      <description>Mosso's Cloud Files is a remote storage system which is similar in principle to Amazon's S3.  It provides a simple RESTful interface to storing and retrieving objects. 
+
+http://www.mosso.com/cloudfiles.jsp 
+cloudfuse is a simple filesystem implemented with FUSE which provides access to Cloud Files. 
+
+It is still quite rough, but should improve with time and use.</description>
+      <homepage_url>http://github.com/redbo/cloudfuse/</homepage_url>
+      <download_url></download_url>
+      <url_name>cloudfuse</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>cloud</tag>
+        <tag>storage</tag>
+        <tag>fuse</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

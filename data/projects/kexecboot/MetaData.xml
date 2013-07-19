@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482645</id>
+      <name>kexecboot</name>
+      <url>http://www.ohloh.net/p/kexecboot.xml</url>
+      <html_url>http://www.ohloh.net/p/kexecboot</html_url>
+      <created_at>2010-04-27T11:13:29Z</created_at>
+      <updated_at>2013-06-25T23:10:06Z</updated_at>
+      <description>Kexecboot is a C program able to scan the partitions on available devices, offering a graphical framebuffer menu and allowing user to select from which one to boot. Specifically, kexecboot creates the command line for kexec.
+
+Typically kexecboot resides together with kexec in a small initramfs, embedded in a custom-tailored kernel compiled with support for initramfs and kexec system call. Both binaries are built static, linked against klibc to optimize size. Kexecboot may be linked against other *libc (glibc, eglibc, uclibc) and may be used as standalone binary as well.</description>
+      <homepage_url>http://kexecboot.org</homepage_url>
+      <download_url>http://kexecboot.org/download</download_url>
+      <url_name>kexecboot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409809</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>embeddedlinux</tag>
+        <tag>boot</tag>
+        <tag>bootloader</tag>
+        <tag>zaurus</tag>
+        <tag>embedded</tag>
+        <tag>gui</tag>
+      </tags>
+      <analysis>
+        <id>14409809</id>
+        <url>http://www.ohloh.net/analyses/14409809.xml</url>
+        <project_id>482645</project_id>
+        <updated_at>2013-07-16T05:48:58Z</updated_at>
+        <logged_at>2013-07-16T05:48:56Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>11543</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kexecboot/analyses/14409809/languages.png">
+          <language color="FF8F00" percentage="99" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

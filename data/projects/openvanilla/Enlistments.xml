@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>115139</id>
+      <project_id>22090</project_id>
+      <repository_id>113252</repository_id>
+      <repository>
+        <id>113252</id>
+        <type>GitRepository</type>
+        <url>git://github.com/lukhnos/openvanilla-oranje.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-11-24T03:00:52Z</logged_at>
+        <commits>2979</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>99420</id>
+      <project_id>22090</project_id>
+      <repository_id>97865</repository_id>
+      <repository>
+        <id>97865</id>
+        <type>SvnSyncRepository</type>
+        <url>http://openvanilla.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2012-11-27T11:24:26Z</logged_at>
+        <commits>2884</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

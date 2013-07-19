@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15626</id>
+      <name>Kamaelia</name>
+      <url>http://www.ohloh.net/p/kamaelia.xml</url>
+      <html_url>http://www.ohloh.net/p/kamaelia</html_url>
+      <created_at>2008-07-20T10:29:12Z</created_at>
+      <updated_at>2013-07-01T02:35:36Z</updated_at>
+      <description>Kamaelia is a general component framework for all programmers and maintainable development.</description>
+      <homepage_url>http://kamaelia.sourceforge.net/Home</homepage_url>
+      <download_url>http://kamaelia.sourceforge.net/Download</download_url>
+      <url_name>kamaelia</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14490495</analysis_id>
+      <tags>
+        <tag>bbc</tag>
+        <tag>concurrency</tag>
+        <tag>python</tag>
+        <tag>open_source</tag>
+      </tags>
+      <analysis>
+        <id>14490495</id>
+        <url>http://www.ohloh.net/analyses/14490495.xml</url>
+        <project_id>15626</project_id>
+        <updated_at>2013-07-19T06:48:43Z</updated_at>
+        <logged_at>2013-07-19T06:41:00Z</logged_at>
+        <min_month>2004-10-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>736820</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kamaelia/analyses/14490495/languages.png">
+          <language color="4A246B" percentage="69" id="9">
+Python          </language>
+          <language color="EEE" percentage="10" id="51">
+Autoconf          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="14" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

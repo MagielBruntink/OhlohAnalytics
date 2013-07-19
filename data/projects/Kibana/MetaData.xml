@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603211</id>
+      <name>Kibana</name>
+      <url>http://www.ohloh.net/p/Kibana.xml</url>
+      <html_url>http://www.ohloh.net/p/Kibana</html_url>
+      <created_at>2012-07-05T03:44:50Z</created_at>
+      <updated_at>2013-05-31T13:58:09Z</updated_at>
+      <description>A log analyzing web interface for logstash and elasticsearch</description>
+      <homepage_url>https://github.com/rashidkpc/Kibana</homepage_url>
+      <download_url>https://github.com/rashidkpc/Kibana/downloads</download_url>
+      <url_name>Kibana</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65338/kibana_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65338/kibana_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>10615026</analysis_id>
+      <tags>
+        <tag>sinatra</tag>
+        <tag>logstash</tag>
+        <tag>elasticsearch</tag>
+        <tag>bootstrap</tag>
+      </tags>
+      <analysis>
+        <id>10615026</id>
+        <url>http://www.ohloh.net/analyses/10615026.xml</url>
+        <project_id>603211</project_id>
+        <updated_at>2012-11-06T08:31:53Z</updated_at>
+        <logged_at>2012-11-06T08:31:52Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>13869</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Kibana/analyses/10615026/languages.png">
+          <language color="FF1A00" percentage="47" id="4">
+CSS          </language>
+          <language color="A4007E" percentage="47" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="6" id="2">
+PHP          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

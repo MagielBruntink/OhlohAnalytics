@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17010</id>
+      <name>debug_mode=ON</name>
+      <url>http://www.ohloh.net/p/debug_mode_on.xml</url>
+      <html_url>http://www.ohloh.net/p/debug_mode_on</html_url>
+      <created_at>2008-10-01T13:55:23Z</created_at>
+      <updated_at>2013-07-06T03:09:50Z</updated_at>
+      <description>debug_mode=ON is a social network for developers in Spanish.
+
+You can write articles, can join in groups, create new groups, talk in forums, write comments to articles ...</description>
+      <homepage_url>http://www.debugmodeon.com</homepage_url>
+      <download_url>https://developer.berlios.de/projects/debugmodeon/</download_url>
+      <url_name>debug_mode_on</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14545494</analysis_id>
+      <tags>
+        <tag>appengine</tag>
+        <tag>python</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14545494</id>
+        <url>http://www.ohloh.net/analyses/14545494.xml</url>
+        <project_id>17010</project_id>
+        <updated_at>2013-07-14T15:36:48Z</updated_at>
+        <logged_at>2013-07-14T15:36:45Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>21845</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/debug_mode_on/analyses/14545494/languages.png">
+          <language color="4A246B" percentage="59" id="9">
+Python          </language>
+          <language color="A4007E" percentage="20" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="16" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

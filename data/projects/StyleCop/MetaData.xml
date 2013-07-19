@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588487</id>
+      <name>StyleCop</name>
+      <url>http://www.ohloh.net/p/StyleCop.xml</url>
+      <html_url>http://www.ohloh.net/p/StyleCop</html_url>
+      <created_at>2012-01-21T00:22:30Z</created_at>
+      <updated_at>2013-06-28T18:59:35Z</updated_at>
+      <description>StyleCop analyzes C# source code to enforce a set of style and consistency rules. It can be run from inside of Visual Studio or integrated into an MSBuild project. StyleCop has also been integrated into many third-party development tools.</description>
+      <homepage_url>http://stylecop.codeplex.com/</homepage_url>
+      <download_url>http://stylecop.codeplex.com/releases/</download_url>
+      <url_name>StyleCop</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14447438</analysis_id>
+      <tags>
+        <tag>codingstandards</tag>
+        <tag>csharp</tag>
+        <tag>code</tag>
+        <tag>stylecop</tag>
+        <tag>code_analysis</tag>
+        <tag>c#</tag>
+        <tag>visualstudio</tag>
+      </tags>
+      <analysis>
+        <id>14447438</id>
+        <url>http://www.ohloh.net/analyses/14447438.xml</url>
+        <project_id>588487</project_id>
+        <updated_at>2013-07-17T12:56:23Z</updated_at>
+        <logged_at>2013-07-17T12:56:19Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4436040</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/StyleCop/analyses/14447438/languages.png">
+          <language color="555555" percentage="86" id="3">
+XML          </language>
+          <language color="4096EE" percentage="13" id="17">
+C#          </language>
+          <language color="000000" percentage="1" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Microsoft_Public_License_</name>
+          <nice_name>Microsoft Public License </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

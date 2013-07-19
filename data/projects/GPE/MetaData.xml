@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26735</id>
+      <name>GPE - G Palmtop Environment</name>
+      <url>http://www.ohloh.net/p/GPE.xml</url>
+      <html_url>http://www.ohloh.net/p/GPE</html_url>
+      <created_at>2008-11-14T08:19:11Z</created_at>
+      <updated_at>2013-06-23T12:17:08Z</updated_at>
+      <description>The GPE Palmtop Environment (GPE) is a collection of integrated software components optimized for (but not limited to) handheld and other input constrained and resource limited devices. GPE provides PIM (calendaring, todo management, contact management and note taking), Multimedia (audio playback and image viewing) and connectivity solutions (web browsing). Another major goal of GPE is to encourage people to work on free software for mobile devices and to experiment with new technologies.</description>
+      <homepage_url>http://gpe.linuxtogo.org/</homepage_url>
+      <download_url>http://gpe.linuxtogo.org/download.phtml</download_url>
+      <url_name>GPE</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/11701/logo3s_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/11701/logo3s_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14358432</analysis_id>
+      <tags>
+        <tag>gui</tag>
+        <tag>pim</tag>
+        <tag>mobile_devices</tag>
+        <tag>mobile</tag>
+      </tags>
+      <analysis>
+        <id>14358432</id>
+        <url>http://www.ohloh.net/analyses/14358432.xml</url>
+        <project_id>26735</project_id>
+        <updated_at>2013-07-19T00:55:24Z</updated_at>
+        <logged_at>2013-07-19T00:55:16Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>408296</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/GPE/analyses/14358432/languages.png">
+          <language color="FF8F00" percentage="67" id="42">
+C          </language>
+          <language color="EEE" percentage="15" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="5" id="11">
+shell script          </language>
+          <language color="000000" percentage="13" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

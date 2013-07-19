@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15341</id>
+      <name>netstiff</name>
+      <url>http://www.ohloh.net/p/netstiff.xml</url>
+      <html_url>http://www.ohloh.net/p/netstiff</html_url>
+      <created_at>2008-07-05T15:21:42Z</created_at>
+      <updated_at>2013-07-05T11:18:40Z</updated_at>
+      <description>netstiff (formerly known as webdiff) is a powerful Web and FTP site update checker. 
+It supports a variety of different methods (diff, html, size, date, MD5 sum, regexp) to check for updates. There are also sophisticated settings to make it useful for partly dynamic Web pages. Without any given arguments, netstiff will either run its interactive configuration tool or check your sites for updates and print the changes in a diff(1)-like manner.</description>
+      <homepage_url>http://pkqs.net/~sbeyer/#netstiff</homepage_url>
+      <download_url>http://pkqs.net/~sbeyer/#netstiff</download_url>
+      <url_name>netstiff</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14535523</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>console</tag>
+        <tag>ruby</tag>
+        <tag>viewer</tag>
+        <tag>command_line</tag>
+        <tag>ftp</tag>
+        <tag>http</tag>
+        <tag>differences</tag>
+        <tag>diff</tag>
+      </tags>
+      <analysis>
+        <id>14535523</id>
+        <url>http://www.ohloh.net/analyses/14535523.xml</url>
+        <project_id>15341</project_id>
+        <updated_at>2013-07-13T22:44:39Z</updated_at>
+        <logged_at>2013-07-13T22:44:37Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2008-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1158</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/netstiff/analyses/14535523/languages.png">
+          <language color="A40011" percentage="98" id="12">
+Ruby          </language>
+          <language color="EEE" percentage="2" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

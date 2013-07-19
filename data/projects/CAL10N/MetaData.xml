@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>429209</id>
+      <name>CAL10N</name>
+      <url>http://www.ohloh.net/p/CAL10N.xml</url>
+      <html_url>http://www.ohloh.net/p/CAL10N</html_url>
+      <created_at>2009-09-04T19:18:46Z</created_at>
+      <updated_at>2013-01-24T17:44:02Z</updated_at>
+      <description>Compiler Assisted Localization, abbreviated as CAL10N (pronounced as &quot;calion&quot;) is a java library for writing localized (internationalized) messages. 
+
+Features:
+ * java compiler verifies message keys used in source code
+ * tooling to detect errors in message keys
+ * native2ascii tool made superfluous, as you can directly encode bundles in the most convenient charset, per locale.
+ * good performance (300 nanoseconds per key look-up)
+ * automatic reloading of resource bundles upon change</description>
+      <homepage_url>http://cal10n.qos.ch/</homepage_url>
+      <download_url>http://cal10n.qos.ch/download.html</download_url>
+      <url_name>CAL10N</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23929/CAL10N_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23929/CAL10N_logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12290264</analysis_id>
+      <tags>
+        <tag>internationalization</tag>
+        <tag>localization</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>12290264</id>
+        <url>http://www.ohloh.net/analyses/12290264.xml</url>
+        <project_id>429209</project_id>
+        <updated_at>2013-02-21T05:38:19Z</updated_at>
+        <logged_at>2013-02-21T05:38:17Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3889</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/CAL10N/analyses/12290264/languages.png">
+          <language color="9A63AD" percentage="56" id="5">
+Java          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

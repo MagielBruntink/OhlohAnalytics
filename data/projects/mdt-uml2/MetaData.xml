@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481540</id>
+      <name>MDT UML2</name>
+      <url>http://www.ohloh.net/p/mdt-uml2.xml</url>
+      <html_url>http://www.ohloh.net/p/mdt-uml2</html_url>
+      <created_at>2010-03-03T22:47:25Z</created_at>
+      <updated_at>2012-12-03T15:11:11Z</updated_at>
+      <description>UML2 is an EMF-based implementation of the Unified Modeling Language (UML) 2.x OMG metamodel for the Eclipse platform.
+
+The objectives of the UML2 component are to provide
+
+- a useable implementation of the UML metamodel to support the development of modeling tools
+- a common XMI schema to facilitate interchange of semantic models
+- test cases as a means of validating the specification
+- validation rules as a means of defining and enforcing levels of compliance</description>
+      <homepage_url>http://www.eclipse.org/modeling/mdt/?project=uml2</homepage_url>
+      <download_url>http://www.eclipse.org/modeling/mdt/downloads/?project=uml2</download_url>
+      <url_name>mdt-uml2</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>11518276</analysis_id>
+      <analysis>
+        <id>11518276</id>
+        <url>http://www.ohloh.net/analyses/11518276.xml</url>
+        <project_id>481540</project_id>
+        <updated_at>2012-12-18T17:55:10Z</updated_at>
+        <logged_at>2012-12-18T17:51:54Z</logged_at>
+        <min_month>2004-03-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>642131</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mdt-uml2/analyses/11518276/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

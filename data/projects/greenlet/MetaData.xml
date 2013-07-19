@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486303</id>
+      <name>python-greenlet</name>
+      <url>http://www.ohloh.net/p/greenlet.xml</url>
+      <html_url>http://www.ohloh.net/p/greenlet</html_url>
+      <created_at>2010-11-04T01:12:27Z</created_at>
+      <updated_at>2012-08-28T14:10:38Z</updated_at>
+      <description>The greenlet package is a spin-off of Stackless, a version of CPython that supports micro-threads called &quot;tasklets&quot;. Tasklets run pseudo-concurrently (typically in a single or a few OS-level threads) and are synchronized with data exchanges on &quot;channels&quot;.
+
+A &quot;greenlet&quot;, on the other hand, is a still more primitive notion of micro- thread with no implicit scheduling; coroutines, in other words. This is useful when you want to control exactly when your code runs. You can build custom scheduled micro-threads on top of greenlet; however, it seems that greenlets are useful on their own as a way to make advanced control flow structures.</description>
+      <homepage_url>http://bitbucket.org/ambroff/greenlet</homepage_url>
+      <download_url>http://pypi.python.org/pypi/greenlet</download_url>
+      <url_name>greenlet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9823559</analysis_id>
+      <analysis>
+        <id>9823559</id>
+        <url>http://www.ohloh.net/analyses/9823559.xml</url>
+        <project_id>486303</project_id>
+        <updated_at>2012-09-03T21:47:48Z</updated_at>
+        <logged_at>2012-09-03T21:47:46Z</logged_at>
+        <min_month>2006-01-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2400</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/greenlet/analyses/9823559/languages.png">
+          <language color="FF8F00" percentage="75" id="42">
+C          </language>
+          <language color="4A246B" percentage="25" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

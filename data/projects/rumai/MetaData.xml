@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>287349</id>
+      <name>Rumai (Ruby for WMII)</name>
+      <url>http://www.ohloh.net/p/rumai.xml</url>
+      <html_url>http://www.ohloh.net/p/rumai</html_url>
+      <created_at>2009-01-22T14:55:33Z</created_at>
+      <updated_at>2013-07-05T23:24:07Z</updated_at>
+      <description>Rumai is a library for manipulating the WMII window manager through Ruby.  It is great for column manipulation and client arrangement.  Plus it provides a fast IXP (9P2000 variant) client and an interactive shell (based on IRB) for live entertainment.</description>
+      <homepage_url>http://snk.tuxfamily.org/lib/rumai/</homepage_url>
+      <download_url></download_url>
+      <url_name>rumai</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14543594</analysis_id>
+      <tags>
+        <tag>window_managers</tag>
+      </tags>
+      <analysis>
+        <id>14543594</id>
+        <url>http://www.ohloh.net/analyses/14543594.xml</url>
+        <project_id>287349</project_id>
+        <updated_at>2013-07-16T18:27:52Z</updated_at>
+        <logged_at>2013-07-16T18:27:51Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1687</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rumai/analyses/14543594/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>isc</name>
+          <nice_name>ISC License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13609</id>
+      <name>XySSL</name>
+      <url>http://www.ohloh.net/p/xyssl.xml</url>
+      <html_url>http://www.ohloh.net/p/xyssl</html_url>
+      <created_at>2008-04-28T12:05:22Z</created_at>
+      <updated_at>2012-12-04T13:33:31Z</updated_at>
+      <description>[UPDATE 2008-12-31] As of now, XySSL is no longer maintained by Christophe Devine. The current project manager is Paul Bakker, and the new site can be accessed at: http://polarssl.org/
+
+XySSL is an open-source cryptographic library for embedded systems. It provides standard crypto block: AES, SHA-1, X.509, etc. as well as higher lever protocols: SSL v3 and TLS v1. XySSL has been ported on a number of architectures, including ARM, PowerPC, MIPS, and Motorola 68000. Its already small memory footprint can be easily reduced to 50k for a basic SSL client or server, by modifying a single .h configuration file. XySSL is currently used in several open-source (GPL) and closed-source projects, such as Adobe's flash player.</description>
+      <homepage_url>https://polarssl.org/</homepage_url>
+      <download_url>http://polarssl.org/download_overview</download_url>
+      <url_name>xyssl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3169/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3169/logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>1784392</analysis_id>
+      <tags>
+        <tag>rsa</tag>
+        <tag>privacy</tag>
+        <tag>ssl</tag>
+        <tag>aes</tag>
+        <tag>tls</tag>
+        <tag>crypto</tag>
+        <tag>library</tag>
+        <tag>embedded</tag>
+        <tag>3des</tag>
+        <tag>cryptography</tag>
+        <tag>portable</tag>
+        <tag>bsd</tag>
+        <tag>security</tag>
+        <tag>des</tag>
+        <tag>sha-256</tag>
+        <tag>gpl</tag>
+        <tag>cross-platform</tag>
+        <tag>sha-1</tag>
+        <tag>authentication</tag>
+        <tag>x509</tag>
+        <tag>base64</tag>
+        <tag>md5</tag>
+      </tags>
+      <analysis>
+        <id>1784392</id>
+        <url>http://www.ohloh.net/analyses/1784392.xml</url>
+        <project_id>13609</project_id>
+        <updated_at>2011-03-18T21:36:55Z</updated_at>
+        <logged_at>2008-04-29T22:56:41Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2008-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15246</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xyssl/analyses/1784392/languages.png">
+          <language color="FF8F00" percentage="99" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

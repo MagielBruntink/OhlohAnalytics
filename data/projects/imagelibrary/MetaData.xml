@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25841</id>
+      <name>Image Library</name>
+      <url>http://www.ohloh.net/p/imagelibrary.xml</url>
+      <html_url>http://www.ohloh.net/p/imagelibrary</html_url>
+      <created_at>2008-10-25T19:29:55Z</created_at>
+      <updated_at>2013-06-18T19:45:16Z</updated_at>
+      <description>Image Library is a small plugin for Eclipse 3.4 wich was designed to simplify crawling images from target platform and workspace. 
+
+Features:
+
+Images View:
+Images view allows to view and search for images in the target platform and worspace in a simple and convinient form. Currently it features: expand/collapse all operations, copying image to clipboard, zoom level configuration as well as searching for images with a name matching a given pattern. 
+
+Image Hover:
+Image hover allows to inspect content of image file without opening it in the editor. It works in 'Package Explorer' and 'Resource Navigator' views when you are hovering on the image file. 
+
+Paste Image:
+Paste image action allows to paste image from clipboard 
+
+Project is developed by Onpositive Technologies</description>
+      <homepage_url>http://www.onpositive.com/pictureviewer</homepage_url>
+      <download_url>http://www.onpositive.com/pictureviewer</download_url>
+      <url_name>imagelibrary</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>9238352</analysis_id>
+      <tags>
+        <tag>eclipsercp</tag>
+        <tag>eclipse_plugin</tag>
+        <tag>eclipse</tag>
+        <tag>eclipseplugin</tag>
+      </tags>
+      <analysis>
+        <id>9238352</id>
+        <url>http://www.ohloh.net/analyses/9238352.xml</url>
+        <project_id>25841</project_id>
+        <updated_at>2012-08-14T16:31:44Z</updated_at>
+        <logged_at>2012-08-14T16:31:40Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5729</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/imagelibrary/analyses/9238352/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

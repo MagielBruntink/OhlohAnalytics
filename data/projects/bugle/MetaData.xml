@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11466</id>
+      <name>BuGLe</name>
+      <url>http://www.ohloh.net/p/bugle.xml</url>
+      <html_url>http://www.ohloh.net/p/bugle</html_url>
+      <created_at>2008-02-03T21:46:56Z</created_at>
+      <updated_at>2013-06-20T02:58:25Z</updated_at>
+      <description>BuGLe is a tool for OpenGL debugging, implemented as a wrapper library that sits between your program and OpenGL. While still in development, it can already do the following:
+
+Dump a textual log of all GL calls made.
+
+Take a screenshot or capture a video.
+
+Call glGetError after each call to check for errors, and wrap glGetError so that this checking is transparent to your program.
+
+Capture and display statistics (such as frame rate)
+
+Force a wireframe mode
+
+Recover a backtrace from segmentation faults inside the driver, even if the driver is compiled without symbols.
+
+In addition, there is a debugger (gldb) that lets you set breakpoints and examine backtraces. It also lets you examine OpenGL state, enable and disable filters, and drop into gdb.</description>
+      <homepage_url>http://www.opengl.org/sdk/tools/BuGLe/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=110905</download_url>
+      <url_name>bugle</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14313542</analysis_id>
+      <analysis>
+        <id>14313542</id>
+        <url>http://www.ohloh.net/analyses/14313542.xml</url>
+        <project_id>11466</project_id>
+        <updated_at>2013-07-13T01:46:05Z</updated_at>
+        <logged_at>2013-07-13T01:46:00Z</logged_at>
+        <min_month>2004-05-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>54879</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bugle/analyses/14313542/languages.png">
+          <language color="FF8F00" percentage="75" id="42">
+C          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="4A246B" percentage="5" id="9">
+Python          </language>
+          <language color="000000" percentage="9" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

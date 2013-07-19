@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479945</id>
+      <name>Ymacs</name>
+      <url>http://www.ohloh.net/p/ymacs.xml</url>
+      <html_url>http://www.ohloh.net/p/ymacs</html_url>
+      <created_at>2009-12-18T12:43:45Z</created_at>
+      <updated_at>2013-07-08T02:38:10Z</updated_at>
+      <description>Ymacs is an open-source text editor for the Web similar in features and spirit to Emacs.  It implements a lot of Emacs concepts such as kill ring, undo stack, multiple buffers, split windows, syntax highlighting, Emacs-like key bindings, programming modes (currently for JavaScript, XML, CSS, Lisp, and some basic support for editing Markdown text).
+
+Currently works reliably in Firefox, but support for more browsers is planned.</description>
+      <homepage_url>http://www.ymacs.org/</homepage_url>
+      <download_url>http://www.ymacs.org/</download_url>
+      <url_name>ymacs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14566107</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>syntax-highlighting</tag>
+        <tag>editor</tag>
+        <tag>javascript</tag>
+        <tag>emacs</tag>
+      </tags>
+      <analysis>
+        <id>14566107</id>
+        <url>http://www.ohloh.net/analyses/14566107.xml</url>
+        <project_id>479945</project_id>
+        <updated_at>2013-07-17T21:43:29Z</updated_at>
+        <logged_at>2013-07-17T21:43:24Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>8273</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ymacs/analyses/14566107/languages.png">
+          <language color="A4007E" percentage="85" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="13" id="4">
+CSS          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

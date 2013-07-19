@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347244</id>
+      <name>Ruffus</name>
+      <url>http://www.ohloh.net/p/ruffus.xml</url>
+      <html_url>http://www.ohloh.net/p/ruffus</html_url>
+      <created_at>2009-06-17T15:11:00Z</created_at>
+      <updated_at>2013-06-23T11:01:42Z</updated_at>
+      <description>Ruffus is a python module is a lightweight way to add support for running computational pipelines.
+
+The Ruffus python module provides automatic support for
+
+* Managing dependencies
+* Parallel jobs
+* Re-starting from arbitrary points, especially after errors
+* Display of the pipeline as a flowchart
+* Reporting</description>
+      <homepage_url>http://code.google.com/p/ruffus/</homepage_url>
+      <download_url>http://code.google.com/p/ruffus/downloads/list</download_url>
+      <url_name>ruffus</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/20493/logo64x64_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/20493/logo64x64_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14357610</analysis_id>
+      <analysis>
+        <id>14357610</id>
+        <url>http://www.ohloh.net/analyses/14357610.xml</url>
+        <project_id>347244</project_id>
+        <updated_at>2013-07-17T08:40:34Z</updated_at>
+        <logged_at>2013-07-17T08:40:32Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10692</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ruffus/analyses/14357610/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

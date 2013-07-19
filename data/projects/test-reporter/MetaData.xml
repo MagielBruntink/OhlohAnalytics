@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>53458</id>
+      <name>test-reporter</name>
+      <url>http://www.ohloh.net/p/test-reporter.xml</url>
+      <html_url>http://www.ohloh.net/p/test-reporter</html_url>
+      <created_at>2008-12-16T21:57:34Z</created_at>
+      <updated_at>2013-07-09T10:56:01Z</updated_at>
+      <description>Test::Reporter reports the test results of any given distribution to the CPAN Testers. Test::Reporter has wide support for various perl5's and platforms. For further information visit: http://www.cpantesters.org/</description>
+      <homepage_url>http://github.com/dagolden/test-reporter/</homepage_url>
+      <download_url>http://search.cpan.org/dist/Test-Reporter/</download_url>
+      <url_name>test-reporter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14571018</analysis_id>
+      <tags>
+        <tag>perl</tag>
+        <tag>cpan</tag>
+        <tag>test-reporter</tag>
+      </tags>
+      <analysis>
+        <id>14571018</id>
+        <url>http://www.ohloh.net/analyses/14571018.xml</url>
+        <project_id>53458</project_id>
+        <updated_at>2013-07-18T08:21:33Z</updated_at>
+        <logged_at>2013-07-18T08:21:30Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>872</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/test-reporter/analyses/14571018/languages.png">
+          <language color="D2C690" percentage="100" id="8">
+Perl          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

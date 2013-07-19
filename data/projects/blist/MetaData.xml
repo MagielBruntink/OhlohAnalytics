@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>438140</id>
+      <name>blist</name>
+      <url>http://www.ohloh.net/p/blist.xml</url>
+      <html_url>http://www.ohloh.net/p/blist</html_url>
+      <created_at>2009-09-12T13:49:06Z</created_at>
+      <updated_at>2013-06-28T10:11:50Z</updated_at>
+      <description>The BList is a type that looks, acts, and quacks like a Python list, but has better performance for for modifying large lists.
+
+For small lists (fewer than 128 elements), BLists and the built-in list have very similar performance.
+
+Example usage:
+
+&gt;&gt;&gt; from blist import *
+&gt;&gt;&gt; x = blist([0])             # x is a BList with one element
+&gt;&gt;&gt; x *= 2**29                 # x is a BList with &gt; 500 million elements
+&gt;&gt;&gt; x.append(5)                # append to x
+&gt;&gt;&gt; y = x[4:-234234]           # Take a 500 million element slice from x
+&gt;&gt;&gt; del x[3:1024]              # Delete a few thousand elements from x</description>
+      <homepage_url>http://stutzbachenterprises.com/blist</homepage_url>
+      <download_url>http://pypi.python.org/pypi/blist/</download_url>
+      <url_name>blist</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14442830</analysis_id>
+      <tags>
+        <tag>pythonextension</tag>
+        <tag>python25</tag>
+        <tag>python</tag>
+        <tag>python31</tag>
+        <tag>python26</tag>
+        <tag>datastructure</tag>
+        <tag>python3</tag>
+        <tag>development</tag>
+        <tag>programming</tag>
+        <tag>python30</tag>
+        <tag>list</tag>
+      </tags>
+      <analysis>
+        <id>14442830</id>
+        <url>http://www.ohloh.net/analyses/14442830.xml</url>
+        <project_id>438140</project_id>
+        <updated_at>2013-07-17T00:50:24Z</updated_at>
+        <logged_at>2013-07-17T00:50:23Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>13739</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blist/analyses/14442830/languages.png">
+          <language color="4A246B" percentage="56" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="43" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

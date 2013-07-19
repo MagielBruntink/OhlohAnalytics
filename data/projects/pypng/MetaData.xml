@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>321735</id>
+      <name>pypng</name>
+      <url>http://www.ohloh.net/p/pypng.xml</url>
+      <html_url>http://www.ohloh.net/p/pypng</html_url>
+      <created_at>2009-04-09T00:17:29Z</created_at>
+      <updated_at>2013-07-12T08:00:31Z</updated_at>
+      <description>A Python module to decode (read) and encode (write) PNG files. 
+
+All PNG formats are supported. 
+
+Pure Python so that it can be installed as easily as possible and used on different Python implementations. 
+
+http://code.google.com/p/pypng/</description>
+      <homepage_url>http://code.google.com/p/pypng</homepage_url>
+      <download_url>http://code.google.com/p/pypng/downloads/list</download_url>
+      <url_name>pypng</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14602921</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>png</tag>
+      </tags>
+      <analysis>
+        <id>14602921</id>
+        <url>http://www.ohloh.net/analyses/14602921.xml</url>
+        <project_id>321735</project_id>
+        <updated_at>2013-07-18T22:39:06Z</updated_at>
+        <logged_at>2013-07-18T22:39:04Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3316</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pypng/analyses/14602921/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

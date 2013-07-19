@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15107</id>
+      <name>Project Leonov</name>
+      <url>http://www.ohloh.net/p/leonov.xml</url>
+      <html_url>http://www.ohloh.net/p/leonov</html_url>
+      <created_at>2008-06-23T14:55:49Z</created_at>
+      <updated_at>2013-07-05T19:38:07Z</updated_at>
+      <description>&quot;Leonov&quot; is a desktop client for Launchpad. Leonov is not bound to KDE/Qt or GNOME/Gtk. Whatever you can do with Launchpad, there will be a representation in Leonov.</description>
+      <homepage_url>http://leonov.tv/</homepage_url>
+      <download_url></download_url>
+      <url_name>leonov</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541122</analysis_id>
+      <analysis>
+        <id>14541122</id>
+        <url>http://www.ohloh.net/analyses/14541122.xml</url>
+        <project_id>15107</project_id>
+        <updated_at>2013-07-13T15:06:24Z</updated_at>
+        <logged_at>2013-07-13T15:06:16Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2008-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5970</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/leonov/analyses/14541122/languages.png">
+          <language color="555555" percentage="40" id="3">
+XML          </language>
+          <language color="4A246B" percentage="59" id="9">
+Python          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

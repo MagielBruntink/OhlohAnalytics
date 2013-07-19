@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>428584</id>
+      <name>SafiServer and SafiWorkshop</name>
+      <url>http://www.ohloh.net/p/safiserver-all.xml</url>
+      <html_url>http://www.ohloh.net/p/safiserver-all</html_url>
+      <created_at>2009-09-04T11:30:21Z</created_at>
+      <updated_at>2013-06-24T17:31:17Z</updated_at>
+      <description>This project contains source for SafiServer, SafiWorkshop, and the shared resources (SafletCore). 
+
+SafiServer is a server engine that powers the applications (called Saflets) created using SafiWorkshop.  The current use for this architecture is for call control using one or more Asterisk PBXs. 
+
+SafiWorkshop is an Eclipse-based graphical logic flow designer (currently geared towards the creation of call flow and IVR applications). With SafiWorkshop you can design, test, debug and deploy advanced routing applications from a single, unified development environment. SafiWorkshop also includes a prompt recorder/importer for managing IVR prompts and a fully featured SQL query editor.</description>
+      <homepage_url>http://code.google.com/p/safiserver-all/</homepage_url>
+      <download_url>http://code.google.com/p/safiserver-all/downloads/list</download_url>
+      <url_name>safiserver-all</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26165/safiserver_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26165/safiserver_small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14383834</analysis_id>
+      <tags>
+        <tag>asterisk</tag>
+        <tag>windows</tag>
+        <tag>safisystems</tag>
+        <tag>logicflow</tag>
+        <tag>designers</tag>
+        <tag>telephony</tag>
+        <tag>saflet</tag>
+        <tag>safiserver</tag>
+        <tag>designer</tag>
+        <tag>server</tag>
+        <tag>safiworkshop</tag>
+        <tag>linux</tag>
+        <tag>ivr</tag>
+        <tag>visualcallflow</tag>
+        <tag>freepbx</tag>
+        <tag>communications</tag>
+        <tag>java</tag>
+        <tag>rcp</tag>
+        <tag>eclipse</tag>
+        <tag>flowchart</tag>
+      </tags>
+      <analysis>
+        <id>14383834</id>
+        <url>http://www.ohloh.net/analyses/14383834.xml</url>
+        <project_id>428584</project_id>
+        <updated_at>2013-07-18T12:03:25Z</updated_at>
+        <logged_at>2013-07-18T12:03:23Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>292320</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/safiserver-all/analyses/14383834/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

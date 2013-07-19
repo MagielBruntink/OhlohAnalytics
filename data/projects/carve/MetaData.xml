@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345385</id>
+      <name>Carve</name>
+      <url>http://www.ohloh.net/p/carve.xml</url>
+      <html_url>http://www.ohloh.net/p/carve</html_url>
+      <created_at>2009-06-02T06:14:06Z</created_at>
+      <updated_at>2013-01-28T19:36:10Z</updated_at>
+      <description>Carve is a C++ library designed to perform boolean operations between two arbitrary polygonal meshes. The standard union and intersection operations are supported, as are symmetric and asymmetric difference. It is also possible to implement custom operations using Carve, allowing results to be formed from any combination of inputs.
+
+Carve supports a variety of inputs, including both closed and open surfaces, faces with arbitrary edge counts and datasets with multiple disjoint, embedded or touching surfaces. Carve can also interpolate arbitrary values across faces, meaning that CSG operations need not discard colour, texture coordinates or other data.</description>
+      <homepage_url>http://code.google.com/p/carve/</homepage_url>
+      <download_url>http://code.google.com/p/carve/downloads/list</download_url>
+      <url_name>carve</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1936261</analysis_id>
+      <analysis>
+        <id>1936261</id>
+        <url>http://www.ohloh.net/analyses/1936261.xml</url>
+        <project_id>345385</project_id>
+        <updated_at>2011-04-08T04:01:02Z</updated_at>
+        <logged_at>2011-04-08T03:58:24Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>282878</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/carve/analyses/1936261/languages.png">
+          <language color="F35F1F" percentage="81" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="10" id="42">
+C          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>18919</id>
+      <name>djapian</name>
+      <url>http://www.ohloh.net/p/djapian.xml</url>
+      <html_url>http://www.ohloh.net/p/djapian</html_url>
+      <created_at>2008-10-07T11:59:43Z</created_at>
+      <updated_at>2013-06-22T16:16:28Z</updated_at>
+      <description>If you are using Djapian please tell us about your project in reply to this post 
+
+Use this package to allow full-text search in your Django project. 
+
+Versions compatibility matrix: 
+
+
+
+Djapian  Django  Xapian and python bindings  = 2.31.11.0.7 
+
+Notice: there is an old issue with Xapian (&lt; 1.0.13) in mod_python environment. So be careful. 
+
+Notice: with 2.2.2 release has been introduced database schema backward-incompatible bug fix - Change model has switched its object_id field type from integer to string. 
+
+FeaturesMost of this features provided by Xapian itself and Djapian in this case plays role only as Django-compatible adaptation. 
+
+High-level DSL for indexer declaration Result filtering with Django ORM like API Result set compatible with standard Django Paginator Indexing of field, method results and related model attributes Entry filtering before indexing (by trigger function) Results filtering with boolean lookups support Term tagging Spelling corrections Stemming Result ordering by fields Indexers auto discovery Index shell Model changes auto tracking Support for different index spaces Usage exampleAssume that we have this models in our imaginary application: 
+
+class Person(models.Model):
+    name = models.CharField(max_length=150)
+
+    def __unicode__(self):
+        return self.name
+
+class Entry(models.Model):
+    author = models.ForeignKey(Person, related_name=&quot;entries&quot;)
+    title = models.CharField(max_length=250)
+    created_on = models.DateTimeField(default=datetime.now)
+
+    is_active = models.BooleanField(default=True)
+
+    text = models.TextField()
+
+    editors = models.ManyToManyField(Person, related_name=&quot;edited_entries&quot;)
+
+    def headline(self):
+        return &quot;%s - %s&quot; % (self.author, self.title)
+
+    def __unicode__(self):
+        return self.titleAnd we want to apply indexing functionality for model Entry. The next step is to create Indexer instance with proper settings. Indexer may look like this: 
+
+import djapian
+
+class EntryIndexer(djapian.Indexer):
+    fields=[&quot;text&quot;]
+    tags=[
+        (&quot;author&quot;,  &quot;author.name&quot; ),
+        (&quot;title&quot;,   &quot;title&quot;,     3),
+        (&quot;date&quot;,    &quot;created_on&quot;  ),
+        (&quot;active&quot;,  &quot;is_active&quot;   ),
+        (&quot;editors&quot;, &quot;editors&quot;     )
+    ]
+    trigger=lambda indexer, obj: obj.is_active
+
+djapian.space.add_index(Entry, EntryIndexer, attach_as=&quot;indexer&quot;)In the django shell create some instances of models: 
+
+&gt;&gt;&gt; p = Person.objects.create(name=&quot;Alex&quot;)
+&gt;&gt;&gt; Entry.objects.create(author=p, title=&quot;Test entry&quot;, text=&quot;Not large text field&quot;)
+&gt;&gt;&gt; Entry.objects.create(author=p, title=&quot;Another test entry&quot;, is_active=False)
+&gt;&gt;&gt; Entry.objects.create(author=p, title=&quot;Third small entry&quot;, text=&quot;Some another text&quot;)
+
+&gt;&gt;&gt; Entry.indexer.update()Thats all! Each Entry instance has been indexed and now ready for search. Let's try: 
+
+&gt;&gt;&gt; result = Entry.indexer.search('title:entry')
+&gt;&gt;&gt; len(result), result.count()
+2, 2
+&gt;&gt;&gt; for row in result:
+...   row.percent, row.instance.headline()
+... 
+99 Alex - Test entry
+98 Alex - Third small entryYou can follow complete Tutorial for study Djapian basics.</description>
+      <homepage_url>http://code.google.com/p/djapian</homepage_url>
+      <download_url></download_url>
+      <url_name>djapian</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14344468</analysis_id>
+      <tags>
+        <tag>django</tag>
+        <tag>fulltext</tag>
+        <tag>search</tag>
+        <tag>python</tag>
+        <tag>xapian</tag>
+        <tag>api</tag>
+      </tags>
+      <analysis>
+        <id>14344468</id>
+        <url>http://www.ohloh.net/analyses/14344468.xml</url>
+        <project_id>18919</project_id>
+        <updated_at>2013-07-18T07:43:56Z</updated_at>
+        <logged_at>2013-07-18T07:43:53Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1963</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/djapian/analyses/14344468/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

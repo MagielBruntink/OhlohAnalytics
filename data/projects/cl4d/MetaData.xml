@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487536</id>
+      <name>cl4d</name>
+      <url>http://www.ohloh.net/p/cl4d.xml</url>
+      <html_url>http://www.ohloh.net/p/cl4d</html_url>
+      <created_at>2011-01-13T21:38:33Z</created_at>
+      <updated_at>2013-06-25T18:35:10Z</updated_at>
+      <description>cl4d is an object-oriented wrapper for the OpenCL C API written in the D programming language. 
+Since the package includes bindings to the C API, you may also directly write usual OpenCL code if you need to.</description>
+      <homepage_url>https://github.com/Trass3r/cl4d</homepage_url>
+      <download_url>https://github.com/Trass3r/cl4d</download_url>
+      <url_name>cl4d</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14407240</analysis_id>
+      <analysis>
+        <id>14407240</id>
+        <url>http://www.ohloh.net/analyses/14407240.xml</url>
+        <project_id>487536</project_id>
+        <updated_at>2013-07-17T11:32:00Z</updated_at>
+        <logged_at>2013-07-17T11:31:59Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4140</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cl4d/analyses/14407240/languages.png">
+          <language color="EC2E24" percentage="100" id="32">
+D          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Boost_Software_License</name>
+          <nice_name>Boost Software License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

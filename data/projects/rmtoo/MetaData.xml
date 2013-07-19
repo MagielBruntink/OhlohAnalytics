@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480971</id>
+      <name>rmtoo</name>
+      <url>http://www.ohloh.net/p/rmtoo.xml</url>
+      <html_url>http://www.ohloh.net/p/rmtoo</html_url>
+      <created_at>2010-02-06T19:33:34Z</created_at>
+      <updated_at>2013-07-06T20:22:43Z</updated_at>
+      <description>rmtoo is an open source requirements management tool. It is intended for programmers as it comes with no GUI. The requirements are stored in plain text files.  The tool allows e. g. to check dependencies (traceability) or create different LaTeX artifacts like project backlog or priorization list.  Also supported is effort estimation for the not yet implemented requirements.</description>
+      <homepage_url>http://rmtoo.gnu4u.org</homepage_url>
+      <download_url>http://sourceforge.net/projects/rmtoo/</download_url>
+      <url_name>rmtoo</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14554373</analysis_id>
+      <tags>
+        <tag>agile</tag>
+        <tag>requirements</tag>
+        <tag>collaboration</tag>
+        <tag>scrum</tag>
+        <tag>requirementsmanagement</tag>
+        <tag>scrum_tool</tag>
+      </tags>
+      <analysis>
+        <id>14554373</id>
+        <url>http://www.ohloh.net/analyses/14554373.xml</url>
+        <project_id>480971</project_id>
+        <updated_at>2013-07-13T22:56:44Z</updated_at>
+        <logged_at>2013-07-13T22:56:40Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>13209</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rmtoo/analyses/14554373/languages.png">
+          <language color="4A246B" percentage="80" id="9">
+Python          </language>
+          <language color="000080" percentage="9" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="11" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

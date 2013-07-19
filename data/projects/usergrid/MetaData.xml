@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587501</id>
+      <name>usergrid</name>
+      <url>http://www.ohloh.net/p/usergrid.xml</url>
+      <html_url>http://www.ohloh.net/p/usergrid</html_url>
+      <created_at>2011-11-28T20:49:59Z</created_at>
+      <updated_at>2013-06-30T04:49:52Z</updated_at>
+      <description>Usergrid is a cloud-based data platform for managing application objects and data for mobile and rich client applications.
+
+Usergrid provides a core set of application objects for managing users and powering interactions, and then couples that with a robust free-form data storage system for storing, searching, and retrieving content and objects collections of any type. Finally, we provide a simple and flexible way to log data, providing convenient realtime event stream analysis and capturing and tracking key metrics.</description>
+      <homepage_url>http://www.usergrid.com</homepage_url>
+      <download_url>https://github.com/usergrid/stack</download_url>
+      <url_name>usergrid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48712/usergrid_profile_64_white_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48712/usergrid_profile_64_white_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14472615</analysis_id>
+      <analysis>
+        <id>14472615</id>
+        <url>http://www.ohloh.net/analyses/14472615.xml</url>
+        <project_id>587501</project_id>
+        <updated_at>2013-07-18T12:06:39Z</updated_at>
+        <logged_at>2013-07-18T12:06:37Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>73125</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/usergrid/analyses/14472615/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

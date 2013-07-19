@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12373</id>
+      <name>Divmod Combinator</name>
+      <url>http://www.ohloh.net/p/divmod-combinator.xml</url>
+      <html_url>http://www.ohloh.net/p/divmod-combinator</html_url>
+      <created_at>2008-02-28T20:20:32Z</created_at>
+      <updated_at>2012-08-17T03:31:47Z</updated_at>
+      <description>Combinator is a tool Python programmers can use to manage multiple branches of projects in Subversion repositories.
+
+It can be used to manage any number of branches with any number of projects. It sets up your Python import path to point at the appropriate directories for the set of branches you are currently working on. It also sets up your PATH environment variable so that you can access any scripts that come along with those projects.</description>
+      <homepage_url>http://divmod.org/trac/wiki/DivmodCombinator</homepage_url>
+      <download_url>http://divmod.org/trac/wiki/DivmodCombinator</download_url>
+      <url_name>divmod-combinator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1779109</analysis_id>
+      <analysis>
+        <id>1779109</id>
+        <url>http://www.ohloh.net/analyses/1779109.xml</url>
+        <project_id>12373</project_id>
+        <updated_at>2011-03-17T05:50:51Z</updated_at>
+        <logged_at>2010-05-05T23:48:39Z</logged_at>
+        <min_month>2005-08-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1409</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/divmod-combinator/analyses/1779109/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

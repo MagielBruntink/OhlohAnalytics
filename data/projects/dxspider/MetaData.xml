@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>37861</id>
+      <name>DXSpider DX Cluster System</name>
+      <url>http://www.ohloh.net/p/dxspider.xml</url>
+      <html_url>http://www.ohloh.net/p/dxspider</html_url>
+      <created_at>2008-12-12T19:56:27Z</created_at>
+      <updated_at>2013-07-10T01:12:57Z</updated_at>
+      <description>The DXSpider DX Cluster is a (mainly) perl program designed to provide the same general functionality (and more) as the DOS version originally written by Dick Newell AK1A. 
+
+It will run on most operating systems and hardware that runs perl. It is known to work on unix/linux on I386,ARM,Sparc as well as Windows.</description>
+      <homepage_url>http://www.dxcluster.org</homepage_url>
+      <download_url>http://www.dxcluster.org/download</download_url>
+      <url_name>dxspider</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14577267</analysis_id>
+      <tags>
+        <tag>daemon</tag>
+        <tag>linux</tag>
+        <tag>windows</tag>
+        <tag>perl</tag>
+        <tag>ham_radio</tag>
+      </tags>
+      <analysis>
+        <id>14577267</id>
+        <url>http://www.ohloh.net/analyses/14577267.xml</url>
+        <project_id>37861</project_id>
+        <updated_at>2013-07-18T13:44:14Z</updated_at>
+        <logged_at>2013-07-18T13:44:10Z</logged_at>
+        <min_month>1997-11-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>58337</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dxspider/analyses/14577267/languages.png">
+          <language color="D2C690" percentage="69" id="8">
+Perl          </language>
+          <language color="47A400" percentage="23" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="5" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic</name>
+          <nice_name>Artistic License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

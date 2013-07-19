@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>435298</id>
+      <name>nfc-tools</name>
+      <url>http://www.ohloh.net/p/nfc-tools.xml</url>
+      <html_url>http://www.ohloh.net/p/nfc-tools</html_url>
+      <created_at>2009-09-08T17:46:43Z</created_at>
+      <updated_at>2013-07-18T19:55:38Z</updated_at>
+      <description>What's nfc-tools projectBased on libnfc, Open Source Near Field Communication (NFC) Library, this project intent to provide useful tools for POSIX compliant operating systems. 
+
+The following sub-project or part of nfc-utils: 
+
+libfreefare: a library for high level manipulation of MIFARE tags; pam_nfc: a PAM (Pluggable Authentication Module) which allow to authenticate using NFC. NfcEventD: a NFC monitor daemon which able to launch modules (libraries) on action (tag inserted or removed). nfcutils: provide a simple 'lsnfc' command that list tags which are in your NFC device field.</description>
+      <homepage_url>http://code.google.com/p/nfc-tools/</homepage_url>
+      <download_url></download_url>
+      <url_name>nfc-tools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14679550</analysis_id>
+      <tags>
+        <tag>mifare</tag>
+        <tag>rfid</tag>
+        <tag>iso18092</tag>
+        <tag>iso14443</tag>
+        <tag>nfc</tag>
+      </tags>
+      <analysis>
+        <id>14679550</id>
+        <url>http://www.ohloh.net/analyses/14679550.xml</url>
+        <project_id>435298</project_id>
+        <updated_at>2013-07-18T19:55:38Z</updated_at>
+        <logged_at>2013-07-18T19:54:25Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>9746</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nfc-tools/analyses/14679550/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="F35F1F" percentage="16" id="44">
+C++          </language>
+          <language color="000000" percentage="25" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14760</id>
+      <name>Model-to-Model Transformation (M2M)</name>
+      <url>http://www.ohloh.net/p/m2m.xml</url>
+      <html_url>http://www.ohloh.net/p/m2m</html_url>
+      <created_at>2008-06-06T19:21:51Z</created_at>
+      <updated_at>2012-10-22T20:28:44Z</updated_at>
+      <description>Model-to-model transformation is a key aspect of model-driven development (MDD). The M2M project delivers a framework for model-to-model transformation languages. The core part is the transformation infrastructure. Transformations are executed by transformation engines that are plugged into the infrastructure. There are three transformation engines that are developed in the scope of this project. Each of the three represents a different category, which validates the functionality of the infrastructure from multiple contexts. M2M is a subproject of the top-level Eclipse Modeling Project.</description>
+      <homepage_url>http://www.eclipse.org/m2m/</homepage_url>
+      <download_url>http://www.eclipse.org/modeling/m2m/downloads/</download_url>
+      <url_name>m2m</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3251138</analysis_id>
+      <analysis>
+        <id>3251138</id>
+        <url>http://www.ohloh.net/analyses/3251138.xml</url>
+        <project_id>14760</project_id>
+        <updated_at>2011-08-07T09:57:24Z</updated_at>
+        <logged_at>2011-08-07T09:40:08Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>2472272</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/m2m/analyses/3251138/languages.png">
+          <language color="333333" percentage="27" id="19">
+Assembly          </language>
+          <language color="9A63AD" percentage="49" id="5">
+Java          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="000000" percentage="9" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>19</main_language_id>
+        <main_language_name>Assembly</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
