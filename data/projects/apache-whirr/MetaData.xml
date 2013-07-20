@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596265</id>
+      <name>Apache Whirr</name>
+      <url>http://www.ohloh.net/p/apache-whirr.xml</url>
+      <html_url>http://www.ohloh.net/p/apache-whirr</html_url>
+      <created_at>2012-03-12T19:05:13Z</created_at>
+      <updated_at>2013-07-09T23:05:02Z</updated_at>
+      <description>Apache Whirr is a set of libraries for running cloud services.
+
+Whirr provides:
+
+* A cloud-neutral way to run services. You don't have to worry about the idiosyncrasies of each provider.
+* A common service API. The details of provisioning are particular to the service.
+* Smart defaults for services. You can get a properly configured system running quickly, while still being able to override settings as needed.
+
+You can also use Whirr as a command line tool for deploying clusters.</description>
+      <homepage_url>https://whirr.apache.org/</homepage_url>
+      <download_url>https://www.apache.org/dyn/closer.cgi/whirr/</download_url>
+      <url_name>apache-whirr</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51528/whirr-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51528/whirr-logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14575295</analysis_id>
+      <tags>
+        <tag>puppet</tag>
+        <tag>java</tag>
+        <tag>hadoop</tag>
+        <tag>hbase</tag>
+        <tag>mahout</tag>
+        <tag>jclouds</tag>
+        <tag>tool</tag>
+        <tag>cassandra</tag>
+        <tag>platform-as-a-service</tag>
+        <tag>apache-software-foundation</tag>
+        <tag>mapreduce</tag>
+        <tag>apache</tag>
+        <tag>rackspacecloud</tag>
+        <tag>hdfs</tag>
+        <tag>cloudcomputing</tag>
+        <tag>bigdata</tag>
+        <tag>pig</tag>
+        <tag>voldemort</tag>
+        <tag>zookeeper</tag>
+        <tag>cloudservers</tag>
+        <tag>ec2</tag>
+        <tag>aws</tag>
+        <tag>amazon</tag>
+        <tag>library</tag>
+        <tag>data</tag>
+        <tag>chef</tag>
+      </tags>
+      <analysis>
+        <id>14575295</id>
+        <url>http://www.ohloh.net/analyses/14575295.xml</url>
+        <project_id>596265</project_id>
+        <updated_at>2013-07-16T23:51:57Z</updated_at>
+        <logged_at>2013-07-16T23:51:52Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>26954</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/apache-whirr/analyses/14575295/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="777777" percentage="10" id="11">
+shell script          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

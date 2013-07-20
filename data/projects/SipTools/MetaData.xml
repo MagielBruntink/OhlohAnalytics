@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486342</id>
+      <name>Sip Tools</name>
+      <url>http://www.ohloh.net/p/SipTools.xml</url>
+      <html_url>http://www.ohloh.net/p/SipTools</html_url>
+      <created_at>2010-11-05T07:42:07Z</created_at>
+      <updated_at>2012-04-25T20:53:13Z</updated_at>
+      <description>Sip Tools is a composite project including several toolkits to enhance JAIN-SIP, Java Media Framework, and similar tools centering on SIP and RTP Media.
+
+Iced Java is a Java implementation of RFC 5245 ICE, RFC 5389 STUN and RFC 5766 TURN. The goal of this project is to be as all-encompassing of use cases as possible, while imposing a minimal burden on the users of the library to modify their code. RTP Streaming is the most obvious use case, though any P2P Datagram based service is a good candidate for using Iced Java to reduce the programming burden imposed by NATs.</description>
+      <homepage_url>http://java.net/projects/siptools</homepage_url>
+      <download_url>http://java.net/projects/siptools/downloads</download_url>
+      <url_name>SipTools</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1183/java_library_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7862099</analysis_id>
+      <tags>
+        <tag>sip</tag>
+        <tag>communications</tag>
+        <tag>peer-to-peer</tag>
+        <tag>peer-to-peersystems</tag>
+        <tag>network</tag>
+        <tag>firewallbypass</tag>
+        <tag>nat</tag>
+        <tag>rtp</tag>
+        <tag>java</tag>
+        <tag>ice</tag>
+        <tag>firewalls</tag>
+        <tag>p2pnetworks</tag>
+        <tag>firewall</tag>
+        <tag>streamingdata</tag>
+        <tag>peer-2-peer</tag>
+        <tag>p2p</tag>
+        <tag>peertopeer</tag>
+        <tag>streaming</tag>
+        <tag>peer2peer</tag>
+        <tag>turn</tag>
+        <tag>streamingmedia</tag>
+        <tag>voip</tag>
+      </tags>
+      <analysis>
+        <id>7862099</id>
+        <url>http://www.ohloh.net/analyses/7862099.xml</url>
+        <project_id>486342</project_id>
+        <updated_at>2012-04-25T20:53:12Z</updated_at>
+        <logged_at>2012-04-25T20:53:08Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>11502</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SipTools/analyses/7862099/languages.png">
+          <language color="9A63AD" percentage="97" id="5">
+Java          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

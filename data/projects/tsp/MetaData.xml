@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6920</id>
+      <name>Dadi</name>
+      <url>http://www.ohloh.net/p/tsp.xml</url>
+      <html_url>http://www.ohloh.net/p/tsp</html_url>
+      <created_at>2007-07-27T10:46:15Z</created_at>
+      <updated_at>2009-05-16T21:33:48Z</updated_at>
+      <description>The Transport Sample Protocol (TSP) goal is to provide a standard interface for data distribution between a provider and several consumers on different hosts, allowing both flexibility and performance aiming at the ease of sampling analysis.
+The TSP protocol, which is based on TCP/IP, allows a client to register to a TSP provider for synchronous (or asynchronous) sample delivery. It permits to select a subset of bench symbols at a selected update frequency.
+The protocol may be used by several TSP consumer (text, graphical, ...) which will use the obtained symbols for real-time or batch display or post-processing.
+Today, this protocol has been implemented as C library based on POSIX calls, running on Linux, Windows, Solaris, OSF1 and VxWorks (provider side only).
+There is a pure Java implementation for the consumer-side too.
+The original need for this project comes from the space industry satellite validation benches. In the use of a validation bench, many parts of the running software and connected hardware should be monitored. This monitoring traces the evolution over the time of huge numbers of parameters at high frequency (example 100 up to 5000 variables at 128Hz). This is the essence of &quot;sampling&quot; bench variables subsequently called bench symbols or sample symbols.
+The different parts of the validation bench may then send a stream of data containing the different values of the queried symbols over time.</description>
+      <homepage_url>http://savannah.nongnu.org/projects/tsp</homepage_url>
+      <download_url>http://cvs.savannah.gnu.org/viewvc/tsp/dadi/</download_url>
+      <url_name>tsp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>162235</analysis_id>
+      <analysis>
+        <id>162235</id>
+        <url>http://www.ohloh.net/analyses/162235.xml</url>
+        <project_id>6920</project_id>
+        <updated_at>2008-05-04T16:23:14Z</updated_at>
+        <logged_at>2008-05-04T09:22:50Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2008-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3068</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tsp/analyses/162235/languages.png">
+          <language color="A40011" percentage="44" id="12">
+Ruby          </language>
+          <language color="FF8F00" percentage="30" id="7">
+C/C++          </language>
+          <language color="000080" percentage="10" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="16" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

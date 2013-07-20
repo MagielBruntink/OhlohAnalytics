@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481532</id>
+      <name>bwreg2</name>
+      <url>http://www.ohloh.net/p/bwreg2.xml</url>
+      <html_url>http://www.ohloh.net/p/bwreg2</html_url>
+      <created_at>2010-03-03T14:38:05Z</created_at>
+      <updated_at>2012-04-25T14:12:29Z</updated_at>
+      <description>B&#248;lerLANs web system. Old project that should get some love if I (or anyone else) is ever up to it... Not something I'm too proud of.
+
+Basic features is: wiki-based editing of most of the site (including error messages, menues etc). Ticket (as in: a ticket to get in, not an issue tracker) system for LAN party. Seat reservation.... Vastly overdesigned ACL-stuff, etc etc.</description>
+      <homepage_url>http://github.com/KristianLyng/bwreg2</homepage_url>
+      <download_url></download_url>
+      <url_name>bwreg2</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31144/bolerlanlogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31144/bolerlanlogo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3237990</analysis_id>
+      <tags>
+        <tag>eventmanagement</tag>
+        <tag>oo</tag>
+        <tag>php</tag>
+        <tag>ticket_system</tag>
+      </tags>
+      <analysis>
+        <id>3237990</id>
+        <url>http://www.ohloh.net/analyses/3237990.xml</url>
+        <project_id>481532</project_id>
+        <updated_at>2011-08-19T10:28:35Z</updated_at>
+        <logged_at>2011-08-19T10:28:25Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6346</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bwreg2/analyses/3237990/languages.png">
+          <language color="356AA0" percentage="83" id="2">
+PHP          </language>
+          <language color="493625" percentage="8" id="30">
+SQL          </language>
+          <language color="FF1A00" percentage="6" id="4">
+CSS          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

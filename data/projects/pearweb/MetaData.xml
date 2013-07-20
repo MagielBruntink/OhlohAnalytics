@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7713</id>
+      <name>PEAR Website</name>
+      <url>http://www.ohloh.net/p/pearweb.xml</url>
+      <html_url>http://www.ohloh.net/p/pearweb</html_url>
+      <created_at>2007-08-13T23:04:01Z</created_at>
+      <updated_at>2011-09-14T21:05:40Z</updated_at>
+      <description>The source code for the PEAR website</description>
+      <homepage_url>http://pear.php.net/pearweb</homepage_url>
+      <download_url>http://pear.php.net/pearweb</download_url>
+      <url_name>pearweb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>4</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3963072</analysis_id>
+      <analysis>
+        <id>3963072</id>
+        <url>http://www.ohloh.net/analyses/3963072.xml</url>
+        <project_id>7713</project_id>
+        <updated_at>2011-09-14T21:05:38Z</updated_at>
+        <logged_at>2011-09-14T21:05:18Z</logged_at>
+        <min_month>1999-12-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>87273</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pearweb/analyses/3963072/languages.png">
+          <language color="356AA0" percentage="75" id="2">
+PHP          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>php_license</name>
+          <nice_name>PHP License v3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

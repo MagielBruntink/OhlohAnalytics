@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7306</id>
+      <name>Exclaim</name>
+      <url>http://www.ohloh.net/p/exclaim.xml</url>
+      <html_url>http://www.ohloh.net/p/exclaim</html_url>
+      <created_at>2007-08-08T16:50:27Z</created_at>
+      <updated_at>2009-01-31T22:35:50Z</updated_at>
+      <description>Exclaim is a lightweight operating system based on a monolithic kernel. It aims to be simple, fast, yet suitable for desktop and server use.</description>
+      <homepage_url>http://exclaim-project.org</homepage_url>
+      <download_url>https://launchpad.net/exclaim/+download</download_url>
+      <url_name>exclaim</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/2893/C__Documents_and_Settings_Philip_Desktop_big1_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/2893/C__Documents_and_Settings_Philip_Desktop_big1_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>313997</analysis_id>
+      <analysis>
+        <id>313997</id>
+        <url>http://www.ohloh.net/analyses/313997.xml</url>
+        <project_id>7306</project_id>
+        <updated_at>2008-10-28T12:35:00Z</updated_at>
+        <logged_at>2008-10-28T12:33:47Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2008-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>79557</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/exclaim/analyses/313997/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

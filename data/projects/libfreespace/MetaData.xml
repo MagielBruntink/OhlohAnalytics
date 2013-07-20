@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>348800</id>
+      <name>libfreespace</name>
+      <url>http://www.ohloh.net/p/libfreespace.xml</url>
+      <html_url>http://www.ohloh.net/p/libfreespace</html_url>
+      <created_at>2009-07-06T01:07:06Z</created_at>
+      <updated_at>2013-03-25T07:27:27Z</updated_at>
+      <description>The libfreespace library enables rapid development of applications for Hillcrest Labs Freespace&#174; devices. libfreespace provides access to extended information beyond mouse pointer functionality such as calibrated acceleration and rotational velocity measurements, orientation, configuration, and battery status.</description>
+      <homepage_url>http://libfreespace.hillcrestlabs.com/</homepage_url>
+      <download_url>http://libfreespace.hillcrestlabs.com/content/download</download_url>
+      <url_name>libfreespace</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/21598/Hillcrest_Teardrop-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/21598/Hillcrest_Teardrop-64x64_small.png</small_logo_url>
+      <user_count>3</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3577033</analysis_id>
+      <tags>
+        <tag>pointer</tag>
+        <tag>linux</tag>
+        <tag>quaternion</tag>
+        <tag>c</tag>
+        <tag>osx</tag>
+        <tag>windows</tag>
+        <tag>freespace</tag>
+        <tag>accelerometer</tag>
+        <tag>input</tag>
+        <tag>loop-pointer</tag>
+        <tag>events</tag>
+      </tags>
+      <analysis>
+        <id>3577033</id>
+        <url>http://www.ohloh.net/analyses/3577033.xml</url>
+        <project_id>348800</project_id>
+        <updated_at>2011-09-02T00:07:05Z</updated_at>
+        <logged_at>2011-08-30T19:04:55Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>16397</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libfreespace/analyses/3577033/languages.png">
+          <language color="EEE" percentage="35" id="51">
+Autoconf          </language>
+          <language color="FF8F00" percentage="42" id="42">
+C          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="000000" percentage="13" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

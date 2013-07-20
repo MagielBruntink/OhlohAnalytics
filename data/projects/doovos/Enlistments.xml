@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>11667</id>
+      <project_id>5438</project_id>
+      <repository_id>11391</repository_id>
+      <repository>
+        <id>11391</id>
+        <type>CvsRepository</type>
+        <url>:pserver:guest:@cvs.dev.java.net:/shared/data/ccvs/repository</url>
+        <module_name>doovos</module_name>
+        <username>guest</username>
+        <password></password>
+        <logged_at>2011-02-16T18:17:41Z</logged_at>
+        <commits>25</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

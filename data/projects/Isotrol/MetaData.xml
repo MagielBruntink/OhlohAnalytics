@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>457088</id>
+      <name>Isotrol MetricsAnalytics Sonar plugin</name>
+      <url>http://www.ohloh.net/p/Isotrol.xml</url>
+      <html_url>http://www.ohloh.net/p/Isotrol</html_url>
+      <created_at>2009-09-30T15:38:01Z</created_at>
+      <updated_at>2011-12-15T20:18:08Z</updated_at>
+      <description>MetricsAnalytics is a Sonar plugin that analyzes the Total Quality related to your Java code. Using this plugin you can visualize your Java code from different points of view: Architecture Quality (normalized distance from main sequence, cycle number, etc.); Design Quality (CBO, DIT, NOC, RFC, etc.); Code Quality (comment, duplicated line, complexity cyclomatic, etc.); Test Quality (code coverage, test failed number, etc.); and Total Quality. MetricsAnalytics helps you to re-factorize your code and check your test coverage. It improves the maintainability, reliability, and efficiency of your project in running time. It tries to unify the concepts of XRadar in the Sonar World with some adaptations to get the Total Quality Indicator.</description>
+      <homepage_url>http://forge.isotrol.org/projects/show/org00003-mtrcsnlytcs</homepage_url>
+      <download_url>http://forge.isotrol.org/projects/list_files/org00003-mtrcsnlytcs</download_url>
+      <url_name>Isotrol</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25316/LOGO_mtrcsnltcs_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25316/LOGO_mtrcsnltcs_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5564319</analysis_id>
+      <tags>
+        <tag>open</tag>
+        <tag>architecture</tag>
+        <tag>quality</tag>
+        <tag>opensource</tag>
+        <tag>ubuntu</tag>
+        <tag>metrics</tag>
+        <tag>case</tag>
+        <tag>desing</tag>
+        <tag>sonar</tag>
+        <tag>management</tag>
+        <tag>jdepend</tag>
+        <tag>metric</tag>
+        <tag>plugin</tag>
+        <tag>opengl</tag>
+        <tag>java</tag>
+        <tag>debian</tag>
+      </tags>
+      <analysis>
+        <id>5564319</id>
+        <url>http://www.ohloh.net/analyses/5564319.xml</url>
+        <project_id>457088</project_id>
+        <updated_at>2011-12-18T20:18:07Z</updated_at>
+        <logged_at>2011-12-18T20:18:01Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>24198</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Isotrol/analyses/5564319/languages.png">
+          <language color="9A63AD" percentage="100" id="5">
+Java          </language>
+          <language color="555555" percentage="&lt;1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

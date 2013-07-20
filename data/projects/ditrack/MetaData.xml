@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9399</id>
+      <name>DITrack</name>
+      <url>http://www.ohloh.net/p/ditrack.xml</url>
+      <html_url>http://www.ohloh.net/p/ditrack</html_url>
+      <created_at>2007-10-30T01:51:48Z</created_at>
+      <updated_at>2011-03-18T22:30:32Z</updated_at>
+      <description>DITrack (Distributed Issue Tracker) is a free, open source, lightweight, distributed issue (bug, defect, ticket) tracking system using a Subversion repository instead of a backend database. It is written in Python and runs in UNIX environment (*BSD, Linux, MacOS X). DITrack uses Subversion as its distributed file system backend. The target auditory for DITrack are geeks &#8212; developers and system administrators.</description>
+      <homepage_url>http://www.ditrack.org/</homepage_url>
+      <download_url>http://www.ditrack.org/</download_url>
+      <url_name>ditrack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1784593</analysis_id>
+      <tags>
+        <tag>subversion</tag>
+        <tag>issue</tag>
+        <tag>development</tag>
+        <tag>tracking</tag>
+        <tag>issue_tracking</tag>
+        <tag>python</tag>
+        <tag>bug</tag>
+        <tag>bug_tracking</tag>
+        <tag>programming</tag>
+      </tags>
+      <analysis>
+        <id>1784593</id>
+        <url>http://www.ohloh.net/analyses/1784593.xml</url>
+        <project_id>9399</project_id>
+        <updated_at>2011-03-18T22:30:32Z</updated_at>
+        <logged_at>2010-06-26T13:45:56Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2008-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7801</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ditrack/analyses/1784593/languages.png">
+          <language color="4A246B" percentage="81" id="9">
+Python          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

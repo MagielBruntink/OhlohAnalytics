@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>74103</id>
+      <name>tickingmachine</name>
+      <url>http://www.ohloh.net/p/tickingmachine.xml</url>
+      <html_url>http://www.ohloh.net/p/tickingmachine</html_url>
+      <created_at>2008-12-19T17:26:45Z</created_at>
+      <updated_at>2013-07-05T10:50:17Z</updated_at>
+      <description>TickingMachine is a Plone product built using Archetypes and Zope3 framework. It adds the notion of a 'server tick' which is, basically, a simple time event triggered at specified intervals (set with a custom portal tool - portal_tickingmachine). This subsystem uses the observer pattern and zope3 events, which means that other subsystems can subscribe to it and get notified each time a tick takes place (thus being able to perceive the time flow and react to it by performing some actions). 
+
+The TickingMachine needs an external clock source. You can use the cron daemon, Zope ClockServer or whatever you wish as long as it can invoke a tick() method of the TickingMachine portal tool (e.g. by accessing it via HTTP(s) with its URL).</description>
+      <homepage_url>http://code.google.com/p/tickingmachine</homepage_url>
+      <download_url></download_url>
+      <url_name>tickingmachine</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14535359</analysis_id>
+      <tags>
+        <tag>tick</tag>
+        <tag>events</tag>
+        <tag>time</tag>
+        <tag>zope3</tag>
+        <tag>python</tag>
+        <tag>plone</tag>
+        <tag>zope</tag>
+        <tag>archetypes</tag>
+        <tag>clock</tag>
+      </tags>
+      <analysis>
+        <id>14535359</id>
+        <url>http://www.ohloh.net/analyses/14535359.xml</url>
+        <project_id>74103</project_id>
+        <updated_at>2013-07-19T17:52:49Z</updated_at>
+        <logged_at>2013-07-19T17:52:47Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2008-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>401</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tickingmachine/analyses/14535359/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

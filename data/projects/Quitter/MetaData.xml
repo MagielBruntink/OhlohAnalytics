@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>415518</id>
+      <name>Quitter - A Quiet Little Twitter Client</name>
+      <url>http://www.ohloh.net/p/Quitter.xml</url>
+      <html_url>http://www.ohloh.net/p/Quitter</html_url>
+      <created_at>2009-08-24T06:24:07Z</created_at>
+      <updated_at>2012-02-24T14:39:55Z</updated_at>
+      <description>I love Twitter, but I didn't love the fact that so many of the desktop clients for Twitter were large downloads with visually-rich Adobe Air interfaces or big flashy websites. I wanted a quiet little Twitter client.
+
+So I wrote Quitter.
+
+Quitter is a Twitter client that doesn't announce itself to the entire cube farm; it runs in a command window (or &quot;DOS window&quot;). There's no installer and no entries in the Start Menu; it will run from a thumbdrive. It's a single small EXE file (about 105k) and it stores its settings in a small XML file.
+
+You can read, reply, retweet, use built-in URL shorteners like TinyURL, organize the people you follow into groups, and do cool things like filter (or highlight ) any tweet that contains certain hashtags.</description>
+      <homepage_url>http://GetQuitter.com</homepage_url>
+      <download_url>http://GetQuitter.com</download_url>
+      <url_name>Quitter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1862165</analysis_id>
+      <tags>
+        <tag>net20</tag>
+        <tag>twitterclient</tag>
+        <tag>twitter</tag>
+        <tag>consoleapplication</tag>
+      </tags>
+      <analysis>
+        <id>1862165</id>
+        <url>http://www.ohloh.net/analyses/1862165.xml</url>
+        <project_id>415518</project_id>
+        <updated_at>2011-04-02T03:00:36Z</updated_at>
+        <logged_at>2009-09-24T20:20:43Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4000</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Quitter/analyses/1862165/languages.png">
+          <language color="2C5DC7" percentage="100" id="15">
+Visual Basic          </language>
+        </languages>
+        <main_language_id>15</main_language_id>
+        <main_language_name>Visual Basic</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

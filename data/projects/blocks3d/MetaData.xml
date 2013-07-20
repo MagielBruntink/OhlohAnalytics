@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>352</id>
+      <name>Blocks3D</name>
+      <url>http://www.ohloh.net/p/blocks3d.xml</url>
+      <html_url>http://www.ohloh.net/p/blocks3d</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2012-02-22T19:00:53Z</updated_at>
+      <description>Blocks 3D is yet another 3D puzzle game that resembles Tetris a bit. The goal of the game is to fill planes of blocks so that they disappear. The game uses Crystal Space and is thus hardware accelerated using OpenGL.</description>
+      <homepage_url>http://blocks3d.sourceforge.net</homepage_url>
+      <download_url></download_url>
+      <url_name>blocks3d</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>341488</analysis_id>
+      <tags>
+        <tag>crystal_space</tag>
+        <tag>c++</tag>
+        <tag>puzzle_games</tag>
+      </tags>
+      <analysis>
+        <id>341488</id>
+        <url>http://www.ohloh.net/analyses/341488.xml</url>
+        <project_id>352</project_id>
+        <updated_at>2011-03-02T13:24:57Z</updated_at>
+        <logged_at>2011-03-02T13:24:53Z</logged_at>
+        <min_month>2003-06-01T00:00:00Z</min_month>
+        <max_month>2007-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>18370</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blocks3d/analyses/341488/languages.png">
+          <language color="EEE" percentage="59" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="23" id="44">
+C++          </language>
+          <language color="777777" percentage="15" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

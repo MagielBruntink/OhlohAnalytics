@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>81761</id>
+      <project_id>345768</project_id>
+      <repository_id>80232</repository_id>
+      <repository>
+        <id>80232</id>
+        <type>SvnRepository</type>
+        <url>http://failz.exillium.com/svn/trunk</url>
+        <username>public</username>
+        <password>public</password>
+        <logged_at>2009-10-10T14:50:17Z</logged_at>
+        <commits>9</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

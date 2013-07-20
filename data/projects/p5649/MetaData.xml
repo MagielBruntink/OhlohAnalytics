@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5649</id>
+      <name>DotNetSvn</name>
+      <url>http://www.ohloh.net/p/p5649.xml</url>
+      <html_url>http://www.ohloh.net/p/p5649</html_url>
+      <created_at>2007-05-29T20:05:34Z</created_at>
+      <updated_at>2011-03-13T06:50:52Z</updated_at>
+      <description>Our goal is to provide a Microsoft .NET platform for developers that utilize Subversion. We aim to develop a library, using C#, that is a wrapper for the Subversion command line. In the long term, our goal is to develop a standalone Windows client for Subversion access.</description>
+      <homepage_url>http://www.dotnetsvn.com</homepage_url>
+      <download_url>https://www.ohloh.net/p/5649/packages</download_url>
+      <url_name>p5649</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1769004</analysis_id>
+      <tags>
+        <tag>dotnet</tag>
+        <tag>subversion</tag>
+        <tag>c#</tag>
+      </tags>
+      <analysis>
+        <id>1769004</id>
+        <url>http://www.ohloh.net/analyses/1769004.xml</url>
+        <project_id>5649</project_id>
+        <updated_at>2011-03-13T06:50:52Z</updated_at>
+        <logged_at>2007-07-11T17:30:52Z</logged_at>
+        <min_month>2007-05-01T00:00:00Z</min_month>
+        <max_month>2007-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1175</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/p5649/analyses/1769004/languages.png">
+          <language color="4096EE" percentage="93" id="17">
+C#          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

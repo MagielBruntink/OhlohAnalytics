@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4056</id>
+      <name>Userful Pre-Book</name>
+      <url>http://www.ohloh.net/p/prebook.xml</url>
+      <html_url>http://www.ohloh.net/p/prebook</html_url>
+      <created_at>2007-01-18T19:31:29Z</created_at>
+      <updated_at>2012-02-22T19:06:18Z</updated_at>
+      <description>Pre-Book is a PC reservation system consisting of both a Linux based server and Windows and Linux client management software. Pre-book enables you to enforce equitable time usage of your desktop computers and has numerous advanced features, such as grace periods, no-show penalties, holiday hours, PAM authentication, etc. It is appropriate for libraries, schools, Internet cafes, university labs, and similar. The client software is available for Windows as well as a multi-seat locked-down Linux client (DiscoverStation).</description>
+      <homepage_url>http://userful.com/products/pre-book</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=153260&amp;package_id=202615</download_url>
+      <url_name>prebook</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13654/openacs-library-color-noborder-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13654/openacs-library-color-noborder-64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>4900566</analysis_id>
+      <tags>
+        <tag>rsvp</tag>
+        <tag>time</tag>
+        <tag>desktop</tag>
+        <tag>linux</tag>
+        <tag>management</tag>
+        <tag>pc_booking</tag>
+        <tag>openacs</tag>
+        <tag>windows</tag>
+        <tag>userful-pcres</tag>
+        <tag>reservations</tag>
+        <tag>pc_reservation</tag>
+        <tag>time_limits</tag>
+        <tag>bookings</tag>
+      </tags>
+      <analysis>
+        <id>4900566</id>
+        <url>http://www.ohloh.net/analyses/4900566.xml</url>
+        <project_id>4056</project_id>
+        <updated_at>2011-12-05T21:30:53Z</updated_at>
+        <logged_at>2011-12-05T21:30:50Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2007-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10926</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/prebook/analyses/4900566/languages.png">
+          <language color="D290A8" percentage="71" id="25">
+Tcl          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="493625" percentage="12" id="30">
+SQL          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>25</main_language_id>
+        <main_language_name>Tcl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

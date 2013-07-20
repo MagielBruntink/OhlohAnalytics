@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>209848</id>
+      <project_id>481061</project_id>
+      <repository_id>207880</repository_id>
+      <repository>
+        <id>207880</id>
+        <type>HgRepository</type>
+        <url>http://hg.secondlife.com/snowglobe/</url>
+        <username></username>
+        <password></password>
+        <logged_at></logged_at>
+        <commits>319</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>209838</id>
+      <project_id>481061</project_id>
+      <repository_id>207870</repository_id>
+      <repository>
+        <id>207870</id>
+        <type>SvnRepository</type>
+        <url>https://svn.secondlife.com/svn/linden/projects/2009/snowglobe/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2010-09-07T18:08:06Z</logged_at>
+        <commits>668</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

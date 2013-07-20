@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340156</id>
+      <name>WarVOX</name>
+      <url>http://www.ohloh.net/p/warvox.xml</url>
+      <html_url>http://www.ohloh.net/p/warvox</html_url>
+      <created_at>2009-05-12T21:29:54Z</created_at>
+      <updated_at>2012-01-08T14:52:31Z</updated_at>
+      <description>WarVOX is a suite of tools for exploring, classifying, and auditing telephone systems. Unlike normal wardialing tools, WarVOX works with the actual audio from each call and does not use a modem directly. This model allows WarVOX to find and classify a wide range of interesting lines, including modems, faxes, voice mail boxes, PBXs, loops, dial tones, IVRs, and forwarders. WarVOX provides the unique ability to classify all telephone lines in a given range, not just those connected to modems, allowing for a comprehensive audit of a telephone system.</description>
+      <homepage_url>http://warvox.org/</homepage_url>
+      <download_url>http://warvox.org/install.html</download_url>
+      <url_name>warvox</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5803824</analysis_id>
+      <analysis>
+        <id>5803824</id>
+        <url>http://www.ohloh.net/analyses/5803824.xml</url>
+        <project_id>340156</project_id>
+        <updated_at>2012-01-11T15:32:42Z</updated_at>
+        <logged_at>2012-01-11T15:32:41Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>14071</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/warvox/analyses/5803824/languages.png">
+          <language color="A4007E" percentage="56" id="6">
+JavaScript          </language>
+          <language color="A40011" percentage="26" id="12">
+Ruby          </language>
+          <language color="FF8F00" percentage="14" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

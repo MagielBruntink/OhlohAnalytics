@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>26417</id>
+      <name>munin-libvirt-plugins</name>
+      <url>http://www.ohloh.net/p/munin-libvirt-plugins.xml</url>
+      <html_url>http://www.ohloh.net/p/munin-libvirt-plugins</html_url>
+      <created_at>2008-11-08T21:48:54Z</created_at>
+      <updated_at>2012-03-13T10:18:22Z</updated_at>
+      <description>Munin plugins to monitor virtual machines using libvirt</description>
+      <homepage_url>http://honk.sigxcpu.org/projects/libvirt/#munin</homepage_url>
+      <download_url>http://honk.sigxcpu.org/projects/libvirt/monitor/releases/</download_url>
+      <url_name>munin-libvirt-plugins</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6932228</analysis_id>
+      <tags>
+        <tag>system_administration</tag>
+        <tag>monitoring</tag>
+        <tag>munin</tag>
+        <tag>libvirt</tag>
+        <tag>systems_administration</tag>
+        <tag>plugins</tag>
+      </tags>
+      <analysis>
+        <id>6932228</id>
+        <url>http://www.ohloh.net/analyses/6932228.xml</url>
+        <project_id>26417</project_id>
+        <updated_at>2012-03-29T05:37:28Z</updated_at>
+        <logged_at>2012-03-29T05:37:09Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>448</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/munin-libvirt-plugins/analyses/6932228/languages.png">
+          <language color="4A246B" percentage="94" id="9">
+Python          </language>
+          <language color="EEE" percentage="6" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>606991</id>
+      <name>Async Task Framework</name>
+      <url>http://www.ohloh.net/p/asynctasks.xml</url>
+      <html_url>http://www.ohloh.net/p/asynctasks</html_url>
+      <created_at>2012-10-20T00:15:04Z</created_at>
+      <updated_at>2013-06-29T11:30:35Z</updated_at>
+      <description>The Async Tasks framework provides a light weight easy to use asynchronous framework, which allows for asynchronous execution of tasks and provides notification of different events throughout the life-cycle of the task. The framework is developed in C# and .NET 4.</description>
+      <homepage_url>http://asynctasks.codeplex.com</homepage_url>
+      <download_url></download_url>
+      <url_name>asynctasks</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14455802</analysis_id>
+      <analysis>
+        <id>14455802</id>
+        <url>http://www.ohloh.net/analyses/14455802.xml</url>
+        <project_id>606991</project_id>
+        <updated_at>2013-07-15T00:58:57Z</updated_at>
+        <logged_at>2013-07-15T00:58:39Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2574</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/asynctasks/analyses/14455802/languages.png">
+          <language color="4096EE" percentage="73" id="17">
+C#          </language>
+          <language color="EEE" percentage="23" id="67">
+XAML          </language>
+          <language color="555555" percentage="4" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Ms-PL</name>
+          <nice_name>Microsoft Public License</nice_name>
+        </license>
+        <license>
+          <name>Microsoft_Public_License_</name>
+          <nice_name>Microsoft Public License </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

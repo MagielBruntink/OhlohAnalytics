@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>222022</id>
+      <project_id>482660</project_id>
+      <repository_id>219895</repository_id>
+      <repository>
+        <id>219895</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@dev.eclipse.org:/cvsroot/org.eclipse</url>
+        <module_name>www/sequoyah</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at></logged_at>
+        <commits>0</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

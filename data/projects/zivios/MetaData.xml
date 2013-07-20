@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16530</id>
+      <name>Zivios</name>
+      <url>http://www.ohloh.net/p/zivios.xml</url>
+      <html_url>http://www.ohloh.net/p/zivios</html_url>
+      <created_at>2008-09-06T12:22:19Z</created_at>
+      <updated_at>2012-04-23T06:59:51Z</updated_at>
+      <description>Zivios is a web based control panel which brings together vital open source technologies and provides identity management, single sign-on, user, group and computer provisioning, as well as remote management of services.
+
+Zivios offers an easy and extensible API, allowing organizations to extend the core application with additional plug-ins for their in-house or third party software.</description>
+      <homepage_url>http://www.zivios.org</homepage_url>
+      <download_url>http://www.zivios.org/downloads/index</download_url>
+      <url_name>zivios</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8265/zivioslogo__copy__med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8265/zivioslogo__copy__small.jpg</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>7820588</analysis_id>
+      <tags>
+        <tag>management</tag>
+        <tag>kerberos</tag>
+        <tag>identity_manager</tag>
+        <tag>authorization</tag>
+        <tag>openldap</tag>
+        <tag>identity</tag>
+        <tag>user-management</tag>
+        <tag>contol</tag>
+        <tag>configuration_management</tag>
+        <tag>systems_administration</tag>
+        <tag>administration</tag>
+        <tag>authority</tag>
+        <tag>authentication</tag>
+        <tag>single</tag>
+        <tag>provisioning</tag>
+        <tag>directory</tag>
+        <tag>configuration</tag>
+        <tag>systemprovisioning</tag>
+        <tag>access</tag>
+        <tag>system-management</tag>
+        <tag>system_administration</tag>
+        <tag>access-control</tag>
+        <tag>policy</tag>
+        <tag>sign</tag>
+        <tag>systems_management</tag>
+        <tag>certificate</tag>
+      </tags>
+      <analysis>
+        <id>7820588</id>
+        <url>http://www.ohloh.net/analyses/7820588.xml</url>
+        <project_id>16530</project_id>
+        <updated_at>2012-04-26T07:00:40Z</updated_at>
+        <logged_at>2012-04-26T07:00:06Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>569018</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zivios/analyses/7820588/languages.png">
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="356AA0" percentage="42" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="29" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="5" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

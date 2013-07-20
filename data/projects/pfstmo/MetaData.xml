@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>14270</id>
+      <name>pfstmo</name>
+      <url>http://www.ohloh.net/p/pfstmo.xml</url>
+      <html_url>http://www.ohloh.net/p/pfstmo</html_url>
+      <created_at>2008-05-23T19:21:37Z</created_at>
+      <updated_at>2008-05-23T19:22:00Z</updated_at>
+      <description>This package contains a set of state-of-the-art tone mapping operators. Tone mapping is a technique used to approximately map the appearance of high-dynamic range (HDR) images to media with more limited dynamic range. The operators are suitable for processing of both static images and animations.
+
+The operators are embedded in a flexible framework (pfstools) which provides a unified input/output mechanism and a modular architecture for the filtering of the image data. Various file formats for static images and video are transparently supported and the High Dynamic Range data are processed modularly through a Unix piping mechanism.</description>
+      <homepage_url>http://www.mpi-inf.mpg.de/resources/tmo/</homepage_url>
+      <download_url>http://www.mpi-inf.mpg.de/resources/tmo/#download</download_url>
+      <url_name>pfstmo</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>pfstools</tag>
+        <tag>hdr</tag>
+        <tag>mapping</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

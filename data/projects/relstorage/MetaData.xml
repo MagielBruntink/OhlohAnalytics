@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>116368</id>
+      <name>RelStorage</name>
+      <url>http://www.ohloh.net/p/relstorage.xml</url>
+      <html_url>http://www.ohloh.net/p/relstorage</html_url>
+      <created_at>2008-12-31T05:18:28Z</created_at>
+      <updated_at>2012-05-23T01:45:33Z</updated_at>
+      <description>A backend for ZODB that stores pickles in a relational database.</description>
+      <homepage_url>http://wiki.zope.org/ZODB/RelStorage</homepage_url>
+      <download_url>http://pypi.python.org/pypi/RelStorage</download_url>
+      <url_name>relstorage</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8259309</analysis_id>
+      <tags>
+        <tag>plone</tag>
+        <tag>python</tag>
+        <tag>zodb</tag>
+        <tag>zope</tag>
+      </tags>
+      <analysis>
+        <id>8259309</id>
+        <url>http://www.ohloh.net/analyses/8259309.xml</url>
+        <project_id>116368</project_id>
+        <updated_at>2012-06-13T07:22:12Z</updated_at>
+        <logged_at>2012-06-13T07:22:08Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9139</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/relstorage/analyses/8259309/languages.png">
+          <language color="4A246B" percentage="98" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Zope_Public_License_ZPL_Version_2_1</name>
+          <nice_name>Zope Public License 2.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

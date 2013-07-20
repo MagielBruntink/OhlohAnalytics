@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>84840</id>
+      <name>GPGMail</name>
+      <url>http://www.ohloh.net/p/gpgmail.xml</url>
+      <html_url>http://www.ohloh.net/p/gpgmail</html_url>
+      <created_at>2008-12-20T12:34:35Z</created_at>
+      <updated_at>2012-06-24T17:24:27Z</updated_at>
+      <description>GPGMail is an open source plugin for Apple Mail. It brings the functionality to sign, verify, encrypt and decrypt mails using the OpenPGP standard.</description>
+      <homepage_url>http://www.gpgtools.org/gpgmail.html</homepage_url>
+      <download_url>http://www.gpgtools.org/download/gpgmail</download_url>
+      <url_name>gpgmail</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40048/gpgmail_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40048/gpgmail_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6240689</analysis_id>
+      <tags>
+        <tag>encryption</tag>
+        <tag>security</tag>
+        <tag>mail</tag>
+        <tag>apple</tag>
+      </tags>
+      <analysis>
+        <id>6240689</id>
+        <url>http://www.ohloh.net/analyses/6240689.xml</url>
+        <project_id>84840</project_id>
+        <updated_at>2012-01-28T18:28:58Z</updated_at>
+        <logged_at>2012-01-28T18:28:54Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>26761</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gpgmail/analyses/6240689/languages.png">
+          <language color="555555" percentage="61" id="3">
+XML          </language>
+          <language color="C7932C" percentage="33" id="16">
+Objective-C          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

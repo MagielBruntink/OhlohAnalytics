@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4633</id>
+      <name>Umigumi</name>
+      <url>http://www.ohloh.net/p/umigumi.xml</url>
+      <html_url>http://www.ohloh.net/p/umigumi</html_url>
+      <created_at>2007-03-07T19:24:40Z</created_at>
+      <updated_at>2012-02-28T20:20:21Z</updated_at>
+      <description>Umigumi simplifies the generation of custom Linux distributions and their deployment on various media: Flash memory cards, LiveCD, hard disk, etc.
+
+Umigumi has been originally developped by the OpenBrick community for the OpenBrick open embedded platform and is now the tool of choice to generate ERP5 Live CDs.</description>
+      <homepage_url>http://www.umigumi.org</homepage_url>
+      <download_url></download_url>
+      <url_name>umigumi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1765850</analysis_id>
+      <tags>
+        <tag>hardware</tag>
+        <tag>bootcd</tag>
+        <tag>cd</tag>
+        <tag>software_distribution</tag>
+        <tag>python</tag>
+        <tag>distribution</tag>
+        <tag>installation</tag>
+        <tag>linux</tag>
+        <tag>build_tools</tag>
+        <tag>installer</tag>
+        <tag>flash</tag>
+        <tag>utility</tag>
+        <tag>utilities</tag>
+        <tag>erp5</tag>
+        <tag>setup</tag>
+        <tag>embedded</tag>
+        <tag>mandriva</tag>
+        <tag>boot</tag>
+        <tag>livecd</tag>
+        <tag>build</tag>
+        <tag>system</tag>
+        <tag>distro</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>1765850</id>
+        <url>http://www.ohloh.net/analyses/1765850.xml</url>
+        <project_id>4633</project_id>
+        <updated_at>2011-03-11T20:01:33Z</updated_at>
+        <logged_at>2007-03-16T06:00:08Z</logged_at>
+        <min_month>2003-05-01T00:00:00Z</min_month>
+        <max_month>2007-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>51213</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/umigumi/analyses/1765850/languages.png">
+          <language color="4A246B" percentage="56" id="9">
+Python          </language>
+          <language color="777777" percentage="27" id="11">
+shell script          </language>
+          <language color="D2C690" percentage="12" id="8">
+Perl          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587986</id>
+      <name>Lem</name>
+      <url>http://www.ohloh.net/p/Lem.xml</url>
+      <html_url>http://www.ohloh.net/p/Lem</html_url>
+      <created_at>2011-12-29T19:21:55Z</created_at>
+      <updated_at>2013-07-18T04:38:39Z</updated_at>
+      <description>Compiler and programming environment for the Lem language.</description>
+      <homepage_url>https://bitbucket.org/lukasz_kozlowski/lem</homepage_url>
+      <download_url>https://bitbucket.org/lukasz_kozlowski/lem</download_url>
+      <url_name>Lem</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14671280</analysis_id>
+      <tags>
+        <tag>programming_language</tag>
+        <tag>llvm</tag>
+        <tag>compiler</tag>
+      </tags>
+      <analysis>
+        <id>14671280</id>
+        <url>http://www.ohloh.net/analyses/14671280.xml</url>
+        <project_id>587986</project_id>
+        <updated_at>2013-07-18T04:38:39Z</updated_at>
+        <logged_at>2013-07-18T04:34:43Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11822</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Lem/analyses/14671280/languages.png">
+          <language color="F35F1F" percentage="97" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

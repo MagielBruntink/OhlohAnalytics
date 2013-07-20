@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25880</id>
+      <name>Textile-J</name>
+      <url>http://www.ohloh.net/p/textile-j.xml</url>
+      <html_url>http://www.ohloh.net/p/textile-j</html_url>
+      <created_at>2008-10-27T19:54:59Z</created_at>
+      <updated_at>2011-03-20T06:14:11Z</updated_at>
+      <description>Textile-J is a Java library that provides a simple parser for multiple wiki markup languages[1],[2] (Textile, MediaWiki / WikiMedia, Confluence, and TracWiki), an Eclipse editor for editing Textile markup, and a simple JFace text viewer that can be used to display the markup in an SWT or eclipse environment. The Java library may be used standalone or as an Eclipse plugin.
+
+The parser can be used on its own to convert markup to XHTML or DocBook, or the parser can be used with the provided JFace viewer to display the Textile in a UI such as eclipse.
+
+This project has been contributed to Elipse Mylyn as WikiText.  Find out more here: http://greensopinion.blogspot.com/2008/08/textile-j-is-moving-to-mylyn-wikitext.html</description>
+      <homepage_url>https://textile-j.dev.java.net/</homepage_url>
+      <download_url>https://textile-j.dev.java.net/builds/net.java.textilej/latest/index.html</download_url>
+      <url_name>textile-j</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1789830</analysis_id>
+      <tags>
+        <tag>confluence</tag>
+        <tag>parser</tag>
+        <tag>textile</tag>
+        <tag>mediawiki</tag>
+        <tag>html</tag>
+        <tag>pdf</tag>
+        <tag>java</tag>
+        <tag>wikitext</tag>
+        <tag>eclipse</tag>
+        <tag>docbook</tag>
+        <tag>markup</tag>
+        <tag>wiki</tag>
+        <tag>tracwiki</tag>
+      </tags>
+      <analysis>
+        <id>1789830</id>
+        <url>http://www.ohloh.net/analyses/1789830.xml</url>
+        <project_id>25880</project_id>
+        <updated_at>2011-03-20T06:14:11Z</updated_at>
+        <logged_at>2011-03-03T14:09:31Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>22507</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/textile-j/analyses/1789830/languages.png">
+          <language color="9A63AD" percentage="83" id="5">
+Java          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

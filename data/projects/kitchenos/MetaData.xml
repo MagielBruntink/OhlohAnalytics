@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485054</id>
+      <name>KitchenOS</name>
+      <url>http://www.ohloh.net/p/kitchenos.xml</url>
+      <html_url>http://www.ohloh.net/p/kitchenos</html_url>
+      <created_at>2010-08-28T14:34:37Z</created_at>
+      <updated_at>2012-05-22T10:41:37Z</updated_at>
+      <description></description>
+      <homepage_url>http://www.kitchenos.com/</homepage_url>
+      <download_url>http://www.kitchenos.com/downloads</download_url>
+      <url_name>kitchenos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>8198234</analysis_id>
+      <tags>
+        <tag>recipes</tag>
+        <tag>computer</tag>
+        <tag>kitchen</tag>
+      </tags>
+      <analysis>
+        <id>8198234</id>
+        <url>http://www.ohloh.net/analyses/8198234.xml</url>
+        <project_id>485054</project_id>
+        <updated_at>2012-06-15T22:38:27Z</updated_at>
+        <logged_at>2012-06-15T22:38:16Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12392</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kitchenos/analyses/8198234/languages.png">
+          <language color="4096EE" percentage="75" id="17">
+C#          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="EEE" percentage="13" id="67">
+XAML          </language>
+          <language color="AAAAAA" percentage="&lt;1" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

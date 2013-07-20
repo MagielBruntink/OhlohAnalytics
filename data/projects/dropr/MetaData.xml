@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16846</id>
+      <name>dropr</name>
+      <url>http://www.ohloh.net/p/dropr.xml</url>
+      <html_url>http://www.ohloh.net/p/dropr</html_url>
+      <created_at>2008-09-21T10:21:20Z</created_at>
+      <updated_at>2011-03-18T23:11:34Z</updated_at>
+      <description>dropr is a distributed message queue framework written in PHP. The main goals are:
+
+#reliable and durable (failsafe)-messaging over networks
+#decentralized architecture without a single (point of failure) server instance
+#easy to setup and use
+#modularity for queue storage and message transports (currently filesystem storage and curl-upload are implemented)</description>
+      <homepage_url>https://www.dropr.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>dropr</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/8749/dropr_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/8749/dropr_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1784766</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>queue</tag>
+        <tag>distributed</tag>
+        <tag>message</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>1784766</id>
+        <url>http://www.ohloh.net/analyses/1784766.xml</url>
+        <project_id>16846</project_id>
+        <updated_at>2011-03-18T23:11:34Z</updated_at>
+        <logged_at>2010-04-07T19:47:13Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1357</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dropr/analyses/1784766/languages.png">
+          <language color="356AA0" percentage="81" id="2">
+PHP          </language>
+          <language color="777777" percentage="17" id="11">
+shell script          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

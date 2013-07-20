@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>323803</id>
+      <name>Maxine VM</name>
+      <url>http://www.ohloh.net/p/maxine.xml</url>
+      <html_url>http://www.ohloh.net/p/maxine</html_url>
+      <created_at>2009-04-12T01:57:39Z</created_at>
+      <updated_at>2013-07-11T12:58:32Z</updated_at>
+      <description>A Next Generation, Highly Productive Platform for Virtual Machine Research.
+
+It is written entirely in Java, completely compatible with modern Java IDEs and the standard JDK, features a modular architecture that permits alternate implementations of subsystems such as GC and compilation to be plugged in, and is accompanied by a dedicated development tool (the Maxine Inspector) for debugging and visualizing nearly every aspect of the VM's runtime state.</description>
+      <homepage_url>http://wikis.oracle.com/display/MaxineVM/Home</homepage_url>
+      <download_url>https://hg.kenai.com/hg/maxine~maxine</download_url>
+      <url_name>maxine</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14590257</analysis_id>
+      <tags>
+        <tag>jvm</tag>
+        <tag>general</tag>
+        <tag>java</tag>
+        <tag>maxine</tag>
+        <tag>metacircular</tag>
+      </tags>
+      <analysis>
+        <id>14590257</id>
+        <url>http://www.ohloh.net/analyses/14590257.xml</url>
+        <project_id>323803</project_id>
+        <updated_at>2013-07-17T00:06:44Z</updated_at>
+        <logged_at>2013-07-17T00:06:33Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>573950</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/maxine/analyses/14590257/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

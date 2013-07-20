@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589505</id>
+      <name>dkimpy</name>
+      <url>http://www.ohloh.net/p/dkimpy.xml</url>
+      <html_url>http://www.ohloh.net/p/dkimpy</html_url>
+      <created_at>2012-03-01T06:58:51Z</created_at>
+      <updated_at>2013-07-14T15:08:58Z</updated_at>
+      <description>Python module that implements DKIM (DomainKeys Identified Mail) email signing
+ and verification. It also provides helper scripts for command line signing
+ and verification.
+
+Originally developed by Greg Hewgill http://hewgill.com/pydkim/ - The code in this project has been modified and development work continued. This is now a fork of pydkim and we've renamed it dkimpy to avoid confusion. The original author of pydkim has his code up on github and attempts to communicate with him have been unsuccessful.
+
+Current documentation is available online at http://spidey2.bmsi.com/pydkim/</description>
+      <homepage_url>https://launchpad.net/dkimpy</homepage_url>
+      <download_url>https://launchpad.net/dkimpy/+download</download_url>
+      <url_name>dkimpy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14626826</analysis_id>
+      <analysis>
+        <id>14626826</id>
+        <url>http://www.ohloh.net/analyses/14626826.xml</url>
+        <project_id>589505</project_id>
+        <updated_at>2013-07-14T15:08:58Z</updated_at>
+        <logged_at>2013-07-14T15:04:15Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1332</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dkimpy/analyses/14626826/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

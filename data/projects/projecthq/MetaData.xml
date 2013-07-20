@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13325</id>
+      <name>Project HQ</name>
+      <url>http://www.ohloh.net/p/projecthq.xml</url>
+      <html_url>http://www.ohloh.net/p/projecthq</html_url>
+      <created_at>2008-04-13T09:45:00Z</created_at>
+      <updated_at>2012-02-22T19:29:17Z</updated_at>
+      <description>Project HQ is an open source project management tool somewhat based on activeCollab and Basecamp. It's goal is to remain a free, open source project management tool.</description>
+      <homepage_url>http://projecthq.org/</homepage_url>
+      <download_url>http://projecthq.org/download.html</download_url>
+      <url_name>projecthq</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6755/applications_development_web_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6755/applications_development_web_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>3241033</analysis_id>
+      <tags>
+        <tag>workflow</tag>
+        <tag>management</tag>
+        <tag>mysql</tag>
+        <tag>routes</tag>
+        <tag>subversion</tag>
+        <tag>tasks</tag>
+        <tag>web</tag>
+        <tag>issue</tag>
+        <tag>ticket</tag>
+        <tag>pylons</tag>
+        <tag>project_management</tag>
+        <tag>time_tracking</tag>
+        <tag>development</tag>
+        <tag>paste</tag>
+        <tag>tracking</tag>
+        <tag>milestones</tag>
+        <tag>wsgi</tag>
+        <tag>issue_tracking</tag>
+        <tag>postgresql</tag>
+        <tag>python</tag>
+        <tag>sqlite</tag>
+        <tag>bug_tracking</tag>
+        <tag>planning</tag>
+        <tag>collaboration</tag>
+      </tags>
+      <analysis>
+        <id>3241033</id>
+        <url>http://www.ohloh.net/analyses/3241033.xml</url>
+        <project_id>13325</project_id>
+        <updated_at>2011-08-07T06:01:21Z</updated_at>
+        <logged_at>2011-08-07T06:01:10Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>9752</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/projecthq/analyses/3241033/languages.png">
+          <language color="4A246B" percentage="49" id="9">
+Python          </language>
+          <language color="A4007E" percentage="19" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="17" id="4">
+CSS          </language>
+          <language color="000000" percentage="15" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

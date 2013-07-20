@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483901</id>
+      <name>conStruct SCS</name>
+      <url>http://www.ohloh.net/p/constructscs.xml</url>
+      <html_url>http://www.ohloh.net/p/constructscs</html_url>
+      <created_at>2010-07-06T13:25:35Z</created_at>
+      <updated_at>2011-11-11T22:08:44Z</updated_at>
+      <description>conStruct is a middleware layer that allows structured data (RDF) and associated vocabularies (ontologies) to &quot;drive&quot; tailored tools and data displays within Drupal. The basic conStruct module provides CRUD (create - read - update - delete), search, browse and some import and export capabilities for structured datasets.
+
+conStruct connects to the underlying structured (RDF) data via the separately available structWSF Web services framework. structWSF is a RESTful Web services layer that also allows multiple conStruct and Drupal installations to share and collaborate structured data with one another via user access rights and privileges to registered datasets. Collaboration networks can also be established directly to distributed structWSF servers.</description>
+      <homepage_url>http://openstructs.org/construct</homepage_url>
+      <download_url>http://drupal.org/project/construct</download_url>
+      <url_name>constructscs</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/35101/construct_logo_120_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/35101/construct_logo_120_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4902019</analysis_id>
+      <tags>
+        <tag>drupal</tag>
+        <tag>datastructures</tag>
+        <tag>semanticannotation</tag>
+        <tag>semantic-web</tag>
+        <tag>drupal-module</tag>
+        <tag>semanticwebservice</tag>
+        <tag>semanticnetwork</tag>
+        <tag>cms_systems</tag>
+        <tag>drupal6</tag>
+        <tag>cmsopensource</tag>
+        <tag>datastore</tag>
+        <tag>semanticsearch</tag>
+        <tag>data</tag>
+        <tag>semanticweb</tag>
+        <tag>cms</tag>
+      </tags>
+      <analysis>
+        <id>4902019</id>
+        <url>http://www.ohloh.net/analyses/4902019.xml</url>
+        <project_id>483901</project_id>
+        <updated_at>2011-12-02T22:17:04Z</updated_at>
+        <logged_at>2011-12-02T22:16:59Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15968</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/constructscs/analyses/4902019/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl-2_0</name>
+          <nice_name>GNU Library General Public License v2 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596293</id>
+      <name>TheMonkeyPack</name>
+      <url>http://www.ohloh.net/p/themonkeypack.xml</url>
+      <html_url>http://www.ohloh.net/p/themonkeypack</html_url>
+      <created_at>2012-03-14T14:19:42Z</created_at>
+      <updated_at>2013-07-03T12:52:34Z</updated_at>
+      <description>A Plugin Pack which contains a lot of plugin features of inactive plugin or features which where needed on our server but weren't available otherwise. The code is based on older inactive plugins, but refactored, enhanced, minced, spiced and sprinkled for better flavour.
+
+All of the old plugins functionality is included as MODULES which can be enabled / disabled in the main config, so you can choose which module you want and which you don't want.</description>
+      <homepage_url>http://dev.bukkit.org/server-mods/monkey-pack/</homepage_url>
+      <download_url>http://dev.bukkit.org/server-mods/monkey-pack/</download_url>
+      <url_name>themonkeypack</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514720</analysis_id>
+      <tags>
+        <tag>minecraft</tag>
+        <tag>bukkit</tag>
+        <tag>plugin</tag>
+      </tags>
+      <analysis>
+        <id>14514720</id>
+        <url>http://www.ohloh.net/analyses/14514720.xml</url>
+        <project_id>596293</project_id>
+        <updated_at>2013-07-20T06:45:34Z</updated_at>
+        <logged_at>2013-07-20T06:45:33Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8674</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/themonkeypack/analyses/14514720/languages.png">
+          <language color="9A63AD" percentage="100" id="5">
+Java          </language>
+          <language color="555555" percentage="&lt;1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

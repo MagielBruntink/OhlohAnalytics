@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585757</id>
+      <name>Mobyle</name>
+      <url>http://www.ohloh.net/p/mobyle.xml</url>
+      <html_url>http://www.ohloh.net/p/mobyle</html_url>
+      <created_at>2011-08-23T11:52:15Z</created_at>
+      <updated_at>2013-07-18T17:34:51Z</updated_at>
+      <description>Mobyle is a framework and web portal specifically aimed at the integration of bioinformatics software and databanks.
+
+Mobyle enables the use of local and remote bioinformatics services, seamlessly integrated within a homogeneous and
+web-accessible environment that focuses on usability. This framework offers
+the possibility of integrating a wide range of services that span from
+the traditional server-side command-line based programs to workflows
+and client-based visualization tools. By abstracting whenever possible
+the user from the details of syntactic compatibility and providing multiple
+classification tools, Mobyle provides an efficient web-based solution
+to run and chain bioinformatics analyses.</description>
+      <homepage_url>https://projets.pasteur.fr/wiki/mobyle</homepage_url>
+      <download_url>https://projets.pasteur.fr/wiki/mobyle/download</download_url>
+      <url_name>mobyle</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14611962</analysis_id>
+      <tags>
+        <tag>workflows</tag>
+        <tag>bioinformatics</tag>
+        <tag>ajax</tag>
+        <tag>web</tag>
+        <tag>python</tag>
+        <tag>javascript</tag>
+        <tag>framework</tag>
+        <tag>soa</tag>
+        <tag>workbench</tag>
+      </tags>
+      <analysis>
+        <id>14611962</id>
+        <url>http://www.ohloh.net/analyses/14611962.xml</url>
+        <project_id>585757</project_id>
+        <updated_at>2013-07-13T00:54:01Z</updated_at>
+        <logged_at>2013-07-13T00:43:01Z</logged_at>
+        <min_month>2004-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>229075</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mobyle/analyses/14611962/languages.png">
+          <language color="555555" percentage="60" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="12" id="5">
+Java          </language>
+          <language color="4A246B" percentage="14" id="9">
+Python          </language>
+          <language color="000000" percentage="14" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

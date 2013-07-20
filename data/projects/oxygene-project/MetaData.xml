@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>40483</id>
+      <name>GeOxygene</name>
+      <url>http://www.ohloh.net/p/oxygene-project.xml</url>
+      <html_url>http://www.ohloh.net/p/oxygene-project</html_url>
+      <created_at>2008-12-14T07:02:28Z</created_at>
+      <updated_at>2013-07-14T05:30:52Z</updated_at>
+      <description>GeOxygene aims at providing an open framework which implements OGC/ISO specifications for the development and deployment of geographic (GIS) applications. It is a open source contribution of the COGIT lab. at the IGN (the French National Mapping Agency).</description>
+      <homepage_url>http://sourceforge.net/projects/oxygene-project</homepage_url>
+      <download_url></download_url>
+      <url_name>oxygene-project</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/65422/IconeGeoxygene_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/65422/IconeGeoxygene_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14622815</analysis_id>
+      <tags>
+        <tag>viewers</tag>
+        <tag>visualization</tag>
+        <tag>gis</tag>
+        <tag>editors</tag>
+        <tag>database</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14622815</id>
+        <url>http://www.ohloh.net/analyses/14622815.xml</url>
+        <project_id>40483</project_id>
+        <updated_at>2013-07-14T05:30:51Z</updated_at>
+        <logged_at>2013-07-13T22:34:12Z</logged_at>
+        <min_month>2005-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>502209</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/oxygene-project/analyses/14622815/languages.png">
+          <language color="9A63AD" percentage="64" id="5">
+Java          </language>
+          <language color="555555" percentage="35" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cecill_c</name>
+          <nice_name>CeCILL-C Free Software License Agreement</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15823</id>
+      <name>SQO-OSS</name>
+      <url>http://www.ohloh.net/p/SQO-OSS.xml</url>
+      <html_url>http://www.ohloh.net/p/SQO-OSS</html_url>
+      <created_at>2008-07-30T15:07:30Z</created_at>
+      <updated_at>2012-04-10T11:22:19Z</updated_at>
+      <description>The SQO-OSS project is an integrated software quality assessment platform. It comprises of three basic components:
+
+* The Alitheia Core tool combines data from various project development data sources, such as source code repositories, mailing lists and bug management databases and offers data storage, job scheduling and web services for data retrieval.
+
+* Software quality assessment plug-ins to the Alitheia Core software that consume the preprocessed data and produce measurements. 
+
+* An assortment of UIs, including a web UI and an Eclipse plug-in that retrieve and present the results to the developers.
+
+A continuously updated demo version of the software running on various OSS projects can be found at: http://demo.sqo-oss.org</description>
+      <homepage_url>http://www.sqo-oss.org</homepage_url>
+      <download_url>http://www.sqo-oss.org/builds/</download_url>
+      <url_name>SQO-OSS</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/7429/SQO-OSS-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/7429/SQO-OSS-logo_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>5600169</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>framework</tag>
+        <tag>software_quality</tag>
+        <tag>hibernate</tag>
+      </tags>
+      <analysis>
+        <id>5600169</id>
+        <url>http://www.ohloh.net/analyses/5600169.xml</url>
+        <project_id>15823</project_id>
+        <updated_at>2011-12-17T06:34:43Z</updated_at>
+        <logged_at>2011-12-17T06:34:35Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>29353</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SQO-OSS/analyses/5600169/languages.png">
+          <language color="9A63AD" percentage="90" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

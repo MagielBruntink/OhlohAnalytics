@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484897</id>
+      <name>Apache Solr Multilingual</name>
+      <url>http://www.ohloh.net/p/apache-solr-multilingual.xml</url>
+      <html_url>http://www.ohloh.net/p/apache-solr-multilingual</html_url>
+      <created_at>2010-08-20T14:18:06Z</created_at>
+      <updated_at>2013-07-16T07:29:22Z</updated_at>
+      <description>The goal of this project is to extend Drupal's Apache Solr Search Integration in a clean way to provide
+
+* better support for non-English languages
+
+* support for multilingual search
+
+* cross-language information retrieval (CLIR)
+
+* an easy to use administration interface</description>
+      <homepage_url>http://drupal.org/project/apachesolr_multilingual</homepage_url>
+      <download_url>http://drupal.org/project/apachesolr_multilingual</download_url>
+      <url_name>apache-solr-multilingual</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6221/drupal_library_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6221/drupal_library_med_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14648500</analysis_id>
+      <analysis>
+        <id>14648500</id>
+        <url>http://www.ohloh.net/analyses/14648500.xml</url>
+        <project_id>484897</project_id>
+        <updated_at>2013-07-16T07:29:21Z</updated_at>
+        <logged_at>2013-07-16T07:26:34Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>7854</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/apache-solr-multilingual/analyses/14648500/languages.png">
+          <language color="356AA0" percentage="69" id="2">
+PHP          </language>
+          <language color="555555" percentage="31" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584085</id>
+      <name>Aion-Extreme</name>
+      <url>http://www.ohloh.net/p/aion-extreme.xml</url>
+      <html_url>http://www.ohloh.net/p/aion-extreme</html_url>
+      <created_at>2011-05-26T02:47:37Z</created_at>
+      <updated_at>2012-07-06T21:19:00Z</updated_at>
+      <description>Aion Extreme Emulator is a custom Release based of one of the last ZettaCore release, distributed in basic form, from Open-Aion. So most starting credits goes to them.
+
+We hardly test every feature, changes or patches before update our SVN.
+
+The source code (SVN) will be maintained on Google Project Hosting.
+Only some supporters and developers will have access to our source. It depends, how your contributions is.
+
+Anyone can contribute with his/her code to the project. After a few good contributions if he/she wants to join he/she will be invited to the developers who can commit codes on SVN directly. 
+
+Our goal is to build a server step by step to be a stable basis of all Aion emulators. The stability and reliability will be more important than putting in all things as soon as possible. 
+
+Everyone can use the code for their private servers and private projects under the terms of GPL3 license terms - so none can profit from it or sell the code or the built program to anyone.</description>
+      <homepage_url>http://www.aion-core.net</homepage_url>
+      <download_url>http://www.aion-core.net</download_url>
+      <url_name>aion-extreme</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44535/x_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44535/x_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4124614</analysis_id>
+      <analysis>
+        <id>4124614</id>
+        <url>http://www.ohloh.net/analyses/4124614.xml</url>
+        <project_id>584085</project_id>
+        <updated_at>2011-09-30T04:30:01Z</updated_at>
+        <logged_at>2011-09-30T04:28:47Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>2122128</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/aion-extreme/analyses/4124614/languages.png">
+          <language color="555555" percentage="63" id="3">
+XML          </language>
+          <language color="493625" percentage="14" id="30">
+SQL          </language>
+          <language color="9A63AD" percentage="19" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

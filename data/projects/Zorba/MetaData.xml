@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15283</id>
+      <name>Zorba</name>
+      <url>http://www.ohloh.net/p/Zorba.xml</url>
+      <html_url>http://www.ohloh.net/p/Zorba</html_url>
+      <created_at>2008-07-02T17:33:52Z</created_at>
+      <updated_at>2011-10-27T18:59:57Z</updated_at>
+      <description>Zorba is a general purpose XQuery processor implementing in C++ the W3C family of specifications. It is not an XML database. The query processor has been designed to be embeddable in a variety of environments such as other programming languages extended with XML processing capabilities, browsers, database servers, XML message dispatchers, or smartphones. Its architecture employes a modular design, which allows customizing the Zorba query processor to the environment&#8217;s needs. In particular the architecture of the query processor allows a pluggable XML store (e.g. main memory, DOM stores, persistent disk-based large stores, S3 stores). Zorba runs on most platforms and is available under the Apache license v2.</description>
+      <homepage_url>http://www.zorba-xquery.com/</homepage_url>
+      <download_url>http://www.zorba-xquery.com/index.php/download/</download_url>
+      <url_name>Zorba</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43687/Zorba2-64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43687/Zorba2-64px_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4667902</analysis_id>
+      <tags>
+        <tag>interpreter</tag>
+        <tag>xquery</tag>
+        <tag>xml</tag>
+        <tag>xpath</tag>
+        <tag>library</tag>
+        <tag>development</tag>
+        <tag>linux</tag>
+        <tag>c++</tag>
+        <tag>windows</tag>
+        <tag>xmlschema</tag>
+      </tags>
+      <analysis>
+        <id>4667902</id>
+        <url>http://www.ohloh.net/analyses/4667902.xml</url>
+        <project_id>15283</project_id>
+        <updated_at>2011-10-27T18:59:57Z</updated_at>
+        <logged_at>2011-10-27T09:51:15Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2011-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>732763</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Zorba/analyses/4667902/languages.png">
+          <language color="F35F1F" percentage="45" id="44">
+C++          </language>
+          <language color="555555" percentage="36" id="3">
+XML          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="10" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
