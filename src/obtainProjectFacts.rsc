@@ -9,7 +9,7 @@ import util::Math;
 
 private loc OhlohAPIKeyFile = |project://OhlohAnalytics/OhlohAPIKeys.txt|;
 private str OhlohBaseURL = "www.ohloh.net";
-private int timeToSleepBetweenQueries = 500; //milliseconds
+private int timeToSleepBetweenQueries = 250; //milliseconds
 private int projectsPerAPIKey = 80; 
 
 public void obtainProjectListFromOhloh(int endAtPage) {
