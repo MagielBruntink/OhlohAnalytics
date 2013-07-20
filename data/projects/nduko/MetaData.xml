@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589059</id>
+      <name>nduko</name>
+      <url>http://www.ohloh.net/p/nduko.xml</url>
+      <html_url>http://www.ohloh.net/p/nduko</html_url>
+      <created_at>2012-02-11T22:28:30Z</created_at>
+      <updated_at>2013-06-23T07:13:29Z</updated_at>
+      <description>About
+Nduko is currently a n*n suduko solver.
+
+Todo
+Pretty much everything.
+
+Hacking
+Nduko is written in Python. Most of the useful (non UI/IO) code is contained in the python package nduko.
+
+Nduko source code is maintained using the Git version control system and is available at the following location:
+
+git://github.com/kragniz/nduko.git
+You can download the source code from the Git repository by doing:
+
+$ git clone git://github.com/kragniz/nduko.git
+Later, to take the new commits you just have to do:
+
+$ git pull
+If you have any code you want in the master branch, create a pull request on Github, or email the mail author with a patch.
+
+License
+Nduko is released under the GNU General Public License (GPL) version 3 or later, see the file &quot;COPYING&quot; for more information.</description>
+      <homepage_url>https://github.com/kragniz/nduko</homepage_url>
+      <download_url>https://github.com/kragniz/nduko/downloads</download_url>
+      <url_name>nduko</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14353433</analysis_id>
+      <analysis>
+        <id>14353433</id>
+        <url>http://www.ohloh.net/analyses/14353433.xml</url>
+        <project_id>589059</project_id>
+        <updated_at>2013-07-13T23:35:38Z</updated_at>
+        <logged_at>2013-07-13T23:35:37Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1016</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nduko/analyses/14353433/languages.png">
+          <language color="555555" percentage="58" id="3">
+XML          </language>
+          <language color="4A246B" percentage="41" id="9">
+Python          </language>
+          <language color="777777" percentage="1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

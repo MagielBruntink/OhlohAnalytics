@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>373943</id>
+      <name>emuteca</name>
+      <url>http://www.ohloh.net/p/emuteca.xml</url>
+      <html_url>http://www.ohloh.net/p/emuteca</html_url>
+      <created_at>2009-08-13T21:43:40Z</created_at>
+      <updated_at>2013-06-27T16:50:08Z</updated_at>
+      <description>En espa&#241;ol abajo. 
+
+Sorry, my bad &quot;Engrish&quot;. 
+
+Emuteca is an emulator front-end for any system, like QuickPlay. Now, it's in English; and it can be translated to any language (I think so...). 
+
+It's not complete, but it's somewhat stable and usable... :/. The main visible problems are: Transparent background of PNG is always showed black and ICO files don't resize to fit game list rows. These problems are already fixed in 0.6.2.XX source code, but i want to test more before release it. 
+
+Features: 
+
+Support for ROMs inside a 7z, zip, rar, and any other format that 7zip can handle; and extract the ROM (or all files) before launching the emulator. Alternatively, you can use the compressed file itself as a ROM; for example, while you are using MAME. Group games by families, in many system a family means diferent versions of the same game; while in other it's better use families to handle the diferent files of the same game (computer games with many discs). It launchs any emulator from command line; althought only some are preconfigured as example, you can add many as you want. Some emulators don't support launch a game from command line but you can use Emuteca to decompress the ROM before lauching the emulator or only for management purpose.  You can add, edit, delete or disable any system with the System Manager. Emulator Manager lets you configure the command line for the emulators. It has a Media Manager to rename media files assign them to a family or a game NEW: It's in English by default, but can be translated. NEW: You can assign a video or/and a music file to a game and it can be played went selecting the game (only MPEG and MIDI was actually tested) Other little things that you may discover XD. Some things like video and music folders (except demo folders) are useless in this version...    If you want to traslate Emuteca to another language or fix any misspelled sentence: Run Emuteca at least once (This will create some config files, and the translation file of the strings used). If you want open any other window like System Manager, Emulator Manager, etc... this will add their strings to the traslation file too. The file with the strings is &quot;i18n\en.lng&quot; folder (by default), and you only need to edit this file. With Emuteca is included only es.lng for Spanish, but at first run &quot;en.lng&quot; will be created. If you want, you can copy or rename the file and then change Emuteca.ini... (and send me the translation XD to include it in next version)    Sorry, not more documentation in English; if you want, you can help me to translate the documentation to any languaje.    
+
+Now in Spanish 
+
+No es una traducci&#243;n literal de lo anterior, pero como todas las p&#225;ginas de la wiki est&#225;n en espa&#241;ol... &#161;rec&#243;rretelas! 
+
+Emuteca es un interfaz (front-end) de emuladores de cualquier sistema para Windows, estilo QuickPlay. Ahora por defecto est&#225; en ingl&#233;s, pero incluyo la traducci&#243;n al espa&#241;ol. Para usarlo edita el archivo &quot;Emuteca.ini&quot; y cambia &quot;File=en.lng&quot; por &quot;File=es.lng&quot;. 
+
+Entre sus caracter&#237;sticas est&#225;n: 
+
+Soporte de ROM en 7z, zip, rar, en definitiva todos los formatos que soporta 7zip (alternativamente tambi&#233;n se puede hacer que los propios archivos comprimidos sean la ROM en s&#237;, por ejemplo con MAME) Agrupaci&#243;n de juegos por familias, y agrupar los listados por desarrollador, a&#241;o y palabras clave Soporta b&#225;sicamente cualquier emulador que permita ejecutar juegos desde la l&#237;nea de comandos. Tiene gestor de sistemas para a&#241;adir, modificar y eliminar la configuraci&#243;n de sistemas. Gestor emuladores donde definir los par&#225;metros de la l&#237;nea de comandos para ejecutar directamente el juego. Gestor de archivos multimedia para renombrar los archivos correspondientes semiautom&#225;ticamente. Ahora puede reproducir un v&#237;deo o m&#250;sica del juego seleccionado (solo lo he probado con MPEGs y MIDIs) 
+
+Noticias20100202Versi&#243;n 0.6.1.36. Que arregla algunos fallitos respecto a la anterior versi&#243;n. (Lista de cambios) 20100202Lanzada la versi&#243;n 0.6.0.35. (Lista de cambios) 20090814Lanzada la versi&#243;n 0.5.0.22. (Lista de cambios) Imagen para salivar 
+
+0.6.0.35 screenshot M&#225;s im&#225;genes</description>
+      <homepage_url>http://code.google.com/p/emuteca/</homepage_url>
+      <download_url></download_url>
+      <url_name>emuteca</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56472/64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56472/64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14434521</analysis_id>
+      <tags>
+        <tag>emuladores</tag>
+        <tag>interfaz</tag>
+        <tag>front-end</tag>
+        <tag>emuteca</tag>
+        <tag>emulador</tag>
+        <tag>emulator</tag>
+      </tags>
+      <analysis>
+        <id>14434521</id>
+        <url>http://www.ohloh.net/analyses/14434521.xml</url>
+        <project_id>373943</project_id>
+        <updated_at>2013-07-15T22:52:44Z</updated_at>
+        <logged_at>2013-07-15T22:52:38Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>81554</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/emuteca/analyses/14434521/languages.png">
+          <language color="47A400" percentage="51" id="1">
+HTML          </language>
+          <language color="D15600" percentage="43" id="14">
+Pascal          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

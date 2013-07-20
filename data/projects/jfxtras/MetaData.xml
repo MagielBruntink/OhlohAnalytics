@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>67578</id>
+      <name>jfxtras</name>
+      <url>http://www.ohloh.net/p/jfxtras.xml</url>
+      <html_url>http://www.ohloh.net/p/jfxtras</html_url>
+      <created_at>2008-12-19T02:40:29Z</created_at>
+      <updated_at>2012-02-23T00:40:18Z</updated_at>
+      <description>Visit the new JFXtras Community Site to checkout JavaFX Samples, Links, and Resources to help you code better! 
+
+2010 - Check out the JFXtras 0.6 Preview Release on the downloads page.  Official release coming very soon! 
+
+6/22/2009 - The Official JFXtras Core 0.5 Release, which is compatible with JavaFX 1.2,  is now available.  See my blog entry for the full details: http://steveonjava.com/2009/06/22/jfxtras-0-5-release-announcement/ 
+
+6/15/2009 - The JFXtras Core 0.5 Beta 2 Release is now available.  There are still a few issues to fix before its an official release as it turns out. This updated beta jar fixes JDK 1.5 issues with WindowHelper, among other things. 
+
+6/07/2009 - JFXtras Core 0.5 Beta for JavaFX 1.2 now available for download.  
+
+4/13/2009 - JFXtras Core 0.4 has now been released.  Highlights include: 
+
+JFXTras has been split into 3 separate modules:  Core, Samples, and Test New ScrollBar/View class. New Resizable layouts: ResizableCustomNode.fx, ResizableImageView.fx, ResizableMediaView.fx, ResizableHBox.fx, ResizableVBox.fx, and updates to ResizableRectangle.fx Added in an ImageFix class that fixes backgroundLoading defects. Added in ImageUtil with helper methods for working with images.   Some new shapes New Border component New reflection accelerator class New JSON-&gt;Object converter New layout Constraints system Updates to the Grid Defect fixes for Shapes, Dialog, and others. 2/17/09 - JFXtras version 0.3 is officially released.  The new features are the highly anticipated MigLayout, and JavaFX 1.1 compatibility.  In fact JavaFX 1.1 is required for this version, and vice versa, since the binaries are not backwards compatible. 
+
+1/23/09 - JFXtras version 0.2 is released!  This includes a new library of custom shapes via integration with the jSilhouette Project as well as updates to the Grid and Test packages.  Read more about the release on the following blogs: 
+
+http://steveonjava.com/2009/01/23/jfxtras-02-release-shapes-shapes-and-more/ http://learnjavafx.typepad.com/weblog/2009/01/jfxtras-02-released-featuring-extra-shapes-for-javafx.html http://www.jroller.com/aalmiray/entry/jsilhouette_0_3_released 
+
+Also, thanks to Jim Weaver you can view the shapes demo online:  
+
+12/30/08 - I pushed out a quick 0.1.1 update that fixes the packaging structure to match the JavaFX APIs.  Specifically, the layout and shape packages moved under org.jfxtras.scene.  Thanks to Dean Iverson for pointing this out! 
+
+12/29/08 - JFXtras version 0.1 is released!  Please check the downloads section for source and binaries, and the Javadoc for questions about the API. 
+
+12/07 - Posted a snapshot jar built against the JavaFX 1.0 Release 
+
+The purpose of the JFXtra project is to create a package of essential add-ons and utilities for the JavaFX Script language that fill in gaps that application developers need. 
+
+Volunteers and contributions are very welcome!  Please join the mailing list! 
+
+The 0.1 release includes the following capabilities that augment what JavaFX 1.0 provides: 
+
+Dialogs - The JFXtra Dialog provides a drop-in replacement for a Stage that will pop-up a real Java Dialog.  This includes support for an owner window, modality, alwaysOnTop, the ability to hide the taskbar icon, and many other features. Layouts - The JFXtra Grid provides an advanced layout container that can be used for JavaFX nodes and wrapped swing components. Testing - JFXtras provides a declarative Unit Testing facility that allows you to write JavaFX tests in the JavaFX language.  It is modeled after best-of-class behavior-driven and fluent testing patterns to make tests easier to read and maintain. Asynchronous Worker - Working on the theory that developers deserve their share of rope, JFXtras provides an asynchronous worker wrapper that allows you to execute pure JavaFX code on a background thread. 
+
+
+
+
+JFXtras Grid in Action  
+
+Future releases will include the following as well: 
+
+Serialization - JavaFX has a powerful declarative model and reflection capabilities, but no standard serialization to and from XML. Graphing and Charting - JFXtras will provide the advanced graphing and charting capabilities required to build compelling visual user interfaces for business applications Components - A wide variety of quality JavaFX-based components will be provided (such as sliders, tables, etc.). 
+
+Project values: 
+
+Language - While we value existing Java libraries and components, we prefer 100% native JavaFX code where possible. Quality - We put our reputation behind everything we release with thorough testing and documentation. Community - We are real developers building real applications on JavaFX, and will prioritize the needs of the community over everything else. 
+
+Note about compatibility:  The JavaFX language is still in its early stages and there may be cases where a future release breaks or replaces certain functionality.  We commit to provide patches and updates as necessary to protect your investment in this library.</description>
+      <homepage_url>http://code.google.com/p/jfxtras</homepage_url>
+      <download_url></download_url>
+      <url_name>jfxtras</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2734874</analysis_id>
+      <tags>
+        <tag>utilities</tag>
+        <tag>javafxscript</tag>
+        <tag>layout</tag>
+        <tag>serialization</tag>
+        <tag>extras</tag>
+        <tag>dialog</tag>
+        <tag>javafx</tag>
+      </tags>
+      <analysis>
+        <id>2734874</id>
+        <url>http://www.ohloh.net/analyses/2734874.xml</url>
+        <project_id>67578</project_id>
+        <updated_at>2011-07-30T18:23:33Z</updated_at>
+        <logged_at>2011-07-30T18:23:23Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>6306</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jfxtras/analyses/2734874/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="555555" percentage="35" id="3">
+XML          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+          <language color="EEE" percentage="&lt;1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340932</id>
+      <name>Lineage II Client Data Parser</name>
+      <url>http://www.ohloh.net/p/l2cdp.xml</url>
+      <html_url>http://www.ohloh.net/p/l2cdp</html_url>
+      <created_at>2009-05-17T10:28:42Z</created_at>
+      <updated_at>2011-11-12T14:40:11Z</updated_at>
+      <description>This application is used to generate various files used by L2J-based Lineage2 Service [server] emulators from given decypted official client data files.
+
+Current standart: L2jserver based/L2JFree
+
+The application also generates easy to read &amp; analyze *.properties files instead of default binary/tabulated files obtained after decryption.
+
+HOW TO USE:
+1. Download the latest release (see Downloads section)
+2. Download javolution.jar and console.bat from Libraries/Other
+3. Move everything to the same folder
+4. Launch console.bat
+OR:
+You can get the source code from svn://svn.graffen.dk/l2cdp
+
+You can obtain decrypted client files from trunk.
+
+If you have fixed something or you have implemented support for a different server emulator, contact savormix</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>l2cdp</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>4952837</analysis_id>
+      <tags>
+        <tag>l2jfree</tag>
+        <tag>parser</tag>
+        <tag>l2jserver</tag>
+        <tag>lineage2</tag>
+        <tag>l2jdp</tag>
+        <tag>l2j</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>4952837</id>
+        <url>http://www.ohloh.net/analyses/4952837.xml</url>
+        <project_id>340932</project_id>
+        <updated_at>2011-12-09T17:46:45Z</updated_at>
+        <logged_at>2011-12-09T17:46:42Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4746</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/l2cdp/analyses/4952837/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="555555" percentage="2" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

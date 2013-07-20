@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>30550</id>
+      <project_id>17058</project_id>
+      <repository_id>29558</repository_id>
+      <repository>
+        <id>29558</id>
+        <type>SvnSyncRepository</type>
+        <url>http://ldapsource.googlecode.com/svn/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-03-26T17:37:06Z</logged_at>
+        <commits>1</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12308</id>
+      <name>pyrtf-ng</name>
+      <url>http://www.ohloh.net/p/pyrtf-ng.xml</url>
+      <html_url>http://www.ohloh.net/p/pyrtf-ng</html_url>
+      <created_at>2008-02-27T01:35:22Z</created_at>
+      <updated_at>2013-06-30T02:06:01Z</updated_at>
+      <description>Create and Edit RTF Files in Python
+
+Current development is focused on a fork of PyRTF and aims to be more efficient and adhere to the subset of PEP-8 standard as dictated by the Twisted coding standard, provide Rich Text Format file parsing (the original PyRTF does not provide the ability to parse and edit RTF files, only create them), while still enabling users to generate RTF files from Python. Once this cleanup work is done, the fork will be merged back into PyRTF.</description>
+      <homepage_url>https://launchpad.net/pyrtf</homepage_url>
+      <download_url>http://code.google.com/p/pyrtf-ng/downloads/list</download_url>
+      <url_name>pyrtf-ng</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>0</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14470114</analysis_id>
+      <analysis>
+        <id>14470114</id>
+        <url>http://www.ohloh.net/analyses/14470114.xml</url>
+        <project_id>12308</project_id>
+        <updated_at>2013-07-17T01:47:23Z</updated_at>
+        <logged_at>2013-07-17T01:41:14Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5439</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyrtf-ng/analyses/14470114/languages.png">
+          <language color="4A246B" percentage="96" id="9">
+Python          </language>
+          <language color="777777" percentage="4" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

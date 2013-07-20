@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16613</id>
+      <name>Redleaf</name>
+      <url>http://www.ohloh.net/p/redleaf.xml</url>
+      <html_url>http://www.ohloh.net/p/redleaf</html_url>
+      <created_at>2008-09-10T14:46:31Z</created_at>
+      <updated_at>2013-06-26T11:47:37Z</updated_at>
+      <description>Redleaf is an RDF library for Ruby. It's composed of a hand-written C binding to the Redland RDF Libraries, and a high-level, idiomatic Ruby layer that wraps the low-level Redland API functions to provide a Ruby-ish way of interacting with RDF.</description>
+      <homepage_url>http://deveiate.org/projects/Redleaf</homepage_url>
+      <download_url>http://deveiate.org/projects/Redleaf</download_url>
+      <url_name>redleaf</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/24520/redleaf_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/24520/redleaf_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14417185</analysis_id>
+      <analysis>
+        <id>14417185</id>
+        <url>http://www.ohloh.net/analyses/14417185.xml</url>
+        <project_id>16613</project_id>
+        <updated_at>2013-07-20T06:30:36Z</updated_at>
+        <logged_at>2013-07-20T06:30:34Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>25543</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/redleaf/analyses/14417185/languages.png">
+          <language color="555555" percentage="51" id="3">
+XML          </language>
+          <language color="A40011" percentage="30" id="12">
+Ruby          </language>
+          <language color="FF8F00" percentage="14" id="42">
+C          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

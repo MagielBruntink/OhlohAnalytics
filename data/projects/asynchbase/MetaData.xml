@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485232</id>
+      <name>asynchbase</name>
+      <url>http://www.ohloh.net/p/asynchbase.xml</url>
+      <html_url>http://www.ohloh.net/p/asynchbase</html_url>
+      <created_at>2010-09-08T08:55:26Z</created_at>
+      <updated_at>2013-06-30T10:28:48Z</updated_at>
+      <description>This is an alternative Java library to use HBase in applications that require a fully asynchronous, non-blocking, thread-safe, high-performance HBase API.</description>
+      <homepage_url>http://github.com/OpenTSDB/asynchbase</homepage_url>
+      <download_url></download_url>
+      <url_name>asynchbase</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14478180</analysis_id>
+      <tags>
+        <tag>client</tag>
+        <tag>hbase</tag>
+        <tag>asynchronous</tag>
+        <tag>netty</tag>
+      </tags>
+      <analysis>
+        <id>14478180</id>
+        <url>http://www.ohloh.net/analyses/14478180.xml</url>
+        <project_id>485232</project_id>
+        <updated_at>2013-07-18T06:37:52Z</updated_at>
+        <logged_at>2013-07-18T06:37:51Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>8617</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/asynchbase/analyses/14478180/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

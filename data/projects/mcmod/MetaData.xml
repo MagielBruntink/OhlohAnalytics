@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487437</id>
+      <name>McMod</name>
+      <url>http://www.ohloh.net/p/mcmod.xml</url>
+      <html_url>http://www.ohloh.net/p/mcmod</html_url>
+      <created_at>2011-01-09T21:14:50Z</created_at>
+      <updated_at>2012-02-24T18:41:40Z</updated_at>
+      <description>McMod is a 'mod' for Minecraft, but not in the mold of already existing mods. Rather, it's a modified Minecraft loader that uses the ObjectWeb ASM bytecode manipulation framework to modify its classes at runtime (injecting 'get' and 'set' methods for identified fields), allowing custom modifications to be built using an easy-to-use API for end users.</description>
+      <homepage_url>http://code.google.com/p/mcmod/</homepage_url>
+      <download_url>http://code.google.com/p/mcmod/downloads/list</download_url>
+      <url_name>mcmod</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40339/Diamondpickaxe_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40339/Diamondpickaxe_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>2173464</analysis_id>
+      <tags>
+        <tag>game</tag>
+        <tag>mod</tag>
+        <tag>minecraft</tag>
+      </tags>
+      <analysis>
+        <id>2173464</id>
+        <url>http://www.ohloh.net/analyses/2173464.xml</url>
+        <project_id>487437</project_id>
+        <updated_at>2011-06-16T12:41:52Z</updated_at>
+        <logged_at>2011-06-16T12:41:41Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>10343</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mcmod/analyses/2173464/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

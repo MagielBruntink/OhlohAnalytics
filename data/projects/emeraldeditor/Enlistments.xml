@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>100483</id>
+      <project_id>163811</project_id>
+      <repository_id>98915</repository_id>
+      <repository>
+        <id>98915</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.emeraldeditor.com/CrimsonEditor/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-11-05T06:18:56Z</logged_at>
+        <commits>197</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>100484</id>
+      <project_id>163811</project_id>
+      <repository_id>98916</repository_id>
+      <repository>
+        <id>98916</id>
+        <type>SvnRepository</type>
+        <url>svn://svn.emeraldeditor.com/EmeraldEditor/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-05-01T17:08:54Z</logged_at>
+        <commits>63</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

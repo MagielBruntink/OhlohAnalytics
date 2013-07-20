@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487633</id>
+      <name>PAMI</name>
+      <url>http://www.ohloh.net/p/PAMI.xml</url>
+      <html_url>http://www.ohloh.net/p/PAMI</html_url>
+      <created_at>2011-01-19T13:39:02Z</created_at>
+      <updated_at>2013-07-19T18:17:50Z</updated_at>
+      <description>PHP Asterisk Manager Interface ( AMI ) supports synchronous command ( action )/ responses and asynchronous events using the pattern observer-listener. Supports commands with responses with multiple events. Very suitable for development of operator consoles and / or asterisk / channels / peers monitoring through SOA, etc</description>
+      <homepage_url>http://marcelog.github.com/PAMI</homepage_url>
+      <download_url>http://marcelog.github.com/PAMI</download_url>
+      <url_name>PAMI</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14554223</analysis_id>
+      <tags>
+        <tag>interface</tag>
+        <tag>oop</tag>
+        <tag>php</tag>
+        <tag>manager</tag>
+        <tag>telephony</tag>
+        <tag>voip</tag>
+        <tag>event</tag>
+        <tag>asterisk</tag>
+        <tag>object</tag>
+        <tag>ami</tag>
+        <tag>oriented</tag>
+        <tag>call</tag>
+        <tag>sms</tag>
+        <tag>vgrs</tag>
+        <tag>tls</tag>
+      </tags>
+      <analysis>
+        <id>14554223</id>
+        <url>http://www.ohloh.net/analyses/14554223.xml</url>
+        <project_id>487633</project_id>
+        <updated_at>2013-07-17T21:21:39Z</updated_at>
+        <logged_at>2013-07-17T21:21:38Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>8489</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/PAMI/analyses/14554223/languages.png">
+          <language color="356AA0" percentage="94" id="2">
+PHP          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>99644</id>
+      <project_id>56202</project_id>
+      <repository_id>98087</repository_id>
+      <repository>
+        <id>98087</id>
+        <type>SvnSyncRepository</type>
+        <url>http://iphone-examples.googlecode.com/svn/trunk/HelloWorld</url>
+        <username></username>
+        <password></password>
+        <logged_at>2009-08-06T23:53:25Z</logged_at>
+        <commits>5</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

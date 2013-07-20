@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21756</id>
+      <name>narya</name>
+      <url>http://www.ohloh.net/p/narya.xml</url>
+      <html_url>http://www.ohloh.net/p/narya</html_url>
+      <created_at>2008-10-07T14:14:38Z</created_at>
+      <updated_at>2013-06-18T09:14:11Z</updated_at>
+      <description>The Narya library provides various facilities for making networked multiplayer games. Its major components are: 
+
+Presents A distributed object and remote procedure call framework for creating realtime distributed systems. 
+
+Crowd A foundation for a multiplayer environment with notions of Bodies and Places and support for Chat and moving between Places. 
+
+Admin Useful administrative functionality including a mechanism for declaring configuration that can be viewed and modified at runtime by an administrative client. 
+
+Narya is extended by the Nenya and Vilya libraries which provide additional game related functionality like 2D and 3D graphics support, animated character rendering and a virtual world framework.</description>
+      <homepage_url>https://github.com/threerings/narya</homepage_url>
+      <download_url></download_url>
+      <url_name>narya</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14298081</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>networkgame</tag>
+        <tag>gamedev</tag>
+        <tag>distributed</tag>
+        <tag>threerings</tag>
+      </tags>
+      <analysis>
+        <id>14298081</id>
+        <url>http://www.ohloh.net/analyses/14298081.xml</url>
+        <project_id>21756</project_id>
+        <updated_at>2013-07-12T13:31:33Z</updated_at>
+        <logged_at>2013-07-12T13:31:31Z</logged_at>
+        <min_month>2001-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>45309</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/narya/analyses/14298081/languages.png">
+          <language color="9A63AD" percentage="69" id="5">
+Java          </language>
+          <language color="E3491A" percentage="25" id="53">
+ActionScript          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>315546</id>
+      <name>Baralga</name>
+      <url>http://www.ohloh.net/p/baralga.xml</url>
+      <html_url>http://www.ohloh.net/p/baralga</html_url>
+      <created_at>2009-02-12T07:54:22Z</created_at>
+      <updated_at>2013-07-15T19:20:09Z</updated_at>
+      <description>Baralga enables you to keep track of the time you spend working on different projects. You can record the projects your are working or you can manually enter and edit project activities. Thus, you will be able to easily memorize when and how long you have been working on every project.</description>
+      <homepage_url>http://baralga.origo.ethz.ch</homepage_url>
+      <download_url>http://baralga.origo.ethz.ch/download</download_url>
+      <url_name>baralga</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/14370/Baralga-Icon_64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/14370/Baralga-Icon_64_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14641805</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>swingx</tag>
+        <tag>swing</tag>
+        <tag>timemanagement</tag>
+        <tag>timetracking</tag>
+        <tag>time_tracking</tag>
+        <tag>time-tracking</tag>
+      </tags>
+      <analysis>
+        <id>14641805</id>
+        <url>http://www.ohloh.net/analyses/14641805.xml</url>
+        <project_id>315546</project_id>
+        <updated_at>2013-07-20T06:00:39Z</updated_at>
+        <logged_at>2013-07-20T06:00:37Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>9193</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/baralga/analyses/14641805/languages.png">
+          <language color="9A63AD" percentage="92" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="493625" percentage="&lt;1" id="30">
+SQL          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

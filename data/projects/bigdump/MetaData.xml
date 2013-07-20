@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5479</id>
+      <name>BigDump</name>
+      <url>http://www.ohloh.net/p/bigdump.xml</url>
+      <html_url>http://www.ohloh.net/p/bigdump</html_url>
+      <created_at>2007-05-20T07:54:24Z</created_at>
+      <updated_at>2012-02-13T05:27:15Z</updated_at>
+      <description>Staggered import of large and very large MySQL Dumps (like phpMyAdmin 2.x Dumps) even through the web-servers with hard runtime limit and those in safe mode. 
+
+The script executes only a small part of the huge dump and restarts itself. The next session starts where the last was stopped.</description>
+      <homepage_url>http://www.ozerov.de/bigdump.php</homepage_url>
+      <download_url></download_url>
+      <url_name>bigdump</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>restore</tag>
+        <tag>dump</tag>
+        <tag>database</tag>
+        <tag>mysql</tag>
+        <tag>backup</tag>
+        <tag>php</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

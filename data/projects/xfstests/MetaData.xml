@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346323</id>
+      <name>xfstests</name>
+      <url>http://www.ohloh.net/p/xfstests.xml</url>
+      <html_url>http://www.ohloh.net/p/xfstests</html_url>
+      <created_at>2009-06-09T18:21:03Z</created_at>
+      <updated_at>2013-07-16T08:49:36Z</updated_at>
+      <description>Regression test suite for xfs and other filesystems.</description>
+      <homepage_url>http://oss.sgi.com/projects/xfs</homepage_url>
+      <download_url></download_url>
+      <url_name>xfstests</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14649035</analysis_id>
+      <analysis>
+        <id>14649035</id>
+        <url>http://www.ohloh.net/analyses/14649035.xml</url>
+        <project_id>346323</project_id>
+        <updated_at>2013-07-16T08:49:35Z</updated_at>
+        <logged_at>2013-07-16T08:31:16Z</logged_at>
+        <min_month>2001-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>34</twelve_month_contributor_count>
+        <total_code_lines>66462</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xfstests/analyses/14649035/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="777777" percentage="37" id="11">
+shell script          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17058</id>
+      <name>LdapSource</name>
+      <url>http://www.ohloh.net/p/ldapsource.xml</url>
+      <html_url>http://www.ohloh.net/p/ldapsource</html_url>
+      <created_at>2008-10-03T23:13:40Z</created_at>
+      <updated_at>2012-02-22T19:39:01Z</updated_at>
+      <description>This project aims to provide a LDAP datasource for the cakePHP web application framework (both 1.1.x and 1.2.x). With this datasource, a cake web application should be able to interact with a LDAP 'database' (such as openldap or Microsoft Active Directory) just as if it was a Sql-like database.</description>
+      <homepage_url>http://code.google.com/p/ldapsource/</homepage_url>
+      <download_url>http://code.google.com/p/ldapsource/downloads/list</download_url>
+      <url_name>ldapsource</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1787684</analysis_id>
+      <tags>
+        <tag>cakephp</tag>
+        <tag>ldap</tag>
+        <tag>datasource</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>1787684</id>
+        <url>http://www.ohloh.net/analyses/1787684.xml</url>
+        <project_id>17058</project_id>
+        <updated_at>2011-03-26T17:37:09Z</updated_at>
+        <logged_at>2011-03-26T17:37:06Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2008-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>449</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ldapsource/analyses/1787684/languages.png">
+          <language color="356AA0" percentage="100" id="2">
+PHP          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

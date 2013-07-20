@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602864</id>
+      <name>geoPHP library</name>
+      <url>http://www.ohloh.net/p/geoPHP-library.xml</url>
+      <html_url>http://www.ohloh.net/p/geoPHP-library</html_url>
+      <created_at>2012-06-22T19:36:01Z</created_at>
+      <updated_at>2013-07-10T03:51:32Z</updated_at>
+      <description>GeoPHP is a open-source native PHP library for doing geometry operations. It is written entirely in PHP and can therefore run on shared hosts. It can read and write a wide variety of formats: WKT (including EWKT), WKB (including EWKB), GeoJSON, KML, GPX, GeoRSS). It works with all Simple-Feature geometries (Point, LineString, Polygon, GeometryCollection etc.) and can be used to get centroids, bounding-boxes, area, and a wide variety of other useful information.</description>
+      <homepage_url>http://geophp.net</homepage_url>
+      <download_url>http://geophp.net</download_url>
+      <url_name>geoPHP-library</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14577771</analysis_id>
+      <tags>
+        <tag>geospatial</tag>
+        <tag>drupal</tag>
+        <tag>wkb</tag>
+        <tag>gpx</tag>
+        <tag>php</tag>
+        <tag>geo</tag>
+        <tag>mapping</tag>
+        <tag>wkt</tag>
+        <tag>geojson</tag>
+        <tag>geos</tag>
+        <tag>geohash</tag>
+      </tags>
+      <analysis>
+        <id>14577771</id>
+        <url>http://www.ohloh.net/analyses/14577771.xml</url>
+        <project_id>602864</project_id>
+        <updated_at>2013-07-16T00:56:40Z</updated_at>
+        <logged_at>2013-07-16T00:56:38Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>22619</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geoPHP-library/analyses/14577771/languages.png">
+          <language color="555555" percentage="77" id="3">
+XML          </language>
+          <language color="356AA0" percentage="20" id="2">
+PHP          </language>
+          <language color="47A400" percentage="3" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

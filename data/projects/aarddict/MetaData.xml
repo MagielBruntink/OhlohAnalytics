@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>44467</id>
+      <name>Aard Dictionary</name>
+      <url>http://www.ohloh.net/p/aarddict.xml</url>
+      <html_url>http://www.ohloh.net/p/aarddict</html_url>
+      <created_at>2008-12-15T19:33:51Z</created_at>
+      <updated_at>2013-06-26T23:12:08Z</updated_at>
+      <description>Aard Dictionary is a multiplatform dictionary and offline Wikipedia reader.
+
+Aard Dictionary runs on desktop computers, notebooks and netbooks running Windows, Linux and Mac OS X as well as Nokia Internet Tablets (N800  and N810) and anywhere where Python, PyGTK and ICU are available. Aard Dictionary is light, fast and easy to use (and it's free).</description>
+      <homepage_url>http://aarddict.org</homepage_url>
+      <download_url>http://aarddict.org</download_url>
+      <url_name>aarddict</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23639/aarddict_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23639/aarddict_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14424709</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>dict</tag>
+        <tag>dictionary</tag>
+        <tag>n810</tag>
+        <tag>n800</tag>
+        <tag>nokia</tag>
+        <tag>maemo</tag>
+        <tag>wikipedia</tag>
+        <tag>encyclopedia</tag>
+      </tags>
+      <analysis>
+        <id>14424709</id>
+        <url>http://www.ohloh.net/analyses/14424709.xml</url>
+        <project_id>44467</project_id>
+        <updated_at>2013-07-20T08:05:32Z</updated_at>
+        <logged_at>2013-07-20T08:04:15Z</logged_at>
+        <min_month>2006-04-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3644</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/aarddict/analyses/14424709/languages.png">
+          <language color="4A246B" percentage="79" id="9">
+Python          </language>
+          <language color="FF1A00" percentage="15" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

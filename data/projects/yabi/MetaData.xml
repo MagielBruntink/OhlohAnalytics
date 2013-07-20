@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585767</id>
+      <name>yabi</name>
+      <url>http://www.ohloh.net/p/yabi.xml</url>
+      <html_url>http://www.ohloh.net/p/yabi</html_url>
+      <created_at>2011-08-24T03:08:15Z</created_at>
+      <updated_at>2013-03-20T14:11:34Z</updated_at>
+      <description>A 3 tier application stack to provide users with an intuitive, easy to use, abstraction of compute and data environments. Developed at the Centre for Comparative Genomics, Murdoch University, Yabi has been deployed across a diverse set of scientific disciplines and high performance computing environments.</description>
+      <homepage_url>http://code.google.com/p/yabi/</homepage_url>
+      <download_url>http://code.google.com/p/yabi/downloads/list</download_url>
+      <url_name>yabi</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46479/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46479/logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13185390</analysis_id>
+      <tags>
+        <tag>celery</tag>
+        <tag>json</tag>
+        <tag>twisted</tag>
+        <tag>ajax</tag>
+        <tag>javascript</tag>
+        <tag>python</tag>
+        <tag>web</tag>
+        <tag>yui</tag>
+        <tag>stacklesspython</tag>
+        <tag>django</tag>
+        <tag>fabric</tag>
+      </tags>
+      <analysis>
+        <id>13185390</id>
+        <url>http://www.ohloh.net/analyses/13185390.xml</url>
+        <project_id>585767</project_id>
+        <updated_at>2013-03-20T14:11:34Z</updated_at>
+        <logged_at>2013-03-20T14:11:04Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>17616</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yabi/analyses/13185390/languages.png">
+          <language color="4A246B" percentage="77" id="9">
+Python          </language>
+          <language color="493625" percentage="20" id="30">
+SQL          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

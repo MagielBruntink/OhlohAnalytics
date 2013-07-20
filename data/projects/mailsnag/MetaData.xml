@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586200</id>
+      <name>MailSnag</name>
+      <url>http://www.ohloh.net/p/mailsnag.xml</url>
+      <html_url>http://www.ohloh.net/p/mailsnag</html_url>
+      <created_at>2011-09-16T12:43:09Z</created_at>
+      <updated_at>2013-06-25T19:16:12Z</updated_at>
+      <description>An eclipse plugin to aid in the development of email producing applications.  It sets up a small smtp server and captures any emails sent out by the application.  The raw, text and html views are available as well as a listing of all attachments.</description>
+      <homepage_url>http://blog.foos-bar.com/p/mailsnag.html</homepage_url>
+      <download_url>http://marketplace.eclipse.org/node/13883</download_url>
+      <url_name>mailsnag</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/46969/mailsnag2_0_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/46969/mailsnag2_0_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14407679</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>eclipse-plugin</tag>
+        <tag>eclipse</tag>
+        <tag>smtp</tag>
+        <tag>debugging</tag>
+      </tags>
+      <analysis>
+        <id>14407679</id>
+        <url>http://www.ohloh.net/analyses/14407679.xml</url>
+        <project_id>586200</project_id>
+        <updated_at>2013-07-18T19:39:19Z</updated_at>
+        <logged_at>2013-07-18T19:39:17Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>3478</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mailsnag/analyses/14407679/languages.png">
+          <language color="9A63AD" percentage="83" id="5">
+Java          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

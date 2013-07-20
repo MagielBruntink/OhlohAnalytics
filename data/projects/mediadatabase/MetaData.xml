@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25945</id>
+      <name>mediadatabase</name>
+      <url>http://www.ohloh.net/p/mediadatabase.xml</url>
+      <html_url>http://www.ohloh.net/p/mediadatabase</html_url>
+      <created_at>2008-10-30T21:54:36Z</created_at>
+      <updated_at>2013-06-25T00:18:11Z</updated_at>
+      <description>MediaDatabase is database to store filesystem metadata (directory structure) and/or audio tracks descriptions of offline media and frontends to database (WWW, GUI and CUI). It was developed to fight chaos of large compact disk collection but it can help track other removable media such as floppy disks and data DVDs.</description>
+      <homepage_url>http://mediadatabase.sourceforge.net/</homepage_url>
+      <download_url></download_url>
+      <url_name>mediadatabase</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14390872</analysis_id>
+      <analysis>
+        <id>14390872</id>
+        <url>http://www.ohloh.net/analyses/14390872.xml</url>
+        <project_id>25945</project_id>
+        <updated_at>2013-07-15T11:28:00Z</updated_at>
+        <logged_at>2013-07-15T11:27:58Z</logged_at>
+        <min_month>2004-02-01T00:00:00Z</min_month>
+        <max_month>2005-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12434</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mediadatabase/analyses/14390872/languages.png">
+          <language color="FF8F00" percentage="73" id="42">
+C          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="356AA0" percentage="9" id="2">
+PHP          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

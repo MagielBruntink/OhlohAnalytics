@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>50208</id>
+      <name>protoj</name>
+      <url>http://www.ohloh.net/p/protoj.xml</url>
+      <html_url>http://www.ohloh.net/p/protoj</html_url>
+      <created_at>2008-12-16T12:04:41Z</created_at>
+      <updated_at>2013-06-27T07:30:21Z</updated_at>
+      <description>Roadmap Version 2.0.0 
+
+Work on version 2.0.0 has already started that will: 
+
+greatly solidify the code-base and depart from the maven-style command line include full and extensive documentation transform the jboss demonstration project into a quickfix based trading application introduce beanshell to make every part of the project as clean as possible This will take months to complete. If you believe in pure java builds and you have a real contribution to make then please email me at ashpublic@mac.com 
+
+Ashley Williams June 2009 
+
+Introducing ProtoJ The Pure Java Build APIProtoJ is a pure java build, installation and deployment library that hands control over to you. There's no third-party ProtoJ application directory to maintain, no environment variables to set up and absolutely no other required software. Simply add the ProtoJ library to your project and get ready to experience the joy of a friction-free development cycle. So why not give ProtoJ a try right now, it really is as easy as 1-2-3: 
+
+ Download the ProtoJ executable jar file.  Create a new &quot;basic&quot; project by executing java -jar protoj-exe-jdk5-1.9.2.jar -sample basic.  Try a few commands from the basic/bin directory: ./basic.sh compile archive hello-basic. When you're feeling more adventurous take a look at the jboss demonstration that demonstrates how ProtoJ can be used to build, store persistent configurations and launch a jboss project with considerable ease. You may be amazed at how easy this is to accomplish: not because ProtoJ is rocket science, but because it is based on java rather than xml. 
+
+Features to Enhance Any ProjectProtoJ abandons build scripts. It's &quot;unique selling point&quot; is that all use-cases are accessible in-code through the api, with just one call to Java in just one starter script! If you ever wished you could get rid of your build scripts then look no further: ProtoJ is targeted at you!!! 
+
+ProtoJ is part of your project. You don't have to hide away use-cases related to the build inside some xml file, to be handled by some other tool merely at the start of your project life-cycle. Compilation and jar creation for example belong to your project just as much as your core business use-cases and are accessible at build-time through to run-time.    
+
+   ProtoJ plays nicely with maven. ProtoJ uses a traditional lib directory and support for filling it up from a maven repository is provided right out of the box. And going in the other direction, you can easily deploy your project artifacts to a maven repository so that they can be shared with other ivy or maven projects. Or indeed with other ProtoJ projects! 
+
+ProtoJ plays nicely with aspectj. Aspectj compiler support can be enabled with just a single method call, as can support for load-time-weaving. Then just drop your .aj files alongside your .java files and they will be picked up by the ajc compiler without any additional aspectj installation. 
+
+ProtoJ is available on all major platforms. Each release of ProtoJ is subjected to rigorous testing on Linux (Ubuntu), Unix (Mac OS X) and Windows (XP) and also on Java 5 and Java 6. If you work with any other platform then you can easily check for compatibility by following the instructions in the BuildingFromSource page.</description>
+      <homepage_url>http://code.google.com/p/protoj</homepage_url>
+      <download_url></download_url>
+      <url_name>protoj</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14430306</analysis_id>
+      <tags>
+        <tag>jboss</tag>
+        <tag>deployment</tag>
+        <tag>java</tag>
+        <tag>install</tag>
+        <tag>ivy</tag>
+        <tag>make</tag>
+        <tag>maven</tag>
+        <tag>configure</tag>
+        <tag>developers</tag>
+        <tag>build</tag>
+        <tag>ant</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>14430306</id>
+        <url>http://www.ohloh.net/analyses/14430306.xml</url>
+        <project_id>50208</project_id>
+        <updated_at>2013-07-19T15:47:03Z</updated_at>
+        <logged_at>2013-07-19T15:47:00Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>796336</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/protoj/analyses/14430306/languages.png">
+          <language color="47A400" percentage="64" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="31" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487550</id>
+      <name>colord</name>
+      <url>http://www.ohloh.net/p/colord.xml</url>
+      <html_url>http://www.ohloh.net/p/colord</html_url>
+      <created_at>2011-01-14T16:41:19Z</created_at>
+      <updated_at>2013-07-15T21:05:29Z</updated_at>
+      <description>colord is a system activated daemon that maps devices to color profiles.
+It is used by gnome-color-manager for system integration and use when
+there are no users logged in.</description>
+      <homepage_url>http://www.freedesktop.org/software/colord/</homepage_url>
+      <download_url>http://www.freedesktop.org/software/colord/download.html</download_url>
+      <url_name>colord</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40871/gnome-color-manager_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40871/gnome-color-manager_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14642839</analysis_id>
+      <tags>
+        <tag>cups</tag>
+        <tag>sane</tag>
+        <tag>udev</tag>
+        <tag>policykit</tag>
+        <tag>daemon</tag>
+        <tag>linux</tag>
+        <tag>manager</tag>
+        <tag>gnome-color-manager</tag>
+        <tag>dbus</tag>
+        <tag>color</tag>
+      </tags>
+      <analysis>
+        <id>14642839</id>
+        <url>http://www.ohloh.net/analyses/14642839.xml</url>
+        <project_id>487550</project_id>
+        <updated_at>2013-07-15T21:05:28Z</updated_at>
+        <logged_at>2013-07-15T20:59:29Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>72484</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/colord/analyses/14642839/languages.png">
+          <language color="FF8F00" percentage="70" id="42">
+C          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

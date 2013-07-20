@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25516</id>
+      <name>The MirPorts Framework</name>
+      <url>http://www.ohloh.net/p/mirports.xml</url>
+      <html_url>http://www.ohloh.net/p/mirports</html_url>
+      <created_at>2008-10-09T23:54:32Z</created_at>
+      <updated_at>2013-07-16T07:38:25Z</updated_at>
+      <description>The MirPorts Framework provides a generic way to install third-party software on Unix&#174;-ish systems (the closer to BSD, the better).
+
+Currently supported are: MirOS BSD &#8211; https://www.ohloh.net/projects/mirbsd/ &#8211; primary OS, MidnightBSD &#8211; https://www.ohloh.net/projects/mnbsd, OpenBSD, Mac OSX (somewhat), Interix (actually better than Mac OSX in some respects, but lacking interest)</description>
+      <homepage_url>https://www.mirbsd.org/ports.htm</homepage_url>
+      <download_url>http://cvs.mirbsd.de/ports/</download_url>
+      <url_name>mirports</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17970/mirports_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17970/mirports_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14648561</analysis_id>
+      <tags>
+        <tag>packaging</tag>
+        <tag>interix</tag>
+        <tag>mksh</tag>
+        <tag>mirbsd</tag>
+        <tag>midnightbsd</tag>
+        <tag>packages</tag>
+        <tag>bsd</tag>
+        <tag>ports</tag>
+        <tag>openbsd</tag>
+        <tag>darwin</tag>
+        <tag>pkgsrc</tag>
+      </tags>
+      <analysis>
+        <id>14648561</id>
+        <url>http://www.ohloh.net/analyses/14648561.xml</url>
+        <project_id>25516</project_id>
+        <updated_at>2013-07-16T07:38:24Z</updated_at>
+        <logged_at>2013-07-16T07:11:59Z</logged_at>
+        <min_month>2002-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>294591</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mirports/analyses/14648561/languages.png">
+          <language color="EEE" percentage="44" id="52">
+Make          </language>
+          <language color="FF8F00" percentage="26" id="42">
+C          </language>
+          <language color="777777" percentage="20" id="11">
+shell script          </language>
+          <language color="000000" percentage="10" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>MirOS</name>
+          <nice_name>MirOS Licence</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

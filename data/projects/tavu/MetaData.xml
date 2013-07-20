@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480111</id>
+      <name>Tavu</name>
+      <url>http://www.ohloh.net/p/tavu.xml</url>
+      <html_url>http://www.ohloh.net/p/tavu</html_url>
+      <created_at>2009-12-28T07:02:05Z</created_at>
+      <updated_at>2013-06-30T04:23:29Z</updated_at>
+      <description>Tavu allows remote programs to use your local DBus notification system. The network communication between the remote program and DBus is done using the XMPP (Jabber) protocol.</description>
+      <homepage_url>http://da.weeno.net/code/tavu/</homepage_url>
+      <download_url>http://da.weeno.net/code/tavu/#installation</download_url>
+      <url_name>tavu</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14472069</analysis_id>
+      <tags>
+        <tag>jabber</tag>
+        <tag>xmpp</tag>
+        <tag>desktop</tag>
+        <tag>dbus</tag>
+        <tag>notification</tag>
+      </tags>
+      <analysis>
+        <id>14472069</id>
+        <url>http://www.ohloh.net/analyses/14472069.xml</url>
+        <project_id>480111</project_id>
+        <updated_at>2013-07-19T14:27:47Z</updated_at>
+        <logged_at>2013-07-19T14:27:45Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>259</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tavu/analyses/14472069/languages.png">
+          <language color="4A246B" percentage="87" id="9">
+Python          </language>
+          <language color="EEE" percentage="13" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8349</id>
+      <name>SSHMenu</name>
+      <url>http://www.ohloh.net/p/sshmenu.xml</url>
+      <html_url>http://www.ohloh.net/p/sshmenu</html_url>
+      <created_at>2007-09-10T01:58:14Z</created_at>
+      <updated_at>2013-07-03T20:46:12Z</updated_at>
+      <description>SSHMenu is a GNOME panel applet that keeps all your regular SSH connections within a single mouse click. SSHMenu can be used outside of GNOME too.</description>
+      <homepage_url>http://sshmenu.sourceforge.net/</homepage_url>
+      <download_url>http://sshmenu.sourceforge.net/download/</download_url>
+      <url_name>sshmenu</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14517932</analysis_id>
+      <tags>
+        <tag>gnome</tag>
+        <tag>gtk</tag>
+        <tag>ruby</tag>
+        <tag>ssh</tag>
+      </tags>
+      <analysis>
+        <id>14517932</id>
+        <url>http://www.ohloh.net/analyses/14517932.xml</url>
+        <project_id>8349</project_id>
+        <updated_at>2013-07-18T06:54:33Z</updated_at>
+        <logged_at>2013-07-18T06:54:32Z</logged_at>
+        <min_month>2002-06-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>3064</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sshmenu/analyses/14517932/languages.png">
+          <language color="A40011" percentage="93" id="12">
+Ruby          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

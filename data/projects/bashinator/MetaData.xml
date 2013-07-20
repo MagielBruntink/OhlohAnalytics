@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>343979</id>
+      <name>Bashinator</name>
+      <url>http://www.ohloh.net/p/bashinator.xml</url>
+      <html_url>http://www.ohloh.net/p/bashinator</html_url>
+      <created_at>2009-05-29T16:50:13Z</created_at>
+      <updated_at>2009-06-29T11:49:40Z</updated_at>
+      <description>Bashinator is a bash shell script framework that provides:
+- Flexible and powerful message handling: print, log (to syslog and/or logfile) and mail messages (configureable based on severity) with a single message function
+- Exhaustive information (timestamps, message severity, source file, line numbers and function names) in messages to ease debugging
+- Function call stack traces
+- Logging of sub-command output (capturing stdout/stderr of external commands to a dedicated temporary logfile)
+- Lockfile handling</description>
+      <homepage_url>http://www.bashinator.org/</homepage_url>
+      <download_url>http://www.bashinator.org/releases/</download_url>
+      <url_name>bashinator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>cli</tag>
+        <tag>linux</tag>
+        <tag>shell</tag>
+        <tag>bashscript</tag>
+        <tag>terminal</tag>
+        <tag>bash</tag>
+        <tag>framework</tag>
+        <tag>unix</tag>
+        <tag>shellscript</tag>
+        <tag>shell_script</tag>
+        <tag>shellscripts</tag>
+        <tag>bashshell</tag>
+        <tag>posix</tag>
+        <tag>shellscripting</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

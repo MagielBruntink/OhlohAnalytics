@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5070</id>
+      <name>Melati</name>
+      <url>http://www.ohloh.net/p/melati.xml</url>
+      <html_url>http://www.ohloh.net/p/melati</html_url>
+      <created_at>2007-05-03T10:09:26Z</created_at>
+      <updated_at>2012-02-28T15:12:00Z</updated_at>
+      <description>Web development framework written in java, 
+based upon POEM ORM over jdbc and Velocity view layer.
+
+High test coverage, good object decomposition.
+
+Includes a shop, messageboards and CMS.
+
+Fully integrated with Maven.</description>
+      <homepage_url>http://melati.org/</homepage_url>
+      <download_url>https://github.com/timp21337/melati</download_url>
+      <url_name>melati</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/51145/favicon_med.ico</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/51145/favicon_small.ico</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1769082</analysis_id>
+      <tags>
+        <tag>persitance</tag>
+        <tag>velocity</tag>
+        <tag>database_administration</tag>
+        <tag>framework</tag>
+        <tag>jdbc</tag>
+        <tag>webmacro</tag>
+        <tag>data_modelling</tag>
+        <tag>codegeneration</tag>
+        <tag>cobertura</tag>
+        <tag>junit</tag>
+        <tag>maven</tag>
+        <tag>java</tag>
+        <tag>rapid_development</tag>
+      </tags>
+      <analysis>
+        <id>1769082</id>
+        <url>http://www.ohloh.net/analyses/1769082.xml</url>
+        <project_id>5070</project_id>
+        <updated_at>2011-03-13T07:35:42Z</updated_at>
+        <logged_at>2008-04-24T04:14:02Z</logged_at>
+        <min_month>2000-02-01T00:00:00Z</min_month>
+        <max_month>2008-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>83581</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/melati/analyses/1769082/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

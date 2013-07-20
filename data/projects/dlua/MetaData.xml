@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8655</id>
+      <name>dlua</name>
+      <url>http://www.ohloh.net/p/dlua.xml</url>
+      <html_url>http://www.ohloh.net/p/dlua</html_url>
+      <created_at>2007-09-21T21:13:31Z</created_at>
+      <updated_at>2012-02-22T19:17:15Z</updated_at>
+      <description>Lua bindings for the D programming language. They have been tested with dmd on Windows and Linux. They are also Tango-compatible (apart from some examples).</description>
+      <homepage_url>http://code.google.com/p/dlua/</homepage_url>
+      <download_url>http://code.google.com/p/dlua/downloads/list</download_url>
+      <url_name>dlua</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>1782507</analysis_id>
+      <tags>
+        <tag>d</tag>
+        <tag>lua</tag>
+        <tag>programming</tag>
+      </tags>
+      <analysis>
+        <id>1782507</id>
+        <url>http://www.ohloh.net/analyses/1782507.xml</url>
+        <project_id>8655</project_id>
+        <updated_at>2011-03-26T16:13:11Z</updated_at>
+        <logged_at>2011-03-26T16:13:09Z</logged_at>
+        <min_month>2006-11-01T00:00:00Z</min_month>
+        <max_month>2007-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>321</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dlua/analyses/1782507/languages.png">
+          <language color="EC2E24" percentage="100" id="32">
+D          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

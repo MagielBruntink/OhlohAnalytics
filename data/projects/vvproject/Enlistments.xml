@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>221992</id>
+      <project_id>316779</project_id>
+      <repository_id>219865</repository_id>
+      <repository>
+        <id>219865</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:anonymous@cvs.creatis.insa-lyon.fr:2402/cvs/public</url>
+        <module_name>clitk3</module_name>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2010-11-23T02:36:08Z</logged_at>
+        <commits>553</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

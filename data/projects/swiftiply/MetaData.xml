@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8168</id>
+      <name>Swiftcore Swiftiply</name>
+      <url>http://www.ohloh.net/p/swiftiply.xml</url>
+      <html_url>http://www.ohloh.net/p/swiftiply</html_url>
+      <created_at>2007-09-03T19:16:07Z</created_at>
+      <updated_at>2013-07-18T17:41:22Z</updated_at>
+      <description>Swiftiply is a highly optimized clustering proxy for web applications (currently supports: Rails, Merb, IOWA, Ramaze, Camping, and Nitro, with the ability to support many more). It increases application performance in a few ways. First, it uses EventMachine for network traffic (eventmachine is an event-based asynchronous network library which uses epoll on Linux for high network performance). Secondly, it reverses the way Proxies normally work by letting the nodes in the pool connect to Swiftiply with persistent TCP connections. This removes the delay of having to create a new TCP connection for every request, and makes it easier to maintain your cluster since nodes can be added and removed from the pool simply by starting new processes on a server.</description>
+      <homepage_url>http://swiftiply.swiftcore.org</homepage_url>
+      <download_url>http://swiftiply.swiftcore.org/download.html</download_url>
+      <url_name>swiftiply</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>mongrel</tag>
+        <tag>proxy</tag>
+        <tag>networking</tag>
+        <tag>rubygem</tag>
+        <tag>management</tag>
+        <tag>clustering</tag>
+        <tag>ruby</tag>
+        <tag>http_server</tag>
+        <tag>rubyonrails</tag>
+        <tag>http</tag>
+        <tag>performance</tag>
+        <tag>web</tag>
+        <tag>rails</tag>
+        <tag>server</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

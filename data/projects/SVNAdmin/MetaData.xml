@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16435</id>
+      <name>SVNAdmin</name>
+      <url>http://www.ohloh.net/p/SVNAdmin.xml</url>
+      <html_url>http://www.ohloh.net/p/SVNAdmin</html_url>
+      <created_at>2008-09-01T09:25:16Z</created_at>
+      <updated_at>2012-01-19T03:03:50Z</updated_at>
+      <description>The aim of SVNAdmin is to make handling of authentication and authorization for SVN-Repositories as easy as possible.
+
+Some features:
+ * Authentication against MySql and/or LDAP, SAMBA, XML etc..
+ * Authorization against AuthzSVNAccessFile (Per-Directory Access Control)
+ * Assign SVN-Repositories to projects
+ * Devide users into groups and subgroups
+ * Display the Project/Repository-Relation and the Group/User-Relation in an Explorer-like web-interface
+ * Grant/Revoke permissions (read, write, owner) on projects/repositories to groups/users via the webinterface
+
+Prerequisites:
+ * apache2 (with libapache2-mod-svn)
+ * subversion
+ * php5</description>
+      <homepage_url>http://svnadmin.brainpain.at</homepage_url>
+      <download_url>http://svnadmin.brainpain.at</download_url>
+      <url_name>SVNAdmin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6129248</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>gui</tag>
+        <tag>web</tag>
+        <tag>jquery</tag>
+        <tag>pear</tag>
+      </tags>
+      <analysis>
+        <id>6129248</id>
+        <url>http://www.ohloh.net/analyses/6129248.xml</url>
+        <project_id>16435</project_id>
+        <updated_at>2012-01-19T03:03:50Z</updated_at>
+        <logged_at>2008-09-01T09:30:02Z</logged_at>
+        <min_month></min_month>
+        <max_month></max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/SVNAdmin/analyses/6129248/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

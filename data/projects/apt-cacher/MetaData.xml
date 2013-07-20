@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8997</id>
+      <name>apt-cacher</name>
+      <url>http://www.ohloh.net/p/apt-cacher.xml</url>
+      <html_url>http://www.ohloh.net/p/apt-cacher</html_url>
+      <created_at>2007-10-06T22:02:24Z</created_at>
+      <updated_at>2008-04-15T22:25:32Z</updated_at>
+      <description>Apt-cacher performs caching of .deb and source packages which have been downloaded by local users. It is most useful for local area networks with slow internet uplink. 
+ When a package is requested, the cache checks whether it already has the requested version, in which case it sends the package to the user immediately. If not, it downloads the package while streaming it to the user at the same time. A local copy is then kept for use by other users.</description>
+      <homepage_url>http://www.nick-andrew.net/projects/apt-cacher/</homepage_url>
+      <download_url></download_url>
+      <url_name>apt-cacher</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>apt</tag>
+        <tag>proxy</tag>
+        <tag>cache</tag>
+        <tag>deb</tag>
+        <tag>debian</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>299968</id>
+      <name>Squale (Software QUALity Enhancement)</name>
+      <url>http://www.ohloh.net/p/squale-project.xml</url>
+      <html_url>http://www.ohloh.net/p/squale-project</html_url>
+      <created_at>2009-01-23T23:14:22Z</created_at>
+      <updated_at>2012-03-06T19:06:28Z</updated_at>
+      <description>The aim of the Squale - Software QUALity Enhancement - project is to provide models and associated tools to assess software quality and help improving it over time.
+
+The project will deliver models and tools that:
+- know how to aggregate raw quality information (like metrics for instance) - given by third party technologies, into high level factors,
+- offer dashboards which present those factors and allow to dig deeply into the code quality,
+- show the evolution of the quality over time,
+- and give economical indicators about the return of investment of quality efforts.
+
+Squale will not be restricted to Java software, but will target other platforms like C/C++, .NET, PHP, Cobol, ...</description>
+      <homepage_url>http://www.squale.org</homepage_url>
+      <download_url>http://www.squale.org/squale-user-site/downloads.html</download_url>
+      <url_name>squale-project</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13217/squale-banner-left_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13217/squale-banner-left_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>6850598</analysis_id>
+      <tags>
+        <tag>metrics</tag>
+        <tag>quality_assurance</tag>
+        <tag>c</tag>
+        <tag>quality</tag>
+        <tag>java</tag>
+        <tag>c++</tag>
+        <tag>qa</tag>
+        <tag>qualimetry</tag>
+        <tag>dashboard</tag>
+        <tag>code_quality</tag>
+        <tag>code_analysis</tag>
+      </tags>
+      <analysis>
+        <id>6850598</id>
+        <url>http://www.ohloh.net/analyses/6850598.xml</url>
+        <project_id>299968</project_id>
+        <updated_at>2012-03-06T19:06:28Z</updated_at>
+        <logged_at>2012-03-06T18:53:16Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>271750</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/squale-project/analyses/6850598/languages.png">
+          <language color="9A63AD" percentage="69" id="5">
+Java          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="000000" percentage="12" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

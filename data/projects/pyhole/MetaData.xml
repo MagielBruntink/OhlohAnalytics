@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585676</id>
+      <name>PyHole</name>
+      <url>http://www.ohloh.net/p/pyhole.xml</url>
+      <html_url>http://www.ohloh.net/p/pyhole</html_url>
+      <created_at>2011-08-17T06:16:30Z</created_at>
+      <updated_at>2013-07-15T02:28:19Z</updated_at>
+      <description>PyHole provides an easy to use generic REST API client. It has object oriented style of calling and supports GET and POST connection methods. Connections are based on urllib and supports all protocols supported by urllib.
+
+With PyHole you can create a call to any legacy REST API just in seconds!</description>
+      <homepage_url>http://packages.python.org/PyHole/</homepage_url>
+      <download_url>https://bitbucket.org/cypreess/pyhole/src</download_url>
+      <url_name>pyhole</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14634621</analysis_id>
+      <tags>
+        <tag>api</tag>
+        <tag>rest</tag>
+        <tag>soa</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14634621</id>
+        <url>http://www.ohloh.net/analyses/14634621.xml</url>
+        <project_id>585676</project_id>
+        <updated_at>2013-07-15T02:28:19Z</updated_at>
+        <logged_at>2013-07-15T02:22:34Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>423</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyhole/analyses/14634621/languages.png">
+          <language color="4A246B" percentage="83" id="9">
+Python          </language>
+          <language color="EEE" percentage="17" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

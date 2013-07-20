@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19122</id>
+      <name>Egg Clock</name>
+      <url>http://www.ohloh.net/p/eggclock60.xml</url>
+      <html_url>http://www.ohloh.net/p/eggclock60</html_url>
+      <created_at>2008-10-07T12:08:48Z</created_at>
+      <updated_at>2013-06-29T11:51:35Z</updated_at>
+      <description>Egg Clock is a simple timer for Symbian Series60 3rd/5th edition devices. The timer value can be up to 100 minutes. 
+
+When the timer countdown reaches zero, the audio file selected by the user is played and the screen starts flashing, showing the indication of the extra time. 
+
+All the actions can be executed from the menu of the application, but here's a short list of shortcuts: 
+
+Press central key to start or stop the timer.
+Press &quot;c&quot; key to reset the timer press Up/down/left/right to increase or decrease the volume of the notification. 
+
+On touchscreen devices (5th edition phones such as Nokia 5800XM): 
+
+Tap the screen once quickly to start or stop the timer tap and hold the screen for about 1 second to reset the timer. Use volume keys to adjust the volume.</description>
+      <homepage_url>http://code.google.com/p/eggclock60</homepage_url>
+      <download_url>http://code.google.com/p/eggclock60/downloads/list</download_url>
+      <url_name>eggclock60</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/25652/eggclock.64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/25652/eggclock.64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14456125</analysis_id>
+      <tags>
+        <tag>series60</tag>
+        <tag>s60</tag>
+        <tag>symbian</tag>
+        <tag>5thedition</tag>
+        <tag>3rdedition</tag>
+        <tag>timer</tag>
+        <tag>eggclock</tag>
+      </tags>
+      <analysis>
+        <id>14456125</id>
+        <url>http://www.ohloh.net/analyses/14456125.xml</url>
+        <project_id>19122</project_id>
+        <updated_at>2013-07-16T23:26:50Z</updated_at>
+        <logged_at>2013-07-16T23:26:48Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2011-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1290</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eggclock60/analyses/14456125/languages.png">
+          <language color="F35F1F" percentage="97" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

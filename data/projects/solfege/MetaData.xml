@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>1896</id>
+      <name>GNU Solfege</name>
+      <url>http://www.ohloh.net/p/solfege.xml</url>
+      <html_url>http://www.ohloh.net/p/solfege</html_url>
+      <created_at>2006-10-12T04:00:13Z</created_at>
+      <updated_at>2013-06-29T09:45:46Z</updated_at>
+      <description>GNU Solfege is *free* ear training software written in python. The program is designed to be easily extended with lesson files (data files), so the user can create new exercises.</description>
+      <homepage_url>http://www.solfege.org</homepage_url>
+      <download_url>http://www.solfege.org/Solfege/Download</download_url>
+      <url_name>solfege</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/16815/solfege_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/16815/solfege_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14454874</analysis_id>
+      <tags>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14454874</id>
+        <url>http://www.ohloh.net/analyses/14454874.xml</url>
+        <project_id>1896</project_id>
+        <updated_at>2013-07-18T03:44:41Z</updated_at>
+        <logged_at>2013-07-18T03:43:30Z</logged_at>
+        <min_month>2013-03-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>39197</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/solfege/analyses/14454874/languages.png">
+          <language color="4A246B" percentage="72" id="9">
+Python          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

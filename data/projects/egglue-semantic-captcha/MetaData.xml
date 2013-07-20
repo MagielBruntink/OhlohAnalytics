@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345322</id>
+      <name>Egglue Semantic CAPTCHA</name>
+      <url>http://www.ohloh.net/p/egglue-semantic-captcha.xml</url>
+      <html_url>http://www.ohloh.net/p/egglue-semantic-captcha</html_url>
+      <created_at>2009-06-01T13:37:15Z</created_at>
+      <updated_at>2009-06-08T15:42:37Z</updated_at>
+      <description>Egglue Semantic CAPTCHA generates textual challenges to protect websites from automated spam. Unlike conventional CAPTCHA, all challenges require only basic intuitive/reasoning abilities to solve.
+
+In the current Beta, visitors are presented with two meaningful sentences, each missing one verb. Visitors are asked to type in the missing verbs so that the sentences make intuitive sense. An example challenge is:
+
+Speakers can ______ sound.
+
+A correct answer is play. Other correct answers include amplify, produce, control and others, as intuition suggests. Visitors are free to type in any verb as long as the completed sentence makes intuitive sense and uses correct grammar. Egglue knows that there is no single solution to each challenge, so it tries to pass all intuitively relevant solutions.</description>
+      <homepage_url>http://www.egglue.com</homepage_url>
+      <download_url>http://code.google.com/p/egglue/downloads</download_url>
+      <url_name>egglue-semantic-captcha</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>4.66667</average_rating>
+      <rating_count>3</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>600205</analysis_id>
+      <tags>
+        <tag>spam</tag>
+        <tag>captcha</tag>
+        <tag>semantic-captcha</tag>
+      </tags>
+      <analysis>
+        <id>600205</id>
+        <url>http://www.ohloh.net/analyses/600205.xml</url>
+        <project_id>345322</project_id>
+        <updated_at>2009-06-07T21:35:53Z</updated_at>
+        <logged_at>2009-06-07T21:35:24Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/egglue-semantic-captcha/analyses/600205/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
