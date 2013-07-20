@@ -16,20 +16,20 @@ public void exportFactsForAllProjects() {
 	
 	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
 	monthlyFactsMap allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-	//logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
-	//writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
+	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
+	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
 	
 	logToConsole("exportFactsForAllProject", "Getting yearly growth facts for all projects from cache...");
 	yearlyFactsMap allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
-	//logToConsole("exportFactsForAllProject", "Exporting all yearly facts to CSV for all projects: " + "allYearlyFacts.csv");
-	//writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
+	logToConsole("exportFactsForAllProject", "Exporting all yearly facts to CSV for all projects: " + "allYearlyFacts.csv");
+	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
 	
 	logToConsole("exportFactsForAllProject", "Calculating project activity for all projects...");
 	projectActivityStats=getProjectActivityStatus(allYearlyFacts);
 	logToConsole("exportFactsForAllProject", "Calculating project death events for all projects...");
 	projectDeathStats=getProjectDeathStatus(projectActivityStats, "2012");
-	//logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
-	//writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
+	logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
+	writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
 }
 
 public void doProjectMetaDataAnalyses () {
