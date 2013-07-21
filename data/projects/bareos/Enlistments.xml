@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>525372</id>
+      <project_id>633490</project_id>
+      <repository_id>527931</repository_id>
+      <repository>
+        <id>527931</id>
+        <type>GitRepository</type>
+        <url>git://github.com/bareos/bareos.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T23:33:39Z</logged_at>
+        <commits>306</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>525579</id>
+      <project_id>633490</project_id>
+      <repository_id>528137</repository_id>
+      <repository>
+        <id>528137</id>
+        <type>GitRepository</type>
+        <url>git://github.com/bareos/bareos-regress.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-16T23:33:59Z</logged_at>
+        <commits>43</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>322701</id>
+      <name>jtyrant-net</name>
+      <url>http://www.ohloh.net/p/jtyrant-net.xml</url>
+      <html_url>http://www.ohloh.net/p/jtyrant-net</html_url>
+      <created_at>2009-04-10T21:56:57Z</created_at>
+      <updated_at>2013-07-11T00:05:56Z</updated_at>
+      <description>Disambiguation: if you are looking for the system administrator's packaging tool &quot;jTyrant&quot; it is located here 
+
+Offers a very low level (and very thin) interface to the Tokyo Tyrant native network protocol, as described here.  Rather than provide a user-level client API such as tokyotyrant-java, this library aims to be the underlying network code in an API implementation or to provide java developers with more control than a higher level API provides. 
+
+The aim of this project is not to be overly fancy, not to include higher-order functions like connection pooling, object serialization, etc. and to have no external dependencies. 
+
+There is a Maven 2 generated site here, which includes javadocs, full source browsing, test results, etc.</description>
+      <homepage_url>http://code.google.com/p/jtyrant-net</homepage_url>
+      <download_url></download_url>
+      <url_name>jtyrant-net</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14583081</analysis_id>
+      <tags>
+        <tag>tyrant</tag>
+        <tag>tokyocabinet</tag>
+        <tag>tokyotyrant</tag>
+        <tag>tokyo</tag>
+        <tag>cabinet</tag>
+        <tag>protocol</tag>
+        <tag>network</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14583081</id>
+        <url>http://www.ohloh.net/analyses/14583081.xml</url>
+        <project_id>322701</project_id>
+        <updated_at>2013-07-17T21:19:06Z</updated_at>
+        <logged_at>2013-07-17T21:18:51Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2009-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1205</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jtyrant-net/analyses/14583081/languages.png">
+          <language color="9A63AD" percentage="91" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="A42E00" percentage="1" id="27">
+Lua          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

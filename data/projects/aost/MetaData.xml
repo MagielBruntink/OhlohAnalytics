@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>17404</id>
+      <name>aost</name>
+      <url>http://www.ohloh.net/p/aost.xml</url>
+      <html_url>http://www.ohloh.net/p/aost</html_url>
+      <created_at>2008-10-07T10:51:17Z</created_at>
+      <updated_at>2013-06-21T05:24:19Z</updated_at>
+      <description>Tellurium Automated Testing Framework
+
+Tellurium Automated Testing FrameworkLatest UpdateIntroductionTellurium SubprojectsHow to use Tellurium ?Tellurium Maven RepositoryVideos and PresentationsTellurium SupportAcknowledgmentsNews 
+
+Latest UpdateTelluriumSource.org is up and running Run Tellurium Integration Tests with Maven Cargo Plugin Tellurium 0.7.0 RC1 is Available Now  Santa: The Tellurium UI Module Group Locating Algorithm How to create your own Tellurium testing project with IntelliJ 9.0 Community Edition What's New in Tellurium 0.7.0  IntroductionThe Tellurium Automated Testing Framework (Tellurium) is a UI module-based automated testing framework for web applications. The UI module is a collection of UI elements you group together. Usually, the UI module represents a composite UI object in the format of nested basic UI elements. For example, the Google search UI module can be expressed as follows, 
+
+ui.Container(uid: &quot;GoogleSearchModule&quot;, clocator: [tag: &quot;td&quot;], group: &quot;true&quot;){
+   InputBox(uid: &quot;Input&quot;, clocator: [title: &quot;Google Search&quot;])
+   SubmitButton(uid: &quot;Search&quot;, clocator: [name: &quot;btnG&quot;, value: &quot;Google Search&quot;])
+   SubmitButton(uid: &quot;ImFeelingLucky&quot;, clocator: [value: &quot;I'm Feeling Lucky&quot;])
+}The UI module makes it possible to build UI elements' locators at run time. The framework does Object to Locator Mapping (OLM) automatically at run time so that you can define UI objects simply by their attributes, i.e., Composite Locators denoted by the &quot;clocator&quot;. Furthermore, Tellurium uses the Group Locating Concept (GLC) to exploit information inside a collection of UI components to help finding their locators and the GLC is denoted by the &quot;group&quot; attribute in the above UI module.  
+
+The Tellurium framework defines a new Domain Specific Language (DSL) for web testing. Still take the above Google search module as an example, you can use the following DSLs to do a Google search, 
+
+type &quot;GoogleSearchModule.Input&quot;, &quot;Tellurium test&quot;
+click &quot;GoogleSearchModule.Search&quot;
+waitForPageToLoad 30000One very powerful feature of Tellurium is that you can use UI templates to represent many identical UI elements or dynamic size of different UI elements at runtime, which are extremely useful to test dynamic web such as a data grid. One typical data grid example is as follows, 
+
+ui.Table(uid: &quot;table&quot;, clocator: [:]){
+   InputBox(uid: &quot;row: 1, column: 1&quot;, clocator: [:])
+   Selector(uid: &quot;row: *, column: 2&quot;, clocator: [:])
+   UrlLink(uid: &quot;row: 3, column: *&quot;, clocator: [:])
+   TextBox(uid: &quot;all&quot;, clocator: [:])
+} Data Driven Testing is another important feature of Tellurium. You can define data format in an expressive way. In you data file, you can specify which test you want to run, the input parameters, and expected results. Tellurium automatically binds the input data to variables defined in your test script and run the tests you specified in the input file. The test results will be recorded by a test listener and output in different formats, for example, an XML file. 
+
+Tellurium UI Model Plugin (TrUMP) is a Firefox plugin to automatically create UI modules for users. In addition, Tellurium provides you the capability to composite UI objects into a Tellurium widget object. You can pack Tellurium widgets as a jar file and then use a Tellurium widget just like a single tellurium UI object once you include the jar file. As a result, Tellurium is robust, expressive, flexible, and reusable.  
+
+In summary, the main features of Tellurium include: 
+
+Abstract UI objects to encapsulate web UI elements   UI module for structured test code and re-usability   DSL for UI definition, actions, and testing Composite Locator to use a set of attributes to describe a UI element Group locating to exploit information inside a collection of UI components Dynamically generate runtime locators to localize changes UI templates for dynamic web content XPath support jQuery selector support to improve test speed in IE Locator caching to improve speed Javascript event support Use Tellurium Firefox plugin, Trump, to automatically generate UI modules Dojo and ExtJS widget extensions     Data driven test support  Selenium Grid support JUnit and TestNG support Ant and Maven support The Tellurium Core is written in Groovy and Java. Tellurium Engine and Trump are implemented using JavaScript and jQuery. The test cases can be written in Java, Groovy, or pure DSL. You do not really need to know Groovy before you use it because the UI module definition and actions on UIs are written in DSLs and the rest could be written in Java syntax. Detailed User Guide, Frequent Asked Questions, and illustrative examples are provided. We expect and welcome your contributions. 
+
+For a quick start, please read Ten Minutes To Tellurium,  Ten Things You Should Know About Tellurium, and Top Ten Cool Features in Tellurium. 
+
+Tellurium SubprojectsTellurium subprojects include Core, Reference projects, Widget extensions, TrUMP, and Engine projects as shown in the following diagram, 
+
+ 
+
+Tellurium Engine: Based on Selenium Core with UI module, jQuery selector, command bundle, and exception hierarchy support. Tellurium Core: UI module, APIs, DSL, Object to Runtime Locator mapping, and test support. Tellurium Extensions: Dojo Javascript widgets and ExtJS Javascript widgets. Tellurium UI Module Plugin (TrUMP): A Firefox plugin to automatically generate the UI module after users select the UI elements from the web under testing. Tellurium Maven Archetypes: Maven archetypes to generate skeleton Tellurium JUnit and Tellurium TestNG projects using one Maven command. Tellurium Reference Projects: Use Tellurium project site as examples to illustrate how to use different features in Tellurium and how to create Tellurium test cases. How to use Tellurium ?There are three ways, i.e., use the reference project as a base, use Tellurium Maven archetype, or manually create Tellurium project using tellurium jar and Tellurium configuration file. Alternatively, you could create your own Tellurium Maven project manually using the sample POM file. 
+
+ 
+
+Tellurium Maven RepositoryTellurium supports Maven 2 and here is the guide on how to use Maven for Tellurium. 
+
+Tellurium snapshots can be found at our Maven snapshot repository and the releases are at our Maven release repository. The customized Selenium server and some other dependencies are at our Maven third party repository. 
+
+Tellurium provides two Maven archetypes, tellurium-junit-archetype and tellurium-testng-archetype for Tellurium JUnit and TestNG project, respectively. You can use one Maven command to create a new Tellurium test project.  
+
+Tellurium 0.7.0 core snapshots are at  
+
+http://maven.kungfuters.org/content/repositories/snapshots/org/telluriumsource/tellurium-core/0.7.0-SNAPSHOT/ 
+
+Custom Selenium Server 1.0.1-te2 snapshots with Tellurium Engine are at 
+
+http://maven.kungfuters.org/content/repositories/snapshots/org/seleniumhq/selenium/server/selenium-server/1.0.1-te2-SNAPSHOT/ 
+
+Trump 0.2.0 snapshots are at 
+
+http://maven.kungfuters.org/content/repositories/snapshots/org/telluriumsource/trump/0.2.0-SNAPSHOT/ 
+
+Videos and PresentationsTellurium UI Module Visual Demo Tellurium at Rich Web Experience 2009 by Jian Fang and Vivek Mongolu Tellurium 0.6.0 User Guide Tellurium video tutorial by Vivek Mongolu Tellurium Screencast Part I: Tellurium project and Trump IDE Tellurium Screencast Part II: Create Tellurium Test cases Tellurium - A New Approach For Web Testing 10 Minutes to Tellurium Tellurium SupportIf you have any questions or problems with Tellurium, please join our Tellurium user group and then post them there. You will get the response very shortly. 
+
+AcknowledgmentsSpecial thanks to JetBrains for providing us the Open Source License for IntelliJ IDEA.  
+
+ 
+
+Special thanks to ej-technologies for providing us the Open Source License for JProfiler. 
+
+Special Thanks to AquaFold for providing us the Open Source Software Developer License of Aqua Data Studio. 
+
+News   
+
+2010-03-10, TelluriumSource.org is up and running 2010-03-04, Run Tellurium Integration Tests with Maven Cargo Plugin 2010-02-15, Disclose UI Module APIs in Tellurium 0.7.0. 2010-02-11, Tellurium 0.7.0 RC1 is Available Now 2010-02-10, Santa: The Tellurium UI Module Group Locating Algorithm 2010-02-08, Tellurium UI Module Visual Effect 2010-01-28, Tellurium is on Vimeo now. 2010-01-22, Added new wiki guide How to create your own Tellurium testing project with IntelliJ 9.0 Community Edition. 2010-01-15, What's New in Tellurium 0.7.0 is updated to track changes in 0.7.0. 2009-12-02, Tellurium was presented at Rich Web Experience 2009. 2009-11-22, Welcome Harihara Vinayakaram to our team. 2009-11-20, IRC Channel #tellurium is Available Now. 2009-10-10, Tellurium Facebook Group has been created and you are welcome to join.  2009-09-20, Special thanks to Davlyn Jones, the Tellurium user guide 0.6.0 is officially released now. 2009-09-18, Special thanks to Jared Rawlinson, Tellurium has a new project logo now. 2009-09-09, Please poll where did you find Tellurium. 2009-08-18, Welcome Kamal Ahmed to our team. 2009-08-15, Welcome Mahendra Kariya and Ajay Ravichandran to our team. 2009-07-27, The first draft of Tellurium User Guide is available now. You can download the pdf file from here. 2009-07-15, Welcome Kevin Zhang to our team. 2009-07-09, Welcome Davlyn Jones and Ramesh Ramamurthy to our team. 2009-06-26, Tellurium was presented at CodeStock 2009. 2009-06-26, Tellurium is on Twitter and Reddit now. 2009-06-24, Tellurium celebrates its first anniversary. Please read the article, Tellurium First Anniversary: Retrospect and Prospect. 2009-06-23, Added a video demo Tellurium beginner tutorial. 2009-06-21, Welcome Jeff Xiong to our Team.  2009-06-18, Tellurium 0.6.0 is released, please see the announcement. 2009-06-12, Tellurium creator, Dr. Jian Fang, was interviewed by InfoQ China.  2009-06-10, Tellurium Chinese Document project is created. 2009-05-13, Tellurium Core and reference projects 0.6.0 RC1 are out, Please see the announcement. 2009-05-10, Added Tellurium 0.6.0 feature introduction:  Whats New in Tellurium 0.6.0 2009-04-28, Tellurium provides Selenium Grid support 2009-04-23, Tellurium Automated Testing Framework LinkedIn Group has been created and you are welcome to join.  2009-04-14, Tellurium starts to support jQuery selector.  2009-03-15, tutorial 10 Minutes to Tellurium is created and it includes a wiki page, presentation slides, and a screencast video. 2009-03-13, two Tellurium Maven archetypes are available, i.e., tellurium-junit-archetype and tellurium-testng-archetype for Tellurium JUnit and TestNG project, respectively. 2009-03-04, Tellurium UI Module Firefox Plugin (TrUMP) 0.1.0 is released 2009-02-18, Tellurium UI Module Firefox Plugin (TrUMP) 0.1.0 Release Candidate is available 2009-02-17, Tellurium Demo Videos are uploaded, you can use VLC media player to watch them   2009-01-29, Tellurium UI Module Firefox Plugin (TrUMP) 0.1.0 preview version is available 2008-12-03, Tellurium core 0.5.0 and reference projects are released 2008-12-02, Welcome Mikhail Koryak to our team. 2008-11-15, Tellurium 0.5.0 Release Candidate RC01 is out 2008-08-22, Welcome Haroon Rasheed to our team. 2008-08-13, Tellurium 0.4.0 is released and this release includes a lot of new features and enhancements such as data driven testing, framework configuration, and JUnit 4 support. 2008-07-29, The AOST framework is officially renamed to the Tellurium Automated Testing framework (Tellurium). 2008-07-29, Welcome Matt Senter to our team. 2008-07-18, Welcome Vivek Mongolu to our team. 2008-07-18, AOST user group is created. Please join and post your questions, comments, and suggestions there. 2008-07-12, AOST 0.3.0 is out and it comes with significant feature enhancement including Composite Locator, Group Locating Concept, and Multiple UI Modules in one DslContext. 2008-07-02, UI Object ID is refactored to support nested UI objects. 2008-06-25, The AOST framework became public with version 0.2.0. 2008-01-01, the AOST framework second prototype was created. 2007-06-01, the AOST framework first prototype was created. 
+
+We are looking for Javascript and jQuery developers to join our team to work on the Trump and the Engine sub-projects.</description>
+      <homepage_url>http://code.google.com/p/aost</homepage_url>
+      <download_url></download_url>
+      <url_name>aost</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14323279</analysis_id>
+      <tags>
+        <tag>testng</tag>
+        <tag>testing</tag>
+        <tag>groovy</tag>
+        <tag>java</tag>
+        <tag>dsl</tag>
+        <tag>ant</tag>
+        <tag>datadriven</tag>
+        <tag>firefox</tag>
+        <tag>automated</tag>
+        <tag>selenium</tag>
+        <tag>maven</tag>
+        <tag>junit</tag>
+        <tag>jquery</tag>
+        <tag>web</tag>
+      </tags>
+      <analysis>
+        <id>14323279</id>
+        <url>http://www.ohloh.net/analyses/14323279.xml</url>
+        <project_id>17404</project_id>
+        <updated_at>2013-07-18T07:05:37Z</updated_at>
+        <logged_at>2013-07-18T07:05:34Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>207997</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/aost/analyses/14323279/languages.png">
+          <language color="A4007E" percentage="57" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="18" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

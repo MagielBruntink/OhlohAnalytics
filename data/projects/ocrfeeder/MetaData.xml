@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>66229</id>
+      <name>OCRFeeder</name>
+      <url>http://www.ohloh.net/p/ocrfeeder.xml</url>
+      <html_url>http://www.ohloh.net/p/ocrfeeder</html_url>
+      <created_at>2008-12-18T18:48:02Z</created_at>
+      <updated_at>2013-07-19T03:53:39Z</updated_at>
+      <description>OCRFeederOCRFeeder is a document layout analysis and optical character recognition system. 
+
+Given the images it will automatically outline its contents, distinguish between what's graphics and text and perform OCR over the latter. It generates multiple formats being its main one ODT. 
+
+It features a complete GTK graphical user interface that allows the users to correct any unrecognized characters, defined or correct bounding boxes, set paragraph styles, clean the input images, import PDFs, save and load the project, export everything to multiple formats, etc. OCRFeeder was developed as the project of the Master's Thesis in Computer Science of Joaquim Rocha.</description>
+      <homepage_url>http://live.gnome.org/OCRFeeder</homepage_url>
+      <download_url>http://ftp.gnome.org/pub/GNOME/sources/ocrfeeder/</download_url>
+      <url_name>ocrfeeder</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/19988/ocrfeeder_circle_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/19988/ocrfeeder_circle_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14683047</analysis_id>
+      <tags>
+        <tag>ocr</tag>
+        <tag>imageprocessing</tag>
+        <tag>document</tag>
+        <tag>gnome</tag>
+        <tag>python</tag>
+        <tag>linux</tag>
+        <tag>odt</tag>
+        <tag>recognition</tag>
+        <tag>opticalcharacterrecognition</tag>
+        <tag>layoutanalysis</tag>
+        <tag>gtk</tag>
+      </tags>
+      <analysis>
+        <id>14683047</id>
+        <url>http://www.ohloh.net/analyses/14683047.xml</url>
+        <project_id>66229</project_id>
+        <updated_at>2013-07-19T03:53:39Z</updated_at>
+        <logged_at>2013-07-19T03:51:41Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>18889</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ocrfeeder/analyses/14683047/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

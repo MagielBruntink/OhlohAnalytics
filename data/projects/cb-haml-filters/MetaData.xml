@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481363</id>
+      <name>Custom HAML filters</name>
+      <url>http://www.ohloh.net/p/cb-haml-filters.xml</url>
+      <html_url>http://www.ohloh.net/p/cb-haml-filters</html_url>
+      <created_at>2010-02-24T14:12:08Z</created_at>
+      <updated_at>2013-04-16T13:28:36Z</updated_at>
+      <description>This small plugin allows you to automatically embed different items (like videos from popular services &#8211; youtube, vimeo etc) to any page. 
+
+Prerequisites: Rails, HAML</description>
+      <homepage_url>http://github.com/alec-c4/cb-haml-filters</homepage_url>
+      <download_url>http://github.com/alec-c4/cb-haml-filters</download_url>
+      <url_name>cb-haml-filters</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13535841</analysis_id>
+      <tags>
+        <tag>rails</tag>
+        <tag>haml</tag>
+        <tag>vimeo</tag>
+        <tag>youtube</tag>
+      </tags>
+      <analysis>
+        <id>13535841</id>
+        <url>http://www.ohloh.net/analyses/13535841.xml</url>
+        <project_id>481363</project_id>
+        <updated_at>2013-05-03T06:03:01Z</updated_at>
+        <logged_at>2013-05-03T06:02:59Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>199</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cb-haml-filters/analyses/13535841/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

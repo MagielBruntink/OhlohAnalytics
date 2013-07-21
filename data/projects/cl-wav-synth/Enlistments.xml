@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>37869</id>
+      <project_id>26799</project_id>
+      <repository_id>36607</repository_id>
+      <repository>
+        <id>36607</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:anonymous@common-lisp.net:/project/cl-wav-synth/cvsroot</url>
+        <module_name>cl-wav-synth</module_name>
+        <username>anonymous</username>
+        <password>anonymous</password>
+        <logged_at>2013-07-19T03:56:32Z</logged_at>
+        <commits>145</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

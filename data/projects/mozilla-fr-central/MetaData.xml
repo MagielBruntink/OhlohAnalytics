@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602600</id>
+      <name>Mozilla l10n-central fr</name>
+      <url>http://www.ohloh.net/p/mozilla-fr-central.xml</url>
+      <html_url>http://www.ohloh.net/p/mozilla-fr-central</html_url>
+      <created_at>2012-06-14T03:12:40Z</created_at>
+      <updated_at>2013-07-19T19:25:06Z</updated_at>
+      <description>This repository contains the french localized files of nightly builds of:
+Mozilla Firefox
+Firefox for Android
+Thunderbird
+Seamonkey
+Calendar</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>mozilla-fr-central</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/58322/mozfr_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/58322/mozfr_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14679704</analysis_id>
+      <tags>
+        <tag>fr</tag>
+        <tag>mozilla</tag>
+        <tag>l10n</tag>
+        <tag>french</tag>
+      </tags>
+      <analysis>
+        <id>14679704</id>
+        <url>http://www.ohloh.net/analyses/14679704.xml</url>
+        <project_id>602600</project_id>
+        <updated_at>2013-07-18T20:17:00Z</updated_at>
+        <logged_at>2013-07-18T20:16:07Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>21343</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mozilla-fr-central/analyses/14679704/languages.png">
+          <language color="555555" percentage="97" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_2_0</name>
+          <nice_name>Mozilla Public License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>41681</id>
+      <name>geotoad</name>
+      <url>http://www.ohloh.net/p/geotoad.xml</url>
+      <html_url>http://www.ohloh.net/p/geotoad</html_url>
+      <created_at>2008-12-15T04:11:56Z</created_at>
+      <updated_at>2013-07-16T00:31:33Z</updated_at>
+      <description>What is it?GeoToad is a tool for serious geocachers. It lets you make advanced queries to find the perfect caches to hit on your day out, and export them to any imaginable format. Here is what it can do: 
+
+On-demand queries for geocaches based on 15 different constraints: query type, distance, difficulty, terrain, fun factor, size, type, unfound, travel-bug, cache age, last found date, title, description, found by, cache creator. Outputs cache listing and details to HTML, GPX, CSV, VCF, Text, Ozi, MXF, Tiger, GPSPoint, etc. Integrated with GPSBabel to output to  Google Earth (KML), and dozens of other formats. Optional automatic waypoint names like &quot;TEDSGRILL&quot; instead of &quot;GC5042&quot; Runs on Windows, Mac OS X, Linux, and other UNIX flavors! It's Opensource! GeoToad has been around since 2002, and is written using the Ruby Programming Language. We're looking for new people to join in and help develop and maintain the code. If you're interested, contact us! 
+
+Screenshot 
+
+News2010-01-25 - GeoToad 3.10.2 was released with the following changes: 
+
+Truncate output filenames longer than 220 characters Fix crash if a search has no results Don't crash the progressbar if @value is nil 2010-01-25 - GeoToad 3.10.1 was released with the following changes: 
+
+Additional Waypoints table now included in HTML, GPX, and KML output Fix title parsing for caches with a parenthesis in the name Fix bugs in &quot;last found&quot; time parsing Fix travelbug parsing 2010-01-24 - GeoToad 3.10 was released with the following changes: 
+
+New location search type, uses Google Maps to resolve search terms HTML, GPX, and KML output now includes full HTML descriptions html-decrypt and text-decrypt modes were deprecated Backspace should now work properly on Linux Compatible with latest changes (2010-01) to geocaching.com</description>
+      <homepage_url>http://code.google.com/p/geotoad</homepage_url>
+      <download_url></download_url>
+      <url_name>geotoad</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14644785</analysis_id>
+      <tags>
+        <tag>geocache</tag>
+        <tag>geocaching</tag>
+        <tag>gps</tag>
+      </tags>
+      <analysis>
+        <id>14644785</id>
+        <url>http://www.ohloh.net/analyses/14644785.xml</url>
+        <project_id>41681</project_id>
+        <updated_at>2013-07-16T00:31:33Z</updated_at>
+        <logged_at>2013-07-16T00:25:26Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>6591</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/geotoad/analyses/14644785/languages.png">
+          <language color="A40011" percentage="93" id="12">
+Ruby          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

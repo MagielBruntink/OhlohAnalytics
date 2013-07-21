@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588689</id>
+      <name>DWT Terminal Emulator</name>
+      <url>http://www.ohloh.net/p/dwtterm.xml</url>
+      <html_url>http://www.ohloh.net/p/dwtterm</html_url>
+      <created_at>2012-01-29T17:34:51Z</created_at>
+      <updated_at>2013-07-12T04:04:29Z</updated_at>
+      <description>DWT is a simple, no-frills terminal emulator based on the VTE widget, whose main feature is being feature-less, thus simple, lean, mean and a very good companion for tiling window managers like DWM (or my own XDWM fork).</description>
+      <homepage_url>https://github.com/aperezdc/dwt</homepage_url>
+      <download_url>https://github.com/aperezdc/dwt/downloads</download_url>
+      <url_name>dwtterm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14600172</analysis_id>
+      <analysis>
+        <id>14600172</id>
+        <url>http://www.ohloh.net/analyses/14600172.xml</url>
+        <project_id>588689</project_id>
+        <updated_at>2013-07-18T15:42:15Z</updated_at>
+        <logged_at>2013-07-18T15:42:13Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>396</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dwtterm/analyses/14600172/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="EEE" percentage="10" id="52">
+Make          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>634266</id>
+      <name>AzaPhpGen</name>
+      <url>http://www.ohloh.net/p/AzaPhpGen.xml</url>
+      <html_url>http://www.ohloh.net/p/AzaPhpGen</html_url>
+      <created_at>2013-03-15T21:17:59Z</created_at>
+      <updated_at>2013-07-01T10:22:28Z</updated_at>
+      <description>AzaPhpGen - Anizoptera CMF PHP code generation (dump) component.
+
+Allows to dump complex arrays, objects, closures and basic data types as php code. In part, this can be called a some sort of serialization. You can customize your dumped php code as you wish.</description>
+      <homepage_url>https://github.com/Anizoptera/AzaPhpGen</homepage_url>
+      <download_url>https://github.com/Anizoptera/AzaPhpGen/archive/master.zip</download_url>
+      <url_name>AzaPhpGen</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14500056</analysis_id>
+      <tags>
+        <tag>generation</tag>
+        <tag>code</tag>
+        <tag>php</tag>
+        <tag>dump</tag>
+        <tag>serialization</tag>
+      </tags>
+      <analysis>
+        <id>14500056</id>
+        <url>http://www.ohloh.net/analyses/14500056.xml</url>
+        <project_id>634266</project_id>
+        <updated_at>2013-07-21T03:47:05Z</updated_at>
+        <logged_at>2013-07-21T03:47:03Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2041</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/AzaPhpGen/analyses/14500056/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

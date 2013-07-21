@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>456342</id>
+      <name>BitHorde</name>
+      <url>http://www.ohloh.net/p/bithorde.xml</url>
+      <html_url>http://www.ohloh.net/p/bithorde</html_url>
+      <created_at>2009-09-29T20:58:31Z</created_at>
+      <updated_at>2013-07-12T22:11:26Z</updated_at>
+      <description>Friend2Friend content distribution system for more or less controlled content distribution.
+
+Possible usage areas include:
+ * F2F filesharing
+ * Backend for distributed digital asset delivery
+ * Distribution of Software updates
+ * ...</description>
+      <homepage_url>http://www.bithorde.org</homepage_url>
+      <download_url>http://github.com/rawler/bithorde/archives/master</download_url>
+      <url_name>bithorde</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14610049</analysis_id>
+      <tags>
+        <tag>p2p</tag>
+        <tag>distributedsystem</tag>
+        <tag>dlanguage</tag>
+        <tag>tango</tag>
+        <tag>f2f</tag>
+      </tags>
+      <analysis>
+        <id>14610049</id>
+        <url>http://www.ohloh.net/analyses/14610049.xml</url>
+        <project_id>456342</project_id>
+        <updated_at>2013-07-19T16:51:33Z</updated_at>
+        <logged_at>2013-07-19T16:51:32Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>8880</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bithorde/analyses/14610049/languages.png">
+          <language color="F35F1F" percentage="85" id="44">
+C++          </language>
+          <language color="4A246B" percentage="6" id="9">
+Python          </language>
+          <language color="EEE" percentage="5" id="74">
+CMake          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

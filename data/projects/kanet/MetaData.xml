@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482890</id>
+      <name>kanet</name>
+      <url>http://www.ohloh.net/p/kanet.xml</url>
+      <html_url>http://www.ohloh.net/p/kanet</html_url>
+      <created_at>2010-05-09T08:07:07Z</created_at>
+      <updated_at>2013-07-05T03:47:04Z</updated_at>
+      <description>Kanet have been wrote in Metz University to provide wireless access to students, guest, &#8230; Kanet is based on Netfilter's lib from kernel, it allows to control connections via the &#8220;QUEUE&#8221;. Kanet should be used as a firewall with black or white list or as a captive portal.</description>
+      <homepage_url>http://code.google.com/p/kanet/</homepage_url>
+      <download_url></download_url>
+      <url_name>kanet</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14532313</analysis_id>
+      <tags>
+        <tag>captive_portal</tag>
+        <tag>hotspot</tag>
+        <tag>captiveportal</tag>
+        <tag>wifi</tag>
+        <tag>libsoup</tag>
+        <tag>firewall</tag>
+        <tag>vala</tag>
+        <tag>wireless</tag>
+      </tags>
+      <analysis>
+        <id>14532313</id>
+        <url>http://www.ohloh.net/analyses/14532313.xml</url>
+        <project_id>482890</project_id>
+        <updated_at>2013-07-18T19:26:43Z</updated_at>
+        <logged_at>2013-07-18T19:26:42Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>2471</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/kanet/analyses/14532313/languages.png">
+          <language color="729FCF" percentage="70" id="34">
+Vala          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="10" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

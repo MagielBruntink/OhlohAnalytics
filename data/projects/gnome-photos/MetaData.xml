@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597700</id>
+      <name>GNOME Photos</name>
+      <url>http://www.ohloh.net/p/gnome-photos.xml</url>
+      <html_url>http://www.ohloh.net/p/gnome-photos</html_url>
+      <created_at>2012-05-02T15:39:42Z</created_at>
+      <updated_at>2013-07-21T07:34:59Z</updated_at>
+      <description>An application to access, organize and share your photos on GNOME.
+
+Design: https://live.gnome.org/Design/Apps/Photos</description>
+      <homepage_url>http://projects.gnome.org/photos</homepage_url>
+      <download_url>http://download.gnome.org/sources/gnome-photos</download_url>
+      <url_name>gnome-photos</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14711895</analysis_id>
+      <analysis>
+        <id>14711895</id>
+        <url>http://www.ohloh.net/analyses/14711895.xml</url>
+        <project_id>597700</project_id>
+        <updated_at>2013-07-21T07:34:58Z</updated_at>
+        <logged_at>2013-07-21T07:22:38Z</logged_at>
+        <min_month>2012-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>37</twelve_month_contributor_count>
+        <total_code_lines>24276</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnome-photos/analyses/14711895/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585699</id>
+      <name>Backyard Brains</name>
+      <url>http://www.ohloh.net/p/byb.xml</url>
+      <html_url>http://www.ohloh.net/p/byb</html_url>
+      <created_at>2011-08-18T18:06:33Z</created_at>
+      <updated_at>2013-06-23T07:26:43Z</updated_at>
+      <description>When was the first time you heard the sound of a brain cell? Was it in elementary school, high school, or college? Chances are your answer is &quot;never,&quot; as we neuroscientists have typically had to go to major research universities and use expensive equipment to learn about and investigate the brain.
+
+With the SpikerBox (available open-source from http://backyardbrains.com) you can now listen to living neurons from insects. With this android app, you can view what the spikes of neurons look like and record it to your phone for later analysis. What used to take up a whole room you now have in your hand, and for cheap. Think of it!</description>
+      <homepage_url>http://www.backyardbrains.com</homepage_url>
+      <download_url>https://github.com/BackyardBrains/Backyard-Brains-Android-App</download_url>
+      <url_name>byb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14353568</analysis_id>
+      <analysis>
+        <id>14353568</id>
+        <url>http://www.ohloh.net/analyses/14353568.xml</url>
+        <project_id>585699</project_id>
+        <updated_at>2013-07-18T21:40:55Z</updated_at>
+        <logged_at>2013-07-18T21:40:53Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>15026</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/byb/analyses/14353568/languages.png">
+          <language color="47A400" percentage="74" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="18" id="5">
+Java          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

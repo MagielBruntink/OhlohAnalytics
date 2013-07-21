@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485089</id>
+      <name>openbiosprog-spi</name>
+      <url>http://www.ohloh.net/p/openbiosprog-spi.xml</url>
+      <html_url>http://www.ohloh.net/p/openbiosprog-spi</html_url>
+      <created_at>2010-08-30T19:33:08Z</created_at>
+      <updated_at>2013-07-04T08:53:23Z</updated_at>
+      <description>openbiosprog-spi is a fully Open Hardware and Free Software USB-based programmer for SPI chips, e.g. those used as BIOS chip in recent mainboards.
+
+The user-space source code is part of flashrom (GPL, version 2), the schematics and PCB layouts are licensed under the CC-BY-SA 3.0 license and were created using the open-source Kicad EDA suite (GPL, version 2).</description>
+      <homepage_url>http://randomprojects.org/wiki/Openbiosprog-spi</homepage_url>
+      <download_url>http://randomprojects.org/wiki/Openbiosprog-spi#Downloads</download_url>
+      <url_name>openbiosprog-spi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14524149</analysis_id>
+      <tags>
+        <tag>chip</tag>
+        <tag>opensource</tag>
+        <tag>rom</tag>
+        <tag>usb</tag>
+        <tag>layout</tag>
+        <tag>c</tag>
+        <tag>parallel</tag>
+        <tag>rs-274-x</tag>
+        <tag>gerbv</tag>
+        <tag>linux</tag>
+        <tag>gpl</tag>
+        <tag>programmer</tag>
+        <tag>kicad_design</tag>
+        <tag>soic</tag>
+        <tag>kicad</tag>
+        <tag>schematics</tag>
+        <tag>circuit</tag>
+        <tag>freesoftware</tag>
+        <tag>openhardware</tag>
+        <tag>flasher</tag>
+        <tag>so8</tag>
+        <tag>electronics</tag>
+        <tag>hardware</tag>
+        <tag>coreboot</tag>
+        <tag>bios</tag>
+        <tag>git</tag>
+        <tag>dip8</tag>
+        <tag>eda</tag>
+        <tag>pcb</tag>
+        <tag>spi</tag>
+        <tag>embedded</tag>
+        <tag>board</tag>
+        <tag>firmware</tag>
+        <tag>gerber</tag>
+        <tag>design</tag>
+        <tag>flashrom</tag>
+      </tags>
+      <analysis>
+        <id>14524149</id>
+        <url>http://www.ohloh.net/analyses/14524149.xml</url>
+        <project_id>485089</project_id>
+        <updated_at>2013-07-20T01:37:12Z</updated_at>
+        <logged_at>2013-07-20T01:37:10Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>844</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openbiosprog-spi/analyses/14524149/languages.png">
+          <language color="EEE" percentage="84" id="81">
+Modula-2          </language>
+          <language color="EEE" percentage="12" id="76">
+IDL/PV-WAVE/GDL          </language>
+          <language color="EEE" percentage="4" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>81</main_language_id>
+        <main_language_name>Modula-2</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>ccbysa3-0</name>
+          <nice_name>Creative Commons Attribution Share Alike 3.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

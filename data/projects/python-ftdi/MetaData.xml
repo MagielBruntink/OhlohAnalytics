@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>489037</id>
+      <name>Python Ftdi</name>
+      <url>http://www.ohloh.net/p/python-ftdi.xml</url>
+      <html_url>http://www.ohloh.net/p/python-ftdi</html_url>
+      <created_at>2011-04-04T18:28:54Z</created_at>
+      <updated_at>2013-07-20T12:07:52Z</updated_at>
+      <description>FTDI device driver written in pure Python
+
+PyFtdi aims at providing a user-space driver for modern FTDI devices, implemented in pure Python language.
+
+ * FT2232D (dual port, clock up to 6 MHz)
+ * FT2232H (dual port, clock up to 30 MHz)
+ * FT4232H (quad port, clock up to 30 MHz)
+
+Primary goals
+
+ * UART/Serial USB converter, up to 12Mbps (depending on the FTDI device capability)
+ * SPI master
+ * JTAG master
+ * Bitbang/GPIO support (not a primary goal)
+
+PyFtdi provides a pyserial compliant API, so it can be used as a drop-in module to access USB-serial converters based on FTDI devices.</description>
+      <homepage_url>https://github.com/eblot/pyftdi</homepage_url>
+      <download_url>http://pypi.python.org/pypi/pyftdi</download_url>
+      <url_name>python-ftdi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14698359</analysis_id>
+      <analysis>
+        <id>14698359</id>
+        <url>http://www.ohloh.net/analyses/14698359.xml</url>
+        <project_id>489037</project_id>
+        <updated_at>2013-07-20T12:07:52Z</updated_at>
+        <logged_at>2013-07-20T12:07:30Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>5127</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/python-ftdi/analyses/14698359/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

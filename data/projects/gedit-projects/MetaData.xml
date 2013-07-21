@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603255</id>
+      <name>Project manager for gedit</name>
+      <url>http://www.ohloh.net/p/gedit-projects.xml</url>
+      <html_url>http://www.ohloh.net/p/gedit-projects</html_url>
+      <created_at>2012-07-06T19:00:35Z</created_at>
+      <updated_at>2013-06-24T16:17:29Z</updated_at>
+      <description>For this plugin a project is just a directory path. A list of last opened
+files is stored in the user config directory. In the project directory itself
+no data is stored or changed by the plugin. In the sidebar are two lists:
+ * Open Projects: projects with at least one open file
+ * All projects: project directories that are known to the plugin,
+   projects that contain subprojects are shown in a tree structure.
+
+In the context menu you can perform some actions, including:
+ * Open Project: restore all recently opened files of a project
+ * View Project Folder: the project folder is opened with the default program
+ * Close Project: all project files are closed (the file list is preserved)
+ * Add Folder, remove Folder: specify which folders are known as a project
+ * Find Subprojects: search w</description>
+      <homepage_url>https://launchpad.net/gedit-projects</homepage_url>
+      <download_url>https://launchpad.net/gedit-projects/+download</download_url>
+      <url_name>gedit-projects</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14382584</analysis_id>
+      <tags>
+        <tag>projectmanager</tag>
+        <tag>projects</tag>
+        <tag>python</tag>
+        <tag>gedit</tag>
+        <tag>geditplugin</tag>
+        <tag>plugin</tag>
+      </tags>
+      <analysis>
+        <id>14382584</id>
+        <url>http://www.ohloh.net/analyses/14382584.xml</url>
+        <project_id>603255</project_id>
+        <updated_at>2013-07-18T23:25:28Z</updated_at>
+        <logged_at>2013-07-18T23:25:19Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2145</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gedit-projects/analyses/14382584/languages.png">
+          <language color="4A246B" percentage="74" id="9">
+Python          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

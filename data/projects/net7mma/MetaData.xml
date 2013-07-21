@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>634287</id>
+      <name>Managed Media Aggregation</name>
+      <url>http://www.ohloh.net/p/net7mma.xml</url>
+      <html_url>http://www.ohloh.net/p/net7mma</html_url>
+      <created_at>2013-03-16T05:34:52Z</created_at>
+      <updated_at>2013-07-11T17:36:07Z</updated_at>
+      <description>Delivering media to clients can be a complex and expensive process. This project's goal is to allow developers to deliver media to clients freely in less then 10 lines of code utilizing standards complaint protocol implementations. It also aims to provide a re-usable set of classes for working with Rtsp and Rtp/Rtcp and Sdp.
+
+aggregation  audio  IEEE1733  Media  RFC2032  RFC2326  RFC2435  RFC3550  RFC3611  RFC4566  RFC4571  RFC4585  RFC5450  RFC5760  RTCP  RTP  rtpdump  RTSP  Sdp  server  streaming  video</description>
+      <homepage_url>http://net7mma.codeplex.com/</homepage_url>
+      <download_url>http://net7mma.codeplex.com/releases/view/99094</download_url>
+      <url_name>net7mma</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>13084408</analysis_id>
+      <tags>
+        <tag>rfc5760</tag>
+        <tag>rfc4585</tag>
+        <tag>rfc4566</tag>
+        <tag>rfc3550</tag>
+        <tag>rfc2326</tag>
+        <tag>media</tag>
+        <tag>audio</tag>
+        <tag>video</tag>
+        <tag>rtsp</tag>
+        <tag>rtp</tag>
+        <tag>sdp</tag>
+        <tag>aggregation</tag>
+        <tag>ieee1733</tag>
+        <tag>rfc2032</tag>
+        <tag>rfc2435</tag>
+        <tag>rfc3611</tag>
+        <tag>rfc4571</tag>
+        <tag>rfc5450</tag>
+        <tag>rtcp</tag>
+        <tag>rtpdump</tag>
+      </tags>
+      <analysis>
+        <id>13084408</id>
+        <url>http://www.ohloh.net/analyses/13084408.xml</url>
+        <project_id>634287</project_id>
+        <updated_at>2013-03-16T06:03:13Z</updated_at>
+        <logged_at>2013-03-16T05:37:00Z</logged_at>
+        <min_month>2012-12-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>8789</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/net7mma/analyses/13084408/languages.png">
+          <language color="4096EE" percentage="98" id="17">
+C#          </language>
+          <language color="555555" percentage="2" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

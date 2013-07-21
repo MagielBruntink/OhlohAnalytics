@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>38564</id>
+      <name>RosCMS</name>
+      <url>http://www.ohloh.net/p/roscms.xml</url>
+      <html_url>http://www.ohloh.net/p/roscms</html_url>
+      <created_at>2008-12-13T05:35:47Z</created_at>
+      <updated_at>2013-02-18T11:19:41Z</updated_at>
+      <description>RosCMS is PHP based website Content Management System designed for ReactOS website.
+RosCMS is used to manage the ReactOS website and in near future additionally to maintain the ReactOS translation work. It is a very flexible web based system. The core parts of the software are the flexible database layout and the dynamic interface that consist of a bunch of filters. The end user can costumize his/her own workflow by changing the filter settings or choose one of the predefined views (which consist itself of filters internally).</description>
+      <homepage_url>http://www.reactos.org/en/roscms.html</homepage_url>
+      <download_url>http://svn.reactos.org/downloads/roscms/roscms_v3_20070917_beta.zip</download_url>
+      <url_name>roscms</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>12732634</analysis_id>
+      <analysis>
+        <id>12732634</id>
+        <url>http://www.ohloh.net/analyses/12732634.xml</url>
+        <project_id>38564</project_id>
+        <updated_at>2013-03-06T18:39:08Z</updated_at>
+        <logged_at>2013-03-06T18:39:03Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2012-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>1004159</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/roscms/analyses/12732634/languages.png">
+          <language color="356AA0" percentage="84" id="2">
+PHP          </language>
+          <language color="000000" percentage="16" id="">
+13 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

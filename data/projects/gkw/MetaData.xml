@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603067</id>
+      <name>gkw</name>
+      <url>http://www.ohloh.net/p/gkw.xml</url>
+      <html_url>http://www.ohloh.net/p/gkw</html_url>
+      <created_at>2012-06-29T09:01:21Z</created_at>
+      <updated_at>2013-07-21T05:56:17Z</updated_at>
+      <description>Gyro-kinetic simulation code for the study of turbulence in magnetised plasmas. A tool for fusion energy research.</description>
+      <homepage_url>https://code.google.com/p/gkw/</homepage_url>
+      <download_url>https://code.google.com/p/gkw/downloads/list</download_url>
+      <url_name>gkw</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/55884/flux_tube_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/55884/flux_tube_logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14711272</analysis_id>
+      <tags>
+        <tag>hpc</tag>
+        <tag>openmp</tag>
+        <tag>mpi</tag>
+        <tag>plasma-physics</tag>
+        <tag>physicssimulation</tag>
+        <tag>fortran90</tag>
+        <tag>physics</tag>
+        <tag>gyrokinetic</tag>
+        <tag>mpi-2</tag>
+        <tag>high_performance_computing</tag>
+        <tag>turbulence</tag>
+      </tags>
+      <analysis>
+        <id>14711272</id>
+        <url>http://www.ohloh.net/analyses/14711272.xml</url>
+        <project_id>603067</project_id>
+        <updated_at>2013-07-21T05:56:16Z</updated_at>
+        <logged_at>2013-07-21T05:55:29Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>52465</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gkw/analyses/14711272/languages.png">
+          <language color="4d41b1" percentage="68" id="41">
+Fortran (Free-format)          </language>
+          <language color="A46400" percentage="13" id="23">
+Matlab          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="000000" percentage="12" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>41</main_language_id>
+        <main_language_name>Fortran (Free-format)</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

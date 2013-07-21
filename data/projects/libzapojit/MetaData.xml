@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602440</id>
+      <name>libzapojit</name>
+      <url>http://www.ohloh.net/p/libzapojit.xml</url>
+      <html_url>http://www.ohloh.net/p/libzapojit</html_url>
+      <created_at>2012-06-06T14:14:33Z</created_at>
+      <updated_at>2013-07-08T01:49:04Z</updated_at>
+      <description>GLib/GObject wrapper for the SkyDrive and Hotmail REST APIs
+
+SkyDrive: http://msdn.microsoft.com/en-us/library/live/hh826521
+Hotmail: http://msdn.microsoft.com/en-us/library/live/hh826535
+Core Concepts: http://msdn.microsoft.com/en-us/library/live/hh826528
+
+Zapojit is a Czech word that means &#8220;connect&#8221;.</description>
+      <homepage_url></homepage_url>
+      <download_url>http://download.gnome.org/sources/libzapojit/</download_url>
+      <url_name>libzapojit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14565749</analysis_id>
+      <analysis>
+        <id>14565749</id>
+        <url>http://www.ohloh.net/analyses/14565749.xml</url>
+        <project_id>602440</project_id>
+        <updated_at>2013-07-21T07:22:36Z</updated_at>
+        <logged_at>2013-07-21T07:22:34Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2299</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libzapojit/analyses/14565749/languages.png">
+          <language color="FF8F00" percentage="73" id="42">
+C          </language>
+          <language color="F35F1F" percentage="17" id="44">
+C++          </language>
+          <language color="EEE" percentage="7" id="50">
+Automake          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488156</id>
+      <name>Detoxify</name>
+      <url>http://www.ohloh.net/p/detoxify.xml</url>
+      <html_url>http://www.ohloh.net/p/detoxify</html_url>
+      <created_at>2011-02-16T19:30:38Z</created_at>
+      <updated_at>2013-06-25T18:51:14Z</updated_at>
+      <description>Detoxify is a command line script written in Ruby for the sole purpose of removing any traces left by version control systems. These traces include hidden files and directories.</description>
+      <homepage_url>http://detoxify.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/projects/detoxify/</download_url>
+      <url_name>detoxify</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41400/Danger-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41400/Danger-64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14407332</analysis_id>
+      <tags>
+        <tag>vcs</tag>
+        <tag>terminal</tag>
+        <tag>script</tag>
+        <tag>ruby</tag>
+      </tags>
+      <analysis>
+        <id>14407332</id>
+        <url>http://www.ohloh.net/analyses/14407332.xml</url>
+        <project_id>488156</project_id>
+        <updated_at>2013-07-20T22:41:40Z</updated_at>
+        <logged_at>2013-07-20T22:41:39Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>206</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/detoxify/analyses/14407332/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484697</id>
+      <name>Git Guardian</name>
+      <url>http://www.ohloh.net/p/git-guardian.xml</url>
+      <html_url>http://www.ohloh.net/p/git-guardian</html_url>
+      <created_at>2010-08-10T23:39:49Z</created_at>
+      <updated_at>2013-06-25T01:00:51Z</updated_at>
+      <description>Git Guardian is designed to use Git the way it was not meant to.
+
+Problem:
+
+Many popular third party web applications have security issues which can be difficult to patch (Even using the most 
+recent version). Not all of my friends are code masters and able to seal leaks - but attempt to be web masters anyways 
+and as a result have very angry customers whos sites continue to get hacked.
+
+GIT GUARDIAN!</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>git-guardian</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/36125/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/36125/icon_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14391331</analysis_id>
+      <analysis>
+        <id>14391331</id>
+        <url>http://www.ohloh.net/analyses/14391331.xml</url>
+        <project_id>484697</project_id>
+        <updated_at>2013-07-20T04:20:40Z</updated_at>
+        <logged_at>2013-07-20T04:20:38Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6855</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/git-guardian/analyses/14391331/languages.png">
+          <language color="A4007E" percentage="76" id="6">
+JavaScript          </language>
+          <language color="356AA0" percentage="17" id="2">
+PHP          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>423688</id>
+      <name>embperl</name>
+      <url>http://www.ohloh.net/p/embperl.xml</url>
+      <html_url>http://www.ohloh.net/p/embperl</html_url>
+      <created_at>2009-09-02T06:04:35Z</created_at>
+      <updated_at>2013-07-18T11:57:54Z</updated_at>
+      <description>Embperl</description>
+      <homepage_url>http://code.google.com/p/embperl/</homepage_url>
+      <download_url></download_url>
+      <url_name>embperl</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14676080</analysis_id>
+      <tags>
+        <tag>embperl</tag>
+        <tag>perl</tag>
+        <tag>mod_perl</tag>
+      </tags>
+      <analysis>
+        <id>14676080</id>
+        <url>http://www.ohloh.net/analyses/14676080.xml</url>
+        <project_id>423688</project_id>
+        <updated_at>2013-07-18T11:57:54Z</updated_at>
+        <logged_at>2013-07-18T11:57:24Z</logged_at>
+        <min_month>1998-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>61567</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/embperl/analyses/14676080/languages.png">
+          <language color="FF8F00" percentage="31" id="42">
+C          </language>
+          <language color="47A400" percentage="21" id="1">
+HTML          </language>
+          <language color="D2C690" percentage="39" id="8">
+Perl          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

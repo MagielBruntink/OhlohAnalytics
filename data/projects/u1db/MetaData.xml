@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603196</id>
+      <name>U1DB</name>
+      <url>http://www.ohloh.net/p/u1db.xml</url>
+      <html_url>http://www.ohloh.net/p/u1db</html_url>
+      <created_at>2012-07-04T16:44:50Z</created_at>
+      <updated_at>2013-07-12T17:33:58Z</updated_at>
+      <description>Documentation at http://packages.python.org/u1db
+
+Contacting the U1DB team:
+#u1db on freenode IRC
+Join the mailing list at https://launchpad.net/~u1db-discuss</description>
+      <homepage_url>https://launchpad.net/u1db</homepage_url>
+      <download_url></download_url>
+      <url_name>u1db</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14608162</analysis_id>
+      <analysis>
+        <id>14608162</id>
+        <url>http://www.ohloh.net/analyses/14608162.xml</url>
+        <project_id>603196</project_id>
+        <updated_at>2013-07-18T05:28:16Z</updated_at>
+        <logged_at>2013-07-18T05:28:04Z</logged_at>
+        <min_month>2011-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>19785</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/u1db/analyses/14608162/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="30" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>
