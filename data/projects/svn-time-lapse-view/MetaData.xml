@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11525</id>
+      <name>svn-time-lapse-view</name>
+      <url>http://www.ohloh.net/p/svn-time-lapse-view.xml</url>
+      <html_url>http://www.ohloh.net/p/svn-time-lapse-view</html_url>
+      <created_at>2008-02-06T08:58:05Z</created_at>
+      <updated_at>2013-07-11T22:03:53Z</updated_at>
+      <description>SVN Time-Lapse View is a cross-platform viewer that downloads all revisions of a file and lets you scroll through them by dragging a slider. As you scroll, you are shown a visual diff of the current revision and the previous revision. Thus you can see how a file evolved, and you can easily find the revision at which lines appeared, disappeared, or changed.
+
+Time-Lapse View is a powerful visual alternative to the Subversion &quot;blame&quot; command. It is inspired by the excellent Time-Lapse View in the Perforce version-control system.</description>
+      <homepage_url>http://code.google.com/p/svn-time-lapse-view/</homepage_url>
+      <download_url>http://code.google.com/p/svn-time-lapse-view/downloads/list</download_url>
+      <url_name>svn-time-lapse-view</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14594530</analysis_id>
+      <tags>
+        <tag>subversion</tag>
+        <tag>svn</tag>
+        <tag>revision_control</tag>
+        <tag>diff</tag>
+      </tags>
+      <analysis>
+        <id>14594530</id>
+        <url>http://www.ohloh.net/analyses/14594530.xml</url>
+        <project_id>11525</project_id>
+        <updated_at>2013-07-20T02:15:17Z</updated_at>
+        <logged_at>2013-07-20T02:15:15Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2008-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2213</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/svn-time-lapse-view/analyses/14594530/languages.png">
+          <language color="9A63AD" percentage="100" id="5">
+Java          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

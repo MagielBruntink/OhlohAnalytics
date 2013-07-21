@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487710</id>
+      <name>offrss</name>
+      <url>http://www.ohloh.net/p/offrss.xml</url>
+      <html_url>http://www.ohloh.net/p/offrss</html_url>
+      <created_at>2011-01-22T21:07:13Z</created_at>
+      <updated_at>2013-03-19T22:31:30Z</updated_at>
+      <description>Standalone program that can download your favourite feeds, and then show them in your favourite web browser spawning a simple local web server. It will not only download the feeds text, but also the pictures, so you will be able to read offline also comics stripes and enjoy the posts with pictures in them. It remembers what you read and what not, and all the information stays in normal files, so you can synchronise that easily to any device that may not have an internet connection. It can also work as a CGI to serve your feeds in your website, and can update the feeds from crontab. It has few dependencies to build and can be cross compiled easily.</description>
+      <homepage_url>http://vicerveza.homeunix.net/~viric/cgi-bin/offrss</homepage_url>
+      <download_url>http://vicerveza.homeunix.net/~viric/cgi-bin/offrss</download_url>
+      <url_name>offrss</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id></analysis_id>
+      <tags>
+        <tag>rss</tag>
+        <tag>aggregator</tag>
+        <tag>c</tag>
+        <tag>atom</tag>
+        <tag>offline</tag>
+        <tag>webserver</tag>
+        <tag>cgi</tag>
+      </tags>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

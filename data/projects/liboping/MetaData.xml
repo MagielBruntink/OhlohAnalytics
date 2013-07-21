@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5772</id>
+      <name>liboping</name>
+      <url>http://www.ohloh.net/p/liboping.xml</url>
+      <html_url>http://www.ohloh.net/p/liboping</html_url>
+      <created_at>2007-06-03T19:49:45Z</created_at>
+      <updated_at>2013-07-05T09:49:58Z</updated_at>
+      <description>liboping is a C library to generate ICMP echo requests, better known as &quot;ping packets&quot;. It is intended for use in network monitoring applications or applications that would otherwise need to fork ping(1) frequently. Included is a sample application, called oping, which demostrates the library's abilities. It is like ping, ping6, and fping rolled into one.
+
+liboping was inspired by ping,  libping and fping: It differs from these existing solutions in that it can `ping' multiple hosts in parallel using IPv4 or IPv6 transparently. Other design principles were an object oriented interface, simplicity and extensibility.</description>
+      <homepage_url>http://verplant.org/liboping/</homepage_url>
+      <download_url>http://verplant.org/liboping/#download</download_url>
+      <url_name>liboping</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14534822</analysis_id>
+      <analysis>
+        <id>14534822</id>
+        <url>http://www.ohloh.net/analyses/14534822.xml</url>
+        <project_id>5772</project_id>
+        <updated_at>2013-07-20T06:20:57Z</updated_at>
+        <logged_at>2013-07-20T06:20:55Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3420</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/liboping/analyses/14534822/languages.png">
+          <language color="FF8F00" percentage="65" id="42">
+C          </language>
+          <language color="D2C690" percentage="26" id="8">
+Perl          </language>
+          <language color="000000" percentage="9" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

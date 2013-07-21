@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21048</id>
+      <name>libset</name>
+      <url>http://www.ohloh.net/p/libset.xml</url>
+      <html_url>http://www.ohloh.net/p/libset</html_url>
+      <created_at>2008-10-07T13:40:12Z</created_at>
+      <updated_at>2013-07-01T01:51:05Z</updated_at>
+      <description>The aim of this project is to store the latest versions of common libraries. 
+
+You can then use the library in your project with svn:externals 
+
+Leave me comments and suggestions here. 
+
+bzip2 - license: Bzip2 - download 
+
+bzip2 (latest) - SVN bzip2-1.0.4 - SVN 
+
+jpeg license: LibJPEG / BSD - download 
+
+jpeg (latest) - SVN jpeg-6b - SVN 
+
+js - DEPRECATED - license: MPL 1.1 / GPL 2.0 / LGPL 2.1 - download 
+
+js (latest) - SVN js-1.7.0 - SVN 
+
+SpiderMonkey - license: MPL 1.1 / GPL 2.0 / LGPL 2.1 - download 
+
+js (latest) - SVN 
+
+libpng - license: zlib / libpng - download 
+
+libpng (latest) - SVN libpng-1.2.23 - SVN 
+
+libtomcrypt - license: Public Domain - download 
+
+libtomcrypt (latest) - SVN libtomcrypt-1.17 - SVN libtomcrypt-1.16 - SVN 
+
+libtommath - license: Public Domain - download 
+
+libtommath (latest) - SVN libtommath-0.41 - SVN libtommath-0.39 - SVN 
+
+nspr - license: MPL 1.1 / GPL 2.0 / LGPL 2.1 - download 
+
+nspr (latest) - SVN nspr-4.8 - SVN nspr-4.7.1 - SVN nspr-4.7 - SVN nspr-4.6.7 - SVN 
+
+ode - license: BSD / LGPL - download 
+
+ode (latest) - SVN ode-0.11.1 - SVN ode-0.9 - SVN ode-060223 - SVN ode-0.10.1 - SVN 
+
+sqlite - license: Public Domain - download 
+
+sqlite (latest) - SVN sqlite-3.5.4 - SVN sqlite-3.5.3 - SVN 
+
+sqlite-amalgamation - license: Public Domain - download 
+
+sqlite-amalgamation (latest) - SVN sqlite-amalgamation-3.6.18 - SVN sqlite-amalgamation-3.6.14.1 - SVN sqlite-amalgamation-3.5.9 - SVN sqlite-amalgamation-3.5.4 - SVN sqlite-amalgamation-3.5.3 - SVN 
+
+zlib - license: zlib license - download 
+
+zlib (latest) - SVN zlib-1.2.3 - SVN 
+
+libffi - license: license - download 
+
+libffi (latest) - SVN libffi-3.0.4 - SVN 
+
+freetype - license: GNU GPL / FreeType License - download 
+
+freetype (latest) - SVN freetype-2.3.6 - SVN freetype-2.3.5 - SVN 
+
+libvorbis - license: BSD-like - download 
+
+libvorbis (latest) - SVN libvorbis-1.2.0 - SVN 
+
+libogg - license: BSD-like - download 
+
+libogg (latest) - SVN libogg-1.1.3 - SVN 
+
+libsndfile - license: LGPL - download 
+
+libsndfile (latest) - SVN libsndfile-1.0.17 - SVN 
+
+gloox - license: GPL2 - download 
+
+gloox (latest) - SVN gloox-0.9.9.5 - SVN 
+
+libxml2 - license: MIT - download 
+
+libxml2 (latest) - SVN libxml2-2.7.1 - SVN 
+
+librsvg - license: GPL - download 
+
+librsvg (latest) - SVN librsvg-2.22.3 - SVN 
+
+glib - license: LGPL - download 
+
+glib (latest) - SVN glib-2.18.1 - SVN 
+
+libiconv - license: LGPL - download 
+
+libiconv-1.11.1 - SVN 
+
+cairo - license: LGPL - download 
+
+cairo-1.8.0 - SVN 
+
+pixman - license: LGPL - download 
+
+pixman-0.12.0 - SVN 
+
+pango - license: LGPL - download 
+
+pango-1.22.0 - SVN 
+
+gdk-pixbuf - license: LGPL -  download 
+
+gdk-pixbuf-2.14.3 - SVN 
+
+SDL - license: LGPL -  download 
+
+SDL-1.2.13 - SVN 
+
+- TRUNK -</description>
+      <homepage_url>http://code.google.com/p/libset</homepage_url>
+      <download_url></download_url>
+      <url_name>libset</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14489411</analysis_id>
+      <tags>
+        <tag>external</tag>
+        <tag>svn</tag>
+        <tag>libraries</tag>
+      </tags>
+      <analysis>
+        <id>14489411</id>
+        <url>http://www.ohloh.net/analyses/14489411.xml</url>
+        <project_id>21048</project_id>
+        <updated_at>2013-07-19T11:48:38Z</updated_at>
+        <logged_at>2013-07-19T11:48:35Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8003392</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libset/analyses/14489411/languages.png">
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="EEE" percentage="14" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="19" id="44">
+C++          </language>
+          <language color="000000" percentage="22" id="">
+28 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

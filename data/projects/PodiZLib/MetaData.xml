@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>471973</id>
+      <name>Podi ZLib Data Compression Library</name>
+      <url>http://www.ohloh.net/p/PodiZLib.xml</url>
+      <html_url>http://www.ohloh.net/p/PodiZLib</html_url>
+      <created_at>2009-11-04T22:26:47Z</created_at>
+      <updated_at>2013-06-22T14:25:07Z</updated_at>
+      <description>ZLib 1.2.3 wrapper for Delphi language. It works on latest Delphi 2010 too.</description>
+      <homepage_url>http://podizlib.sourceforge.net/</homepage_url>
+      <download_url>https://sourceforge.net/projects/podizlib/files/Current/PodiZLib-1.0.zip/download</download_url>
+      <url_name>PodiZLib</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/26711/zlib_ddj_1__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/26711/zlib_ddj_1__small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14343571</analysis_id>
+      <tags>
+        <tag>gz</tag>
+        <tag>uncompression</tag>
+        <tag>inflate</tag>
+        <tag>decompression</tag>
+        <tag>delphi</tag>
+        <tag>delphi2010</tag>
+        <tag>deflate</tag>
+        <tag>compression</tag>
+        <tag>gzip</tag>
+        <tag>zlib</tag>
+      </tags>
+      <analysis>
+        <id>14343571</id>
+        <url>http://www.ohloh.net/analyses/14343571.xml</url>
+        <project_id>471973</project_id>
+        <updated_at>2013-07-17T14:22:45Z</updated_at>
+        <logged_at>2013-07-17T14:22:37Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4087</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/PodiZLib/analyses/14343571/languages.png">
+          <language color="D15600" percentage="100" id="14">
+Pascal          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

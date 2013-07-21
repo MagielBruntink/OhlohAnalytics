@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487156</id>
+      <name>junkie</name>
+      <url>http://www.ohloh.net/p/junkie_sniffer.xml</url>
+      <html_url>http://www.ohloh.net/p/junkie_sniffer</html_url>
+      <created_at>2010-12-21T14:35:42Z</created_at>
+      <updated_at>2013-07-19T18:28:50Z</updated_at>
+      <description>Meet Junkie the network sniffer!
+
+As the heart of SecurActive network performance monitoring application
+lies a real-time packet sniffer and analyzer. Modular enough to accomplish
+many different tasks, we believe this tool can be a helpful companion
+to the modern network administrator and analyst, and so we decided to offer it
+to the public under a liberal license so that the Open Source community can
+use it, play with it, and extend it with whatever feature is deemed
+appropriate.
+
+Compared to previously available tools junkie lies in between tcpdump and
+wireshark. Unlike tcpdump, its purpose is to parse protocols of any depth;
+unlike wireshark, through, junkie is designed to analyze traffic in real-time
+and so cannot parse traffic as completely as wireshark does.</description>
+      <homepage_url>http://github.com/securactive/junkie/</homepage_url>
+      <download_url>http://github.com/securactive/junkie/archives/master</download_url>
+      <url_name>junkie_sniffer</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49339/octopus_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49339/octopus_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14644324</analysis_id>
+      <tags>
+        <tag>pcap</tag>
+        <tag>sniffer</tag>
+        <tag>networkmonitoring</tag>
+      </tags>
+      <analysis>
+        <id>14644324</id>
+        <url>http://www.ohloh.net/analyses/14644324.xml</url>
+        <project_id>487156</project_id>
+        <updated_at>2013-07-15T23:27:42Z</updated_at>
+        <logged_at>2013-07-15T23:27:09Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>40844</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/junkie_sniffer/analyses/14644324/languages.png">
+          <language color="FF8F00" percentage="78" id="42">
+C          </language>
+          <language color="90C0D2" percentage="11" id="20">
+Scheme          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

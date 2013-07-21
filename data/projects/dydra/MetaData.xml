@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>524941</id>
+      <name>Dydra</name>
+      <url>http://www.ohloh.net/p/dydra.xml</url>
+      <html_url>http://www.ohloh.net/p/dydra</html_url>
+      <created_at>2011-04-27T17:26:06Z</created_at>
+      <updated_at>2013-07-19T20:24:58Z</updated_at>
+      <description>Dydra.com software development kit (SDK) for various programming languages.</description>
+      <homepage_url>http://docs.dydra.com/sdk</homepage_url>
+      <download_url>https://github.com/dydra</download_url>
+      <url_name>dydra</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43229/dydra-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43229/dydra-logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14526984</analysis_id>
+      <tags>
+        <tag>javascript</tag>
+        <tag>php</tag>
+        <tag>ruby</tag>
+        <tag>rdf</tag>
+        <tag>dydra</tag>
+        <tag>sdk</tag>
+        <tag>sparql</tag>
+        <tag>python</tag>
+        <tag>java</tag>
+        <tag>lisp</tag>
+      </tags>
+      <analysis>
+        <id>14526984</id>
+        <url>http://www.ohloh.net/analyses/14526984.xml</url>
+        <project_id>524941</project_id>
+        <updated_at>2013-07-20T07:39:54Z</updated_at>
+        <logged_at>2013-07-20T07:35:57Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5313</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dydra/analyses/14526984/languages.png">
+          <language color="9A63AD" percentage="43" id="5">
+Java          </language>
+          <language color="A40011" percentage="31" id="12">
+Ruby          </language>
+          <language color="93D290" percentage="13" id="22">
+Lisp          </language>
+          <language color="000000" percentage="13" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Public_Domain</name>
+          <nice_name>Public Domain / GPL When Compiled</nice_name>
+        </license>
+        <license>
+          <name>unlicense</name>
+          <nice_name>Unlicense</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

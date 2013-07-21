@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>634267</id>
+      <name>AzaCliBase</name>
+      <url>http://www.ohloh.net/p/AzaCliBase.xml</url>
+      <html_url>http://www.ohloh.net/p/AzaCliBase</html_url>
+      <created_at>2013-03-15T21:30:25Z</created_at>
+      <updated_at>2013-06-30T00:02:19Z</updated_at>
+      <description>Anizoptera CMF component with basic functionality and helper methods for CLI and Daemon applications (forks, libevent, etc..).</description>
+      <homepage_url>https://github.com/Anizoptera/AzaCliBase</homepage_url>
+      <download_url>https://github.com/Anizoptera/AzaCliBase/archive/master.zip</download_url>
+      <url_name>AzaCliBase</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14469292</analysis_id>
+      <tags>
+        <tag>signal_processing</tag>
+        <tag>signal</tag>
+        <tag>pcntl</tag>
+        <tag>fork</tag>
+        <tag>helper</tag>
+        <tag>cli</tag>
+        <tag>daemon</tag>
+        <tag>utility</tag>
+        <tag>posix</tag>
+        <tag>libevent</tag>
+        <tag>exit_code</tag>
+      </tags>
+      <analysis>
+        <id>14469292</id>
+        <url>http://www.ohloh.net/analyses/14469292.xml</url>
+        <project_id>634267</project_id>
+        <updated_at>2013-07-20T19:59:11Z</updated_at>
+        <logged_at>2013-07-20T19:59:09Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>256</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/AzaCliBase/analyses/14469292/languages.png">
+          <language color="356AA0" percentage="94" id="2">
+PHP          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

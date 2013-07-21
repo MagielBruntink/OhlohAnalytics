@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633254</id>
+      <name>yetris</name>
+      <url>http://www.ohloh.net/p/yetris.xml</url>
+      <html_url>http://www.ohloh.net/p/yetris</html_url>
+      <created_at>2013-02-13T16:42:01Z</created_at>
+      <updated_at>2013-06-25T15:16:28Z</updated_at>
+      <description>yetris is a Tetris(tm) clone on the terminal. It has colors and highscore, along with many features found on modern Tetris(tm) implementations. It's made with C and runs on (most) Linux terminals.
+
+Some features:
+  * Colored textual interface - playable on the console;
+  * Hold and up to 5 next pieces;
+  * Combo and back-to-back sequences;
+  * Scoring system compliant to the (conjectured) Tetris(tm) Guideline;
+
+For now it attempts to be as close as any modern Tetris(tm) game as possible. It lacks some expected features but it's on active development.
+
+Also, the source code is clean and commented, allowing much better understanding and easing feature-implementation.</description>
+      <homepage_url>http://alexdantas.github.com/yetris/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=1278736</download_url>
+      <url_name>yetris</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62738/yetris-logo-new_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62738/yetris-logo-new_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14405049</analysis_id>
+      <tags>
+        <tag>gpl</tag>
+        <tag>game</tag>
+        <tag>console</tag>
+        <tag>c</tag>
+        <tag>ncurses</tag>
+        <tag>tetris</tag>
+        <tag>terminal</tag>
+        <tag>linux</tag>
+        <tag>unix</tag>
+      </tags>
+      <analysis>
+        <id>14405049</id>
+        <url>http://www.ohloh.net/analyses/14405049.xml</url>
+        <project_id>633254</project_id>
+        <updated_at>2013-07-20T08:48:10Z</updated_at>
+        <logged_at>2013-07-20T08:48:08Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>4315</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/yetris/analyses/14405049/languages.png">
+          <language color="FF8F00" percentage="97" id="42">
+C          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl_classpath</name>
+          <nice_name>GPL + Classpath Exception</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

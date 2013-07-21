@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482278</id>
+      <name>Baruwa</name>
+      <url>http://www.ohloh.net/p/baruwa.xml</url>
+      <html_url>http://www.ohloh.net/p/baruwa</html_url>
+      <created_at>2010-04-06T06:53:59Z</created_at>
+      <updated_at>2013-06-20T12:21:38Z</updated_at>
+      <description>Baruwa (swahili for letter or mail) is a web 2.0 MailScanner front-end. 
+
+It provides an easy to use interface for managing a MailScanner installation. It is used to perform operations such as releasing quarantined messages, spam learning, whitelisting and blacklisting addresses, monitoring the health of the services etc. Baruwa is implemented 
+using web 2.0 features (AJAX) where deemed fit, graphing is also implemented on the client side using SVG, Silverlight or VML.
+
+It includes reporting functionality with an easy to use query builder, results can be displayed as message lists or graphed as colorful and pretty interactive graphs.
+
+Custom MailScanner modules are provided to allow for logging of messages to the mysql database with SQLite as backup and for managing whitelists &amp; blacklists</description>
+      <homepage_url>http://www.baruwa.org</homepage_url>
+      <download_url>http://pypi.python.org/pypi/baruwa</download_url>
+      <url_name>baruwa</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/33457/logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/33457/logo_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14317856</analysis_id>
+      <tags>
+        <tag>mail</tag>
+        <tag>log_analysis</tag>
+        <tag>spamassassin</tag>
+        <tag>monitoring</tag>
+        <tag>mailscanner</tag>
+        <tag>filter</tag>
+        <tag>scanner</tag>
+        <tag>logs</tag>
+        <tag>antispam</tag>
+        <tag>watch</tag>
+        <tag>log</tag>
+        <tag>logging</tag>
+        <tag>spam</tag>
+        <tag>email</tag>
+        <tag>security</tag>
+        <tag>monitor</tag>
+        <tag>bayesian</tag>
+        <tag>analytic</tag>
+      </tags>
+      <analysis>
+        <id>14317856</id>
+        <url>http://www.ohloh.net/analyses/14317856.xml</url>
+        <project_id>482278</project_id>
+        <updated_at>2013-07-16T19:31:50Z</updated_at>
+        <logged_at>2013-07-16T19:27:39Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>64579</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/baruwa/analyses/14317856/languages.png">
+          <language color="4A246B" percentage="51" id="9">
+Python          </language>
+          <language color="47A400" percentage="20" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="11" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="18" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

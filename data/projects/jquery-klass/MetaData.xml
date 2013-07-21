@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>20730</id>
+      <name>jquery-klass</name>
+      <url>http://www.ohloh.net/p/jquery-klass.xml</url>
+      <html_url>http://www.ohloh.net/p/jquery-klass</html_url>
+      <created_at>2008-10-07T13:24:28Z</created_at>
+      <updated_at>2013-06-24T16:10:01Z</updated_at>
+      <description>Full class implementation in JavaScript through jQuery. 
+
+Light (Under 1 KB). Over half the time was spent reducing code-size. Supports Inheritance Support Calling super methods Constructors Faster than &quot;module&quot; pattern Light syntax Saves memory compared to &quot;module&quot; pattern (1 or 1000 instances all share same methods) Short jQuery syntax like &quot;$.klass&quot;, &quot;.init&quot;,  Mixin support (like Perl, Python, Ruby) Multiple levels of inheritance (some JavaScript libraries only support one level of inheritance) Built in ability to bind methods to events while preserving 'this' Ability to bind event object to pass through to object methods</description>
+      <homepage_url>http://code.google.com/p/jquery-klass</homepage_url>
+      <download_url></download_url>
+      <url_name>jquery-klass</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14382561</analysis_id>
+      <tags>
+        <tag>klass</tag>
+        <tag>jquery</tag>
+        <tag>class</tag>
+        <tag>javascript</tag>
+      </tags>
+      <analysis>
+        <id>14382561</id>
+        <url>http://www.ohloh.net/analyses/14382561.xml</url>
+        <project_id>20730</project_id>
+        <updated_at>2013-07-19T15:14:28Z</updated_at>
+        <logged_at>2013-07-19T15:14:26Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2007-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jquery-klass/analyses/14382561/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

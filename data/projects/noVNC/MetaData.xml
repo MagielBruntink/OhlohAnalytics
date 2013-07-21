@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485782</id>
+      <name>noVNC</name>
+      <url>http://www.ohloh.net/p/noVNC.xml</url>
+      <html_url>http://www.ohloh.net/p/noVNC</html_url>
+      <created_at>2010-10-05T15:40:41Z</created_at>
+      <updated_at>2013-07-15T01:20:04Z</updated_at>
+      <description>VNC client using HTML5 (Web Sockets, Canvas) with encryption (wss://) support.</description>
+      <homepage_url>http://github.com/kanaka/noVNC</homepage_url>
+      <download_url>http://github.com/kanaka/noVNC</download_url>
+      <url_name>noVNC</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14633984</analysis_id>
+      <tags>
+        <tag>vnc</tag>
+        <tag>client</tag>
+        <tag>html5</tag>
+        <tag>web_sockets</tag>
+        <tag>canvas</tag>
+        <tag>encryption</tag>
+        <tag>wss</tag>
+      </tags>
+      <analysis>
+        <id>14633984</id>
+        <url>http://www.ohloh.net/analyses/14633984.xml</url>
+        <project_id>485782</project_id>
+        <updated_at>2013-07-15T01:20:03Z</updated_at>
+        <logged_at>2013-07-13T17:39:34Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>9578</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/noVNC/analyses/14633984/languages.png">
+          <language color="A4007E" percentage="69" id="6">
+JavaScript          </language>
+          <language color="4A246B" percentage="14" id="9">
+Python          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>100070</id>
+      <name>OfficeFloor</name>
+      <url>http://www.ohloh.net/p/officefloor.xml</url>
+      <html_url>http://www.ohloh.net/p/officefloor</html_url>
+      <created_at>2008-12-24T15:28:07Z</created_at>
+      <updated_at>2013-07-20T11:13:14Z</updated_at>
+      <description>Inversion of Control 2.0 implementation focusing on dependency injection into methods (rather than objects) and specifying the thread to execute the method as a dependency - following the principle: don't call us, we &quot;really&quot; will call you</description>
+      <homepage_url>http://www.officefloor.net</homepage_url>
+      <download_url>http://sourceforge.net/projects/officefloor</download_url>
+      <url_name>officefloor</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/30246/OfficeFloor_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/30246/OfficeFloor_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14697399</analysis_id>
+      <tags>
+        <tag>based</tag>
+        <tag>dependency</tag>
+        <tag>framework</tag>
+        <tag>injection</tag>
+        <tag>seda</tag>
+        <tag>architecture</tag>
+        <tag>server</tag>
+        <tag>configuration</tag>
+        <tag>visual</tag>
+        <tag>control</tag>
+        <tag>job</tag>
+        <tag>java</tag>
+        <tag>inversion</tag>
+        <tag>xml</tag>
+      </tags>
+      <analysis>
+        <id>14697399</id>
+        <url>http://www.ohloh.net/analyses/14697399.xml</url>
+        <project_id>100070</project_id>
+        <updated_at>2013-07-20T11:13:14Z</updated_at>
+        <logged_at>2013-07-20T11:06:43Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>4031319</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/officefloor/analyses/14697399/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

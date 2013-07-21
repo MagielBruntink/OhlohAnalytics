@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>316707</id>
+      <name>OpenBSC</name>
+      <url>http://www.ohloh.net/p/OpenBSC.xml</url>
+      <html_url>http://www.ohloh.net/p/OpenBSC</html_url>
+      <created_at>2009-02-20T03:15:05Z</created_at>
+      <updated_at>2013-07-20T13:51:58Z</updated_at>
+      <description>This is a project aiming to create a Free Software, GPL-licensed Abis (plus BSC/MSC/HLR) implementation for experimentation and research purpose.</description>
+      <homepage_url>http://openbsc.osmocom.org/</homepage_url>
+      <download_url>http://openbsc.osmocom.org/trac/</download_url>
+      <url_name>OpenBSC</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14699825</analysis_id>
+      <analysis>
+        <id>14699825</id>
+        <url>http://www.ohloh.net/analyses/14699825.xml</url>
+        <project_id>316707</project_id>
+        <updated_at>2013-07-20T13:51:58Z</updated_at>
+        <logged_at>2013-07-20T13:39:07Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>20</twelve_month_contributor_count>
+        <total_code_lines>128159</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/OpenBSC/analyses/14699825/languages.png">
+          <language color="FF8F00" percentage="96" id="42">
+C          </language>
+          <language color="000000" percentage="4" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>AGPL3_or_later</name>
+          <nice_name>GNU Affero General Public License 3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

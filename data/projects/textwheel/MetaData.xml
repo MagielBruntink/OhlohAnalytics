@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>441954</id>
+      <name>textwheel</name>
+      <url>http://www.ohloh.net/p/textwheel.xml</url>
+      <html_url>http://www.ohloh.net/p/textwheel</html_url>
+      <created_at>2009-09-17T13:00:36Z</created_at>
+      <updated_at>2013-06-23T12:18:13Z</updated_at>
+      <description>A set of rules (preg match/replace) to apply in sequence to a text. Rules can be described in a friendly format (e.g. YAML). An engine that applies the rules to a text. As the text generator logic is separated from its procedure we will be able to do cross-language text generators, unit tests, performance measures, application analysis, and more.</description>
+      <homepage_url>http://code.google.com/p/textwheel/</homepage_url>
+      <download_url></download_url>
+      <url_name>textwheel</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14358545</analysis_id>
+      <analysis>
+        <id>14358545</id>
+        <url>http://www.ohloh.net/analyses/14358545.xml</url>
+        <project_id>441954</project_id>
+        <updated_at>2013-07-18T12:05:26Z</updated_at>
+        <logged_at>2013-07-18T12:05:24Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3344</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/textwheel/analyses/14358545/languages.png">
+          <language color="356AA0" percentage="79" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="16" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

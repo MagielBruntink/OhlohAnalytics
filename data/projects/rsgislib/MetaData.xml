@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585333</id>
+      <name>Remote Sensing and GIS Software Library</name>
+      <url>http://www.ohloh.net/p/rsgislib.xml</url>
+      <html_url>http://www.ohloh.net/p/rsgislib</html_url>
+      <created_at>2011-07-26T13:25:17Z</created_at>
+      <updated_at>2013-07-18T08:33:50Z</updated_at>
+      <description>The remote sensing and GIS library is a set of C++ libraries and commands for the processing of spatial data (raster, vector and point cloud). Functionality is available through an XML interface, ideal for batch processing.</description>
+      <homepage_url>http://www.rsgislib.org/</homepage_url>
+      <download_url>http://sourceforge.net/projects/rsgislib/files/</download_url>
+      <url_name>rsgislib</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45872/RSGISLib_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45872/RSGISLib_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14674570</analysis_id>
+      <tags>
+        <tag>mapping</tag>
+        <tag>geographical</tag>
+        <tag>sar</tag>
+        <tag>data</tag>
+        <tag>processing</tag>
+        <tag>gis</tag>
+        <tag>remote</tag>
+        <tag>sensing</tag>
+        <tag>classification</tag>
+        <tag>image</tag>
+        <tag>spatial</tag>
+        <tag>radar</tag>
+        <tag>library</tag>
+        <tag>c++</tag>
+        <tag>optical</tag>
+        <tag>satellite</tag>
+      </tags>
+      <analysis>
+        <id>14674570</id>
+        <url>http://www.ohloh.net/analyses/14674570.xml</url>
+        <project_id>585333</project_id>
+        <updated_at>2013-07-18T08:33:50Z</updated_at>
+        <logged_at>2013-07-18T08:33:11Z</logged_at>
+        <min_month>2012-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>194173</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rsgislib/analyses/14674570/languages.png">
+          <language color="F35F1F" percentage="98" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

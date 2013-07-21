@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>380119</id>
+      <name>phidx</name>
+      <url>http://www.ohloh.net/p/phidx.xml</url>
+      <html_url>http://www.ohloh.net/p/phidx</html_url>
+      <created_at>2009-08-16T11:18:45Z</created_at>
+      <updated_at>2013-06-22T21:52:37Z</updated_at>
+      <description>phidx is a simple Python CGI script which can dynamically locate web-ready image files (GIF, JPEG, and PNG formats) and display them for browsing as a simple list or as a collection of auto-generated thumbnails.</description>
+      <homepage_url>http://code.google.com/p/phidx/</homepage_url>
+      <download_url></download_url>
+      <url_name>phidx</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40702/phidx-logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40702/phidx-logo_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14347246</analysis_id>
+      <tags>
+        <tag>images</tag>
+        <tag>python</tag>
+        <tag>cgi</tag>
+        <tag>photos</tag>
+        <tag>graphics</tag>
+      </tags>
+      <analysis>
+        <id>14347246</id>
+        <url>http://www.ohloh.net/analyses/14347246.xml</url>
+        <project_id>380119</project_id>
+        <updated_at>2013-07-18T03:22:47Z</updated_at>
+        <logged_at>2013-07-18T03:22:44Z</logged_at>
+        <min_month>2003-08-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>955</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phidx/analyses/14347246/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

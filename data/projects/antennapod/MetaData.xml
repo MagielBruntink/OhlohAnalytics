@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>632102</id>
+      <name>AntennaPod</name>
+      <url>http://www.ohloh.net/p/antennapod.xml</url>
+      <html_url>http://www.ohloh.net/p/antennapod</html_url>
+      <created_at>2013-01-05T15:28:12Z</created_at>
+      <updated_at>2013-07-18T16:44:39Z</updated_at>
+      <description>A podcast manager for Android</description>
+      <homepage_url>https://github.com/danieloeh/AntennaPod</homepage_url>
+      <download_url>https://github.com/danieloeh/AntennaPod/downloads</download_url>
+      <url_name>antennapod</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61510/AntennaPod_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61510/AntennaPod_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14678153</analysis_id>
+      <tags>
+        <tag>rss</tag>
+        <tag>androidapplication</tag>
+        <tag>podcatcher</tag>
+        <tag>podcast</tag>
+        <tag>android</tag>
+        <tag>podfetcher</tag>
+        <tag>vidcast</tag>
+      </tags>
+      <analysis>
+        <id>14678153</id>
+        <url>http://www.ohloh.net/analyses/14678153.xml</url>
+        <project_id>632102</project_id>
+        <updated_at>2013-07-18T16:44:39Z</updated_at>
+        <logged_at>2013-07-18T16:29:45Z</logged_at>
+        <min_month>2011-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>27526</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/antennapod/analyses/14678153/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="24" id="3">
+XML          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

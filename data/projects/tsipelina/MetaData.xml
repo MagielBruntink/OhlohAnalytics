@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25577</id>
+      <name>Tsipelina</name>
+      <url>http://www.ohloh.net/p/tsipelina.xml</url>
+      <html_url>http://www.ohloh.net/p/tsipelina</html_url>
+      <created_at>2008-10-13T09:38:24Z</created_at>
+      <updated_at>2013-07-01T02:25:22Z</updated_at>
+      <description>Tsipelina (spell spell) is an Affero GPL-liensed malagasy online spell checker. 
+
+It will also release under GPLv2 every tools needed to build an almost exhaustive  malagasy wordlist, using a MySpell-like format.</description>
+      <homepage_url>http://dotmg.net/spell/</homepage_url>
+      <download_url></download_url>
+      <url_name>tsipelina</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14490177</analysis_id>
+      <tags>
+        <tag>spellchecker</tag>
+        <tag>spell-checker</tag>
+        <tag>spell</tag>
+        <tag>spelling</tag>
+        <tag>web</tag>
+        <tag>spell-checking</tag>
+        <tag>spellcheck</tag>
+      </tags>
+      <analysis>
+        <id>14490177</id>
+        <url>http://www.ohloh.net/analyses/14490177.xml</url>
+        <project_id>25577</project_id>
+        <updated_at>2013-07-17T23:39:55Z</updated_at>
+        <logged_at>2013-07-17T23:39:49Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>453</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tsipelina/analyses/14490177/languages.png">
+          <language color="356AA0" percentage="76" id="2">
+PHP          </language>
+          <language color="FF1A00" percentage="15" id="4">
+CSS          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

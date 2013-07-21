@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>136329</id>
+      <project_id>37618</project_id>
+      <repository_id>134398</repository_id>
+      <repository>
+        <id>134398</id>
+        <type>SvnSyncRepository</type>
+        <url>https://libserial.svn.sourceforge.net/svnroot/libserial/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T03:56:08Z</logged_at>
+        <commits>105</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>136328</id>
+      <project_id>37618</project_id>
+      <repository_id>134397</repository_id>
+      <repository>
+        <id>134397</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@libserial.cvs.sourceforge.net:/cvsroot/libserial</url>
+        <module_name>libserial/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-17T04:01:25Z</logged_at>
+        <commits>65</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

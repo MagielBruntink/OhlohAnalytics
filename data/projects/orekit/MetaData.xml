@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482378</id>
+      <name>Orekit</name>
+      <url>http://www.ohloh.net/p/orekit.xml</url>
+      <html_url>http://www.ohloh.net/p/orekit</html_url>
+      <created_at>2010-04-12T14:05:44Z</created_at>
+      <updated_at>2013-07-19T17:29:28Z</updated_at>
+      <description>OREKIT (ORbits Extrapolation KIT) is a free low level space dynamics library written in Java.
+
+It provides basic elements (orbits, dates, attitude, frames ...) and various algorithms to handle them (conversions, analytical and numerical propagation, pointing ...).</description>
+      <homepage_url>http://www.orekit.org/</homepage_url>
+      <download_url>https://www.orekit.org/forge/projects/orekit/files</download_url>
+      <url_name>orekit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41482/orekit-logo-64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41482/orekit-logo-64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14676345</analysis_id>
+      <tags>
+        <tag>commons-math</tag>
+        <tag>sdp4</tag>
+        <tag>keplerian</tag>
+        <tag>prediction</tag>
+        <tag>flight-dynamics</tag>
+        <tag>space</tag>
+        <tag>spatial</tag>
+        <tag>orbitalmechanics</tag>
+        <tag>java</tag>
+        <tag>orbit</tag>
+        <tag>satellite</tag>
+        <tag>library</tag>
+        <tag>attitude</tag>
+        <tag>trajectory</tag>
+        <tag>tle</tag>
+        <tag>eckstein-heschler</tag>
+        <tag>sgp4</tag>
+        <tag>ode</tag>
+      </tags>
+      <analysis>
+        <id>14676345</id>
+        <url>http://www.ohloh.net/analyses/14676345.xml</url>
+        <project_id>482378</project_id>
+        <updated_at>2013-07-18T12:07:39Z</updated_at>
+        <logged_at>2013-07-18T12:07:11Z</logged_at>
+        <min_month>2003-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>81475</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/orekit/analyses/14676345/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

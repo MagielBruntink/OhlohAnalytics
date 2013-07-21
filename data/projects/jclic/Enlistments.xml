@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>55438</id>
+      <project_id>321114</project_id>
+      <repository_id>53980</repository_id>
+      <repository>
+        <id>53980</id>
+        <type>BzrRepository</type>
+        <url>https://code.launchpad.net/jclic/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2011-08-25T00:25:06Z</logged_at>
+        <commits>1055</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>55437</id>
+      <project_id>321114</project_id>
+      <repository_id>53979</repository_id>
+      <repository>
+        <id>53979</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@svn.projectes.lafarga.org:/cvsroot</url>
+        <module_name>jclic</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at></logged_at>
+        <commits>0</commits>
+        <ohloh_job_status>failed</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

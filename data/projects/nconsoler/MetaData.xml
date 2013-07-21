@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>61042</id>
+      <name>nconsoler</name>
+      <url>http://www.ohloh.net/p/nconsoler.xml</url>
+      <html_url>http://www.ohloh.net/p/nconsoler</html_url>
+      <created_at>2008-12-18T00:37:17Z</created_at>
+      <updated_at>2013-06-21T13:18:03Z</updated_at>
+      <description>.Net Framework library for console arguments parsing 
+
+Project home page: http://nconsoler.csharpus.com 
+
+Quick example: 
+
+public static void Main(string[] args) {
+    Consolery.Run(typeof(Program), args);
+}
+
+[Action]
+public static void DoWork(
+    [Required] string name,
+    [Optional(-1)] int count) {
+	// ...
+}C:\&gt;program.exe Administrator /count:10For more details use manual http://nconsoler.csharpus.com/manual</description>
+      <homepage_url>http://code.google.com/p/nconsoler</homepage_url>
+      <download_url></download_url>
+      <url_name>nconsoler</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14327028</analysis_id>
+      <tags>
+        <tag>csharp</tag>
+        <tag>nconsoler</tag>
+        <tag>net</tag>
+        <tag>c</tag>
+        <tag>console</tag>
+      </tags>
+      <analysis>
+        <id>14327028</id>
+        <url>http://www.ohloh.net/analyses/14327028.xml</url>
+        <project_id>61042</project_id>
+        <updated_at>2013-07-18T12:01:36Z</updated_at>
+        <logged_at>2013-07-18T12:01:35Z</logged_at>
+        <min_month>2007-12-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8546</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nconsoler/analyses/14327028/languages.png">
+          <language color="555555" percentage="71" id="3">
+XML          </language>
+          <language color="4096EE" percentage="28" id="17">
+C#          </language>
+          <language color="AAAAAA" percentage="1" id="13">
+DOS batch script          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

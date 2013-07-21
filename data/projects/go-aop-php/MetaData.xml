@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>623290</id>
+      <name>Go! AOP PHP</name>
+      <url>http://www.ohloh.net/p/go-aop-php.xml</url>
+      <html_url>http://www.ohloh.net/p/go-aop-php</html_url>
+      <created_at>2013-01-02T20:35:14Z</created_at>
+      <updated_at>2013-07-20T23:46:47Z</updated_at>
+      <description>Go! Aspect-Oriented PHP framework
+
+Go! is a PHP 5.4 library based on OOP and AOP paradigms. It allows developers to add support of AOP to every PHP application.
+
+Go! doesn't require any PECL-extentions, it neither uses any dark magic of Runkit nor evals, the library doesn't use DI-containers. The code with weaved aspects is fully readable and native, it can be easily debugged with XDebug. You can debug either classes or aspects. The main advantage of Go! is that potentially it can be installed in every PHP-application, because you don't have to change the application source code at all.</description>
+      <homepage_url>https://github.com/lisachenko/go-aop-php</homepage_url>
+      <download_url>https://github.com/lisachenko/go-aop-php/archive/0.3.0.zip</download_url>
+      <url_name>go-aop-php</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62170/mindcad_icon_1__med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62170/mindcad_icon_1__small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14707678</analysis_id>
+      <tags>
+        <tag>aspect</tag>
+        <tag>oop</tag>
+        <tag>aop</tag>
+        <tag>php5</tag>
+        <tag>php</tag>
+      </tags>
+      <analysis>
+        <id>14707678</id>
+        <url>http://www.ohloh.net/analyses/14707678.xml</url>
+        <project_id>623290</project_id>
+        <updated_at>2013-07-20T23:46:46Z</updated_at>
+        <logged_at>2013-07-20T23:46:18Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>4302</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/go-aop-php/analyses/14707678/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

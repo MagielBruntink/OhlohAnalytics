@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602414</id>
+      <name>Semantic Page Series</name>
+      <url>http://www.ohloh.net/p/Semantic_Page_Series.xml</url>
+      <html_url>http://www.ohloh.net/p/Semantic_Page_Series</html_url>
+      <created_at>2012-06-05T13:56:30Z</created_at>
+      <updated_at>2013-07-17T09:35:46Z</updated_at>
+      <description>Semantic Page Series is a MediaWiki extension that allows a wiki user the generation of a series of pages from one Semantic Form.
+
+An example use case is to create pages for recurring events. Where without this extension this was solved by having one page for the whole series and using the #set_recurring_event parser function of Semantic MediaWiki, it is now possible to create one page per event occurrence.</description>
+      <homepage_url>http://www.mediawiki.org/wiki/Extension:Semantic_Page_Series</homepage_url>
+      <download_url>http://code.google.com/p/semanticpageseries/downloads/list</download_url>
+      <url_name>Semantic_Page_Series</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14660712</analysis_id>
+      <tags>
+        <tag>smw</tag>
+        <tag>mediawiki</tag>
+        <tag>forms</tag>
+      </tags>
+      <analysis>
+        <id>14660712</id>
+        <url>http://www.ohloh.net/analyses/14660712.xml</url>
+        <project_id>602414</project_id>
+        <updated_at>2013-07-17T09:35:46Z</updated_at>
+        <logged_at>2013-07-17T09:35:05Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>1149</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Semantic_Page_Series/analyses/14660712/languages.png">
+          <language color="356AA0" percentage="99" id="2">
+PHP          </language>
+          <language color="47A400" percentage="1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

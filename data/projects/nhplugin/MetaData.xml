@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21850</id>
+      <name>nhplugin</name>
+      <url>http://www.ohloh.net/p/nhplugin.xml</url>
+      <html_url>http://www.ohloh.net/p/nhplugin</html_url>
+      <created_at>2008-10-07T14:19:15Z</created_at>
+      <updated_at>2013-06-24T12:07:24Z</updated_at>
+      <description>The Resharper NHibernate plug-in adds support for NHibernate mapping files to JetBrains  ReSharper. It implements analysis of mapping files so that, for example, undefined mapped properties are marked. Furthermore, it integrates mapping files into ReSharpers navigation support, so you can navigate from the mapping to the declaration. References to properties and fields in the mapping files are found by ReSharper, providing full rename refactoring support. 
+
+Please note: the current version does not support ReSharper 4.5. Maybe somebody has time to fix that? Drop me a note... 
+
+See http://nhplugin.lieser-online.de for details.</description>
+      <homepage_url>http://code.google.com/p/nhplugin</homepage_url>
+      <download_url></download_url>
+      <url_name>nhplugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14378408</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>resharper</tag>
+        <tag>nhibernate</tag>
+      </tags>
+      <analysis>
+        <id>14378408</id>
+        <url>http://www.ohloh.net/analyses/14378408.xml</url>
+        <project_id>21850</project_id>
+        <updated_at>2013-07-20T07:36:45Z</updated_at>
+        <logged_at>2013-07-20T07:36:42Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2009-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>80569</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nhplugin/analyses/14378408/languages.png">
+          <language color="555555" percentage="95" id="3">
+XML          </language>
+          <language color="4096EE" percentage="5" id="17">
+C#          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

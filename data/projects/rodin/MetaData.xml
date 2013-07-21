@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>317217</id>
+      <name>Rodin-b-sharp</name>
+      <url>http://www.ohloh.net/p/rodin.xml</url>
+      <html_url>http://www.ohloh.net/p/rodin</html_url>
+      <created_at>2009-02-24T09:42:17Z</created_at>
+      <updated_at>2013-06-21T18:14:56Z</updated_at>
+      <description>The Rodin Platform is an Eclipse-based IDE for Event-B that provides effective support for refinement and mathematical proof. The platform is open source, contributes to the Eclipse framework and is further extendable with plugins.
+
+Event-B is a formal method for system-level modelling and analysis. Key features of Event-B are the use of set theory as a modelling notation, the use of refinement to represent systems at different abstraction levels and the use of mathematical proof to verify consistency between refinement levels.</description>
+      <homepage_url>http://sourceforge.net/projects/rodin-b-sharp/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=108850</download_url>
+      <url_name>rodin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14327486</analysis_id>
+      <analysis>
+        <id>14327486</id>
+        <url>http://www.ohloh.net/analyses/14327486.xml</url>
+        <project_id>317217</project_id>
+        <updated_at>2013-07-17T22:22:39Z</updated_at>
+        <logged_at>2013-07-17T22:22:28Z</logged_at>
+        <min_month>2005-10-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>18154</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rodin/analyses/14327486/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="EEE" percentage="&lt;1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

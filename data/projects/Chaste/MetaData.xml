@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605408</id>
+      <name>Chaste</name>
+      <url>http://www.ohloh.net/p/Chaste.xml</url>
+      <html_url>http://www.ohloh.net/p/Chaste</html_url>
+      <created_at>2012-09-21T10:43:11Z</created_at>
+      <updated_at>2013-07-20T00:44:12Z</updated_at>
+      <description>Chaste - Cancer Heart And Soft Tissue Environment
+
+Chaste is a computational biology simulation package. It provides a cardiac simulation package which provides a way to use CellML electrophysiology models in tissue simulations. The cardiac code is suitable for high performance computing on large supercomputers.
+
+The cell-based side of the code provides a variety of agent-based models (cellular automata, cell-centre-based (on and off mesh), cell vertex, cellular Potts models) for use in biological settings where cells divide and die according to other models.
+
+For details please see the recent overview paper in PLoS Computational Biology www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002970</description>
+      <homepage_url>https://github.com/Chaste/Chaste</homepage_url>
+      <download_url>http://www.cs.ox.ac.uk/chaste/download.html</download_url>
+      <url_name>Chaste</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57132/chaste-240x298_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57132/chaste-240x298_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14690525</analysis_id>
+      <tags>
+        <tag>electrophysiology</tag>
+        <tag>biology</tag>
+        <tag>cancer</tag>
+        <tag>cardiac</tag>
+        <tag>simulation</tag>
+        <tag>soft-tissue</tag>
+        <tag>mathematical_model</tag>
+        <tag>vertex</tag>
+      </tags>
+      <analysis>
+        <id>14690525</id>
+        <url>http://www.ohloh.net/analyses/14690525.xml</url>
+        <project_id>605408</project_id>
+        <updated_at>2013-07-20T00:44:11Z</updated_at>
+        <logged_at>2013-07-20T00:42:23Z</logged_at>
+        <min_month>2005-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>479214</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Chaste/analyses/14690525/languages.png">
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="55" id="44">
+C++          </language>
+          <language color="556677" percentage="6" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="6" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

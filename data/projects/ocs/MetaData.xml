@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5427</id>
+      <name>Open Conference Systems</name>
+      <url>http://www.ohloh.net/p/ocs.xml</url>
+      <html_url>http://www.ohloh.net/p/ocs</html_url>
+      <created_at>2007-05-16T23:18:12Z</created_at>
+      <updated_at>2013-07-17T19:14:29Z</updated_at>
+      <description>Open Conference Systems (OCS) is a free Web publishing tool that will create a complete Web presence for your scholarly conference.</description>
+      <homepage_url>http://pkp.sfu.ca/ocs</homepage_url>
+      <download_url>http://pkp.sfu.ca/ocs_download</download_url>
+      <url_name>ocs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14492655</analysis_id>
+      <tags>
+        <tag>webapps</tag>
+        <tag>conference</tag>
+        <tag>research</tag>
+        <tag>publishing</tag>
+        <tag>communication</tag>
+      </tags>
+      <analysis>
+        <id>14492655</id>
+        <url>http://www.ohloh.net/analyses/14492655.xml</url>
+        <project_id>5427</project_id>
+        <updated_at>2013-07-17T00:15:10Z</updated_at>
+        <logged_at>2013-07-17T00:13:57Z</logged_at>
+        <min_month>2006-12-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>115475</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ocs/analyses/14492655/languages.png">
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="356AA0" percentage="44" id="2">
+PHP          </language>
+          <language color="47A400" percentage="15" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

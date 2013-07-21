@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597389</id>
+      <name>Cassandra Archiver for CSS</name>
+      <url>http://www.ohloh.net/p/cassandra-archiver.xml</url>
+      <html_url>http://www.ohloh.net/p/cassandra-archiver</html_url>
+      <created_at>2012-04-21T12:02:06Z</created_at>
+      <updated_at>2013-06-26T04:16:27Z</updated_at>
+      <description>The Cassandra Archiver for Control System Studio (CSS) is a tool which allows for archiving process variables to an Apache Cassandra database.
+
+It provides plugins for Control System Studio in order to plot an export the archived data.
+
+Archiving of EPICS process variables is supported by the standard distribution but support for other control systems can be added using plugins.</description>
+      <homepage_url>http://oss.aquenos.com/epics/cassandra-archiver/</homepage_url>
+      <download_url>http://oss.aquenos.com/epics/cassandra-archiver/#download</download_url>
+      <url_name>cassandra-archiver</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14411485</analysis_id>
+      <tags>
+        <tag>controlsystem</tag>
+        <tag>java</tag>
+        <tag>epics</tag>
+        <tag>controlsystems</tag>
+      </tags>
+      <analysis>
+        <id>14411485</id>
+        <url>http://www.ohloh.net/analyses/14411485.xml</url>
+        <project_id>597389</project_id>
+        <updated_at>2013-07-18T22:12:55Z</updated_at>
+        <logged_at>2013-07-18T22:12:48Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6720</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cassandra-archiver/analyses/14411485/languages.png">
+          <language color="9A63AD" percentage="93" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>eclipse</name>
+          <nice_name>Eclipse Public License 1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

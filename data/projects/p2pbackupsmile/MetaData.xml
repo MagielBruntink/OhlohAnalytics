@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>67893</id>
+      <name>Backup P2P - Secured peer-to-peer backup</name>
+      <url>http://www.ohloh.net/p/p2pbackupsmile.xml</url>
+      <html_url>http://www.ohloh.net/p/p2pbackupsmile</html_url>
+      <created_at>2008-12-19T03:31:01Z</created_at>
+      <updated_at>2013-06-30T03:58:03Z</updated_at>
+      <description>Backup P2P is an open source peer-to-peer backup system doing automated and secured backups inside your own trusted community (Jabber, XMPP).
+Each user shares some available space on his disk with his contacts, to be able in return to remotely backup some of his own data.
+
+Advantages:
+
+* Backups can be scheduled in any time range that suits you.
+* Backup P2P uses the Jabber IM community, which counts over 200 million users.
+* Data is encrypted using the well-proven standard AES 128, but soon-coming version will allow to use different cryptographic providers and custom key length.
+* We use a rsync-like algorithm/protocol to perform incremental backups and thus limit the bandwidth require</description>
+      <homepage_url>http://sourceforge.net/projects/p2pbackupsmile</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=208108</download_url>
+      <url_name>p2pbackupsmile</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471696</analysis_id>
+      <tags>
+        <tag>multiplatform</tag>
+        <tag>peer-to-peer</tag>
+        <tag>cryptography</tag>
+        <tag>rsync</tag>
+        <tag>java</tag>
+        <tag>file_sharing</tag>
+        <tag>distributed</tag>
+        <tag>incremental_backup</tag>
+        <tag>p2p</tag>
+        <tag>backup</tag>
+        <tag>filesharing</tag>
+      </tags>
+      <analysis>
+        <id>14471696</id>
+        <url>http://www.ohloh.net/analyses/14471696.xml</url>
+        <project_id>67893</project_id>
+        <updated_at>2013-07-19T00:45:58Z</updated_at>
+        <logged_at>2013-07-19T00:45:52Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10963</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/p2pbackupsmile/analyses/14471696/languages.png">
+          <language color="9A63AD" percentage="94" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="EEE" percentage="1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19435</id>
+      <name>fileview</name>
+      <url>http://www.ohloh.net/p/fileview.xml</url>
+      <html_url>http://www.ohloh.net/p/fileview</html_url>
+      <created_at>2008-10-07T12:23:19Z</created_at>
+      <updated_at>2013-07-10T00:46:28Z</updated_at>
+      <description>ConceptSimilar to IKImageBrowserView, but supports arbitrary drawing via icon subclasses, and is compatible with 10.4.  A single-column view that scales icons to fit containers is also available.  The view scales to several thousand icons with no problem, and takes advantage of multiple processors/cores when possible.  Memory usage for the framework should remain low. 
+
+Here's a screenshot of one of the SamplePrograms: 
+
+ 
+
+Supported File and URL TypesPDF/PostScript Skim PDFD Anything NSAttributedString can read http/ftp URLs and local HTML files using WebView QuickTime movies Anything ImageIO can read Quick Look thumbnails (on 10.5) Icon Services as a last resort AvailabilityCompilation currently requires 10.5, but could be accomplished on 10.4 with a modicum of effort.  Copy enums</description>
+      <homepage_url>http://code.google.com/p/fileview</homepage_url>
+      <download_url></download_url>
+      <url_name>fileview</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14576675</analysis_id>
+      <tags>
+        <tag>collectionview</tag>
+        <tag>cocoa</tag>
+        <tag>malloc_zone</tag>
+        <tag>gridview</tag>
+        <tag>vimage</tag>
+        <tag>nszone</tag>
+        <tag>thumbnail</tag>
+        <tag>threadpool</tag>
+        <tag>imagebrowser</tag>
+      </tags>
+      <analysis>
+        <id>14576675</id>
+        <url>http://www.ohloh.net/analyses/14576675.xml</url>
+        <project_id>19435</project_id>
+        <updated_at>2013-07-21T03:51:53Z</updated_at>
+        <logged_at>2013-07-21T03:51:50Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>29597</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fileview/analyses/14576675/languages.png">
+          <language color="555555" percentage="38" id="3">
+XML          </language>
+          <language color="C7932C" percentage="48" id="16">
+Objective-C          </language>
+          <language color="F35F1F" percentage="8" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

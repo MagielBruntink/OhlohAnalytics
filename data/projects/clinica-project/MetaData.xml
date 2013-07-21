@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588653</id>
+      <name>Clinica medical records manager</name>
+      <url>http://www.ohloh.net/p/clinica-project.xml</url>
+      <html_url>http://www.ohloh.net/p/clinica-project</html_url>
+      <created_at>2012-01-28T10:26:47Z</created_at>
+      <updated_at>2013-07-19T05:18:37Z</updated_at>
+      <description>Simple medical records manager.
+It is thought to be easy to use and it's mainly addressed to a single doctor.
+
+It features:
+ * Patient management
+ * Doctor management (with associated patients)
+ * Visit creation/editing
+ * Medicine search online (via plugins)
+ * Calendar for events and visits
+ * Extensibility via plugins</description>
+      <homepage_url>http://launchpad.net/clinica-project</homepage_url>
+      <download_url>http://launchpad.net/clinica-project/+download</download_url>
+      <url_name>clinica-project</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50393/clinica64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50393/clinica64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14683604</analysis_id>
+      <tags>
+        <tag>emr</tag>
+        <tag>linux</tag>
+        <tag>desktop</tag>
+        <tag>medical</tag>
+      </tags>
+      <analysis>
+        <id>14683604</id>
+        <url>http://www.ohloh.net/analyses/14683604.xml</url>
+        <project_id>588653</project_id>
+        <updated_at>2013-07-19T05:18:36Z</updated_at>
+        <logged_at>2013-07-19T05:14:37Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9207</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/clinica-project/analyses/14683604/languages.png">
+          <language color="729FCF" percentage="78" id="34">
+Vala          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="4A246B" percentage="5" id="9">
+Python          </language>
+          <language color="000000" percentage="&lt;1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
