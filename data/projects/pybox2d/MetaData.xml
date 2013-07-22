@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22719</id>
+      <name>pybox2d</name>
+      <url>http://www.ohloh.net/p/pybox2d.xml</url>
+      <html_url>http://www.ohloh.net/p/pybox2d</html_url>
+      <created_at>2008-10-07T15:01:23Z</created_at>
+      <updated_at>2013-06-25T04:23:00Z</updated_at>
+      <description>pybox2d2D physics library for Python under the *zlib* license. (not BSD, see below) 
+
+BSD? zlib? Which license?As Google Code does not allow projects to be listed under some of the less popular licenses (see here and here for more information), pybox2d is currently listed under BSD. However, the code is licensed under the very liberal zlib license, the same as the underlying Box2D library. 
+
+News2009/2/25: Release2.0.2b1 Released! Lots of changes since the last version. See all of the changes in this post here, along with some other important code change notes there. 
+
+Be sure to download the testbed, which includes all of the examples, in addition to the library itself as it is no longer included in the installer. 
+
+2008/10/23: Release2.0.2b0 Released! OS X and win32 installers in the downloads section along with a full source release. 
+
+Changes here: Changes 
+
+OS X and win32 installer notes</description>
+      <homepage_url>http://code.google.com/p/pybox2d</homepage_url>
+      <download_url></download_url>
+      <url_name>pybox2d</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14397257</analysis_id>
+      <tags>
+        <tag>zlib</tag>
+        <tag>pygame</tag>
+        <tag>pyglet</tag>
+        <tag>python</tag>
+        <tag>physics</tag>
+        <tag>box2d</tag>
+        <tag>library</tag>
+        <tag>pybox2d</tag>
+      </tags>
+      <analysis>
+        <id>14397257</id>
+        <url>http://www.ohloh.net/analyses/14397257.xml</url>
+        <project_id>22719</project_id>
+        <updated_at>2013-07-21T10:56:07Z</updated_at>
+        <logged_at>2013-07-21T10:56:04Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>26803</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pybox2d/analyses/14397257/languages.png">
+          <language color="4A246B" percentage="52" id="9">
+Python          </language>
+          <language color="F35F1F" percentage="46" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

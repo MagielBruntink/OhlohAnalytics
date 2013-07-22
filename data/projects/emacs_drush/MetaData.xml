@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>601622</id>
+      <name>Drush utilities for Emacs users</name>
+      <url>http://www.ohloh.net/p/emacs_drush.xml</url>
+      <html_url>http://www.ohloh.net/p/emacs_drush</html_url>
+      <created_at>2012-05-31T21:12:03Z</created_at>
+      <updated_at>2013-06-19T13:34:03Z</updated_at>
+      <description>This project consists of a few Drush utilities for making the daily life of Emacs users easier.
+
+Currently the project provides two new Drush commands: crush etags and crush gtags.
+
+They will run etags/gtags in your DRUPAL_ROOT and generate tag files for use in Emacs and it will help keep them up to date.</description>
+      <homepage_url>http://drupal.org/project/emacs_drush</homepage_url>
+      <download_url>http://drupal.org/project/emacs_drush#downloads</download_url>
+      <url_name>emacs_drush</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6221/drupal_library_med_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6221/drupal_library_med_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14307976</analysis_id>
+      <tags>
+        <tag>gnu_global</tag>
+        <tag>etags</tag>
+        <tag>drupal_project</tag>
+        <tag>drupal</tag>
+        <tag>drush</tag>
+        <tag>gtags</tag>
+        <tag>emacs</tag>
+      </tags>
+      <analysis>
+        <id>14307976</id>
+        <url>http://www.ohloh.net/analyses/14307976.xml</url>
+        <project_id>601622</project_id>
+        <updated_at>2013-07-18T03:33:53Z</updated_at>
+        <logged_at>2013-07-18T03:33:45Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>150</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/emacs_drush/analyses/14307976/languages.png">
+          <language color="356AA0" percentage="100" id="2">
+PHP          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_v2_0_only</name>
+          <nice_name>GNU General Public License v2.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>339235</id>
+      <name>OpenFOAM</name>
+      <url>http://www.ohloh.net/p/openfoam.xml</url>
+      <html_url>http://www.ohloh.net/p/openfoam</html_url>
+      <created_at>2009-05-08T16:26:14Z</created_at>
+      <updated_at>2013-06-25T01:14:45Z</updated_at>
+      <description>The OpenFOAM&#174; (Open Field Operation and Manipulation) CFD Toolbox can simulate anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to solid dynamics, electromagnetics and the pricing of financial options. OpenFOAM is produced by OpenCFD Ltd and is freely available and open source, licensed under the GNU General Public Licence.
+
+The core technology of OpenFOAM is a flexible set of efficient C++ modules. These are used to build a wealth of: solvers, to simulate specific problems in engineering mechanics; utilities, to perform pre- and post-processing tasks ranging from simple data manipulations to visualisation and mesh processing; libraries, to create toolboxes that are accessible to the solvers/utilities, such as libraries of physical models.</description>
+      <homepage_url>http://www.opencfd.co.uk/openfoam/</homepage_url>
+      <download_url>http://www.opencfd.co.uk/openfoam/download.html#download</download_url>
+      <url_name>openfoam</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14391778</analysis_id>
+      <tags>
+        <tag>cfd</tag>
+        <tag>simulation</tag>
+      </tags>
+      <analysis>
+        <id>14391778</id>
+        <url>http://www.ohloh.net/analyses/14391778.xml</url>
+        <project_id>339235</project_id>
+        <updated_at>2013-07-22T00:31:37Z</updated_at>
+        <logged_at>2013-07-22T00:31:29Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1218287</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openfoam/analyses/14391778/languages.png">
+          <language color="F35F1F" percentage="98" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

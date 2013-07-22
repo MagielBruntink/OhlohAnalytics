@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>622457</id>
+      <name>LensFun</name>
+      <url>http://www.ohloh.net/p/lensfun.xml</url>
+      <html_url>http://www.ohloh.net/p/lensfun</html_url>
+      <created_at>2012-11-28T12:12:00Z</created_at>
+      <updated_at>2013-07-21T19:30:08Z</updated_at>
+      <description>The goal of the lensfun library is to provide a open source database of photographic lenses and their characteristics.
+
+The lensfun library not only provides a way to read the database and search for specific things in it, but also provides a set of algorithms for correcting images based on detailed knowledge of lens properties. Right now lensfun is designed to correct distortion, transversal (also known as lateral) chromatic aberrations, vignetting and colour contribution of the lens (e.g. when sometimes people says one lens gives &quot;yellowish&quot; images and another, say, &quot;bluish&quot;).
+
+The interface is defined both using C++ style and plain C. The C interface is a wrapper around the C++ classes.</description>
+      <homepage_url>http://lensfun.berlios.de/</homepage_url>
+      <download_url>http://developer.berlios.de/project/showfiles.php?group_id=9034</download_url>
+      <url_name>lensfun</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59690/lensfun_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59690/lensfun_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14717859</analysis_id>
+      <tags>
+        <tag>lensfun</tag>
+        <tag>image_processing</tag>
+        <tag>photography</tag>
+        <tag>library</tag>
+        <tag>optics</tag>
+      </tags>
+      <analysis>
+        <id>14717859</id>
+        <url>http://www.ohloh.net/analyses/14717859.xml</url>
+        <project_id>622457</project_id>
+        <updated_at>2013-07-21T19:30:08Z</updated_at>
+        <logged_at>2013-07-21T19:29:38Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>32819</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lensfun/analyses/14717859/languages.png">
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="28" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="29" id="42">
+C          </language>
+          <language color="000000" percentage="10" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

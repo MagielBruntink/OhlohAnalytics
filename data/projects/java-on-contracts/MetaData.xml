@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585077</id>
+      <name>Java on Contracts</name>
+      <url>http://www.ohloh.net/p/java-on-contracts.xml</url>
+      <html_url>http://www.ohloh.net/p/java-on-contracts</html_url>
+      <created_at>2011-07-14T09:39:39Z</created_at>
+      <updated_at>2013-07-05T10:40:40Z</updated_at>
+      <description>There are so many DBC libraries for Java out there, yet none of them that I've looked at met the following criteria:
+
+    * easy to use with little overhead (i.e. no extra class-hierarchies for contracts)
+    * complete code-integration (no comment-parsing stuff that needs adjustment as soon as you change a method- or parameter-name) in pure Java
+    * being able to not only throw an assertion when a contract fails, but also to silently log the contract violation and leave the application running (e.g. in production systems)
+    * easily extensible with own contracts or checks
+    * assign contracts to foreign classes (e.g. preventing to call &quot;new Integer&quot;)
+    * lots of more ideas, e.g. profiling or logging method calls, customizable behavior for each contract definition, etc.</description>
+      <homepage_url>http://code.google.com/p/java-on-contracts/</homepage_url>
+      <download_url>http://code.google.com/p/java-on-contracts/downloads/list</download_url>
+      <url_name>java-on-contracts</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45437/logo-ohloh_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45437/logo-ohloh_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14535250</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>dbc</tag>
+        <tag>contracts</tag>
+      </tags>
+      <analysis>
+        <id>14535250</id>
+        <url>http://www.ohloh.net/analyses/14535250.xml</url>
+        <project_id>585077</project_id>
+        <updated_at>2013-07-21T18:33:44Z</updated_at>
+        <logged_at>2013-07-21T18:33:41Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10295</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/java-on-contracts/analyses/14535250/languages.png">
+          <language color="9A63AD" percentage="97" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mozilla_public_1_1</name>
+          <nice_name>Mozilla Public License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588498</id>
+      <name>gatling-excilys</name>
+      <url>http://www.ohloh.net/p/gatling-excilys.xml</url>
+      <html_url>http://www.ohloh.net/p/gatling-excilys</html_url>
+      <created_at>2012-01-21T12:09:45Z</created_at>
+      <updated_at>2013-07-22T00:02:25Z</updated_at>
+      <description>Gatling is a stress tool. Development is currently focusing on HTTP support.
+ - Fed up with fancy GUI that generate huge unreadable XML scenarios, what you want is scripts and a user friendly DSL?
+ - Fed up with having to host a farm of injecting servers because your tool use blocking IO and one-thread-per-user architecture?
+
+Gatling is built upon :
+- Async Http Client and Netty for non blocking HTTP
+- Akka for actions (requests, pauses, assertions, etc...) modeling and orchestration
+- Scala interpreter for scripting ...</description>
+      <homepage_url>http://gatling-tool.org</homepage_url>
+      <download_url>https://github.com/excilys/gatling/downloads</download_url>
+      <url_name>gatling-excilys</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56144/picto_big_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56144/picto_big_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14721308</analysis_id>
+      <tags>
+        <tag>java</tag>
+        <tag>performancemeasurement</tag>
+        <tag>performance</tag>
+        <tag>loadtest</tag>
+        <tag>load</tag>
+        <tag>load-testing</tag>
+        <tag>testing</tag>
+        <tag>performance-testing</tag>
+        <tag>web</tag>
+        <tag>javascript</tag>
+        <tag>scala</tag>
+      </tags>
+      <analysis>
+        <id>14721308</id>
+        <url>http://www.ohloh.net/analyses/14721308.xml</url>
+        <project_id>588498</project_id>
+        <updated_at>2013-07-22T00:02:24Z</updated_at>
+        <logged_at>2013-07-22T00:02:03Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>14162</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gatling-excilys/analyses/14721308/languages.png">
+          <language color="7DD3B0" percentage="86" id="55">
+Scala          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>55</main_language_id>
+        <main_language_name>Scala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

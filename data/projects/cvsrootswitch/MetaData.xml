@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25512</id>
+      <name>cvsrootswitch</name>
+      <url>http://www.ohloh.net/p/cvsrootswitch.xml</url>
+      <html_url>http://www.ohloh.net/p/cvsrootswitch</html_url>
+      <created_at>2008-10-09T19:04:20Z</created_at>
+      <updated_at>2013-07-21T19:19:00Z</updated_at>
+      <description>This tool changes the root entry of the local module checked out of CVS. If CVS modules checked out from one server are required to be shifted to some other server then the root entry of the CVS folders need to be replaces recursively. This tool searches for CVS Root files and replaces old root entries with the given new root entries.</description>
+      <homepage_url>http://code.google.com/p/cvsrootswitch/</homepage_url>
+      <download_url>http://cvsrootswitch.googlecode.com/svn/trunk/</download_url>
+      <url_name>cvsrootswitch</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>2</review_count>
+      <analysis_id>14440608</analysis_id>
+      <tags>
+        <tag>cvs</tag>
+        <tag>utility</tag>
+        <tag>scm</tag>
+        <tag>tool</tag>
+        <tag>switch</tag>
+        <tag>root</tag>
+        <tag>extssh</tag>
+        <tag>java</tag>
+        <tag>ssh</tag>
+      </tags>
+      <analysis>
+        <id>14440608</id>
+        <url>http://www.ohloh.net/analyses/14440608.xml</url>
+        <project_id>25512</project_id>
+        <updated_at>2013-07-16T20:10:36Z</updated_at>
+        <logged_at>2013-07-16T20:10:32Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2008-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1328</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cvsrootswitch/analyses/14440608/languages.png">
+          <language color="555555" percentage="55" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="45" id="5">
+Java          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

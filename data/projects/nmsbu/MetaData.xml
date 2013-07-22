@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588567</id>
+      <name>nMySQL-BU</name>
+      <url>http://www.ohloh.net/p/nmsbu.xml</url>
+      <html_url>http://www.ohloh.net/p/nmsbu</html_url>
+      <created_at>2012-01-24T20:01:06Z</created_at>
+      <updated_at>2013-07-22T05:07:05Z</updated_at>
+      <description>nMySQL-BU (nmsbu) is a project written in C, allowing maximum backup speed.</description>
+      <homepage_url>http://nmsbu.sourceforge.net/</homepage_url>
+      <download_url>http://www.sourceforge.net/projects/nmsbu/</download_url>
+      <url_name>nmsbu</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14726640</analysis_id>
+      <tags>
+        <tag>backup</tag>
+        <tag>c</tag>
+        <tag>mysql</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14726640</id>
+        <url>http://www.ohloh.net/analyses/14726640.xml</url>
+        <project_id>588567</project_id>
+        <updated_at>2013-07-22T05:07:05Z</updated_at>
+        <logged_at>2013-07-22T05:06:56Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2012-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1273</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nmsbu/analyses/14726640/languages.png">
+          <language color="FF8F00" percentage="100" id="42">
+C          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

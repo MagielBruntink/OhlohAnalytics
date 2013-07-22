@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5349</id>
+      <name>PyTerm</name>
+      <url>http://www.ohloh.net/p/pyterm.xml</url>
+      <html_url>http://www.ohloh.net/p/pyterm</html_url>
+      <created_at>2007-05-14T14:32:25Z</created_at>
+      <updated_at>2013-06-21T22:21:36Z</updated_at>
+      <description>Terminal Emulator for GNOME enviroement based on VTE.</description>
+      <homepage_url>http://code.google.com/p/pyterm/</homepage_url>
+      <download_url></download_url>
+      <url_name>pyterm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14331801</analysis_id>
+      <analysis>
+        <id>14331801</id>
+        <url>http://www.ohloh.net/analyses/14331801.xml</url>
+        <project_id>5349</project_id>
+        <updated_at>2013-07-21T04:10:20Z</updated_at>
+        <logged_at>2013-07-21T04:10:17Z</logged_at>
+        <min_month>2006-07-01T00:00:00Z</min_month>
+        <max_month>2006-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1378</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyterm/analyses/14331801/languages.png">
+          <language color="4A246B" percentage="63" id="9">
+Python          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="EEE" percentage="8" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

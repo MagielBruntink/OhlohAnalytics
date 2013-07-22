@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>49240</id>
+      <name>s3ql</name>
+      <url>http://www.ohloh.net/p/s3ql.xml</url>
+      <html_url>http://www.ohloh.net/p/s3ql</html_url>
+      <created_at>2008-12-16T09:34:58Z</created_at>
+      <updated_at>2013-07-19T18:44:18Z</updated_at>
+      <description>About S3QLS3QL is a file system that stores all its data online. It supports online storage services like Amazon S3 as well as arbitrary FTP or SFTP servers. It effectively provides you with a hard disk of infinite capacity that can be accessed from any computer with internet access. 
+
+S3QL has been designed mainly for backup and archival purposes and many of its features are especially geared towards this. However, since S3QL is providing a standard UNIX file system, it can in principle be used for any other application as well. 
+
+S3QL is designed to favor simplicity and elegance over performance and feature-richness. Care has been taken to make the source code as readable and serviceable as possible. Solid error detection and error handling have been included from the very first line, an</description>
+      <homepage_url>https://code.google.com/p/s3ql</homepage_url>
+      <download_url>http://s3ql.googlecode.com/files/s3ql-1.10.tar.bz2</download_url>
+      <url_name>s3ql</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14687798</analysis_id>
+      <tags>
+        <tag>sqlite</tag>
+        <tag>fuse</tag>
+        <tag>aws</tag>
+        <tag>backup</tag>
+        <tag>python</tag>
+        <tag>s3</tag>
+      </tags>
+      <analysis>
+        <id>14687798</id>
+        <url>http://www.ohloh.net/analyses/14687798.xml</url>
+        <project_id>49240</project_id>
+        <updated_at>2013-07-19T18:44:17Z</updated_at>
+        <logged_at>2013-07-19T18:43:47Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>10556</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/s3ql/analyses/14687798/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

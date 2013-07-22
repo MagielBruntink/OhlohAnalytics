@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>207367</id>
+      <name>Portofino</name>
+      <url>http://www.ohloh.net/p/portofino.xml</url>
+      <html_url>http://www.ohloh.net/p/portofino</html_url>
+      <created_at>2009-01-17T19:09:48Z</created_at>
+      <updated_at>2013-07-21T22:57:53Z</updated_at>
+      <description>Portofino is a web application framework written in Java and extensible using Groovy. It can connect to an existing database and generate a working web application based on an automatic analysis of the database's structure.
+The framework combines features that are typical of Content Management Systems (CMS), of portals, and of Rapid Application Development (RAD) tools. 
+Among its features: content management, CRUD, database connectivity, calendars, charts, and security.</description>
+      <homepage_url>http://www.manydesigns.com/</homepage_url>
+      <download_url>http://www.manydesigns.com/en/portofino/download</download_url>
+      <url_name>portofino</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56628/icon-64x64-transparent_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56628/icon-64x64-transparent_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14720567</analysis_id>
+      <tags>
+        <tag>user_interfaces</tag>
+        <tag>dynamic_content</tag>
+        <tag>library</tag>
+        <tag>forms</tag>
+        <tag>javascript</tag>
+        <tag>database</tag>
+        <tag>development</tag>
+        <tag>hibernate</tag>
+        <tag>java</tag>
+        <tag>j2ee</tag>
+        <tag>intranet</tag>
+        <tag>calendar</tag>
+        <tag>crud</tag>
+        <tag>content_management</tag>
+        <tag>cms</tag>
+        <tag>workflow</tag>
+        <tag>portal</tag>
+        <tag>web</tag>
+        <tag>framework</tag>
+        <tag>groovy</tag>
+      </tags>
+      <analysis>
+        <id>14720567</id>
+        <url>http://www.ohloh.net/analyses/14720567.xml</url>
+        <project_id>207367</project_id>
+        <updated_at>2013-07-21T22:57:53Z</updated_at>
+        <logged_at>2013-07-21T22:57:16Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>82399</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/portofino/analyses/14720567/languages.png">
+          <language color="9A63AD" percentage="59" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="A4007E" percentage="13" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="16" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpv3_or_later</name>
+          <nice_name>GNU Lesser General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

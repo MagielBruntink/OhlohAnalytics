@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486115</id>
+      <name>Coffee Pot</name>
+      <url>http://www.ohloh.net/p/coffeepot.xml</url>
+      <html_url>http://www.ohloh.net/p/coffeepot</html_url>
+      <created_at>2010-10-22T17:22:56Z</created_at>
+      <updated_at>2013-06-25T03:42:33Z</updated_at>
+      <description>Accounting software for coffee cups targeted for data communication software group at the Aalto University. The Django-based server-side software includes a database system and a web-management interface. The client side software is customized for N810 tablets.</description>
+      <homepage_url>https://launchpad.net/coffeepot</homepage_url>
+      <download_url>https://launchpad.net/coffeepot</download_url>
+      <url_name>coffeepot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14396289</analysis_id>
+      <analysis>
+        <id>14396289</id>
+        <url>http://www.ohloh.net/analyses/14396289.xml</url>
+        <project_id>486115</project_id>
+        <updated_at>2013-07-16T04:41:21Z</updated_at>
+        <logged_at>2013-07-16T04:41:15Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2759</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/coffeepot/analyses/14396289/languages.png">
+          <language color="47A400" percentage="38" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="17" id="4">
+CSS          </language>
+          <language color="4A246B" percentage="18" id="9">
+Python          </language>
+          <language color="000000" percentage="27" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>expat</name>
+          <nice_name>Expat</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

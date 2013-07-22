@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603031</id>
+      <name>SalarDbCodeGenerator</name>
+      <url>http://www.ohloh.net/p/salardbcodegenerator.xml</url>
+      <html_url>http://www.ohloh.net/p/salardbcodegenerator</html_url>
+      <created_at>2012-06-28T14:28:33Z</created_at>
+      <updated_at>2013-07-21T08:49:06Z</updated_at>
+      <description>This application is aimed to generate .NET class and methods for databases and model them based on customizable patterns.
+
+SalarDbCodeGenerator is a database first, code generator. It uses customizable patterns to generate different codes and models for applications. The generator engine is mostly optimized for C# but it can be used to generate any other programming language code.
+
+Supported Databases
+    Micorsoft SQL Server (2000/2005/2008/2012)
+    (Supports columns description)
+    SQL Server Compact Edition 4
+    Oracle Database (8i/9i/10g/11g)
+    SQLite (v3 and above)
+
+Patterns (Installed by default)
+    Entity Framework Code First
+    NHibernate Mapping By Code (Upcoming, not released)
+    NHibernate ActiveRecord
+    LinqToSql
+    Entity Framework 4 POCO
+    DapperAccess
+    3Tier</description>
+      <homepage_url>http://salardbcodegenerator.codeplex.com/</homepage_url>
+      <download_url>http://salardbcodegenerator.codeplex.com/releases/</download_url>
+      <url_name>salardbcodegenerator</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54352/AppIcon64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54352/AppIcon64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14712373</analysis_id>
+      <tags>
+        <tag>c#</tag>
+        <tag>codegenerator</tag>
+        <tag>activerecord</tag>
+        <tag>code_first</tag>
+        <tag>code_generation</tag>
+        <tag>code_generator</tag>
+        <tag>dapper</tag>
+        <tag>entity_framework</tag>
+        <tag>linqtosql</tag>
+        <tag>mvvm</tag>
+        <tag>nhibernate</tag>
+        <tag>sql_server_ce</tag>
+        <tag>sqlite</tag>
+        <tag>codegenerators</tag>
+        <tag>stored_procedure</tag>
+      </tags>
+      <analysis>
+        <id>14712373</id>
+        <url>http://www.ohloh.net/analyses/14712373.xml</url>
+        <project_id>603031</project_id>
+        <updated_at>2013-07-21T08:49:06Z</updated_at>
+        <logged_at>2013-07-21T08:48:46Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>13103</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/salardbcodegenerator/analyses/14712373/languages.png">
+          <language color="4096EE" percentage="84" id="17">
+C#          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

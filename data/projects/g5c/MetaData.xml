@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486639</id>
+      <name>Generation 5 computing</name>
+      <url>http://www.ohloh.net/p/g5c.xml</url>
+      <html_url>http://www.ohloh.net/p/g5c</html_url>
+      <created_at>2010-11-21T13:55:58Z</created_at>
+      <updated_at>2013-07-03T01:43:21Z</updated_at>
+      <description>Mostly academic, research Project about next generation computing (Software only), trying to find new ideas and solutions how computers can work in the future using technologies like voice recognition and synthesisation. Everyone is invited to join in!</description>
+      <homepage_url>http://sourceforge.net/projects/g5c/</homepage_url>
+      <download_url>https://sourceforge.net/projects/g5c/</download_url>
+      <url_name>g5c</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14509384</analysis_id>
+      <analysis>
+        <id>14509384</id>
+        <url>http://www.ohloh.net/analyses/14509384.xml</url>
+        <project_id>486639</project_id>
+        <updated_at>2013-07-21T00:24:35Z</updated_at>
+        <logged_at>2013-07-21T00:24:30Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12103</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/g5c/analyses/14509384/languages.png">
+          <language color="555555" percentage="82" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="18" id="5">
+Java          </language>
+          <language color="EEE" percentage="&lt;1" id="46">
+MetaFont          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

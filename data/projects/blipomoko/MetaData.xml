@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>472246</id>
+      <name>Blipomoko</name>
+      <url>http://www.ohloh.net/p/blipomoko.xml</url>
+      <html_url>http://www.ohloh.net/p/blipomoko</html_url>
+      <created_at>2009-11-05T20:04:03Z</created_at>
+      <updated_at>2013-06-25T19:38:04Z</updated_at>
+      <description>Blip.pl client written in python-elementary and python-blipapi</description>
+      <homepage_url>http://dos1.github.com/blipomoko/</homepage_url>
+      <download_url>http://dos1.github.com/blipomoko/</download_url>
+      <url_name>blipomoko</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408043</analysis_id>
+      <analysis>
+        <id>14408043</id>
+        <url>http://www.ohloh.net/analyses/14408043.xml</url>
+        <project_id>472246</project_id>
+        <updated_at>2013-07-16T06:38:53Z</updated_at>
+        <logged_at>2013-07-16T06:38:52Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>584</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blipomoko/analyses/14408043/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

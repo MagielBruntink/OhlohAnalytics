@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>32292</id>
+      <name>regain</name>
+      <url>http://www.ohloh.net/p/regain.xml</url>
+      <html_url>http://www.ohloh.net/p/regain</html_url>
+      <created_at>2008-12-06T21:31:48Z</created_at>
+      <updated_at>2013-07-21T17:54:54Z</updated_at>
+      <description>Regain is a Java search engine based on Jakarta Lucene. It provides indexing and searching files for plenty of formats (HTML,XML,doc(x),xls(x),ppt(x),oo,PDF,RTF,mp3,mp4,Java). A TagLibrary eases integrating search results in your JSP based web page.</description>
+      <homepage_url>http://regain.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/projects/regain/files/regain/</download_url>
+      <url_name>regain</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/39843/regain_logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/39843/regain_logo_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14381886</analysis_id>
+      <tags>
+        <tag>desktop</tag>
+        <tag>search</tag>
+        <tag>mp3</tag>
+        <tag>doc</tag>
+        <tag>lucene</tag>
+        <tag>java</tag>
+        <tag>xls</tag>
+        <tag>poi</tag>
+        <tag>odt</tag>
+      </tags>
+      <analysis>
+        <id>14381886</id>
+        <url>http://www.ohloh.net/analyses/14381886.xml</url>
+        <project_id>32292</project_id>
+        <updated_at>2013-07-18T10:22:16Z</updated_at>
+        <logged_at>2013-07-18T10:22:13Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>40857</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/regain/analyses/14381886/languages.png">
+          <language color="9A63AD" percentage="66" id="5">
+Java          </language>
+          <language color="EEE" percentage="22" id="87">
+NSIS          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

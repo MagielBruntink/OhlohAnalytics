@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13673</id>
+      <name>DeSiGLE</name>
+      <url>http://www.ohloh.net/p/desigle.xml</url>
+      <html_url>http://www.ohloh.net/p/desigle</html_url>
+      <created_at>2008-05-01T13:00:23Z</created_at>
+      <updated_at>2013-07-05T22:23:19Z</updated_at>
+      <description>I wanted a simple GTK-based LaTeX editor with spell checking, syntax highlighting, auto-completion and a PDF preview pane. None that I could find fit this bill, so I rolled my own.</description>
+      <homepage_url>http://desigle.org</homepage_url>
+      <download_url>http://code.google.com/p/desigle/source/checkout</download_url>
+      <url_name>desigle</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14542671</analysis_id>
+      <analysis>
+        <id>14542671</id>
+        <url>http://www.ohloh.net/analyses/14542671.xml</url>
+        <project_id>13673</project_id>
+        <updated_at>2013-07-21T23:22:26Z</updated_at>
+        <logged_at>2013-07-21T23:22:24Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2066</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/desigle/analyses/14542671/languages.png">
+          <language color="4A246B" percentage="50" id="9">
+Python          </language>
+          <language color="555555" percentage="40" id="3">
+XML          </language>
+          <language color="777777" percentage="7" id="11">
+shell script          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>78428</id>
+      <name>mtgtoolbox</name>
+      <url>http://www.ohloh.net/p/mtgtoolbox.xml</url>
+      <html_url>http://www.ohloh.net/p/mtgtoolbox</html_url>
+      <created_at>2008-12-20T04:18:22Z</created_at>
+      <updated_at>2013-06-24T13:52:13Z</updated_at>
+      <description>mthtoolbox will be a Magic: the Gathering (M:tg) collection management application. Eventually it will include a deck editor and analyzer.</description>
+      <homepage_url>http://code.google.com/p/mtgtoolbox</homepage_url>
+      <download_url></download_url>
+      <url_name>mtgtoolbox</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14379657</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>sqlite</tag>
+        <tag>csharp</tag>
+        <tag>wpf</tag>
+        <tag>mtg</tag>
+      </tags>
+      <analysis>
+        <id>14379657</id>
+        <url>http://www.ohloh.net/analyses/14379657.xml</url>
+        <project_id>78428</project_id>
+        <updated_at>2013-07-21T19:38:37Z</updated_at>
+        <logged_at>2013-07-21T19:38:35Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9567</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mtgtoolbox/analyses/14379657/languages.png">
+          <language color="4096EE" percentage="46" id="17">
+C#          </language>
+          <language color="555555" percentage="29" id="3">
+XML          </language>
+          <language color="4A246B" percentage="23" id="9">
+Python          </language>
+          <language color="EEE" percentage="2" id="67">
+XAML          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

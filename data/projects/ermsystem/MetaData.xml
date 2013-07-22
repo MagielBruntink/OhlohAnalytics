@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>8974</id>
+      <name>ErmSystem</name>
+      <url>http://www.ohloh.net/p/ermsystem.xml</url>
+      <html_url>http://www.ohloh.net/p/ermsystem</html_url>
+      <created_at>2007-10-06T08:55:20Z</created_at>
+      <updated_at>2013-06-30T08:11:50Z</updated_at>
+      <description>This project is an Enterprise Resource Manager System. It's based on Ezpdo framework and Smarty template. Main goal is to develop a more secure content managing system intranet oriented. ErmSystem use users and rights contained in database system.</description>
+      <homepage_url>http://ermsystem.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=199521</download_url>
+      <url_name>ermsystem</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14476950</analysis_id>
+      <analysis>
+        <id>14476950</id>
+        <url>http://www.ohloh.net/analyses/14476950.xml</url>
+        <project_id>8974</project_id>
+        <updated_at>2013-07-19T02:42:25Z</updated_at>
+        <logged_at>2013-07-19T02:42:20Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2007-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>205057</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ermsystem/analyses/14476950/languages.png">
+          <language color="356AA0" percentage="78" id="2">
+PHP          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="1" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

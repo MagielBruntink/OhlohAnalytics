@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483156</id>
+      <name>OATH Toolkit</name>
+      <url>http://www.ohloh.net/p/oath-toolkit.xml</url>
+      <html_url>http://www.ohloh.net/p/oath-toolkit</html_url>
+      <created_at>2010-05-23T20:24:02Z</created_at>
+      <updated_at>2013-07-15T21:49:24Z</updated_at>
+      <description>The OATH Toolkit attempts to collect several tools that are useful when deploying technologies related to OATH.  For example, see RFC 4226 on OATH HOTP.  Included is a shared library (liboath), a command line tool (oathtool) and a PAM module (pam_oath).</description>
+      <homepage_url>http://www.nongnu.org/oath-toolkit/</homepage_url>
+      <download_url>https://savannah.nongnu.org/files/?group=oath-toolkit</download_url>
+      <url_name>oath-toolkit</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1231/c_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14643486</analysis_id>
+      <tags>
+        <tag>security</tag>
+        <tag>authentication</tag>
+        <tag>token</tag>
+        <tag>totp</tag>
+        <tag>hotp</tag>
+        <tag>oath</tag>
+        <tag>otp</tag>
+      </tags>
+      <analysis>
+        <id>14643486</id>
+        <url>http://www.ohloh.net/analyses/14643486.xml</url>
+        <project_id>483156</project_id>
+        <updated_at>2013-07-15T21:49:24Z</updated_at>
+        <logged_at>2013-07-15T21:48:44Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>123947</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/oath-toolkit/analyses/14643486/languages.png">
+          <language color="FF8F00" percentage="49" id="42">
+C          </language>
+          <language color="EEE" percentage="20" id="51">
+Autoconf          </language>
+          <language color="F35F1F" percentage="18" id="44">
+C++          </language>
+          <language color="000000" percentage="13" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>320036</id>
+      <name>as3-multiple-file-preloader</name>
+      <url>http://www.ohloh.net/p/as3-multiple-file-preloader.xml</url>
+      <html_url>http://www.ohloh.net/p/as3-multiple-file-preloader</html_url>
+      <created_at>2009-03-17T22:13:16Z</created_at>
+      <updated_at>2013-07-21T23:25:42Z</updated_at>
+      <description>Preloader Class preloads multiple swfs and/or imagesUPDATE: Sorting output is now the same as input, so all images preloaded by this class can be pulled out in the same sorting order Accepts an array with strings containing the files to be loaded 
+
+ Dispatches a progress event when loading is in progress 
+
+ Get the total percentage loaded through getter method 'Preloader.percLoaded' 
+
+ Dispatches a complete event when total loading is complete 
+
+ Returns an array with objects with the loaded files 
+
+ Get the array through getter method 'Preloader.objects' 
+
+Working example included</description>
+      <homepage_url>http://code.google.com/p/as3-multiple-file-preloader</homepage_url>
+      <download_url></download_url>
+      <url_name>as3-multiple-file-preloader</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14720827</analysis_id>
+      <tags>
+        <tag>images</tag>
+        <tag>preloading</tag>
+        <tag>image</tag>
+        <tag>preload</tag>
+        <tag>multiple</tag>
+        <tag>files</tag>
+        <tag>actionscript</tag>
+        <tag>file</tag>
+        <tag>multiplefiles</tag>
+      </tags>
+      <analysis>
+        <id>14720827</id>
+        <url>http://www.ohloh.net/analyses/14720827.xml</url>
+        <project_id>320036</project_id>
+        <updated_at>2013-07-21T23:25:42Z</updated_at>
+        <logged_at>2013-07-21T23:25:20Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/as3-multiple-file-preloader/analyses/14720827/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588153</id>
+      <name>DonReY Framework</name>
+      <url>http://www.ohloh.net/p/donrey.xml</url>
+      <html_url>http://www.ohloh.net/p/donrey</html_url>
+      <created_at>2012-01-07T04:48:48Z</created_at>
+      <updated_at>2013-06-29T11:49:07Z</updated_at>
+      <description>DonReY is a new framework which focuses on providing universal-useful services to your code, to avoid repetition as much as possible.
+
+DonReY name comes from the &quot;Don't Repeat Yourself&quot; software design principle ( http://en.wikipedia.org/wiki/Don%27t_repeat_yourself )
+
+An application written using this framework will be able to reuse large parts of it's code for similar purposes, making minimalistic coding possible. Also, DonReY is designed for efficiency, using advanced PHP5 features only the required components are actually loaded. This minimizes the server's memory footprint while running the script and maximizes the page delivery speed.
+
+While DonReY offers typical MVC features, an application is not required to use them to function. This makes it possible to create extremely fast AJAX</description>
+      <homepage_url>http://www.donrey.net/</homepage_url>
+      <download_url>http://code.google.com/p/donrey/downloads/list</download_url>
+      <url_name>donrey</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49698/donrey-preliminary-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49698/donrey-preliminary-logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14456071</analysis_id>
+      <tags>
+        <tag>template-engine</tag>
+        <tag>mvc</tag>
+        <tag>modular</tag>
+        <tag>php5</tag>
+        <tag>mysql</tag>
+        <tag>framework</tag>
+        <tag>php</tag>
+        <tag>javascript</tag>
+        <tag>cms</tag>
+        <tag>dry</tag>
+        <tag>html5</tag>
+        <tag>ajax</tag>
+        <tag>extensible</tag>
+        <tag>xml</tag>
+        <tag>mysql5</tag>
+        <tag>lazy-loading</tag>
+      </tags>
+      <analysis>
+        <id>14456071</id>
+        <url>http://www.ohloh.net/analyses/14456071.xml</url>
+        <project_id>588153</project_id>
+        <updated_at>2013-07-20T05:09:17Z</updated_at>
+        <logged_at>2013-07-20T05:09:13Z</logged_at>
+        <min_month>2011-11-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12077</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/donrey/analyses/14456071/languages.png">
+          <language color="356AA0" percentage="82" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="10" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

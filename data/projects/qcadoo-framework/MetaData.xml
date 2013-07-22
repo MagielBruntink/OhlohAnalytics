@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584435</id>
+      <name>qcadoo Framework</name>
+      <url>http://www.ohloh.net/p/qcadoo-framework.xml</url>
+      <html_url>http://www.ohloh.net/p/qcadoo-framework</html_url>
+      <created_at>2011-06-10T11:36:53Z</created_at>
+      <updated_at>2013-07-22T00:01:03Z</updated_at>
+      <description>The qcadoo Framework is a great tool for rapid implementation of modular database web application. Every thing in it is a module and therefore can be extended by another module. Yours for example ! While designing the qcadoo Framework we also wanted to make it very easy for new developers. For this purpose we created two simple XML languages: one to define the GUI and the other do define the data model. Thanks to them in a few lines of code you can add a new data entity, a table for it and all the basic CRUD operations (Create, Remove, Update, Delete). Also you can always write more complex business logic in a simple POJO Java class and use the XML languages to hook it to the right events.
+
+We use this framework in our qcado MES system but is not limited to just manufacturing software.</description>
+      <homepage_url>http://www.qcadoo.com</homepage_url>
+      <download_url>http://wiki.qcadoo.org/display/QCDMESDOC/Getting+started</download_url>
+      <url_name>qcadoo-framework</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44495/qcadoo_logo_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44495/qcadoo_logo_small_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14721294</analysis_id>
+      <tags>
+        <tag>hibernate</tag>
+        <tag>toolkit</tag>
+        <tag>object_oriented</tag>
+        <tag>development</tag>
+        <tag>cross-platform</tag>
+        <tag>rapid</tag>
+        <tag>xml</tag>
+        <tag>mvc</tag>
+        <tag>framework</tag>
+        <tag>java</tag>
+        <tag>modular</tag>
+        <tag>web</tag>
+        <tag>software_development</tag>
+        <tag>multilingual</tag>
+        <tag>library</tag>
+        <tag>programming</tag>
+        <tag>spring</tag>
+        <tag>orm</tag>
+      </tags>
+      <analysis>
+        <id>14721294</id>
+        <url>http://www.ohloh.net/analyses/14721294.xml</url>
+        <project_id>584435</project_id>
+        <updated_at>2013-07-22T00:01:02Z</updated_at>
+        <logged_at>2013-07-22T00:00:24Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>89378</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/qcadoo-framework/analyses/14721294/languages.png">
+          <language color="9A63AD" percentage="70" id="5">
+Java          </language>
+          <language color="A4007E" percentage="16" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

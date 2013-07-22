@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>52872</id>
+      <name>s3backer</name>
+      <url>http://www.ohloh.net/p/s3backer.xml</url>
+      <html_url>http://www.ohloh.net/p/s3backer</html_url>
+      <created_at>2008-12-16T19:56:34Z</created_at>
+      <updated_at>2013-07-20T06:31:35Z</updated_at>
+      <description>s3backer is a filesystem that contains a single file backed by the Amazon Simple Storage Service (Amazon S3).  As a filesystem, it is very simple: it provides a single normal file having a fixed size.  Underneath, the file is divided up into blocks, and the content of each block is stored in a unique Amazon S3 object.  In other words, what s3backer provides is really more like an S3-backed virtual hard disk device, rather than a filesystem. 
+
+In typical usage, a normal filesystem is mounted on top of the file exported by the s3backer filesystem using a loopback mount (or disk image mount on Mac OS X). 
+
+This arrangement has several benefits compared to more complete S3 filesystem implementations: 
+
+By not attempting to implement a complete filesystem, which is a complex undertaking and difficult to get right, s3backer can stay very lightweight and simple. Only three HTTP operations are used: GET, PUT, and DELETE.  All of the experience and knowledge about how to properly implement filesystems that already exists can be reused. By utilizing existing filesystems, you get full UNIX filesystem semantics.  Subtle bugs or missing functionality relating to hard links, extended attributes, POSIX locking, etc. are avoided. The gap between normal filesystem semantics and Amazon S3 ``eventual consistency'' is more easily and simply solved when one can interpret S3 objects as simple device blocks rather than filesystem objects (see below). When storing your data on Amazon S3 servers, which are not under your control, the ability to encrypt data becomes a critical issue. s3backer supports secure encryption and authentication. Alternately, the encryption capability built into the Linux loopback device can be used. Since S3 data is accessed over the network, local caching is also very important for performance reasons.  Since s3backer presents the equivalent of a virtual hard disk to the kernel, most of the filesystem caching can be done where it should be: in the kernel, via the kernel's page cache.  However s3backer also includes its own internal block cache for increased performance, using asynchronous worker threads to take advantage of the parallelism inherent in the network. Consistency GuaranteesAmazon S3 makes relatively weak guarantees relating to the timing and consistency of reads vs. writes (collectively known as &quot;eventual consistency&quot;).  s3backer includes logic and configuration parameters to work around these limitations, allowing the user to guarantee consistency to whatever level desired, up to and including 100% detection and avoidance of incorrect data. These are: 
+
+s3backer enforces a minimum delay between consecutive PUT or DELETE operations on the same block.  This ensures that Amazon S3 doesn't receive these operations out of order. s3backer maintains an internal block MD5 checksum cache, which enables automatic detection and rejection of `stale' blocks returned by GET operations. This logic is configured by the following command line options: --md5CacheSize, --md5CacheTime, and --minWriteDelay. 
+
+Zeroed Block OptimizationAs a simple optimization, s3backer does not store blocks containing all zeroes; instead, they are simply deleted.  Conversely, reads of non-existent blocks will contain all zeroes.  In other words, the backed file is always maximally sparse. 
+
+As a result, blocks do not need to be created before being used and no special initialization is necessary when creating a new filesystem. 
+
+When the --listBlocks flag is given, s3backer will list all existing blocks at startup so it knows ahead of time exactly which blocks are empty. 
+
+File and Block Size Auto-DetectionAs a convenience, whenever the first block of the backed file is written, s3backer includes as meta-data (in the x-amz-meta-s3backer-filesize header) the total size of the file.  Along with the size of the block itself, this value can be checked and/or auto-detected later when the filesystem is remounted, eliminating the need for the --blockSize or --size flags to be explicitly provided and avoiding accidental mis-interpretation of an existing filesystem. 
+
+Block Caches3backer includes support for an internal block cache to increase performance.  The block cache cache is completely separate from the MD5 cache which only stores MD5 checksums transiently and whose sole purpose is to mitigate ``eventual consistency''.  The block cache is a traditional cache containing cached data blocks.  When full, clean blocks are evicted as necessary in LRU order. 
+
+Reads of cached blocks will return immediately with no network traffic. Writes to the cache also return immediately and trigger an asynchronous write operation to the network via a separate worker thread.  Because the kernel typically writes blocks through FUSE filesystems one at a time, performing writes asynchronously allows s3backer to take advantage of the parallelism inherent in the network, vastly improving write performance. 
+
+The block cache can be configured to store the cached data in a local file instead of in memory.  This permits larger cache sizes and allows s3backer to reload cached data after a restart.  Reloaded data is verified via MD5 checksum with Amazon S3 before reuse. 
+
+The block cache is configured by the following command line options: --blockCacheFile, --blockCacheNoVerify, --blockCacheSize, --blockCacheThreads and --blockCacheWriteDelay. 
+
+Read Aheads3backer implements a simple read-ahead algorithm in the block cache.  When a configurable number of blocks are read in order, block cache worker threads are awoken to begin reading subsequent blocks into the block cache. Read ahead continues as long as the kernel continues reading blocks sequentially. The kernel typically requests blocks one at a time, so having multiple worker threads already reading the next few blocks improves read performance by taking advantage of the parallelism inherent in the network. 
+
+Note that the kernel implements a read ahead algorithm as well; its behavior should be taken into consideration.  By default, s3backer passes the -o max_readahead=0 option to FUSE. 
+
+Read ahead is configured by the --readAhead and --readAheadTrigger command line options. 
+
+Encryption and Authentications3backer supports encryption via the --encrypt, --password, and --passwordFile flags.  When encryption is enabled, SHA1 HMAC authentication is also automatically enabled, and s3backer rejects any blocks that are not properly encrypted and signed. 
+
+Encrypting at the s3backer layer is preferable to encrypting at an upper layer (e.g., at the loopback device layer), because if the data s3backer sees is already encrypted it can't optimize away zeroed blocks or do meaningful compression. 
+
+Compressions3backer supports block-level compression, which minimizes transfer time and storage costs. 
+
+Compression is configured via the--compress flag. Compression is automatically enabled when encryption is enabled. 
+
+Read-Only AccessAn Amazon S3 account is not required in order to use s3backer.  Of course a filesystem must already exist and have S3 objects with ACL's configured for public read access (see --accessType below); users should perform the looback mount with the read-only flag (see mount(8)) and provide the --readOnly flag to s3backer.  This mode of operation facilitates the creation of public, read-only filesystems. 
+
+Simultaneous MountsAlthough it functions over the network, the s3backer filesystem is not a distributed filesystem and does not support simultaneous read/write mounts.  (This is not something you would normally do with a hard-disk partition either.)  s3backer does not detect this situation; it is up to the user to ensure that it doesn't happen. 
+
+Statistics Files3backer populates the filesystem with a human-readable statistics file.  See --statsFilename below. 
+
+LoggingIn normal operation s3backer will log via syslog(3).  When run with the -d or -f flags, s3backer will log to standard error. 
+
+OK, Where to Next?Try it out! No Amazon S3 account is required. 
+
+See the ManPage for further documentation and the CHANGES file for release notes. 
+
+Join the s3backer-devel group to participate in discussion and development of s3backer.</description>
+      <homepage_url>http://code.google.com/p/s3backer</homepage_url>
+      <download_url></download_url>
+      <url_name>s3backer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14694556</analysis_id>
+      <tags>
+        <tag>amazon</tag>
+        <tag>filesystem</tag>
+        <tag>s3</tag>
+        <tag>s3backer</tag>
+        <tag>cloud</tag>
+        <tag>backup</tag>
+        <tag>fuse</tag>
+        <tag>service</tag>
+        <tag>disk</tag>
+        <tag>simple</tag>
+        <tag>storage</tag>
+      </tags>
+      <analysis>
+        <id>14694556</id>
+        <url>http://www.ohloh.net/analyses/14694556.xml</url>
+        <project_id>52872</project_id>
+        <updated_at>2013-07-20T06:31:35Z</updated_at>
+        <logged_at>2013-07-20T06:30:46Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6558</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/s3backer/analyses/14694556/languages.png">
+          <language color="FF8F00" percentage="97" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

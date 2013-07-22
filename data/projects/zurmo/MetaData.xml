@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>617094</id>
+      <name>Zurmo</name>
+      <url>http://www.ohloh.net/p/zurmo.xml</url>
+      <html_url>http://www.ohloh.net/p/zurmo</html_url>
+      <created_at>2012-11-20T22:15:35Z</created_at>
+      <updated_at>2013-07-21T23:34:44Z</updated_at>
+      <description>Zurmo is an open source CRM application written in PHP utilizing jQuery, Yii Framework, and RedBeanPHP.
+Our goal with Zurmo is to provide an easy-to-use, easy-to-customize CRM application that can be adapted to any business use case. We have taken special care to think through many different use cases and have designed a system that we believe provides a high degree of flexibility, covering a wide variety of use cases out of the box.
+We don't have a million features. We can never beat out existing players in a feature war.
+But considering companies wind up only using a handful of features, we don't think it really matters.
+What we have so far is the beginning of a high-quality sales force automation tool. Stay tuned as we continue to make improvements.</description>
+      <homepage_url>http://www.zurmo.org</homepage_url>
+      <download_url>http://zurmo.org/download</download_url>
+      <url_name>zurmo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59477/6464logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59477/6464logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14720909</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>php</tag>
+        <tag>campaign</tag>
+        <tag>marketing</tag>
+        <tag>contacts</tag>
+        <tag>crm</tag>
+        <tag>application</tag>
+        <tag>enterprise</tag>
+        <tag>cms</tag>
+        <tag>reporting</tag>
+        <tag>tdd</tag>
+        <tag>selenium</tag>
+      </tags>
+      <analysis>
+        <id>14720909</id>
+        <url>http://www.ohloh.net/analyses/14720909.xml</url>
+        <project_id>617094</project_id>
+        <updated_at>2013-07-21T23:34:43Z</updated_at>
+        <logged_at>2013-07-21T23:31:57Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>37</twelve_month_contributor_count>
+        <total_code_lines>464235</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zurmo/analyses/14720909/languages.png">
+          <language color="356AA0" percentage="83" id="2">
+PHP          </language>
+          <language color="47A400" percentage="8" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

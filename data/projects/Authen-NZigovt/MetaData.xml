@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584619</id>
+      <name>Authen-NZigovt</name>
+      <url>http://www.ohloh.net/p/Authen-NZigovt.xml</url>
+      <html_url>http://www.ohloh.net/p/Authen-NZigovt</html_url>
+      <created_at>2011-06-19T23:55:43Z</created_at>
+      <updated_at>2013-07-16T23:40:18Z</updated_at>
+      <description>This Perl module provides an API for integrating your application with the New Zealand igovt logon service using SAML 2.0 messaging.
+
+The distribution also includes a command-line tool called 'nzigovt' which can be used for generating certificates and metadata; generating authentication request messages and resolving artifacts.</description>
+      <homepage_url>http://search.cpan.org/dist/Authen-NZigovt/</homepage_url>
+      <download_url></download_url>
+      <url_name>Authen-NZigovt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14654103</analysis_id>
+      <analysis>
+        <id>14654103</id>
+        <url>http://www.ohloh.net/analyses/14654103.xml</url>
+        <project_id>584619</project_id>
+        <updated_at>2013-07-21T00:12:35Z</updated_at>
+        <logged_at>2013-07-21T00:12:34Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2097</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Authen-NZigovt/analyses/14654103/languages.png">
+          <language color="D2C690" percentage="96" id="8">
+Perl          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

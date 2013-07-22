@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>119406</id>
+      <name>winbolo</name>
+      <url>http://www.ohloh.net/p/winbolo.xml</url>
+      <html_url>http://www.ohloh.net/p/winbolo</html_url>
+      <created_at>2009-01-02T11:26:55Z</created_at>
+      <updated_at>2013-07-22T05:26:41Z</updated_at>
+      <description>WinBolo is a implementation of the popular Macintosh network game &quot;Bolo&quot; from the early to middle nineties from scratch on the Window platform. It runs on Windows 95, 98, NT4 (SP5+), 2000 and Windows XP operating systems. It also runs on Linux. Bolo has been described by its author, Stuart Cheshire as, 
+
+&quot;Bolo is a 16 player graphical networked real-time multi-player tank battle game. It has elements of arcade-style shoot-em-up action, but for the serious players who play 12 hour games with 16 players working in teams in different networked computer clusters around an office or university campus, it becomes more of a strategy game. You have to play it to understand.&quot; 
+
+Bolo has been describe as a game that, &quot;takes an instant to learn but a lifetime to master.&quot; It objectives appear simple, to capture and hold all bases on the map yet there are a wide varieties of strategies and counter strategies that can be employed. To learn the basics of the game you can play the inbuilt tutorial, then after a bit of practice jump online on to a free public WinBolo server and play. 
+
+WinBolo supports a few additional features that was not present in Bolo. These include: 
+
+Client/Server network architecture. Built in internet game browser. Support for user created skins. Integration with WinBolo.net a website for logging games, ranking players and community forums. Game logging and play back. (Coming soon) Source code includes: 
+
+Game client and server for windows. Tracker - Game master server. WBN game ranking and community website. Java prototype/alpha client Log viewer</description>
+      <homepage_url>http://code.google.com/p/winbolo</homepage_url>
+      <download_url></download_url>
+      <url_name>winbolo</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14727130</analysis_id>
+      <tags>
+        <tag>bolo</tag>
+        <tag>winbolo</tag>
+      </tags>
+      <analysis>
+        <id>14727130</id>
+        <url>http://www.ohloh.net/analyses/14727130.xml</url>
+        <project_id>119406</project_id>
+        <updated_at>2013-07-22T05:26:41Z</updated_at>
+        <logged_at>2013-07-22T05:26:30Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>171415</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/winbolo/analyses/14727130/languages.png">
+          <language color="FF8F00" percentage="64" id="42">
+C          </language>
+          <language color="356AA0" percentage="18" id="2">
+PHP          </language>
+          <language color="9A63AD" percentage="12" id="5">
+Java          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>46370</id>
+      <name>perl-net-epp</name>
+      <url>http://www.ohloh.net/p/perl-net-epp.xml</url>
+      <html_url>http://www.ohloh.net/p/perl-net-epp</html_url>
+      <created_at>2008-12-16T01:21:20Z</created_at>
+      <updated_at>2013-06-26T23:08:32Z</updated_at>
+      <description>IntroductionEPP is the Extensible Provisioning Protocol. EPP (defined in RFC 4930) is an application layer client-server protocol for the provisioning and management of objects stored in a shared central repository. Specified in XML, the protocol defines generic object management operations and an extensible framework that maps protocol operations to objects. As of writing, its only well-developed application is the provisioning of Internet domain names, hosts, and related contact details. 
+
+This project offers a number of Perl modules which implement various EPP-related functions: 
+
+a low level protocol implementation (Net::EPP::Protocol) a low-level client (Net::EPP::Client) a high-level client (Net::EPP::Simple) an EPP frame builder (Net::EPP::Frame) an EPP proxy server (Net::EPP::Proxy) a utility library to export EPP responde codes (Net::EPP::ResponseCodes) These modules were originally created and maintained by CentralNic for use by their own registrars, but since their original release have become widely used by registrars and registries of all kinds. 
+
+CentralNic has chosen to create this project to allow interested third parties to contribute to the development of these libraries, and to guarantee their long-term stability and maintenance. 
+
+PreppiPreppi is a graphical EPP client written in Perl. It uses the modules listed above as well as the GTK and GNOME bindings for Perl. For more information about Preppi, click here. 
+
+DownloadsThe Net::EPP modules are distributed via CPAN in a single package to allow for easy installation. To install the package, simply use the cpan command: 
+
+# cpan -i Net::EPPDocumentationThe CPAN search site automatically generates documentation for these modules from the inline POD documentation - click on the module names above to view the documentation for each module. 
+
+ContributingIf you would like to contribute to the maintenance and development of these modules, please get in touch.</description>
+      <homepage_url>http://code.google.com/p/perl-net-epp</homepage_url>
+      <download_url></download_url>
+      <url_name>perl-net-epp</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14424591</analysis_id>
+      <tags>
+        <tag>domain</tag>
+        <tag>dns</tag>
+        <tag>epp</tag>
+        <tag>perl</tag>
+      </tags>
+      <analysis>
+        <id>14424591</id>
+        <url>http://www.ohloh.net/analyses/14424591.xml</url>
+        <project_id>46370</project_id>
+        <updated_at>2013-07-20T15:24:28Z</updated_at>
+        <logged_at>2013-07-20T15:24:26Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8189</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/perl-net-epp/analyses/14424591/languages.png">
+          <language color="D2C690" percentage="64" id="8">
+Perl          </language>
+          <language color="555555" percentage="22" id="3">
+XML          </language>
+          <language color="556677" percentage="14" id="35">
+XML Schema          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

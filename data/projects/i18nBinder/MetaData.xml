@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584227</id>
+      <name>i18n Binder</name>
+      <url>http://www.ohloh.net/p/i18nBinder.xml</url>
+      <html_url>http://www.ohloh.net/p/i18nBinder</html_url>
+      <created_at>2011-06-01T06:30:01Z</created_at>
+      <updated_at>2013-07-10T11:08:05Z</updated_at>
+      <description>The i18n Binder provides a new Apache ANT task which allows you to map i18n properties from multiple property files to an Microsoft Excel XLS file and write changed properties within the XLS file back to the original source files 
+
+In the first step the locales are separated from the absolute file path by a declared regualar expression pattern. This results in a as many columns a locales are matched within the XLS file In the rows all property keys per file are listed. 
+
+In the second step the properies changed within the XLS file are merged back into the original files. This is done with minimal impact on the property files which means comments an blank line are maintained as they are.</description>
+      <homepage_url>http://code.google.com/p/i18n-binder/</homepage_url>
+      <download_url>http://code.google.com/p/i18n-binder/downloads/list</download_url>
+      <url_name>i18nBinder</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14580897</analysis_id>
+      <analysis>
+        <id>14580897</id>
+        <url>http://www.ohloh.net/analyses/14580897.xml</url>
+        <project_id>584227</project_id>
+        <updated_at>2013-07-20T03:49:02Z</updated_at>
+        <logged_at>2013-07-20T03:48:59Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5525</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/i18nBinder/analyses/14580897/languages.png">
+          <language color="9A63AD" percentage="90" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

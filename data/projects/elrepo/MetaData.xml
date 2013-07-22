@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603223</id>
+      <name>ELRepo</name>
+      <url>http://www.ohloh.net/p/elrepo.xml</url>
+      <html_url>http://www.ohloh.net/p/elrepo</html_url>
+      <created_at>2012-07-05T13:08:42Z</created_at>
+      <updated_at>2013-07-18T00:12:17Z</updated_at>
+      <description>Kernel module (driver) packages to improve RHEL's hardware support</description>
+      <homepage_url>http://elrepo.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>elrepo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/54463/elrepo_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/54463/elrepo_small.gif</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14669351</analysis_id>
+      <tags>
+        <tag>kernelmodule</tag>
+        <tag>redhat</tag>
+        <tag>centos</tag>
+        <tag>add-on</tag>
+        <tag>repository</tag>
+        <tag>rpm</tag>
+        <tag>repo</tag>
+        <tag>rhel</tag>
+        <tag>scientific_linux</tag>
+        <tag>kernel</tag>
+        <tag>kernel_module</tag>
+      </tags>
+      <analysis>
+        <id>14669351</id>
+        <url>http://www.ohloh.net/analyses/14669351.xml</url>
+        <project_id>603223</project_id>
+        <updated_at>2013-07-18T00:12:16Z</updated_at>
+        <logged_at>2013-07-18T00:11:17Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>53972</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/elrepo/analyses/14669351/languages.png">
+          <language color="FF8F00" percentage="65" id="42">
+C          </language>
+          <language color="777777" percentage="31" id="11">
+shell script          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633408</id>
+      <name>relax (molecular dynamics analysis)</name>
+      <url>http://www.ohloh.net/p/nmr-relax.xml</url>
+      <html_url>http://www.ohloh.net/p/nmr-relax</html_url>
+      <created_at>2013-02-21T09:46:03Z</created_at>
+      <updated_at>2013-07-20T17:19:20Z</updated_at>
+      <description>relax is a program designed for the study of molecular dynamics of organic molecules, proteins, RNA, DNA, sugars, and other biomolecules through the analysis of experimental NMR data. It supports exponential curve fitting for the calculation of the R1 and R2 relaxation rates, calculation of the NOE, reduced spectral density mapping, the Lipari and Szabo model-free analysis, study of domain motions via the N-state model or ensemble analysis and frame order dynamics theories using anisotropic NMR parameters such as RDCs and PCSs, and the investigation of stereochemistry.</description>
+      <homepage_url>http://www.nmr-relax.com</homepage_url>
+      <download_url>http://www.nmr-relax.com/download.html</download_url>
+      <url_name>nmr-relax</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62422/ulysses_shadowless_trans_128x128_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62422/ulysses_shadowless_trans_128x128_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14691929</analysis_id>
+      <tags>
+        <tag>ensemble</tag>
+        <tag>frame_order</tag>
+        <tag>nucleicacid</tag>
+        <tag>python</tag>
+        <tag>biochemistry</tag>
+        <tag>dynamics</tag>
+        <tag>nmr</tag>
+        <tag>relaxation</tag>
+        <tag>protein</tag>
+        <tag>chemistry</tag>
+        <tag>analysis</tag>
+        <tag>modelfree</tag>
+        <tag>r1</tag>
+        <tag>noe</tag>
+        <tag>consistency_testing</tag>
+        <tag>r2</tag>
+        <tag>model_free</tag>
+        <tag>rsdm</tag>
+        <tag>n_state</tag>
+        <tag>stereochemistry</tag>
+      </tags>
+      <analysis>
+        <id>14691929</id>
+        <url>http://www.ohloh.net/analyses/14691929.xml</url>
+        <project_id>633408</project_id>
+        <updated_at>2013-07-20T02:41:17Z</updated_at>
+        <logged_at>2013-07-20T02:36:48Z</logged_at>
+        <min_month>2001-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>373802</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nmr-relax/analyses/14691929/languages.png">
+          <language color="4A246B" percentage="93" id="9">
+Python          </language>
+          <language color="000080" percentage="6" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

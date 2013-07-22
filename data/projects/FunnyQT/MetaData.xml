@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589444</id>
+      <name>FunnyQT</name>
+      <url>http://www.ohloh.net/p/FunnyQT.xml</url>
+      <html_url>http://www.ohloh.net/p/FunnyQT</html_url>
+      <created_at>2012-02-27T19:41:35Z</created_at>
+      <updated_at>2013-07-21T18:40:01Z</updated_at>
+      <description>FunnyQT is a model querying and transformation library.</description>
+      <homepage_url>https://github.com/jgralab/funnyqt</homepage_url>
+      <download_url></download_url>
+      <url_name>FunnyQT</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14717234</analysis_id>
+      <analysis>
+        <id>14717234</id>
+        <url>http://www.ohloh.net/analyses/14717234.xml</url>
+        <project_id>589444</project_id>
+        <updated_at>2013-07-21T18:40:01Z</updated_at>
+        <logged_at>2013-07-21T18:39:33Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>10078</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/FunnyQT/analyses/14717234/languages.png">
+          <language color="DB5855" percentage="95" id="80">
+Clojure          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>80</main_language_id>
+        <main_language_name>Clojure</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

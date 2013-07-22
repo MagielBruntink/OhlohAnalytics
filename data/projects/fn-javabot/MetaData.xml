@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>33063</id>
+      <name>Freenode Javabot</name>
+      <url>http://www.ohloh.net/p/fn-javabot.xml</url>
+      <html_url>http://www.ohloh.net/p/fn-javabot</html_url>
+      <created_at>2008-12-07T00:36:01Z</created_at>
+      <updated_at>2013-06-22T00:26:30Z</updated_at>
+      <description>IRC bot providing a variety of functions including basic factoid/dictionary service, javadoc lookup, and more.</description>
+      <homepage_url>http://github.com/evanchooly/javabot</homepage_url>
+      <download_url></download_url>
+      <url_name>fn-javabot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14334268</analysis_id>
+      <analysis>
+        <id>14334268</id>
+        <url>http://www.ohloh.net/analyses/14334268.xml</url>
+        <project_id>33063</project_id>
+        <updated_at>2013-07-21T06:16:33Z</updated_at>
+        <logged_at>2013-07-21T06:16:31Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>14762</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fn-javabot/analyses/14334268/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="FF1A00" percentage="18" id="4">
+CSS          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

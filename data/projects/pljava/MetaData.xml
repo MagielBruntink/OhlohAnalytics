@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>142474</id>
+      <name>PL/Java</name>
+      <url>http://www.ohloh.net/p/pljava.xml</url>
+      <html_url>http://www.ohloh.net/p/pljava</html_url>
+      <created_at>2009-01-12T21:56:01Z</created_at>
+      <updated_at>2013-07-20T14:35:24Z</updated_at>
+      <description>PL/Java is a free add-on module that brings Java&#8482; Stored Procedures, Triggers, and Functions to the PostgreSQL&#8482; backend via the standard JDBC interface.</description>
+      <homepage_url>http://pgfoundry.org/projects/pljava/</homepage_url>
+      <download_url></download_url>
+      <url_name>pljava</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/24286/pljava64_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/24286/pljava64_small.gif</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14700256</analysis_id>
+      <tags>
+        <tag>jni</tag>
+        <tag>stored_procedures</tag>
+        <tag>java</tag>
+        <tag>postgresql_extension</tag>
+        <tag>postgresql</tag>
+        <tag>storedprocedure</tag>
+        <tag>storedfunctions</tag>
+        <tag>stored_procedure</tag>
+        <tag>jdbc</tag>
+      </tags>
+      <analysis>
+        <id>14700256</id>
+        <url>http://www.ohloh.net/analyses/14700256.xml</url>
+        <project_id>142474</project_id>
+        <updated_at>2013-07-20T14:35:24Z</updated_at>
+        <logged_at>2013-07-20T14:34:50Z</logged_at>
+        <min_month>2004-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>29556</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pljava/analyses/14700256/languages.png">
+          <language color="9A63AD" percentage="57" id="5">
+Java          </language>
+          <language color="FF8F00" percentage="32" id="42">
+C          </language>
+          <language color="000000" percentage="11" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

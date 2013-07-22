@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>598604</id>
+      <name>streetmangler</name>
+      <url>http://www.ohloh.net/p/streetmangler.xml</url>
+      <html_url>http://www.ohloh.net/p/streetmangler</html_url>
+      <created_at>2012-05-30T17:43:42Z</created_at>
+      <updated_at>2013-07-21T15:48:51Z</updated_at>
+      <description>Russian street name database and format converter</description>
+      <homepage_url>https://github.com/AMDmi3/streetmangler</homepage_url>
+      <download_url>https://github.com/AMDmi3/streetmangler/downloads</download_url>
+      <url_name>streetmangler</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14716011</analysis_id>
+      <tags>
+        <tag>openstreetmap</tag>
+        <tag>toponyms</tag>
+      </tags>
+      <analysis>
+        <id>14716011</id>
+        <url>http://www.ohloh.net/analyses/14716011.xml</url>
+        <project_id>598604</project_id>
+        <updated_at>2013-07-21T15:48:50Z</updated_at>
+        <logged_at>2013-07-21T15:48:26Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2080</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/streetmangler/analyses/14716011/languages.png">
+          <language color="F35F1F" percentage="89" id="44">
+C++          </language>
+          <language color="000000" percentage="11" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

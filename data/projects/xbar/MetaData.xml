@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587621</id>
+      <name>xbar</name>
+      <url>http://www.ohloh.net/p/xbar.xml</url>
+      <html_url>http://www.ohloh.net/p/xbar</html_url>
+      <created_at>2011-12-06T17:56:18Z</created_at>
+      <updated_at>2013-07-01T10:20:44Z</updated_at>
+      <description>xbar is intended to be a very light resource monitoring tool, it fits very will within a tiling window manager like xmonad.</description>
+      <homepage_url>https://github.com/mpu/xbar</homepage_url>
+      <download_url></download_url>
+      <url_name>xbar</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48932/xbar-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48932/xbar-logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14500019</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>bar</tag>
+        <tag>xmonad</tag>
+        <tag>stats</tag>
+        <tag>window_manager</tag>
+        <tag>programming</tag>
+        <tag>status</tag>
+        <tag>minimalist</tag>
+        <tag>statusbar</tag>
+        <tag>xmobar</tag>
+        <tag>x</tag>
+      </tags>
+      <analysis>
+        <id>14500019</id>
+        <url>http://www.ohloh.net/analyses/14500019.xml</url>
+        <project_id>587621</project_id>
+        <updated_at>2013-07-20T12:24:57Z</updated_at>
+        <logged_at>2013-07-20T12:24:55Z</logged_at>
+        <min_month>2011-11-01T00:00:00Z</min_month>
+        <max_month>2011-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>836</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xbar/analyses/14500019/languages.png">
+          <language color="FF8F00" percentage="97" id="42">
+C          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

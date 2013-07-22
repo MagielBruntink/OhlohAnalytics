@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>466167</id>
+      <project_id>155830</project_id>
+      <repository_id>462884</repository_id>
+      <repository>
+        <id>462884</id>
+        <type>GitRepository</type>
+        <url>git://github.com/pkernevez/JMonitoring.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-20T17:15:26Z</logged_at>
+        <commits>508</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>210925</id>
+      <project_id>155830</project_id>
+      <repository_id>208957</repository_id>
+      <repository>
+        <id>208957</id>
+        <type>SvnRepository</type>
+        <url>http://forge.octo.com/svn/jmonitoring/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-20T17:15:21Z</logged_at>
+        <commits>417</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

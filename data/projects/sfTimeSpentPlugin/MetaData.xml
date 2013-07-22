@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>484912</id>
+      <name>sfTimeSpentPlugin</name>
+      <url>http://www.ohloh.net/p/sfTimeSpentPlugin.xml</url>
+      <html_url>http://www.ohloh.net/p/sfTimeSpentPlugin</html_url>
+      <created_at>2010-08-20T21:24:32Z</created_at>
+      <updated_at>2013-06-22T23:47:05Z</updated_at>
+      <description>This symfony plugin is a (right now) really quick-and-dirty plugin for managing the time I spend on the projects I work on. In The Netherlands all enterpreneurs are required to register all the hours they spend on their company. This plugin will allow simply registration of these hours.</description>
+      <homepage_url>http://github.com/skoop/sfTimeSpentPlugin</homepage_url>
+      <download_url>http://github.com/skoop/sfTimeSpentPlugin</download_url>
+      <url_name>sfTimeSpentPlugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14348900</analysis_id>
+      <analysis>
+        <id>14348900</id>
+        <url>http://www.ohloh.net/analyses/14348900.xml</url>
+        <project_id>484912</project_id>
+        <updated_at>2013-07-21T08:28:59Z</updated_at>
+        <logged_at>2013-07-21T08:28:58Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>251</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sfTimeSpentPlugin/analyses/14348900/languages.png">
+          <language color="356AA0" percentage="80" id="2">
+PHP          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

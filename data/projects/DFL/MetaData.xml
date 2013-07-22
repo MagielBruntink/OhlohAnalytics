@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587173</id>
+      <name>DFL</name>
+      <url>http://www.ohloh.net/p/DFL.xml</url>
+      <html_url>http://www.ohloh.net/p/DFL</html_url>
+      <created_at>2011-11-10T01:08:58Z</created_at>
+      <updated_at>2013-07-20T03:02:43Z</updated_at>
+      <description>D Forms Library, or DFL, is a Win32 windowing library for the D language. DFL attempts to bring a high level, easy to use interface to the Win32 API. In fact, you rarely even need to directly access the Win32 API when using DFL!</description>
+      <homepage_url>http://wiki.dprogramming.com/Dfl/HomePage</homepage_url>
+      <download_url>https://github.com/Rayerd/dfl</download_url>
+      <url_name>DFL</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14692151</analysis_id>
+      <analysis>
+        <id>14692151</id>
+        <url>http://www.ohloh.net/analyses/14692151.xml</url>
+        <project_id>587173</project_id>
+        <updated_at>2013-07-20T03:02:42Z</updated_at>
+        <logged_at>2013-07-20T03:02:15Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>58201</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/DFL/analyses/14692151/languages.png">
+          <language color="EC2E24" percentage="100" id="32">
+D          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>32</main_language_id>
+        <main_language_name>D</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

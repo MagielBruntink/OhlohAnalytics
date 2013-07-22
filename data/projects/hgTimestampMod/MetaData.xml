@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589046</id>
+      <name>Mercurial TimestampMod Extension</name>
+      <url>http://www.ohloh.net/p/hgTimestampMod.xml</url>
+      <html_url>http://www.ohloh.net/p/hgTimestampMod</html_url>
+      <created_at>2012-02-11T08:08:09Z</created_at>
+      <updated_at>2013-06-24T00:07:45Z</updated_at>
+      <description>TimeStampMod is an extension for Mercurial DVCS that incorporates automatic saving and restoring of the modification times of files under version control.
+
+The intent of this extension is to ease the transition from manual file system based version control into the Mercurial DVCS world. Incorporating automatic timestamp saving and restoring into an extension allows Mercurial to add an extra level of comfort to those users who are more familiar with manually managing their version control via traditional file management.</description>
+      <homepage_url>https://bitbucket.org/nedmech/timestampmod</homepage_url>
+      <download_url>https://bitbucket.org/nedmech/timestampmod/downloads</download_url>
+      <url_name>hgTimestampMod</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/50746/timestamp_mod-logo-2950524815-2_avatar_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/50746/timestamp_mod-logo-2950524815-2_avatar_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14368834</analysis_id>
+      <tags>
+        <tag>extensions</tag>
+        <tag>tools</tag>
+        <tag>version_control</tag>
+        <tag>source_control</tag>
+        <tag>hg</tag>
+        <tag>mercurial</tag>
+        <tag>dvcs</tag>
+        <tag>python</tag>
+        <tag>version-control</tag>
+        <tag>revision_control</tag>
+        <tag>extension</tag>
+        <tag>timestamp</tag>
+      </tags>
+      <analysis>
+        <id>14368834</id>
+        <url>http://www.ohloh.net/analyses/14368834.xml</url>
+        <project_id>589046</project_id>
+        <updated_at>2013-07-19T02:38:36Z</updated_at>
+        <logged_at>2013-07-19T02:38:34Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>1497</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hgTimestampMod/analyses/14368834/languages.png">
+          <language color="4A246B" percentage="64" id="9">
+Python          </language>
+          <language color="AAAAAA" percentage="20" id="13">
+DOS batch script          </language>
+          <language color="777777" percentage="16" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
