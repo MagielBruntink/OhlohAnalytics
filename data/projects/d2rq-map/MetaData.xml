@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>30379</id>
+      <name>D2RQ and D2R Server</name>
+      <url>http://www.ohloh.net/p/d2rq-map.xml</url>
+      <html_url>http://www.ohloh.net/p/d2rq-map</html_url>
+      <created_at>2008-12-06T14:12:55Z</created_at>
+      <updated_at>2013-06-26T23:11:37Z</updated_at>
+      <description>The D2RQ API provides access to relational database content from within the Jena and Sesame RDF frameworks. D2R Server is a Semantic Web server and SPARQL endpoint based on D2RQ. Both use a declarative language for mapping database schemata to RDF.</description>
+      <homepage_url>http://sourceforge.net/projects/d2rq-map</homepage_url>
+      <download_url></download_url>
+      <url_name>d2rq-map</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14424662</analysis_id>
+      <analysis>
+        <id>14424662</id>
+        <url>http://www.ohloh.net/analyses/14424662.xml</url>
+        <project_id>30379</project_id>
+        <updated_at>2013-07-20T16:12:36Z</updated_at>
+        <logged_at>2013-07-20T16:08:54Z</logged_at>
+        <min_month>2004-06-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>30957</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/d2rq-map/analyses/14424662/languages.png">
+          <language color="9A63AD" percentage="62" id="5">
+Java          </language>
+          <language color="A4007E" percentage="23" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="9" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

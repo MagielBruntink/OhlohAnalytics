@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>310526</id>
+      <name>firefly-client-android</name>
+      <url>http://www.ohloh.net/p/firefly-client-android.xml</url>
+      <html_url>http://www.ohloh.net/p/firefly-client-android</html_url>
+      <created_at>2009-02-08T04:19:02Z</created_at>
+      <updated_at>2013-06-19T15:45:13Z</updated_at>
+      <description>Firefly Client for AndroidAn application for Android devices that plays streamed music from a Firefly Media Server. 
+
+Uses parts of Firefly Client to access Firefly servers. 
+
+Currently this application is not yet ready to be used. The following features work: 
+
+import a music library (my server is still hard-coded) browse music play single songs (no playlist support yet) 
+
+I intend to grow this into a fully functional music player, but I am not 100% convinced that I will have enough time for that.</description>
+      <homepage_url>http://code.google.com/p/firefly-client-android</homepage_url>
+      <download_url></download_url>
+      <url_name>firefly-client-android</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14309986</analysis_id>
+      <tags>
+        <tag>firefly</tag>
+        <tag>android</tag>
+        <tag>java</tag>
+        <tag>mp3</tag>
+        <tag>music</tag>
+        <tag>streaming</tag>
+      </tags>
+      <analysis>
+        <id>14309986</id>
+        <url>http://www.ohloh.net/analyses/14309986.xml</url>
+        <project_id>310526</project_id>
+        <updated_at>2013-07-18T05:36:25Z</updated_at>
+        <logged_at>2013-07-18T05:36:23Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2009-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1639</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/firefly-client-android/analyses/14309986/languages.png">
+          <language color="9A63AD" percentage="75" id="5">
+Java          </language>
+          <language color="555555" percentage="25" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

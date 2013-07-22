@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633182</id>
+      <name>Thing Desktop</name>
+      <url>http://www.ohloh.net/p/thing-atari.xml</url>
+      <html_url>http://www.ohloh.net/p/thing-atari</html_url>
+      <created_at>2013-02-11T01:25:44Z</created_at>
+      <updated_at>2013-07-11T03:09:56Z</updated_at>
+      <description>Commercially successful desktop for Atari, now released as open source.</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>thing-atari</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14583757</analysis_id>
+      <tags>
+        <tag>desktop</tag>
+        <tag>atari</tag>
+        <tag>m68k</tag>
+      </tags>
+      <analysis>
+        <id>14583757</id>
+        <url>http://www.ohloh.net/analyses/14583757.xml</url>
+        <project_id>633182</project_id>
+        <updated_at>2013-07-20T10:35:47Z</updated_at>
+        <logged_at>2013-07-20T10:35:42Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>95471</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/thing-atari/analyses/14583757/languages.png">
+          <language color="F35F1F" percentage="92" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="7" id="42">
+C          </language>
+          <language color="333333" percentage="1" id="19">
+Assembly          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

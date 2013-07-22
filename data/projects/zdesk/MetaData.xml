@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633183</id>
+      <name>zDesk</name>
+      <url>http://www.ohloh.net/p/zdesk.xml</url>
+      <html_url>http://www.ohloh.net/p/zdesk</html_url>
+      <created_at>2013-02-11T01:29:09Z</created_at>
+      <updated_at>2013-06-30T07:39:19Z</updated_at>
+      <description>Early stage of a new desktop for Atari compatible computers, abandoned and released as open source.</description>
+      <homepage_url></homepage_url>
+      <download_url>http://atariforge.org/gf/project/zdesk/frs/</download_url>
+      <url_name>zdesk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14476107</analysis_id>
+      <tags>
+        <tag>m68k</tag>
+        <tag>desktop</tag>
+        <tag>atari</tag>
+      </tags>
+      <analysis>
+        <id>14476107</id>
+        <url>http://www.ohloh.net/analyses/14476107.xml</url>
+        <project_id>633183</project_id>
+        <updated_at>2013-07-21T14:05:25Z</updated_at>
+        <logged_at>2013-07-21T14:05:20Z</logged_at>
+        <min_month>2011-01-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9561</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zdesk/analyses/14476107/languages.png">
+          <language color="FF8F00" percentage="100" id="42">
+C          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

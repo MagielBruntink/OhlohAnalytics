@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>415727</id>
+      <name>Hardware Lister (lshw)</name>
+      <url>http://www.ohloh.net/p/lshw.xml</url>
+      <html_url>http://www.ohloh.net/p/lshw</html_url>
+      <created_at>2009-08-28T12:17:25Z</created_at>
+      <updated_at>2013-07-21T19:20:14Z</updated_at>
+      <description>lshw (Hardware Lister) is a small tool to provide detailed information on the hardware configuration of the machine. It can report exact memory configuration, firmware version, mainboard configuration, CPU version and speed, cache configuration, bus speed, etc. on DMI-capable x86 or EFI (IA-64) systems and on some PowerPC machines (PowerMac G4 is known to work).</description>
+      <homepage_url>http://ezix.org/project/wiki/HardwareLiSter</homepage_url>
+      <download_url>http://ezix.org/software/files/</download_url>
+      <url_name>lshw</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/23703/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/23703/logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14667124</analysis_id>
+      <tags>
+        <tag>hardware-description</tag>
+        <tag>description</tag>
+        <tag>ppc</tag>
+        <tag>administration</tag>
+        <tag>systems_administration</tag>
+        <tag>ia64</tag>
+        <tag>sparc</tag>
+        <tag>memory</tag>
+        <tag>system_administration</tag>
+        <tag>support</tag>
+        <tag>admintools</tag>
+        <tag>ioscan</tag>
+        <tag>i386</tag>
+        <tag>xml</tag>
+        <tag>disk</tag>
+        <tag>powerpc</tag>
+        <tag>sparc64</tag>
+        <tag>diagnostic</tag>
+        <tag>hppa</tag>
+        <tag>parisc</tag>
+        <tag>hp-ux</tag>
+        <tag>dmi</tag>
+        <tag>system</tag>
+        <tag>hardware</tag>
+        <tag>alpha</tag>
+        <tag>linux</tag>
+        <tag>systemadministration</tag>
+        <tag>hardwarefeatures</tag>
+        <tag>hardinfo</tag>
+      </tags>
+      <analysis>
+        <id>14667124</id>
+        <url>http://www.ohloh.net/analyses/14667124.xml</url>
+        <project_id>415727</project_id>
+        <updated_at>2013-07-17T20:56:47Z</updated_at>
+        <logged_at>2013-07-17T20:56:05Z</logged_at>
+        <min_month>2003-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>19791</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lshw/analyses/14667124/languages.png">
+          <language color="F35F1F" percentage="92" id="44">
+C++          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

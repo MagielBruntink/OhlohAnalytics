@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>475773</id>
+      <name>android-daisy-epub-reader</name>
+      <url>http://www.ohloh.net/p/android-daisy-epub-reader.xml</url>
+      <html_url>http://www.ohloh.net/p/android-daisy-epub-reader</html_url>
+      <created_at>2009-11-14T16:28:44Z</created_at>
+      <updated_at>2013-06-21T20:00:24Z</updated_at>
+      <description>A collaborative project to create an open-source electronic book reader that will support various formats including DAISY and epub content. 
+
+The application requires a minimum of version 1.5 of Android (also known as 'cupcake'). When the application is installed on a device with version 1.6 or later with TalkBack installed, the navigation of files and folders on the sdcard is spoken.  
+
+We have not tested it on version 2.0 (also known as 'eclair'), however we expect no additional problems or quirks on 'eclair'. 
+
+The application can be downloaded from the Downloads section of this project, here http://code.google.com/p/android-daisy-epub-reader/downloads/list 
+
+You can use a barcode scanner on your Android device to download the application directly to the phone via a web browser on the device. Scan the following QR barcode to start the download and installation process. 
+
+
+
+ReleaseQR code release82 release72 release60 release36 release35 
+
+Release notes are available as part of the project, here http://code.google.com/p/android-daisy-epub-reader/source/browse/trunk/releasenotes.txt</description>
+      <homepage_url>http://code.google.com/p/android-daisy-epub-reader/</homepage_url>
+      <download_url></download_url>
+      <url_name>android-daisy-epub-reader</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14329103</analysis_id>
+      <tags>
+        <tag>epub</tag>
+        <tag>reader</tag>
+        <tag>accessibility</tag>
+        <tag>android</tag>
+        <tag>daisy</tag>
+      </tags>
+      <analysis>
+        <id>14329103</id>
+        <url>http://www.ohloh.net/analyses/14329103.xml</url>
+        <project_id>475773</project_id>
+        <updated_at>2013-07-16T20:27:20Z</updated_at>
+        <logged_at>2013-07-16T20:27:18Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>9977</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/android-daisy-epub-reader/analyses/14329103/languages.png">
+          <language color="555555" percentage="37" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="52" id="5">
+Java          </language>
+          <language color="47A400" percentage="10" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="1" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

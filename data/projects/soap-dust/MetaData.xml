@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483494</id>
+      <name>soap-dust</name>
+      <url>http://www.ohloh.net/p/soap-dust.xml</url>
+      <html_url>http://www.ohloh.net/p/soap-dust</html_url>
+      <created_at>2010-06-09T18:44:10Z</created_at>
+      <updated_at>2013-06-27T12:55:42Z</updated_at>
+      <description>SOAP should be Deprecated, Use this for Servers you can't desisT to query (soap-dust) This is a client Java API. It does not require neither perform any code generation. It fits within a single jar file. soap-dust is validated against real servers.</description>
+      <homepage_url>http://sourceforge.net/projects/soap-dust/</homepage_url>
+      <download_url>http://sourceforge.net/projects/soap-dust/</download_url>
+      <url_name>soap-dust</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14433189</analysis_id>
+      <analysis>
+        <id>14433189</id>
+        <url>http://www.ohloh.net/analyses/14433189.xml</url>
+        <project_id>483494</project_id>
+        <updated_at>2013-07-19T22:41:02Z</updated_at>
+        <logged_at>2013-07-19T22:40:56Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2012-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12874</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/soap-dust/analyses/14433189/languages.png">
+          <language color="555555" percentage="56" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="29" id="5">
+Java          </language>
+          <language color="556677" percentage="15" id="35">
+XML Schema          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

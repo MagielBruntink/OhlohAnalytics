@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16436</id>
+      <name>WinDom</name>
+      <url>http://www.ohloh.net/p/windom.xml</url>
+      <html_url>http://www.ohloh.net/p/windom</html_url>
+      <created_at>2008-09-01T09:45:03Z</created_at>
+      <updated_at>2013-06-24T10:05:16Z</updated_at>
+      <description>Windom is a C library to make GEM programming very easy. With the help of windom, you can focus on programming the real job of your application, and let windom handle complex and &quot;automatic&quot; GEM stuff (toolbar, forms, menu in windows...). If your application is running on a GEM layer that lacks some features, then windom will try to emulate them the best it can (for example iconification of windows).</description>
+      <homepage_url>http://windom.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=68507</download_url>
+      <url_name>windom</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14377099</analysis_id>
+      <tags>
+        <tag>window</tag>
+        <tag>atari</tag>
+        <tag>gem</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>14377099</id>
+        <url>http://www.ohloh.net/analyses/14377099.xml</url>
+        <project_id>16436</project_id>
+        <updated_at>2013-07-20T07:03:43Z</updated_at>
+        <logged_at>2013-07-20T07:03:27Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2009-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>28604</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/windom/analyses/14377099/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486718</id>
+      <name>Cyanure</name>
+      <url>http://www.ohloh.net/p/cyanure.xml</url>
+      <html_url>http://www.ohloh.net/p/cyanure</html_url>
+      <created_at>2010-11-26T06:59:58Z</created_at>
+      <updated_at>2013-06-24T03:08:06Z</updated_at>
+      <description>Multi-Purpose Artificial Inelegance Project
+
+A rather simple markov chain AI based on JMegaHal with mutiple bridges to multiple protocols, such as local chat and IRC.
+The long term goals are:
+
+* Enhance the AI to give the illusion of personality through basic means
+* Add multiple protocol bridges, such as IM, web, and crawling.
+
+The bot will eventually perform certain activities to learn new content from the internet and various sources.
+We're far from this, as this is just for fun, but it makes for a pretty amusing megahal irc bot clone.</description>
+      <homepage_url>https://www.underwares.org/codex/projects/cyanure</homepage_url>
+      <download_url>https://www.underwares.org/codex/projects/cyanure/files</download_url>
+      <url_name>cyanure</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14372073</analysis_id>
+      <analysis>
+        <id>14372073</id>
+        <url>http://www.ohloh.net/analyses/14372073.xml</url>
+        <project_id>486718</project_id>
+        <updated_at>2013-07-21T10:12:52Z</updated_at>
+        <logged_at>2013-07-21T10:12:43Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1661</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cyanure/analyses/14372073/languages.png">
+          <language color="555555" percentage="41" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="56" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

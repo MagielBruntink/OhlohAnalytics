@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488790</id>
+      <name>linuxfr.org</name>
+      <url>http://www.ohloh.net/p/linuxfrorg.xml</url>
+      <html_url>http://www.ohloh.net/p/linuxfrorg</html_url>
+      <created_at>2011-03-21T21:37:30Z</created_at>
+      <updated_at>2013-07-21T18:26:11Z</updated_at>
+      <description>LinuxFr.org is a french web site speaking of Linux and Free Software.</description>
+      <homepage_url>https://github.com/nono/linuxfr.org</homepage_url>
+      <download_url></download_url>
+      <url_name>linuxfrorg</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48032/linuxfr2_classic_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48032/linuxfr2_classic_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14717008</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>platform</tag>
+        <tag>cms</tag>
+        <tag>ruby</tag>
+        <tag>rubyonrails</tag>
+        <tag>blog</tag>
+        <tag>publishing</tag>
+        <tag>rails</tag>
+      </tags>
+      <analysis>
+        <id>14717008</id>
+        <url>http://www.ohloh.net/analyses/14717008.xml</url>
+        <project_id>488790</project_id>
+        <updated_at>2013-07-21T18:26:10Z</updated_at>
+        <logged_at>2013-07-21T18:25:06Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>15719</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/linuxfrorg/analyses/14717008/languages.png">
+          <language color="A40011" percentage="59" id="12">
+Ruby          </language>
+          <language color="47A400" percentage="12" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="13" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="16" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>affero</name>
+          <nice_name>GNU Affero General Public License v1.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

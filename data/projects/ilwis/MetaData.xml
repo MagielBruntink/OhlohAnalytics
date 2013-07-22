@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480149</id>
+      <name>ILWIS</name>
+      <url>http://www.ohloh.net/p/ilwis.xml</url>
+      <html_url>http://www.ohloh.net/p/ilwis</html_url>
+      <created_at>2009-12-30T11:17:08Z</created_at>
+      <updated_at>2013-07-19T13:58:30Z</updated_at>
+      <description>ILWIS (Integrated Land and Water Information System) is a GIS / Remote sensing software for both vector and raster processing. ILWIS features include digitizing, editing, analysis and display of data as well as production of quality maps.
+
+ILWIS was initially developed and distributed by ITC Enschede (International Institute for Geo-Information Science and Earth Observation) in the Netherlands for use by its researchers and students, but since 1 July 2007 it has been distributed under the terms of the GNU General Public License and is thus free software. The current version is ILWIS 3.5 Open. Similar to the GRASS GIS in many respects - but more user-friendly -, ILWIS is currently available natively only on Microsoft Windows. However, a Linux Wine manual has been made available.</description>
+      <homepage_url>http://www.ilwis.org/</homepage_url>
+      <download_url>http://www.ilwis.org/open_source_gis_ilwis_download.htm</download_url>
+      <url_name>ilwis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/66134/ILWIS3.8_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/66134/ILWIS3.8_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14685671</analysis_id>
+      <tags>
+        <tag>sdi</tag>
+        <tag>spatial</tag>
+        <tag>geospatial</tag>
+        <tag>gis</tag>
+        <tag>windows</tag>
+        <tag>remote_sensing</tag>
+        <tag>ilwis</tag>
+        <tag>geonetcast</tag>
+        <tag>geo</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14685671</id>
+        <url>http://www.ohloh.net/analyses/14685671.xml</url>
+        <project_id>480149</project_id>
+        <updated_at>2013-07-19T13:58:30Z</updated_at>
+        <logged_at>2013-07-19T13:58:02Z</logged_at>
+        <min_month>2013-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>47543</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ilwis/analyses/14685671/languages.png">
+          <language color="F35F1F" percentage="87" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="12" id="42">
+C          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

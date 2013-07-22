@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>375713</id>
+      <name>vars-redux</name>
+      <url>http://www.ohloh.net/p/vars-redux.xml</url>
+      <html_url>http://www.ohloh.net/p/vars-redux</html_url>
+      <created_at>2009-08-14T01:29:04Z</created_at>
+      <updated_at>2013-07-21T04:36:26Z</updated_at>
+      <description>The Video Annotation and Reference System (VARS) is a software interface and database system that provides tools for describing, cataloging, retrieving, and viewing the visual, descriptive, and quantitative data associated with video. Developed by the Monterey Bay Aquarium Research Institute (MBARI) for annotating deep-sea video data, VARS is currently being used to describe over 3000 dives by our remotely operated vehicles (ROV). VARS has allowed MBARI scientists to produce numerous quanititative and qualitative scientific publications based on video data. 
+
+The VARS project on SourceForge uses Castor for object-relational mapping. This project is a rewrite of VARS which replaces the Castor layer with the more modern JPA.</description>
+      <homepage_url>http://code.google.com/p/vars-redux/</homepage_url>
+      <download_url></download_url>
+      <url_name>vars-redux</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14710783</analysis_id>
+      <tags>
+        <tag>mbari</tag>
+        <tag>vars</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14710783</id>
+        <url>http://www.ohloh.net/analyses/14710783.xml</url>
+        <project_id>375713</project_id>
+        <updated_at>2013-07-21T04:36:26Z</updated_at>
+        <logged_at>2013-07-21T04:33:46Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>62291</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/vars-redux/analyses/14710783/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="C72C2C" percentage="7" id="29">
+Groovy          </language>
+          <language color="000000" percentage="4" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

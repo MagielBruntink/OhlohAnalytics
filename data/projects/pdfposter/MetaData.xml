@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587250</id>
+      <name>pdftools.pdfposter</name>
+      <url>http://www.ohloh.net/p/pdfposter.xml</url>
+      <html_url>http://www.ohloh.net/p/pdfposter</html_url>
+      <created_at>2011-11-14T14:05:17Z</created_at>
+      <updated_at>2013-06-30T17:23:06Z</updated_at>
+      <description>Scale and tile PDF images/pages to print on multiple pages.
+
+Pdfposter can be used to create a large poster by building it from multple pages and/or printing it on large media. It expects as input a PDF file, normally printing on a single page. The output is again a PDF file, maybe containing multiple pages together building the poster.
+The input page will be scaled to obtain the desired size.
+
+Much like poster does for Postscript files, but working with PDF. Since sometimes poster does not like your files converted from PDF. :-) Indeed pdfposter was inspired by poster.</description>
+      <homepage_url>http://pdfposter.origo.ethz.ch/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/pdftools.pdfposter</download_url>
+      <url_name>pdfposter</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/48327/projectlogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/48327/projectlogo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14481391</analysis_id>
+      <tags>
+        <tag>pdftools</tag>
+        <tag>publishing</tag>
+        <tag>converter</tag>
+        <tag>poster</tag>
+        <tag>printing</tag>
+        <tag>pdf</tag>
+        <tag>posterize</tag>
+        <tag>convert</tag>
+        <tag>python</tag>
+        <tag>pdf-creation</tag>
+      </tags>
+      <analysis>
+        <id>14481391</id>
+        <url>http://www.ohloh.net/analyses/14481391.xml</url>
+        <project_id>587250</project_id>
+        <updated_at>2013-07-18T08:07:48Z</updated_at>
+        <logged_at>2013-07-18T08:07:17Z</logged_at>
+        <min_month>2008-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>2596</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pdfposter/analyses/14481391/languages.png">
+          <language color="4A246B" percentage="93" id="9">
+Python          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

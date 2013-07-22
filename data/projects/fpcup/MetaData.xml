@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>589188</id>
+      <name>fpcup</name>
+      <url>http://www.ohloh.net/p/fpcup.xml</url>
+      <html_url>http://www.ohloh.net/p/fpcup</html_url>
+      <created_at>2012-02-18T07:39:49Z</created_at>
+      <updated_at>2013-07-22T05:13:31Z</updated_at>
+      <description>fpcup is a tool that gets the current (or a stable) version of FreePascal Compiler (FPC) and Lazarus IDE from their subversion repositories and compiles/installs them.
+
+It adds CHM documentation and configure the Lazarus help for you.
+
+It also creates a shortcut on your desktop/home directory that points to the new Lazarus installation.
+
+Meant to be used side by side with other FPC/Lazarus installations. It creates a separate primary config path directory for the new Lazarus installation, so it doesn't interfere with existing Lazarus installs.</description>
+      <homepage_url>https://bitbucket.org/reiniero/fpcup</homepage_url>
+      <download_url>https://bitbucket.org/reiniero/fpcup/downloads</download_url>
+      <url_name>fpcup</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14726856</analysis_id>
+      <tags>
+        <tag>updater</tag>
+        <tag>subversion</tag>
+        <tag>fpc</tag>
+        <tag>lazarus</tag>
+        <tag>installer</tag>
+        <tag>update</tag>
+      </tags>
+      <analysis>
+        <id>14726856</id>
+        <url>http://www.ohloh.net/analyses/14726856.xml</url>
+        <project_id>589188</project_id>
+        <updated_at>2013-07-22T05:13:31Z</updated_at>
+        <logged_at>2013-07-22T05:13:16Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>17078</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fpcup/analyses/14726856/languages.png">
+          <language color="D15600" percentage="97" id="14">
+Pascal          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21le</name>
+          <nice_name>GNU LGPL 2.1 + linking exception (FPC/Lazarus)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

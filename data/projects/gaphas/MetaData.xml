@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>347242</id>
+      <name>Gaphas</name>
+      <url>http://www.ohloh.net/p/gaphas.xml</url>
+      <html_url>http://www.ohloh.net/p/gaphas</html_url>
+      <created_at>2009-06-17T13:45:32Z</created_at>
+      <updated_at>2013-07-21T18:14:56Z</updated_at>
+      <description></description>
+      <homepage_url>http://gaphor.sourceforge.net</homepage_url>
+      <download_url>http://pypi.python.org/pypi/gaphas</download_url>
+      <url_name>gaphas</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14434509</analysis_id>
+      <analysis>
+        <id>14434509</id>
+        <url>http://www.ohloh.net/analyses/14434509.xml</url>
+        <project_id>347242</project_id>
+        <updated_at>2013-07-19T14:28:43Z</updated_at>
+        <logged_at>2013-07-19T14:28:42Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2012-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>12591</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gaphas/analyses/14434509/languages.png">
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+          <language color="4A246B" percentage="67" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

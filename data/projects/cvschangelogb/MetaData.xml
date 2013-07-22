@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10325</id>
+      <name>CVSChangelogBuilder</name>
+      <url>http://www.ohloh.net/p/cvschangelogb.xml</url>
+      <html_url>http://www.ohloh.net/p/cvschangelogb</html_url>
+      <created_at>2007-12-16T12:48:12Z</created_at>
+      <updated_at>2013-06-23T12:22:57Z</updated_at>
+      <description>cvschangelogbuilder is a Perl utility to generate ChangeLogs or CVS reports for a project hosted on a CVS server. The main goal is to provide a better output that the 'cvs log' command, to build sorted text only or graphical html reports. Available outputs provides among standard informations, the status of the change (added,changed,removed), allows easy &quot;differential&quot; changelogs, between 2 versions, even when they are not in the main branch, are friendly to read. Text outputs can be grouped by different criterias (by date, by file, by log, by author).</description>
+      <homepage_url>http://cvschangelogb.sourceforge.net/</homepage_url>
+      <download_url>http://cvschangelogb.sourceforge.net/#DOWNLOAD</download_url>
+      <url_name>cvschangelogb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14358747</analysis_id>
+      <tags>
+        <tag>statistics</tag>
+        <tag>cvs</tag>
+        <tag>reporting</tag>
+        <tag>report</tag>
+        <tag>version-control</tag>
+        <tag>tools</tag>
+        <tag>development</tag>
+        <tag>graphical</tag>
+      </tags>
+      <analysis>
+        <id>14358747</id>
+        <url>http://www.ohloh.net/analyses/14358747.xml</url>
+        <project_id>10325</project_id>
+        <updated_at>2013-07-21T14:32:04Z</updated_at>
+        <logged_at>2013-07-21T14:32:02Z</logged_at>
+        <min_month>2003-12-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2707</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cvschangelogb/analyses/14358747/languages.png">
+          <language color="D2C690" percentage="81" id="8">
+Perl          </language>
+          <language color="555555" percentage="15" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

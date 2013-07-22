@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>479903</id>
+      <name>Beam - Earth Observation Toolbox</name>
+      <url>http://www.ohloh.net/p/beam.xml</url>
+      <html_url>http://www.ohloh.net/p/beam</html_url>
+      <created_at>2009-12-16T08:13:34Z</created_at>
+      <updated_at>2013-07-21T12:37:11Z</updated_at>
+      <description>BEAM is an open-source toolbox and development platform for viewing, analysing and processing of remote sensing raster data. Originally developed to facilitate the utilisation of image data from Envisat's optical instruments, BEAM now supports a growing number of other raster data formats such as GeoTIFF and NetCDF as well as data formats of other EO sensors such as MODIS, AVHRR, AVNIR, PRISM and CHRIS/Proba. Various data and algorithms are supported by dedicated extension plug-ins.</description>
+      <homepage_url>http://www.brockmann-consult.de/cms/web/beam</homepage_url>
+      <download_url>http://www.brockmann-consult.de/cms/web/beam/software</download_url>
+      <url_name>beam</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>1</review_count>
+      <analysis_id>14714457</analysis_id>
+      <tags>
+        <tag>hdf5</tag>
+        <tag>imaging</tag>
+        <tag>multispectral</tag>
+        <tag>image_analysis</tag>
+        <tag>geo</tag>
+        <tag>satellite</tag>
+        <tag>hdf</tag>
+        <tag>spatial</tag>
+        <tag>linux</tag>
+        <tag>multi-spectral</tag>
+        <tag>mapping</tag>
+        <tag>imageprocessing</tag>
+        <tag>visualization</tag>
+        <tag>gui</tag>
+        <tag>library</tag>
+        <tag>hyperspectral</tag>
+        <tag>image_transformation</tag>
+        <tag>netcdf</tag>
+        <tag>geotiff</tag>
+        <tag>landsat</tag>
+        <tag>remote_sensing</tag>
+        <tag>geospatial</tag>
+        <tag>java</tag>
+        <tag>application</tag>
+        <tag>image</tag>
+        <tag>image_processing</tag>
+        <tag>image_transform</tag>
+      </tags>
+      <analysis>
+        <id>14714457</id>
+        <url>http://www.ohloh.net/analyses/14714457.xml</url>
+        <project_id>479903</project_id>
+        <updated_at>2013-07-21T12:37:11Z</updated_at>
+        <logged_at>2013-07-21T12:34:53Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>16</twelve_month_contributor_count>
+        <total_code_lines>401371</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/beam/analyses/14714457/languages.png">
+          <language color="9A63AD" percentage="83" id="5">
+Java          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

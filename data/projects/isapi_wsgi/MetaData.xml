@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>318908</id>
+      <name>ISAPI WSGI</name>
+      <url>http://www.ohloh.net/p/isapi_wsgi.xml</url>
+      <html_url>http://www.ohloh.net/p/isapi_wsgi</html_url>
+      <created_at>2009-03-09T07:25:05Z</created_at>
+      <updated_at>2013-06-22T12:53:31Z</updated_at>
+      <description>ISAPI WSGI is an implementation of WSGI (PEP 333) for running as an ISAPI extension under IIS. WSGI is considered as important standard for the future of web deployed Python code. There are implementationsfor CGI, mod_python, twisted, jython, etc.  This was the first
+implementation for IIS/ISAPI.</description>
+      <homepage_url>http://code.google.com/p/isapi-wsgi/</homepage_url>
+      <download_url>http://code.google.com/p/isapi-wsgi/downloads/list</download_url>
+      <url_name>isapi_wsgi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14341730</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>iis</tag>
+        <tag>isapi</tag>
+        <tag>wsgi</tag>
+      </tags>
+      <analysis>
+        <id>14341730</id>
+        <url>http://www.ohloh.net/analyses/14341730.xml</url>
+        <project_id>318908</project_id>
+        <updated_at>2013-07-19T04:58:42Z</updated_at>
+        <logged_at>2013-07-19T04:58:39Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>606</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/isapi_wsgi/analyses/14341730/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>489152</id>
+      <name>python-haystack</name>
+      <url>http://www.ohloh.net/p/python-haystack.xml</url>
+      <html_url>http://www.ohloh.net/p/python-haystack</html_url>
+      <created_at>2011-04-08T16:52:51Z</created_at>
+      <updated_at>2013-06-20T14:58:02Z</updated_at>
+      <description>Search C Structures in a process' memory
+
+Keywords: memory,analysis,forensics,struct,ptrace</description>
+      <homepage_url>https://github.com/trolldbois/python-haystack</homepage_url>
+      <download_url>http://pypi.python.org/pypi/haystack</download_url>
+      <url_name>python-haystack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14320089</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>structure</tag>
+        <tag>memory</tag>
+        <tag>reverse-engineering</tag>
+        <tag>analysis</tag>
+        <tag>heap</tag>
+        <tag>reverseengineering</tag>
+        <tag>reverse</tag>
+        <tag>structures</tag>
+        <tag>search</tag>
+        <tag>forensics</tag>
+      </tags>
+      <analysis>
+        <id>14320089</id>
+        <url>http://www.ohloh.net/analyses/14320089.xml</url>
+        <project_id>489152</project_id>
+        <updated_at>2013-07-15T21:48:00Z</updated_at>
+        <logged_at>2013-07-15T21:47:57Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>21938</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/python-haystack/analyses/14320089/languages.png">
+          <language color="4A246B" percentage="88" id="9">
+Python          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GPLv3</name>
+          <nice_name>GNU GENERAL PUBLIC LICENSE</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480708</id>
+      <name>Drupal Oostpoort</name>
+      <url>http://www.ohloh.net/p/drupal-oostpoort.xml</url>
+      <html_url>http://www.ohloh.net/p/drupal-oostpoort</html_url>
+      <created_at>2010-01-24T12:00:46Z</created_at>
+      <updated_at>2013-06-24T17:15:36Z</updated_at>
+      <description>Drupal church administration module
+
+This module contains a simple church administration for Drupal.
+
+Key features
+- Upload / download user administration in CSV format
+- Member &#8220;editable&#8221; view
+- Family &#8220;editable&#8221; view
+- Jubilee view
+- Create member visit report
+- Drupal v5.x compliant
+
+This module is custom made for the &#8220;De Oostpoort &#8211; Gouda &#8211; The Netherlands&#8221; church website. I have publish the code so that maybe someone can re-use some part of it!</description>
+      <homepage_url>http://www.plaatsoft.nl</homepage_url>
+      <download_url></download_url>
+      <url_name>drupal-oostpoort</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/29335/oostpoort_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/29335/oostpoort_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14383405</analysis_id>
+      <tags>
+        <tag>drupal6</tag>
+        <tag>plaatsoft</tag>
+        <tag>drupal</tag>
+      </tags>
+      <analysis>
+        <id>14383405</id>
+        <url>http://www.ohloh.net/analyses/14383405.xml</url>
+        <project_id>480708</project_id>
+        <updated_at>2013-07-19T15:50:42Z</updated_at>
+        <logged_at>2013-07-19T15:50:39Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2010-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4109</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/drupal-oostpoort/analyses/14383405/languages.png">
+          <language color="356AA0" percentage="94" id="2">
+PHP          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

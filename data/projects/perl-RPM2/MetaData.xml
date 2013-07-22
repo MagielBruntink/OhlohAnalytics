@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>74580</id>
+      <name>perl-RPM2</name>
+      <url>http://www.ohloh.net/p/perl-RPM2.xml</url>
+      <html_url>http://www.ohloh.net/p/perl-RPM2</html_url>
+      <created_at>2008-12-19T18:40:54Z</created_at>
+      <updated_at>2013-07-22T03:14:52Z</updated_at>
+      <description>The RPM2 module provides an object-oriented interface to querying both the installed RPM database as well as files on the filesystem.</description>
+      <homepage_url>http://search.cpan.org/~lkundrak/RPM2/</homepage_url>
+      <download_url>http://search.cpan.org/~lkundrak/RPM2/</download_url>
+      <url_name>perl-RPM2</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/6236/perl-module_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14724674</analysis_id>
+      <analysis>
+        <id>14724674</id>
+        <url>http://www.ohloh.net/analyses/14724674.xml</url>
+        <project_id>74580</project_id>
+        <updated_at>2013-07-22T03:14:51Z</updated_at>
+        <logged_at>2013-07-22T03:14:42Z</logged_at>
+        <min_month>2006-09-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1144</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/perl-RPM2/analyses/14724674/languages.png">
+          <language color="FF8F00" percentage="42" id="42">
+C          </language>
+          <language color="D2C690" percentage="58" id="8">
+Perl          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

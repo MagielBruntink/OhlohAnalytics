@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>340139</id>
+      <name>emstar</name>
+      <url>http://www.ohloh.net/p/emstar.xml</url>
+      <html_url>http://www.ohloh.net/p/emstar</html_url>
+      <created_at>2009-05-12T06:22:11Z</created_at>
+      <updated_at>2013-06-25T23:03:13Z</updated_at>
+      <description>a clone of a HP48 game called dstar.
+
+The goal is to catch all gifts in the level to get access to the next one.
+Use the ball to catch them, use the cube to stop the ball. The ball only move to the next obstacle (wall or cube).</description>
+      <homepage_url>http://github.com/cycojesus/emstar/tree/master</homepage_url>
+      <download_url>http://github.com/cycojesus/emstar/tree/master</download_url>
+      <url_name>emstar</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14409746</analysis_id>
+      <analysis>
+        <id>14409746</id>
+        <url>http://www.ohloh.net/analyses/14409746.xml</url>
+        <project_id>340139</project_id>
+        <updated_at>2013-07-18T14:23:09Z</updated_at>
+        <logged_at>2013-07-18T14:23:07Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2012-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>464</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/emstar/analyses/14409746/languages.png">
+          <language color="2B6B24" percentage="98" id="10">
+Emacs Lisp          </language>
+          <language color="777777" percentage="2" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>10</main_language_id>
+        <main_language_name>Emacs Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

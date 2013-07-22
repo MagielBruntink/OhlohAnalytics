@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597390</id>
+      <name>s7nodave Device Support for EPICS</name>
+      <url>http://www.ohloh.net/p/s7nodave.xml</url>
+      <html_url>http://www.ohloh.net/p/s7nodave</html_url>
+      <created_at>2012-04-21T12:16:39Z</created_at>
+      <updated_at>2013-06-25T11:42:33Z</updated_at>
+      <description>s7nodave is a device support for EPICS that integrates S7-compatible PLCs using an Ethernet (TCP/IP) connection. It is based on libnodave.
+
+Unlike other EPICS device supports for the S7 PLCs, this device support does not require any special programming on the PLC side. Instead, the EPICS records just specify the memory address in the PLC and the device support uses the ISO-TCP protocol supported by most S7 PLCs in order to read or write the channel data.</description>
+      <homepage_url>http://oss.aquenos.com/epics/s7nodave/</homepage_url>
+      <download_url>http://oss.aquenos.com/epics/s7nodave/#download</download_url>
+      <url_name>s7nodave</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14401434</analysis_id>
+      <tags>
+        <tag>controlsystem</tag>
+        <tag>epics</tag>
+        <tag>plc</tag>
+        <tag>controlsystems</tag>
+      </tags>
+      <analysis>
+        <id>14401434</id>
+        <url>http://www.ohloh.net/analyses/14401434.xml</url>
+        <project_id>597390</project_id>
+        <updated_at>2013-07-20T02:18:56Z</updated_at>
+        <logged_at>2013-07-20T02:18:42Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5609</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/s7nodave/analyses/14401434/languages.png">
+          <language color="F35F1F" percentage="90" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="7" id="42">
+C          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

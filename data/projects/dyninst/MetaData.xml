@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597574</id>
+      <name>Dyninst</name>
+      <url>http://www.ohloh.net/p/dyninst.xml</url>
+      <html_url>http://www.ohloh.net/p/dyninst</html_url>
+      <created_at>2012-04-27T18:41:04Z</created_at>
+      <updated_at>2013-07-01T08:13:15Z</updated_at>
+      <description>The Paradyn project develops technology that aids tool and application developers in their pursuit of high-performance, scalable, parallel and distributed software. The primary project, Paradyn, leverages a technique called dynamic instrumentation to efficiently obtain performance profiles of unmodified executables. This dynamic binary instrumentation technology is independently available to researchers via the Dyninst API.</description>
+      <homepage_url>http://www.dyninst.org/dyninst</homepage_url>
+      <download_url>http://www.dyninst.org/downloads/dyninstAPI</download_url>
+      <url_name>dyninst</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/52722/dyninstLogo-square_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/52722/dyninstLogo-square_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14495378</analysis_id>
+      <tags>
+        <tag>api</tag>
+        <tag>code_generators</tag>
+        <tag>instrumentation</tag>
+        <tag>binarytranslation</tag>
+      </tags>
+      <analysis>
+        <id>14495378</id>
+        <url>http://www.ohloh.net/analyses/14495378.xml</url>
+        <project_id>597574</project_id>
+        <updated_at>2013-07-18T23:48:27Z</updated_at>
+        <logged_at>2013-07-18T23:48:08Z</logged_at>
+        <min_month>1993-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>471689</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dyninst/analyses/14495378/languages.png">
+          <language color="F35F1F" percentage="77" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="8" id="42">
+C          </language>
+          <language color="000000" percentage="15" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

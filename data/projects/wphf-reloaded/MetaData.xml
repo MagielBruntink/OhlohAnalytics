@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>598326</id>
+      <name>Winprint HylaFAX Reloaded</name>
+      <url>http://www.ohloh.net/p/wphf-reloaded.xml</url>
+      <html_url>http://www.ohloh.net/p/wphf-reloaded</html_url>
+      <created_at>2012-05-22T17:14:16Z</created_at>
+      <updated_at>2013-07-19T17:16:09Z</updated_at>
+      <description>Enhanced version of Winprint HylaFAX. Fully supports Vista / 7 / 8 and 64 bit systems. Can send multiple documents as a single fax. Supports multiple recipients and delayed send. Can read fax numbers from Extended MAPI (Outlook) and ODBC sources. Multilanguage. Terminal Services compliant.</description>
+      <homepage_url>http://wphf-reloaded.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=539000</download_url>
+      <url_name>wphf-reloaded</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53348/fax_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53348/fax_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14687156</analysis_id>
+      <tags>
+        <tag>client</tag>
+        <tag>fax</tag>
+        <tag>hylafax</tag>
+        <tag>printer</tag>
+        <tag>faxing</tag>
+      </tags>
+      <analysis>
+        <id>14687156</id>
+        <url>http://www.ohloh.net/analyses/14687156.xml</url>
+        <project_id>598326</project_id>
+        <updated_at>2013-07-19T17:16:09Z</updated_at>
+        <logged_at>2013-07-19T17:12:35Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1617303</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/wphf-reloaded/analyses/14687156/languages.png">
+          <language color="FF8F00" percentage="57" id="42">
+C          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="EEE" percentage="9" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="15" id="">
+23 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>GNU_General_Public_License_v2_0_only</name>
+          <nice_name>GNU General Public License v2.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

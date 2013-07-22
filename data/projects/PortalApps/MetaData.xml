@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>316688</id>
+      <name>Portal Applications</name>
+      <url>http://www.ohloh.net/p/PortalApps.xml</url>
+      <html_url>http://www.ohloh.net/p/PortalApps</html_url>
+      <created_at>2009-02-19T16:40:51Z</created_at>
+      <updated_at>2013-07-20T03:40:30Z</updated_at>
+      <description>Apache Portals Applications (APA) is a collaborative software development project existing under the Apache Portals project. APA is dedicated to providing robust, full-featured, commercial-quality, and freely available Portlet Applications under the Apache license developed at the Apache Software Foundation.</description>
+      <homepage_url>http://portals.apache.org/applications/</homepage_url>
+      <download_url>http://portals.apache.org/applications/download.html</download_url>
+      <url_name>PortalApps</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14692602</analysis_id>
+      <tags>
+        <tag>jetspeeed2</tag>
+        <tag>portals</tag>
+        <tag>jsr-168</tag>
+        <tag>spring</tag>
+        <tag>portal</tag>
+        <tag>myfaces</tag>
+        <tag>apache</tag>
+        <tag>portalzone</tag>
+        <tag>maven2</tag>
+        <tag>maven</tag>
+      </tags>
+      <analysis>
+        <id>14692602</id>
+        <url>http://www.ohloh.net/analyses/14692602.xml</url>
+        <project_id>316688</project_id>
+        <updated_at>2013-07-20T03:40:30Z</updated_at>
+        <logged_at>2013-07-20T03:38:58Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>185254</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/PortalApps/analyses/14692602/languages.png">
+          <language color="A4007E" percentage="53" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="34" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

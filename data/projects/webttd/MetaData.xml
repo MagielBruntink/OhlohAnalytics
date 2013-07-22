@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>465520</id>
+      <name>webttd</name>
+      <url>http://www.ohloh.net/p/webttd.xml</url>
+      <html_url>http://www.ohloh.net/p/webttd</html_url>
+      <created_at>2009-10-20T06:42:42Z</created_at>
+      <updated_at>2013-06-29T15:27:13Z</updated_at>
+      <description>A multiplayer web game with isometric graphics, making use of DHTML, AJAX, 
+
+ and perhaps SVG, with PHP or more likely Java backend.</description>
+      <homepage_url>http://code.google.com/p/webttd/</homepage_url>
+      <download_url></download_url>
+      <url_name>webttd</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14461259</analysis_id>
+      <tags>
+        <tag>browsergame</tag>
+        <tag>openttd</tag>
+        <tag>travian</tag>
+        <tag>webgame</tag>
+        <tag>game</tag>
+      </tags>
+      <analysis>
+        <id>14461259</id>
+        <url>http://www.ohloh.net/analyses/14461259.xml</url>
+        <project_id>465520</project_id>
+        <updated_at>2013-07-20T06:15:29Z</updated_at>
+        <logged_at>2013-07-20T06:15:26Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2009-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8591</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/webttd/analyses/14461259/languages.png">
+          <language color="555555" percentage="44" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="53" id="5">
+Java          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

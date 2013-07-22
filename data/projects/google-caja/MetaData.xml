@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19943</id>
+      <name>google-caja</name>
+      <url>http://www.ohloh.net/p/google-caja.xml</url>
+      <html_url>http://www.ohloh.net/p/google-caja</html_url>
+      <created_at>2008-10-07T12:46:58Z</created_at>
+      <updated_at>2013-07-21T13:16:09Z</updated_at>
+      <description>Try out Caja here! 
+
+ Caja allows websites to safely embed DHTML web applications from third parties, and enables rich interaction between the embedding page and the embedded applications.  It uses an object-capability security model to allow for a wide range of flexible security policies, so that the containing page can effectively control the embedded applications' use of user data and to allow gadgets to prevent interference between gadgets' UI elements. 
+
+Today, some websites embed third-party code using iframes. This approach does not prevent a wide variety of attacks: redirection to phishing pages which could pretend to be a login page for the embedding application; stopping the browser from working until the user downloads malware; stealing history information about which sites a user has visited so that more target phishing attacks can be done; and port scanning the user's local network.  Finally, even though a website can choose not to give data to an iframe app, once it has done so it can place no further restrictions on what the iframe app can do with it &#8212; it cannot stop the iframe app from sending that data elsewhere. 
+
+Caja addresses these problems which are not addressed by iframe jails; and it does so in a very flexible way.  If a container wishes to allow an embedded application to use a particular web service, but not to send arbitrary network requests, then it can give the application an object that interacts with that web service, but deny access to XMLHttpRequest.  Under Caja, passing objects grants authority, and denying access to objects denies authority, as is typical in an object-capability environment.  Information leakage can be prevented by allowing user data to be encapsulated in objects that can be rendered in user-readable form but not read by scripts ; we can prevent leakage without solving the problem of covert channels. 
+
+Contacting the Caja TeamDiscussionsOur discussion group is the best place to contact us.  First posts are moderated to remove spam, so don't worry if your post doesn't show up immediately. You can also find team members on the #caja IRC channel on freenode.net. 
+
+Reporting Bugs &amp; Security IssuesPlease report potential vulnerabilities using the private issue tracker, and bugs and feature requests via the public issue tracker.  The Caja team encourages responsible disclosure, since production services rely on us for security. We will work to resolve the issue and make sure credit is given. 
+
+ContributingThe Caja team includes people from a number of different companies and some private individuals. If you would like to contribute, introduce yourself on our discussion group. 
+
+MotivationSome websites embed code in iframes, and pass user data between them.  The use of these sites has thus far been limited to teenagers and others who are comfortable with some aspects of their lives being very public.  The same development model &#8212; where one company provides a general storage layer for data, and third parties provide custom interfaces and extensions &#8212; has not been extended to systems that deal with valuable data. 
+
+This development model is promising, though.  Large software companies have to target their user-interface efforts at a mythical average user; the high costs of researching and understanding the needs of niches of users means that user interfaces tend to suffer from the &quot;lowest common denominator&quot; effect.  But there are many developers who understand niche markets, and know how to write custom user interfaces and workflows. 
+
+If we can safely embed third-party user interfaces and workflows into generic backends, we can encourage a market for embedded applications that will make the web experience much richer.  Caja aims to allow that safe embedding. 
+
+What is CajaCaja (pronounced &quot;KA-ha&quot;), is a Spanish word that means box, bank, cash register, vault; a container for valuables. A web developer uses traditional tools like HTML, JavaScript, and CSS; and Caja provides a compiler (a &quot;cajoler&quot;) that takes the web application and produces a &quot;cajoled&quot; HTML web application. The cajoler tries to verify security properties by doing static analysis, and where it cannot it rewrites the input to add runtime checks. 
+
+Since web applications make common use of browser APIs, e.g. the DOM APIs, that give a huge amount of control over the web page, Caja provides tamed APIs that virtualize portions of the DOM.  A containing page can set up the embedding application's environment so that the embedded application thinks it is interacting with the DOM of a full page, but is in fact only manipulating a bounded portion of the containing page via a mechanism called virtual iframes. 
+
+The JavaScript that a Caja application uses is written in a fail stop subset of JavaScript (actually EcmaScript5).  This subset, called &quot;Valija&quot;, includes almost the entire JavaScript language, but removes a few error-prone constructs such as with and restricts how eval may be used. 
+
+NewsJust write your gadgets in Javascript/DHTML and they'll probably work right away.  Try it! Caja on YAP, the Yahoo Application Platform Article on YDN discussing the benefits and gotchas of developing apps with Caja Containers looking to host gadgets on their pages Tim Oren explains Caja How to build Caja A sample host page for use by a container TalksSecure Collaboration - How Web Applications can Share and Still Be Paranoid Tradeoffs in Retrofitting Security: An Experience Report 
+
+Cajoled GadgetUncajoled Gadget</description>
+      <homepage_url>http://code.google.com/p/google-caja</homepage_url>
+      <download_url></download_url>
+      <url_name>google-caja</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14714810</analysis_id>
+      <tags>
+        <tag>abac</tag>
+        <tag>javascript</tag>
+        <tag>mashups</tag>
+        <tag>caja20</tag>
+        <tag>caja</tag>
+        <tag>sanitizing</tag>
+        <tag>security</tag>
+        <tag>google</tag>
+        <tag>object-capabilities</tag>
+        <tag>prototype</tag>
+        <tag>shindig</tag>
+        <tag>pola</tag>
+      </tags>
+      <analysis>
+        <id>14714810</id>
+        <url>http://www.ohloh.net/analyses/14714810.xml</url>
+        <project_id>19943</project_id>
+        <updated_at>2013-07-21T13:16:09Z</updated_at>
+        <logged_at>2013-07-21T13:15:10Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>673748</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/google-caja/analyses/14714810/languages.png">
+          <language color="A4007E" percentage="73" id="6">
+JavaScript          </language>
+          <language color="9A63AD" percentage="15" id="5">
+Java          </language>
+          <language color="47A400" percentage="7" id="1">
+HTML          </language>
+          <language color="000000" percentage="5" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

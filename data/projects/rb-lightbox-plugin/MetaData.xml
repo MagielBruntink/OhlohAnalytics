@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23028</id>
+      <name>rb-lightbox-plugin</name>
+      <url>http://www.ohloh.net/p/rb-lightbox-plugin.xml</url>
+      <html_url>http://www.ohloh.net/p/rb-lightbox-plugin</html_url>
+      <created_at>2008-10-07T15:16:35Z</created_at>
+      <updated_at>2013-07-11T15:44:35Z</updated_at>
+      <description>A ruby on rails lightbox plugin that allows Lightbox functionality for static text, ajax calls, images, and (soon) iframes. Currently all major browsers have been tested and supported. 
+
+To use: 
+
+load layout file with the following: 
+
+
+
+  
+ 
+ 
+
+Please refer to lightbox_helper for possible usage. 
+
+UPDATE: Apparently there are some people out there actually interested in this plugin and are currently making updates and modifications. I welcome all code that makes this faster, better, stronger, etc... Based on the recommendation of a coworker (who knows a little more about licenses than I do) I am changing to a BSD license. Do what you want with the code, but if do happen to cure some disease with it please remember me.</description>
+      <homepage_url>http://code.google.com/p/rb-lightbox-plugin</homepage_url>
+      <download_url></download_url>
+      <url_name>rb-lightbox-plugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14591309</analysis_id>
+      <tags>
+        <tag>plugin</tag>
+        <tag>rails</tag>
+        <tag>lightbox</tag>
+        <tag>ruby</tag>
+      </tags>
+      <analysis>
+        <id>14591309</id>
+        <url>http://www.ohloh.net/analyses/14591309.xml</url>
+        <project_id>23028</project_id>
+        <updated_at>2013-07-19T19:26:39Z</updated_at>
+        <logged_at>2013-07-19T19:26:36Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2007-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>171</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rb-lightbox-plugin/analyses/14591309/languages.png">
+          <language color="A4007E" percentage="39" id="6">
+JavaScript          </language>
+          <language color="A40011" percentage="43" id="12">
+Ruby          </language>
+          <language color="FF1A00" percentage="18" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

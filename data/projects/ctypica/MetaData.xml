@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>59796</id>
+      <name>ctypica</name>
+      <url>http://www.ohloh.net/p/ctypica.xml</url>
+      <html_url>http://www.ohloh.net/p/ctypica</html_url>
+      <created_at>2008-12-17T20:11:14Z</created_at>
+      <updated_at>2013-07-09T22:58:57Z</updated_at>
+      <description>This project will allow communication with Amazon Web Services from the iPhone or iPod touch. 
+
+Current development is focused on the Amazon EC2 service. The underlying code structure is done as are most of the &quot;describe&quot; calls. SVN has been populated, and submissions are welcome!</description>
+      <homepage_url>http://code.google.com/p/ctypica</homepage_url>
+      <download_url></download_url>
+      <url_name>ctypica</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14575194</analysis_id>
+      <tags>
+        <tag>ipod</tag>
+        <tag>iphone</tag>
+        <tag>objective-c</tag>
+        <tag>ec2</tag>
+        <tag>aws</tag>
+        <tag>touch</tag>
+      </tags>
+      <analysis>
+        <id>14575194</id>
+        <url>http://www.ohloh.net/analyses/14575194.xml</url>
+        <project_id>59796</project_id>
+        <updated_at>2013-07-21T00:20:13Z</updated_at>
+        <logged_at>2013-07-21T00:20:08Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>5818</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ctypica/analyses/14575194/languages.png">
+          <language color="C7932C" percentage="23" id="16">
+Objective-C          </language>
+          <language color="FF8F00" percentage="54" id="42">
+C          </language>
+          <language color="555555" percentage="13" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="10" id="44">
+C++          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584343</id>
+      <name>v8rocket</name>
+      <url>http://www.ohloh.net/p/v8rocket.xml</url>
+      <html_url>http://www.ohloh.net/p/v8rocket</html_url>
+      <created_at>2011-06-05T22:25:00Z</created_at>
+      <updated_at>2013-06-25T13:57:16Z</updated_at>
+      <description>v8rocket is a library for integrating v8 with libRocket, and to expose the XHTML DOM to Javascript.
+
+libRocket (http://librocket.com) is a renderer agnostic XHTML/CSS renderer, useful for creating UIs for games and the like. Hopefully makes assembling a game UI a breeze.
+
+v8 (http://code.google.com/p/v8/) is a fast Javascript engine, used by the Chromium browser to execute Javascript.
+
+Advantages of v8rocket:
+
+Renderer agnostic, input agnostic, allows a fully dynamic layout, that can grow/shrink etc. as needed, uses existing layout technology - standardized XHTML/CSS to describe layout, allows easy &quot;theming&quot; via CSS, or even changing the XHTML, without having to recompile, allows delegation of UI work to developers skilled in web programming.</description>
+      <homepage_url>https://github.com/realazthat/v8.rocket/</homepage_url>
+      <download_url></download_url>
+      <url_name>v8rocket</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14404374</analysis_id>
+      <tags>
+        <tag>layout</tag>
+        <tag>renderer</tag>
+        <tag>html</tag>
+        <tag>ui</tag>
+        <tag>display</tag>
+        <tag>gaming</tag>
+        <tag>library</tag>
+        <tag>d3d</tag>
+        <tag>game_development</tag>
+        <tag>multiplatform</tag>
+        <tag>object_oriented</tag>
+        <tag>scriptable</tag>
+        <tag>ogre3d</tag>
+        <tag>user-interface</tag>
+        <tag>sdl</tag>
+        <tag>ogre</tag>
+        <tag>directx</tag>
+        <tag>gui</tag>
+        <tag>javascript</tag>
+        <tag>xhtml</tag>
+        <tag>css</tag>
+        <tag>librocket</tag>
+        <tag>v8</tag>
+        <tag>opengl</tag>
+        <tag>sfml</tag>
+        <tag>ois</tag>
+        <tag>cross-platform</tag>
+        <tag>css2</tag>
+        <tag>portable</tag>
+        <tag>xml</tag>
+        <tag>interface</tag>
+        <tag>gamedev</tag>
+        <tag>embedded</tag>
+        <tag>cplusplus</tag>
+        <tag>game</tag>
+        <tag>development</tag>
+        <tag>open-source</tag>
+        <tag>rendering</tag>
+        <tag>layoutmanager</tag>
+        <tag>widget</tag>
+        <tag>web</tag>
+        <tag>widgets</tag>
+        <tag>widgetengine</tag>
+        <tag>dhtml</tag>
+        <tag>gui_framework</tag>
+        <tag>gl</tag>
+        <tag>gles</tag>
+        <tag>graphics</tag>
+        <tag>3d</tag>
+        <tag>2d</tag>
+        <tag>cross-plattform</tag>
+        <tag>c++</tag>
+        <tag>browser</tag>
+        <tag>desktop</tag>
+        <tag>programming</tag>
+        <tag>mit</tag>
+        <tag>mitlicense</tag>
+        <tag>mit_license</tag>
+        <tag>direct3d</tag>
+        <tag>render</tag>
+        <tag>vertices</tag>
+        <tag>texture</tag>
+        <tag>textures</tag>
+      </tags>
+      <analysis>
+        <id>14404374</id>
+        <url>http://www.ohloh.net/analyses/14404374.xml</url>
+        <project_id>584343</project_id>
+        <updated_at>2013-07-19T17:54:12Z</updated_at>
+        <logged_at>2013-07-19T17:54:10Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2466</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/v8rocket/analyses/14404374/languages.png">
+          <language color="F35F1F" percentage="97" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>60414</id>
+      <name>eveow</name>
+      <url>http://www.ohloh.net/p/eveow.xml</url>
+      <html_url>http://www.ohloh.net/p/eveow</html_url>
+      <created_at>2008-12-17T22:25:03Z</created_at>
+      <updated_at>2013-07-22T07:30:16Z</updated_at>
+      <description>The [Sexy] Offline Wallet utilises the EVE API data to provide you a detailed overview of either your personal or corporation's finances. Continually developed in conjunction with the community, the focus is on usability and security. 
+
+Currently (as of 24 July 2007) the project is in a pre-release beta, so there will be missing and possibly broken functionality. As code is updated, periodic downloads will be made available, but you can always grab the latest source code from the SVN.</description>
+      <homepage_url>http://code.google.com/p/eveow</homepage_url>
+      <download_url></download_url>
+      <url_name>eveow</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14728761</analysis_id>
+      <tags>
+        <tag>journal</tag>
+        <tag>javascript</tag>
+        <tag>php</tag>
+        <tag>mysql</tag>
+        <tag>offline</tag>
+        <tag>eve</tag>
+        <tag>wallet</tag>
+        <tag>eve-online</tag>
+      </tags>
+      <analysis>
+        <id>14728761</id>
+        <url>http://www.ohloh.net/analyses/14728761.xml</url>
+        <project_id>60414</project_id>
+        <updated_at>2013-07-22T07:30:15Z</updated_at>
+        <logged_at>2013-07-22T07:29:53Z</logged_at>
+        <min_month>2007-07-01T00:00:00Z</min_month>
+        <max_month>2007-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>15416</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eveow/analyses/14728761/languages.png">
+          <language color="356AA0" percentage="88" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="9" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

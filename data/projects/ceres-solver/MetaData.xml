@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633537</id>
+      <name>ceres-solver</name>
+      <url>http://www.ohloh.net/p/ceres-solver.xml</url>
+      <html_url>http://www.ohloh.net/p/ceres-solver</html_url>
+      <created_at>2013-02-26T03:35:21Z</created_at>
+      <updated_at>2013-07-20T13:55:49Z</updated_at>
+      <description>Ceres Solver is a portable C++ library that allows for modeling and solving large complicated nonlinear least squares problems. Features include:
+
+ * A friendly API: build your objective function one term at a time.
+ * Automatic differentiation.
+ * Robust loss functions.
+ * Local parameterizations.
+ * Threaded Jacobian evaluators and linear solvers.
+ * Levenberg-Marquardt and Dogleg (Powell &amp; Subspace) solvers.
+ * Dense QR and Cholesky factorization (using Eigen) for small problems.
+ * Sparse Cholesky factorization (using SuiteSparse) for large sparse problems.
+ * Specialized solvers for bundle adjustment problems in computer vision.
+ * Iterative linear solvers for general sparse and bundle adjustment problems.</description>
+      <homepage_url>http://ceres-solver.googlecode.com</homepage_url>
+      <download_url>https://code.google.com/p/ceres-solver/downloads/list</download_url>
+      <url_name>ceres-solver</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14699880</analysis_id>
+      <tags>
+        <tag>solver</tag>
+        <tag>engineering</tag>
+        <tag>mathematics</tag>
+        <tag>scientific</tag>
+        <tag>linear_algebra</tag>
+        <tag>nonlinear</tag>
+      </tags>
+      <analysis>
+        <id>14699880</id>
+        <url>http://www.ohloh.net/analyses/14699880.xml</url>
+        <project_id>633537</project_id>
+        <updated_at>2013-07-20T13:55:49Z</updated_at>
+        <logged_at>2013-07-20T13:55:11Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>15</twelve_month_contributor_count>
+        <total_code_lines>65222</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ceres-solver/analyses/14699880/languages.png">
+          <language color="F35F1F" percentage="97" id="44">
+C++          </language>
+          <language color="000000" percentage="3" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

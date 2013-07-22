@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>321094</id>
+      <name>django-css</name>
+      <url>http://www.ohloh.net/p/django-css.xml</url>
+      <html_url>http://www.ohloh.net/p/django-css</html_url>
+      <created_at>2009-04-04T21:45:58Z</created_at>
+      <updated_at>2013-06-30T04:06:08Z</updated_at>
+      <description>django-css is a fork of django-compress that makes it easy to use CSS compilers with your Django projects. CSS compilers extend CSS syntax to include more powerful features such as variables and nested blocks.
+
+CSS files are re-compiled only when they are changed, so you can still serve them as static content.
+
+django-css also automates the compression, combination, and versioning of your CSS and Javascript files. See django-compress for more information on CSS/JS compression.
+
+django-css can currently be used with any CSS compiler that can be called from the command line, such as HSS and Sass, and CleverCSS.</description>
+      <homepage_url>http://code.google.com/p/django-css/</homepage_url>
+      <download_url>http://code.google.com/p/django-css/source/checkout</download_url>
+      <url_name>django-css</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471956</analysis_id>
+      <tags>
+        <tag>css-compiler</tag>
+        <tag>djangoapp</tag>
+        <tag>css</tag>
+        <tag>css-compression</tag>
+        <tag>django</tag>
+      </tags>
+      <analysis>
+        <id>14471956</id>
+        <url>http://www.ohloh.net/analyses/14471956.xml</url>
+        <project_id>321094</project_id>
+        <updated_at>2013-07-19T12:41:13Z</updated_at>
+        <logged_at>2013-07-19T12:41:10Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1644</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/django-css/analyses/14471956/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

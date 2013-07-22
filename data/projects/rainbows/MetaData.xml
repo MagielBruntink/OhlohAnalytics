@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>526840</id>
+      <name>rainbows</name>
+      <url>http://www.ohloh.net/p/rainbows.xml</url>
+      <html_url>http://www.ohloh.net/p/rainbows</html_url>
+      <created_at>2011-04-27T20:55:15Z</created_at>
+      <updated_at>2013-07-10T06:25:08Z</updated_at>
+      <description>Rainbows! is an HTTP server for sleepy Rack applications.
+
+It is based on Unicorn, but designed to handle applications that expect long request/response times and/or slow clients.</description>
+      <homepage_url>http://rainbows.rubyforge.org/</homepage_url>
+      <download_url>http://rubyforge.org/frs/?group_id=8977</download_url>
+      <url_name>rainbows</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14578958</analysis_id>
+      <tags>
+        <tag>eventmachine</tag>
+        <tag>revactor</tag>
+        <tag>ruby_on_rails</tag>
+        <tag>rack</tag>
+        <tag>ruby</tag>
+        <tag>rubyonrails</tag>
+        <tag>unicorn</tag>
+        <tag>rails</tag>
+        <tag>concurrency</tag>
+        <tag>fibers</tag>
+        <tag>http_server</tag>
+      </tags>
+      <analysis>
+        <id>14578958</id>
+        <url>http://www.ohloh.net/analyses/14578958.xml</url>
+        <project_id>526840</project_id>
+        <updated_at>2013-07-20T19:08:09Z</updated_at>
+        <logged_at>2013-07-20T19:08:07Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>11205</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rainbows/analyses/14578958/languages.png">
+          <language color="A40011" percentage="59" id="12">
+Ruby          </language>
+          <language color="777777" percentage="35" id="11">
+shell script          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>Ruby_License</name>
+          <nice_name>Ruby License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

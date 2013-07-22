@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586317</id>
+      <name>jmx4py</name>
+      <url>http://www.ohloh.net/p/jmx4py.xml</url>
+      <html_url>http://www.ohloh.net/p/jmx4py</html_url>
+      <created_at>2011-09-22T18:38:20Z</created_at>
+      <updated_at>2013-07-19T22:37:37Z</updated_at>
+      <description>Jolokia is a JMX-HTTP bridge giving an alternative to JSR-160 connectors. It is an agent based approach with support for many platforms. In addition to basic JMX operations it enhances JMX remoting with unique features like bulk requests or fine grained security policies.
+
+jmx4py offers a client API similar to the existing Jolokia clients for Perl (jmx4perl), Java and Javascript. Additionally, it'll build upon the basic API and offer further features related to monitoring and controlling JVMs via JMX using Python.</description>
+      <homepage_url>https://github.com/jhermann/jmx4py</homepage_url>
+      <download_url>http://pypi.python.org/pypi/jmx4py/</download_url>
+      <url_name>jmx4py</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14689466</analysis_id>
+      <tags>
+        <tag>json</tag>
+        <tag>python</tag>
+        <tag>java</tag>
+        <tag>jmx</tag>
+        <tag>rest</tag>
+      </tags>
+      <analysis>
+        <id>14689466</id>
+        <url>http://www.ohloh.net/analyses/14689466.xml</url>
+        <project_id>586317</project_id>
+        <updated_at>2013-07-19T22:37:37Z</updated_at>
+        <logged_at>2013-07-19T22:37:29Z</logged_at>
+        <min_month>2011-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>819</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jmx4py/analyses/14689466/languages.png">
+          <language color="4A246B" percentage="90" id="9">
+Python          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="5" id="5">
+Java          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

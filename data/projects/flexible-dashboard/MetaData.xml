@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>458566</id>
+      <name>flexible-dashboard</name>
+      <url>http://www.ohloh.net/p/flexible-dashboard.xml</url>
+      <html_url>http://www.ohloh.net/p/flexible-dashboard</html_url>
+      <created_at>2009-10-02T13:22:37Z</created_at>
+      <updated_at>2013-06-23T10:20:46Z</updated_at>
+      <description>Based on esria dashboard / adobe flex devnet dashboard sample with added flexmdi cascade/tile (esria pod drag/drop in tile mode) and more pods, and both flex+browser and flex+air versions 
+
+FlexibleDashoard (Flex+Browser) pods: line, bar, pie charts, form, todo, list, JasperReports viewer, Pentaho dashboard, BlazeDS samples, external Flex app SWFLoader, calendar, iframe html. BIRT support planned. Module modularity planned. 
+
+FlexibleDashboardAir (Flex+AIR) FlexibleDashboard pods plus additional AIR pods: webkit HTML, web browser, Google gadgets, Liferay portlets, local files browser 
+
+See integratedsemantics.org blog  
+
+and integratedsemantics.com. 
+
+Also see 
+
+FlexibleShare (which extends FlexibleDashboard with Alfresco doc mgt, wcm, share collaboration, and LiveCycle ES doc mgt) Google</description>
+      <homepage_url>http://code.google.com/p/flexible-dashboard/</homepage_url>
+      <download_url></download_url>
+      <url_name>flexible-dashboard</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14356417</analysis_id>
+      <tags>
+        <tag>reporting</tag>
+        <tag>pentaho</tag>
+        <tag>charting</tag>
+        <tag>air</tag>
+        <tag>bi</tag>
+        <tag>portal</tag>
+        <tag>jasperreports</tag>
+        <tag>flex</tag>
+        <tag>blazeds</tag>
+        <tag>liferay</tag>
+        <tag>dashboard</tag>
+      </tags>
+      <analysis>
+        <id>14356417</id>
+        <url>http://www.ohloh.net/analyses/14356417.xml</url>
+        <project_id>458566</project_id>
+        <updated_at>2013-07-19T17:12:29Z</updated_at>
+        <logged_at>2013-07-19T17:12:26Z</logged_at>
+        <min_month>2009-10-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>31005</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flexible-dashboard/analyses/14356417/languages.png">
+          <language color="E3491A" percentage="62" id="53">
+ActionScript          </language>
+          <language color="EEE" percentage="17" id="54">
+MXML          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="11" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>53</main_language_id>
+        <main_language_name>ActionScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

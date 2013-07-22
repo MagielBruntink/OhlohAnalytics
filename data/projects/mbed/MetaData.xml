@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>263301</id>
+      <name>mbed</name>
+      <url>http://www.ohloh.net/p/mbed.xml</url>
+      <html_url>http://www.ohloh.net/p/mbed</html_url>
+      <created_at>2009-01-20T08:49:14Z</created_at>
+      <updated_at>2013-07-21T00:45:01Z</updated_at>
+      <description>The mbed Software Development Kit (SDK) is an open source C/C++ microcontroller software platform relied upon by tens of thousands of developers to build projects fast. We've worried about creating and testing startup code, C runtime, libraries and peripheral APIs, so you can worry about coding the smarts of your next product.</description>
+      <homepage_url>http://mbed.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>mbed</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/62706/mbed_med.jpeg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/62706/mbed_small.jpeg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14708436</analysis_id>
+      <tags>
+        <tag>drivers</tag>
+        <tag>armcc</tag>
+        <tag>canbus</tag>
+        <tag>mcu</tag>
+        <tag>microcontroller</tag>
+        <tag>cortex_m0</tag>
+        <tag>networking</tag>
+        <tag>cortex_m3</tag>
+        <tag>rtos</tag>
+        <tag>arm</tag>
+        <tag>dsp</tag>
+        <tag>cortex_m0+</tag>
+        <tag>embedded</tag>
+        <tag>cmsis</tag>
+        <tag>usb</tag>
+        <tag>gcc</tag>
+        <tag>iar</tag>
+        <tag>nxp</tag>
+        <tag>freescale</tag>
+        <tag>lpc</tag>
+      </tags>
+      <analysis>
+        <id>14708436</id>
+        <url>http://www.ohloh.net/analyses/14708436.xml</url>
+        <project_id>263301</project_id>
+        <updated_at>2013-07-21T00:45:01Z</updated_at>
+        <logged_at>2013-07-21T00:44:24Z</logged_at>
+        <min_month>2013-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>205552</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mbed/analyses/14708436/languages.png">
+          <language color="FF8F00" percentage="78" id="42">
+C          </language>
+          <language color="F35F1F" percentage="15" id="44">
+C++          </language>
+          <language color="000000" percentage="7" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

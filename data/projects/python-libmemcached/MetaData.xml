@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>22796</id>
+      <name>python-libmemcached</name>
+      <url>http://www.ohloh.net/p/python-libmemcached.xml</url>
+      <html_url>http://www.ohloh.net/p/python-libmemcached</html_url>
+      <created_at>2008-10-07T15:05:15Z</created_at>
+      <updated_at>2013-06-25T05:21:35Z</updated_at>
+      <description>python-libmemcached is a python wrapper for libmemcached. 
+
+Dependencelibmemcached 0.17+ python 2.5+ Pyrex 0.9.4+ Install1.Make sure to install libmemcached 0.17+ first .Then download python-libmemcached-0.13.1.tar.gz&#65292;extract it(tar xzf python-libmemcached-0.13.1.tgz)&#65292;get the directory python-libmemcached 
+
+cd  python-libmemcached ; 
+python setup.py build
+sudo python setup.py install2.Test 
+
+python benchmark.py</description>
+      <homepage_url>http://code.google.com/p/python-libmemcached</homepage_url>
+      <download_url></download_url>
+      <url_name>python-libmemcached</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14397854</analysis_id>
+      <tags>
+        <tag>memcache</tag>
+        <tag>python</tag>
+        <tag>libmemcached</tag>
+      </tags>
+      <analysis>
+        <id>14397854</id>
+        <url>http://www.ohloh.net/analyses/14397854.xml</url>
+        <project_id>22796</project_id>
+        <updated_at>2013-07-20T03:55:13Z</updated_at>
+        <logged_at>2013-07-20T03:55:12Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>896</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/python-libmemcached/analyses/14397854/languages.png">
+          <language color="4A246B" percentage="92" id="9">
+Python          </language>
+          <language color="FF8F00" percentage="8" id="42">
+C          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

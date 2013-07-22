@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7213</id>
+      <name>SharpMUD Framework</name>
+      <url>http://www.ohloh.net/p/sharpmud.xml</url>
+      <html_url>http://www.ohloh.net/p/sharpmud</html_url>
+      <created_at>2007-08-05T23:03:34Z</created_at>
+      <updated_at>2013-06-28T11:49:01Z</updated_at>
+      <description>SharpMUD is a MUD server Framework/API writtin in 100% C#. It is aimed at allowing MUD developers to focus on gameplay, and not server mechanics - by exposing an easy-to-use, yet feature-rich MUD architecture.</description>
+      <homepage_url>http://sharpmud.net/</homepage_url>
+      <download_url>http://code.google.com/p/sharpmud-framework/downloads/list?can=2</download_url>
+      <url_name>sharpmud</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14443520</analysis_id>
+      <tags>
+        <tag>framework</tag>
+        <tag>mmorpg</tag>
+        <tag>role-playing</tag>
+        <tag>mud</tag>
+        <tag>telnet</tag>
+        <tag>c#</tag>
+      </tags>
+      <analysis>
+        <id>14443520</id>
+        <url>http://www.ohloh.net/analyses/14443520.xml</url>
+        <project_id>7213</project_id>
+        <updated_at>2013-07-21T18:43:47Z</updated_at>
+        <logged_at>2013-07-21T18:43:44Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2007-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>55935</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sharpmud/analyses/14443520/languages.png">
+          <language color="555555" percentage="48" id="3">
+XML          </language>
+          <language color="4096EE" percentage="52" id="17">
+C#          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

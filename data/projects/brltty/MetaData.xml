@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9074</id>
+      <name>BRLTTY</name>
+      <url>http://www.ohloh.net/p/brltty.xml</url>
+      <html_url>http://www.ohloh.net/p/brltty</html_url>
+      <created_at>2007-10-10T20:48:07Z</created_at>
+      <updated_at>2013-07-21T21:31:46Z</updated_at>
+      <description>BRLTTY is a background process (daemon) which provides access to the Linux/Unix console (when in text mode) for a blind person using a refreshable braille display. It drives the braille display, and provides complete screen review functionality. Some speech capability has also been incorporated.</description>
+      <homepage_url>http://mielke.cc/brltty</homepage_url>
+      <download_url>http://www.mielke.cc/brltty/download.html</download_url>
+      <url_name>brltty</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14719782</analysis_id>
+      <tags>
+        <tag>braille</tag>
+        <tag>screenreader</tag>
+        <tag>speech</tag>
+        <tag>accessibility</tag>
+        <tag>dos</tag>
+        <tag>hurd</tag>
+        <tag>linux</tag>
+        <tag>console</tag>
+        <tag>bsd</tag>
+        <tag>solaris</tag>
+        <tag>windows</tag>
+      </tags>
+      <analysis>
+        <id>14719782</id>
+        <url>http://www.ohloh.net/analyses/14719782.xml</url>
+        <project_id>9074</project_id>
+        <updated_at>2013-07-21T21:31:46Z</updated_at>
+        <logged_at>2013-07-21T21:27:27Z</logged_at>
+        <min_month>2003-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>125040</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/brltty/analyses/14719782/languages.png">
+          <language color="FF8F00" percentage="74" id="42">
+C          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="15" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

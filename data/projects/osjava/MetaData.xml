@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13164</id>
+      <name>osjava</name>
+      <url>http://www.ohloh.net/p/osjava.xml</url>
+      <html_url>http://www.ohloh.net/p/osjava</html_url>
+      <created_at>2008-04-05T06:04:18Z</created_at>
+      <updated_at>2013-07-19T18:36:14Z</updated_at>
+      <description>Dedicated to open-source Java.</description>
+      <homepage_url>http://www.osjava.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>osjava</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14687672</analysis_id>
+      <analysis>
+        <id>14687672</id>
+        <url>http://www.ohloh.net/analyses/14687672.xml</url>
+        <project_id>13164</project_id>
+        <updated_at>2013-07-19T18:36:14Z</updated_at>
+        <logged_at>2013-07-19T18:35:09Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>67367</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/osjava/analyses/14687672/languages.png">
+          <language color="9A63AD" percentage="82" id="5">
+Java          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

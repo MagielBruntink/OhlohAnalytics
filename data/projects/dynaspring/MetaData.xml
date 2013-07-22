@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>481221</id>
+      <name>DynaSpring</name>
+      <url>http://www.ohloh.net/p/dynaspring.xml</url>
+      <html_url>http://www.ohloh.net/p/dynaspring</html_url>
+      <created_at>2010-02-18T19:03:32Z</created_at>
+      <updated_at>2013-06-24T21:30:20Z</updated_at>
+      <description>DynaSpring is a dynamic DSL tailored at building a Spring Application Context. Like Spring/XML, it is a declarative, tree-structured language; but, unlike XML, it supports all the kinds of abstractions found in common programming languages: conditional evaluation, iteration, definition of functions and variables, etc.</description>
+      <homepage_url>http://code.google.com/p/dynaspring/</homepage_url>
+      <download_url>http://code.google.com/p/dynaspring/downloads/list</download_url>
+      <url_name>dynaspring</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14387646</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>abcl</tag>
+        <tag>cross-platform</tag>
+        <tag>armedbear</tag>
+        <tag>framework</tag>
+        <tag>ioc</tag>
+        <tag>dynamiclanguages</tag>
+        <tag>java</tag>
+        <tag>application</tag>
+        <tag>dsl</tag>
+        <tag>spring</tag>
+        <tag>lisp</tag>
+        <tag>springframework</tag>
+      </tags>
+      <analysis>
+        <id>14387646</id>
+        <url>http://www.ohloh.net/analyses/14387646.xml</url>
+        <project_id>481221</project_id>
+        <updated_at>2013-07-22T08:22:14Z</updated_at>
+        <logged_at>2013-07-22T08:22:11Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2011-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2247</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dynaspring/analyses/14387646/languages.png">
+          <language color="9A63AD" percentage="68" id="5">
+Java          </language>
+          <language color="93D290" percentage="31" id="22">
+Lisp          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

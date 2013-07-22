@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>7741</id>
+      <name>patI18n</name>
+      <url>http://www.ohloh.net/p/pati18n.xml</url>
+      <html_url>http://www.ohloh.net/p/pati18n</html_url>
+      <created_at>2007-08-15T09:31:14Z</created_at>
+      <updated_at>2013-07-22T00:25:28Z</updated_at>
+      <description>Inspired by GNU Gettext {http://www.gnu.org/software/gettext/}  and it's PHP implementation, this packages provides an sort of compatible but modular interface for translation.
+
+Both, text domains and plural forms are supported as Gettext does it. The  names of the static functions are the same as in Gettext. This way using it is piece of cake when you are familiar with Gettext. Besides providing the same interface, allows you to use the normal Gettext tools like  &quot;xgettext&quot; to extract to-be-translated strings etc. 
+
+Still, patI18n is not fixed to utilise Gettext at all. The modular design allows to connect any kind of translation tool. Furthermore, you can even  use more than one module at the same time.</description>
+      <homepage_url>http://www.php-tools.net/svn/patI18n/trunk/</homepage_url>
+      <download_url>http://snaps.php-tools.net/</download_url>
+      <url_name>pati18n</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14721720</analysis_id>
+      <tags>
+        <tag>development</tag>
+        <tag>i18n</tag>
+        <tag>php</tag>
+        <tag>l10n</tag>
+      </tags>
+      <analysis>
+        <id>14721720</id>
+        <url>http://www.ohloh.net/analyses/14721720.xml</url>
+        <project_id>7741</project_id>
+        <updated_at>2013-07-22T00:25:28Z</updated_at>
+        <logged_at>2013-07-22T00:25:17Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>868</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pati18n/analyses/14721720/languages.png">
+          <language color="356AA0" percentage="93" id="2">
+PHP          </language>
+          <language color="000000" percentage="7" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

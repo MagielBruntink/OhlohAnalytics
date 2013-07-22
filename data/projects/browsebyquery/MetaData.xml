@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>125807</id>
+      <name>Browse by Query</name>
+      <url>http://www.ohloh.net/p/browsebyquery.xml</url>
+      <html_url>http://www.ohloh.net/p/browsebyquery</html_url>
+      <created_at>2009-01-03T13:18:45Z</created_at>
+      <updated_at>2013-07-15T07:31:25Z</updated_at>
+      <description>A query language for code browsing. You query your database-- why don't you query your code? Write queries to provide custom views of your Java or C#/CLR code base. Integrates with popular IDEs or standalone.</description>
+      <homepage_url>http://sourceforge.net/projects/browsebyquery</homepage_url>
+      <download_url></download_url>
+      <url_name>browsebyquery</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43149/weber_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43149/weber_small.gif</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14636813</analysis_id>
+      <analysis>
+        <id>14636813</id>
+        <url>http://www.ohloh.net/analyses/14636813.xml</url>
+        <project_id>125807</project_id>
+        <updated_at>2013-07-19T14:00:11Z</updated_at>
+        <logged_at>2013-07-19T13:56:36Z</logged_at>
+        <min_month>1999-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>73554</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/browsebyquery/analyses/14636813/languages.png">
+          <language color="9A63AD" percentage="89" id="5">
+Java          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="5" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

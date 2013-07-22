@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587956</id>
+      <name>bumblebee-nvidiaoptimus</name>
+      <url>http://www.ohloh.net/p/bumblebee-nvidiaoptimus.xml</url>
+      <html_url>http://www.ohloh.net/p/bumblebee-nvidiaoptimus</html_url>
+      <created_at>2011-12-28T09:29:27Z</created_at>
+      <updated_at>2013-07-19T21:28:08Z</updated_at>
+      <description>Bumblebee aims to provide support for nVidia Optimus laptops for GNU/Linux distributions. Using Bumblebee, you can use your nVidia card for rendering graphics which will be displayed using the Intel card.
+
+Enabling and disabling the nVidia card is managed by bumblebeed daemon and it requires kernel support (bbswitch or switcheroo).
+
+Currently, Bumblebee has been tested on Debian, Ubuntu, Arch and Gentoo Linux. If you have any questions join #bumblebee channel on Freenode.</description>
+      <homepage_url>https://launchpad.net/~bumblebee</homepage_url>
+      <download_url>https://github.com/Bumblebee-Project/Bumblebee/downloads</download_url>
+      <url_name>bumblebee-nvidiaoptimus</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14688836</analysis_id>
+      <tags>
+        <tag>nvidiadriver</tag>
+        <tag>driver</tag>
+        <tag>nvidia</tag>
+        <tag>linux</tag>
+        <tag>graphics</tag>
+        <tag>x11</tag>
+      </tags>
+      <analysis>
+        <id>14688836</id>
+        <url>http://www.ohloh.net/analyses/14688836.xml</url>
+        <project_id>587956</project_id>
+        <updated_at>2013-07-19T21:28:07Z</updated_at>
+        <logged_at>2013-07-19T21:19:32Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>13</twelve_month_contributor_count>
+        <total_code_lines>4965</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bumblebee-nvidiaoptimus/analyses/14688836/languages.png">
+          <language color="FF8F00" percentage="56" id="42">
+C          </language>
+          <language color="777777" percentage="27" id="11">
+shell script          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Globus-gpl</name>
+          <nice_name>Globus Toolkit Public License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

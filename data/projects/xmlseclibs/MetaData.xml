@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>44102</id>
+      <name>xmlseclibs</name>
+      <url>http://www.ohloh.net/p/xmlseclibs.xml</url>
+      <html_url>http://www.ohloh.net/p/xmlseclibs</html_url>
+      <created_at>2008-12-15T18:39:24Z</created_at>
+      <updated_at>2013-07-18T06:52:25Z</updated_at>
+      <description>xmlseclibs is a library written in PHP for working with XML Encryption and Signatures. 
+
+xmlseclibs requires PHP version 5 or greater. 
+
+The author of xmlseclibs is Rob Richards. 
+
+xmlseclibs is being used in many different software, one of them is simpleSAMLphp.</description>
+      <homepage_url>http://code.google.com/p/xmlseclibs</homepage_url>
+      <download_url></download_url>
+      <url_name>xmlseclibs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14673080</analysis_id>
+      <tags>
+        <tag>x509</tag>
+        <tag>certificate</tag>
+        <tag>signature</tag>
+        <tag>xml</tag>
+        <tag>php</tag>
+        <tag>security</tag>
+        <tag>xmlsec</tag>
+        <tag>signing</tag>
+        <tag>library</tag>
+      </tags>
+      <analysis>
+        <id>14673080</id>
+        <url>http://www.ohloh.net/analyses/14673080.xml</url>
+        <project_id>44102</project_id>
+        <updated_at>2013-07-18T06:52:24Z</updated_at>
+        <logged_at>2013-07-18T06:52:12Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>1607</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xmlseclibs/analyses/14673080/languages.png">
+          <language color="356AA0" percentage="92" id="2">
+PHP          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="47A400" percentage="&lt;1" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

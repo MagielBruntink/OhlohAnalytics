@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>10292</id>
+      <name>Replicator</name>
+      <url>http://www.ohloh.net/p/replicator.xml</url>
+      <html_url>http://www.ohloh.net/p/replicator</html_url>
+      <created_at>2007-12-15T09:37:43Z</created_at>
+      <updated_at>2013-07-06T14:38:02Z</updated_at>
+      <description>Replicator is a set of scripts to automate the duplication of a model computer running Debian/GNU Linux, with some provisions to take into account differences in hardware (like HD size, video card) and in software configuration (partitioning).
+
+After the initial configuration, the scripts will create a bootdisk that allow to (re)install completely a Debian box by just booting on the floppy and answering a yes/no question.</description>
+      <homepage_url>http://replicator.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=11570</download_url>
+      <url_name>replicator</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14551060</analysis_id>
+      <tags>
+        <tag>installation</tag>
+        <tag>systems_administration</tag>
+        <tag>systemsmanagement</tag>
+        <tag>deployment</tag>
+        <tag>debian</tag>
+        <tag>clustering</tag>
+        <tag>operating_system</tag>
+        <tag>installer</tag>
+        <tag>provisioning</tag>
+        <tag>replication</tag>
+      </tags>
+      <analysis>
+        <id>14551060</id>
+        <url>http://www.ohloh.net/analyses/14551060.xml</url>
+        <project_id>10292</project_id>
+        <updated_at>2013-07-20T16:34:45Z</updated_at>
+        <logged_at>2013-07-20T16:34:40Z</logged_at>
+        <min_month>1999-11-01T00:00:00Z</min_month>
+        <max_month>2009-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2515</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/replicator/analyses/14551060/languages.png">
+          <language color="D2C690" percentage="78" id="8">
+Perl          </language>
+          <language color="000080" percentage="15" id="37">
+TeX/LaTeX          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="777777" percentage="2" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

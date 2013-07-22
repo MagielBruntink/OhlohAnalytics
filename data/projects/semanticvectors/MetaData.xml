@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23751</id>
+      <name>semanticvectors</name>
+      <url>http://www.ohloh.net/p/semanticvectors.xml</url>
+      <html_url>http://www.ohloh.net/p/semanticvectors</html_url>
+      <created_at>2008-10-07T15:51:57Z</created_at>
+      <updated_at>2013-07-22T10:38:43Z</updated_at>
+      <description>The Semantic Vectors PackageSemantic Vector indexes, created by applying a Random Projection algorithm to term-document matrices created using Apache Lucene. The package was created as part of a project by the University of Pittsburgh Office of Technology Management, to explore the potential for automatically matching related concepts in the technology management domain, e.g., mapping new technologies to potentatially interested licensors. This project can be found at http://real.hsls.pitt.edu. 
+
+The package creates a WordSpace model, of the kind developed by Stanford University's Infomap Project and other researchers during the 1990s and early 2000s. Such models are designed to represent words and documents in terms of underlying concepts, and as such can be used for many semantic (concept-aware) matching tasks such as automatic thesaurus generation, knowledge representation, and concept matching.  
+
+The Semantic Vectors package uses a Random Projection algorithm, a form of automatic semantic analysis, similar to Latent Semantic Analysis (LSA) and its variants like Probabilistic Latent Semantic Analysis (PLSA). However, unlike other methods, Random Projection does not rely on the use of computationally intensive matrix decomposition algorithms like Singular Value Decomposition (SVD). This makes Random Projection a much more scalable technique in practice. Our application of Random Projection for Natural Language Processing (NLP) is descended from Pentti Kanerva's work on Sparse Distributed Memory, which in semantic analysis and text mining, this method has also been called Random Indexing. A growing number of researchers have applied Random Projection to NLP tasks, demonstrating: 
+
+Semantic performance comparable with other forms of Latent Semantic Analysis. Significant computational performance advantages in creating and maintaining models. DocumentationJava API Documentation is at http://semanticvectors.googlecode.com/svn/trunk/doc/index.html. Installation help can be found in the InstallationInstructions. Help on using SemanticVectors for DocumentSearch. A page with links to more RelatedResearch. The package requires Apache Ant and Apache Lucene to have been installed, and the Lucene classes must be available in your CLASSPATH. 
+
+User GroupIssues and bugs can be posted using the Issues tab above. More general questions and discussions may be posted at the group webpage, http://groups.google.com/group/semanticvectors. 
+
+Originally written by Dominic Widdows, in collaboration with Kathleen Ferraro and the University of Pittsburgh. The project is now maintained and extended by a small group of developers, as listed in the SemanticVectors AUTHORS file. 
+
+Projects Using Semantic VectorsWe're starting a list of ProjectsUsingSemanticVectors. We're aware of a few more that we'll try to add in due course: please visit this page and leave comments if you know of any.</description>
+      <homepage_url>http://code.google.com/p/semanticvectors</homepage_url>
+      <download_url></download_url>
+      <url_name>semanticvectors</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14730825</analysis_id>
+      <tags>
+        <tag>naturallanguageprocessingnlp</tag>
+        <tag>semanticsearch</tag>
+        <tag>lsa</tag>
+        <tag>java</tag>
+        <tag>lucene</tag>
+        <tag>latentsemanticanalysis</tag>
+        <tag>randomprojection</tag>
+        <tag>nlp</tag>
+        <tag>search</tag>
+      </tags>
+      <analysis>
+        <id>14730825</id>
+        <url>http://www.ohloh.net/analyses/14730825.xml</url>
+        <project_id>23751</project_id>
+        <updated_at>2013-07-22T10:38:43Z</updated_at>
+        <logged_at>2013-07-22T10:35:47Z</logged_at>
+        <min_month>2007-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>11204</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/semanticvectors/analyses/14730825/languages.png">
+          <language color="9A63AD" percentage="98" id="5">
+Java          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>342953</id>
+      <name>Griffon CodeNarc Plugin</name>
+      <url>http://www.ohloh.net/p/griffon-codenarc-plugin.xml</url>
+      <html_url>http://www.ohloh.net/p/griffon-codenarc-plugin</html_url>
+      <created_at>2009-05-26T19:33:21Z</created_at>
+      <updated_at>2013-06-17T14:36:19Z</updated_at>
+      <description>The CodeNarc Plugin provides static code analysis for Groovy code. It uses the CodeNarc library. It is actually a port of the Grails CodeNarc plugin created by Burt Beckwith.</description>
+      <homepage_url>http://griffon.codehaus.org/Codenarc+Plugin</homepage_url>
+      <download_url>http://griffon.codehaus.org/Codenarc+Plugin</download_url>
+      <url_name>griffon-codenarc-plugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14293529</analysis_id>
+      <tags>
+        <tag>desktop</tag>
+        <tag>quality</tag>
+        <tag>swing</tag>
+        <tag>test</tag>
+        <tag>griffon</tag>
+        <tag>plugin</tag>
+        <tag>testing</tag>
+        <tag>groovy</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14293529</id>
+        <url>http://www.ohloh.net/analyses/14293529.xml</url>
+        <project_id>342953</project_id>
+        <updated_at>2013-07-17T10:47:20Z</updated_at>
+        <logged_at>2013-07-17T10:47:16Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2011-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>176</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/griffon-codenarc-plugin/analyses/14293529/languages.png">
+          <language color="C72C2C" percentage="67" id="29">
+Groovy          </language>
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>29</main_language_id>
+        <main_language_name>Groovy</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

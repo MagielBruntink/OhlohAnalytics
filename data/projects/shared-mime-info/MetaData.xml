@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>287777</id>
+      <name>shared-mime-info</name>
+      <url>http://www.ohloh.net/p/shared-mime-info.xml</url>
+      <html_url>http://www.ohloh.net/p/shared-mime-info</html_url>
+      <created_at>2009-01-22T15:44:40Z</created_at>
+      <updated_at>2013-07-19T21:48:11Z</updated_at>
+      <description>This is the shared MIME-info database from the X Desktop Group. It is required by any program complying to the Shared MIME-Info Database spec. 
+
+The shared-mime-info project contains the core database of common types and the *update-mime-database* command used to extend it. It requires glib2 to be installed for building the update command. Additionally, it uses intltool for translations, though this is only a dependency for the maintainers.
+
+the Shared MIME-Info Database spec is avalaible on 
+http://www.freedesktop.org/wiki/Specifications/shared-mime-info-spec</description>
+      <homepage_url>http://www.freedesktop.org/wiki/Software/shared-mime-info</homepage_url>
+      <download_url></download_url>
+      <url_name>shared-mime-info</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14688875</analysis_id>
+      <tags>
+        <tag>specifications</tag>
+        <tag>mime</tag>
+        <tag>xdg</tag>
+      </tags>
+      <analysis>
+        <id>14688875</id>
+        <url>http://www.ohloh.net/analyses/14688875.xml</url>
+        <project_id>287777</project_id>
+        <updated_at>2013-07-19T21:48:11Z</updated_at>
+        <logged_at>2013-07-19T21:35:49Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>14</twelve_month_contributor_count>
+        <total_code_lines>27398</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/shared-mime-info/analyses/14688875/languages.png">
+          <language color="555555" percentage="82" id="3">
+XML          </language>
+          <language color="FF8F00" percentage="16" id="42">
+C          </language>
+          <language color="000000" percentage="2" id="">
+21 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

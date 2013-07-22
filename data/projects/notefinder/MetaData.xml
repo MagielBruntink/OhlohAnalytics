@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>52797</id>
+      <name>notefinder</name>
+      <url>http://www.ohloh.net/p/notefinder.xml</url>
+      <html_url>http://www.ohloh.net/p/notefinder</html_url>
+      <created_at>2008-12-16T19:40:34Z</created_at>
+      <updated_at>2013-06-24T14:28:59Z</updated_at>
+      <description>NoteFinder is an extensible PIM implemented in Python.
+
+It was firstly developed as a simple command-line interface note-taking application that used a filesystem as database and featured tagging and search.
+
+Now it has been rewritten to be as extensible and modular as possible.
+
+Thanks to modular architecture it became possible to turn it into a full featured PIM able to store not only notes, but contacts, tasks, spreadsheets, bookmarks, web pages and any files too.
+
+Unlike in most commonly used PIMs like MS Outlook, Kontact, Evolution, Mozilla Sunbird those provide different non-integrated interfaces to access different data, everything is tightly integrated and stored in a single database so you can use common interface to search for records, list, view and edit them.</description>
+      <homepage_url>http://notefinder.in</homepage_url>
+      <download_url></download_url>
+      <url_name>notefinder</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/21922/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/21922/icon_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14380327</analysis_id>
+      <tags>
+        <tag>wiki</tag>
+        <tag>note-taking</tag>
+        <tag>zim</tag>
+        <tag>notefinder</tag>
+        <tag>blog</tag>
+        <tag>filesystem</tag>
+        <tag>cross-platform</tag>
+        <tag>python</tag>
+        <tag>xmlrpc</tag>
+        <tag>multi-backend</tag>
+        <tag>ipod</tag>
+        <tag>dokuwiki</tag>
+        <tag>pim</tag>
+        <tag>qt</tag>
+      </tags>
+      <analysis>
+        <id>14380327</id>
+        <url>http://www.ohloh.net/analyses/14380327.xml</url>
+        <project_id>52797</project_id>
+        <updated_at>2013-07-19T13:50:56Z</updated_at>
+        <logged_at>2013-07-19T13:50:54Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8585</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/notefinder/analyses/14380327/languages.png">
+          <language color="4A246B" percentage="94" id="9">
+Python          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

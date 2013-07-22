@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>258834</id>
+      <name>datum</name>
+      <url>http://www.ohloh.net/p/datum.xml</url>
+      <html_url>http://www.ohloh.net/p/datum</html_url>
+      <created_at>2009-01-20T03:31:44Z</created_at>
+      <updated_at>2013-07-22T05:48:34Z</updated_at>
+      <description>Datum is a server-based software which connects databases with PHP to collaborate for data management in your data project.
+It was developed at UMR Environnement &amp; Grandes Culture, a research unit of the French institute INRA, to share data from database with partners and facilitate the management of experimental data, with guaranty of data privacy.
+
+The core of the software provides :
+- user management &amp; permissions
+- news
+- file sharing
+- visualisation of the database schema throw WWWSQLDesigner
+- data report with charts
+- dynamic charts
+- asynchronous daemon
+- internationalisation
+- help system
+- database management with optimisation, triggers
+- user history
+
+Modules can be added to add special functionalities or interface for a database.
+It is developed in PHP using the Yii framework.</description>
+      <homepage_url>https://launchpad.net/datum/</homepage_url>
+      <download_url></download_url>
+      <url_name>datum</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14727371</analysis_id>
+      <tags>
+        <tag>webapp</tag>
+        <tag>databases</tag>
+        <tag>php</tag>
+        <tag>collaboration</tag>
+        <tag>yii</tag>
+        <tag>scientific</tag>
+      </tags>
+      <analysis>
+        <id>14727371</id>
+        <url>http://www.ohloh.net/analyses/14727371.xml</url>
+        <project_id>258834</project_id>
+        <updated_at>2013-07-22T05:48:33Z</updated_at>
+        <logged_at>2013-07-22T05:44:47Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>147554</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/datum/analyses/14727371/languages.png">
+          <language color="356AA0" percentage="83" id="2">
+PHP          </language>
+          <language color="000000" percentage="17" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>372770</id>
+      <name>zimwiki</name>
+      <url>http://www.ohloh.net/p/zimwiki.xml</url>
+      <html_url>http://www.ohloh.net/p/zimwiki</html_url>
+      <created_at>2009-08-13T19:13:34Z</created_at>
+      <updated_at>2013-06-24T15:08:19Z</updated_at>
+      <description>Zim is a WYSIWYG text editor written in Gtk2-Perl. It aims to bring the concept of a wiki to your desktop. Every page is saved as a text file with wiki markup. Pages can contain links to other pages, and are saved automatically. Creating a new page is as easy as linking to a non-existing page. This tool is intended to keep track of TODO lists or to serve as a personal scratch book. But it will also serve you when writing longer and more complicated documents. 
+
+A &quot;desktop wiki&quot; means that we try to capture the idea of a wiki, not as a webpage but as a collection of files on your local file system that can be edited with a GUI application. The main focus is a kind of personal wiki that serves for all kind of notes: todo-lists, addresses, brainstorm ideas etc. 
+
+But we want to go further then just a wiki filled with random content. It should also be possible to use you random notes as the basis for more structured data: articles, presentations etc. Zim will not include tools to layout a presentation or something like that, you should use your office suite of choice for that, but it should be a tool that can deliver all the content for a presentation in a form that only needs a template and some layout before usage. Therefore certain features normally not found in wikis will be added. 
+
+This will be where the Perl fork will live when the Python (Really? What are they thinking?)  of Zim Wiki is done.  We will maintain feature parity and file format compatibility for the most part but will extend the code to add things like: 
+
+Importing and/or Exporting: OpenOffice Writer XML Perl Pod files Man Pages in man and mdoc format PDF (Export only, I imagine) Presentations in OO Impress, MagicPoint, Takahashi XUL and HTML/JS Format Todo lists from programs such as GTG iCal and vCalendar files iCard and vCard files Mindmaps from programs like View Your Mind XML Support for new page types and elements: Mindmaps, or editable GraphViz pages Hidden/Comment Sections Text and Page Colours Simple Doodle Page/Element Contacts Datasources Tables, and Tabular Data Snippets which can be #included into other pages Dynamic Snippets from URLs, Dataources or Commands Plain Text Only Pages HTML Formatted Pages (with WYSIWYGish editing) Tags and Tag Clouds 'New Page ...' Templates New Todo List Features: Hierarchical TODO Lists Allow TODO list tree view which can be sorted by Node/Heading or just Heading (letting you share headings between pages) Allow showing OK and NOK checkboxes in the Todo list Allow editing of Todo Item Status and Priority on the Todo List Window New Version Control Backends: RCS (people still use this) CVS (not dead yet) GIT (apparently, the new hotness) Mercurial (eventually) New File Storage Backends: SFTP/SCP FTP WebDav Relational Database with DBI 'Non-relational' Store 'Cloud' Storage New/Extended Features: Allow Export to Export only parts of the tree Import files into the tree Have Namespace view viewable and exportable as a GraphViz graph (in dot or image format) Have Links viewable and exportable as a GraphViz graph (in dot or image format) Create Google sitemap.xml file on html export New Interwiki types for operating system/file system/help information Inter-notebook links Bugs/Misfeatures Allow the man interwiki type to work with man(1) that isn't GNU man Fix cases where what should be absolute links get the notebook docroot prepended to them Fix cases where file:// urls open the file manager, not the associated application Next Major Version: AnyEvent + Glib::Event (or Glib::EV) Moose + MooseX::Declare Template Toolkit D-Bus control with Net::DBus::GLib Embedded Web Server (AnyEvent::HTTPD seems a good fit) Any new features, comments, let us know.</description>
+      <homepage_url>http://code.google.com/p/zimwiki/</homepage_url>
+      <download_url></download_url>
+      <url_name>zimwiki</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14381237</analysis_id>
+      <tags>
+        <tag>wiki</tag>
+        <tag>gtk2</tag>
+        <tag>desktop</tag>
+        <tag>perl</tag>
+      </tags>
+      <analysis>
+        <id>14381237</id>
+        <url>http://www.ohloh.net/analyses/14381237.xml</url>
+        <project_id>372770</project_id>
+        <updated_at>2013-07-18T08:58:43Z</updated_at>
+        <logged_at>2013-07-18T08:58:42Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>0</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zimwiki/analyses/14381237/languages.png">
+        </languages>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

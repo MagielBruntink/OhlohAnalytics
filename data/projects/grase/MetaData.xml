@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>360140</id>
+      <name>GRASE - Hotspot/Radmin administration</name>
+      <url>http://www.ohloh.net/p/grase.xml</url>
+      <html_url>http://www.ohloh.net/p/grase</html_url>
+      <created_at>2009-08-12T03:09:49Z</created_at>
+      <updated_at>2013-07-18T23:01:43Z</updated_at>
+      <description>A simple system for RADMIN and Hotspot administration. A complete hotspot solution based on ChilliCoova, MySQL, FreeRadius, and here is the glue!</description>
+      <homepage_url>http://sourceforge.net/projects/grase/</homepage_url>
+      <download_url>http://grasehotspot.org/documentation/installation/</download_url>
+      <url_name>grase</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/44769/graselogo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/44769/graselogo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14680789</analysis_id>
+      <tags>
+        <tag>captiveportal</tag>
+        <tag>freeradius</tag>
+        <tag>portal</tag>
+        <tag>wifi</tag>
+        <tag>php</tag>
+        <tag>hotspot</tag>
+        <tag>captive_portal</tag>
+        <tag>coovachilli</tag>
+        <tag>mysql</tag>
+        <tag>wireless</tag>
+      </tags>
+      <analysis>
+        <id>14680789</id>
+        <url>http://www.ohloh.net/analyses/14680789.xml</url>
+        <project_id>360140</project_id>
+        <updated_at>2013-07-18T23:01:43Z</updated_at>
+        <logged_at>2013-07-18T22:56:36Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>10</twelve_month_contributor_count>
+        <total_code_lines>15920</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grase/analyses/14680789/languages.png">
+          <language color="356AA0" percentage="53" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="16" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="11" id="1">
+HTML          </language>
+          <language color="000000" percentage="20" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

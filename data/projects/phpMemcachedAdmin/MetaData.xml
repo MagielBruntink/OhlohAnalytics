@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>586788</id>
+      <name>phpMemcachedAdmin</name>
+      <url>http://www.ohloh.net/p/phpMemcachedAdmin.xml</url>
+      <html_url>http://www.ohloh.net/p/phpMemcachedAdmin</html_url>
+      <created_at>2011-10-20T07:42:42Z</created_at>
+      <updated_at>2013-06-21T20:42:23Z</updated_at>
+      <description>Graphic stand-alone administration for memcached to monitor and debug purpose
+This program allows to see in real-time (top-like) or from the start of the server, stats for get, set, delete, increment, decrement, evictions, reclaimed, cas command, as well as server stats (network, items, server version) with googlecharts and server internal configuration
+
+You can go further to see each server slabs, occupation, memory wasted and items (key &amp; value).
+
+Another part can execute commands to any memcached server : get, set, delete, flush_all, as well as execute any commands (like stats) with telnet
+
+To extract these informations, phpMemcacheAdmin uses, as you wish, direct communication with server, PECL Memcache or PECL Memcached API.</description>
+      <homepage_url>http://code.google.com/p/phpmemcacheadmin/</homepage_url>
+      <download_url>http://code.google.com/p/phpmemcacheadmin/downloads/list</download_url>
+      <url_name>phpMemcachedAdmin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14329775</analysis_id>
+      <tags>
+        <tag>debug</tag>
+        <tag>memcached</tag>
+        <tag>php</tag>
+        <tag>memcache</tag>
+        <tag>admin</tag>
+        <tag>cache</tag>
+        <tag>caching</tag>
+      </tags>
+      <analysis>
+        <id>14329775</id>
+        <url>http://www.ohloh.net/analyses/14329775.xml</url>
+        <project_id>586788</project_id>
+        <updated_at>2013-07-18T15:55:06Z</updated_at>
+        <logged_at>2013-07-18T15:55:04Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2012-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3158</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/phpMemcachedAdmin/analyses/14329775/languages.png">
+          <language color="356AA0" percentage="62" id="2">
+PHP          </language>
+          <language color="47A400" percentage="27" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="5" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

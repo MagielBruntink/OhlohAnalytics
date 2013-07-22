@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482944</id>
+      <name>Chimeras</name>
+      <url>http://www.ohloh.net/p/chimeras.xml</url>
+      <html_url>http://www.ohloh.net/p/chimeras</html_url>
+      <created_at>2010-05-12T13:08:34Z</created_at>
+      <updated_at>2013-06-19T12:13:42Z</updated_at>
+      <description>A Ruby JSON Server, built to serve a high-request-traffic ajax applications.</description>
+      <homepage_url>http://chimeras.vytux.lt</homepage_url>
+      <download_url>http://github.com/vytux/Chimeras</download_url>
+      <url_name>chimeras</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14307031</analysis_id>
+      <analysis>
+        <id>14307031</id>
+        <url>http://www.ohloh.net/analyses/14307031.xml</url>
+        <project_id>482944</project_id>
+        <updated_at>2013-07-19T05:14:39Z</updated_at>
+        <logged_at>2013-07-19T05:14:38Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>85</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/chimeras/analyses/14307031/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl_classpath</name>
+          <nice_name>GPL + Classpath Exception</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
