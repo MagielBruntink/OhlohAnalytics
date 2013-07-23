@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25436</id>
+      <name>zoie</name>
+      <url>http://www.ohloh.net/p/zoie.xml</url>
+      <html_url>http://www.ohloh.net/p/zoie</html_url>
+      <created_at>2008-10-07T17:21:38Z</created_at>
+      <updated_at>2013-07-06T07:50:47Z</updated_at>
+      <description>Zoie issue tracking has been moved to: http://snaprojects.jira.com/browse/ZOIEZoie wiki has been moved to: http://snaprojects.jira.com/wiki/display/ZOIE/HomeZoie source control has been moved to: http://github.com/javasoze/zoieZoie is a real-time search and indexing system built on Apache Lucene. 
+
+News: Zoie 2.0.0-rc3 is released (2/17/2010) - Requires Lucene 2.9.x or Lucene 3.0. 
+
+Originally developed at LinkedIn.com. 
+
+Donated by LinkedIn.com on July 19, 2008. 
+
+Zoie is a mature open source project and has been deployed in a real-time large-scale consumer website: LinkedIn.com handling millions of searches as well as hundreds of thousands of updates daily. 
+
+All Zoie releases have gone through extensive functional and performance testing by LinkedIn before made public. 
+
+In a real-time search/indexing system, a document is made available as soon as it is added to the index. This functionality is especially important to time-sensitive information such as news, job openings, tweets etc. 
+
+This poses the following challenges which Zoie addresses: 
+
+Additions of documents must be made available to searchers immediately Indexing must not affect search performance Additions of documents must not fragment the index (which hurts search performance) Deletes and/or updates of documents must not affect search performance. ... Additional Zoie features: 
+
+fast lucene docid to uid mapping fast uid to lucene docid mapping (reverse id mapping) Live updates custom MergePolicy to handle realtime updates partial delete expunge for enhancing search performance without full optimize balanced index segment management full jmx console for indexing management/monitoring ... Architecture Diagram: 
+
+ 
+
+YourKit is kindly supporting open source projects with its full-featured Java Profiler. YourKit, LLC is the creator of innovative and intelligent tools for profiling Java and .NET applications. Take a look at YourKit's leading software products: YourKit .NET Profiler and YourKit Java Profiler.</description>
+      <homepage_url>http://code.google.com/p/zoie</homepage_url>
+      <download_url></download_url>
+      <url_name>zoie</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14547836</analysis_id>
+      <tags>
+        <tag>zoie</tag>
+        <tag>indexing</tag>
+        <tag>realtime</tag>
+        <tag>lucene</tag>
+        <tag>java</tag>
+        <tag>opensource</tag>
+        <tag>search</tag>
+      </tags>
+      <analysis>
+        <id>14547836</id>
+        <url>http://www.ohloh.net/analyses/14547836.xml</url>
+        <project_id>25436</project_id>
+        <updated_at>2013-07-20T21:32:02Z</updated_at>
+        <logged_at>2013-07-20T21:32:00Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2010-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>18302</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zoie/analyses/14547836/languages.png">
+          <language color="9A63AD" percentage="71" id="5">
+Java          </language>
+          <language color="A4007E" percentage="21" id="6">
+JavaScript          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

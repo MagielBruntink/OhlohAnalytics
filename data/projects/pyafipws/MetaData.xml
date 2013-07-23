@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>322493</id>
+      <name>pyafipws</name>
+      <url>http://www.ohloh.net/p/pyafipws.xml</url>
+      <html_url>http://www.ohloh.net/p/pyafipws</html_url>
+      <created_at>2009-04-09T15:43:03Z</created_at>
+      <updated_at>2013-07-23T08:02:53Z</updated_at>
+      <description>PyAfipWs: modules to access web services regarding AFIP (Argentina's IRS), related to electronic invoice generation and authorization.
+
+Consists in python modules (using openssl &amp; httplib2), a Windows COM interface compatible with other programming languages (VB, VFP, Delphi, PHP, etc.), command line tools and custom support for web services, XML and PDF.
+
+Additionally includes PyRece, a GUI complete reference implementation that reads invoices from simple CSV files, calls webservices to request authorization, generates PDF and sends it via email (enhanced, free and open source, multiplatform alternative to AFIP's SIAP RECE app)
+
+Web services supported so far: WSAA (authorization &amp; authentication, including digital cryptographic signature), WSFE (electronic invoice), WSBFE (tax bonus)</description>
+      <homepage_url>http://www.sistemasagiles.com.ar/trac/wiki/FacturaElectronicaPython</homepage_url>
+      <download_url>http://code.google.com/p/pyafipws</download_url>
+      <url_name>pyafipws</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/28346/logo-pyafipws_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/28346/logo-pyafipws_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14742184</analysis_id>
+      <tags>
+        <tag>afip</tag>
+        <tag>electronica</tag>
+        <tag>factura</tag>
+        <tag>wsfe</tag>
+        <tag>wsbfe</tag>
+        <tag>rece</tag>
+        <tag>python</tag>
+        <tag>webservices</tag>
+        <tag>electronic</tag>
+        <tag>invoice</tag>
+        <tag>wsaa</tag>
+      </tags>
+      <analysis>
+        <id>14742184</id>
+        <url>http://www.ohloh.net/analyses/14742184.xml</url>
+        <project_id>322493</project_id>
+        <updated_at>2013-07-23T08:02:52Z</updated_at>
+        <logged_at>2013-07-23T08:02:29Z</logged_at>
+        <min_month>2009-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>21016</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyafipws/analyses/14742184/languages.png">
+          <language color="4A246B" percentage="78" id="9">
+Python          </language>
+          <language color="2C5DC7" percentage="18" id="15">
+Visual Basic          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

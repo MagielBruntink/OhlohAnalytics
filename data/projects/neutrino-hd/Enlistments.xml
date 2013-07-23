@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>526778</id>
+      <project_id>478541</project_id>
+      <repository_id>529275</repository_id>
+      <repository>
+        <id>529275</id>
+        <type>GitRepository</type>
+        <url>git://c00lstreamtech.de/cst-public-gui-neutrino.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-20T19:59:08Z</logged_at>
+        <commits>3986</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>526785</id>
+      <project_id>478541</project_id>
+      <repository_id>529282</repository_id>
+      <repository>
+        <id>529282</id>
+        <type>GitRepository</type>
+        <url>git://c00lstreamtech.de/cst-public-gui-neutrino.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-20T19:59:03Z</logged_at>
+        <commits>3843</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

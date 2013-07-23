@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>111555</id>
+      <name>Pidgin-Encryption</name>
+      <url>http://www.ohloh.net/p/pidgin-encrypt.xml</url>
+      <html_url>http://www.ohloh.net/p/pidgin-encrypt</html_url>
+      <created_at>2008-12-27T20:27:09Z</created_at>
+      <updated_at>2013-06-30T03:35:06Z</updated_at>
+      <description>Encryption plugin for Pidgin, providing up to 4096 bit RSA encryption using the NSS crypto library from Mozilla. Keys are automatically transmitted and stored, making it very easy to use, but also resistant to man-in-the-middle attacks.</description>
+      <homepage_url>http://sourceforge.net/projects/pidgin-encrypt</homepage_url>
+      <download_url></download_url>
+      <url_name>pidgin-encrypt</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471212</analysis_id>
+      <analysis>
+        <id>14471212</id>
+        <url>http://www.ohloh.net/analyses/14471212.xml</url>
+        <project_id>111555</project_id>
+        <updated_at>2013-07-21T11:53:22Z</updated_at>
+        <logged_at>2013-07-21T11:52:16Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2010-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>11350</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pidgin-encrypt/analyses/14471212/languages.png">
+          <language color="FF8F00" percentage="85" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="10" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

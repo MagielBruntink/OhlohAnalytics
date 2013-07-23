@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487484</id>
+      <name>WriteableBitmapEx</name>
+      <url>http://www.ohloh.net/p/writeablebitmapex.xml</url>
+      <html_url>http://www.ohloh.net/p/writeablebitmapex</html_url>
+      <created_at>2011-01-11T13:45:48Z</created_at>
+      <updated_at>2013-07-21T06:48:34Z</updated_at>
+      <description>The WriteableBitmapEx library is a collection of extension methods for Silverlight's WriteableBitmap. The WriteableBitmap class that was added in Silverlight 3 and is also available on Windows Phone, allows the direct manipulation of a bitmap and could be used to generate fast procedural images by drawing directly to a bitmap. The WriteableBitmap API is very minimalistic and there's only the raw Pixels array for such operations. The WriteableBitmapEx library tries to compensate that with extensions methods that are easy to use like built in methods and offer GDI+ like functionality. The library extends the WriteableBitmap class with elementary and fast (2D drawing) functionality, conversion methods and functions to combine (blit) WriteableBitmaps.</description>
+      <homepage_url>http://writeablebitmapex.codeplex.com/</homepage_url>
+      <download_url>http://writeablebitmapex.codeplex.com/releases/</download_url>
+      <url_name>writeablebitmapex</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/40416/wbx_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/40416/wbx_logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14711615</analysis_id>
+      <tags>
+        <tag>wpf</tag>
+        <tag>silverlight</tag>
+        <tag>wp7</tag>
+        <tag>windowsphone7</tag>
+        <tag>net</tag>
+      </tags>
+      <analysis>
+        <id>14711615</id>
+        <url>http://www.ohloh.net/analyses/14711615.xml</url>
+        <project_id>487484</project_id>
+        <updated_at>2013-07-21T06:48:34Z</updated_at>
+        <logged_at>2013-07-21T06:38:31Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>13560</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/writeablebitmapex/analyses/14711615/languages.png">
+          <language color="4096EE" percentage="63" id="17">
+C#          </language>
+          <language color="EEE" percentage="19" id="67">
+XAML          </language>
+          <language color="555555" percentage="17" id="3">
+XML          </language>
+          <language color="000000" percentage="1" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Microsoft_Public_License_</name>
+          <nice_name>Microsoft Public License </nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

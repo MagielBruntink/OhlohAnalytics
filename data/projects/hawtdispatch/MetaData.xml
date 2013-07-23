@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485351</id>
+      <name>HawtDispatch</name>
+      <url>http://www.ohloh.net/p/hawtdispatch.xml</url>
+      <html_url>http://www.ohloh.net/p/hawtdispatch</html_url>
+      <created_at>2010-09-14T18:45:26Z</created_at>
+      <updated_at>2013-06-21T19:55:52Z</updated_at>
+      <description>HawtDispatch is a small ( less than 100k ) thread pooling and NIO handling framework API modeled after the libdispatch API that Apple created to power the Grand Central Dispatch (GCD) technology in OS X. It allows you to more easily develop multi-threaded applications which can more easily scale to take advantage of all the processing cores on your machine. At the same time, it&#8217;s development model simplifies solving many of the problems that plague multi-threaded NIO development.</description>
+      <homepage_url>http://hawtdispatch.fusesource.org/</homepage_url>
+      <download_url>http://hawtdispatch.fusesource.org/download.html</download_url>
+      <url_name>hawtdispatch</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14329037</analysis_id>
+      <analysis>
+        <id>14329037</id>
+        <url>http://www.ohloh.net/analyses/14329037.xml</url>
+        <project_id>485351</project_id>
+        <updated_at>2013-07-18T14:34:45Z</updated_at>
+        <logged_at>2013-07-18T14:34:38Z</logged_at>
+        <min_month>2010-03-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>9939</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hawtdispatch/analyses/14329037/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="7DD3B0" percentage="15" id="55">
+Scala          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

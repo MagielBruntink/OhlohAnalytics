@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>346746</id>
+      <name>citools</name>
+      <url>http://www.ohloh.net/p/citools.xml</url>
+      <html_url>http://www.ohloh.net/p/citools</html_url>
+      <created_at>2009-06-12T21:54:40Z</created_at>
+      <updated_at>2013-06-17T12:28:30Z</updated_at>
+      <description>citools are aimed to ease continous integration/releasing stuff with Python packages, especially Django ones.</description>
+      <homepage_url>http://github.com/ella/citools/tree/master</homepage_url>
+      <download_url>http://github.com/ella/citools/downloads</download_url>
+      <url_name>citools</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14292754</analysis_id>
+      <tags>
+        <tag>ci</tag>
+        <tag>continuous</tag>
+        <tag>django</tag>
+        <tag>integration</tag>
+        <tag>debian</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14292754</id>
+        <url>http://www.ohloh.net/analyses/14292754.xml</url>
+        <project_id>346746</project_id>
+        <updated_at>2013-07-17T10:23:05Z</updated_at>
+        <logged_at>2013-07-17T10:23:04Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4159</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/citools/analyses/14292754/languages.png">
+          <language color="4A246B" percentage="96" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12956</id>
+      <name>SpotLook</name>
+      <url>http://www.ohloh.net/p/spotlook.xml</url>
+      <html_url>http://www.ohloh.net/p/spotlook</html_url>
+      <created_at>2008-03-25T00:10:26Z</created_at>
+      <updated_at>2013-06-29T19:04:00Z</updated_at>
+      <description>SpotLook is a graphical user interface to Mac OS X Spotlight desktop search engine.
+
+SpotLook uses &quot;tracks&quot;. Tracks are timelines showing some kind of results, according to their date.
+
+You can use the default tracks or define your own, based on the files UTIs.
+
+Tracks also have a search scope and an attribute to search in (file name, text content or keywords).
+
+You can select some items in each track and quicklook, open or reveal in Finder the items you really want!
+
+Sorry Tiger users, SpotLook is Leopard only.</description>
+      <homepage_url>http://code.google.com/p/spotlook/</homepage_url>
+      <download_url>http://code.google.com/p/spotlook/</download_url>
+      <url_name>spotlook</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1552/SpotLook_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1552/SpotLook_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14465933</analysis_id>
+      <tags>
+        <tag>cocoa</tag>
+        <tag>quicklook</tag>
+        <tag>search</tag>
+        <tag>macosx</tag>
+        <tag>visualization</tag>
+        <tag>osx</tag>
+        <tag>objective_c</tag>
+        <tag>mac_os_x</tag>
+        <tag>spotlight</tag>
+      </tags>
+      <analysis>
+        <id>14465933</id>
+        <url>http://www.ohloh.net/analyses/14465933.xml</url>
+        <project_id>12956</project_id>
+        <updated_at>2013-07-05T07:13:42Z</updated_at>
+        <logged_at>2013-07-05T07:13:39Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2009-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>14399</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/spotlook/analyses/14465933/languages.png">
+          <language color="555555" percentage="79" id="3">
+XML          </language>
+          <language color="C7932C" percentage="18" id="16">
+Objective-C          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>16</main_language_id>
+        <main_language_name>Objective-C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

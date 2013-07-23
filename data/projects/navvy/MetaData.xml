@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480301</id>
+      <name>Navvy</name>
+      <url>http://www.ohloh.net/p/navvy.xml</url>
+      <html_url>http://www.ohloh.net/p/navvy</html_url>
+      <created_at>2010-01-06T12:07:15Z</created_at>
+      <updated_at>2013-06-25T20:25:35Z</updated_at>
+      <description>Navvy is a simple Ruby background job processor inspired by delayed_job, but aiming for database agnosticism.</description>
+      <homepage_url>http://github.com/jeffkreeftmeijer/navvy</homepage_url>
+      <download_url>http://gemcutter.org/gems/navvy</download_url>
+      <url_name>navvy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1180/ruby_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1180/ruby_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14408450</analysis_id>
+      <tags>
+        <tag>worker</tag>
+        <tag>background</tag>
+        <tag>job</tag>
+        <tag>queue</tag>
+        <tag>database</tag>
+        <tag>queuer</tag>
+        <tag>agnostic</tag>
+        <tag>ruby</tag>
+        <tag>jobscheduling</tag>
+        <tag>backgroundworker</tag>
+        <tag>queueing</tag>
+        <tag>scheduler</tag>
+      </tags>
+      <analysis>
+        <id>14408450</id>
+        <url>http://www.ohloh.net/analyses/14408450.xml</url>
+        <project_id>480301</project_id>
+        <updated_at>2013-07-23T03:59:19Z</updated_at>
+        <logged_at>2013-07-23T03:59:18Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2011-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1291</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/navvy/analyses/14408450/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605899</id>
+      <name>Locast Core Android</name>
+      <url>http://www.ohloh.net/p/Locast-Core-Android.xml</url>
+      <html_url>http://www.ohloh.net/p/Locast-Core-Android</html_url>
+      <created_at>2012-10-05T05:28:23Z</created_at>
+      <updated_at>2013-06-29T16:24:52Z</updated_at>
+      <description>Open Locast Core is an Android library that works in conjunction with the Open Locast web platform. It is a framework for building location-based media apps, with the ability to synchronize data to/from the web platform.
+
+Out of the box, Open Locast Core provides a data layer for data-driven apps. Using SimpleContentProvider, it provides an easy-to-use database layer which is exposed as a Content Provider. This library builds on top of SimpleContentProvider by adding an account system, a synchronization framework, some abstract classes that implement a bunch of boring-but-necessary things like login / registration activities, and a media processing layer.</description>
+      <homepage_url>https://github.com/mitmel/Locast-Core-Android</homepage_url>
+      <download_url></download_url>
+      <url_name>Locast-Core-Android</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/57496/locast_logo_small_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/57496/locast_logo_small_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14462722</analysis_id>
+      <analysis>
+        <id>14462722</id>
+        <url>http://www.ohloh.net/analyses/14462722.xml</url>
+        <project_id>605899</project_id>
+        <updated_at>2013-07-21T22:29:56Z</updated_at>
+        <logged_at>2013-07-21T22:29:54Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>8558</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Locast-Core-Android/analyses/14462722/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

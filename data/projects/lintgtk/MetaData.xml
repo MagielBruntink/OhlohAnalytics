@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>470877</id>
+      <name>lintgtk</name>
+      <url>http://www.ohloh.net/p/lintgtk.xml</url>
+      <html_url>http://www.ohloh.net/p/lintgtk</html_url>
+      <created_at>2009-11-02T02:35:03Z</created_at>
+      <updated_at>2013-06-26T18:50:52Z</updated_at>
+      <description>A graphical interface for pylint, to help in finding style errors.</description>
+      <homepage_url>http://delcorp.org/code/lintgtk</homepage_url>
+      <download_url>http://delcorp.org/code/lintgtk</download_url>
+      <url_name>lintgtk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14420572</analysis_id>
+      <analysis>
+        <id>14420572</id>
+        <url>http://www.ohloh.net/analyses/14420572.xml</url>
+        <project_id>470877</project_id>
+        <updated_at>2013-07-22T00:37:06Z</updated_at>
+        <logged_at>2013-07-22T00:37:04Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>637</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lintgtk/analyses/14420572/languages.png">
+          <language color="555555" percentage="40" id="3">
+XML          </language>
+          <language color="4A246B" percentage="47" id="9">
+Python          </language>
+          <language color="EEE" percentage="13" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

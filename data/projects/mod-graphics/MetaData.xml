@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>47214</id>
+      <name>mod-graphics</name>
+      <url>http://www.ohloh.net/p/mod-graphics.xml</url>
+      <html_url>http://www.ohloh.net/p/mod-graphics</html_url>
+      <created_at>2008-12-16T04:11:32Z</created_at>
+      <updated_at>2013-06-29T20:24:47Z</updated_at>
+      <description>mod_graphics is a apache module designed to generate images automatically based on parameters in the URL request.   
+
+Initially it has 2 supported features: 
+
+ Circles 
+
+- Inputs: radius, foreground, background color 
+ Gradient - Inputs: orientation (vertical or horizontal), start color. end color, length (pixels).   
+- Returns a 1xlength image in the format specified 
+
+
+The module was inspired by  
+
+- ngx_http_circle_gif_modulehttp://wiki.codemongers.com/http://wiki.codemongers.com/NginxHttpCircleGifModule 
+
+
+Notes: - Source only - tested on Centos i386 and x64 platforms - requires ImageMagick</description>
+      <homepage_url>http://code.google.com/p/mod-graphics</homepage_url>
+      <download_url></download_url>
+      <url_name>mod-graphics</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14467405</analysis_id>
+      <tags>
+        <tag>graphics</tag>
+        <tag>apache</tag>
+        <tag>ajax</tag>
+        <tag>httpd</tag>
+      </tags>
+      <analysis>
+        <id>14467405</id>
+        <url>http://www.ohloh.net/analyses/14467405.xml</url>
+        <project_id>47214</project_id>
+        <updated_at>2013-07-20T12:23:04Z</updated_at>
+        <logged_at>2013-07-20T12:23:01Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2008-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>558</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mod-graphics/analyses/14467405/languages.png">
+          <language color="FF8F00" percentage="100" id="42">
+C          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

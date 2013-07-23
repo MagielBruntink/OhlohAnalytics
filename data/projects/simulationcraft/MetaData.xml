@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23897</id>
+      <name>simulationcraft</name>
+      <url>http://www.ohloh.net/p/simulationcraft.xml</url>
+      <html_url>http://www.ohloh.net/p/simulationcraft</html_url>
+      <created_at>2008-10-07T15:59:25Z</created_at>
+      <updated_at>2013-07-21T10:51:24Z</updated_at>
+      <description>SimulationCraft is a tool to explore combat mechanics in the popular MMO RPG World of Warcraft (tm). 
+
+It is a multi-player event driven simulator written in C++ that models raid damage and (in the near future) threat generation. 
+
+Increasing class synergy and the prevalence of proc-based combat modifiers have eroded the accuracy of traditional calculators that rely upon closed-form approximations to model very complex mechanics. The goal of this simulator is to close the accuracy gap while maintaining a performance level high enough to calculate relative stat weights to aid gear selection. 
+
+SimulationCraft allows raid/party creation of arbitrary size, generating detailed charts and reports for both individual and raid performance. Currently, it is a command-line tool in which the player</description>
+      <homepage_url>http://code.google.com/p/simulationcraft</homepage_url>
+      <download_url>http://code.google.com/p/simulationcraft/downloads/list</download_url>
+      <url_name>simulationcraft</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61558/SimC_Logo_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61558/SimC_Logo_64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14713278</analysis_id>
+      <tags>
+        <tag>wow</tag>
+        <tag>worldofwarcraft</tag>
+        <tag>simulation</tag>
+        <tag>warcraft</tag>
+      </tags>
+      <analysis>
+        <id>14713278</id>
+        <url>http://www.ohloh.net/analyses/14713278.xml</url>
+        <project_id>23897</project_id>
+        <updated_at>2013-07-21T10:51:24Z</updated_at>
+        <logged_at>2013-07-21T10:47:17Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>40</twelve_month_contributor_count>
+        <total_code_lines>111773</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/simulationcraft/analyses/14713278/languages.png">
+          <language color="F35F1F" percentage="92" id="44">
+C++          </language>
+          <language color="4A246B" percentage="5" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+14 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

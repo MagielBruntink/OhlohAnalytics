@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19909</id>
+      <name>gnome-mplayer</name>
+      <url>http://www.ohloh.net/p/gnome-mplayer.xml</url>
+      <html_url>http://www.ohloh.net/p/gnome-mplayer</html_url>
+      <created_at>2008-10-07T12:45:23Z</created_at>
+      <updated_at>2013-07-20T06:26:53Z</updated_at>
+      <description>A GTK2 interface to MPlayer. The power of MPlayer combined with a friendly interface for your desktop; You can play all your multimedia (audio, video, CD, DVDs, and VCDs, streams etc.), organize, sort and create playlists, take screenshots while playing videos, be notified about media changes. Full DVD and MKV chapter support, when supported by Mplayer. Subtitle support with the ability to specify preferred audio and subtitle languages if the media supports it. Support for cover art retrieval from Amazon.com for audio media files with artist and/or album information contained in the file. 
+
+The player can be used to play media on websites from your browser when used with Gecko Mediaplayer and is the modern replacement for the mplayerplug-in application. 
+
+Gnome MPlayer has a rich API that is exposed via DBus. Using DBus you can control a single or multiple instances of GNOME MPlayer from a single command. 
+
+Gnome MPlayer is not dependent on any Gnome libraries. However. the look and feel of the application is based on the Gnome HIG. The main dependency is on GTK2, GLIB2 and DBUS.</description>
+      <homepage_url>http://code.google.com/p/gnome-mplayer</homepage_url>
+      <download_url></download_url>
+      <url_name>gnome-mplayer</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14694492</analysis_id>
+      <analysis>
+        <id>14694492</id>
+        <url>http://www.ohloh.net/analyses/14694492.xml</url>
+        <project_id>19909</project_id>
+        <updated_at>2013-07-20T06:26:53Z</updated_at>
+        <logged_at>2013-07-20T06:26:13Z</logged_at>
+        <min_month>2007-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>47329</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gnome-mplayer/analyses/14694492/languages.png">
+          <language color="FF8F00" percentage="38" id="42">
+C          </language>
+          <language color="EEE" percentage="26" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="24" id="11">
+shell script          </language>
+          <language color="000000" percentage="12" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>3467</id>
+      <name>CORSIS</name>
+      <url>http://www.ohloh.net/p/corsis.xml</url>
+      <html_url>http://www.ohloh.net/p/corsis</html_url>
+      <created_at>2006-10-28T21:45:25Z</created_at>
+      <updated_at>2013-07-23T05:51:13Z</updated_at>
+      <description>CORSIS (formerly Tenka Text) is a performance&#8208;oriented, open&#8208;source library for corpus analysis. It utilizes typed assembly, task&#8208;specific compilers and parallelization to deliver the best performance with elegant design. Demonstrative GUI of  the project comes with Wordlister - an advanced, extremely fast graphical wordlist tool and a regex concordance tool. CORSIS - the open-source answer to WordSmith Tools.</description>
+      <homepage_url>http://corsis.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=173414</download_url>
+      <url_name>corsis</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14739533</analysis_id>
+      <tags>
+        <tag>dotnet</tag>
+        <tag>lexical</tag>
+        <tag>cil</tag>
+        <tag>open-source</tag>
+        <tag>word_processors</tag>
+        <tag>tools</tag>
+        <tag>il</tag>
+        <tag>high-performance</tag>
+        <tag>c#</tag>
+        <tag>concordancer</tag>
+        <tag>analysis</tag>
+        <tag>wordsmith_tools</tag>
+        <tag>c_sharp</tag>
+        <tag>corpus</tag>
+        <tag>high_performance</tag>
+        <tag>lexical_analysis</tag>
+        <tag>class_library</tag>
+        <tag>multi-platform</tag>
+        <tag>regular_expressions</tag>
+        <tag>corpora</tag>
+        <tag>tokenizer</tag>
+        <tag>wordlister</tag>
+        <tag>text</tag>
+        <tag>wordlist</tag>
+        <tag>antconc</tag>
+        <tag>compiler</tag>
+        <tag>keywords</tag>
+        <tag>mono</tag>
+        <tag>wordsmith</tag>
+      </tags>
+      <analysis>
+        <id>14739533</id>
+        <url>http://www.ohloh.net/analyses/14739533.xml</url>
+        <project_id>3467</project_id>
+        <updated_at>2013-07-23T05:51:13Z</updated_at>
+        <logged_at>2013-07-23T05:50:14Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2009-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>50431</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/corsis/analyses/14739533/languages.png">
+          <language color="4096EE" percentage="66" id="17">
+C#          </language>
+          <language color="555555" percentage="34" id="3">
+XML          </language>
+          <language color="556677" percentage="&lt;1" id="35">
+XML Schema          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

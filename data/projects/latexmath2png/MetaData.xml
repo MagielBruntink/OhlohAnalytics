@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>66783</id>
+      <name>latexmath2png</name>
+      <url>http://www.ohloh.net/p/latexmath2png.xml</url>
+      <html_url>http://www.ohloh.net/p/latexmath2png</html_url>
+      <created_at>2008-12-19T00:22:35Z</created_at>
+      <updated_at>2013-07-03T11:56:20Z</updated_at>
+      <description>DescriptionA versatile program and Python module to allow conversion of LaTeX math equations in to PNG images. 
+
+Currently supports generating equations in the standard $...$ LaTeX math environment style. 
+
+RequirementsPython 2.5 latex dvipng (tested with version 1.9) UsageStandaloneRun latexmath2png.py --help for instructions and available options. 
+
+ModuleImport latexmath2png and use the math2png(...) function to generate output.</description>
+      <homepage_url>http://code.google.com/p/latexmath2png</homepage_url>
+      <download_url></download_url>
+      <url_name>latexmath2png</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14514480</analysis_id>
+      <tags>
+        <tag>math</tag>
+        <tag>png</tag>
+        <tag>latex</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14514480</id>
+        <url>http://www.ohloh.net/analyses/14514480.xml</url>
+        <project_id>66783</project_id>
+        <updated_at>2013-07-21T21:42:43Z</updated_at>
+        <logged_at>2013-07-21T21:42:05Z</logged_at>
+        <min_month>2007-04-01T00:00:00Z</min_month>
+        <max_month>2008-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>111</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/latexmath2png/analyses/14514480/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633231</id>
+      <name>haskell-trifecta</name>
+      <url>http://www.ohloh.net/p/haskell-trifecta.xml</url>
+      <html_url>http://www.ohloh.net/p/haskell-trifecta</html_url>
+      <created_at>2013-02-12T08:53:15Z</created_at>
+      <updated_at>2013-06-30T03:57:36Z</updated_at>
+      <description>Parser combinators with highlighting, slicing, layout, literate comments, Clang-style diagnostics and the kitchen sink</description>
+      <homepage_url>http://ekmett.github.com/trifecta/</homepage_url>
+      <download_url></download_url>
+      <url_name>haskell-trifecta</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14471650</analysis_id>
+      <tags>
+        <tag>language</tag>
+        <tag>haskell</tag>
+        <tag>parsing_combinators</tag>
+        <tag>parsing</tag>
+        <tag>llstar</tag>
+        <tag>functional</tag>
+        <tag>parser</tag>
+        <tag>syntax</tag>
+      </tags>
+      <analysis>
+        <id>14471650</id>
+        <url>http://www.ohloh.net/analyses/14471650.xml</url>
+        <project_id>633231</project_id>
+        <updated_at>2013-07-22T00:33:06Z</updated_at>
+        <logged_at>2013-07-22T00:33:04Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>1842</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/haskell-trifecta/analyses/14471650/languages.png">
+          <language color="007B7C" percentage="99" id="38">
+Haskell          </language>
+          <language color="777777" percentage="1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

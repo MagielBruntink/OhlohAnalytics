@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485838</id>
+      <name>BOINC Echo</name>
+      <url>http://www.ohloh.net/p/BOINCEcho.xml</url>
+      <html_url>http://www.ohloh.net/p/BOINCEcho</html_url>
+      <created_at>2010-10-08T00:03:41Z</created_at>
+      <updated_at>2013-06-27T13:24:07Z</updated_at>
+      <description>BOINC Echo is an android application for tracking user data/credits over different BOINC projects.</description>
+      <homepage_url>http://sourceforge.net/projects/boincecho</homepage_url>
+      <download_url>http://sourceforge.net/projects/boincecho/files/</download_url>
+      <url_name>BOINCEcho</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/38060/icon_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/38060/icon_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14433364</analysis_id>
+      <tags>
+        <tag>annotations</tag>
+        <tag>achartengine</tag>
+        <tag>android</tag>
+        <tag>java</tag>
+        <tag>androidapplication</tag>
+        <tag>boincstats</tag>
+        <tag>lombok</tag>
+        <tag>boinc</tag>
+        <tag>metagloss</tag>
+        <tag>androidjava</tag>
+        <tag>stats</tag>
+      </tags>
+      <analysis>
+        <id>14433364</id>
+        <url>http://www.ohloh.net/analyses/14433364.xml</url>
+        <project_id>485838</project_id>
+        <updated_at>2013-07-21T12:07:49Z</updated_at>
+        <logged_at>2013-07-21T12:07:43Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6672</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/BOINCEcho/analyses/14433364/languages.png">
+          <language color="9A63AD" percentage="72" id="5">
+Java          </language>
+          <language color="555555" percentage="28" id="3">
+XML          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

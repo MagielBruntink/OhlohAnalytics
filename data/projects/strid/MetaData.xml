@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>9095</id>
+      <name>strid</name>
+      <url>http://www.ohloh.net/p/strid.xml</url>
+      <html_url>http://www.ohloh.net/p/strid</html_url>
+      <created_at>2007-10-12T00:30:42Z</created_at>
+      <updated_at>2013-06-22T17:30:01Z</updated_at>
+      <description>strid is a tool to generate string diagrams for inclusion in LaTeX documents. It has a syntax which is inspired of Xy-matrix (but dual diagrams are generated). It is written in OCaml and freely distributed under the GPL license.</description>
+      <homepage_url>http://strid.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=207683</download_url>
+      <url_name>strid</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14345195</analysis_id>
+      <analysis>
+        <id>14345195</id>
+        <url>http://www.ohloh.net/analyses/14345195.xml</url>
+        <project_id>9095</project_id>
+        <updated_at>2013-07-20T15:33:25Z</updated_at>
+        <logged_at>2013-07-20T15:33:20Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4430</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/strid/analyses/14345195/languages.png">
+          <language color="3BE133" percentage="73" id="61">
+Objective Caml          </language>
+          <language color="000080" percentage="13" id="37">
+TeX/LaTeX          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>61</main_language_id>
+        <main_language_name>Objective Caml</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

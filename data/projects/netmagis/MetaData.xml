@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>622811</id>
+      <name>Netmagis</name>
+      <url>http://www.ohloh.net/p/netmagis.xml</url>
+      <html_url>http://www.ohloh.net/p/netmagis</html_url>
+      <created_at>2012-12-12T07:59:06Z</created_at>
+      <updated_at>2013-07-20T13:35:22Z</updated_at>
+      <description>Netmagis is a complete application to:
+- manage IPv4 and IPv6 addresses, and generate DNS zone files for BIND and DHCP files for ISC-DHCP
+- delegate DNS management to other people
+- manage a large number of networks, users domains, DHCP profiles, etc.
+- create automatic network maps of your network topology (switched or routed)
+- assign VLAN to equipment interfaces via a simple Web interface (for Cisco, HP or Juniper equipments)
+- access to traffic graphs
+- locate hosts by IP address, MAC address or network equipement port
+
+Netmagis uses a database describing your networks, privileges that you give to groups of users, DHCP profiles that you want to assign to DHCP ranges or hosts, etc. Netmagis is de facto a true network information system.</description>
+      <homepage_url>http://www.netmagis.org</homepage_url>
+      <download_url>http://www.netmagis.org/download.html</download_url>
+      <url_name>netmagis</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/60170/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/60170/logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14699675</analysis_id>
+      <tags>
+        <tag>router</tag>
+        <tag>vlanmanagement</tag>
+        <tag>traffic</tag>
+        <tag>dns</tag>
+        <tag>ipam</tag>
+        <tag>topology</tag>
+        <tag>sysadmin</tag>
+        <tag>networkmanagement</tag>
+        <tag>ipaddressmanagement</tag>
+        <tag>ipv6</tag>
+        <tag>ipv4</tag>
+        <tag>snmp</tag>
+        <tag>dhcp</tag>
+        <tag>networkmap</tag>
+        <tag>cisco</tag>
+        <tag>isc_dhcp</tag>
+        <tag>switches</tag>
+        <tag>juniper</tag>
+      </tags>
+      <analysis>
+        <id>14699675</id>
+        <url>http://www.ohloh.net/analyses/14699675.xml</url>
+        <project_id>622811</project_id>
+        <updated_at>2013-07-20T13:35:22Z</updated_at>
+        <logged_at>2013-07-20T13:34:49Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>42579</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/netmagis/analyses/14699675/languages.png">
+          <language color="D290A8" percentage="37" id="25">
+Tcl          </language>
+          <language color="D2C690" percentage="19" id="8">
+Perl          </language>
+          <language color="000080" percentage="13" id="37">
+TeX/LaTeX          </language>
+          <language color="000000" percentage="31" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>25</main_language_id>
+        <main_language_name>Tcl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cecill_b</name>
+          <nice_name>CeCILL-B Free Software License Agreement</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

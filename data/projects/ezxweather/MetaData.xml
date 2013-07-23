@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>345601</id>
+      <name>ezxweather</name>
+      <url>http://www.ohloh.net/p/ezxweather.xml</url>
+      <html_url>http://www.ohloh.net/p/ezxweather</html_url>
+      <created_at>2009-06-04T00:11:03Z</created_at>
+      <updated_at>2013-06-24T06:45:16Z</updated_at>
+      <description>Weather tool for Motorola EZX linux phones.</description>
+      <homepage_url>http://code.google.com/p/ezxweather</homepage_url>
+      <download_url></download_url>
+      <url_name>ezxweather</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14375386</analysis_id>
+      <tags>
+        <tag>e6</tag>
+        <tag>ezx</tag>
+        <tag>a1200</tag>
+        <tag>linux</tag>
+        <tag>moto</tag>
+      </tags>
+      <analysis>
+        <id>14375386</id>
+        <url>http://www.ohloh.net/analyses/14375386.xml</url>
+        <project_id>345601</project_id>
+        <updated_at>2013-07-22T23:55:41Z</updated_at>
+        <logged_at>2013-07-22T23:55:40Z</logged_at>
+        <min_month>2009-02-01T00:00:00Z</min_month>
+        <max_month>2010-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1477</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ezxweather/analyses/14375386/languages.png">
+          <language color="F35F1F" percentage="93" id="44">
+C++          </language>
+          <language color="EEE" percentage="6" id="52">
+Make          </language>
+          <language color="EEE" percentage="1" id="76">
+IDL/PV-WAVE/GDL          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

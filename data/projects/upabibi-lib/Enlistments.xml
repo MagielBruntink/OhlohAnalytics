@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>100173</id>
+      <project_id>348051</project_id>
+      <repository_id>98614</repository_id>
+      <repository>
+        <id>98614</id>
+        <type>SvnSyncRepository</type>
+        <url>https://upabibi-lib.googlecode.com/svn/trunk/</url>
+        <username>upabibi.hoanganhtran@gmail.com</username>
+        <password>Qb7jd3pj5va5</password>
+        <logged_at>2013-07-19T21:35:52Z</logged_at>
+        <commits>15</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>100172</id>
+      <project_id>348051</project_id>
+      <repository_id>98613</repository_id>
+      <repository>
+        <id>98613</id>
+        <type>SvnSyncRepository</type>
+        <url>https://upabibi-lib.svn.sourceforge.net/svnroot/upabibi-lib</url>
+        <username>upabibi</username>
+        <password>ayeuvo</password>
+        <logged_at>2013-07-19T21:44:58Z</logged_at>
+        <commits>11</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12425</id>
+      <name>libnjb</name>
+      <url>http://www.ohloh.net/p/libnjb.xml</url>
+      <html_url>http://www.ohloh.net/p/libnjb</html_url>
+      <created_at>2008-03-01T23:28:47Z</created_at>
+      <updated_at>2013-06-23T23:54:27Z</updated_at>
+      <description>Provide a user-level API (C library) for communicating with the Creative NOMAD Jukebox MP3 players and Dell DJs under Linux, *BSD and Windows. The protocol in question is colloquially known as &quot;PDE&quot; (Portable Digital Entertainment).</description>
+      <homepage_url>http://libnjb.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=32528</download_url>
+      <url_name>libnjb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.5</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14368193</analysis_id>
+      <tags>
+        <tag>libnjb</tag>
+        <tag>creative</tag>
+        <tag>libusb</tag>
+        <tag>nomad</tag>
+      </tags>
+      <analysis>
+        <id>14368193</id>
+        <url>http://www.ohloh.net/analyses/14368193.xml</url>
+        <project_id>12425</project_id>
+        <updated_at>2013-07-21T04:44:46Z</updated_at>
+        <logged_at>2013-07-21T04:44:40Z</logged_at>
+        <min_month>2001-08-01T00:00:00Z</min_month>
+        <max_month>2011-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>17558</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libnjb/analyses/14368193/languages.png">
+          <language color="FF8F00" percentage="73" id="42">
+C          </language>
+          <language color="555555" percentage="19" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="6" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

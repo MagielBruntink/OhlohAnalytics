@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485625</id>
+      <name>OpenFLUID</name>
+      <url>http://www.ohloh.net/p/openfluid.xml</url>
+      <html_url>http://www.ohloh.net/p/openfluid</html_url>
+      <created_at>2010-09-28T14:35:54Z</created_at>
+      <updated_at>2013-07-22T23:55:54Z</updated_at>
+      <description>OpenFLUID is a software platform for modelling and simulation of mass fluxes in landscapes (hydrology, pollutant, erosion, ...). This project is developped by the LISAH laboratory at INRA (French National Institute for Agricultural Research )</description>
+      <homepage_url>http://www.umr-lisah.fr/openfluid/</homepage_url>
+      <download_url>https://sourceforge.net/projects/openfluid/files/</download_url>
+      <url_name>openfluid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/37787/oficon_64_glossy_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/37787/oficon_64_glossy_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14735040</analysis_id>
+      <tags>
+        <tag>hydrology</tag>
+        <tag>spatial</tag>
+        <tag>landscapes</tag>
+        <tag>simulation</tag>
+        <tag>modelling</tag>
+        <tag>ecosystems</tag>
+        <tag>environment</tag>
+        <tag>platform</tag>
+        <tag>agriculture</tag>
+      </tags>
+      <analysis>
+        <id>14735040</id>
+        <url>http://www.ohloh.net/analyses/14735040.xml</url>
+        <project_id>485625</project_id>
+        <updated_at>2013-07-22T23:55:53Z</updated_at>
+        <logged_at>2013-07-22T23:52:35Z</logged_at>
+        <min_month>2006-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>184680</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openfluid/analyses/14735040/languages.png">
+          <language color="555555" percentage="33" id="3">
+XML          </language>
+          <language color="F35F1F" percentage="52" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="6" id="42">
+C          </language>
+          <language color="000000" percentage="9" id="">
+10 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

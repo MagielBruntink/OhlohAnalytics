@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>386515</id>
+      <name>telenonvideo</name>
+      <url>http://www.ohloh.net/p/telenonvideo.xml</url>
+      <html_url>http://www.ohloh.net/p/telenonvideo</html_url>
+      <created_at>2009-08-18T01:35:54Z</created_at>
+      <updated_at>2013-07-02T18:58:57Z</updated_at>
+      <description>This project brings RAI teletext (Televideo) to the desktop, making it easier to navigate. It is multiplatform, tested on Linux and Windows. Most of the pages and the program itself are in Italian, since that is the primary target. 
+
+Questo programma ti permette di vedere il Televideo RAI senza necessit&#224; di andare sul sito e con qualche opzione utile, come per esempio la memorizzazione di 5 pagine preferite. 
+
+Provato su Windows XP, Windows Vista, Windows 7. Dovrebbe funzionare con qualsiasi sistema operativo da Windows 98 in poi. 
+
+Su Linux dovrebbe funzionare in ogni distribuzione se &#232; presente PyQt4 (almeno la versione 4.5 dalla 0.43 in avanti); &#232; stato testato su ArchLinux e Kubuntu.</description>
+      <homepage_url>http://code.google.com/p/telenonvideo/</homepage_url>
+      <download_url>http://code.google.com/p/telenonvideo/downloads/list</download_url>
+      <url_name>telenonvideo</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31188/televideo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31188/televideo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14505750</analysis_id>
+      <tags>
+        <tag>pyqt4</tag>
+        <tag>rai</tag>
+        <tag>televideo</tag>
+        <tag>teletext</tag>
+        <tag>italian</tag>
+        <tag>pyqt</tag>
+      </tags>
+      <analysis>
+        <id>14505750</id>
+        <url>http://www.ohloh.net/analyses/14505750.xml</url>
+        <project_id>386515</project_id>
+        <updated_at>2013-07-21T16:32:36Z</updated_at>
+        <logged_at>2013-07-21T16:32:34Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2010-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>909</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/telenonvideo/analyses/14505750/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

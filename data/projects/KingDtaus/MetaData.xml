@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485962</id>
+      <name>KingDtaus</name>
+      <url>http://www.ohloh.net/p/KingDtaus.xml</url>
+      <html_url>http://www.ohloh.net/p/KingDtaus</html_url>
+      <created_at>2010-10-15T15:03:51Z</created_at>
+      <updated_at>2013-07-17T15:38:25Z</updated_at>
+      <description>DTAUS Ruby class, finally simplifies the handling of german bank transfer format: datentr&#228;geraustauschverfahren.
+
+DTAUS is a format for German bank transfers and is short for &quot;Datentr&#228;geraustausch&quot;. The format itself totally sucks because it was established in the last century, to be used on floppy disks. Still almost all German banks use it(they only seem innovative at robbing), and it is therefore supported in common banking programs too.
+
+This gem saves you all the trouble when generating dtaus-text.</description>
+      <homepage_url>http://github.com/salesking/king_dtaus</homepage_url>
+      <download_url>http://github.com/salesking/king_dtaus</download_url>
+      <url_name>KingDtaus</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41424/SalesKing-Logo_profilbild_88_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41424/SalesKing-Logo_profilbild_88_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14664497</analysis_id>
+      <tags>
+        <tag>billingsoftware</tag>
+        <tag>banking</tag>
+        <tag>billing</tag>
+      </tags>
+      <analysis>
+        <id>14664497</id>
+        <url>http://www.ohloh.net/analyses/14664497.xml</url>
+        <project_id>485962</project_id>
+        <updated_at>2013-07-17T15:38:25Z</updated_at>
+        <logged_at>2013-07-17T15:36:18Z</logged_at>
+        <min_month>2010-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>857</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/KingDtaus/analyses/14664497/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

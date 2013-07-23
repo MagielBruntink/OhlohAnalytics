@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21008</id>
+      <name>lemona</name>
+      <url>http://www.ohloh.net/p/lemona.xml</url>
+      <html_url>http://www.ohloh.net/p/lemona</html_url>
+      <created_at>2008-10-07T13:38:12Z</created_at>
+      <updated_at>2013-06-25T03:32:27Z</updated_at>
+      <description>Mission Statement
+
+The Lemona project's objectives are to provide: a complete proposal for a secured and reliable open architecture; and its full-featured implementation. 
+
+The goals of the Lemona software are: to monitor and to trace system activity at the kernel and user level; to report and to store archives of this activity on remote and/or local repositories; to provide understandable information for the recovery and forensics analysis of compromised systems. 
+
+
+Master of IT at Macquarie University
+
+Lemona was started by Laurent Malvert and Kenfe-Mickael Laventure, students at the Macquarie University in 2008, as part of the completion requirements for their Master of Information Technology (Software Engineering) program.</description>
+      <homepage_url>http://code.google.com/p/lemona</homepage_url>
+      <download_url>http://code.google.com/p/lemona/downloads/</download_url>
+      <url_name>lemona</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14395906</analysis_id>
+      <tags>
+        <tag>it</tag>
+        <tag>tracing</tag>
+        <tag>c</tag>
+        <tag>kernel</tag>
+        <tag>security</tag>
+        <tag>university</tag>
+        <tag>macquarie</tag>
+        <tag>monitoring</tag>
+        <tag>architecture</tag>
+      </tags>
+      <analysis>
+        <id>14395906</id>
+        <url>http://www.ohloh.net/analyses/14395906.xml</url>
+        <project_id>21008</project_id>
+        <updated_at>2013-07-20T06:13:28Z</updated_at>
+        <logged_at>2013-07-20T06:13:24Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>7457</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/lemona/analyses/14395906/languages.png">
+          <language color="FF8F00" percentage="90" id="42">
+C          </language>
+          <language color="4A246B" percentage="10" id="9">
+Python          </language>
+          <language color="EEE" percentage="&lt;1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

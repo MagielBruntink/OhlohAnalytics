@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587732</id>
+      <name>tagstore</name>
+      <url>http://www.ohloh.net/p/tagstore.xml</url>
+      <html_url>http://www.ohloh.net/p/tagstore</html_url>
+      <created_at>2011-12-13T13:25:35Z</created_at>
+      <updated_at>2013-06-27T20:53:12Z</updated_at>
+      <description>tagstore is a research software tool developed from the Institute for Software Technology of Graz University of Technology.
+
+The main purpose of tagstore is the refinement of a better method to manage files and folders on the local hard disk drive. Therefore tagstore is no commercial product.
+
+With tagstore the user does not use the usual method of filing data in a hierarchy of folders as the only possible method. In a tagstore files and folders are being tagged. Using those tags tagstore automatically generates navigation hierarchies called TagTrees. Within those TagTrees the user is able to navigate using his or her preferred software tools like file browsers, &quot;file save...&quot; or &quot;file open...&quot; dialogs.
+
+Please visit http://tagstore.ist.tugraz.at/en/about for details and screencast.</description>
+      <homepage_url>http://tagstore.org</homepage_url>
+      <download_url>http://tagstore.org</download_url>
+      <url_name>tagstore</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/49146/logo_tag_only_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/49146/logo_tag_only_64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14436357</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>framework</tag>
+        <tag>research</tag>
+        <tag>folders</tag>
+        <tag>linux</tag>
+        <tag>folderstructure</tag>
+        <tag>tagging</tag>
+        <tag>pim</tag>
+        <tag>windows</tag>
+        <tag>information_retrieval</tag>
+        <tag>filesystem</tag>
+        <tag>hci</tag>
+        <tag>usability</tag>
+        <tag>qt</tag>
+      </tags>
+      <analysis>
+        <id>14436357</id>
+        <url>http://www.ohloh.net/analyses/14436357.xml</url>
+        <project_id>587732</project_id>
+        <updated_at>2013-07-18T20:37:37Z</updated_at>
+        <logged_at>2013-07-18T20:37:32Z</logged_at>
+        <min_month>2010-06-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>30599</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tagstore/analyses/14436357/languages.png">
+          <language color="9A63AD" percentage="46" id="5">
+Java          </language>
+          <language color="4A246B" percentage="26" id="9">
+Python          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="12" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

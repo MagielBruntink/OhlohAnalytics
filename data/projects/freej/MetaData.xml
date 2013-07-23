@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480222</id>
+      <name>freej</name>
+      <url>http://www.ohloh.net/p/freej.xml</url>
+      <html_url>http://www.ohloh.net/p/freej</html_url>
+      <created_at>2010-01-03T15:50:34Z</created_at>
+      <updated_at>2013-07-21T18:06:13Z</updated_at>
+      <description>FreeJ is a vision mixer: an instrument for realtime video manipulation used in the fields of dance teather, veejaying, medical visualisation and TV. Its development started in 2001 and continued actively through the years.
+
+FreeJ lets you interact with multiple layers of video, filtered by effect chains and then mixed together. Controllers can be scripted for keyboard, midi and joysticks, to manipulate images, movies, live cameras, particle generators, text scrollers, flash animations and more.
+It is written as a multi-threaded engine that runs efficiently on modern multi-core computers, where the resulting video mix can be shown on multiple and remote screens, encoded into a movie and streamed live to the internet.</description>
+      <homepage_url>http://freej.dyne.org/</homepage_url>
+      <download_url>http://freej.dyne.org/?info=download</download_url>
+      <url_name>freej</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31578/ipernav-trans_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31578/ipernav-trans_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14462501</analysis_id>
+      <tags>
+        <tag>effects</tag>
+        <tag>python</tag>
+        <tag>streaming</tag>
+        <tag>realtime</tag>
+        <tag>mixer</tag>
+        <tag>javascript</tag>
+        <tag>c++</tag>
+        <tag>objective-c</tag>
+        <tag>c</tag>
+        <tag>osx</tag>
+        <tag>linux</tag>
+        <tag>video</tag>
+        <tag>cocoa</tag>
+      </tags>
+      <analysis>
+        <id>14462501</id>
+        <url>http://www.ohloh.net/analyses/14462501.xml</url>
+        <project_id>480222</project_id>
+        <updated_at>2013-07-18T08:11:03Z</updated_at>
+        <logged_at>2013-07-18T08:10:58Z</logged_at>
+        <min_month>2001-10-01T00:00:00Z</min_month>
+        <max_month>2011-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>269129</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freej/analyses/14462501/languages.png">
+          <language color="FF8F00" percentage="45" id="42">
+C          </language>
+          <language color="F35F1F" percentage="26" id="44">
+C++          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="21" id="">
+16 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

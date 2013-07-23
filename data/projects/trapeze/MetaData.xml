@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12597</id>
+      <name>Trapeze</name>
+      <url>http://www.ohloh.net/p/trapeze.xml</url>
+      <html_url>http://www.ohloh.net/p/trapeze</html_url>
+      <created_at>2008-03-07T16:33:14Z</created_at>
+      <updated_at>2013-07-09T16:11:24Z</updated_at>
+      <description>Trapeze generates a suite of unit tests or specifications for existing Ruby source code. This is accomplished through dynamic analysis, by reflecting on the public interfaces of classes, modules and top-level methods defined in the source. Trapeze then exercises each object, module and method, recording the behavior of the code. This recorded behavior is captured in a suite of test cases or specifications that can be rendered as test code or executable specifications.
+
+In essence, Trapeze is a tool for characterizing Ruby source code. Trapeze lets you fly high as you maintain and enhance a Ruby codebase that lacks test or spec coverage, knowing that you have a regression safety net underneath you.</description>
+      <homepage_url>http://trapeze.rubyforge.org/</homepage_url>
+      <download_url>http://trapeze.rubyforge.org/</download_url>
+      <url_name>trapeze</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>3.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14573890</analysis_id>
+      <tags>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>tests</tag>
+        <tag>library</tag>
+        <tag>ruby</tag>
+        <tag>unit</tag>
+        <tag>tools</tag>
+        <tag>rubygem</tag>
+        <tag>generator</tag>
+        <tag>synthesized</tag>
+        <tag>mock</tag>
+        <tag>safety</tag>
+        <tag>test</tag>
+        <tag>mockobjects</tag>
+        <tag>unit-testing</tag>
+        <tag>synthesis</tag>
+        <tag>generation</tag>
+        <tag>specification</tag>
+        <tag>net</tag>
+        <tag>unittesting</tag>
+        <tag>code</tag>
+        <tag>rubygems</tag>
+        <tag>testing</tag>
+      </tags>
+      <analysis>
+        <id>14573890</id>
+        <url>http://www.ohloh.net/analyses/14573890.xml</url>
+        <project_id>12597</project_id>
+        <updated_at>2013-07-22T12:52:33Z</updated_at>
+        <logged_at>2013-07-22T12:52:32Z</logged_at>
+        <min_month>2008-03-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>924</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/trapeze/analyses/14573890/languages.png">
+          <language color="A40011" percentage="100" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

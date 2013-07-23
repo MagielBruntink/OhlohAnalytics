@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>441409</id>
+      <project_id>485348</project_id>
+      <repository_id>438521</repository_id>
+      <repository>
+        <id>438521</id>
+        <type>GitRepository</type>
+        <url>git://gitorious.org/rhythmpnp/rhythmpnp.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T16:33:53Z</logged_at>
+        <commits>27</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>238628</id>
+      <project_id>485348</project_id>
+      <repository_id>236345</repository_id>
+      <repository>
+        <id>236345</id>
+        <type>SvnSyncRepository</type>
+        <url>http://rhythmpnp.googlecode.com/svn/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-17T16:33:12Z</logged_at>
+        <commits>21</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

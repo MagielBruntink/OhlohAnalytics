@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>444242</id>
+      <name>klang (structured binary file editor)</name>
+      <url>http://www.ohloh.net/p/klangproject.xml</url>
+      <html_url>http://www.ohloh.net/p/klangproject</html_url>
+      <created_at>2009-09-27T06:40:31Z</created_at>
+      <updated_at>2013-06-24T03:50:55Z</updated_at>
+      <description>Klang is a project that allows viewing and editing of binary files in a structured way. Unlike traditional hex editors, Klang provides a hierarchical view of many binary file types that can be 'chunked', such as WAV and AIFF.</description>
+      <homepage_url>http://malictus.net/klang/</homepage_url>
+      <download_url>http://www.malictus.net/klang/?n=Main.Downloads</download_url>
+      <url_name>klangproject</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14373689</analysis_id>
+      <tags>
+        <tag>editing</tag>
+        <tag>file</tag>
+        <tag>binary</tag>
+      </tags>
+      <analysis>
+        <id>14373689</id>
+        <url>http://www.ohloh.net/analyses/14373689.xml</url>
+        <project_id>444242</project_id>
+        <updated_at>2013-07-22T09:01:41Z</updated_at>
+        <logged_at>2013-07-22T09:01:29Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2010-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>321</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/klangproject/analyses/14373689/languages.png">
+          <language color="9A63AD" percentage="74" id="5">
+Java          </language>
+          <language color="555555" percentage="26" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

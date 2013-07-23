@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>360056</id>
+      <name>W3CValidators.NET</name>
+      <url>http://www.ohloh.net/p/w3c-validator-net.xml</url>
+      <html_url>http://www.ohloh.net/p/w3c-validator-net</html_url>
+      <created_at>2009-08-11T18:02:38Z</created_at>
+      <updated_at>2013-06-23T16:03:34Z</updated_at>
+      <description>W3CValidators.NET is a .NET library for interacting with the W3C Validators (Markup, CSS, and Feed), and for doing so within unit tests.
+
+Version 0.2 has been released.  It includes a client for communicating with the W3C Markup Validator, along with a corresponding NUnit constraint.
+
+Future development will include:
+* A config section for setting the uri of the validator service
+* Support for the CSS Validator
+* Support for the Feed Validator
+* Documentation with examples</description>
+      <homepage_url>http://raw-data.org/project/w3c-validator</homepage_url>
+      <download_url>http://github.com/dschilling/W3CValidators.NET/downloads</download_url>
+      <url_name>w3c-validator-net</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14363238</analysis_id>
+      <tags>
+        <tag>feed</tag>
+        <tag>nunit</tag>
+        <tag>w3c</tag>
+        <tag>markup</tag>
+        <tag>net</tag>
+        <tag>css</tag>
+        <tag>validator</tag>
+      </tags>
+      <analysis>
+        <id>14363238</id>
+        <url>http://www.ohloh.net/analyses/14363238.xml</url>
+        <project_id>360056</project_id>
+        <updated_at>2013-07-22T03:08:17Z</updated_at>
+        <logged_at>2013-07-22T03:08:15Z</logged_at>
+        <min_month>2009-08-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>68002</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/w3c-validator-net/analyses/14363238/languages.png">
+          <language color="555555" percentage="93" id="3">
+XML          </language>
+          <language color="000000" percentage="7" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

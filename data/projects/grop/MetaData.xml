@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>60492</id>
+      <name>grop</name>
+      <url>http://www.ohloh.net/p/grop.xml</url>
+      <html_url>http://www.ohloh.net/p/grop</html_url>
+      <created_at>2008-12-17T22:44:15Z</created_at>
+      <updated_at>2013-06-22T03:32:26Z</updated_at>
+      <description>grop (Get Rid of Paper) is a workgroup document imaging and management system that uses the power of the SANE scanner access library, PostgreSQL relational database system, and the AOLServer Naviserver application server to provide a full-featured, fast, stable and secure platform for any size workgroup. 
+
+The primary objectives are: 
+
+Security - Secrets stay secret 
+Scalability - No capacity limits other than hardware 
+Availability - Made for continuous operation with concurrent users 
+Ease of Use - No training is required 
+Maintainability - Easy to read/maintain code</description>
+      <homepage_url>http://code.google.com/p/grop</homepage_url>
+      <download_url>http://code.google.com/p/grop/downloads/list</download_url>
+      <url_name>grop</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/13674/aolserver-library-64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/13674/aolserver-library-64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14337080</analysis_id>
+      <tags>
+        <tag>scanner</tag>
+        <tag>scanning</tag>
+        <tag>sane</tag>
+        <tag>documentmanagement</tag>
+        <tag>postgresql</tag>
+        <tag>naviserver</tag>
+      </tags>
+      <analysis>
+        <id>14337080</id>
+        <url>http://www.ohloh.net/analyses/14337080.xml</url>
+        <project_id>60492</project_id>
+        <updated_at>2013-07-21T14:01:05Z</updated_at>
+        <logged_at>2013-07-21T14:01:02Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4155</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/grop/analyses/14337080/languages.png">
+          <language color="D290A8" percentage="63" id="25">
+Tcl          </language>
+          <language color="493625" percentage="37" id="30">
+SQL          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>25</main_language_id>
+        <main_language_name>Tcl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

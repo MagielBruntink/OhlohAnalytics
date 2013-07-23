@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>41513</id>
+      <project_id>27718</project_id>
+      <repository_id>40224</repository_id>
+      <repository>
+        <id>40224</id>
+        <type>SvnSyncRepository</type>
+        <url>https://xptable.svn.sourceforge.net/svnroot/xptable/trunk</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-19T15:22:30Z</logged_at>
+        <commits>160</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>41514</id>
+      <project_id>27718</project_id>
+      <repository_id>40225</repository_id>
+      <repository>
+        <id>40225</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@xptable.cvs.sourceforge.net:/cvsroot/xptable</url>
+        <module_name>src/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-19T15:22:33Z</logged_at>
+        <commits>11</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

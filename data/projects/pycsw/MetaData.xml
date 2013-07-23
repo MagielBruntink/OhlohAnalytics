@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488022</id>
+      <name>pycsw</name>
+      <url>http://www.ohloh.net/p/pycsw.xml</url>
+      <html_url>http://www.ohloh.net/p/pycsw</html_url>
+      <created_at>2011-02-09T14:15:52Z</created_at>
+      <updated_at>2013-07-22T20:10:16Z</updated_at>
+      <description>pycsw is an OGC CSW server implementation written in Python.</description>
+      <homepage_url>http://pycsw.org/</homepage_url>
+      <download_url>http://pycsw.org/download.html</download_url>
+      <url_name>pycsw</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43450/pycsw-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43450/pycsw-logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14732785</analysis_id>
+      <tags>
+        <tag>foss4g</tag>
+        <tag>dif</tag>
+        <tag>19115</tag>
+        <tag>inspire</tag>
+        <tag>geospatial</tag>
+        <tag>csw</tag>
+        <tag>catalogue</tag>
+        <tag>ogc</tag>
+        <tag>metadata</tag>
+        <tag>19139</tag>
+        <tag>fgdc</tag>
+        <tag>iso</tag>
+        <tag>profile</tag>
+        <tag>osgeo</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14732785</id>
+        <url>http://www.ohloh.net/analyses/14732785.xml</url>
+        <project_id>488022</project_id>
+        <updated_at>2013-07-22T20:10:16Z</updated_at>
+        <logged_at>2013-07-22T20:09:46Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>6471</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pycsw/analyses/14732785/languages.png">
+          <language color="4A246B" percentage="93" id="9">
+Python          </language>
+          <language color="000000" percentage="7" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

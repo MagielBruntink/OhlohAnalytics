@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>213505</id>
+      <name>Gweled</name>
+      <url>http://www.ohloh.net/p/gweled.xml</url>
+      <html_url>http://www.ohloh.net/p/gweled</html_url>
+      <created_at>2009-01-18T01:25:32Z</created_at>
+      <updated_at>2013-07-21T18:14:03Z</updated_at>
+      <description>Gweled is a gem swapping game, originally written by Sebastien Delestaing. The aim of the game is to make an alignment of 3 or more gems, either vertically or horizontally, by swapping adjacent gems. The game ends when there are no possible moves left.</description>
+      <homepage_url>http://gweled.org</homepage_url>
+      <download_url>https://launchpad.net/gweled/+download</download_url>
+      <url_name>gweled</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/34780/apps_64x64_gweled_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/34780/apps_64x64_gweled_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14418765</analysis_id>
+      <tags>
+        <tag>game</tag>
+        <tag>linux</tag>
+        <tag>gnome</tag>
+        <tag>gtk</tag>
+      </tags>
+      <analysis>
+        <id>14418765</id>
+        <url>http://www.ohloh.net/analyses/14418765.xml</url>
+        <project_id>213505</project_id>
+        <updated_at>2013-07-20T03:20:43Z</updated_at>
+        <logged_at>2013-07-20T03:20:36Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2012-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>6102</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gweled/analyses/14418765/languages.png">
+          <language color="FF8F00" percentage="70" id="42">
+C          </language>
+          <language color="777777" percentage="17" id="11">
+shell script          </language>
+          <language color="555555" percentage="7" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

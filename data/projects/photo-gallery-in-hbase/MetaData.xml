@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>472646</id>
+      <name>photo-gallery-in-hbase</name>
+      <url>http://www.ohloh.net/p/photo-gallery-in-hbase.xml</url>
+      <html_url>http://www.ohloh.net/p/photo-gallery-in-hbase</html_url>
+      <created_at>2009-11-07T07:45:33Z</created_at>
+      <updated_at>2013-06-29T14:03:45Z</updated_at>
+      <description>A system that can store very large number of images in Hbase and retrieve each one using the image id with reasonable response time</description>
+      <homepage_url>http://code.google.com/p/photo-gallery-in-hbase/</homepage_url>
+      <download_url></download_url>
+      <url_name>photo-gallery-in-hbase</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14458869</analysis_id>
+      <tags>
+        <tag>cloud</tag>
+        <tag>hbase</tag>
+        <tag>bigtable</tag>
+        <tag>image</tag>
+        <tag>hadoop</tag>
+        <tag>distributed</tag>
+        <tag>photo</tag>
+        <tag>sample</tag>
+      </tags>
+      <analysis>
+        <id>14458869</id>
+        <url>http://www.ohloh.net/analyses/14458869.xml</url>
+        <project_id>472646</project_id>
+        <updated_at>2013-07-18T08:11:48Z</updated_at>
+        <logged_at>2013-07-18T08:11:45Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2009-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3640</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/photo-gallery-in-hbase/analyses/14458869/languages.png">
+          <language color="555555" percentage="60" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="36" id="5">
+Java          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

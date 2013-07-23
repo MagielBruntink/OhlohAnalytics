@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>277452</id>
+      <name>WebFetch</name>
+      <url>http://www.ohloh.net/p/webfetch.xml</url>
+      <html_url>http://www.ohloh.net/p/webfetch</html_url>
+      <created_at>2009-01-21T20:32:32Z</created_at>
+      <updated_at>2013-06-22T13:39:41Z</updated_at>
+      <description>WebFetch is a set of Perl5 modules that provide a framework for retrieving local or remote headlines &amp; links for display on the web or export to other sites. News collection is from cron. News display uses server-side includes.</description>
+      <homepage_url>http://www.webfetch.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>webfetch</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/30258/webfetch-logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/30258/webfetch-logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14342842</analysis_id>
+      <tags>
+        <tag>twiki</tag>
+        <tag>rss20</tag>
+        <tag>perl-module</tag>
+        <tag>rss</tag>
+        <tag>rss_aggregator</tag>
+        <tag>templatetoolkit</tag>
+        <tag>aggregator</tag>
+        <tag>perl5</tag>
+        <tag>atom</tag>
+        <tag>perl</tag>
+        <tag>rssreader</tag>
+        <tag>rssfeed</tag>
+        <tag>linux</tag>
+      </tags>
+      <analysis>
+        <id>14342842</id>
+        <url>http://www.ohloh.net/analyses/14342842.xml</url>
+        <project_id>277452</project_id>
+        <updated_at>2013-07-22T10:42:59Z</updated_at>
+        <logged_at>2013-07-22T10:41:24Z</logged_at>
+        <min_month>2000-02-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>4702</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/webfetch/analyses/14342842/languages.png">
+          <language color="D2C690" percentage="93" id="8">
+Perl          </language>
+          <language color="EEE" percentage="5" id="52">
+Make          </language>
+          <language color="777777" percentage="2" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

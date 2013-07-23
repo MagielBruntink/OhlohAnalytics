@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>4208</id>
+      <name>JVoiceXML</name>
+      <url>http://www.ohloh.net/p/jvoicexml.xml</url>
+      <html_url>http://www.ohloh.net/p/jvoicexml</html_url>
+      <created_at>2007-01-30T09:27:29Z</created_at>
+      <updated_at>2013-07-18T22:57:10Z</updated_at>
+      <description>free VoiceXML interpreter for JAVA supporting JAVA APIs such as JSAPI and JTAPI.
+
+JVoiceXML is an implementation of VoiceXML 2.1, the Voice Extensible Markup Language, specified at
+
+http://www.w3.org/TR/2005/CR-voicexml21-20050613/. This is an extension to VoiceXML 2.0, specified at http://www.w3.org/TR/voicexml20/
+
+VoiceXML is designed for creating audio dialogs that feature synthesized speech, digitized audio, recognition of spoken and DTMF key input, recording of spoken input, telephony, and mixed initiative conversations. Major goal is to have a platform independent implementation that can be used for free.</description>
+      <homepage_url>http://jvoicexml.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/projects/jvoicexml/</download_url>
+      <url_name>jvoicexml</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9235/icon_med.gif</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9235/icon_small.gif</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14680783</analysis_id>
+      <tags>
+        <tag>voice_recognition</tag>
+        <tag>speech_recognition</tag>
+        <tag>speech_synthesis</tag>
+        <tag>xml</tag>
+        <tag>jsapi</tag>
+        <tag>voicexml</tag>
+        <tag>java</tag>
+        <tag>audio</tag>
+        <tag>speech</tag>
+        <tag>jtapi</tag>
+        <tag>voice</tag>
+      </tags>
+      <analysis>
+        <id>14680783</id>
+        <url>http://www.ohloh.net/analyses/14680783.xml</url>
+        <project_id>4208</project_id>
+        <updated_at>2013-07-18T22:57:09Z</updated_at>
+        <logged_at>2013-07-18T22:53:10Z</logged_at>
+        <min_month>2012-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>132652</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jvoicexml/analyses/14680783/languages.png">
+          <language color="9A63AD" percentage="78" id="5">
+Java          </language>
+          <language color="555555" percentage="14" id="3">
+XML          </language>
+          <language color="000000" percentage="8" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

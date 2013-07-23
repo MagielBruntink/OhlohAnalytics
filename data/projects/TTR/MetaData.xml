@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584814</id>
+      <name>TTR</name>
+      <url>http://www.ohloh.net/p/TTR.xml</url>
+      <html_url>http://www.ohloh.net/p/TTR</html_url>
+      <created_at>2011-06-29T14:17:31Z</created_at>
+      <updated_at>2013-07-21T19:19:12Z</updated_at>
+      <description>Technical analysis and other functions to construct technical trading rules with R.</description>
+      <homepage_url>https://r-forge.r-project.org/projects/ttr/</homepage_url>
+      <download_url>https://r-forge.r-project.org/R/?group_id=119</download_url>
+      <url_name>TTR</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14717623</analysis_id>
+      <tags>
+        <tag>r-project</tag>
+        <tag>r</tag>
+        <tag>finance</tag>
+        <tag>timeseries</tag>
+      </tags>
+      <analysis>
+        <id>14717623</id>
+        <url>http://www.ohloh.net/analyses/14717623.xml</url>
+        <project_id>584814</project_id>
+        <updated_at>2013-07-21T19:19:11Z</updated_at>
+        <logged_at>2013-07-21T19:19:00Z</logged_at>
+        <min_month>2007-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>23915</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/TTR/analyses/14717623/languages.png">
+          <language color="198CE7" percentage="81" id="65">
+R          </language>
+          <language color="4d41b1" percentage="8" id="41">
+Fortran (Free-format)          </language>
+          <language color="4d41b1" percentage="6" id="40">
+Fortran (Fixed-format)          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>65</main_language_id>
+        <main_language_name>R</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>395713</id>
+      <name>newsblur</name>
+      <url>http://www.ohloh.net/p/newsblur.xml</url>
+      <html_url>http://www.ohloh.net/p/newsblur</html_url>
+      <created_at>2009-08-18T16:44:53Z</created_at>
+      <updated_at>2013-07-19T14:15:34Z</updated_at>
+      <description>NewsBlurRSS Feed Reader with intelligenceSee www.newsblur.com for the latest build. 
+
+Using: 
+
+Django/Python jQuery Naive Bayesian Classifiers 
+
+Trying: 
+
+Clustering Latent Semantic Analysis Neural Networks 
+
+2009 - Samuel Clay - samuel@ofbrooklyn.com - Samuel Clay on Twitter</description>
+      <homepage_url>http://code.google.com/p/newsblur/</homepage_url>
+      <download_url></download_url>
+      <url_name>newsblur</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14685862</analysis_id>
+      <tags>
+        <tag>feeds</tag>
+        <tag>machinelearning</tag>
+        <tag>news</tag>
+        <tag>ai</tag>
+        <tag>rss</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14685862</id>
+        <url>http://www.ohloh.net/analyses/14685862.xml</url>
+        <project_id>395713</project_id>
+        <updated_at>2013-07-19T14:15:34Z</updated_at>
+        <logged_at>2013-07-19T13:57:38Z</logged_at>
+        <min_month>2009-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>40</twelve_month_contributor_count>
+        <total_code_lines>981249</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/newsblur/analyses/14685862/languages.png">
+          <language color="A4007E" percentage="31" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="19" id="1">
+HTML          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="000000" percentage="34" id="">
+15 Other          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

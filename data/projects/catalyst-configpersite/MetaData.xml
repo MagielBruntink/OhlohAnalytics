@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486455</id>
+      <name>Catalyst-ConfigPerSite</name>
+      <url>http://www.ohloh.net/p/catalyst-configpersite.xml</url>
+      <html_url>http://www.ohloh.net/p/catalyst-configpersite</html_url>
+      <created_at>2010-11-10T23:33:59Z</created_at>
+      <updated_at>2013-06-27T17:00:23Z</updated_at>
+      <description>Share a catalyst application between multiple sites with their own configuration</description>
+      <homepage_url></homepage_url>
+      <download_url></download_url>
+      <url_name>catalyst-configpersite</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14434615</analysis_id>
+      <analysis>
+        <id>14434615</id>
+        <url>http://www.ohloh.net/analyses/14434615.xml</url>
+        <project_id>486455</project_id>
+        <updated_at>2013-07-20T04:31:17Z</updated_at>
+        <logged_at>2013-07-20T04:31:15Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>730</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/catalyst-configpersite/analyses/14434615/languages.png">
+          <language color="D2C690" percentage="92" id="8">
+Perl          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>artistic_gpl</name>
+          <nice_name>Artistic License/GPL</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

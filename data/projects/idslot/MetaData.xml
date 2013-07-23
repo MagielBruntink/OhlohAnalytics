@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>604426</id>
+      <name>IDSlot</name>
+      <url>http://www.ohloh.net/p/idslot.xml</url>
+      <html_url>http://www.ohloh.net/p/idslot</html_url>
+      <created_at>2012-08-13T08:36:15Z</created_at>
+      <updated_at>2013-07-07T13:21:44Z</updated_at>
+      <description>IDSlot, Online identity management system</description>
+      <homepage_url>http://idslot.org</homepage_url>
+      <download_url>http://idslot.org/download</download_url>
+      <url_name>idslot</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14561917</analysis_id>
+      <analysis>
+        <id>14561917</id>
+        <url>http://www.ohloh.net/analyses/14561917.xml</url>
+        <project_id>604426</project_id>
+        <updated_at>2013-07-21T00:48:40Z</updated_at>
+        <logged_at>2013-07-21T00:48:37Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>90909</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/idslot/analyses/14561917/languages.png">
+          <language color="356AA0" percentage="60" id="2">
+PHP          </language>
+          <language color="A4007E" percentage="31" id="6">
+JavaScript          </language>
+          <language color="47A400" percentage="6" id="1">
+HTML          </language>
+          <language color="000000" percentage="3" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>open_software</name>
+          <nice_name>Open Software License 3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
