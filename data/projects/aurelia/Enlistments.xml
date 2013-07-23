@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>240840</id>
+      <project_id>351293</project_id>
+      <repository_id>238519</repository_id>
+      <repository>
+        <id>238519</id>
+        <type>SvnSyncRepository</type>
+        <url>https://aurelia.svn.sourceforge.net/svnroot/aurelia/examples/til</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-18T18:33:38Z</logged_at>
+        <commits>4</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>224510</id>
+      <project_id>351293</project_id>
+      <repository_id>222319</repository_id>
+      <repository>
+        <id>222319</id>
+        <type>SvnSyncRepository</type>
+        <url>https://aurelia.svn.sourceforge.net/svnroot/aurelia/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-18T18:28:29Z</logged_at>
+        <commits>144</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

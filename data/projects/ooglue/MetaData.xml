@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>47365</id>
+      <name>ooglue</name>
+      <url>http://www.ohloh.net/p/ooglue.xml</url>
+      <html_url>http://www.ohloh.net/p/ooglue</html_url>
+      <created_at>2008-12-16T04:44:04Z</created_at>
+      <updated_at>2013-07-22T02:55:32Z</updated_at>
+      <description>ooglue 
+
+This library is one of my solutions to the ORM model. Rather than generating code or providing deep in depth descriptions in external resources. I plan on design and developing a tight, yet flexible and granular coupling between data and objects.  
+
+Also, another problem with most popular ORM tools, that I find is the inability to use stored procedures and efficiently design  data. This solution is to allow that functionality. It's the best of both worlds, O/R Mapping and efficient data.</description>
+      <homepage_url>http://code.google.com/p/ooglue</homepage_url>
+      <download_url></download_url>
+      <url_name>ooglue</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14724176</analysis_id>
+      <tags>
+        <tag>datamapping</tag>
+        <tag>c</tag>
+        <tag>orm</tag>
+        <tag>objectrelationalmapping</tag>
+        <tag>mono</tag>
+        <tag>objectobjectmapping</tag>
+      </tags>
+      <analysis>
+        <id>14724176</id>
+        <url>http://www.ohloh.net/analyses/14724176.xml</url>
+        <project_id>47365</project_id>
+        <updated_at>2013-07-22T02:55:32Z</updated_at>
+        <logged_at>2013-07-22T02:55:21Z</logged_at>
+        <min_month>2008-01-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>34195</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ooglue/analyses/14724176/languages.png">
+          <language color="555555" percentage="94" id="3">
+XML          </language>
+          <language color="4096EE" percentage="6" id="17">
+C#          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

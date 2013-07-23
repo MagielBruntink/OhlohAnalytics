@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>587304</id>
+      <name>Sweet Build</name>
+      <url>http://www.ohloh.net/p/sweet_build.xml</url>
+      <html_url>http://www.ohloh.net/p/sweet_build</html_url>
+      <created_at>2011-11-17T06:14:56Z</created_at>
+      <updated_at>2013-07-11T04:56:23Z</updated_at>
+      <description>Sweet Build is a build tool. It tracks dependencies and timestamps between files to determine which are out of date and then carries out actions to bring those files up to date.
+
+Sweet Build is similar to GNU Make, Perforce Jam, SCons, Waf, Lake, and other dependency based build tools. It&#8217;s main difference to these tools is that it allows scripts to make arbitrary passes over the dependency graph to correctly establish dependency relationships. For example it can be configured to run a code generation pass before scanning for implicit dependencies to make sure that implicit dependencies from generated files are found correctly. Sweet Build has been designed to handle source trees spanning multiple directories, with multiple variants, and to make use of multiple processor machines by allowi</description>
+      <homepage_url>http://www.sweetsoftware.co.nz/build_overview.html</homepage_url>
+      <download_url>http://www.sweetsoftware.co.nz/</download_url>
+      <url_name>sweet_build</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14584488</analysis_id>
+      <tags>
+        <tag>build</tag>
+        <tag>lua</tag>
+        <tag>c++</tag>
+      </tags>
+      <analysis>
+        <id>14584488</id>
+        <url>http://www.ohloh.net/analyses/14584488.xml</url>
+        <project_id>587304</project_id>
+        <updated_at>2013-07-23T00:06:32Z</updated_at>
+        <logged_at>2013-07-23T00:06:30Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>5718</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sweet_build/analyses/14584488/languages.png">
+          <language color="F35F1F" percentage="96" id="44">
+C++          </language>
+          <language color="A42E00" percentage="4" id="27">
+Lua          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

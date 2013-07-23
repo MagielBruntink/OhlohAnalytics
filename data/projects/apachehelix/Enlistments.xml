@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>500299</id>
+      <project_id>612447</project_id>
+      <repository_id>501715</repository_id>
+      <repository>
+        <id>501715</id>
+        <type>GitRepository</type>
+        <url>https://git-wip-us.apache.org/repos/asf/incubator-helix.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-20T13:25:10Z</logged_at>
+        <commits>1847</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>500296</id>
+      <project_id>612447</project_id>
+      <repository_id>501713</repository_id>
+      <repository>
+        <id>501713</id>
+        <type>SvnRepository</type>
+        <url>http://svn.apache.org/repos/asf/incubator/helix/site-content</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-20T13:25:04Z</logged_at>
+        <commits>64</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

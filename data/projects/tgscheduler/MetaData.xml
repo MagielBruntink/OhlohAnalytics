@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>159576</id>
+      <name>tgscheduler</name>
+      <url>http://www.ohloh.net/p/tgscheduler.xml</url>
+      <html_url>http://www.ohloh.net/p/tgscheduler</html_url>
+      <created_at>2009-01-14T23:52:19Z</created_at>
+      <updated_at>2013-06-28T05:56:06Z</updated_at>
+      <description>This scheduler that is based on Kronos by Irmen de Jong. This scheduler makes it easy to have one time or recurring tasks run as needed. 
+
+It can be used with TurboGears 1 or 2 or even stand-alone. See the Usage page for example code using TGScheduler. 
+
+The latest TGScheduler code is now available in the TurboGears subversion repository at: 
+
+http://svn.turbogears.org/projects/TGScheduler/ 
+
+You can also browse the source code through Trac: 
+
+http://trac.turbogears.org/browser/projects/TGScheduler/ 
+
+Finally, you can download the latest release through PyPI (aka the Cheeseshop) 
+
+http://pypi.python.org/pypi/TGScheduler</description>
+      <homepage_url>http://code.google.com/p/tgscheduler</homepage_url>
+      <download_url></download_url>
+      <url_name>tgscheduler</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14441470</analysis_id>
+      <analysis>
+        <id>14441470</id>
+        <url>http://www.ohloh.net/analyses/14441470.xml</url>
+        <project_id>159576</project_id>
+        <updated_at>2013-07-20T18:07:53Z</updated_at>
+        <logged_at>2013-07-20T18:06:42Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2009-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>454</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/tgscheduler/analyses/14441470/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

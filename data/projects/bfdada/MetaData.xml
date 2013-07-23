@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>309809</id>
+      <name>Binutils Ada Library</name>
+      <url>http://www.ohloh.net/p/bfdada.xml</url>
+      <html_url>http://www.ohloh.net/p/bfdada</html_url>
+      <created_at>2009-02-07T01:33:48Z</created_at>
+      <updated_at>2013-06-22T22:21:27Z</updated_at>
+      <description>BfdAda allows to write Ada programs that read object files, archives
+or program executables to scan their content and their symbol tables.
+It provides the full BFD API to:
+- Access the sections the binary file is composed of
+- Access the symbol table with the definition of each symbol
+- Disassemble the code using the BFD disassembler corresponding
+to the binary file.
+BfdAda also provides some examples to show how to use this library.</description>
+      <homepage_url>http://savannah.nongnu.org/projects/bfdada</homepage_url>
+      <download_url></download_url>
+      <url_name>bfdada</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14347871</analysis_id>
+      <tags>
+        <tag>symbols</tag>
+        <tag>elf</tag>
+        <tag>build_tools</tag>
+      </tags>
+      <analysis>
+        <id>14347871</id>
+        <url>http://www.ohloh.net/analyses/14347871.xml</url>
+        <project_id>309809</project_id>
+        <updated_at>2013-07-21T19:27:27Z</updated_at>
+        <logged_at>2013-07-21T19:27:24Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2012-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>20235</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bfdada/analyses/14347871/languages.png">
+          <language color="FAE028" percentage="62" id="21">
+Ada          </language>
+          <language color="EEE" percentage="23" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="12" id="11">
+shell script          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>21</main_language_id>
+        <main_language_name>Ada</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

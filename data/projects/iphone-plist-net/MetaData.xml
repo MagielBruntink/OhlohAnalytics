@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>440816</id>
+      <name>iphone-plist-net</name>
+      <url>http://www.ohloh.net/p/iphone-plist-net.xml</url>
+      <html_url>http://www.ohloh.net/p/iphone-plist-net</html_url>
+      <created_at>2009-09-14T20:58:26Z</created_at>
+      <updated_at>2013-06-24T02:16:38Z</updated_at>
+      <description>Summary.Net Library for working with Apples *.plist Files. 
+
+Designed for plists on the iPhone / iPod Touch (I don't know if apple uses the same format on their Desktop OS, but I guss so) 
+
+FeaturesCreate, Read and Write *.plist files under .Net Supports *.plist in Biary and XML Format. AcknowledgmentTanks to Pete Wilson, whose script plutil.pl helped me to understand and support the binary format of *.plist files.</description>
+      <homepage_url>http://code.google.com/p/iphone-plist-net/</homepage_url>
+      <download_url></download_url>
+      <url_name>iphone-plist-net</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14370645</analysis_id>
+      <tags>
+        <tag>iphone</tag>
+        <tag>plist</tag>
+        <tag>net</tag>
+      </tags>
+      <analysis>
+        <id>14370645</id>
+        <url>http://www.ohloh.net/analyses/14370645.xml</url>
+        <project_id>440816</project_id>
+        <updated_at>2013-07-21T10:07:19Z</updated_at>
+        <logged_at>2013-07-21T10:07:16Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2009-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1084</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/iphone-plist-net/analyses/14370645/languages.png">
+          <language color="4096EE" percentage="95" id="17">
+C#          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>17</main_language_id>
+        <main_language_name>C#</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

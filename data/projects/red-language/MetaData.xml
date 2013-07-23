@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584216</id>
+      <name>Red language</name>
+      <url>http://www.ohloh.net/p/red-language.xml</url>
+      <html_url>http://www.ohloh.net/p/red-language</html_url>
+      <created_at>2011-05-31T18:20:55Z</created_at>
+      <updated_at>2013-07-20T02:07:10Z</updated_at>
+      <description>Red language is a native-code compiled functional, imperative, symbolic, and homoiconic programming language that re-uses most of REBOL's syntax and semantics. Both static and JIT compilation support are planned. A strong emphasis is made on concurrency and both task and data parallelism support using an actor-like abstraction and parallel collections (Scala-like). The target range of usage spreads from low-level system programming (thanks to the built-in Red/System C-level DSL) and embedded systems, up to high-level scripting, with an optional REPL console.</description>
+      <homepage_url>http://www.red-lang.org/</homepage_url>
+      <download_url>https://github.com/dockimbel/Red/downloads</download_url>
+      <url_name>red-language</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/63154/R-carre_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/63154/R-carre_small.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14691366</analysis_id>
+      <tags>
+        <tag>metaprogramming</tag>
+        <tag>android</tag>
+        <tag>interactive</tag>
+        <tag>scripting</tag>
+        <tag>interpreter</tag>
+        <tag>rebol</tag>
+        <tag>language</tag>
+        <tag>programming</tag>
+        <tag>compiler</tag>
+        <tag>red</tag>
+        <tag>repl</tag>
+        <tag>cross_platform</tag>
+        <tag>bsd</tag>
+        <tag>development</tag>
+        <tag>productivity</tag>
+      </tags>
+      <analysis>
+        <id>14691366</id>
+        <url>http://www.ohloh.net/analyses/14691366.xml</url>
+        <project_id>584216</project_id>
+        <updated_at>2013-07-20T02:07:10Z</updated_at>
+        <logged_at>2013-07-20T02:06:28Z</logged_at>
+        <min_month>2011-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>9</twelve_month_contributor_count>
+        <total_code_lines>21251</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/red-language/analyses/14691366/languages.png">
+          <language color="358A5B" percentage="98" id="92">
+REBOL          </language>
+          <language color="000000" percentage="2" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>92</main_language_id>
+        <main_language_name>REBOL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

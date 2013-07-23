@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>5013</id>
+      <name>babeldoc</name>
+      <url>http://www.ohloh.net/p/babeldoc.xml</url>
+      <html_url>http://www.ohloh.net/p/babeldoc</html_url>
+      <created_at>2007-04-27T17:22:36Z</created_at>
+      <updated_at>2013-07-20T11:04:25Z</updated_at>
+      <description>Babeldoc is integration tool that can plumb together data flows. It is completely configurable and scriptable. It is heavily XML biased but not exclusively so.</description>
+      <homepage_url>http://sourceforge.net/projects/babeldoc</homepage_url>
+      <download_url></download_url>
+      <url_name>babeldoc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14697333</analysis_id>
+      <analysis>
+        <id>14697333</id>
+        <url>http://www.ohloh.net/analyses/14697333.xml</url>
+        <project_id>5013</project_id>
+        <updated_at>2013-07-20T11:04:25Z</updated_at>
+        <logged_at>2013-07-20T10:59:27Z</logged_at>
+        <min_month>2003-02-01T00:00:00Z</min_month>
+        <max_month>2008-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>445062</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/babeldoc/analyses/14697333/languages.png">
+          <language color="47A400" percentage="60" id="1">
+HTML          </language>
+          <language color="556655" percentage="13" id="36">
+XSL Transformation          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="18" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>36</main_language_id>
+        <main_language_name>XSL Transformation</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache</name>
+          <nice_name>Apache License 1.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

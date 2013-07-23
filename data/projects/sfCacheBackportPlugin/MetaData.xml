@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>326714</id>
+      <name>sfCacheBackportPlugin</name>
+      <url>http://www.ohloh.net/p/sfCacheBackportPlugin.xml</url>
+      <html_url>http://www.ohloh.net/p/sfCacheBackportPlugin</html_url>
+      <created_at>2009-04-16T21:21:03Z</created_at>
+      <updated_at>2013-06-26T15:21:10Z</updated_at>
+      <description>A multi-purpose Symfony caching plugin:
+- Provides Symfony 1.1+ cache classes for Symfony 1.0 (with an adapter for view caching).
+- Also provides a transparent and extensible API to cache objects with the cache classes, for any version of Symfony.
+- A convenient way to get cache classes depending on your environment.
+- DebugBar/Logging for any cache class, with timing and hit/miss information.</description>
+      <homepage_url>http://www.symfony-project.org/plugins/sfCacheBackportPlugin</homepage_url>
+      <download_url>http://bitbucket.org/laurentb/sfcachebackportplugin/</download_url>
+      <url_name>sfCacheBackportPlugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14419302</analysis_id>
+      <tags>
+        <tag>apc</tag>
+        <tag>caching</tag>
+        <tag>memcached</tag>
+        <tag>eaccelerator</tag>
+        <tag>php</tag>
+        <tag>plugin</tag>
+        <tag>memcache</tag>
+        <tag>debug</tag>
+        <tag>xcache</tag>
+        <tag>symfony</tag>
+        <tag>backport</tag>
+        <tag>cache</tag>
+      </tags>
+      <analysis>
+        <id>14419302</id>
+        <url>http://www.ohloh.net/analyses/14419302.xml</url>
+        <project_id>326714</project_id>
+        <updated_at>2013-07-20T03:27:40Z</updated_at>
+        <logged_at>2013-07-20T03:27:39Z</logged_at>
+        <min_month>2009-04-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>1703</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sfCacheBackportPlugin/analyses/14419302/languages.png">
+          <language color="356AA0" percentage="91" id="2">
+PHP          </language>
+          <language color="555555" percentage="6" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

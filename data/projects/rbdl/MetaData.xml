@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>602578</id>
+      <name>rbdl</name>
+      <url>http://www.ohloh.net/p/rbdl.xml</url>
+      <html_url>http://www.ohloh.net/p/rbdl</html_url>
+      <created_at>2012-06-13T10:39:55Z</created_at>
+      <updated_at>2013-07-20T05:56:08Z</updated_at>
+      <description>A C++ library that contains some essential rigid body dynamics library such as the Articulated Body Algorithm (ABA) for forward dynamics, Newton-Euler Algorithm for inverse dynamics and the Composite Rigid Body Algorithm (CRBA) for the efficient computation of the joint space inertia matrix.</description>
+      <homepage_url>http://rbdl.bitbucket.org/</homepage_url>
+      <download_url></download_url>
+      <url_name>rbdl</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/53920/rbdl_logo_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/53920/rbdl_logo_64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14694158</analysis_id>
+      <tags>
+        <tag>scientific</tag>
+        <tag>physics</tag>
+        <tag>body</tag>
+        <tag>rigidbodydynamics</tag>
+        <tag>rigid</tag>
+        <tag>dynamics</tag>
+        <tag>c++</tag>
+        <tag>kinematics</tag>
+      </tags>
+      <analysis>
+        <id>14694158</id>
+        <url>http://www.ohloh.net/analyses/14694158.xml</url>
+        <project_id>602578</project_id>
+        <updated_at>2013-07-20T05:56:08Z</updated_at>
+        <logged_at>2013-07-20T05:55:29Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>33032</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/rbdl/analyses/14694158/languages.png">
+          <language color="FF8F00" percentage="60" id="42">
+C          </language>
+          <language color="47A400" percentage="34" id="1">
+HTML          </language>
+          <language color="000000" percentage="6" id="">
+8 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>zlib_libpng</name>
+          <nice_name>zlib License (aka zlib/libpng)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

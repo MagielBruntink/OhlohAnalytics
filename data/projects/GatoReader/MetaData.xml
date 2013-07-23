@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>486756</id>
+      <name>GatoReader</name>
+      <url>http://www.ohloh.net/p/GatoReader.xml</url>
+      <html_url>http://www.ohloh.net/p/GatoReader</html_url>
+      <created_at>2010-11-28T03:54:32Z</created_at>
+      <updated_at>2013-07-05T19:38:41Z</updated_at>
+      <description>Most feed readers show the feed summary. Most of them don't allow you to set or even use a web view. But what happens when your feed is a webcomic? You don't get the image, you get a reduced, illegible image or an image with the webcomic logo instead the current page.
+GatoReader is for those cases where you want to see the actual web page, without the need to check each one manually for updates.</description>
+      <homepage_url>http://gatoloko.homelinux.org/proyectos/gatoreader</homepage_url>
+      <download_url>http://gatoloko.homelinux.org/proyectos/gatoreader/descargas</download_url>
+      <url_name>GatoReader</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14541156</analysis_id>
+      <tags>
+        <tag>rss</tag>
+        <tag>python</tag>
+        <tag>aggregator</tag>
+        <tag>feed</tag>
+        <tag>webkit</tag>
+        <tag>feedreader</tag>
+        <tag>feeds</tag>
+        <tag>webkitgtk</tag>
+        <tag>reader</tag>
+        <tag>atom</tag>
+        <tag>gtk</tag>
+      </tags>
+      <analysis>
+        <id>14541156</id>
+        <url>http://www.ohloh.net/analyses/14541156.xml</url>
+        <project_id>486756</project_id>
+        <updated_at>2013-07-22T03:04:19Z</updated_at>
+        <logged_at>2013-07-22T03:04:14Z</logged_at>
+        <min_month>2010-11-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>764</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/GatoReader/analyses/14541156/languages.png">
+          <language color="555555" percentage="53" id="3">
+XML          </language>
+          <language color="4A246B" percentage="43" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

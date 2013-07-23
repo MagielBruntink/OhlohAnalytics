@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>590011</id>
+      <name>jmpress.js</name>
+      <url>http://www.ohloh.net/p/jmpress.xml</url>
+      <html_url>http://www.ohloh.net/p/jmpress</html_url>
+      <created_at>2012-03-07T17:25:16Z</created_at>
+      <updated_at>2013-06-26T10:17:35Z</updated_at>
+      <description>A jQuery plugin to build a website on the infinite canvas.
+
+Started as a jQuery port of impress.js and utilizes the power of CSS3 transforms and transitions in modern browsers.
+
+---
+
+Good news! We accept pull requests and are looking for more contributors! ;) 
+
+Take a look at the contribute section of the docs for more information on how you can contribute. Thanks!
+
+---
+BROWSER SUPPORT
+
+jmpress.js attempts to use CSS3 transform and transition as its engine and then falls back to jQuery.animate(). Here is the current browser support list:
+
+    Chrome/Chromium: YES
+    Safari: YES
+    Firefox: YES
+    IE: MOSTLY
+    Opera: YES
+    iPad: YES
+    iPhone/iPod: NO
+    Android: NO
+
+--- 
+
+Copyright 2012 
+Kyle Robinson Young &amp; Tobias Koppers
+Released under a MIT license.</description>
+      <homepage_url>http://shama.github.com/jmpress.js/#/home</homepage_url>
+      <download_url>https://github.com/shama/jmpress.js/</download_url>
+      <url_name>jmpress</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14415486</analysis_id>
+      <tags>
+        <tag>css3</tag>
+        <tag>slideshow</tag>
+        <tag>javascript</tag>
+        <tag>js</tag>
+      </tags>
+      <analysis>
+        <id>14415486</id>
+        <url>http://www.ohloh.net/analyses/14415486.xml</url>
+        <project_id>590011</project_id>
+        <updated_at>2013-07-21T05:49:47Z</updated_at>
+        <logged_at>2013-07-21T05:49:46Z</logged_at>
+        <min_month>2012-10-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>120</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jmpress/analyses/14415486/languages.png">
+          <language color="47A400" percentage="100" id="1">
+HTML          </language>
+        </languages>
+        <main_language_id>1</main_language_id>
+        <main_language_name>HTML</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

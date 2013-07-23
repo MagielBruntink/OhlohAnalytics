@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>97635</id>
+      <project_id>346102</project_id>
+      <repository_id>96089</repository_id>
+      <repository>
+        <id>96089</id>
+        <type>GitRepository</type>
+        <url>git://github.com/bartman/git-vim.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-21T07:37:54Z</logged_at>
+        <commits>93</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>90026</id>
+      <project_id>346102</project_id>
+      <repository_id>88490</repository_id>
+      <repository>
+        <id>88490</id>
+        <type>GitRepository</type>
+        <url>git://github.com/motemen/git-vim.git</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-21T07:17:03Z</logged_at>
+        <commits>77</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

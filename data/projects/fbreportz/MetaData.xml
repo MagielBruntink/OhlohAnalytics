@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>12435</id>
+      <name>fbreportz</name>
+      <url>http://www.ohloh.net/p/fbreportz.xml</url>
+      <html_url>http://www.ohloh.net/p/fbreportz</html_url>
+      <created_at>2008-03-02T13:30:28Z</created_at>
+      <updated_at>2013-07-06T23:49:54Z</updated_at>
+      <description>fbreportz is Python scriptage to access a FogBugz server via it's XML API and to produce plots (via pychart) of various project metrics. (FogBugz is a bug tracking product from Fog Creek  software).
+
+The ultimate intention is a utility which can be run at regular intervals to build a record of project metrics and email reports to interested parties.
+
+The code is currently little more than a proof of concept with only a few plots output, but is in regular use and is shared in the hope it's of use to anyone wanting to access FogBugz from Python via the FogBugz API.</description>
+      <homepage_url>http://www.bottlenose.demon.co.uk/share/fbreportz/index.htm</homepage_url>
+      <download_url>http://sourceforge.net/svn/?group_id=216049</download_url>
+      <url_name>fbreportz</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/467/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/467/logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14557385</analysis_id>
+      <tags>
+        <tag>xml</tag>
+        <tag>project_controlling</tag>
+        <tag>project-management</tag>
+        <tag>project_management</tag>
+        <tag>python</tag>
+        <tag>project_mangement</tag>
+        <tag>fogbugz</tag>
+        <tag>projectmanager</tag>
+        <tag>project_monitoring</tag>
+        <tag>project_reporting</tag>
+      </tags>
+      <analysis>
+        <id>14557385</id>
+        <url>http://www.ohloh.net/analyses/14557385.xml</url>
+        <project_id>12435</project_id>
+        <updated_at>2013-07-21T06:23:51Z</updated_at>
+        <logged_at>2013-07-21T06:23:46Z</logged_at>
+        <min_month>2008-02-01T00:00:00Z</min_month>
+        <max_month>2008-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>775</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fbreportz/analyses/14557385/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

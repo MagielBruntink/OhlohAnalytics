@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>482926</id>
+      <name>The Fancy Programming Language</name>
+      <url>http://www.ohloh.net/p/fancy.xml</url>
+      <html_url>http://www.ohloh.net/p/fancy</html_url>
+      <created_at>2010-05-11T21:18:21Z</created_at>
+      <updated_at>2013-07-23T07:17:31Z</updated_at>
+      <description>Fancy is a dynamic, object-oriented programming language heavily inspired by Smalltalk, Ruby and Erlang. It supports dynamic code evaluation (as in Ruby &amp; Smalltalk), class-based mixins, (simple) pattern matching, runtime introspection &amp; reflection, &quot;monkey patching&quot; and much more. It runs on Rubinius, the Ruby VM, and thus has first-class integration with Ruby's core library and any additional Ruby libraries that run on Rubinius, including most C-extensions.</description>
+      <homepage_url>http://www.fancy-lang.org</homepage_url>
+      <download_url>http://github.com/bakkdoor/fancy</download_url>
+      <url_name>fancy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14741319</analysis_id>
+      <tags>
+        <tag>rubinius</tag>
+        <tag>concurrent</tag>
+        <tag>closure</tag>
+        <tag>software_development</tag>
+        <tag>fancy</tag>
+        <tag>smalltalk</tag>
+        <tag>code</tag>
+        <tag>productivity</tag>
+        <tag>object-oriented</tag>
+        <tag>metaprogramming</tag>
+        <tag>patternmatching</tag>
+        <tag>ducktype</tag>
+        <tag>erlang</tag>
+        <tag>ruby</tag>
+        <tag>closures</tag>
+        <tag>interpreter</tag>
+        <tag>programming_language</tag>
+        <tag>dynamic</tag>
+        <tag>functional</tag>
+        <tag>lambda</tag>
+        <tag>object_oriented</tag>
+        <tag>compiler</tag>
+        <tag>programming</tag>
+        <tag>development</tag>
+        <tag>vm</tag>
+        <tag>language</tag>
+        <tag>scripting</tag>
+      </tags>
+      <analysis>
+        <id>14741319</id>
+        <url>http://www.ohloh.net/analyses/14741319.xml</url>
+        <project_id>482926</project_id>
+        <updated_at>2013-07-23T07:17:31Z</updated_at>
+        <logged_at>2013-07-23T07:16:59Z</logged_at>
+        <min_month>2010-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>2877</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fancy/analyses/14741319/languages.png">
+          <language color="A40011" percentage="72" id="12">
+Ruby          </language>
+          <language color="F35F1F" percentage="11" id="44">
+C++          </language>
+          <language color="A4007E" percentage="6" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="11" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15735</id>
+      <name>Rserve</name>
+      <url>http://www.ohloh.net/p/Rserve.xml</url>
+      <html_url>http://www.ohloh.net/p/Rserve</html_url>
+      <created_at>2008-07-25T20:28:11Z</created_at>
+      <updated_at>2013-07-19T17:35:25Z</updated_at>
+      <description>Rserve acts as a socket server (TCP/IP or local sockets) which allows binary requests to be sent to R. Every connection has a separate workspace and working directory. Client-side implementations are available for popular languages such as C/C++ and Java, allowing any application to use facilities of R without the need oflinking to R code. Rserve supports remote connection, user authentication and file transfer. A simple R client is included in this package as well.</description>
+      <homepage_url>http://www.rforge.net/Rserve/</homepage_url>
+      <download_url>http://www.rforge.net/Rserve/files/</download_url>
+      <url_name>Rserve</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14687283</analysis_id>
+      <tags>
+        <tag>binary</tag>
+        <tag>c++</tag>
+        <tag>r</tag>
+        <tag>server</tag>
+        <tag>client</tag>
+        <tag>java</tag>
+      </tags>
+      <analysis>
+        <id>14687283</id>
+        <url>http://www.ohloh.net/analyses/14687283.xml</url>
+        <project_id>15735</project_id>
+        <updated_at>2013-07-19T17:35:25Z</updated_at>
+        <logged_at>2013-07-19T17:29:29Z</logged_at>
+        <min_month>2002-02-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>16751</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Rserve/analyses/14687283/languages.png">
+          <language color="FF8F00" percentage="43" id="42">
+C          </language>
+          <language color="9A63AD" percentage="45" id="5">
+Java          </language>
+          <language color="F35F1F" percentage="8" id="44">
+C++          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>583824</id>
+      <name>Gentoo libbash</name>
+      <url>http://www.ohloh.net/p/gentoo_libbash.xml</url>
+      <html_url>http://www.ohloh.net/p/gentoo_libbash</html_url>
+      <created_at>2011-05-12T03:13:48Z</created_at>
+      <updated_at>2013-06-24T03:27:49Z</updated_at>
+      <description>Libbash will enable programs to use Abstract Syntax Trees(AST) to parse and interpret shell scripts directly instead of using regular expressions. Most of bash 3.2 syntax will be supported. This will be a great benefit to programs both outside and inside Gentoo, including Portage/Paludis and repoman.</description>
+      <homepage_url>http://www.gentoo.org/proj/en/libbash/index.xml</homepage_url>
+      <download_url>http://git.overlays.gentoo.org/gitweb/?p=proj/libbash.git;a=summary</download_url>
+      <url_name>gentoo_libbash</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1228/cpp_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14372756</analysis_id>
+      <tags>
+        <tag>posix</tag>
+        <tag>sh</tag>
+        <tag>libbash</tag>
+        <tag>bash</tag>
+        <tag>gentoo</tag>
+        <tag>library</tag>
+        <tag>shell</tag>
+        <tag>c++</tag>
+      </tags>
+      <analysis>
+        <id>14372756</id>
+        <url>http://www.ohloh.net/analyses/14372756.xml</url>
+        <project_id>583824</project_id>
+        <updated_at>2013-07-22T05:37:59Z</updated_at>
+        <logged_at>2013-07-22T05:37:57Z</logged_at>
+        <min_month>2010-05-01T00:00:00Z</min_month>
+        <max_month>2012-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>6200</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gentoo_libbash/analyses/14372756/languages.png">
+          <language color="F35F1F" percentage="79" id="44">
+C++          </language>
+          <language color="EEE" percentage="10" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="11" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

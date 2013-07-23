@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>359569</id>
+      <name>Dataquay</name>
+      <url>http://www.ohloh.net/p/dataquay.xml</url>
+      <html_url>http://www.ohloh.net/p/dataquay</html_url>
+      <created_at>2009-08-06T17:36:19Z</created_at>
+      <updated_at>2013-07-21T21:10:29Z</updated_at>
+      <description>An RDF library for application developers using C++ and the Qt toolkit, providing a friendly wrapper around the popular Redland RDF libraries or the lightweight Sord/Serd libraries.</description>
+      <homepage_url>http://breakfastquay.com/dataquay/</homepage_url>
+      <download_url>http://breakfastquay.com/dataquay/</download_url>
+      <url_name>dataquay</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14719367</analysis_id>
+      <tags>
+        <tag>redland</tag>
+        <tag>qt</tag>
+        <tag>rdf</tag>
+        <tag>library</tag>
+        <tag>sord</tag>
+      </tags>
+      <analysis>
+        <id>14719367</id>
+        <url>http://www.ohloh.net/analyses/14719367.xml</url>
+        <project_id>359569</project_id>
+        <updated_at>2013-07-21T21:10:29Z</updated_at>
+        <logged_at>2013-07-21T21:10:17Z</logged_at>
+        <min_month>2009-07-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>11095</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dataquay/analyses/14719367/languages.png">
+          <language color="F35F1F" percentage="99" id="44">
+C++          </language>
+          <language color="000000" percentage="1" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

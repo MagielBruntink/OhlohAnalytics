@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>23627</id>
+      <name>sarasvati</name>
+      <url>http://www.ohloh.net/p/sarasvati.xml</url>
+      <html_url>http://www.ohloh.net/p/sarasvati</html_url>
+      <created_at>2008-10-07T15:45:43Z</created_at>
+      <updated_at>2013-07-21T17:22:14Z</updated_at>
+      <description>SarasvatiOverviewSarasvati is a workflow/bpm engine based on graph execution. It has a simple core which allows for different implementations. For example one may change the persistence mechanism (or avoid it altogether), change token representation or build additional functionality on top. 
+
+It currently has implementations in Haskell and Java. These are being fleshed out and will hopefully be porting it to C# and a dynamic language such as ruby, python or javascript. 
+
+FeaturesSimple graph execution based core Process level attributes Token attributes Efficient copy-on-write database storage of token attributes Execution history available through 'immutable' tokens Node guards allow bypassing nodes or discarding tokens for flow control Domain specific language (GuardLang) for user understandable guards XML file format for process definitions Java implementation Hibernate backed engine for DB persistence Memory backed engine for cases where persistence is not required. Haskell implementation HDBC backed engine Memory backed engine Introduction to workflowWhat is workflow? Why graph based workflow? Getting started with Sarasvati   Getting the source code Sarasvati core concepts Why is the project named Sarasvati? 
+
+NewsSeptember 6, 2008 - V1.0.0-beta1 of Sarasvati release for Java. Cleaned up process definition file format somewhat, including fixing validation Added support for embedding script (such as javascript) in process definition files, to be executed when the node is executed Bug fixes September 4, 2008 - v1.0.0-alpha2 of Sarasvati released for Java. Added Adaptable interface for Nodes Removed visual components into separate project Fixed several bugs August 22, 2008 - v1.0.0-alpha1 of Sarasvati released for Java. Support for event listeners (global and per-process) Support for nested processes Standardized GraphFactory and GraphRepository Allow direct bean style setting of node attributes from XML Updated model to allow better recovery from failed node execution. Paves way for transaction boundaries. August 10, 2008 - v0.3 of Sarasvati released for Haskell.  Updates support for process states Changes library name from Sarasvati to sarasvati-haskell, for consistency. July 29, 2008 - v0.3 of Sarasvati released for Java Introduces explicit process states allowing for asynchronous process completions. Bug fixes July 24, 2008 - v0.2 of Sarasvati released for Java and Haskell This introduces process level variables. Previously variables were only allowed on tokens. There are also some minor fixes. June 29, 2008 - v0.1 of Sarasvati released for Java. June 23, 2008 - Examples for Sarasvati Haskell released. I refreshed the v0.1.0 release with some updates to the build, including a dependency on Cabal 1.4.  June 22, 2008 - v0.1 of Sarasvati released for Haskell. This is an alpha release. Documentation is incomplete. This will be the focus of release v0.2. Some Haskell example code as well the Java version should be released in the next week or so. June 12, 2008 - Java loader complete. Work on memory backed engine is also complete. June 12, 2008 - XML Process definition file format reworked. Now has XML Schema Definition rather than DTD. This is allows embedding of elements defined in other schemas.  June 2, 2008 - More documentation and packaging work on Haskell version. Once XML -&gt; Memory and XML -&gt; DB loaders are documented and packaged, should be ready for an alpha release.  May 26, 2008 - Start memory backed engine for java version. Basic engine is implemented. However,will need memory backed graph loader before this is useful or testable. May 26, 2008 - Implemented GuardLang for java version May 21, 2008 - Documenting and building out wiki pages. May 20, 2008 - Source code imported. I used svn2svn to extract two projects out of the many in my home repository.  May 18, 2008 - Project created on Google Code. Thank you to Stefan Webb, for allowing me to use the name.</description>
+      <homepage_url>http://code.google.com/p/sarasvati</homepage_url>
+      <download_url></download_url>
+      <url_name>sarasvati</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14716652</analysis_id>
+      <tags>
+        <tag>finitestatemachine</tag>
+        <tag>java</tag>
+        <tag>bpm</tag>
+        <tag>haskell</tag>
+        <tag>workflow</tag>
+        <tag>graph</tag>
+      </tags>
+      <analysis>
+        <id>14716652</id>
+        <url>http://www.ohloh.net/analyses/14716652.xml</url>
+        <project_id>23627</project_id>
+        <updated_at>2013-07-21T17:22:14Z</updated_at>
+        <logged_at>2013-07-21T17:19:59Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>250054</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sarasvati/analyses/14716652/languages.png">
+          <language color="47A400" percentage="70" id="1">
+HTML          </language>
+          <language color="9A63AD" percentage="20" id="5">
+Java          </language>
+          <language color="000000" percentage="10" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl</name>
+          <nice_name>GNU Library or &quot;Lesser&quot; GPL (LGPL)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

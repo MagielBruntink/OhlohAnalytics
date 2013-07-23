@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>30600</id>
+      <name>Blobby Volley 2</name>
+      <url>http://www.ohloh.net/p/blobby.xml</url>
+      <html_url>http://www.ohloh.net/p/blobby</html_url>
+      <created_at>2008-12-06T15:02:45Z</created_at>
+      <updated_at>2013-07-19T13:39:59Z</updated_at>
+      <description>Official continuation of the famous Blobby Volley 1.x arcade game.</description>
+      <homepage_url>http://sourceforge.net/projects/blobby</homepage_url>
+      <download_url>http://blobby.sourceforge.net/download.php</download_url>
+      <url_name>blobby</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14685394</analysis_id>
+      <tags>
+        <tag>game</tag>
+      </tags>
+      <analysis>
+        <id>14685394</id>
+        <url>http://www.ohloh.net/analyses/14685394.xml</url>
+        <project_id>30600</project_id>
+        <updated_at>2013-07-19T13:39:59Z</updated_at>
+        <logged_at>2013-07-19T13:39:27Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>22755</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/blobby/analyses/14685394/languages.png">
+          <language color="F35F1F" percentage="68" id="44">
+C++          </language>
+          <language color="A42E00" percentage="28" id="27">
+Lua          </language>
+          <language color="000000" percentage="4" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

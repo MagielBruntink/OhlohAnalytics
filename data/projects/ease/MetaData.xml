@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483313</id>
+      <name>Ease Presentation Application</name>
+      <url>http://www.ohloh.net/p/ease.xml</url>
+      <html_url>http://www.ohloh.net/p/ease</html_url>
+      <created_at>2010-05-31T02:35:27Z</created_at>
+      <updated_at>2013-07-17T05:08:46Z</updated_at>
+      <description>Ease is a presentation application for the GNOME Desktop, using Clutter for visuals.</description>
+      <homepage_url>http://live.gnome.org/Ease</homepage_url>
+      <download_url>http://git.gnome.org/browse/ease</download_url>
+      <url_name>ease</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14658235</analysis_id>
+      <tags>
+        <tag>gtk+</tag>
+        <tag>gnome</tag>
+        <tag>vala</tag>
+        <tag>clutter</tag>
+        <tag>presentation</tag>
+        <tag>gtk</tag>
+        <tag>ease</tag>
+      </tags>
+      <analysis>
+        <id>14658235</id>
+        <url>http://www.ohloh.net/analyses/14658235.xml</url>
+        <project_id>483313</project_id>
+        <updated_at>2013-07-21T08:07:24Z</updated_at>
+        <logged_at>2013-07-21T08:07:23Z</logged_at>
+        <min_month>2009-12-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>14122</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ease/analyses/14658235/languages.png">
+          <language color="729FCF" percentage="89" id="34">
+Vala          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="3" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>34</main_language_id>
+        <main_language_name>Vala</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

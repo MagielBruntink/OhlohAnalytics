@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>80552</id>
+      <name>JGloss</name>
+      <url>http://www.ohloh.net/p/jgloss.xml</url>
+      <html_url>http://www.ohloh.net/p/jgloss</html_url>
+      <created_at>2008-12-20T07:46:14Z</created_at>
+      <updated_at>2013-07-17T11:25:52Z</updated_at>
+      <description>JGloss lets you import Japanese text documents and add reading and translation annotations for words, both automatically during import, and manually. It is written in Java.</description>
+      <homepage_url>http://jgloss.sourceforge.net/</homepage_url>
+      <download_url>http://jgloss.sourceforge.net/#download</download_url>
+      <url_name>jgloss</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/64998/jgloss-logo-48px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/64998/jgloss-logo-48px_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14662262</analysis_id>
+      <tags>
+        <tag>dictionary</tag>
+        <tag>japaneselearning</tag>
+        <tag>japanese</tag>
+      </tags>
+      <analysis>
+        <id>14662262</id>
+        <url>http://www.ohloh.net/analyses/14662262.xml</url>
+        <project_id>80552</project_id>
+        <updated_at>2013-07-17T11:25:52Z</updated_at>
+        <logged_at>2013-07-17T11:21:12Z</logged_at>
+        <min_month>2001-06-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>33573</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jgloss/analyses/14662262/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="555555" percentage="9" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

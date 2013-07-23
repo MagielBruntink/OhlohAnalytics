@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605974</id>
+      <name>Duda I/O</name>
+      <url>http://www.ohloh.net/p/duda.xml</url>
+      <html_url>http://www.ohloh.net/p/duda</html_url>
+      <created_at>2012-10-08T13:49:50Z</created_at>
+      <updated_at>2013-07-19T07:37:14Z</updated_at>
+      <description>Duda I/O is an event driven web services framework which exposes a friendly C API.
+
+It has been designed to be very scalable with low memory and CPU consumption, the perfect solution for embedded and high production environments. Made for ARM, x86 and x86_64.</description>
+      <homepage_url>http://duda.io</homepage_url>
+      <download_url>http://duda.io/download</download_url>
+      <url_name>duda</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14684479</analysis_id>
+      <tags>
+        <tag>web</tag>
+        <tag>http</tag>
+        <tag>websocket</tag>
+        <tag>c</tag>
+        <tag>websockets</tag>
+        <tag>asynchronous</tag>
+        <tag>api</tag>
+        <tag>html5</tag>
+      </tags>
+      <analysis>
+        <id>14684479</id>
+        <url>http://www.ohloh.net/analyses/14684479.xml</url>
+        <project_id>605974</project_id>
+        <updated_at>2013-07-19T07:37:14Z</updated_at>
+        <logged_at>2013-07-19T07:36:44Z</logged_at>
+        <min_month>2012-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>5</twelve_month_contributor_count>
+        <total_code_lines>67856</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/duda/analyses/14684479/languages.png">
+          <language color="FF8F00" percentage="75" id="42">
+C          </language>
+          <language color="FF1A00" percentage="19" id="4">
+CSS          </language>
+          <language color="000000" percentage="6" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21</name>
+          <nice_name>GNU Lesser General Public License v2.1 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

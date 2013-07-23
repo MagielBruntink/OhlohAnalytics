@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>473007</id>
+      <name>desmumewii</name>
+      <url>http://www.ohloh.net/p/desmumewii.xml</url>
+      <html_url>http://www.ohloh.net/p/desmumewii</html_url>
+      <created_at>2009-11-08T13:20:01Z</created_at>
+      <updated_at>2013-06-17T12:18:27Z</updated_at>
+      <description>What is DeSmuME Wii?This project aims to port DeSmuME to Wii homebrew so that we can have a fully fledged, working, Nintendo DS emulator on Wii. It is being built with DeSmuME 0.95, devkitPPC toolchain, libogc, gl2gx, and SDL Wii. Please see the links in the sidebar on the right for more information. 
+
+
+
+Would you like to help?If you would like to help, there are two things you can do. 
+
+1) Checkout the source and get working on porting. If you make progress, email castlevania7689@yahoo.com (Arikado) and he will add you to the project to committ your changes. 
+
+2) We are keeping this project entirely open and informing the public every step of the way. You can see exactly what we're doing on updates tab and read our developer discussions amongst ourselves on the issues tab. If you have helpful input regarding one of our issues, please share it. The issues are updated regularly as they are used for the developers to discuss the project amongst themselves 
+
+
+
+Community InvolvementThe official IRC channel for this project is #arikadosblog on EFNET. ( irc://irc.efnet.org/arikadosblog ) 
+
+For forums, the following are officially condoned: http://newskeen.com , http://forum.wiibrew.org .</description>
+      <homepage_url>http://code.google.com/p/desmumewii/</homepage_url>
+      <download_url></download_url>
+      <url_name>desmumewii</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14292570</analysis_id>
+      <tags>
+        <tag>nintendods</tag>
+        <tag>wii</tag>
+        <tag>emulator</tag>
+        <tag>wiihomebrew</tag>
+        <tag>desmume</tag>
+      </tags>
+      <analysis>
+        <id>14292570</id>
+        <url>http://www.ohloh.net/analyses/14292570.xml</url>
+        <project_id>473007</project_id>
+        <updated_at>2013-07-17T10:06:34Z</updated_at>
+        <logged_at>2013-07-17T10:06:31Z</logged_at>
+        <min_month>2009-11-01T00:00:00Z</min_month>
+        <max_month>2012-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>201646</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/desmumewii/analyses/14292570/languages.png">
+          <language color="F35F1F" percentage="58" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="27" id="42">
+C          </language>
+          <language color="EEE" percentage="5" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="10" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>320657</id>
+      <name>amSimplePiePlugin</name>
+      <url>http://www.ohloh.net/p/amSimplePiePlugin.xml</url>
+      <html_url>http://www.ohloh.net/p/amSimplePiePlugin</html_url>
+      <created_at>2009-03-29T20:12:13Z</created_at>
+      <updated_at>2013-06-18T14:45:54Z</updated_at>
+      <description>The purpose of this Symfony plugin is to facilitate the use of SimplePie within a project.</description>
+      <homepage_url>http://www.symfony-project.org/plugins/amSimplePiePlugin</homepage_url>
+      <download_url>http://bitbucket.org/laurentb/amsimplepieplugin/src/</download_url>
+      <url_name>amSimplePiePlugin</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14299726</analysis_id>
+      <tags>
+        <tag>symfony</tag>
+        <tag>simplepie</tag>
+        <tag>plugin</tag>
+        <tag>feed</tag>
+      </tags>
+      <analysis>
+        <id>14299726</id>
+        <url>http://www.ohloh.net/analyses/14299726.xml</url>
+        <project_id>320657</project_id>
+        <updated_at>2013-07-17T11:25:54Z</updated_at>
+        <logged_at>2013-07-17T11:25:53Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2010-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12917</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/amSimplePiePlugin/analyses/14299726/languages.png">
+          <language color="356AA0" percentage="98" id="2">
+PHP          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

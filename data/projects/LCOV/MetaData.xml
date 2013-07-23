@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480009</id>
+      <name>LCOV</name>
+      <url>http://www.ohloh.net/p/LCOV.xml</url>
+      <html_url>http://www.ohloh.net/p/LCOV</html_url>
+      <created_at>2009-12-22T01:30:05Z</created_at>
+      <updated_at>2013-07-19T21:58:03Z</updated_at>
+      <description>LCOV is a graphical front-end for GCC's coverage testing tool gcov. It collects gcov data for multiple source files and creates HTML pages containing the source code annotated with coverage information. It also adds overview pages for easy navigation within the file structure.</description>
+      <homepage_url>http://ltp.sourceforge.net/coverage/lcov.php</homepage_url>
+      <download_url></download_url>
+      <url_name>LCOV</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14688973</analysis_id>
+      <analysis>
+        <id>14688973</id>
+        <url>http://www.ohloh.net/analyses/14688973.xml</url>
+        <project_id>480009</project_id>
+        <updated_at>2013-07-19T21:58:03Z</updated_at>
+        <logged_at>2013-07-19T21:57:29Z</logged_at>
+        <min_month>2002-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>17262</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/LCOV/analyses/14688973/languages.png">
+          <language color="D2C690" percentage="67" id="8">
+Perl          </language>
+          <language color="FF8F00" percentage="17" id="42">
+C          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>603003</id>
+      <name>The Fabula Open Source Game Engine</name>
+      <url>http://www.ohloh.net/p/fabulaengine.xml</url>
+      <html_url>http://www.ohloh.net/p/fabulaengine</html_url>
+      <created_at>2012-06-27T11:04:03Z</created_at>
+      <updated_at>2013-07-14T17:26:34Z</updated_at>
+      <description>Fabula is an Open Source Python Game Engine suitable for adventure, role-playing and strategy games and digital interactive storytelling.</description>
+      <homepage_url>http://fabula-engine.org/</homepage_url>
+      <download_url>http://fabula-engine.org/download</download_url>
+      <url_name>fabulaengine</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14560406</analysis_id>
+      <tags>
+        <tag>2d</tag>
+        <tag>gamedev</tag>
+        <tag>engine</tag>
+        <tag>python</tag>
+        <tag>pygame</tag>
+        <tag>gameengine</tag>
+        <tag>cross-platform</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14560406</id>
+        <url>http://www.ohloh.net/analyses/14560406.xml</url>
+        <project_id>603003</project_id>
+        <updated_at>2013-07-20T01:08:05Z</updated_at>
+        <logged_at>2013-07-20T01:07:54Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>7233</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fabulaengine/analyses/14560406/languages.png">
+          <language color="4A246B" percentage="99" id="9">
+Python          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

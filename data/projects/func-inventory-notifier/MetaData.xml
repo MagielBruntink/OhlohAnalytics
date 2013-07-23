@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485753</id>
+      <name>func-inventory-notifier</name>
+      <url>http://www.ohloh.net/p/func-inventory-notifier.xml</url>
+      <html_url>http://www.ohloh.net/p/func-inventory-notifier</html_url>
+      <created_at>2010-10-05T03:52:35Z</created_at>
+      <updated_at>2013-07-23T08:10:32Z</updated_at>
+      <description></description>
+      <homepage_url>http://github.com/ralphbean/func-inventory-notifier</homepage_url>
+      <download_url>http://github.com/ralphbean/func-inventory-notifier</download_url>
+      <url_name>func-inventory-notifier</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14742293</analysis_id>
+      <analysis>
+        <id>14742293</id>
+        <url>http://www.ohloh.net/analyses/14742293.xml</url>
+        <project_id>485753</project_id>
+        <updated_at>2013-07-23T08:10:32Z</updated_at>
+        <logged_at>2013-07-23T08:10:21Z</logged_at>
+        <min_month>2010-08-01T00:00:00Z</min_month>
+        <max_month>2010-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>182</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/func-inventory-notifier/analyses/14742293/languages.png">
+          <language color="4A246B" percentage="76" id="9">
+Python          </language>
+          <language color="777777" percentage="24" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

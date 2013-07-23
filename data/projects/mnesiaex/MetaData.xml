@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>21483</id>
+      <name>mnesiaex</name>
+      <url>http://www.ohloh.net/p/mnesiaex.xml</url>
+      <html_url>http://www.ohloh.net/p/mnesiaex</html_url>
+      <created_at>2008-10-07T14:01:24Z</created_at>
+      <updated_at>2013-07-01T08:58:12Z</updated_at>
+      <description>Mnesia is the Erlang built-in multi-master distributed database.  Unfortunately, Mnesia only ships with support for two types of data storage (ets and dets) both of which have limitations. 
+
+This project defines a new behaviour mnesia_ext, and patches mnesia to support using modules which conform to the behaviour for storage.  This allows for arbitrary storage strategies to be incorporated.   
+
+New: Now works with mnesia from both R11 (4.3.5) and R12 (4.4.7) Erlang releases. 
+
+As a (useful!) example tcerl contains an implementation of an ordered_set disk-based mnesia table. 
+
+Another Dukes of Erl release.</description>
+      <homepage_url>http://code.google.com/p/mnesiaex</homepage_url>
+      <download_url></download_url>
+      <url_name>mnesiaex</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14496906</analysis_id>
+      <tags>
+        <tag>erlang</tag>
+        <tag>mnesia</tag>
+      </tags>
+      <analysis>
+        <id>14496906</id>
+        <url>http://www.ohloh.net/analyses/14496906.xml</url>
+        <project_id>21483</project_id>
+        <updated_at>2013-07-18T21:01:40Z</updated_at>
+        <logged_at>2013-07-18T21:01:38Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>499</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/mnesiaex/analyses/14496906/languages.png">
+          <language color="6A2CC7" percentage="78" id="28">
+Erlang          </language>
+          <language color="777777" percentage="18" id="11">
+shell script          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>28</main_language_id>
+        <main_language_name>Erlang</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

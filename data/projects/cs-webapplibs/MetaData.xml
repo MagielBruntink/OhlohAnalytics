@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>415365</id>
+      <name>CS Web App Libs</name>
+      <url>http://www.ohloh.net/p/cs-webapplibs.xml</url>
+      <html_url>http://www.ohloh.net/p/cs-webapplibs</html_url>
+      <created_at>2009-08-21T16:23:55Z</created_at>
+      <updated_at>2013-07-04T05:31:45Z</updated_at>
+      <description>This project contains libraries designed specifically for web-based applications.  Among other things, it allows:
+
+ * database abstraction layer for PostgreSQL, MySQL, and SQLite
+ * upgrading website + database without coordinating anything or having to take the website down
+ * logging facility capable of very fine-grained details
+ * database-stored sessions
+ * XML-based site configuration using constants and globals
+ * BBCode parser which is easily extended
+ * authentication tokens for building API's.
+ * class for building tabs</description>
+      <homepage_url>http://sourceforge.net/projects/cs-webapplibs</homepage_url>
+      <download_url></download_url>
+      <url_name>cs-webapplibs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14522881</analysis_id>
+      <analysis>
+        <id>14522881</id>
+        <url>http://www.ohloh.net/analyses/14522881.xml</url>
+        <project_id>415365</project_id>
+        <updated_at>2013-07-19T16:53:23Z</updated_at>
+        <logged_at>2013-07-19T16:51:55Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>31335</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cs-webapplibs/analyses/14522881/languages.png">
+          <language color="356AA0" percentage="93" id="2">
+PHP          </language>
+          <language color="493625" percentage="5" id="30">
+SQL          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

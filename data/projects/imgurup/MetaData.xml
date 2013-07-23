@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585126</id>
+      <name>ImgurUp</name>
+      <url>http://www.ohloh.net/p/imgurup.xml</url>
+      <html_url>http://www.ohloh.net/p/imgurup</html_url>
+      <created_at>2011-07-17T09:51:00Z</created_at>
+      <updated_at>2013-07-23T07:21:28Z</updated_at>
+      <description>ImgurUp is a GNOME desktop application for uploading images to the Imgur.com service (using the authenticated API) and giving you full control over your images and albums in you imgur.com account. It allows easy access to your uploaded images at any time without the need of visiting the imgur.com website.</description>
+      <homepage_url>https://github.com/vkolev/imgurup</homepage_url>
+      <download_url>https://github.com/vkolev/ImgurUp/downloads</download_url>
+      <url_name>imgurup</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/45507/imgurup_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/45507/imgurup_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14741453</analysis_id>
+      <tags>
+        <tag>uploader</tag>
+        <tag>python</tag>
+        <tag>imgur</tag>
+        <tag>gtk2</tag>
+      </tags>
+      <analysis>
+        <id>14741453</id>
+        <url>http://www.ohloh.net/analyses/14741453.xml</url>
+        <project_id>585126</project_id>
+        <updated_at>2013-07-23T07:21:28Z</updated_at>
+        <logged_at>2013-07-23T07:21:21Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2821</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/imgurup/analyses/14741453/languages.png">
+          <language color="555555" percentage="66" id="3">
+XML          </language>
+          <language color="4A246B" percentage="34" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

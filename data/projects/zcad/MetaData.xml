@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605230</id>
+      <name>ZCAD</name>
+      <url>http://www.ohloh.net/p/zcad.xml</url>
+      <html_url>http://www.ohloh.net/p/zcad</html_url>
+      <created_at>2012-09-14T07:59:42Z</created_at>
+      <updated_at>2013-07-20T10:09:15Z</updated_at>
+      <description>ZCAD is simple CAD program with dxf2000 file format support. Source code available here http://svn.shamangrad.net/zcad/trunk/</description>
+      <homepage_url>http://shamangrad.net/project.php?act=view&amp;prj=zcad</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=581209</download_url>
+      <url_name>zcad</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14696695</analysis_id>
+      <tags>
+        <tag>drawing</tag>
+        <tag>cad</tag>
+        <tag>dxf</tag>
+        <tag>geometry</tag>
+      </tags>
+      <analysis>
+        <id>14696695</id>
+        <url>http://www.ohloh.net/analyses/14696695.xml</url>
+        <project_id>605230</project_id>
+        <updated_at>2013-07-20T10:09:14Z</updated_at>
+        <logged_at>2013-07-20T10:08:48Z</logged_at>
+        <min_month>2010-07-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>70127</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/zcad/analyses/14696695/languages.png">
+          <language color="D15600" percentage="96" id="14">
+Pascal          </language>
+          <language color="000000" percentage="4" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>14</main_language_id>
+        <main_language_name>Pascal</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21le</name>
+          <nice_name>GNU LGPL 2.1 + linking exception (FPC/Lazarus)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585555</id>
+      <name>Ada Workflow</name>
+      <url>http://www.ohloh.net/p/ada-workflow.xml</url>
+      <html_url>http://www.ohloh.net/p/ada-workflow</html_url>
+      <created_at>2011-08-09T13:21:53Z</created_at>
+      <updated_at>2013-06-27T01:52:22Z</updated_at>
+      <description>AWE is a workflow engine.</description>
+      <homepage_url>http://code.google.com/p/ada-awe/</homepage_url>
+      <download_url>http://code.google.com/p/ada-awe/downloads/list</download_url>
+      <url_name>ada-workflow</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14426822</analysis_id>
+      <tags>
+        <tag>xpdl</tag>
+        <tag>framework</tag>
+        <tag>workflow</tag>
+        <tag>process_engine</tag>
+        <tag>ada</tag>
+      </tags>
+      <analysis>
+        <id>14426822</id>
+        <url>http://www.ohloh.net/analyses/14426822.xml</url>
+        <project_id>585555</project_id>
+        <updated_at>2013-07-17T19:43:39Z</updated_at>
+        <logged_at>2013-07-17T19:43:37Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2300</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/ada-workflow/analyses/14426822/languages.png">
+          <language color="FAE028" percentage="79" id="21">
+Ada          </language>
+          <language color="555555" percentage="21" id="3">
+XML          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>21</main_language_id>
+        <main_language_name>Ada</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

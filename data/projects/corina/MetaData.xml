@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>13696</id>
+      <name>Corina</name>
+      <url>http://www.ohloh.net/p/corina.xml</url>
+      <html_url>http://www.ohloh.net/p/corina</html_url>
+      <created_at>2008-05-02T18:50:03Z</created_at>
+      <updated_at>2013-06-29T13:23:23Z</updated_at>
+      <description>Corina is an open source, freely available, dendrochronology program developed by the Cornell Tree-Ring Laboratory.
+
+Although Corina continues to be a useful tool, active development has now ceased.  Corina is superseded by Tellervo which is a major rewrite including replacement of the file-based data storage with a TRiDaS-enabled relational database.</description>
+      <homepage_url>http://dendro.cornell.edu/corina</homepage_url>
+      <download_url>http://dendro.cornell.edu/corina/download.php</download_url>
+      <url_name>corina</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/9066/tree_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/9066/tree_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14457899</analysis_id>
+      <tags>
+        <tag>webservice</tag>
+        <tag>statistics</tag>
+        <tag>mac_os_x</tag>
+        <tag>windows</tag>
+        <tag>java</tag>
+        <tag>php</tag>
+        <tag>static_analysis</tag>
+        <tag>science</tag>
+        <tag>dendochronology</tag>
+        <tag>cross-platform</tag>
+        <tag>linux</tag>
+        <tag>stats</tag>
+      </tags>
+      <analysis>
+        <id>14457899</id>
+        <url>http://www.ohloh.net/analyses/14457899.xml</url>
+        <project_id>13696</project_id>
+        <updated_at>2013-07-19T22:45:10Z</updated_at>
+        <logged_at>2013-07-19T22:44:54Z</logged_at>
+        <min_month>2002-04-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>53344</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/corina/analyses/14457899/languages.png">
+          <language color="9A63AD" percentage="88" id="5">
+Java          </language>
+          <language color="555555" percentage="8" id="3">
+XML          </language>
+          <language color="000000" percentage="4" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

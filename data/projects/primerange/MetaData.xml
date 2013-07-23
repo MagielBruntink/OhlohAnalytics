@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584063</id>
+      <name>primerange</name>
+      <url>http://www.ohloh.net/p/primerange.xml</url>
+      <html_url>http://www.ohloh.net/p/primerange</html_url>
+      <created_at>2011-05-24T22:53:09Z</created_at>
+      <updated_at>2013-07-22T09:20:11Z</updated_at>
+      <description>The primerange project is an attempt to generate 'mostly' primes for numbers having 10-&gt;20 decimal digits, by using algebraic and non-algebraic techniques. 
+
+Its usefulness for much larger numbers, has not currently been tested, and it is expected, that the phrase 'mostly' would not apply in the case that huge integers are generated. 
+
+Utilise 'free software' computerised algebra systems Sage, and Python, and C, and GNU gmp library to provide scripts.</description>
+      <homepage_url>https://savannah.nongnu.org/projects/primerange</homepage_url>
+      <download_url>http://download.savannah.gnu.org/releases/primerange/</download_url>
+      <url_name>primerange</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1189/console_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1189/console_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14730083</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>primes</tag>
+        <tag>gmp</tag>
+        <tag>mathematics</tag>
+        <tag>numbertheory</tag>
+        <tag>prime</tag>
+        <tag>c</tag>
+        <tag>sage</tag>
+      </tags>
+      <analysis>
+        <id>14730083</id>
+        <url>http://www.ohloh.net/analyses/14730083.xml</url>
+        <project_id>584063</project_id>
+        <updated_at>2013-07-22T09:20:11Z</updated_at>
+        <logged_at>2013-07-22T09:19:49Z</logged_at>
+        <min_month>2011-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>78407</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/primerange/analyses/14730083/languages.png">
+          <language color="FF8F00" percentage="91" id="42">
+C          </language>
+          <language color="4A246B" percentage="9" id="9">
+Python          </language>
+          <language color="493625" percentage="&lt;1" id="30">
+SQL          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

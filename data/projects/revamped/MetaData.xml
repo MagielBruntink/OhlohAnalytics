@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>15751</id>
+      <name>Revamped</name>
+      <url>http://www.ohloh.net/p/revamped.xml</url>
+      <html_url>http://www.ohloh.net/p/revamped</html_url>
+      <created_at>2008-07-26T15:57:47Z</created_at>
+      <updated_at>2013-07-06T03:03:35Z</updated_at>
+      <description>Revamped is a very flexible content management system written in Perl making use of Template Toolkit 2.</description>
+      <homepage_url>http://revamped.googlecode.com/</homepage_url>
+      <download_url>http://revamped.googlecode.com/files/revamped-0.1.4.tar.gz</download_url>
+      <url_name>revamped</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>1.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14545402</analysis_id>
+      <tags>
+        <tag>cms</tag>
+        <tag>perl</tag>
+        <tag>template</tag>
+        <tag>tools</tag>
+      </tags>
+      <analysis>
+        <id>14545402</id>
+        <url>http://www.ohloh.net/analyses/14545402.xml</url>
+        <project_id>15751</project_id>
+        <updated_at>2013-07-22T06:32:01Z</updated_at>
+        <logged_at>2013-07-22T06:31:58Z</logged_at>
+        <min_month>2008-07-01T00:00:00Z</min_month>
+        <max_month>2008-09-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>289</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/revamped/analyses/14545402/languages.png">
+          <language color="D2C690" percentage="63" id="8">
+Perl          </language>
+          <language color="FF1A00" percentage="37" id="4">
+CSS          </language>
+        </languages>
+        <main_language_id>8</main_language_id>
+        <main_language_name>Perl</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Artistic_License_2_0</name>
+          <nice_name>Artistic License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

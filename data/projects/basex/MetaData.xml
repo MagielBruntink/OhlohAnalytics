@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>38256</id>
+      <name>BaseX</name>
+      <url>http://www.ohloh.net/p/basex.xml</url>
+      <html_url>http://www.ohloh.net/p/basex</html_url>
+      <created_at>2008-12-13T00:13:47Z</created_at>
+      <updated_at>2013-07-21T22:06:54Z</updated_at>
+      <description>BaseX is a light-weight, scalable and high-performance XML database system and XPath/XQuery processor, including full support for the W3C Update and Full Text extensions. It supports very large XML instances and offers a highly interactive frontend. BaseX is written in Java and freely available for download. It is developed by the Database and Information Systems Group at the University of Konstanz.
+
+Please find more information on our official homepage http://basex.org.</description>
+      <homepage_url>http://basex.org</homepage_url>
+      <download_url>http://basex.org/download</download_url>
+      <url_name>basex</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/31766/BaseX_64px_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/31766/BaseX_64px_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14720215</analysis_id>
+      <tags>
+        <tag>gui</tag>
+        <tag>java</tag>
+        <tag>xpath</tag>
+        <tag>database</tag>
+        <tag>full-text</tag>
+        <tag>xquery</tag>
+        <tag>xml</tag>
+        <tag>xmldb</tag>
+      </tags>
+      <analysis>
+        <id>14720215</id>
+        <url>http://www.ohloh.net/analyses/14720215.xml</url>
+        <project_id>38256</project_id>
+        <updated_at>2013-07-21T22:06:53Z</updated_at>
+        <logged_at>2013-07-21T21:58:23Z</logged_at>
+        <min_month>2007-03-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>17</twelve_month_contributor_count>
+        <total_code_lines>228124</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/basex/analyses/14720215/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+11 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

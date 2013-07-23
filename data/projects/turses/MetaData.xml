@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>597555</id>
+      <name>turses</name>
+      <url>http://www.ohloh.net/p/turses.xml</url>
+      <html_url>http://www.ohloh.net/p/turses</html_url>
+      <created_at>2012-04-26T11:08:32Z</created_at>
+      <updated_at>2013-07-22T17:52:01Z</updated_at>
+      <description>Twitter client written in Python featuring a sexy curses interface. The goal of the project is to build a full-featured and flexible Twitter client for the console.</description>
+      <homepage_url>https://github.com/alejandrogomez/turses</homepage_url>
+      <download_url>http://pypi.python.org/pypi/turses</download_url>
+      <url_name>turses</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14732310</analysis_id>
+      <analysis>
+        <id>14732310</id>
+        <url>http://www.ohloh.net/analyses/14732310.xml</url>
+        <project_id>597555</project_id>
+        <updated_at>2013-07-22T17:52:00Z</updated_at>
+        <logged_at>2013-07-22T17:51:32Z</logged_at>
+        <min_month>2012-01-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>5172</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/turses/analyses/14732310/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="EEE" percentage="3" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>11313</id>
+      <name>Zope BackTalk</name>
+      <url>http://www.ohloh.net/p/backtalk.xml</url>
+      <html_url>http://www.ohloh.net/p/backtalk</html_url>
+      <created_at>2008-01-28T00:11:43Z</created_at>
+      <updated_at>2013-06-24T07:54:14Z</updated_at>
+      <description>A system for rendering and allowing comments to book-like content.</description>
+      <homepage_url>http://backtalk.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/projects/backtalk/</download_url>
+      <url_name>backtalk</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14375911</analysis_id>
+      <analysis>
+        <id>14375911</id>
+        <url>http://www.ohloh.net/analyses/14375911.xml</url>
+        <project_id>11313</project_id>
+        <updated_at>2013-07-22T01:57:24Z</updated_at>
+        <logged_at>2013-07-22T01:57:20Z</logged_at>
+        <min_month>2001-08-01T00:00:00Z</min_month>
+        <max_month>2004-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2763</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/backtalk/analyses/14375911/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>Zope_Public_License_ZPL_Version_2_1</name>
+          <nice_name>Zope Public License 2.1</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

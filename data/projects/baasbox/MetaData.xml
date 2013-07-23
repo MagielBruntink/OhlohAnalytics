@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>632996</id>
+      <name>BaasBox</name>
+      <url>http://www.ohloh.net/p/baasbox.xml</url>
+      <html_url>http://www.ohloh.net/p/baasbox</html_url>
+      <created_at>2013-01-30T21:13:04Z</created_at>
+      <updated_at>2013-07-17T03:56:19Z</updated_at>
+      <description>BaasBox is a server that provides general backend services for your mobile Apps and RIAs (Rich Internet Applications).
+Baas stands for Backend as a Service, i.e. a set of middleware features exposed like services from a service provider.
+These features generally cover topics like user management, content management, mobile specific stuffs like geospatial functions, checkins, venues enumerations, and so on.
+The &#8220;Box&#8221; in BaasBox means that all the features are put in a standalone server, just a&#8230; box.
+No Application Server, no Database Server, just a JVM and nothing more.
+All you have to do is to download BaasBox, install it wherever you want and connect your application to the Box.</description>
+      <homepage_url>http://www.baasbox.com</homepage_url>
+      <download_url>http://www.baasbox.com/download</download_url>
+      <url_name>baasbox</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/61678/21929_164094790403909_1083516477_n_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/61678/21929_164094790403909_1083516477_n_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14657374</analysis_id>
+      <tags>
+        <tag>api</tag>
+        <tag>json</tag>
+        <tag>java</tag>
+        <tag>restful</tag>
+        <tag>baas</tag>
+        <tag>orientdb</tag>
+        <tag>server</tag>
+        <tag>rest</tag>
+        <tag>mobile</tag>
+      </tags>
+      <analysis>
+        <id>14657374</id>
+        <url>http://www.ohloh.net/analyses/14657374.xml</url>
+        <project_id>632996</project_id>
+        <updated_at>2013-07-17T03:56:19Z</updated_at>
+        <logged_at>2013-07-17T03:54:00Z</logged_at>
+        <min_month>2013-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>10681</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/baasbox/analyses/14657374/languages.png">
+          <language color="9A63AD" percentage="82" id="5">
+Java          </language>
+          <language color="47A400" percentage="9" id="1">
+HTML          </language>
+          <language color="A4007E" percentage="8" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="1" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

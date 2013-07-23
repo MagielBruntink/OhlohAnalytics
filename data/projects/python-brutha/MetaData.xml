@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>632611</id>
+      <name>brutha (Python)</name>
+      <url>http://www.ohloh.net/p/python-brutha.xml</url>
+      <html_url>http://www.ohloh.net/p/python-brutha</html_url>
+      <created_at>2013-01-13T14:27:45Z</created_at>
+      <updated_at>2013-07-22T02:17:36Z</updated_at>
+      <description>Sync FLAC music files to Ogg Vorbis (or keep lossy as-is).
+
+To sum up, brutha is a music converter tailored to audiophiles, who want to convert their huge collections to more portable destinations, with the highest quality/size ratio in mind.</description>
+      <homepage_url>http://pypi.python.org/pypi/brutha</homepage_url>
+      <download_url>http://git.p.engu.in/laurentb/brutha/</download_url>
+      <url_name>python-brutha</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14723577</analysis_id>
+      <tags>
+        <tag>audio</tag>
+        <tag>sox</tag>
+        <tag>mp3</tag>
+        <tag>music</tag>
+        <tag>conversion</tag>
+        <tag>flac</tag>
+        <tag>vorbis</tag>
+        <tag>downsampling</tag>
+        <tag>ogg</tag>
+        <tag>replaygain</tag>
+        <tag>parallel</tag>
+        <tag>make</tag>
+      </tags>
+      <analysis>
+        <id>14723577</id>
+        <url>http://www.ohloh.net/analyses/14723577.xml</url>
+        <project_id>632611</project_id>
+        <updated_at>2013-07-22T02:17:36Z</updated_at>
+        <logged_at>2013-07-22T02:17:25Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>428</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/python-brutha/analyses/14723577/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

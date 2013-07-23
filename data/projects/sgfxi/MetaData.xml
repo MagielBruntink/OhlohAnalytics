@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>84395</id>
+      <name>sgfxi</name>
+      <url>http://www.ohloh.net/p/sgfxi.xml</url>
+      <html_url>http://www.ohloh.net/p/sgfxi</html_url>
+      <created_at>2008-12-20T12:04:47Z</created_at>
+      <updated_at>2013-07-22T05:29:35Z</updated_at>
+      <description>What is sgfxi?sgfxi is a self-updating nvidia, ati/amd fglrx, and xorg free driver installer and xorg configuration script written for originally for Debian, but since expanded to also include support for Ubuntu and Arch Linux systems. 
+
+Easy to use, updated usually the same day as new nVidia drivers are released. fglrx support is much less reliable because ATI/AMD does not actively support cutting edge software, but it should be good for most fixed pool distributions based on Debian/Ubuntu, and the Debian Stable/Testing/Sid branch, as well as Arches rolling release model. 
+
+This project includes the patches used to keep up with latest kernels, and sgfxi includes an automated patch installer as well. 
+
+I'm especially interested in getting a little more help on this project, because tracking non free drivers in real time is a fairly tedious, and thankless, project. 
+
+Why sgfxi, and how does it work?Sadly, especially for nvidia cards, non free drivers are a necessary evil. 
+
+One of the nice features with sgfxi is that each time you run it, unless some new options are added, it will strip out the old drivers, any found, and update to your new choice, which means that, in the case of ATI cards, you would run say sgfxi -N radeonhd to test how the latest radeonhd works, and it didn't do the job, run: sgfxi (no args) to install the latest non free ati/amd binary run package. 
+
+Also supports standard distro driver install methodsAlso supports standard Debian/Ubuntu method driver install (using Debian/Ubuntu packages, that is). Note: Debian support for nVidia packages in Testing/Stable varies release to release, and given how complicated the hacks are to create that support automatically, sgfxi will probably never get that support. Too much work to keep up. 
+
+Ubuntu non free driver package installs (from their repos that is) should be fine although this varies release to release of these distros, and kernel version to kernel version, and Xorg version to Xorg version. 
+
+Other than that, the script is heavily tested, and is used thousands of times per month, with almost total success. 
+
+Script Support and IssuesPlease use either the Issues tab here (must be a google member, logged in), or, if you prefer, use the script user forums or for developers, use the script developer's forums.  
+
+Also see the script documentation for beginner to advanced dev options and advice. 
+
+Distro native sgfxi install methodsAntix: just run the command: sgfxi as root and it will download and install the script automatically. 
+
+ArchLinux (currently available through aur package pool): yaourt -Sy --aur &amp;&amp; yaourt -S sgfxi 
+
+Remember to always update sgfxi prior to running it since if you run the Arch package, sgfxi does not autoupdate, as it would normally do if run as the straight script version. 
+
+Talk to fester64x2 for any Arch specific packaging concerns or feature requests etc, or just post them on the script forums.</description>
+      <homepage_url>http://code.google.com/p/sgfxi</homepage_url>
+      <download_url></download_url>
+      <url_name>sgfxi</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14727189</analysis_id>
+      <tags>
+        <tag>debian</tag>
+        <tag>debian-testing</tag>
+        <tag>graphicscard</tag>
+        <tag>videocard</tag>
+        <tag>graphics</tag>
+        <tag>sid</tag>
+        <tag>ati</tag>
+        <tag>nvidia</tag>
+        <tag>video-drivers</tag>
+        <tag>amd</tag>
+        <tag>fglrx</tag>
+      </tags>
+      <analysis>
+        <id>14727189</id>
+        <url>http://www.ohloh.net/analyses/14727189.xml</url>
+        <project_id>84395</project_id>
+        <updated_at>2013-07-22T05:29:34Z</updated_at>
+        <logged_at>2013-07-22T05:29:15Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>6570</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/sgfxi/analyses/14727189/languages.png">
+          <language color="777777" percentage="100" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

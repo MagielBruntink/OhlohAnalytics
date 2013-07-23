@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588314</id>
+      <name>PyEPR</name>
+      <url>http://www.ohloh.net/p/pyepr.xml</url>
+      <html_url>http://www.ohloh.net/p/pyepr</html_url>
+      <created_at>2012-01-14T12:14:02Z</created_at>
+      <updated_at>2013-06-24T18:27:55Z</updated_at>
+      <description>Python bindings for ENVISAT Product Reader API
+
+PyEPR provides Python bindings for the ENVISAT Product Reader C API (EPR API) for reading satellite data from ENVISAT ESA (European Space Agency) mission.
+
+PyEPR, as well as the (EPR API) for C, supports ENVISAT MERIS, AATSR Level 1B and Level 2 and also ASAR data products. It provides access to the data either on a geophysical (decoded, ready-to-use pixel samples) or on a raw data layer. The raw data access makes it possible to read any data field contained in a product file.</description>
+      <homepage_url>http://avalentino.github.com/pyepr/</homepage_url>
+      <download_url>http://pypi.python.org/pypi/pyepr</download_url>
+      <url_name>pyepr</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14384901</analysis_id>
+      <analysis>
+        <id>14384901</id>
+        <url>http://www.ohloh.net/analyses/14384901.xml</url>
+        <project_id>588314</project_id>
+        <updated_at>2013-07-18T12:43:35Z</updated_at>
+        <logged_at>2013-07-18T12:43:33Z</logged_at>
+        <min_month>2011-02-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>2072</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pyepr/analyses/14384901/languages.png">
+          <language color="4A246B" percentage="76" id="9">
+Python          </language>
+          <language color="AAAAAA" percentage="6" id="13">
+DOS batch script          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+          <language color="000000" percentage="11" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3</name>
+          <nice_name>GNU General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

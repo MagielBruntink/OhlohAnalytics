@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>616907</id>
+      <name>OLib</name>
+      <url>http://www.ohloh.net/p/olib.xml</url>
+      <html_url>http://www.ohloh.net/p/olib</html_url>
+      <created_at>2012-11-14T21:09:02Z</created_at>
+      <updated_at>2013-07-22T21:25:51Z</updated_at>
+      <description>High performance library of mathematical functions and algorithms</description>
+      <homepage_url>http://lib.oproject.info</homepage_url>
+      <download_url></download_url>
+      <url_name>olib</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59268/logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59268/logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14733720</analysis_id>
+      <tags>
+        <tag>artificial_intelligence</tag>
+        <tag>distributed</tag>
+        <tag>hpc</tag>
+        <tag>mac</tag>
+        <tag>windows</tag>
+        <tag>c++</tag>
+        <tag>physics</tag>
+        <tag>mathematics</tag>
+        <tag>boinc</tag>
+        <tag>mpi</tag>
+        <tag>cuda</tag>
+        <tag>openmp</tag>
+        <tag>opencl</tag>
+        <tag>c</tag>
+        <tag>linux</tag>
+        <tag>freebsd</tag>
+        <tag>solaris</tag>
+        <tag>parallelcomputing</tag>
+        <tag>performance</tag>
+        <tag>quantumcomputing</tag>
+      </tags>
+      <analysis>
+        <id>14733720</id>
+        <url>http://www.ohloh.net/analyses/14733720.xml</url>
+        <project_id>616907</project_id>
+        <updated_at>2013-07-22T21:25:51Z</updated_at>
+        <logged_at>2013-07-22T21:25:09Z</logged_at>
+        <min_month>2012-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>52237</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/olib/analyses/14733720/languages.png">
+          <language color="F35F1F" percentage="68" id="44">
+C++          </language>
+          <language color="FF8F00" percentage="25" id="42">
+C          </language>
+          <language color="000000" percentage="7" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>604702</id>
+      <name>SCons_Protobuf</name>
+      <url>http://www.ohloh.net/p/scons_protobuf.xml</url>
+      <html_url>http://www.ohloh.net/p/scons_protobuf</html_url>
+      <created_at>2012-08-24T07:54:06Z</created_at>
+      <updated_at>2013-06-25T00:50:24Z</updated_at>
+      <description>This builder will allow you to generate Google Protocol Buffers .pb.cc, .pb.h, and _pb2.py files using SCons from a .proto source file.
+
+It doesn't currently support Java, but that should be easy to add.</description>
+      <homepage_url>http://www.scons.org/wiki/ProtocBuilder</homepage_url>
+      <download_url></download_url>
+      <url_name>scons_protobuf</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56241/sconsLogo_64x64_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56241/sconsLogo_64x64_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14391223</analysis_id>
+      <analysis>
+        <id>14391223</id>
+        <url>http://www.ohloh.net/analyses/14391223.xml</url>
+        <project_id>604702</project_id>
+        <updated_at>2013-07-21T21:55:22Z</updated_at>
+        <logged_at>2013-07-21T21:55:20Z</logged_at>
+        <min_month>2011-10-01T00:00:00Z</min_month>
+        <max_month>2011-10-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>54</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/scons_protobuf/analyses/14391223/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

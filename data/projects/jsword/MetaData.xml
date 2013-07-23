@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>342815</id>
+      <name>JSword</name>
+      <url>http://www.ohloh.net/p/jsword.xml</url>
+      <html_url>http://www.ohloh.net/p/jsword</html_url>
+      <created_at>2009-05-25T19:29:11Z</created_at>
+      <updated_at>2013-07-07T14:24:19Z</updated_at>
+      <description>The JSword Project is a group of free programs that work together to bring Bible study to a wide range of people using the Java platform. It includes Bible Desktop, a free desktop based Bible study tool.
+
+Since it is written in Java (JDK 1.4) it will run on most computers. Currently we regularly test on Windows, Linux and MacOS X, but it ought to work on Solaris and other places where JDK 1.4 or higher is available, and could be easily extended to work on set-top boxes and PDAs.
+
+The software produced by the JSword project is open source software so it is freely available to anyone. It is licensed under the LGPL for the libraries and GPL for the application.
+
+There are several components to the JSword project, the most commonly used is Bible Desktop.</description>
+      <homepage_url>http://www.crosswire.org/jsword/</homepage_url>
+      <download_url>http://www.crosswire.org/jsword/download.jsp</download_url>
+      <url_name>jsword</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/43522/sword_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/43522/sword_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14562263</analysis_id>
+      <analysis>
+        <id>14562263</id>
+        <url>http://www.ohloh.net/analyses/14562263.xml</url>
+        <project_id>342815</project_id>
+        <updated_at>2013-07-17T09:28:33Z</updated_at>
+        <logged_at>2013-07-17T09:28:28Z</logged_at>
+        <min_month>2002-05-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>145750</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/jsword/analyses/14562263/languages.png">
+          <language color="9A63AD" percentage="80" id="5">
+Java          </language>
+          <language color="556677" percentage="7" id="35">
+XML Schema          </language>
+          <language color="556655" percentage="5" id="36">
+XSL Transformation          </language>
+          <language color="000000" percentage="8" id="">
+9 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

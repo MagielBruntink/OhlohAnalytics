@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>68511</id>
+      <name>openurl.library</name>
+      <url>http://www.ohloh.net/p/openurllib.xml</url>
+      <html_url>http://www.ohloh.net/p/openurllib</html_url>
+      <created_at>2008-12-19T04:27:40Z</created_at>
+      <updated_at>2013-07-11T12:20:25Z</updated_at>
+      <description>A library and tools for opening an application in accordance to a supplied URL. It is explicitly designed to be used by AmigaOS compatible operating systems such as AmigaOS3, AmigaOS4, MorphOS or AROS.</description>
+      <homepage_url>http://sourceforge.net/projects/openurllib</homepage_url>
+      <download_url>http://sourceforge.net/projects/openurllib/files</download_url>
+      <url_name>openurllib</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14589856</analysis_id>
+      <tags>
+        <tag>aros</tag>
+        <tag>morphos</tag>
+        <tag>amiga</tag>
+        <tag>framework</tag>
+      </tags>
+      <analysis>
+        <id>14589856</id>
+        <url>http://www.ohloh.net/analyses/14589856.xml</url>
+        <project_id>68511</project_id>
+        <updated_at>2013-07-20T19:47:02Z</updated_at>
+        <logged_at>2013-07-20T19:47:01Z</logged_at>
+        <min_month>2005-11-01T00:00:00Z</min_month>
+        <max_month>2013-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>18180</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/openurllib/analyses/14589856/languages.png">
+          <language color="FF8F00" percentage="59" id="42">
+C          </language>
+          <language color="F35F1F" percentage="34" id="44">
+C++          </language>
+          <language color="EEE" percentage="7" id="52">
+Make          </language>
+          <language color="000000" percentage="&lt;1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
