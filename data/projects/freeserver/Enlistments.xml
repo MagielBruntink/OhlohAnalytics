@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>1</items_returned>
+  <items_available>1</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>99988</id>
+      <project_id>142168</project_id>
+      <repository_id>98430</repository_id>
+      <repository>
+        <id>98430</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@freeserver.cvs.sourceforge.net:/cvsroot/freeserver</url>
+        <module_name>freeserver</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-21T16:38:30Z</logged_at>
+        <commits>16</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

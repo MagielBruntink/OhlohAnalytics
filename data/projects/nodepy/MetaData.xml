@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>604685</id>
+      <name>NodePy</name>
+      <url>http://www.ohloh.net/p/nodepy.xml</url>
+      <html_url>http://www.ohloh.net/p/nodepy</html_url>
+      <created_at>2012-08-23T20:00:03Z</created_at>
+      <updated_at>2013-07-20T05:10:56Z</updated_at>
+      <description>NodePy (Numerical ODEs in Python) is a Python package for designing, analyzing, and testing numerical methods for initial value ODEs.   NodePy takes an object-oriented approach, in which the basic object is a numerical ODE solver. The idea is to design a laboratory for such methods in the same sense that MATLAB is a laboratory for matrices.</description>
+      <homepage_url>http://numerics.kaust.edu.sa/nodepy</homepage_url>
+      <download_url>http://github.com/ketch/nodepy/downloads</download_url>
+      <url_name>nodepy</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56136/small_logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56136/small_logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14693733</analysis_id>
+      <tags>
+        <tag>runge-kutta</tag>
+        <tag>numerics</tag>
+        <tag>numericalmethods</tag>
+        <tag>numericalanalysis</tag>
+        <tag>differential_equations</tag>
+        <tag>stability</tag>
+        <tag>mathematics</tag>
+      </tags>
+      <analysis>
+        <id>14693733</id>
+        <url>http://www.ohloh.net/analyses/14693733.xml</url>
+        <project_id>604685</project_id>
+        <updated_at>2013-07-20T05:10:56Z</updated_at>
+        <logged_at>2013-07-20T05:10:33Z</logged_at>
+        <min_month>2009-03-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>5113</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/nodepy/analyses/14693733/languages.png">
+          <language color="4A246B" percentage="96" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-2-Clause</name>
+          <nice_name>BSD 2-clause &quot;FreeBSD&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

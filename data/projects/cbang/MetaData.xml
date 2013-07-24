@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588261</id>
+      <name>C!</name>
+      <url>http://www.ohloh.net/p/cbang.xml</url>
+      <html_url>http://www.ohloh.net/p/cbang</html_url>
+      <created_at>2012-01-12T11:37:16Z</created_at>
+      <updated_at>2013-07-06T00:06:55Z</updated_at>
+      <description>The C! or cbang library is a collection of C++ utility libraries
+developed over the course of +10 years and several major C++
+application development projects.  It should compile and run on
+Windows, Linux and OSX using a modern C++ compiler.
+
+Many of the facilities of C! are geared towards cross-platform
+application development and providing basic services that most
+applications need such as a configuration system, run-time build
+information, logging facilities, threads, smart pointers, simple
+scripting, etc.
+
+C!'s philosophy is to create clean, simple, readable, modular and
+reusable code.  C! also encourages exception based error handling,
+and light use of C++ templates and C preprocesor macros.
+
+C! &quot;leans&quot; on the venerable boost library but also reimplements
+several boost APIs which are considered by the author to be too
+template heavy, less readable or overly complicated in boost.
+
+The code was developed on an as needed basis and was never intended to
+be any sort of grand unifying system for C++ application development.
+However, I hope you find many parts of the library useful in your C++
+development projects.</description>
+      <homepage_url>http://cbang.org</homepage_url>
+      <download_url>http://cbang.org</download_url>
+      <url_name>cbang</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14544154</analysis_id>
+      <analysis>
+        <id>14544154</id>
+        <url>http://www.ohloh.net/analyses/14544154.xml</url>
+        <project_id>588261</project_id>
+        <updated_at>2013-07-23T14:32:38Z</updated_at>
+        <logged_at>2013-07-23T14:32:33Z</logged_at>
+        <min_month>2011-05-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>25143</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cbang/analyses/14544154/languages.png">
+          <language color="F35F1F" percentage="92" id="44">
+C++          </language>
+          <language color="4A246B" percentage="6" id="9">
+Python          </language>
+          <language color="000000" percentage="2" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl21_or_later</name>
+          <nice_name>GNU Lesser General Public License v2.1 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>488200</id>
+      <name>CL-FastWeb</name>
+      <url>http://www.ohloh.net/p/cl-fastweb.xml</url>
+      <html_url>http://www.ohloh.net/p/cl-fastweb</html_url>
+      <created_at>2011-02-18T17:32:50Z</created_at>
+      <updated_at>2013-07-03T22:14:22Z</updated_at>
+      <description>Small web development framework for Common Lisp. It uses FastCGI to communicate with Web Server.</description>
+      <homepage_url>https://sourceforge.net/projects/fastweb/</homepage_url>
+      <download_url>https://sourceforge.net/projects/fastweb/</download_url>
+      <url_name>cl-fastweb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14518421</analysis_id>
+      <analysis>
+        <id>14518421</id>
+        <url>http://www.ohloh.net/analyses/14518421.xml</url>
+        <project_id>488200</project_id>
+        <updated_at>2013-07-21T00:38:39Z</updated_at>
+        <logged_at>2013-07-21T00:38:35Z</logged_at>
+        <min_month>2010-12-01T00:00:00Z</min_month>
+        <max_month>2012-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>2575</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cl-fastweb/analyses/14518421/languages.png">
+          <language color="93D290" percentage="100" id="22">
+Lisp          </language>
+        </languages>
+        <main_language_id>22</main_language_id>
+        <main_language_name>Lisp</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

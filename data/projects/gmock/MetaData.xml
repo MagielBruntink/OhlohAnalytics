@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19893</id>
+      <name>gmock</name>
+      <url>http://www.ohloh.net/p/gmock.xml</url>
+      <html_url>http://www.ohloh.net/p/gmock</html_url>
+      <created_at>2008-10-07T12:44:40Z</created_at>
+      <updated_at>2013-07-21T23:45:21Z</updated_at>
+      <description>GmockGmock is a mocking framework for the Groovy language. 
+
+Gmock is all about simple syntax and readability of your tests so you spend less time learning the framework and more writing code. To use Gmock just drop the gmock jar file in your classpath. 
+
+The current version is gmock-0.8.0 and is packed with tons of feature. 
+
+Checkout our official site at gmock.org and our documentation to get the full picture. Visit our roadmap to see what's coming next. 
+
+Getting StartedFirst extend the org.gmock.GMockTestCase. Create mock object using the mock() method. You setup expectation simply by calling method on your mock. 
+
+def mockLoader = mock()
+mockLoader.load(&quot;fruit&quot;).returns(&quot;apple&quot;)The code you are testing should be executed within the play closure.  
+
+void testBasic(){
+  // create mock and setup expectation
+  play {
+    // run your code
+  }
+}In A NutshellMethod mocking: mockLoader.load(&quot;fruit&quot;).returns(&quot;apple&quot;) Exception mocking: mockLoader.load(&quot;unknown&quot;).raises(new RuntimeException()) Stub mocking: mockLoader.load(&quot;fruit&quot;).returns(&quot;apple&quot;).stub() Static method mocking: mockMath.static.random().returns(0.5) Property mocking: mockLoader.name.returns(&quot;loader&quot;) Constructor mocking: def mockFile = mock(File, constructor('/a/path/file.txt')) Partial mocking: mock(controller).params.returns([id: 3]) Times expectation: mockLoader.load(&quot;fruit&quot;).returns(&quot;apple&quot;).atLeastOnce()   Custom matcher: mockLoader.load(match{ it.startsWith(&quot;fru&quot;) })   Strict ordering: ordered {  ... } Optional support for Hamcrest matcher: mockLoader.put(&quot;test&quot;, is(not(lessThan(5)))) GMockController if you can't extend GMockTestCase in your test    
+
+Here is a full example: 
+
+import org.gmock.GMockTestCase
+
+class LoaderTest extends GMockTestCase {
+  void testLoader(){
+    def mockLoader = mock()
+    mockLoader.load('key').returns('value')
+    play {
+      assertEquals &quot;value&quot;, mockLoader.load('key')
+    }
+  }
+}</description>
+      <homepage_url>http://code.google.com/p/gmock</homepage_url>
+      <download_url></download_url>
+      <url_name>gmock</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14721036</analysis_id>
+      <tags>
+        <tag>mock</tag>
+        <tag>groovy</tag>
+        <tag>test</tag>
+      </tags>
+      <analysis>
+        <id>14721036</id>
+        <url>http://www.ohloh.net/analyses/14721036.xml</url>
+        <project_id>19893</project_id>
+        <updated_at>2013-07-21T23:45:21Z</updated_at>
+        <logged_at>2013-07-21T23:43:00Z</logged_at>
+        <min_month>2008-09-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>1</twelve_month_contributor_count>
+        <total_code_lines>13843</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeOne">
+Only a single active developer          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gmock/analyses/14721036/languages.png">
+          <language color="C72C2C" percentage="70" id="29">
+Groovy          </language>
+          <language color="555555" percentage="12" id="3">
+XML          </language>
+          <language color="9A63AD" percentage="10" id="5">
+Java          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>29</main_language_id>
+        <main_language_name>Groovy</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

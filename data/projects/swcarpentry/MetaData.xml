@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>633240</id>
+      <name>Software Carpentry</name>
+      <url>http://www.ohloh.net/p/swcarpentry.xml</url>
+      <html_url>http://www.ohloh.net/p/swcarpentry</html_url>
+      <created_at>2013-02-12T15:09:47Z</created_at>
+      <updated_at>2013-07-23T17:18:00Z</updated_at>
+      <description>Software Carpentry helps researchers be more productive by teaching them basic computing skills. We run boot camps at dozens of sites around the world utilising volunteer instructors and openly licensed materials, and also provide open access material online for self-paced instruction. 
+
+All Software Carpentry instructional material is made available under the Creative Commons Attribution license. Except where otherwise noted, the example programs and other software provided by Software Carpentry are made available under the OSI-approved MIT license. See http://www.software-carpentry.org/license.html</description>
+      <homepage_url>http://software-carpentry.org</homepage_url>
+      <download_url>https://github.com/swcarpentry/</download_url>
+      <url_name>swcarpentry</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14749520</analysis_id>
+      <analysis>
+        <id>14749520</id>
+        <url>http://www.ohloh.net/analyses/14749520.xml</url>
+        <project_id>633240</project_id>
+        <updated_at>2013-07-23T17:18:00Z</updated_at>
+        <logged_at>2013-07-22T02:51:09Z</logged_at>
+        <min_month>2012-11-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>57</twelve_month_contributor_count>
+        <total_code_lines>60205</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/swcarpentry/analyses/14749520/languages.png">
+          <language color="47A400" percentage="69" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="11" id="4">
+CSS          </language>
+          <language color="4A246B" percentage="16" id="9">
+Python          </language>
+          <language color="000000" percentage="4" id="">
+6 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cc-by-3</name>
+          <nice_name>Creative Commons Attribution 3.0</nice_name>
+        </license>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

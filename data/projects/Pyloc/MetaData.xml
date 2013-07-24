@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>596176</id>
+      <name>Pyloc</name>
+      <url>http://www.ohloh.net/p/Pyloc.xml</url>
+      <html_url>http://www.ohloh.net/p/Pyloc</html_url>
+      <created_at>2012-03-09T02:39:25Z</created_at>
+      <updated_at>2013-06-29T11:54:18Z</updated_at>
+      <description>Pyloc is a Lines Of Code analyser written in Python. Supported languages are configurable. Stats are broken down in to code, comments and whitespace, with Physical SLOC including everything.
+
+Requires Python 2.6+ and WxPython to run the GUI.</description>
+      <homepage_url>http://www.boothj5.com/pyloc.shtml</homepage_url>
+      <download_url>https://github.com/boothj5/pyloc</download_url>
+      <url_name>Pyloc</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14456172</analysis_id>
+      <tags>
+        <tag>python</tag>
+        <tag>loc</tag>
+        <tag>code</tag>
+      </tags>
+      <analysis>
+        <id>14456172</id>
+        <url>http://www.ohloh.net/analyses/14456172.xml</url>
+        <project_id>596176</project_id>
+        <updated_at>2013-07-23T05:50:58Z</updated_at>
+        <logged_at>2013-07-23T05:50:57Z</logged_at>
+        <min_month>2011-09-01T00:00:00Z</min_month>
+        <max_month>2012-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>367</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/Pyloc/analyses/14456172/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

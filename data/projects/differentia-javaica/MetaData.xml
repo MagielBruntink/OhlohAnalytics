@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>309233</id>
+      <name>differentia-javaica</name>
+      <url>http://www.ohloh.net/p/differentia-javaica.xml</url>
+      <html_url>http://www.ohloh.net/p/differentia-javaica</html_url>
+      <created_at>2009-02-02T03:28:04Z</created_at>
+      <updated_at>2013-06-26T13:23:21Z</updated_at>
+      <description>The aim of this project is to compare two java source codes and check if they are equal. It is not a simple diff. It uses ANTLR to construct two Abstract Source Trees for java types and eventually compare these trees. As a consequence white spaces and comments will not affect comparison. Reordering of elements in source code will be treated as difference though. 
+
+This kind of comparison is especially helpful when writing unit tests for java source code generators. When we have expected source code it is possible to check if it equals to generated source code.</description>
+      <homepage_url>http://code.google.com/p/differentia-javaica</homepage_url>
+      <download_url></download_url>
+      <url_name>differentia-javaica</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14418243</analysis_id>
+      <tags>
+        <tag>diff</tag>
+        <tag>unittesting</tag>
+        <tag>tool</tag>
+        <tag>sourcecodecomparison</tag>
+        <tag>source</tag>
+        <tag>ast</tag>
+        <tag>java</tag>
+        <tag>comparison</tag>
+      </tags>
+      <analysis>
+        <id>14418243</id>
+        <url>http://www.ohloh.net/analyses/14418243.xml</url>
+        <project_id>309233</project_id>
+        <updated_at>2013-07-20T15:43:09Z</updated_at>
+        <logged_at>2013-07-20T15:43:06Z</logged_at>
+        <min_month>2009-01-01T00:00:00Z</min_month>
+        <max_month>2009-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>21037</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/differentia-javaica/analyses/14418243/languages.png">
+          <language color="9A63AD" percentage="99" id="5">
+Java          </language>
+          <language color="555555" percentage="1" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

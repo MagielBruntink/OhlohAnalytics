@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>480844</id>
+      <name>TrinityDB</name>
+      <url>http://www.ohloh.net/p/trinitydatabase.xml</url>
+      <html_url>http://www.ohloh.net/p/trinitydatabase</html_url>
+      <created_at>2010-01-30T22:17:19Z</created_at>
+      <updated_at>2013-06-27T07:08:25Z</updated_at>
+      <description>The database for the Trinity F/OSS WoW emulator.</description>
+      <homepage_url>http://trinitydatabase.org</homepage_url>
+      <download_url>http://trinitydb.googlecode.com</download_url>
+      <url_name>trinitydatabase</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14430006</analysis_id>
+      <analysis>
+        <id>14430006</id>
+        <url>http://www.ohloh.net/analyses/14430006.xml</url>
+        <project_id>480844</project_id>
+        <updated_at>2013-07-21T11:33:53Z</updated_at>
+        <logged_at>2013-07-21T11:33:52Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2010-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>742923</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/trinitydatabase/analyses/14430006/languages.png">
+          <language color="493625" percentage="100" id="30">
+SQL          </language>
+        </languages>
+        <main_language_id>30</main_language_id>
+        <main_language_name>SQL</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>cc-by-3</name>
+          <nice_name>Creative Commons Attribution 3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

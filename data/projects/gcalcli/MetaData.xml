@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>19739</id>
+      <name>gcalcli</name>
+      <url>http://www.ohloh.net/p/gcalcli.xml</url>
+      <html_url>http://www.ohloh.net/p/gcalcli</html_url>
+      <created_at>2008-10-07T12:37:26Z</created_at>
+      <updated_at>2013-07-21T03:30:16Z</updated_at>
+      <description>(gcalcli) Google Calendar Command Line Interfacegcalcli is a Python application that allows you to access your Google Calendar from a command line.  It's easy to get your agenda, search for events, and quickly add new events.  Additionally gcalcli can be used as a reminder service to execute any application you want. 
+
+Author: Eric Davis - email - web 
+
+Download: gcalcli-1.4 
+
+Check your OS Distribution for packages (gcalcli is starting to be noticed)... 
+
+Changelog 
+
+Screenshots: One - Two - Three - Four - Five 
+
+Requirements: 
+
+Python Google's GData Python module ElementTree Python module dateutil Python module A love for the command line! Features: 
+
+list your calendars show an agenda using a specified start/end time and date graphical calendar display (my paying homage to the  remind application) search for past and/or future calendar events &quot;quick add&quot; new calendar events to your default calendar run as a cron job and execute a command for reminders work against specific calendars (by calendar type or calendar name regex) config file support for specifying program defaults colored output and unicode character support easy integration within shell scripts, cron, screen, conky, etc Not (Yet) Supported: 
+
+import meeting.ics Outlook events add (non-quick) events with ability to set reminders, repeat, guests, etc configurable reminders (i.e. 30 mins before event every 5 mins) offline mode working from cached data</description>
+      <homepage_url>http://code.google.com/p/gcalcli</homepage_url>
+      <download_url></download_url>
+      <url_name>gcalcli</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14710190</analysis_id>
+      <tags>
+        <tag>cli</tag>
+        <tag>shell</tag>
+        <tag>calendar</tag>
+        <tag>python</tag>
+        <tag>commandline</tag>
+      </tags>
+      <analysis>
+        <id>14710190</id>
+        <url>http://www.ohloh.net/analyses/14710190.xml</url>
+        <project_id>19739</project_id>
+        <updated_at>2013-07-21T03:30:16Z</updated_at>
+        <logged_at>2013-07-21T03:24:09Z</logged_at>
+        <min_month>2007-09-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>2596</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gcalcli/analyses/14710190/languages.png">
+          <language color="4A246B" percentage="100" id="9">
+Python          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

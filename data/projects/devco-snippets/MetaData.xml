@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485272</id>
+      <name>devco-snippets</name>
+      <url>http://www.ohloh.net/p/devco-snippets.xml</url>
+      <html_url>http://www.ohloh.net/p/devco-snippets</html_url>
+      <created_at>2010-09-10T17:06:16Z</created_at>
+      <updated_at>2013-07-08T10:32:48Z</updated_at>
+      <description>Snippets is a pastebin application made with ruby, runs on the google applicaction engine
+using jruby, sinatra and data_mapper.</description>
+      <homepage_url>http://snippets.dev-co.org</homepage_url>
+      <download_url>http://github.com/dev-co/snippets</download_url>
+      <url_name>devco-snippets</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>2</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14569008</analysis_id>
+      <analysis>
+        <id>14569008</id>
+        <url>http://www.ohloh.net/analyses/14569008.xml</url>
+        <project_id>485272</project_id>
+        <updated_at>2013-07-22T00:32:27Z</updated_at>
+        <logged_at>2013-07-22T00:32:26Z</logged_at>
+        <min_month>2010-02-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3295</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/devco-snippets/analyses/14569008/languages.png">
+          <language color="A4007E" percentage="68" id="6">
+JavaScript          </language>
+          <language color="FF1A00" percentage="31" id="4">
+CSS          </language>
+          <language color="A40011" percentage="1" id="12">
+Ruby          </language>
+        </languages>
+        <main_language_id>6</main_language_id>
+        <main_language_name>JavaScript</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>BSD-3-Clause</name>
+          <nice_name>BSD 3-clause &quot;New&quot; or &quot;Revised&quot; License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

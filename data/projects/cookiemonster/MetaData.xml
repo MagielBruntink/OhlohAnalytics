@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>127152</id>
+      <name>cookiemonster</name>
+      <url>http://www.ohloh.net/p/cookiemonster.xml</url>
+      <html_url>http://www.ohloh.net/p/cookiemonster</html_url>
+      <created_at>2009-01-04T06:54:26Z</created_at>
+      <updated_at>2013-07-20T12:26:16Z</updated_at>
+      <description>Cookiemonster is an proof of concept python-based cookie hijacking utility that is able to capture cookies of improperly secured HTTPS sites via the local network. In its default mode of operation, Cookiemonster tracks the HTTPS sites visited by a each local client IP and then automatically injects HTML elements for each HTTPS domain into subsequent HTTP responses to a particular client. This causes any insecure HTTPS cookies from the automatically collected target domains to be transmitted unencrypted for capture by Cookiemonster, which then writes them into Firefox 2.0 or 3.0 compatible cookie files. 
+
+For more infromation, see http://fscked.org/blog/fully-automated-active-https-cookie-hijacking and http://fscked.org/category/tags/insecurecookies</description>
+      <homepage_url>http://code.google.com/p/cookiemonster</homepage_url>
+      <download_url></download_url>
+      <url_name>cookiemonster</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14698537</analysis_id>
+      <tags>
+        <tag>wifi</tag>
+        <tag>defcon</tag>
+        <tag>linux</tag>
+        <tag>security</tag>
+        <tag>lorcon</tag>
+        <tag>wireless</tag>
+        <tag>python</tag>
+      </tags>
+      <analysis>
+        <id>14698537</id>
+        <url>http://www.ohloh.net/analyses/14698537.xml</url>
+        <project_id>127152</project_id>
+        <updated_at>2013-07-20T12:26:16Z</updated_at>
+        <logged_at>2013-07-20T12:26:03Z</logged_at>
+        <min_month>2008-12-01T00:00:00Z</min_month>
+        <max_month>2008-12-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>655</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/cookiemonster/analyses/14698537/languages.png">
+          <language color="4A246B" percentage="94" id="9">
+Python          </language>
+          <language color="777777" percentage="6" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

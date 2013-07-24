@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>395445</id>
+      <name>hledger</name>
+      <url>http://www.ohloh.net/p/hledger.xml</url>
+      <html_url>http://www.ohloh.net/p/hledger</html_url>
+      <created_at>2009-08-18T16:22:07Z</created_at>
+      <updated_at>2013-07-20T12:32:14Z</updated_at>
+      <description>hledger is... 
+
+a Free Software project developed since 2007 by Simon Michael and contributors. a command-line (or curses or web-based) double-entry accounting tool. It reads a plain text ledger describing your transactions and displays precise balance and register reports. a remix, in haskell, of John Wiegley's excellent c++ ledger. hledger reads most standard ledger files and vice-versa. hledger's home is hledger.org.</description>
+      <homepage_url>http://code.google.com/p/hledger/</homepage_url>
+      <download_url></download_url>
+      <url_name>hledger</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14698661</analysis_id>
+      <analysis>
+        <id>14698661</id>
+        <url>http://www.ohloh.net/analyses/14698661.xml</url>
+        <project_id>395445</project_id>
+        <updated_at>2013-07-20T12:32:14Z</updated_at>
+        <logged_at>2013-07-20T12:31:14Z</logged_at>
+        <min_month>2007-01-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>11</twelve_month_contributor_count>
+        <total_code_lines>18299</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hledger/analyses/14698661/languages.png">
+          <language color="007B7C" percentage="54" id="38">
+Haskell          </language>
+          <language color="FF1A00" percentage="24" id="4">
+CSS          </language>
+          <language color="A4007E" percentage="17" id="6">
+JavaScript          </language>
+          <language color="000000" percentage="5" id="">
+5 Other          </language>
+        </languages>
+        <main_language_id>38</main_language_id>
+        <main_language_name>Haskell</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

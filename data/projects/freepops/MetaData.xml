@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>469</id>
+      <name>FreePOPs</name>
+      <url>http://www.ohloh.net/p/freepops.xml</url>
+      <html_url>http://www.ohloh.net/p/freepops</html_url>
+      <created_at>2006-10-10T15:51:31Z</created_at>
+      <updated_at>2013-06-26T21:33:33Z</updated_at>
+      <description>FreePOPs is a POP3 server that is scriptable in LUA. This means that you can tailor it to your needs by writing a plugin. Plugins are currently implemented for using FreePOPs as an RSS aggregator, a POP3 forwarding server, and a POP3 interface to the webmail services of libero.it, inwind.it, iol.it, blu.it, lycos.it, tin.it, virgilio.it, gmail.com, aol, hotmail, fastmail, mail2world, yahoo and many more (see the Web site for an exaustive list).</description>
+      <homepage_url>http://www.freepops.org</homepage_url>
+      <download_url></download_url>
+      <url_name>freepops</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>4.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14422857</analysis_id>
+      <tags>
+        <tag>c++</tag>
+        <tag>http</tag>
+        <tag>webmail</tag>
+        <tag>email</tag>
+        <tag>www</tag>
+        <tag>pop</tag>
+      </tags>
+      <analysis>
+        <id>14422857</id>
+        <url>http://www.ohloh.net/analyses/14422857.xml</url>
+        <project_id>469</project_id>
+        <updated_at>2013-07-21T06:48:19Z</updated_at>
+        <logged_at>2013-07-21T05:52:28Z</logged_at>
+        <min_month>2004-04-01T00:00:00Z</min_month>
+        <max_month>2013-01-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>56572</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/freepops/analyses/14422857/languages.png">
+          <language color="A42E00" percentage="36" id="27">
+Lua          </language>
+          <language color="FF8F00" percentage="31" id="42">
+C          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="22" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>27</main_language_id>
+        <main_language_name>Lua</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

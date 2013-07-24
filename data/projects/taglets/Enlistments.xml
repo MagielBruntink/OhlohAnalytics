@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>146049</id>
+      <project_id>51630</project_id>
+      <repository_id>144115</repository_id>
+      <repository>
+        <id>144115</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@taglets.cvs.sourceforge.net:/cvsroot/taglets</url>
+        <module_name>j2se-tools/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-22T09:03:20Z</logged_at>
+        <commits>4</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>146050</id>
+      <project_id>51630</project_id>
+      <repository_id>144116</repository_id>
+      <repository>
+        <id>144116</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@taglets.cvs.sourceforge.net:/cvsroot/taglets</url>
+        <module_name>taglets/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-22T09:02:54Z</logged_at>
+        <commits>276</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

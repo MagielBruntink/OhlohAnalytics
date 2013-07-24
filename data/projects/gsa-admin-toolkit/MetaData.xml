@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>51862</id>
+      <name>gsa-admin-toolkit</name>
+      <url>http://www.ohloh.net/p/gsa-admin-toolkit.xml</url>
+      <html_url>http://www.ohloh.net/p/gsa-admin-toolkit</html_url>
+      <created_at>2008-12-16T16:27:06Z</created_at>
+      <updated_at>2013-07-20T22:52:43Z</updated_at>
+      <description>GSA Admin Toolkit is a package of tools for GSA administrators. It contains the following: 
+
+NOTE: the Admin Console scripts which attempt to carry out actions like exporting configuration/changing settings will fail in versions 6.2+ due to changes in Admin Console implementation. 
+
+monitor.sh -- Monitoring script that verifies serving on the GSA load.py -- Runs load tests against the appliance adminconsole-cookie.sh -- Gets a cookie for authenticating to the Admin Console autoadmin.sh -- Uses the principles of adminconsole-cookie.sh in order to demonstrate setting Admin Console values adminconsole.py -- Automates various Admin Console tasks authn.py -- Web server for testing the Authn/Authz SPI Connect.java -- Java class for testing the JDBC connection to the database cached_copy_checker.py -- Monitoring script that verifies crawling, indexing and serving are working on an appliance sso.py -- Web server for testing Cookie Sites. Can be configured to mimic Oblix. searchstats.py -- Search logfile analysis (error rates, queries per second, average response time) smbcrawler.py -- Script that mimics how the appliance crawls SMB. Useful for troubleshooting SMB crawl problems where the error message on the appliance is unhelpful. reverse_proxy.py -- Reverse proxy that can be used to queue requests to the appliance in order to limit the number of concurrent connections. It was written as a proof-of-concept and has not been tested in a production environment. gsa_admin.py -- Python script for importing, exporting and rewriting the config file. Useful for sync'ing configurations between multiple appliances.  remove-or-recrawl-urls.html -- HTML+JavaScript helper page that builds feeds to remove or re-crawl URLs. urlstats.py -- Python script that generates reports about URLs in the GSA. ssoproxy.py  --  Configurable python script that proxies SSO systems login rules to provide GSA with crawling/serving SSO cookies  database_sync.py  --  Script that will sync a database using the Admin Console. Tested on GSA 6.0/6.2 CrawlReport.java -- Java class to retrieve via the new Admin API (software version 6.0.0) the number of urls crawled since yesterday connectormanager.py -- Simple connectormanager and sitemap connector.   For questions on this project, contact jlowry@gmail.com</description>
+      <homepage_url>http://code.google.com/p/gsa-admin-toolkit</homepage_url>
+      <download_url></download_url>
+      <url_name>gsa-admin-toolkit</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14706861</analysis_id>
+      <tags>
+        <tag>appliance</tag>
+        <tag>search</tag>
+        <tag>monitoring</tag>
+        <tag>gsa</tag>
+        <tag>mini</tag>
+      </tags>
+      <analysis>
+        <id>14706861</id>
+        <url>http://www.ohloh.net/analyses/14706861.xml</url>
+        <project_id>51862</project_id>
+        <updated_at>2013-07-20T22:52:42Z</updated_at>
+        <logged_at>2013-07-20T22:51:50Z</logged_at>
+        <min_month>2007-08-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>3</twelve_month_contributor_count>
+        <total_code_lines>6268</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/gsa-admin-toolkit/analyses/14706861/languages.png">
+          <language color="4A246B" percentage="87" id="9">
+Python          </language>
+          <language color="47A400" percentage="5" id="1">
+HTML          </language>
+          <language color="000000" percentage="8" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

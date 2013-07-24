@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>38266</id>
+      <name>flapjack</name>
+      <url>http://www.ohloh.net/p/flapjack.xml</url>
+      <html_url>http://www.ohloh.net/p/flapjack</html_url>
+      <created_at>2008-12-13T00:23:34Z</created_at>
+      <updated_at>2013-07-23T19:23:20Z</updated_at>
+      <description>Flapjack is the PREMIER flat record parser....yea right..... for all I know there is a better flat record parser out there. This project has really materialized into a learning exercise on how complicated flat record parsing really can be and how I approached it.</description>
+      <homepage_url>http://code.google.com/p/flapjack/</homepage_url>
+      <download_url>http://code.google.com/p/flapjack/downloads/list</download_url>
+      <url_name>flapjack</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17622/logo_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17622/logo_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14483048</analysis_id>
+      <analysis>
+        <id>14483048</id>
+        <url>http://www.ohloh.net/analyses/14483048.xml</url>
+        <project_id>38266</project_id>
+        <updated_at>2013-07-20T05:03:28Z</updated_at>
+        <logged_at>2013-07-20T05:03:26Z</logged_at>
+        <min_month>2008-11-01T00:00:00Z</min_month>
+        <max_month>2010-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>8622</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/flapjack/analyses/14483048/languages.png">
+          <language color="9A63AD" percentage="95" id="5">
+Java          </language>
+          <language color="555555" percentage="5" id="3">
+XML          </language>
+          <language color="777777" percentage="&lt;1" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

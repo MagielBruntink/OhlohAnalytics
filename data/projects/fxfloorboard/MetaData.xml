@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>6962</id>
+      <name>GT-8 Sysex Reader</name>
+      <url>http://www.ohloh.net/p/fxfloorboard.xml</url>
+      <html_url>http://www.ohloh.net/p/fxfloorboard</html_url>
+      <created_at>2007-07-29T17:51:48Z</created_at>
+      <updated_at>2013-06-28T22:03:10Z</updated_at>
+      <description>GT-8 sysex reader. This software is written in php and there for platform independent. It can read and print settings from a .syx file. (Requires a webserver with php installed and configured correctly!)</description>
+      <homepage_url>http://fxfloorboard.sourceforge.net/</homepage_url>
+      <download_url>http://sourceforge.net/project/platformdownload.php?group_id=167863</download_url>
+      <url_name>fxfloorboard</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/3495/sysex-reader_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/3495/sysex-reader_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14448908</analysis_id>
+      <tags>
+        <tag>gt-8</tag>
+        <tag>fx</tag>
+        <tag>sysex</tag>
+      </tags>
+      <analysis>
+        <id>14448908</id>
+        <url>http://www.ohloh.net/analyses/14448908.xml</url>
+        <project_id>6962</project_id>
+        <updated_at>2013-07-24T02:26:48Z</updated_at>
+        <logged_at>2013-07-24T02:26:43Z</logged_at>
+        <min_month>2006-06-01T00:00:00Z</min_month>
+        <max_month>2008-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>10964</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/fxfloorboard/analyses/14448908/languages.png">
+          <language color="F35F1F" percentage="98" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>44</main_language_id>
+        <main_language_name>C++</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

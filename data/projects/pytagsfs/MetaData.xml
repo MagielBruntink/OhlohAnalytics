@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>401382</id>
+      <name>pytagsfs</name>
+      <url>http://www.ohloh.net/p/pytagsfs.xml</url>
+      <html_url>http://www.ohloh.net/p/pytagsfs</html_url>
+      <created_at>2009-08-19T15:15:32Z</created_at>
+      <updated_at>2013-06-24T00:07:15Z</updated_at>
+      <description>pytagsfs is a FUSE filesystem that arranges media files in a virtual directory structure based on the file tags. For instance, a set of audio files could be mapped to a new directory structure organizing them hierarchically by album, genre, release date, etc. File tags can be changed by moving and renaming virtual files and directories. The virtual files can also be modified directly, and, of course, can be opened and played just like regular files.</description>
+      <homepage_url>http://www.pytagsfs.org/</homepage_url>
+      <download_url>http://www.pytagsfs.org/Download</download_url>
+      <url_name>pytagsfs</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14368788</analysis_id>
+      <tags>
+        <tag>linux</tag>
+        <tag>python</tag>
+        <tag>commandline</tag>
+        <tag>filesystem</tag>
+        <tag>osx</tag>
+        <tag>macosx</tag>
+        <tag>filesystems</tag>
+        <tag>fuse</tag>
+        <tag>mac_os_x</tag>
+        <tag>macfuse</tag>
+      </tags>
+      <analysis>
+        <id>14368788</id>
+        <url>http://www.ohloh.net/analyses/14368788.xml</url>
+        <project_id>401382</project_id>
+        <updated_at>2013-07-22T04:41:38Z</updated_at>
+        <logged_at>2013-07-22T04:41:30Z</logged_at>
+        <min_month>2007-11-01T00:00:00Z</min_month>
+        <max_month>2011-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>12812</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/pytagsfs/analyses/14368788/languages.png">
+          <language color="4A246B" percentage="97" id="9">
+Python          </language>
+          <language color="555555" percentage="3" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>483276</id>
+      <name>eradius</name>
+      <url>http://www.ohloh.net/p/eradius.xml</url>
+      <html_url>http://www.ohloh.net/p/eradius</html_url>
+      <created_at>2010-05-28T18:44:08Z</created_at>
+      <updated_at>2013-07-05T23:40:42Z</updated_at>
+      <description>Erlang RADIUS library (originally taken from jungerl)</description>
+      <homepage_url>http://github.com/lemenkov/eradius</homepage_url>
+      <download_url></download_url>
+      <url_name>eradius</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14543894</analysis_id>
+      <tags>
+        <tag>server</tag>
+        <tag>library</tag>
+        <tag>erlang</tag>
+        <tag>radius</tag>
+        <tag>client</tag>
+        <tag>protocol</tag>
+      </tags>
+      <analysis>
+        <id>14543894</id>
+        <url>http://www.ohloh.net/analyses/14543894.xml</url>
+        <project_id>483276</project_id>
+        <updated_at>2013-07-23T13:53:34Z</updated_at>
+        <logged_at>2013-07-23T13:53:32Z</logged_at>
+        <min_month>2003-10-01T00:00:00Z</min_month>
+        <max_month>2013-02-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>1526</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/eradius/analyses/14543894/languages.png">
+          <language color="6A2CC7" percentage="90" id="28">
+Erlang          </language>
+          <language color="4A246B" percentage="9" id="9">
+Python          </language>
+          <language color="EEE" percentage="1" id="52">
+Make          </language>
+        </languages>
+        <main_language_id>28</main_language_id>
+        <main_language_name>Erlang</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>467067</id>
+      <project_id>114843</project_id>
+      <repository_id>463825</repository_id>
+      <repository>
+        <id>463825</id>
+        <type>GitRepository</type>
+        <url>git://pycam.git.sourceforge.net/gitroot/pycam/pycam</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-19T22:34:02Z</logged_at>
+        <commits>1299</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>87444</id>
+      <project_id>114843</project_id>
+      <repository_id>85908</repository_id>
+      <repository>
+        <id>85908</id>
+        <type>SvnSyncRepository</type>
+        <url>https://pycam.svn.sourceforge.net/svnroot/pycam/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-19T22:34:03Z</logged_at>
+        <commits>1167</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>
