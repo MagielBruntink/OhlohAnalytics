@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>584795</id>
+      <name>Apache Hama</name>
+      <url>http://www.ohloh.net/p/hama.xml</url>
+      <html_url>http://www.ohloh.net/p/hama</html_url>
+      <created_at>2011-06-28T10:50:19Z</created_at>
+      <updated_at>2013-07-23T14:10:44Z</updated_at>
+      <description>Hama is a distributed computing framework based on BSP (Bulk Synchronous Parallel) computing techniques for massive scientific computations, Currently being incubated as one of the incubator project by the Apache Software Foundation</description>
+      <homepage_url>http://incubator.apache.org/hama/</homepage_url>
+      <download_url>http://incubator.apache.org/hama/downloads.html</download_url>
+      <url_name>hama</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/59461/headerlogo_1__med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/59461/headerlogo_1__small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14748090</analysis_id>
+      <tags>
+        <tag>matrix</tag>
+        <tag>large_scale</tag>
+        <tag>graphdb</tag>
+        <tag>pagerank</tag>
+        <tag>bsp</tag>
+        <tag>google</tag>
+        <tag>pregel</tag>
+        <tag>distributed</tag>
+        <tag>bulk</tag>
+        <tag>synchronous</tag>
+        <tag>parallel</tag>
+        <tag>hdfs</tag>
+        <tag>message_passing</tag>
+      </tags>
+      <analysis>
+        <id>14748090</id>
+        <url>http://www.ohloh.net/analyses/14748090.xml</url>
+        <project_id>584795</project_id>
+        <updated_at>2013-07-23T14:10:44Z</updated_at>
+        <logged_at>2013-07-23T14:06:29Z</logged_at>
+        <min_month>2008-06-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>7</twelve_month_contributor_count>
+        <total_code_lines>110083</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/hama/analyses/14748090/languages.png">
+          <language color="EEE" percentage="39" id="51">
+Autoconf          </language>
+          <language color="9A63AD" percentage="40" id="5">
+Java          </language>
+          <language color="777777" percentage="16" id="11">
+shell script          </language>
+          <language color="000000" percentage="5" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

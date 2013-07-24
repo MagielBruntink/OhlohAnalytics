@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>487830</id>
+      <name>Slurm Workload Manager</name>
+      <url>http://www.ohloh.net/p/slurm.xml</url>
+      <html_url>http://www.ohloh.net/p/slurm</html_url>
+      <created_at>2011-01-28T10:26:20Z</created_at>
+      <updated_at>2013-07-21T13:21:30Z</updated_at>
+      <description>SLURM: A Highly Scalable Resource Manager
+
+SLURM is an open-source resource manager designed for Linux clusters of all sizes. It provides three key functions. First it allocates exclusive and/or non-exclusive access to resources (computer nodes) to users for some duration of time so they can perform work. Second, it provides a framework for starting, executing, and monitoring work (typically a parallel job) on a set of allocated nodes. Finally, it arbitrates contention for resources by managing a queue of pending work.
+
+SLURM's design is very modular with dozens of optional plugins. In its simplest configuration, it can be installed and configured in a couple of minutes.</description>
+      <homepage_url>https://computing.llnl.gov/linux/slurm/</homepage_url>
+      <download_url>https://computing.llnl.gov/linux/slurm/download.html</download_url>
+      <url_name>slurm</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>2</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14714866</analysis_id>
+      <tags>
+        <tag>slurm</tag>
+        <tag>process_automation</tag>
+        <tag>hpc</tag>
+        <tag>jobscheduling</tag>
+        <tag>monitoring</tag>
+      </tags>
+      <analysis>
+        <id>14714866</id>
+        <url>http://www.ohloh.net/analyses/14714866.xml</url>
+        <project_id>487830</project_id>
+        <updated_at>2013-07-21T13:21:29Z</updated_at>
+        <logged_at>2013-07-21T13:15:59Z</logged_at>
+        <min_month>2001-10-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>63</twelve_month_contributor_count>
+        <total_code_lines>1040910</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeVeryLarge">
+Very large, active development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/slurm/analyses/14714866/languages.png">
+          <language color="FF8F00" percentage="68" id="42">
+C          </language>
+          <language color="EEE" percentage="17" id="52">
+Make          </language>
+          <language color="EEE" percentage="6" id="51">
+Autoconf          </language>
+          <language color="000000" percentage="9" id="">
+12 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl</name>
+          <nice_name>GNU General Public License v2.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

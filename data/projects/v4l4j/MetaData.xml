@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>55413</id>
+      <name>v4l4j</name>
+      <url>http://www.ohloh.net/p/v4l4j.xml</url>
+      <html_url>http://www.ohloh.net/p/v4l4j</html_url>
+      <created_at>2008-12-17T04:41:39Z</created_at>
+      <updated_at>2013-07-19T01:30:05Z</updated_at>
+      <description>Video4Linux4Java (v4l4j) is a GPL'd java package providing simple access to the capture interface of the Video4Linux (V4L) API from Java. 
+
+Using v4l4j, an application can:
+- retrieve information about a video device (video inputs, capture resolutions, image formats, video standards, tuners, ...),
+- capture frames from any V4L-supported devices, which includes USB/Firewire webcams, video capture cards and tuner cards,
+- access video controls, such as brightness, contrast, gain, ...
+- access and control tuners (get / set frequency, access to received signal strength, ...)</description>
+      <homepage_url>http://code.google.com/p/v4l4j</homepage_url>
+      <download_url>http://code.google.com/p/v4l4j/downloads/list</download_url>
+      <url_name>v4l4j</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17446/v4l4j_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17446/v4l4j_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14681864</analysis_id>
+      <tags>
+        <tag>capture</tag>
+        <tag>frame</tag>
+        <tag>video</tag>
+        <tag>linux</tag>
+        <tag>jpeg</tag>
+        <tag>mpeg</tag>
+        <tag>video4linux</tag>
+        <tag>java</tag>
+        <tag>mpg</tag>
+        <tag>stream</tag>
+        <tag>image</tag>
+      </tags>
+      <analysis>
+        <id>14681864</id>
+        <url>http://www.ohloh.net/analyses/14681864.xml</url>
+        <project_id>55413</project_id>
+        <updated_at>2013-07-19T01:30:04Z</updated_at>
+        <logged_at>2013-07-19T01:29:33Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>29640</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/v4l4j/analyses/14681864/languages.png">
+          <language color="FF8F00" percentage="66" id="42">
+C          </language>
+          <language color="9A63AD" percentage="26" id="5">
+Java          </language>
+          <language color="F35F1F" percentage="6" id="44">
+C++          </language>
+          <language color="000000" percentage="2" id="">
+3 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

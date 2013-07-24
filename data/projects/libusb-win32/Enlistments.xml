@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <items_returned>2</items_returned>
+  <items_available>2</items_available>
+  <first_item_position>0</first_item_position>
+  <result>
+    <enlistment>
+      <id>150878</id>
+      <project_id>37598</project_id>
+      <repository_id>148940</repository_id>
+      <repository>
+        <id>148940</id>
+        <type>SvnSyncRepository</type>
+        <url>https://libusb-win32.svn.sourceforge.net/svnroot/libusb-win32/trunk/</url>
+        <username></username>
+        <password></password>
+        <logged_at>2013-07-18T01:16:09Z</logged_at>
+        <commits>248</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+    <enlistment>
+      <id>150877</id>
+      <project_id>37598</project_id>
+      <repository_id>148939</repository_id>
+      <repository>
+        <id>148939</id>
+        <type>CvsRepository</type>
+        <url>:pserver:anonymous:@libusb-win32.cvs.sourceforge.net:/cvsroot/libusb-win32</url>
+        <module_name>libusb/</module_name>
+        <username>anonymous</username>
+        <password></password>
+        <logged_at>2013-07-18T01:16:05Z</logged_at>
+        <commits>145</commits>
+        <ohloh_job_status>success</ohloh_job_status>
+      </repository>
+    </enlistment>
+  </result>
+</response>

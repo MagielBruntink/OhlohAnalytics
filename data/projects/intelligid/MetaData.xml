@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>605307</id>
+      <name>IntelliGID GED RM ECM</name>
+      <url>http://www.ohloh.net/p/intelligid.xml</url>
+      <html_url>http://www.ohloh.net/p/intelligid</html_url>
+      <created_at>2012-09-17T20:13:13Z</created_at>
+      <updated_at>2013-06-28T01:42:58Z</updated_at>
+      <description>IntelliGID is an Open Cource Enterptise content management (ECM) developed by Doculibre.
+- Document Management
+- Record Management
+- Enterprise Search
+- Digital Assets Management
+- Workflows (Activiri)
+- Portail integration with Liferay</description>
+      <homepage_url>http://intelligid.sourceforge.net</homepage_url>
+      <download_url>http://sourceforge.net/project/showfiles.php?group_id=559857</download_url>
+      <url_name>intelligid</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/56970/Logo_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/56970/Logo_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14440080</analysis_id>
+      <tags>
+        <tag>enterprise_search</tag>
+        <tag>version_control</tag>
+        <tag>metadata</tag>
+        <tag>record_management</tag>
+        <tag>search_engine</tag>
+        <tag>fulltext_search</tag>
+        <tag>ecm</tag>
+        <tag>indexing</tag>
+        <tag>document_management</tag>
+        <tag>information_retrieval</tag>
+        <tag>workflow_engine</tag>
+        <tag>digital_asset_management</tag>
+        <tag>search</tag>
+      </tags>
+      <analysis>
+        <id>14440080</id>
+        <url>http://www.ohloh.net/analyses/14440080.xml</url>
+        <project_id>605307</project_id>
+        <updated_at>2013-07-21T06:50:18Z</updated_at>
+        <logged_at>2013-07-21T06:48:21Z</logged_at>
+        <min_month>2011-06-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>8</twelve_month_contributor_count>
+        <total_code_lines>242198</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeLarge">
+Large, active development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/intelligid/analyses/14440080/languages.png">
+          <language color="9A63AD" percentage="60" id="5">
+Java          </language>
+          <language color="493625" percentage="14" id="30">
+SQL          </language>
+          <language color="555555" percentage="11" id="3">
+XML          </language>
+          <language color="000000" percentage="15" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

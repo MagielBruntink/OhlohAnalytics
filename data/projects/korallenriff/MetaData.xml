@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>16021</id>
+      <name>Korallenriff</name>
+      <url>http://www.ohloh.net/p/korallenriff.xml</url>
+      <html_url>http://www.ohloh.net/p/korallenriff</html_url>
+      <created_at>2008-08-11T22:02:27Z</created_at>
+      <updated_at>2013-06-30T22:19:44Z</updated_at>
+      <description>Korallenriff is a software that collects input from different network sources and stores their data into one database. For example it can receive POP3 mail or can fetch NNTP groups and stores the received messages in a database. One can then -- for example -- use the database data within a website to display the latest postings of a newsgroup or to create an online mailinglist archive. Another possible use would be to build a blogging-software where you can post postings via eMail.</description>
+      <homepage_url>http://www.wendzel.de/?sub=softw&amp;ssub=korallenriff</homepage_url>
+      <download_url>https://sourceforge.net/project/showfiles.php?group_id=236591</download_url>
+      <url_name>korallenriff</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/17914/korallenriff_med.jpg</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/17914/korallenriff_small.jpg</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14487915</analysis_id>
+      <tags>
+        <tag>mysql</tag>
+        <tag>pop3</tag>
+        <tag>usenet</tag>
+        <tag>mailing</tag>
+        <tag>linux</tag>
+        <tag>bsd</tag>
+        <tag>mail</tag>
+        <tag>email</tag>
+        <tag>usenet_news</tag>
+        <tag>c</tag>
+        <tag>communications</tag>
+        <tag>mailwatch</tag>
+        <tag>posix</tag>
+        <tag>database</tag>
+        <tag>communication</tag>
+        <tag>ipv6</tag>
+        <tag>mailscanner</tag>
+        <tag>openbsd</tag>
+      </tags>
+      <analysis>
+        <id>14487915</id>
+        <url>http://www.ohloh.net/analyses/14487915.xml</url>
+        <project_id>16021</project_id>
+        <updated_at>2013-07-22T09:32:44Z</updated_at>
+        <logged_at>2013-07-22T09:32:26Z</logged_at>
+        <min_month>2008-08-01T00:00:00Z</min_month>
+        <max_month>2009-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>971</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/korallenriff/analyses/14487915/languages.png">
+          <language color="FF8F00" percentage="94" id="42">
+C          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>42</main_language_id>
+        <main_language_name>C</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl3_or_later</name>
+          <nice_name>GNU General Public License v3.0 or later</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

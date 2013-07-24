@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>485344</id>
+      <name>Xydra</name>
+      <url>http://www.ohloh.net/p/xydra.xml</url>
+      <html_url>http://www.ohloh.net/p/xydra</html_url>
+      <created_at>2010-09-14T15:09:19Z</created_at>
+      <updated_at>2013-07-22T04:15:44Z</updated_at>
+      <description>Xydra is a generic, embedabble application data model that runs seamlessly in Java (makes testing easy), on Google AppEngine (GAE/J), and also via Google Web Toolkit (GWT) as JavaScript in a browser.
+
+Features:
+ * Persistence (currently: in-memory, in GAE data store)
+ * Events (for all added, removed, or changed entites)
+ * Commands (which can be serialized, too)
+ * Transactions (over as many entities as you like)
+ * Versioning (including a full change log)
+ * Access Rights Management (with powerful resources hierarchies and nested user groups)
+ * Synchronisation of stat between client and server (in strict or relaxed mode)</description>
+      <homepage_url>http://xydra.org</homepage_url>
+      <download_url>http://code.google.com/p/xydra/wiki/Downloads</download_url>
+      <url_name>xydra</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/41631/Xydra-Logo-256x256_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/41631/Xydra-Logo-256x256_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating>5.0</average_rating>
+      <rating_count>1</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14725825</analysis_id>
+      <tags>
+        <tag>gaej</tag>
+        <tag>appengine</tag>
+        <tag>restapi</tag>
+        <tag>restful</tag>
+        <tag>synchronization</tag>
+        <tag>datastore</tag>
+        <tag>rest</tag>
+        <tag>ajax</tag>
+        <tag>cloud</tag>
+        <tag>appenginejava</tag>
+        <tag>appengine-java</tag>
+        <tag>gae</tag>
+        <tag>gwt</tag>
+      </tags>
+      <analysis>
+        <id>14725825</id>
+        <url>http://www.ohloh.net/analyses/14725825.xml</url>
+        <project_id>485344</project_id>
+        <updated_at>2013-07-22T04:15:43Z</updated_at>
+        <logged_at>2013-07-22T04:14:55Z</logged_at>
+        <min_month>2010-04-01T00:00:00Z</min_month>
+        <max_month>2013-07-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>160518</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/xydra/analyses/14725825/languages.png">
+          <language color="9A63AD" percentage="85" id="5">
+Java          </language>
+          <language color="000000" percentage="15" id="">
+7 Other          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>bsd</name>
+          <nice_name>BSD 4-clause (University of California-Specific)</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>465249</id>
+      <name>Libcoffee.net</name>
+      <url>http://www.ohloh.net/p/libcoffee.xml</url>
+      <html_url>http://www.ohloh.net/p/libcoffee</html_url>
+      <created_at>2009-10-19T15:44:11Z</created_at>
+      <updated_at>2013-06-29T16:43:41Z</updated_at>
+      <description>This is the codebase used for the blog application at http://www.libcoffee.net/. Libcoffee.net is written based on the Django framework, and is intended to be run on a Google App Engine account.</description>
+      <homepage_url>http://www.libcoffee.net</homepage_url>
+      <download_url>http://github.com/zanglang/libcoffee</download_url>
+      <url_name>libcoffee</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/1174/python_library_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14462952</analysis_id>
+      <tags>
+        <tag>blog</tag>
+        <tag>python</tag>
+        <tag>appengine</tag>
+        <tag>django</tag>
+      </tags>
+      <analysis>
+        <id>14462952</id>
+        <url>http://www.ohloh.net/analyses/14462952.xml</url>
+        <project_id>465249</project_id>
+        <updated_at>2013-07-23T07:08:10Z</updated_at>
+        <logged_at>2013-07-23T07:08:08Z</logged_at>
+        <min_month>2009-09-01T00:00:00Z</min_month>
+        <max_month>2013-03-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>2</twelve_month_contributor_count>
+        <total_code_lines>920</total_code_lines>
+        <factoids>
+          <factoid type="FactoidActivityIncreasing">
+Increasing Y-O-Y development activity          </factoid>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeSmall">
+Small development team          </factoid>
+          <factoid type="FactoidCommentsLow">
+Few source code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/libcoffee/analyses/14462952/languages.png">
+          <language color="4A246B" percentage="66" id="9">
+Python          </language>
+          <language color="47A400" percentage="24" id="1">
+HTML          </language>
+          <language color="FF1A00" percentage="9" id="4">
+CSS          </language>
+          <language color="000000" percentage="1" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>9</main_language_id>
+        <main_language_name>Python</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>ccbysa3-0</name>
+          <nice_name>Creative Commons Attribution Share Alike 3.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

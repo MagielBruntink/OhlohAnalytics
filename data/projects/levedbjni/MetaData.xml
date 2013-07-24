@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>588858</id>
+      <name>leveldbjni</name>
+      <url>http://www.ohloh.net/p/levedbjni.xml</url>
+      <html_url>http://www.ohloh.net/p/levedbjni</html_url>
+      <created_at>2012-02-03T15:18:37Z</created_at>
+      <updated_at>2013-06-28T01:24:06Z</updated_at>
+      <description>Java JNI wrapper for the C++ LevelDB library.</description>
+      <homepage_url>https://github.com/fusesource/leveldbjni</homepage_url>
+      <download_url></download_url>
+      <url_name>levedbjni</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14439939</analysis_id>
+      <analysis>
+        <id>14439939</id>
+        <url>http://www.ohloh.net/analyses/14439939.xml</url>
+        <project_id>588858</project_id>
+        <updated_at>2013-07-23T08:47:04Z</updated_at>
+        <logged_at>2013-07-23T08:47:01Z</logged_at>
+        <min_month>2011-07-01T00:00:00Z</min_month>
+        <max_month>2013-05-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>4</twelve_month_contributor_count>
+        <total_code_lines>39447</total_code_lines>
+        <factoids>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidAgeEstablished">
+Young, but established codebase          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/levedbjni/analyses/14439939/languages.png">
+          <language color="EEE" percentage="58" id="51">
+Autoconf          </language>
+          <language color="777777" percentage="29" id="11">
+shell script          </language>
+          <language color="9A63AD" percentage="8" id="5">
+Java          </language>
+          <language color="000000" percentage="5" id="">
+4 Other          </language>
+        </languages>
+        <main_language_id>11</main_language_id>
+        <main_language_name>shell script</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>apache_2</name>
+          <nice_name>Apache License 2.0</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

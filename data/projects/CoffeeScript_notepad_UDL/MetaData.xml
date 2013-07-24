@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>585962</id>
+      <name>CoffeeScript highlighting for Notepad++</name>
+      <url>http://www.ohloh.net/p/CoffeeScript_notepad_UDL.xml</url>
+      <html_url>http://www.ohloh.net/p/CoffeeScript_notepad_UDL</html_url>
+      <created_at>2011-09-03T07:25:55Z</created_at>
+      <updated_at>2013-07-23T21:35:36Z</updated_at>
+      <description>Will syntax highlight files with extensions of coffee, coco, and CAKEFILE using Notepad++'s user-defined language(within its limits).
+
+Deployment
+
+If you don't have an userDefineLang.xml file already, you can drop this file among your other configuration file, in the Notepad++ Install Folder. It should be named userDefineLang.xml.
+Otherwise, open both the existing and new file.
+Select all of the new file, copy, and paste at the end of the current file.
+This should have created a spurious pair in the middle, each tag on a line by itself. Remove these two consecutive lines.
+Close Notepad++.
+Your Languages menu should show the newly added language at the bottom, next time you launch Notepad++.</description>
+      <homepage_url>https://github.com/blakmatrix/CoffeeScript_notepad_UDL</homepage_url>
+      <download_url>https://github.com/blakmatrix/CoffeeScript_notepad_UDL</download_url>
+      <url_name>CoffeeScript_notepad_UDL</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14751482</analysis_id>
+      <analysis>
+        <id>14751482</id>
+        <url>http://www.ohloh.net/analyses/14751482.xml</url>
+        <project_id>585962</project_id>
+        <updated_at>2013-07-23T21:35:35Z</updated_at>
+        <logged_at>2013-07-23T21:35:12Z</logged_at>
+        <min_month>2011-08-01T00:00:00Z</min_month>
+        <max_month>2011-08-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>37</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsHigh">
+Well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/CoffeeScript_notepad_UDL/analyses/14751482/languages.png">
+          <language color="555555" percentage="100" id="3">
+XML          </language>
+        </languages>
+        <main_language_id>3</main_language_id>
+        <main_language_name>XML</main_language_name>
+      </analysis>
+      <licenses>
+      </licenses>
+    </project>
+  </result>
+</response>

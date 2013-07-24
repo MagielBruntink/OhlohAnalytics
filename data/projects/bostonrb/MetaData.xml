@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>342656</id>
+      <name>Boston.rb</name>
+      <url>http://www.ohloh.net/p/bostonrb.xml</url>
+      <html_url>http://www.ohloh.net/p/bostonrb</html_url>
+      <created_at>2009-05-24T15:21:48Z</created_at>
+      <updated_at>2013-07-11T08:21:18Z</updated_at>
+      <description>This is the source code to http://bostonrb.org, a Rails app which helps Boston Rubyists communicate.
+
+It is open source under the MIT license.</description>
+      <homepage_url>http://github.com/bostonrb/bostonrb</homepage_url>
+      <download_url>http://github.com/bostonrb/bostonrb</download_url>
+      <url_name>bostonrb</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14586457</analysis_id>
+      <analysis>
+        <id>14586457</id>
+        <url>http://www.ohloh.net/analyses/14586457.xml</url>
+        <project_id>342656</project_id>
+        <updated_at>2013-07-23T07:04:33Z</updated_at>
+        <logged_at>2013-07-23T07:04:31Z</logged_at>
+        <min_month>2008-05-01T00:00:00Z</min_month>
+        <max_month>2013-06-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>6</twelve_month_contributor_count>
+        <total_code_lines>2262</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeVeryOld">
+Mature, well-established codebase          </factoid>
+          <factoid type="FactoidTeamSizeAverage">
+Average size development team          </factoid>
+          <factoid type="FactoidCommentsAverage">
+Average number of code comments          </factoid>
+          <factoid type="FactoidActivityDecreasing">
+Decreasing Y-O-Y development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/bostonrb/analyses/14586457/languages.png">
+          <language color="A40011" percentage="72" id="12">
+Ruby          </language>
+          <language color="FF1A00" percentage="12" id="4">
+CSS          </language>
+          <language color="555555" percentage="10" id="3">
+XML          </language>
+          <language color="000000" percentage="6" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>12</main_language_id>
+        <main_language_name>Ruby</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>mit</name>
+          <nice_name>MIT License</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

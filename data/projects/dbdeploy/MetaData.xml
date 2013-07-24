@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>324420</id>
+      <name>dbdeploy</name>
+      <url>http://www.ohloh.net/p/dbdeploy.xml</url>
+      <html_url>http://www.ohloh.net/p/dbdeploy</html_url>
+      <created_at>2009-04-12T14:10:28Z</created_at>
+      <updated_at>2013-07-23T00:05:40Z</updated_at>
+      <description>Manages the deployment of numbered change scripts to a SQL database, using a simple table in the database to track applied changes.</description>
+      <homepage_url>http://code.google.com/p/dbdeploy/</homepage_url>
+      <download_url>http://code.google.com/p/dbdeploy/downloads/list</download_url>
+      <url_name>dbdeploy</url_name>
+      <medium_logo_url>no_logo.png</medium_logo_url>
+      <small_logo_url>no_logo_32.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14735186</analysis_id>
+      <analysis>
+        <id>14735186</id>
+        <url>http://www.ohloh.net/analyses/14735186.xml</url>
+        <project_id>324420</project_id>
+        <updated_at>2013-07-23T00:05:40Z</updated_at>
+        <logged_at>2013-07-23T00:05:08Z</logged_at>
+        <min_month>2006-05-01T00:00:00Z</min_month>
+        <max_month>2011-04-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>3128</total_code_lines>
+        <factoids>
+          <factoid type="FactoidAgeOld">
+Well-established codebase          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidCommentsVeryLow">
+Very few source code comments          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/dbdeploy/analyses/14735186/languages.png">
+          <language color="9A63AD" percentage="76" id="5">
+Java          </language>
+          <language color="555555" percentage="16" id="3">
+XML          </language>
+          <language color="493625" percentage="6" id="30">
+SQL          </language>
+          <language color="777777" percentage="2" id="11">
+shell script          </language>
+        </languages>
+        <main_language_id>5</main_language_id>
+        <main_language_name>Java</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>lgpl3</name>
+          <nice_name>GNU Lesser General Public License v3.0 only</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>

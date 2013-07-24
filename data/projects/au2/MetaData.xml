@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <status>success</status>
+  <result>
+    <project>
+      <id>25719</id>
+      <name>AU2</name>
+      <url>http://www.ohloh.net/p/au2.xml</url>
+      <html_url>http://www.ohloh.net/p/au2</html_url>
+      <created_at>2008-10-19T22:16:25Z</created_at>
+      <updated_at>2013-07-01T08:57:55Z</updated_at>
+      <description>Authoring tool that can automate generating text files like CSS, HTML, PHP, JS.
+AU2 adds functionality that is may not be present in some file types (for example: variables in CSS).
+
+After editing file, run AU2 (this can be done automatically by your editor) that will compile your file to proper output file.</description>
+      <homepage_url>http://code.google.com/p/au2/</homepage_url>
+      <download_url>http://code.google.com/p/au2/downloads/list</download_url>
+      <url_name>au2</url_name>
+      <medium_logo_url>http://cloud.ohloh.net/attachments/10412/au2_med.png</medium_logo_url>
+      <small_logo_url>http://cloud.ohloh.net/attachments/10412/au2_small.png</small_logo_url>
+      <user_count>1</user_count>
+      <average_rating></average_rating>
+      <rating_count>0</rating_count>
+      <review_count>0</review_count>
+      <analysis_id>14496893</analysis_id>
+      <tags>
+        <tag>php</tag>
+        <tag>interpreter</tag>
+      </tags>
+      <analysis>
+        <id>14496893</id>
+        <url>http://www.ohloh.net/analyses/14496893.xml</url>
+        <project_id>25719</project_id>
+        <updated_at>2013-07-20T13:46:02Z</updated_at>
+        <logged_at>2013-07-20T13:45:59Z</logged_at>
+        <min_month>2008-10-01T00:00:00Z</min_month>
+        <max_month>2008-11-01T00:00:00Z</max_month>
+        <twelve_month_contributor_count>0</twelve_month_contributor_count>
+        <total_code_lines>401</total_code_lines>
+        <factoids>
+          <factoid type="FactoidCommentsVeryHigh">
+Very well-commented source code          </factoid>
+          <factoid type="FactoidAgeYoung">
+Short source control history          </factoid>
+          <factoid type="FactoidActivityStable">
+Stable Y-O-Y development activity          </factoid>
+          <factoid type="FactoidTeamSizeZero">
+No recent development activity          </factoid>
+        </factoids>
+        <languages graph_url="http://www.ohloh.net/p/au2/analyses/14496893/languages.png">
+          <language color="356AA0" percentage="95" id="2">
+PHP          </language>
+          <language color="000000" percentage="5" id="">
+2 Other          </language>
+        </languages>
+        <main_language_id>2</main_language_id>
+        <main_language_name>PHP</main_language_name>
+      </analysis>
+      <licenses>
+        <license>
+          <name>gpl_classpath</name>
+          <nice_name>GPL + Classpath Exception</nice_name>
+        </license>
+      </licenses>
+    </project>
+  </result>
+</response>
