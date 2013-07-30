@@ -6,8 +6,8 @@ options(scipen=1000)
 
 theme_set(theme_grey(base_size = 18))
 
-analysis_dir <- "~/git/OhlohAnalytics/analysis/esamir/"
-output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/FLOSS project evolution and failure"
+analysis_dir <- "~/git/OhlohAnalytics/analysis"
+output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/FOSS project evolution and failure"
 
 monthlyFactsByYear <- read.csv(file=paste(analysis_dir,"allYearlyFacts.csv",sep="/"),header=TRUE,sep=",")
 projectDeath <- read.csv(file=paste(analysis_dir, "projectDeathStatus.csv",sep="/"),header=TRUE,sep=",")
