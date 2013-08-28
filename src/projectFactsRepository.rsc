@@ -13,6 +13,7 @@ private str SizeFactsFileName = "SizeFacts.xml";
 private str ActivityFactsFileName = "ActivityFacts.xml";
 
 private str RepositoryTypeSVN = "SvnRepository";
+private str RepositoryTypeSVNSync = "SvnSyncRepository";
 
 public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
@@ -112,7 +113,7 @@ public repositoriesRel findInvalidSVNRepositories(repositoriesRel repositoryFact
 	return {
 		<projectName, repositoryType, repositoryURL> |
 		<str projectName, str repositoryType, str repositoryURL> <- repositoryFacts,
-		repositoryType := RepositoryTypeSVN,
+		repositoryType := RepositoryTypeSVN || repositoryType := RepositoryTypeSVNSync,
 		!(
 		 /.*\/trunk\/?/i      := repositoryURL ||
 		 /.*\/head\/?/i       := repositoryURL ||
