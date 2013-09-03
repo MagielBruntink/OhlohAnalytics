@@ -38,6 +38,13 @@ public void doProjectMetaDataAnalyses () {
 	writeValueToFile(OAL,"projects-tags.oal");
 }
 
+public void exportRepositoryFacts () {
+	logToConsole("exportRepositoryFacts", "Exporting repository facts for all projects...");
+	repoFacts=getRepositoryFactsForProjects(getProjectNamesInRepository());
+	writeFactsToCSV(repoFacts,"projectRepositoryFacts.csv");
+}
+
+
 public void writeFactsToCSV(facts,str fileName) {
 	writeCSV(facts,
 			 OutputFilesDirectory + fileName,
