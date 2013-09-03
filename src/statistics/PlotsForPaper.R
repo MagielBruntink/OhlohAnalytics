@@ -6,13 +6,21 @@ options(scipen=1000)
 
 theme_set(theme_grey(base_size = 18))
 
-analysis_dir <- "~/git/OhlohAnalytics/analysis"
-output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/FOSS project evolution and failure"
+analysis_dir <- "~/git/OhlohAnalytics/analysis/hossin"
+output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Future of Understanding Software"
 
-monthlyFactsByYear <- read.csv(file=paste(analysis_dir,"allYearlyFacts.csv",sep="/"),header=TRUE,sep=",")
+monthlyFactsNoCutOff <- read.csv(file=paste(analysis_dir,"allMonthlyFacts.csv",sep="/"),header=TRUE,sep=",")
+monthlyFactsByYearNoCutOff <- read.csv(file=paste(analysis_dir,"allYearlyFacts.csv",sep="/"),header=TRUE,sep=",")
+
+cutOffYear <- 2012
+
+monthlyFacts <- subset(monthlyFactsNoCutOff,subset=year<=cutOffYear)
+monthlyFactsByYear <- subset(monthlyFactsByYearNoCutOff,subset=year<=cutOffYear)
+
 projectDeath <- read.csv(file=paste(analysis_dir, "projectDeathStatus.csv",sep="/"),header=TRUE,sep=",")
+projectRepositoryFacts <- read.csv(file=paste(analysis_dir, "projectRepositoryFacts.csv",sep="/"),header=TRUE,sep=",")
 
-totalLOC <- sum(as.numeric(subset(monthlyFactsByYear,year==2012)$max_loc_total))
+totalLOC <- sum(as.numeric(subset(monthlyFactsByYear,year==cutOffYear)$max_loc_total))
 
 ### Boxplots
 boxPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE,statsDetailLevel=2) {
@@ -40,7 +48,7 @@ boxPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE,statsDetailLevel=
                                           "Out. =", outlierCount,
                                           "IQR =", iqr,
                                           sep=" ")),
-              size = 3, vjust = -1.5)
+              size = 4, vjust = -1.5)
   }
   
   if(statsDetailLevel==1) {
@@ -129,6 +137,24 @@ boxPlot(dataToPlot,
         "boxplots-codegrowth-indexed-by-age-20-years.pdf",
         TRUE,0)
 
+pdf(file=paste(output_dir,"hist-codegrowth-indexed-year.pdf",sep="/"))
+hist(monthlyFactsByYear$prod_loc_growth_factor, xlab="Code Growth indexed (CGi)",
+     xlim=c(1,2),
+     ylab="Probability", 
+     main=paste("Probability density of relative code growth in a year.", "N =", length(monthlyFactsByYear$projectName), sep=" " ),
+     freq=FALSE,
+     breaks=20)
+dev.off()
+
+pdf(file=paste(output_dir,"hist-codegrowth-indexed-month.pdf",sep="/"))
+hist(monthlyFacts$loc_growth_factor, xlab="Code Growth indexed (CGi)",
+     #xlim=c(1,2),
+     ylab="Probability", 
+     main=paste("Probability density of relative code growth in a month.", "N =", length(monthlyFacts$projectName), sep=" " ),
+     freq=FALSE,
+     breaks=20)
+dev.off()
+
 
 ######### CODE GROWTH ABSOLUTE
 
@@ -152,6 +178,25 @@ boxPlot(dataToPlot,
         "Code Growth absolute (CGa)",
         "boxplots-codegrowth-absolute.pdf-by-age-5-years.pdf",
         TRUE,0)
+
+pdf(file=paste(output_dir,"hist-codegrowth-absolute-year.pdf",sep="/"))
+hist(monthlyFactsByYear$sum_abs_loc_growth, xlab="Code Growth absolute (CGa)",
+     #xlim=c(1,2),
+     ylab="Probability", 
+     main=paste("Probability density of absolute code growth in a year.", "N =", length(monthlyFactsByYear$projectName), sep=" " ),
+     freq=FALSE,
+     breaks=20)
+dev.off()
+
+pdf(file=paste(output_dir,"hist-codegrowth-absolute-month.pdf",sep="/"))
+hist(monthlyFacts$abs_loc_growth, xlab="Code Growth absolute (CGa)",
+     #xlim=c(1,2),
+     ylab="Probability", 
+     main=paste("Probability density of absolute code growth in a month.", "N =", length(monthlyFacts$projectName), sep=" " ),
+     freq=FALSE,
+     breaks=20)
+dev.off()
+
 
 ######### TEAM ACTIVITY
 
@@ -198,6 +243,17 @@ boxPlot(dataToPlot,
         "Team Size (TS)",
         "boxplots-teamsize-by-age-5-years.pdf",
         TRUE,0)
+
+### Plot of project ages in 2012
+pdf(file=paste(output_dir,"hist-age-in-2012.pdf",sep="/"))
+dataToPlot <- subset(monthlyFactsByYear,subset=year==2012,select=age)
+hist(dataToPlot$age, xlab="Project age in 2012",
+     ##xlim=c(0,40),
+     ylab="Number of occurrences", 
+     main=paste("Histogram of project ages in 2012, N =", length(dataToPlot$age), "projects, median =", median(dataToPlot$age), sep=" " ),
+     freq=TRUE,
+     breaks=40)
+dev.off()
 
 ### Plot of project survival curve
 survivalCurve <- survfit(Surv(age,status) ~ 1, data=projectDeath)
@@ -298,13 +354,13 @@ boxPlot(dataToPlot,
 
 ######### EXAMPLES
 
-dataSelection = subset(monthlyFactsByYear,projectName %in% c("apache","firefox","emacs","gcc","mysql"))
+dataSelection = subset(monthlyFactsByYear,subset=projectName %in% c("apache","firefox","emacs","gcc","mysql") & age > 5)
 dataToPlot <- data.frame(xData=dataSelection$projectName,yData=dataSelection$prod_loc_growth_factor)
 boxPlot(dataToPlot,
         "",
         "Code Growth indexed (CGi)",
         "boxplot-codegrowth-indexed-examples.pdf",
-        TRUE,0)
+        FALSE,0)
 
 dataToPlot <- data.frame(xData=dataSelection$projectName,yData=dataSelection$sum_abs_loc_growth)
 boxPlot(dataToPlot,
