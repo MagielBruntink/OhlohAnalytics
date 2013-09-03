@@ -3,6 +3,7 @@ module projectFactsRepository
 import Prelude;
 import lang::xml::DOM;
 import Logging;
+import Caching;
 
 private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
 private loc ProjectNamesListFile = LocalOhlohProjectsRepository + "ProjectNamesList.txt";
@@ -296,6 +297,11 @@ private Node getSizeFactsDOM(str projectName) {
 }
 
 private Node getXMLContentsDOM(str projectName, str fileName) {
+	return getValueFromCache("projects" + "/" + projectName + "/" + fileName + ".cache",
+		   			         #Node, Node () {return uncachedGetXMLContentsDOM(projectName, fileName);});
+}
+
+private Node uncachedGetXMLContentsDOM(str projectName, str fileName) {
 	loc file = LocalOhlohProjectsRepository + "projects" + projectName + fileName;
 	str XML = readFile(file);
 	if (!validateXML(XML)) throw "getXMLContentsDOM: Validation of XML contents failed while reading <fileName> for project: <projectName>";
