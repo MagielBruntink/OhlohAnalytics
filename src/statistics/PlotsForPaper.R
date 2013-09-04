@@ -6,8 +6,8 @@ options(scipen=1000)
 
 theme_set(theme_grey(base_size = 18))
 
-analysis_dir <- "~/git/OhlohAnalytics/analysis/hossin"
-output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Future of Understanding Software"
+analysis_dir <- "~/git/OhlohAnalytics/analysis/searhus"
+output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/FOSS project evolution and failure"
 
 monthlyFactsNoCutOff <- read.csv(file=paste(analysis_dir,"allMonthlyFacts.csv",sep="/"),header=TRUE,sep=",")
 monthlyFactsByYearNoCutOff <- read.csv(file=paste(analysis_dir,"allYearlyFacts.csv",sep="/"),header=TRUE,sep=",")

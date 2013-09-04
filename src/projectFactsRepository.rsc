@@ -91,7 +91,7 @@ public factsMap mergeFactsForProjects (list[str] projectNames) {
                    maybeGetActivityFacts(activityFacts, key)
              |
              str projectName <- projectNames,
-             size(printlnExp("Working on project: " + projectName)) > 0,
+             logToConsole("mergeFactsForProjects", "INFO merging facts for project: <projectName>."),
              factsMap sizeFacts := getSizeFacts(projectName),
              factsMap activityFacts := getActivityFacts(projectName),
              factsKey key <- domain(activityFacts) + domain(sizeFacts),

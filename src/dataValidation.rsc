@@ -14,11 +14,10 @@ private str RepositoryTypeSVN = "SvnRepository";
 private str RepositoryTypeSVNSync = "SvnSyncRepository";
 
 
-public void validateDataPhase1 () {
+public list[str] validateDataOnProjectLevel () {
 
 	list[str] projectsRemaining = getProjectNamesInRepository();
 	
-	logToFile(logFile,"validateData","Phase 1 data validation: project level");
 	logToFile(logFile,"validateData","Starting set of projects: " + toString(size(projectsRemaining)));
 	
 	splitData = filterProjectsWithBadRepositoryConfiguration(projectsRemaining);
@@ -27,15 +26,9 @@ public void validateDataPhase1 () {
 	writeTextValueFile(validationResultsDir + "excluded-projects-due-to-bad-repository-config.txt", projectsExcluded);
 	logToFile(logFile,"validateData","Projects with bad repository configuration: " + toString(size(projectsExcluded)));
 	logToFile(logFile,"validateData","Projects remaining: " + toString(size(projectsRemaining)));
-	
-	splitData = filterProjectsWithMissingDataFiles(projectsRemaining);
-	projectsRemaining = splitData[0];
-	projectsExcluded = splitData[1];
-	writeTextValueFile(validationResultsDir + "excluded-projects-due-to-missing-data-files.txt", projectsExcluded);
-	logToFile(logFile,"validateData","Projects with missing data files: " + toString(size(projectsExcluded)));
-	logToFile(logFile,"validateData","Projects remaining: " + toString(size(projectsRemaining)));
-	
-	writeTextValueFile(validationResultsDir + "projects-remaining-after-phase-1-validation.txt", projectsRemaining);
+		
+	writeTextValueFile(validationResultsDir + "post-project-level-validation-projects-remaining.value", projectsRemaining);
+	return projectsRemaining;
 }
 
 public splitDataTuple filterProjectsWithBadRepositoryConfiguration(list[str] projects) {
