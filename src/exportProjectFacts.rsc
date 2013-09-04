@@ -9,29 +9,39 @@ import util::Maybe;
 import IO;
 import analyzeProjectDeath;
 import analyzeProjectMetaData;
+import dataValidation;
 
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
-public void exportFactsForAllProjects() {
-	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
-	monthlyFactsMap OhlohFacts=getOhlohFactsFromCache();
-	
-	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
-	monthlyFactsMap allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
-	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
-	
-	logToConsole("exportFactsForAllProject", "Getting yearly growth facts for all projects from cache...");
-	yearlyFactsMap allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
-	logToConsole("exportFactsForAllProject", "Exporting all yearly facts to CSV for all projects: " + "allYearlyFacts.csv");
-	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
-	
-	logToConsole("exportFactsForAllProject", "Calculating project activity for all projects...");
-	projectActivityStats=getProjectActivityStatus(allYearlyFacts);
-	logToConsole("exportFactsForAllProject", "Calculating project death events for all projects...");
-	projectDeathStats=getProjectDeathStatus(projectActivityStats, "2012");
-	logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
-	writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
+// broken
+//public void exportFactsForAllProjects() {
+//	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
+//	monthlyFactsMap OhlohFacts=getOhlohFactsFromCache();
+//	
+//	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
+//	monthlyFactsMap allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
+//	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
+//	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
+//	
+//	logToConsole("exportFactsForAllProject", "Getting yearly growth facts for all projects from cache...");
+//	yearlyFactsMap allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
+//	logToConsole("exportFactsForAllProject", "Exporting all yearly facts to CSV for all projects: " + "allYearlyFacts.csv");
+//	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
+//	
+//	logToConsole("exportFactsForAllProject", "Calculating project activity for all projects...");
+//	projectActivityStats=getProjectActivityStatus(allYearlyFacts);
+//	logToConsole("exportFactsForAllProject", "Calculating project death events for all projects...");
+//	projectDeathStats=getProjectDeathStatus(projectActivityStats, "2012");
+//	logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
+//	writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
+//}
+
+public void validateAndOutputFacts() {
+	logToConsole("validateAndOutputFacts", "Validating all data in repository on project level...");
+	remainingProjects = validateDataOnProjectLevel();
+	logToConsole("validateAndOutputFacts", "Obtaining all merged facts form repository...");
+	facts = mergeFactsForProjects(remainingProjects);
+	writeFactsMapToCSV(facts, "pre-monthly-validation-facts.csv");
 }
 
 public void doProjectMetaDataAnalyses () {
@@ -44,13 +54,6 @@ public void exportRepositoryFacts () {
 	logToConsole("exportRepositoryFacts", "Exporting repository facts for all projects...");
 	repoFacts=getRepositoryFactsForProjects(getProjectNamesInRepository());
 	writeFactsToCSV(repoFacts,"projectRepositoryFacts.csv");
-}
-
-
-public void writeFactsToCSV(facts,str fileName) {
-	writeCSV(facts,
-			 OutputFilesDirectory + fileName,
-			 ("separator" : ","));
 }
 
 public void writeValueToFile(v, str fileName) {

@@ -18,23 +18,23 @@ data yearlyFact =
 
 alias yearlyFactsMap = map[factsKey, set[yearlyFact]];
     
-public monthlyFactsMap getOhlohFactsFromCache() {
-	return getValueFromCache("OhlohFactsMap", #monthlyFactsMap, mergeFactsForAllProjects);
+public factsMap getOhlohFactsFromCache() {
+	return getValueFromCache("OhlohFactsMap", #factsMap, mergeFactsForAllProjects);
 }
 
-public monthlyFactsMap getMonthlyFactsFromCache(monthlyFactsMap OhlohFacts) {
-	return getValueFromCache("monthlyFactsMap",
-							 #monthlyFactsMap,
-							 monthlyFactsMap () {return addMonthlyGrowthFacts(OhlohFacts);});
+public factsMap getMonthlyFactsFromCache(factsMap OhlohFacts) {
+	return getValueFromCache("factsMap",
+							 #factsMap,
+							 factsMap () {return addMonthlyGrowthFacts(OhlohFacts);});
 }
 
-public yearlyFactsMap getYearlyFactsFromCache(monthlyFactsMap monthlyFacts) {
+public yearlyFactsMap getYearlyFactsFromCache(factsMap monthlyFacts) {
 	return getValueFromCache("yearlyFactsMap",
 							#yearlyFactsMap,
 							yearlyFactsMap () {return groupMonthlyFactsByYear(monthlyFacts);});
 }
 
-public monthlyFactsMap addMonthlyGrowthFacts(monthlyFactsMap OhlohFacts) {
+public factsMap addMonthlyGrowthFacts(factsMap OhlohFacts) {
 
 	return (
 		<projectName,year,month> :
@@ -55,7 +55,7 @@ public monthlyFactsMap addMonthlyGrowthFacts(monthlyFactsMap OhlohFacts) {
 	);
 }
 
-public yearlyFactsMap groupMonthlyFactsByYear(monthlyFactsMap monthlyFacts)
+public yearlyFactsMap groupMonthlyFactsByYear(factsMap monthlyFacts)
 {
 	projectNamesYearsMonths = domain(monthlyFacts);
 	projectNamesYears = projectNamesYearsMonths<0,1>;
