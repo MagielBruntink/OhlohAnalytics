@@ -8,7 +8,7 @@ import ValueIO;
 alias splitDataTuple = tuple[list[str] goodData, list[str] badData]; 
 
 private	loc logFile = openLogFile("data-validation-log");
-private loc validationResultsDir = |project://OhlohAnalytics/validation|;
+public loc validationResultsDir = |project://OhlohAnalytics/validation|;
 
 private str RepositoryTypeSVN = "SvnRepository";
 private str RepositoryTypeSVNSync = "SvnSyncRepository";

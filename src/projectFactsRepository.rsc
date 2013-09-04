@@ -26,67 +26,109 @@ alias repositoriesRel = rel[str projectName, str repositoryType, str repositoryU
 
 alias metaDataRel = rel[str projectName, str elementValue];
 
-alias factsKey = tuple[str projectName, str year, str month];
 
-data monthlyFact =
-		    loc_added_fact(Maybe[num] i) |
-		    loc_deleted_fact(Maybe[num] i) |
-		    comments_added_fact(Maybe[num] i) |
-		    comments_deleted_fact(Maybe[num] i) |
-		    blanks_added_fact(Maybe[num] i) |
-		    blanks_deleted_fact(Maybe[num] i) |
-		    commits_fact(Maybe[num] i) |
-		    contributors_fact(Maybe[num] i) |
-		    loc_fact(Maybe[num] i) |
-		    comments_fact(Maybe[num] i) |
-		    blanks_fact(Maybe[num] i) |
-		    comment_ratio_fact(Maybe[num] r) |
-		    cumulative_commits_fact(Maybe[num] i) |
-		    man_months_fact(Maybe[num] i) |
-		    loc_growth_absolute_fact(Maybe[num] i) |
-		    loc_growth_factor_fact(Maybe[num] r);
-		    
-alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
+alias maybeFacts = map[maybeFactKey, Maybe[value]];
+alias monthlyFactsKey = tuple[str projectName, str year, str month];
+alias monthlyFactsMap = map[monthlyFactsKey, maybeFacts];
+
+public alias maybeFactKey = str;
+public maybeFactKey project_name_fact        = "project_name_fact";
+public maybeFactKey year_fact    			 = "year_fact";
+public maybeFactKey month_fact   			 = "month_fact";
+public maybeFactKey loc_added_fact           = "loc_added_fact";
+public maybeFactKey loc_deleted_fact         = "loc_deleted_fact";
+public maybeFactKey comments_added_fact      = "comments_added_fact";
+public maybeFactKey comments_deleted_fact    = "comments_deleted_fact";
+public maybeFactKey blanks_added_fact        = "blanks_added_fact";
+public maybeFactKey blanks_deleted_fact      = "blanks_deleted_fact";
+public maybeFactKey commits_fact             = "commits_fact";
+public maybeFactKey contributors_fact        = "contributors_fact";
+public maybeFactKey loc_fact                 = "loc_fact";
+public maybeFactKey comments_fact            = "comments_fact";
+public maybeFactKey blanks_fact              = "blanks_fact";
+public maybeFactKey comment_ratio_fact       = "comment_ratio_fact";
+public maybeFactKey cumulative_commits_fact  = "cumulative_commits_fact";
+public maybeFactKey man_months_fact          = "man_months_fact";
+public maybeFactKey loc_growth_absolute_fact = "loc_growth_absolute_fact";
+public maybeFactKey loc_growth_factor_fact   = "loc_growth_factor_fact";
+
+public list[maybeFactKey] identificationFactKeys = [
+			project_name_fact,
+		    year_fact,
+		    month_fact
+		   ];
+
+public list[maybeFactKey] activityFactKeys = [
+			loc_added_fact,
+		    loc_deleted_fact,
+		    comments_added_fact,
+		    comments_deleted_fact,
+		    blanks_added_fact,
+		    blanks_deleted_fact,
+		    commits_fact,
+		    contributors_fact
+		   ];
+		   
+public list[maybeFactKey] sizeFactKeys = [
+			loc_fact,
+		    comments_fact,
+		    blanks_fact,
+		    comment_ratio_fact,
+		    cumulative_commits_fact,
+		    man_months_fact
+		   ];
+		   
+public list[maybeFactKey] growthFactKeys = [
+			loc_growth_absolute_fact,
+		    loc_growth_factor_fact
+		   ];
+
 
 public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
 
-     return (key : maybeGetSizeFacts(sizeFacts, key) +
+     return (key : (project_name_fact : just(project), year_fact : just(year), month_fact : just(month)) +
+     			   maybeGetSizeFacts(sizeFacts, key) +
                    maybeGetActivityFacts(activityFacts, key)
              |
              str projectName <- projectNames,
+             size(printlnExp("Working on project: " + projectName)) > 0,
              monthlyFactsMap sizeFacts := getSizeFacts(projectName),
              monthlyFactsMap activityFacts := getActivityFacts(projectName),
-             factsKey key <- domain(activityFacts) + domain(sizeFacts)
+             monthlyFactsKey key <- domain(activityFacts) + domain(sizeFacts),
+             <project,year,month> := key
             );
 }
 
-private set[monthlyFact] maybeGetSizeFacts(monthlyFactsMap sizeFacts, factsKey key) {
-	if(key in sizeFacts) {
-		return sizeFacts[key];
-	}
-	else {
-		return {loc_fact(nothing()),
-			    comments_fact(nothing()),
-			    blanks_fact(nothing()),
-			    comment_ratio_fact(nothing()),
-			    cumulative_commits_fact(nothing()),
-			    man_months_fact(nothing())};
+private map[maybeFactKey, Maybe[num]] maybeGetActivityFacts(monthlyFactsMap activityFacts, monthlyFactsKey key) {
+	switch (maybeGetFromMap(activityFacts, key)) {
+		case nothing():
+				return (activityFactKey : nothing()
+			    |
+				activityFactKey <- activityFactKeys);
+
+		case just(maybeFacts):		
+			return maybeFacts;
 	}
 }
 
-private set[monthlyFact] maybeGetActivityFacts(monthlyFactsMap activityFacts, factsKey key) {
-	if(key in activityFacts) {
-		return activityFacts[key];
+private map[maybeFactKey, Maybe[num]] maybeGetSizeFacts(monthlyFactsMap sizeFacts, monthlyFactsKey key) {
+	switch (maybeGetFromMap(sizeFacts, key)) {
+		case nothing():
+				return (sizeFactKey : nothing()
+			    |
+				sizeFactKey <- sizeFactKeys);
+
+		case just(maybeFacts):		
+			return maybeFacts;
+	}
+}
+
+public Maybe[&V] maybeGetFromMap (map[&K, &V] theMap, &K theKey) {
+	if (theKey in theMap) {
+		return just(theMap[theKey]);
 	}
 	else {
-		return {loc_added_fact(nothing()),
-		    	loc_deleted_fact(nothing()),
-		    	comments_added_fact(nothing()),
-		    	comments_deleted_fact(nothing()),
-		    	blanks_added_fact(nothing()),
-		    	blanks_deleted_fact(nothing()),
-		    	commits_fact(nothing()),
-		    	contributors_fact(nothing())};
+		return nothing();
 	}
 }
 
@@ -169,14 +211,14 @@ public monthlyFactsMap getActivityFacts(str projectName)
 				 result += (<projectName,
 	                         year,
 				 			 month> :
-				 			{loc_added_fact(just(toInt(LOCAddedAsString))),
-				 			 loc_deleted_fact(just(toInt(LOCDeletedAsString))),
-				 			 comments_added_fact(just(toInt(CommentsAddedAsString))),
-				 			 comments_deleted_fact(just(toInt(CommentsDeletedAsString))),
-				 			 blanks_added_fact(just(toInt(BlanksAddedAsString))),
-				 			 blanks_deleted_fact(just(toInt(BlanksDeletedAsString))),
-				 			 commits_fact(just(toInt(CommitsAsString))),
-				 			 contributors_fact(just(toInt(ContributorsAsString)))});
+				 			(loc_added_fact 		: just(toInt(LOCAddedAsString)),
+				 			 loc_deleted_fact 		: just(toInt(LOCDeletedAsString)),
+				 			 comments_added_fact 	: just(toInt(CommentsAddedAsString)),
+				 			 comments_deleted_fact 	: just(toInt(CommentsDeletedAsString)),
+				 			 blanks_added_fact		: just(toInt(BlanksAddedAsString)),
+				 			 blanks_deleted_fact 	: just(toInt(BlanksDeletedAsString)),
+				 			 commits_fact			: just(toInt(CommitsAsString)),
+				 			 contributors_fact		: just(toInt(ContributorsAsString))));
 	        }
 		}
 	catch: logToConsole("getActivityFacts", "WARNING error while getting activity facts for project: <projectName>.");
@@ -203,16 +245,23 @@ public monthlyFactsMap getSizeFacts(str projectName) {
 	             result += (<projectName,
 				 			 year,
 				 			 month> :
-				 			{loc_fact(just(toInt(LOCTotalAsString))),
-				 			 comments_fact(just(toInt(CommentsAsString))),
-				 			 blanks_fact(just(toInt(BlanksAsString))),
-				 			 comment_ratio_fact(just(toInt(CommentRatioAsString))),
-				 			 cumulative_commits_fact(just(toInt(CumulativeCommitsAsString))),
-				 			 man_months_fact(just(toInt(ManMonthsAsString)))});
+				 			(loc_fact 					: just(toInt(LOCTotalAsString)),
+				 			 comments_fact 				: just(toInt(CommentsAsString)),
+				 			 blanks_fact 				: just(toInt(BlanksAsString)),
+				 			 comment_ratio_fact 		: tryToReal(CommentRatioAsString),
+				 			 cumulative_commits_fact	: just(toInt(CumulativeCommitsAsString)),
+				 			 man_months_fact			: just(toInt(ManMonthsAsString))));
 			}
 		}
-	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project: <projectName>.");
+	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project: <projectName>: ");
 	return result;
+}
+
+public Maybe[real] tryToReal (str realAsString) {
+	Maybe[real] r = nothing();
+	try r = just(toReal(realAsString));
+	catch IllegalArgument(): ;
+	return r;
 }
 
 // broken

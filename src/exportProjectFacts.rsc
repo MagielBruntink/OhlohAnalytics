@@ -1,9 +1,11 @@
 module exportProjectFacts
 
+import Prelude;
 import processProjectFacts;
 import projectFactsRepository;
 import Logging;
 import lang::csv::IO;
+import util::Maybe;
 import IO;
 import analyzeProjectDeath;
 import analyzeProjectMetaData;
@@ -130,4 +132,35 @@ convertYearlyFactsMapToRel (yearlyFactsMap yearlyFacts)
     prod_loc_growth_factor_fact(num prod_loc_growth_factor)  <- yearlyFacts[key],
     age_fact(num age) 										 <- yearlyFacts[key]
     };
+}
+
+public void writeMonthlyFactsMapToCSV (monthlyFactsMap monthlyFacts, str fileName) {
+	loc outFile = OutputFilesDirectory + fileName;
+	
+	separator = ",";
+	factKeys = identificationFactKeys + activityFactKeys + sizeFactKeys;
+	header = "";
+	
+	for (factKey <- factKeys) {
+		header += (factKey + separator);
+	};
+	header = substring(header, 0, size(header) - 1) + "\n";	
+	writeFile(outFile, header);
+	
+	for (month <- monthlyFacts) {
+		line = "";
+		factsForMonth = monthlyFacts[month];
+		for (factKey <- factKeys) {
+			line += (maybeFactToString(factsForMonth[factKey]) + separator);
+		};
+		line = substring(line, 0, size(line) - 1) + "\n";
+		appendToFile(outFile, line);
+	};
+}
+
+private str maybeFactToString(Maybe[value] mv) {
+	switch(mv) {
+		case nothing(): return "NA";
+		case just(value v): return toString(v);
+	};
 }
