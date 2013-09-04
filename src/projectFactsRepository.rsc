@@ -28,8 +28,8 @@ alias metaDataRel = rel[str projectName, str elementValue];
 
 
 alias maybeFacts = map[maybeFactKey, Maybe[value]];
-alias monthlyFactsKey = tuple[str projectName, str year, str month];
-alias monthlyFactsMap = map[monthlyFactsKey, maybeFacts];
+alias factsKey = tuple[str projectName, str year, str month];
+alias factsMap = map[factsKey, maybeFacts];
 
 public alias maybeFactKey = str;
 public maybeFactKey project_name_fact        = "project_name_fact";
@@ -84,7 +84,7 @@ public list[maybeFactKey] growthFactKeys = [
 		   ];
 
 
-public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
+public factsMap mergeFactsForProjects (list[str] projectNames) {
 
      return (key : (project_name_fact : just(project), year_fact : just(year), month_fact : just(month)) +
      			   maybeGetSizeFacts(sizeFacts, key) +
@@ -92,14 +92,14 @@ public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
              |
              str projectName <- projectNames,
              size(printlnExp("Working on project: " + projectName)) > 0,
-             monthlyFactsMap sizeFacts := getSizeFacts(projectName),
-             monthlyFactsMap activityFacts := getActivityFacts(projectName),
-             monthlyFactsKey key <- domain(activityFacts) + domain(sizeFacts),
+             factsMap sizeFacts := getSizeFacts(projectName),
+             factsMap activityFacts := getActivityFacts(projectName),
+             factsKey key <- domain(activityFacts) + domain(sizeFacts),
              <project,year,month> := key
             );
 }
 
-private map[maybeFactKey, Maybe[num]] maybeGetActivityFacts(monthlyFactsMap activityFacts, monthlyFactsKey key) {
+private map[maybeFactKey, Maybe[num]] maybeGetActivityFacts(factsMap activityFacts, factsKey key) {
 	switch (maybeGetFromMap(activityFacts, key)) {
 		case nothing():
 				return (activityFactKey : nothing()
@@ -111,7 +111,7 @@ private map[maybeFactKey, Maybe[num]] maybeGetActivityFacts(monthlyFactsMap acti
 	}
 }
 
-private map[maybeFactKey, Maybe[num]] maybeGetSizeFacts(monthlyFactsMap sizeFacts, monthlyFactsKey key) {
+private map[maybeFactKey, Maybe[num]] maybeGetSizeFacts(factsMap sizeFacts, factsKey key) {
 	switch (maybeGetFromMap(sizeFacts, key)) {
 		case nothing():
 				return (sizeFactKey : nothing()
@@ -132,7 +132,7 @@ public Maybe[&V] maybeGetFromMap (map[&K, &V] theMap, &K theKey) {
 	}
 }
 
-public monthlyFactsMap mergeFactsForAllProjects () { 
+public factsMap mergeFactsForAllProjects () { 
 	return mergeFactsForProjects(getProjectNamesInRepository());
 }
 
@@ -188,7 +188,7 @@ public repositoriesRel getRepositoryFacts(str projectName) {
 	return result;
 }
 
-public monthlyFactsMap getActivityFacts(str projectName)
+public factsMap getActivityFacts(str projectName)
 {	   
     result = ();
     try 
@@ -225,7 +225,7 @@ public monthlyFactsMap getActivityFacts(str projectName)
 	return result;
 }
 
-public monthlyFactsMap getSizeFacts(str projectName) {	   
+public factsMap getSizeFacts(str projectName) {	   
 	result = ();
 	try
 		top-down visit(getSizeFactsDOM(projectName)) {
@@ -263,15 +263,6 @@ public Maybe[real] tryToReal (str realAsString) {
 	catch IllegalArgument(): ;
 	return r;
 }
-
-// broken
-//private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFacts) {
-//	return (key : <projectName, year, month, loc_total> |
-//		str key <- unfilteredSizeFacts,
-//		<str projectName, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
-//		!(toInt(loc_total) < 0 && logToConsole("validateAndFilterSizeFacts", "WARNING data excluded because lines of code count is below 0 for project: <projectName> in year/month: <year>/<month>"))
-//	);
-//}
 
 public void addMetaDataToRepository(str metaDataXML, str projectName) {
 	addXMLFileToRepository(metaDataXML, projectName, MetaDataFileName);
