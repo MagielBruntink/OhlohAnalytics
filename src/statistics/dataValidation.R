@@ -22,10 +22,6 @@ preMonthlyValidationFacts <- data.table(read.csv(paste(analysis_dir,"pre-monthly
                                                    "integer",
                                                    "integer")))
 
-#rownames(preMonthlyValidationFacts) <-
-#         apply(preMonthlyValidationFacts, 1, 
-#               function(row) return(paste(row["project_name_fact"],row["year_fact"],row["month_fact"],sep="-")))
-
 setkey(preMonthlyValidationFacts, project_name_fact, year_fact, month_fact)
 
 countFeatures = c("loc_added_fact",
@@ -49,6 +45,7 @@ ratioFeatures = c("comment_ratio_fact")
 numberOfProjects <- length(unique(preMonthlyValidationFacts$project_name_fact))
 print(paste("Number of projects:", numberOfProjects))
 
+
 print("MISSING VALUES")
 
 missingValuesMatrix <- is.na.data.frame(preMonthlyValidationFacts)
@@ -63,85 +60,99 @@ completeCasesCount <- table(complete.cases(preMonthlyValidationFacts))
 print(paste("Total number of cases:", completeCasesCount["FALSE"] + completeCasesCount["TRUE"]))
 print(paste("Total number of cases with missing values (in any feature):", completeCasesCount["FALSE"]))
 
+
 print("IMPLAUSIBLE VALUES")
 
 print("Number of negative values per count or ratio feature:")
 print(sapply(subset(preMonthlyValidationFacts, select=c(countFeatures,ratioFeatures)),
        function(x) table(x<0,useNA="ifany")["TRUE"]))
 
-print(paste("Number of cases with negative values (in any count or ratio features):",
-             table(apply(subset(preMonthlyValidationFacts, select=c(countFeatures,ratioFeatures)),
-                         1, function(case) any(case < 0)),
-                   useNA="ifany")["TRUE"]))
+augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
+  dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
+}
 
-print("Number of 0 values per count or ratio feature:")
+for(feature in c(countFeatures,ratioFeatures)) {
+  augmentWithCheckResult(preMonthlyValidationFacts,feature,
+                         "negative_value",function(dataTable) {dataTable[[feature]] < 0})
+  print(paste("Number of cases with negative values in ", feature, ": ", 
+              table(preMonthlyValidationFacts[[paste("negative_value",feature,sep="_")]])["TRUE"],
+              sep=""))
+}
+
+
+print("Number of zero values per count or ratio feature:")
 print(sapply(subset(preMonthlyValidationFacts, select=c(countFeatures,ratioFeatures)),
              function(x) table(x==0,useNA="ifany")["TRUE"]))
 
-print(paste("Number of cases with 0 values (in any count or ratio features):",
-            table(apply(subset(preMonthlyValidationFacts, select=c(countFeatures,ratioFeatures)),
-                        1, function(case) any(case == 0)),
-                  useNA="ifany")["TRUE"]))
+augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
+  dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
+}
+
+for(feature in c(countFeatures,ratioFeatures)) {
+  augmentWithCheckResult(preMonthlyValidationFacts,feature,
+                         "zero_value",function(dataTable) {dataTable[[feature]] == 0})
+  print(paste("Number of cases with zero values in ", feature, ": ", 
+              table(preMonthlyValidationFacts[[paste("zero_value",feature,sep="_")]])["TRUE"],
+              sep=""))
+}
 
 print("CONSISTENCY CHECKS")
 
-## loc_fact == previous_month_loc_fact + loc_added_fact - loc_deleted_fact
+augmentWithPreviousMonthFeature <- function(dataTable, feature, groupByFeature) {
+  
+  dataTable[,(paste("previous_month",feature,sep="_")) :=
+              c(NA,.SD[[feature]])[1:length(.SD[[feature]])],
+            by=groupByFeature][]
+}
 
-preMonthlyValidationFacts[,previous_month_loc_fact:=c(NA,
-                                                      .SD$loc_fact)
-                          [1:length(.SD$loc_fact)],
-                          by=project_name_fact][]
+## month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)
+augmentWithPreviousMonthFeature(preMonthlyValidationFacts, "month_fact", "project_name_fact")
+preMonthlyValidationFacts[,inconsecutive_month:=(
+  (as.integer(month_fact) != (as.integer(previous_month_month_fact) + 1)) &
+  !((as.integer(month_fact) == 1 & as.integer(previous_month_month_fact) == 12)))][]
 
-preMonthlyValidationFacts[,consistent_loc:=(
-  loc_fact==previous_month_loc_fact+
+print(paste("Number of cases where 'month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)' holds."))
+print(table(preMonthlyValidationFacts$inconsecutive_month,useNA="ifany"))
+
+## loc_fact != previous_month_loc_fact + loc_added_fact - loc_deleted_fact
+
+augmentWithPreviousMonthFeature(preMonthlyValidationFacts, "loc_fact", "project_name_fact")
+preMonthlyValidationFacts[,inconsistent_loc:=(
+  loc_fact!=previous_month_loc_fact+
     loc_added_fact-
     loc_deleted_fact)][]
 
-print(paste("Number of cases where 'loc_fact == previous_month_loc_fact + loc_added_fact - loc_deleted_fact' holds."))
-print(table(preMonthlyValidationFacts$consistent_loc,useNA="ifany"))
+print(paste("Number of cases where 'loc_fact != previous_month_loc_fact + loc_added_fact - loc_deleted_fact' holds."))
+print(table(preMonthlyValidationFacts$inconsistent_loc,useNA="ifany"))
 
-## comments_fact == previous_month_comments_fact + comments_added_fact - comments_deleted_fact
+## comments_fact != previous_month_comments_fact + comments_added_fact - comments_deleted_fact
 
-
-preMonthlyValidationFacts[,previous_month_comments_fact:=c(NA,
-                                                           .SD$comments_fact)
-                          [1:length(.SD$comments_fact)],
-                          by=project_name_fact][]
-
-preMonthlyValidationFacts[,consistent_comments:=(
-  comments_fact==previous_month_comments_fact+
+augmentWithPreviousMonthFeature(preMonthlyValidationFacts, "comments_fact", "project_name_fact")
+preMonthlyValidationFacts[,inconsistent_comments:=(
+  comments_fact!=previous_month_comments_fact+
     comments_added_fact-
     comments_deleted_fact)][]
 
-print(paste("Number of cases where 'comments_fact == previous_month_comments_fact + comments_added_fact - comments_deleted_fact' holds."))
-print(table(preMonthlyValidationFacts$consistent_comments,useNA="ifany"))
+print(paste("Number of cases where 'comments_fact != previous_month_comments_fact + comments_added_fact - comments_deleted_fact' holds."))
+print(table(preMonthlyValidationFacts$inconsistent_comments,useNA="ifany"))
 
 
-## blanks_fact == previous_month_blanks_fact + blanks_added_fact - blanks_deleted_fact
+## blanks_fact != previous_month_blanks_fact + blanks_added_fact - blanks_deleted_fact
 
-preMonthlyValidationFacts[,previous_month_blanks_fact:=c(NA,
-                                                         .SD$blanks_fact)
-                          [1:length(.SD$blanks_fact)],
-                          by=project_name_fact][]
-
-preMonthlyValidationFacts[,consistent_blanks:=(
-  blanks_fact==previous_month_blanks_fact+
+augmentWithPreviousMonthFeature(preMonthlyValidationFacts, "blanks_fact", "project_name_fact")
+preMonthlyValidationFacts[,inconsistent_blanks:=(
+  blanks_fact!=previous_month_blanks_fact+
     blanks_added_fact-
     blanks_deleted_fact)][]
 
-print(paste("Number of cases where 'blanks_fact == previous_month_blanks_fact + blanks_added_fact - blanks_deleted_fact' holds."))
-print(table(preMonthlyValidationFacts$consistent_blanks,useNA="ifany"))
+print(paste("Number of cases where 'blanks_fact == blanks_fact != previous_month_blanks_fact + blanks_added_fact - blanks_deleted_fact' holds."))
+print(table(preMonthlyValidationFacts$inconsistent_blanks,useNA="ifany"))
 
-## cumulative_commits == previous_month_cumulative_commits + commits
+## cumulative_commits != previous_month_cumulative_commits + commits
 
-preMonthlyValidationFacts[,previous_month_cumulative_commits_fact:=c(NA,
-                                                         .SD$cumulative_commits_fact)
-                          [1:length(.SD$cumulative_commits_fact)],
-                          by=project_name_fact][]
+augmentWithPreviousMonthFeature(preMonthlyValidationFacts, "cumulative_commits_fact", "project_name_fact")
+preMonthlyValidationFacts[,inconsistent_commits:=(
+  cumulative_commits_fact!=previous_month_cumulative_commits_fact + commits_fact)][]
 
-preMonthlyValidationFacts[,consistent_commits:=(
-  cumulative_commits_fact==previous_month_cumulative_commits_fact +
-    commits_fact)][]
-
-print(paste("Number of cases where 'cumulative_commits == previous_month_cumulative_commits + commits_facts' holds."))
-print(table(preMonthlyValidationFacts$consistent_commits,useNA="ifany"))
+print(paste("Number of cases where 'cumulative_commits != previous_month_cumulative_commits + commits' holds."))
+print(table(preMonthlyValidationFacts$inconsistent_commits,useNA="ifany"))
