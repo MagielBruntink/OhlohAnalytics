@@ -3,6 +3,7 @@ require(plyr)
 
 analysis_dir <- "~/git/OhlohAnalytics/validation"
 
+monthlyFactsWithValidationDataBeforeCleaning = copy(monthlyFactsBeforeCleaning)
 monthlyFactsDuringCleaning = copy(monthlyFactsBeforeCleaning)
 setkey(monthlyFactsDuringCleaning, project_name_fact, year_fact, month_fact)
 
@@ -24,10 +25,17 @@ for(feature in c(countFeatures)) {
 ## Remove any cases that are inconsecutive months
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsecutive_month) | inconsecutive_month == FALSE)
 
+## Remove any cases that have a zero value for previous_month_loc (compatibility with Rascal analysis)
+#monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=previous_month_loc_fact > 0)
+
+## Remove any cases that have zero values for all size and activity facts
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(zero_values_size_and_activity_fact) | zero_values_size_and_activity_fact == FALSE)
+
 ## Remove any cases with inconsistent values
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_loc) | inconsistent_loc == FALSE)
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_blanks) | inconsistent_blanks == FALSE)
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_comments) | inconsistent_comments == FALSE)
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits == FALSE)
 
+monthlyFactsWithValidationDataAfterCleaning <- copy(monthlyFactsDuringCleaning)
 monthlyFactsAfterCleaning <- subset(copy(monthlyFactsDuringCleaning),select=c(keyFeatures,countFeatures))
