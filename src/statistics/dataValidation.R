@@ -83,7 +83,6 @@ for(feature in c(countFeatures,ratioFeatures)) {
               sep=""))
 }
 
-
 print("Number of zero values per count or ratio feature:")
 print(sapply(subset(monthlyFactsBeforeCleaning, select=c(countFeatures,ratioFeatures)),
              function(x) table(x==0,useNA="ifany")["TRUE"]))
@@ -99,6 +98,19 @@ for(feature in c(countFeatures,ratioFeatures)) {
               table(monthlyFactsBeforeCleaning[[paste("zero_value",feature,sep="_")]])["TRUE"],
               sep=""))
 }
+
+monthlyFactsBeforeCleaning[,zero_values_size_and_activity_fact:=(zero_value_loc_fact==TRUE &
+                                                                zero_value_loc_added_fact==TRUE &
+                                                                zero_value_loc_deleted_fact==TRUE &
+                                                                zero_value_blanks_fact==TRUE &
+                                                                zero_value_blanks_added_fact==TRUE &
+                                                                zero_value_blanks_deleted_fact==TRUE &
+                                                                zero_value_comments_fact==TRUE &
+                                                                zero_value_comments_added_fact==TRUE &
+                                                                zero_value_comments_deleted_fact==TRUE)][]
+
+print(paste("Number of cases with only zero values for size and activity facts: ", 
+            table(monthlyFactsBeforeCleaning$zero_values_size_and_activity_fact)["TRUE"]))
 
 print("CONSISTENCY CHECKS")
 
