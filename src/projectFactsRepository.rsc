@@ -137,25 +137,28 @@ public factsMap mergeFactsForAllProjects () {
 }
 
 public metaDataRel getMetaDataElements(list[str] projectNames, str elementName) {
-	return {
-		valuesForProject |
-		projectName <- projectNames,
-		valuesForProject <- getMetaDataElements(projectName, elementName)
+	return { 
+			valuesForProject |
+			projectName <- projectNames,
+			valuesForProject <- getMetaDataElements(projectName, elementName)
 	};
 }
 
+
 public metaDataRel getMetaDataElements(str projectName, str elementName) {
 	result = {};
-		
-	top-down visit(getProjectMetaDataDOM(projectName)) {
-		case element(_,
-					 elementName,
-					 [Node*,charData(str elementValue)]):
-		{
-             result += <projectName,
-			 			elementValue>;
+	
+	try
+		top-down visit(getProjectMetaDataDOM(projectName)) {
+			case element(_,
+						 elementName,
+						 [Node*,charData(str elementValue)]):
+			{
+	             result += <projectName,
+				 			elementValue>;
+			}
 		}
-	}
+	catch: logToConsole("getMetaDataElements", "WARNING error while getting meta data facts for project: <projectName>.");
 	return result;
 }
 
