@@ -23,7 +23,7 @@ for(feature in c(countFeatures)) {
 }
 
 ## Remove any cases that are inconsecutive months
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsecutive_month) | inconsecutive_month == FALSE)
+#monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsecutive_month) | inconsecutive_month == FALSE)
 
 ## Remove any cases that have a zero value for previous_month_loc (compatibility with Rascal analysis)
 #monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=previous_month_loc_fact > 0)
@@ -39,3 +39,4 @@ monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inc
 
 monthlyFactsWithValidationDataAfterCleaning <- copy(monthlyFactsDuringCleaning)
 monthlyFactsAfterCleaning <- subset(copy(monthlyFactsDuringCleaning),select=c(keyFeatures,countFeatures))
+rm(monthlyFactsDuringCleaning)
