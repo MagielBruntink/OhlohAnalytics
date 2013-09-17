@@ -172,3 +172,14 @@ monthlyFactsBeforeCleaning[,inconsistent_commits:=(
 
 print(paste("Number of cases where 'cumulative_commits != previous_month_cumulative_commits + commits' holds."))
 print(table(monthlyFactsBeforeCleaning$inconsistent_commits,useNA="ifany"))
+
+## man_months != previous_month_man_months + contributors
+
+augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "man_months_fact", "project_name_fact")
+monthlyFactsBeforeCleaning[,inconsistent_man_months:=(
+  man_months_fact!=man_months_fact + contributors_fact)][]
+
+print(paste("Number of cases where 'man_months != previous_month_man_months + contributors' holds."))
+print(table(monthlyFactsBeforeCleaning$inconsistent_man_months,useNA="ifany"))
+
+
