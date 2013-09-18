@@ -3,7 +3,7 @@ require(plyr)
 
 analysis_dir <- "~/git/OhlohAnalytics/validation"
 
-monthlyFactsBeforeCleaning <- data.table(read.csv(paste(analysis_dir,"pre-monthly-validation-facts.csv", sep="/"),
+monthlyFactsBeforeCleaning <- data.table(read.csv(paste(analysis_dir,"monthlyFactsWithProperEnlistments.csv", sep="/"),
                                       colClasses=c("character",
                                                    "character",
                                                    "character",
@@ -99,18 +99,38 @@ for(feature in c(countFeatures,ratioFeatures)) {
               sep=""))
 }
 
+monthlyFactsBeforeCleaning[,case_has_implausible_value:=(negative_value_loc_fact==TRUE |
+                                                         negative_value_loc_added_fact==TRUE |
+                                                         negative_value_loc_deleted_fact==TRUE |
+                                                         negative_value_blanks_fact==TRUE |
+                                                         negative_value_blanks_added_fact==TRUE |
+                                                         negative_value_blanks_deleted_fact==TRUE |
+                                                         negative_value_comments_fact==TRUE |
+                                                         negative_value_comments_added_fact==TRUE |
+                                                         negative_value_comments_deleted_fact==TRUE |
+                                                         negative_value_commits_fact==TRUE |
+                                                           negative_value_cumulative_commits_fact==TRUE |
+                                                           negative_value_contributors_fact==TRUE |
+                                                           negative_value_comment_ratio_fact==TRUE |
+                                                           negative_value_man_months_fact==TRUE)][]
+
+print(paste("Number of cases with implausible values: ", 
+            table(monthlyFactsBeforeCleaning$case_has_implausible_value)["TRUE"],
+            sep=""))
+
 monthlyFactsBeforeCleaning[,zero_values_size_and_activity_fact:=(zero_value_loc_fact==TRUE &
-                                                                zero_value_loc_added_fact==TRUE &
-                                                                zero_value_loc_deleted_fact==TRUE &
-                                                                zero_value_blanks_fact==TRUE &
-                                                                zero_value_blanks_added_fact==TRUE &
-                                                                zero_value_blanks_deleted_fact==TRUE &
-                                                                zero_value_comments_fact==TRUE &
-                                                                zero_value_comments_added_fact==TRUE &
-                                                                zero_value_comments_deleted_fact==TRUE)][]
+                                                                   zero_value_loc_added_fact==TRUE &
+                                                                   zero_value_loc_deleted_fact==TRUE &
+                                                                   zero_value_blanks_fact==TRUE &
+                                                                   zero_value_blanks_added_fact==TRUE &
+                                                                   zero_value_blanks_deleted_fact==TRUE &
+                                                                   zero_value_comments_fact==TRUE &
+                                                                   zero_value_comments_added_fact==TRUE &
+                                                                   zero_value_comments_deleted_fact==TRUE)][]
 
 print(paste("Number of cases with only zero values for size and activity facts: ", 
             table(monthlyFactsBeforeCleaning$zero_values_size_and_activity_fact)["TRUE"]))
+
 
 print("CONSISTENCY CHECKS")
 
@@ -182,4 +202,12 @@ monthlyFactsBeforeCleaning[,inconsistent_man_months:=(
 print(paste("Number of cases where 'man_months != previous_month_man_months + contributors' holds."))
 print(table(monthlyFactsBeforeCleaning$inconsistent_man_months,useNA="ifany"))
 
+monthlyFactsBeforeCleaning[,case_has_inconsistent_values:=(inconsistent_loc==TRUE |
+                                                             inconsistent_comments==TRUE |
+                                                             inconsistent_blanks==TRUE |
+                                                             inconsistent_commits==TRUE |
+                                                             inconsistent_man_months==TRUE)][]
 
+print(paste("Number of cases with inconsistent values: ", 
+            table(monthlyFactsBeforeCleaning$case_has_inconsistent_values)["TRUE"],
+            sep=""))

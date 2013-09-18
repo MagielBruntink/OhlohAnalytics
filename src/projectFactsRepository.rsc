@@ -94,7 +94,9 @@ public factsMap mergeFactsForProjects (list[str] projectNames) {
              logToConsole("mergeFactsForProjects", "INFO merging facts for project: <projectName>."),
              factsMap sizeFacts := getSizeFacts(projectName),
              factsMap activityFacts := getActivityFacts(projectName),
-             factsKey key <- domain(activityFacts) + domain(sizeFacts),
+             ks := domain(activityFacts) + domain(sizeFacts),
+             size(ks) > 0 || (size(ks) == 0 && logToConsole("mergeFactsForProjects", "WARNING no size or activity facts for project: <projectName>")),
+             factsKey key <- ks,
              <project,year,month> := key
             );
 }
