@@ -41,7 +41,7 @@ public void validateAndOutputFacts() {
 	remainingProjects = validateDataOnProjectLevel();
 	logToConsole("validateAndOutputFacts", "Obtaining all merged facts form repository...");
 	facts = mergeFactsForProjects(remainingProjects);
-	writeFactsMapToCSV(facts, "pre-monthly-validation-facts.csv");
+	writeFactsMapToCSV(facts, validationResultsDir + "monthlyFactsWithProperEnlistments.csv");
 }
 
 public void doProjectMetaDataAnalyses () {
@@ -60,9 +60,7 @@ public void writeValueToFile(v, str fileName) {
 	writeFile(OutputFilesDirectory + fileName, v);
 }
 
-public void writeFactsMapToCSV (factsMap facts, str fileName) {
-	loc outFile = OutputFilesDirectory + fileName;
-	
+public void writeFactsMapToCSV (factsMap facts, loc outFile) {
 	separator = ",";
 	factKeys = identificationFactKeys + activityFactKeys + sizeFactKeys;
 	header = "";

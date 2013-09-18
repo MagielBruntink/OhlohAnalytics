@@ -26,6 +26,13 @@ public list[str] validateDataOnProjectLevel () {
 	writeTextValueFile(validationResultsDir + "excluded-projects-due-to-bad-repository-config.txt", projectsExcluded);
 	logToFile(logFile,"validateData","Projects with bad repository configuration: " + toString(size(projectsExcluded)));
 	logToFile(logFile,"validateData","Projects remaining: " + toString(size(projectsRemaining)));
+	
+	splitData = filterProjectsWithMissingDataFiles(projectsRemaining);
+	projectsRemaining = splitData[0];
+	projectsExcluded = splitData[1];
+	writeTextValueFile(validationResultsDir + "excluded-projects-due-to-missing-all-data.txt", projectsExcluded);
+	logToFile(logFile,"validateData","Projects that do not have any data: " + toString(size(projectsExcluded)));
+	logToFile(logFile,"validateData","Projects remaining: " + toString(size(projectsRemaining)));
 		
 	writeTextValueFile(validationResultsDir + "post-project-level-validation-projects-remaining.value", projectsRemaining);
 	return projectsRemaining;
@@ -60,7 +67,7 @@ public splitDataTuple filterProjectsWithMissingDataFiles(list[str] projects) {
 	list[str] badProjects = [];
 	
 	for(project <- projects) {
-		if(size(getActivityFacts(project)) == 0 ||
+		if(size(getActivityFacts(project)) == 0 &&
 		   size(getSizeFacts(project)) == 0) {
 		   	badProjects += project;
 		}
