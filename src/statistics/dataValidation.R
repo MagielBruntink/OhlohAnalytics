@@ -43,7 +43,19 @@ countFeatures = c("loc_added_fact",
                   "man_months_fact")
 
 ratioFeatures = c("comment_ratio_fact")
-		
+
+augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
+  dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
+}
+
+augmentWithPreviousMonthFeature <- function(dataTable, feature, groupByFeature) {
+  
+  dataTable[,(paste("previous_month",feature,sep="_")) :=
+              c(NA,.SD[[feature]])[1:length(.SD[[feature]])],
+            by=groupByFeature][]
+}
+
+
 # NUMBER OF PROJECTS
 
 numberOfProjects <- length(unique(monthlyFactsBeforeCleaning$project_name_fact))
@@ -71,31 +83,11 @@ print("Number of negative values per count or ratio feature:")
 print(sapply(subset(monthlyFactsBeforeCleaning, select=c(countFeatures,ratioFeatures)),
        function(x) table(x<0,useNA="ifany")["TRUE"]))
 
-augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
-  dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
-}
-
 for(feature in c(countFeatures,ratioFeatures)) {
   augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
                          "negative_value",function(dataTable) {dataTable[[feature]] < 0})
   print(paste("Number of cases with negative values in ", feature, ": ", 
               table(monthlyFactsBeforeCleaning[[paste("negative_value",feature,sep="_")]])["TRUE"],
-              sep=""))
-}
-
-print("Number of zero values per count or ratio feature:")
-print(sapply(subset(monthlyFactsBeforeCleaning, select=c(countFeatures,ratioFeatures)),
-             function(x) table(x==0,useNA="ifany")["TRUE"]))
-
-augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
-  dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
-}
-
-for(feature in c(countFeatures,ratioFeatures)) {
-  augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
-                         "zero_value",function(dataTable) {dataTable[[feature]] == 0})
-  print(paste("Number of cases with zero values in ", feature, ": ", 
-              table(monthlyFactsBeforeCleaning[[paste("zero_value",feature,sep="_")]])["TRUE"],
               sep=""))
 }
 
@@ -118,28 +110,23 @@ print(paste("Number of cases with implausible values: ",
             table(monthlyFactsBeforeCleaning$case_has_implausible_value)["TRUE"],
             sep=""))
 
-monthlyFactsBeforeCleaning[,zero_values_size_and_activity_fact:=(zero_value_loc_fact==TRUE &
-                                                                   zero_value_loc_added_fact==TRUE &
-                                                                   zero_value_loc_deleted_fact==TRUE &
-                                                                   zero_value_blanks_fact==TRUE &
-                                                                   zero_value_blanks_added_fact==TRUE &
-                                                                   zero_value_blanks_deleted_fact==TRUE &
-                                                                   zero_value_comments_fact==TRUE &
-                                                                   zero_value_comments_added_fact==TRUE &
-                                                                   zero_value_comments_deleted_fact==TRUE)][]
-
-print(paste("Number of cases with only zero values for size and activity facts: ", 
-            table(monthlyFactsBeforeCleaning$zero_values_size_and_activity_fact)["TRUE"]))
-
-
 print("CONSISTENCY CHECKS")
 
-augmentWithPreviousMonthFeature <- function(dataTable, feature, groupByFeature) {
-  
-  dataTable[,(paste("previous_month",feature,sep="_")) :=
-              c(NA,.SD[[feature]])[1:length(.SD[[feature]])],
-            by=groupByFeature][]
+for(feature in c(countFeatures,ratioFeatures)) {
+  augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
+                         "zero_value",function(dataTable) {dataTable[[feature]] == 0})
+  print(paste("Number of cases with zero values in ", feature, ": ", 
+              table(monthlyFactsBeforeCleaning[[paste("zero_value",feature,sep="_")]])["TRUE"],
+              sep=""))
 }
+
+monthlyFactsBeforeCleaning[,zero_values_size_facts:=(zero_value_loc_fact==TRUE &
+                                                       zero_value_blanks_fact==TRUE &
+                                                       zero_value_comments_fact==TRUE)][]
+
+print(paste("Number of cases with only zero values for size facts: ", 
+            table(monthlyFactsBeforeCleaning$zero_values_size_facts)["TRUE"]))
+
 
 ## month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)
 augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "month_fact", "project_name_fact")
@@ -202,12 +189,23 @@ monthlyFactsBeforeCleaning[,inconsistent_man_months:=(
 print(paste("Number of cases where 'man_months != previous_month_man_months + contributors' holds."))
 print(table(monthlyFactsBeforeCleaning$inconsistent_man_months,useNA="ifany"))
 
-monthlyFactsBeforeCleaning[,case_has_inconsistent_values:=(inconsistent_loc==TRUE |
+## comment_ratio != comments / (comments + loc + blanks)
+
+monthlyFactsBeforeCleaning[,inconsistent_comment_ratio:=(
+  round(comment_ratio_fact,digits=10)!=round(comments_fact / (comments_fact + loc_fact),digits=10))][]
+
+print(paste("Number of cases where 'round(comment_ratio_fact,10)!=round(comments_fact / (comments_fact + loc_fact),10)' holds."))
+print(table(monthlyFactsBeforeCleaning$inconsistent_comment_ratio,useNA="ifany"))
+
+
+monthlyFactsBeforeCleaning[,case_has_inconsistent_values:=(zero_values_size_facts==TRUE |
+                                                             inconsistent_loc==TRUE |
                                                              inconsistent_comments==TRUE |
                                                              inconsistent_blanks==TRUE |
+                                                             inconsistent_comment_ratio==TRUE |
                                                              inconsistent_commits==TRUE |
                                                              inconsistent_man_months==TRUE)][]
 
-print(paste("Number of cases with inconsistent values: ", 
+print(paste("Number of cases with inconsistent features: ", 
             table(monthlyFactsBeforeCleaning$case_has_inconsistent_values)["TRUE"],
             sep=""))
