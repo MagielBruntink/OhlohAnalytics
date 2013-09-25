@@ -28,7 +28,7 @@ keyFeatures = c("project_name_fact",
                "year_fact",
                "month_fact")
 
-countFeatures = c("loc_added_fact",
+coreFeatures = c("loc_added_fact",
                   "loc_deleted_fact",
                   "comments_added_fact",
                   "comments_deleted_fact",
@@ -39,10 +39,10 @@ countFeatures = c("loc_added_fact",
                   "loc_fact",
                   "comments_fact",
                   "blanks_fact",
-                  "cumulative_commits_fact",
-                  "man_months_fact")
+                  "cumulative_commits_fact")
 
-ratioFeatures = c("comment_ratio_fact")
+derivedFeatures = c("comment_ratio_fact",
+                  "man_months_fact")
 
 augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
   dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
@@ -68,6 +68,7 @@ missingValuesMatrix <- is.na.data.frame(monthlyFactsBeforeCleaning)
 missingValuesCounts <- table(missingValuesMatrix)
 print(paste("Total number of values:", missingValuesCounts["TRUE"] + missingValuesCounts["FALSE"]))
 print(paste("Total number of missing values:", missingValuesCounts["TRUE"]))
+rm(missingValuesMatrix, missingValuesCounts)
 
 print("Number of missing values per feature:")
 print(sapply(monthlyFactsBeforeCleaning, function(x) sum(is.na(x))))
@@ -79,11 +80,11 @@ print(paste("Total number of cases with missing values (in any feature):", compl
 
 print("IMPLAUSIBLE VALUES")
 
-print("Number of negative values per count or ratio feature:")
-print(sapply(subset(monthlyFactsBeforeCleaning, select=c(countFeatures,ratioFeatures)),
+print("Number of negative values per feature:")
+print(sapply(subset(monthlyFactsBeforeCleaning, select=c(coreFeatures,derivedFeatures)),
        function(x) table(x<0,useNA="ifany")["TRUE"]))
 
-for(feature in c(countFeatures,ratioFeatures)) {
+for(feature in c(coreFeatures,derivedFeatures)) {
   augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
                          "negative_value",function(dataTable) {dataTable[[feature]] < 0})
   print(paste("Number of cases with negative values in ", feature, ": ", 
@@ -112,7 +113,7 @@ print(paste("Number of cases with implausible values: ",
 
 print("CONSISTENCY CHECKS")
 
-for(feature in c(countFeatures,ratioFeatures)) {
+for(feature in c(coreFeatures,derivedFeatures)) {
   augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
                          "zero_value",function(dataTable) {dataTable[[feature]] == 0})
   print(paste("Number of cases with zero values in ", feature, ": ", 
@@ -130,9 +131,13 @@ print(paste("Number of cases with only zero values for size facts: ",
 
 ## month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)
 augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "month_fact", "project_name_fact")
-monthlyFactsBeforeCleaning[,inconsecutive_month:=(
-  (as.integer(month_fact) != (as.integer(previous_month_month_fact) + 1)) &
-  !((as.integer(month_fact) == 1 & as.integer(previous_month_month_fact) == 12)))][]
+augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "year_fact", "project_name_fact")
+monthlyFactsBeforeCleaning["project_name_fact",inconsecutive_month:=(
+  (as.integer(year_fact) == as.integer(previous_month_year_fact) &
+     (as.integer(month_fact) != (as.integer(previous_month_month_fact) + 1)))
+  &
+  (as.integer(year_fact) == as.integer(previous_month_year_fact) + 1 &
+     !((as.integer(month_fact) == 1 & as.integer(previous_month_month_fact) == 12))))][]
 
 print(paste("Number of cases where 'month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)' holds."))
 print(table(monthlyFactsBeforeCleaning$inconsecutive_month,useNA="ifany"))
@@ -209,3 +214,6 @@ monthlyFactsBeforeCleaning[,case_has_inconsistent_values:=(zero_values_size_fact
 print(paste("Number of cases with inconsistent features: ", 
             table(monthlyFactsBeforeCleaning$case_has_inconsistent_values)["TRUE"],
             sep=""))
+
+write.csv(monthlyFactsBeforeCleaning, paste(analysis_dir,"monthlyFactsBeforeCleaningAnnotated.csv", sep="/"))
+
