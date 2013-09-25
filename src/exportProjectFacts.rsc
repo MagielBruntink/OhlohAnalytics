@@ -13,47 +13,19 @@ import dataValidation;
 
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
-// broken
-//public void exportFactsForAllProjects() {
-//	logToConsole("exportFactsForAllProject", "Getting Ohloh facts for all projects from cache...");
-//	monthlyFactsMap OhlohFacts=getOhlohFactsFromCache();
-//	
-//	logToConsole("exportFactsForAllProject", "Getting monthly growth facts for all projects from cache...");
-//	monthlyFactsMap allMonthlyFacts=getMonthlyFactsFromCache(OhlohFacts);
-//	logToConsole("exportFactsForAllProject", "Exporting all monthly facts to CSV for all projects: " + "allMonthlyFacts.csv");
-//	writeFactsToCSV(convertMonthlyFactsMapToRel(allMonthlyFacts),"allMonthlyFacts.csv");
-//	
-//	logToConsole("exportFactsForAllProject", "Getting yearly growth facts for all projects from cache...");
-//	yearlyFactsMap allYearlyFacts=getYearlyFactsFromCache(allMonthlyFacts);
-//	logToConsole("exportFactsForAllProject", "Exporting all yearly facts to CSV for all projects: " + "allYearlyFacts.csv");
-//	writeFactsToCSV(convertYearlyFactsMapToRel(allYearlyFacts),"allYearlyFacts.csv");
-//	
-//	logToConsole("exportFactsForAllProject", "Calculating project activity for all projects...");
-//	projectActivityStats=getProjectActivityStatus(allYearlyFacts);
-//	logToConsole("exportFactsForAllProject", "Calculating project death events for all projects...");
-//	projectDeathStats=getProjectDeathStatus(projectActivityStats, "2012");
-//	logToConsole("exportFactsForAllProject", "Exporting project death events CSV for all projects: " + "projectDeathStatus.csv");
-//	writeFactsToCSV(projectDeathStats,"projectDeathStatus.csv");
-//}
-
 public void validateAndOutputFacts() {
 	logToConsole("validateAndOutputFacts", "Validating all data in repository on project level...");
 	remainingProjects = validateDataOnProjectLevel();
 	logToConsole("validateAndOutputFacts", "Obtaining all merged facts form repository...");
 	facts = mergeFactsForProjects(remainingProjects);
 	writeFactsMapToCSV(facts, validationResultsDir + "monthlyFactsWithProperEnlistments.csv");
+	exportProjectsMetaData(remainingProjects);
 }
 
-public void doProjectMetaDataAnalyses () {
-	logToConsole("doProjectMetaDataAnalyses", "Analyzing project tags for all projects...");
-	OAL=generateOALForTags(getProjectNamesInRepository());
-	writeValueToFile(OAL,"projects-tags.oal");
-}
-
-public void exportRepositoryFacts () {
-	logToConsole("exportRepositoryFacts", "Exporting repository facts for all projects...");
-	repoFacts=getRepositoryFactsForProjects(getProjectNamesInRepository());
-	writeFactsToCSV(repoFacts,"projectRepositoryFacts.csv");
+public void exportProjectsMetaData(list[str] projects) {
+	logToConsole("exportProjectsMetaData", "Exporting meta data on all projects in repository...");
+	rel[str project_name_fact, str main_language_fact] metaData = getMetaDataElements(projects, "main_language_name");
+	writeCSV(metaData,validationResultsDir + "projectsMetaData.csv");
 }
 
 public void writeValueToFile(v, str fileName) {
@@ -61,8 +33,11 @@ public void writeValueToFile(v, str fileName) {
 }
 
 public void writeFactsMapToCSV (factsMap facts, loc outFile) {
+	writeFactsMapToCSV(facts,outFile,identificationFactKeys + activityFactKeys + sizeFactKeys + metaDataFactKeys);
+}
+
+public void writeFactsMapToCSV (factsMap facts, loc outFile, list[maybeFactKey] factKeys) {
 	separator = ",";
-	factKeys = identificationFactKeys + activityFactKeys + sizeFactKeys;
 	header = "";
 	
 	for (factKey <- factKeys) {
