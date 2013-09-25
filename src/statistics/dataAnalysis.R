@@ -67,3 +67,6 @@ addAgeFacts(monthlyFactsAfterCleaningCutoff)
 yearlyFactsNotCleanedCutoff <- groupByAgeYear(monthlyFactsBeforeCleaningCutoff)
 yearlyFactsCleanedCutoff <- groupByAgeYear(monthlyFactsAfterCleaningCutoff)
 
+projectMetaData <- data.table(read.csv(paste(analysis_dir,"projectsMetaData.csv", sep="/")))
+
+
