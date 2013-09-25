@@ -24,9 +24,6 @@ public list[str] getProjectNamesOnList() {
 
 alias repositoriesRel = rel[str projectName, str repositoryType, str repositoryURL];
 
-alias metaDataRel = rel[str projectName, str elementValue];
-
-
 alias maybeFacts = map[maybeFactKey, Maybe[value]];
 alias factsKey = tuple[str projectName, str year, str month];
 alias factsMap = map[factsKey, maybeFacts];
@@ -51,6 +48,7 @@ public maybeFactKey cumulative_commits_fact  = "cumulative_commits_fact";
 public maybeFactKey man_months_fact          = "man_months_fact";
 public maybeFactKey loc_growth_absolute_fact = "loc_growth_absolute_fact";
 public maybeFactKey loc_growth_factor_fact   = "loc_growth_factor_fact";
+public maybeFactKey main_language_fact  	 = "main_language_fact";
 
 public list[maybeFactKey] identificationFactKeys = [
 			project_name_fact,
@@ -83,6 +81,9 @@ public list[maybeFactKey] growthFactKeys = [
 		    loc_growth_factor_fact
 		   ];
 
+public list[maybeFactKey] metaDataFactKeys = [
+			main_language_fact
+		   ];
 
 public factsMap mergeFactsForProjects (list[str] projectNames) {
 
@@ -138,16 +139,17 @@ public factsMap mergeFactsForAllProjects () {
 	return mergeFactsForProjects(getProjectNamesInRepository());
 }
 
-public metaDataRel getMetaDataElements(list[str] projectNames, str elementName) {
-	return { 
-			valuesForProject |
+public rel[str,str] getMetaDataElements(list[str] projectNames, str elementName) {
+	return {
+			<projectName, valueForProject>
+			|
 			projectName <- projectNames,
-			valuesForProject <- getMetaDataElements(projectName, elementName)
+			valueForProject <- getMetaDataElements(projectName, elementName)
 	};
 }
 
 
-public metaDataRel getMetaDataElements(str projectName, str elementName) {
+public set[str] getMetaDataElements(str projectName, str elementName) {
 	result = {};
 	
 	try
@@ -156,8 +158,7 @@ public metaDataRel getMetaDataElements(str projectName, str elementName) {
 						 elementName,
 						 [Node*,charData(str elementValue)]):
 			{
-	             result += <projectName,
-				 			elementValue>;
+	             result += {elementValue};
 			}
 		}
 	catch: logToConsole("getMetaDataElements", "WARNING error while getting meta data facts for project: <projectName>.");
