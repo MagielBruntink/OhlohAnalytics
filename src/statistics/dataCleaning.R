@@ -80,4 +80,4 @@ projectsAfterCleaning<-unique(monthlyFactsAfterCleaning$project_name_fact)
 projectsDropped<-setdiff(projectsBeforeCleaning,projectsAfterCleaning)
 
 write.csv(monthlyFactsAfterCleaning, paste(analysis_dir,"monthlyFactsAfterCleaning.csv", sep="/"))
-write.csv(projectsDropped, paste(analysis_dir,"projectsDroppedDuringCleaning", sep="/"))
+write.csv(projectsDropped, paste(analysis_dir,"projectsDroppedDuringCleaning.csv", sep="/"))
