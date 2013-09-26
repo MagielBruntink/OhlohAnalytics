@@ -53,20 +53,20 @@ groupByAgeYear <- function(dataTable) {
                     by=list(project_name_fact,age_in_years)])
 }
 
-monthlyFactsBeforeCleaningCutoff <- subset(monthlyFactsBeforeCleaning,
-                                    year_fact<=2012)
-monthlyFactsAfterCleaningCutoff <- subset(monthlyFactsAfterCleaning,
-                                    year_fact<=2012)
+addGrowthFacts(monthlyFactsBeforeCleaning)
+addGrowthFacts(monthlyFactsAfterCleaning)
 
-addGrowthFacts(monthlyFactsBeforeCleaningCutoff)
-addGrowthFacts(monthlyFactsAfterCleaningCutoff)
-
-addAgeFacts(monthlyFactsBeforeCleaningCutoff)
-addAgeFacts(monthlyFactsAfterCleaningCutoff)
-
-yearlyFactsNotCleanedCutoff <- groupByAgeYear(monthlyFactsBeforeCleaningCutoff)
-yearlyFactsCleanedCutoff <- groupByAgeYear(monthlyFactsAfterCleaningCutoff)
+addAgeFacts(monthlyFactsBeforeCleaning)
+addAgeFacts(monthlyFactsAfterCleaning)
 
 projectMetaData <- data.table(read.csv(paste(analysis_dir,"projectsMetaData.csv", sep="/")))
+setkey(projectMetaData,project_name_fact)
+monthlyFactsAfterCleaning <- projectMetaData[monthlyFactsAfterCleaning]
 
+yearlyFactsBeforeCleaning <- groupByAgeYear(monthlyFactsBeforeCleaning)
+yearlyFactsAfterCleaning <- groupByAgeYear(monthlyFactsAfterCleaning)
+yearlyFactsAfterCleaning <- projectMetaData[yearlyFactsAfterCleaning]
+
+write.csv(monthlyFactsAfterCleaning, paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv", sep="/"))
+write.csv(yearlyFactsAfterCleaning, paste(analysis_dir,"yearlyFactsAfterCleaningWithMetaData.csv", sep="/"))
 
