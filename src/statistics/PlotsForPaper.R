@@ -18,7 +18,6 @@ frequentLanguages <- c("C","C++","Java","Python","PHP","JavaScript","C#","Perl",
 
 #projectDeath <- read.csv(file=paste(analysis_dir, "projectDeathStatus.csv",sep="/"),header=TRUE,sep=",")
 #projectRepositoryFacts <- read.csv(file=paste(analysis_dir, "projectRepositoryFacts.csv",sep="/"),header=TRUE,sep=",")
-
 #totalLOC <- sum(as.numeric(subset(yearlyFacts,year==cutOffYear)$max_loc_total))
 
 ### Boxplots
@@ -198,8 +197,6 @@ dataToPlot$yData <- dataToPlot$commits_fact
 multiBoxplot(dataToPlot,"","Commits",
              0,150,
              "boxplots-commits-per-programming-language.pdf")
-
-
 
 ######### CODE SIZE
 
