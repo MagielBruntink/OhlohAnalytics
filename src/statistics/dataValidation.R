@@ -1,7 +1,7 @@
 require(data.table)
 require(plyr)
 
-analysis_dir <- "~/git/OhlohAnalytics/validation"
+analysis_dir <- "validation"
 
 monthlyFactsBeforeCleaning <- data.table(read.csv(paste(analysis_dir,"monthlyFactsWithProperEnlistments.csv", sep="/"),
                                       colClasses=c("character",

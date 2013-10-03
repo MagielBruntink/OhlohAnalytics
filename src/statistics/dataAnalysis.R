@@ -1,7 +1,7 @@
 require(data.table)
 require(plyr)
 
-analysis_dir <- "~/git/OhlohAnalytics/validation"
+analysis_dir <- "validation"
 
 addGrowthFacts <- function(monthlyData) {
   monthlyData[,abs_loc_growth:=(loc_added_fact - loc_deleted_fact)][]

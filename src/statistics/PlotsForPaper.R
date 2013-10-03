@@ -7,7 +7,7 @@ options(scipen=1000)
 
 theme_set(theme_bw(base_size = 22))
 
-analysis_dir <- "~/git/OhlohAnalytics/validation"
+analysis_dir <- "validation"
 output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Quality of Software Evolution Data on Ohloh"
 
 monthlyFacts <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv",sep="/"),header=TRUE,sep=","))
@@ -106,9 +106,9 @@ ggsave(file=paste(output_dir,"barchart-projects-per-main-language.pdf",sep="/"),
 
 ######## Months per language
 dataToPlot <- data.frame(monthlyFacts[,length(.SD$month_fact),
-                                      by=main_language])
+                                      by=main_language_fact])
 
-dataToPlot$sorted_factors <- reorder(dataToPlot$main_language, dataToPlot$V1)
+dataToPlot$sorted_factors <- reorder(dataToPlot$main_language_fact, dataToPlot$V1)
 plotObj <- ggplot(dataToPlot[1:20,], aes(x=sorted_factors,y=V1))
 plotObj <- plotObj +
   geom_bar(stat="identity") +

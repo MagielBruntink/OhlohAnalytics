@@ -1,7 +1,7 @@
 require(data.table)
 require(plyr)
 
-analysis_dir <- "~/git/OhlohAnalytics/validation"
+analysis_dir <- "validation"
 
 monthlyFactsDuringCleaning = copy(monthlyFactsBeforeCleaning)
 setkey(monthlyFactsDuringCleaning, project_name_fact, year_fact, month_fact)
