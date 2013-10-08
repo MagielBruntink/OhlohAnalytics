@@ -59,13 +59,13 @@ addGrowthFacts(monthlyFactsAfterCleaning)
 addAgeFacts(monthlyFactsBeforeCleaning)
 addAgeFacts(monthlyFactsAfterCleaning)
 
-projectMetaData <- data.table(read.csv(paste(analysis_dir,"projectsMetaData.csv", sep="/")))
-setkey(projectMetaData,project_name_fact)
-monthlyFactsAfterCleaning <- projectMetaData[monthlyFactsAfterCleaning]
+projectsMainLanguages <- data.table(read.csv(paste(analysis_dir,"projectsMainLanguages.csv", sep="/")))
+setkey(projectsMainLanguages,project_name_fact)
+monthlyFactsAfterCleaning <- projectsMainLanguages[monthlyFactsAfterCleaning]
 
 yearlyFactsBeforeCleaning <- groupByAgeYear(monthlyFactsBeforeCleaning)
 yearlyFactsAfterCleaning <- groupByAgeYear(monthlyFactsAfterCleaning)
-yearlyFactsAfterCleaning <- projectMetaData[yearlyFactsAfterCleaning]
+yearlyFactsAfterCleaning <- projectsMainLanguages[yearlyFactsAfterCleaning]
 
 write.csv(monthlyFactsAfterCleaning, paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv", sep="/"))
 write.csv(yearlyFactsAfterCleaning, paste(analysis_dir,"yearlyFactsAfterCleaningWithMetaData.csv", sep="/"))

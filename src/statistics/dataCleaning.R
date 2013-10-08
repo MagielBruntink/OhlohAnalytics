@@ -39,8 +39,12 @@ monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inc
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_blanks) | inconsistent_blanks == FALSE)
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_comments) | inconsistent_comments == FALSE)
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits == FALSE)
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits_loc == FALSE)
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits_comments == FALSE)
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits_blanks == FALSE)
 
 monthlyFactsAfterCleaning <- subset(copy(monthlyFactsDuringCleaning),select=c(keyFeatures,coreFeatures))
+setkey(monthlyFactsAfterCleaning, project_name_fact, year_fact, month_fact)
 rm(monthlyFactsDuringCleaning)
 
 # Size the cleaned data set
@@ -48,7 +52,7 @@ rm(monthlyFactsDuringCleaning)
 numberOfProjects <- length(unique(monthlyFactsAfterCleaning$project_name_fact))
 print(paste("Number of projects after cleaning:", numberOfProjects))
 
-missingValuesMatrix <- is.na.data.frame(monthlyFactsAfterCleaning)
+missingValuesMatrix <- is.na.data.frame(subset(monthlyFactsAfterCleaning,select=coreFeatures))
 missingValuesCounts <- table(missingValuesMatrix)
 print(paste("Total number of values:", missingValuesCounts["FALSE"]))
 print(paste("Total number of missing values (double-check):", missingValuesCounts["TRUE"]))
@@ -61,12 +65,11 @@ print(paste("Total number of cases with missing values (double-check):", complet
 ## month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)
 augmentWithPreviousMonthFeature(monthlyFactsAfterCleaning, "month_fact", "project_name_fact")
 augmentWithPreviousMonthFeature(monthlyFactsAfterCleaning, "year_fact", "project_name_fact")
-monthlyFactsAfterCleaning["project_name_fact",inconsecutive_month:=(
-  (as.integer(year_fact) == as.integer(previous_month_year_fact) &
-     (as.integer(month_fact) != (as.integer(previous_month_month_fact) + 1)))
-  &
-    (as.integer(year_fact) == as.integer(previous_month_year_fact) + 1 &
-       !((as.integer(month_fact) == 1 & as.integer(previous_month_month_fact) == 12))))][]
+monthlyFactsAfterCleaning[,inconsecutive_month:=(
+  (ymd(paste(year_fact,month_fact,"01",sep="-")) %m+% months(-1))
+  !=
+  (ymd(paste(previous_month_year_fact,previous_month_month_fact,"01",sep="-")))),
+                          by=project_name_fact][]
 
 print(paste("Total number of projects that have inconsecutive months:",
     table(monthlyFactsAfterCleaning[,any(.SD$inconsecutive_month),by=project_name_fact][["V1"]])["TRUE"]))

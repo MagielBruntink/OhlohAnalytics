@@ -139,12 +139,12 @@ public factsMap mergeFactsForAllProjects () {
 	return mergeFactsForProjects(getProjectNamesInRepository());
 }
 
-public rel[str,str] getMetaDataElements(list[str] projectNames, str elementName) {
+public rel[str,str] getMetaDataElements(list[str] projectNames, str elementName, str scopeElementName) {
 	return {
 			<projectName, valueForProject>
 			|
 			projectName <- projectNames,
-			valueForProject <- getMetaDataElements(projectName, elementName)
+			valueForProject <- getMetaDataElements(projectName, elementName, scopeElementName)
 	};
 }
 
@@ -164,6 +164,30 @@ public set[str] getMetaDataElements(str projectName, str elementName) {
 	catch: logToConsole("getMetaDataElements", "WARNING error while getting meta data facts for project: <projectName>.");
 	return result;
 }
+
+public set[str] getMetaDataElements(str projectName, str elementName, str scopeElementName) {
+	result = {};
+	
+	if(scopeElementName=="") return getMetaDataElements(projectName, elementName);
+	
+	try
+		top-down visit(getProjectMetaDataDOM(projectName)) {
+			case element(_,
+						 scopeElementName,
+						 [_*,
+						  element(_,
+						          elementName,
+						 		  [Node*,charData(str elementValue)]),
+						  _*])
+			:
+			{
+	             result += {elementValue};
+			}
+		}
+	catch: logToConsole("getMetaDataElementsWithin", "WARNING error while getting meta data facts for project: <projectName>.");
+	return result;
+}
+
 
 public repositoriesRel getRepositoryFactsForProjects(list[str] projectNames) {
 	return {
@@ -345,20 +369,20 @@ private Node uncachedGetXMLContentsDOM(str projectName, str fileName) {
 	return XMLContentsDOM;
 }
 
-private str reformatDateTime(str dateTimeString) {
+public str reformatDateTime(str dateTimeString) {
 	datetime dt = parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'");
 	return printDate(dt, "yyyy-MM");
 }
 
-private str getYear(str dateTimeString) {
+public str getYear(str dateTimeString) {
 	return printDate(getDateTime(dateTimeString), "yyyy");
 }
 
-private str getMonth(str dateTimeString) {
+public str getMonth(str dateTimeString) {
 	return printDate(getDateTime(dateTimeString), "MM");
 }
 
-private datetime getDateTime(str dateTimeString) {
+public datetime getDateTime(str dateTimeString) {
 	return parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss");
 }
 

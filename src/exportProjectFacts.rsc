@@ -24,8 +24,11 @@ public void validateAndOutputFacts() {
 
 public void exportProjectsMetaData(list[str] projects) {
 	logToConsole("exportProjectsMetaData", "Exporting meta data on all projects in repository...");
-	rel[str project_name_fact, str main_language_fact] metaData = getMetaDataElements(projects, "main_language_name");
-	writeCSV(metaData,validationResultsDir + "projectsMetaData.csv");
+	rel[str project_name_fact, str main_language_fact] mainLanguages = getMetaDataElements(projects, "main_language_name", "");
+	rel[str project_name_fact, str update_date_fact] updateDate = getMetaDataElements(projects, "updated_at", "analysis");
+		
+	writeCSV(mainLanguages,validationResultsDir + "projectsMainLanguages.csv");
+	writeCSV(updateDate,validationResultsDir + "projectsUpdateDate.csv");
 }
 
 public void writeValueToFile(v, str fileName) {

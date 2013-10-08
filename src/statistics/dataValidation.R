@@ -41,7 +41,7 @@ coreFeatures = c("loc_added_fact",
                   "blanks_fact",
                   "cumulative_commits_fact")
 
-derivedFeatures = c("comment_ratio_fact",
+droppedFeatures = c("comment_ratio_fact",
                   "man_months_fact")
 
 augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
@@ -56,6 +56,19 @@ augmentWithPreviousMonthFeature <- function(dataTable, feature, groupByFeature) 
 }
 
 
+projectsUpdateDate <- data.table(read.csv(paste(analysis_dir,"projectsUpdateDate.csv", sep="/")))
+setkey(projectsUpdateDate,project_name_fact)
+monthlyFactsBeforeCleaning <- projectsUpdateDate[monthlyFactsBeforeCleaning]
+
+
+monthlyFactsBeforeCleaning <- subset(monthlyFactsBeforeCleaning,
+                                     !(floor_date(as.Date(update_date_fact),"month") <= 
+                                       floor_date(as.Date(paste(year_fact,month_fact,"01",sep="-")),"month")))
+
+monthlyFactsBeforeCleaning[,update_date_fact:=NULL][]
+
+setkey(monthlyFactsBeforeCleaning, project_name_fact, year_fact, month_fact)
+
 # NUMBER OF PROJECTS
 
 numberOfProjects <- length(unique(monthlyFactsBeforeCleaning$project_name_fact))
@@ -64,7 +77,7 @@ print(paste("Number of projects:", numberOfProjects))
 
 print("MISSING VALUES")
 
-missingValuesMatrix <- is.na.data.frame(monthlyFactsBeforeCleaning)
+missingValuesMatrix <- is.na.data.frame(subset(monthlyFactsBeforeCleaning,select=c(coreFeatures,droppedFeatures)))
 missingValuesCounts <- table(missingValuesMatrix)
 print(paste("Total number of values:", missingValuesCounts["TRUE"] + missingValuesCounts["FALSE"]))
 print(paste("Total number of missing values:", missingValuesCounts["TRUE"]))
@@ -81,10 +94,10 @@ print(paste("Total number of cases with missing values (in any feature):", compl
 print("IMPLAUSIBLE VALUES")
 
 print("Number of negative values per feature:")
-print(sapply(subset(monthlyFactsBeforeCleaning, select=c(coreFeatures,derivedFeatures)),
+print(sapply(subset(monthlyFactsBeforeCleaning, select=c(coreFeatures,droppedFeatures)),
        function(x) table(x<0,useNA="ifany")["TRUE"]))
 
-for(feature in c(coreFeatures,derivedFeatures)) {
+for(feature in c(coreFeatures,droppedFeatures)) {
   augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
                          "negative_value",function(dataTable) {dataTable[[feature]] < 0})
   print(paste("Number of cases with negative values in ", feature, ": ", 
@@ -113,7 +126,7 @@ print(paste("Number of cases with implausible values: ",
 
 print("CONSISTENCY CHECKS")
 
-for(feature in c(coreFeatures,derivedFeatures)) {
+for(feature in c(coreFeatures,droppedFeatures)) {
   augmentWithCheckResult(monthlyFactsBeforeCleaning,feature,
                          "zero_value",function(dataTable) {dataTable[[feature]] == 0})
   print(paste("Number of cases with zero values in ", feature, ": ", 
@@ -132,15 +145,14 @@ print(paste("Number of cases with only zero values for size facts: ",
 ## month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)
 augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "month_fact", "project_name_fact")
 augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "year_fact", "project_name_fact")
-monthlyFactsBeforeCleaning["project_name_fact",inconsecutive_month:=(
-  (as.integer(year_fact) == as.integer(previous_month_year_fact) &
-     (as.integer(month_fact) != (as.integer(previous_month_month_fact) + 1)))
-  &
-  (as.integer(year_fact) == as.integer(previous_month_year_fact) + 1 &
-     !((as.integer(month_fact) == 1 & as.integer(previous_month_month_fact) == 12))))][]
+monthlyFactsBeforeCleaning[,inconsecutive_month:=(
+  (ymd(paste(year_fact,month_fact,"01",sep="-")) %m+% months(-1))
+  !=
+  (ymd(paste(previous_month_year_fact,previous_month_month_fact,"01",sep="-")))),
+                          by=project_name_fact][]
 
-print(paste("Number of cases where 'month_fact != (previous_month + 1) &&| !(month == 1 && previous_month != 12)' holds."))
-print(table(monthlyFactsBeforeCleaning$inconsecutive_month,useNA="ifany"))
+print(paste("Total number of projects that have inconsecutive months:",
+            table(monthlyFactsBeforeCleaning[,any(.SD$inconsecutive_month),by=project_name_fact][["V1"]])["TRUE"]))
 
 ## loc_fact != previous_month_loc_fact + loc_added_fact - loc_deleted_fact
 
@@ -185,6 +197,31 @@ monthlyFactsBeforeCleaning[,inconsistent_commits:=(
 print(paste("Number of cases where 'cumulative_commits != previous_month_cumulative_commits + commits' holds."))
 print(table(monthlyFactsBeforeCleaning$inconsistent_commits,useNA="ifany"))
 
+## commits_fact == 0 & (loc_added_fact != 0 | loc_deleted_fact != 0)
+
+monthlyFactsBeforeCleaning[,inconsistent_commits_loc:=(
+  commits_fact==0 & (loc_added_fact != 0 | loc_deleted_fact != 0))][]
+
+print(paste("Number of cases where 'commits_fact == 0 & (loc_added_fact != 0 | loc_deleted_fact != 0)' holds."))
+print(table(monthlyFactsBeforeCleaning$inconsistent_commits_loc,useNA="ifany"))
+
+## commits_fact == 0 & (comments_added_fact != 0 | comments_deleted_fact != 0)
+
+monthlyFactsBeforeCleaning[,inconsistent_commits_comments:=(
+  commits_fact==0 & (comments_added_fact != 0 | comments_deleted_fact != 0))][]
+
+print(paste("Number of cases where 'commits_fact == 0 & (comments_added_fact != 0 | comments_deleted_fact != 0)' holds."))
+print(table(monthlyFactsBeforeCleaning$inconsistent_commits_comments,useNA="ifany"))
+
+## commits_fact == 0 & (blanks_added_fact != 0 | blanks_deleted_fact != 0)
+
+monthlyFactsBeforeCleaning[,inconsistent_commits_blanks:=(
+  commits_fact==0 & (blanks_added_fact != 0 | blanks_deleted_fact != 0))][]
+
+print(paste("Number of cases where 'commits_fact == 0 & (blanks_added_fact != 0 | blanks_deleted_fact != 0)' holds."))
+print(table(monthlyFactsBeforeCleaning$inconsistent_commits_blanks,useNA="ifany"))
+
+
 ## man_months != previous_month_man_months + contributors
 
 augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning, "man_months_fact", "project_name_fact")
@@ -209,7 +246,10 @@ monthlyFactsBeforeCleaning[,case_has_inconsistent_values:=(zero_values_size_fact
                                                              inconsistent_blanks==TRUE |
                                                              inconsistent_comment_ratio==TRUE |
                                                              inconsistent_commits==TRUE |
-                                                             inconsistent_man_months==TRUE)][]
+                                                             inconsistent_man_months==TRUE |
+                                                             inconsistent_commits_loc==TRUE |
+                                                             inconsistent_commits_comments==TRUE |
+                                                             inconsistent_commits_blanks==TRUE)][]
 
 print(paste("Number of cases with inconsistent features: ", 
             table(monthlyFactsBeforeCleaning$case_has_inconsistent_values)["TRUE"],
