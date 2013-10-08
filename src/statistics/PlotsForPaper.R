@@ -5,7 +5,7 @@ require(data.table)
 
 options(scipen=1000)
 
-theme_set(theme_bw(base_size = 22))
+theme_set(theme_bw(base_size = 24))
 
 analysis_dir <- "validation"
 output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Quality of Software Evolution Data on Ohloh"
@@ -77,7 +77,7 @@ multiBoxplot <- function(dataFrame,xLabel,yLabel,yMin,yMax,fileName) {
   plotObj <- plotObj + labs(x=xLabel,y=yLabel)
   plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
   plotObj <- plotObj + coord_cartesian(ylim = c(yMin,yMax))
-  
+  plotObj <- plotObj + ggtitle(paste("N = ", nrow(dataFrame)))
   ggsave(file=paste(output_dir,fileName,sep="/"),plot=plotObj)
 }
 
@@ -146,7 +146,7 @@ multiBoxplot(dataToPlot,"","LOC in June 2013",
 
 ######## LOC Added per month for various programming languages
 
-dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact >0)
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages)
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$loc_added_fact
 multiBoxplot(dataToPlot,"","LOC Added",
@@ -155,7 +155,7 @@ multiBoxplot(dataToPlot,"","LOC Added",
 
 ######## LOC Deleted per month for various programming languages
 
-dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact >0)
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages)
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$loc_deleted_fact
 multiBoxplot(dataToPlot,"","LOC Deleted",
@@ -164,38 +164,48 @@ multiBoxplot(dataToPlot,"","LOC Deleted",
 
 ######## LOC Absolute Growth per month for various programming languages
 
-dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact >0)
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages)
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$abs_loc_growth
 multiBoxplot(dataToPlot,"","Absolute LOC Growth",
-             -1000,4000,
+             -250,4000,
              "boxplots-abs-loc-growth-per-programming-language.pdf")
+
+######## LOC Absolute Growth per month for various programming languages, with commits > 0
+
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact > 0)
+dataToPlot$xFactor <- dataToPlot$main_language_fact
+dataToPlot$yData <- dataToPlot$abs_loc_growth
+multiBoxplot(dataToPlot,"","Absolute LOC Growth",
+             -250,4000,
+             "boxplots-abs-loc-growth-per-programming-language-non-zero-commits.pdf")
+
 
 ######## LOC Indexed Growth per month for various programming languages
 
-dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact >0)
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages)
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$ind_loc_growth
 multiBoxplot(dataToPlot,"","Indexed LOC Growth",
-             0.95,1.05,
+             0.99,1.02,
              "boxplots-ind-loc_growth-per-programming-language.pdf")
 
 ######## Contributors per month for various programming languages
 
-dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact >0)
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages)
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$contributors_fact
 multiBoxplot(dataToPlot,"","Contributors",
-             0,5,
+             0,3,
              "boxplots-contributors-per-programming-language.pdf")
 
 ######## Commits per month for various programming languages
 
-dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & commits_fact >0)
+dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages)
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$commits_fact
 multiBoxplot(dataToPlot,"","Commits",
-             0,150,
+             0,75,
              "boxplots-commits-per-programming-language.pdf")
 
 ######### CODE SIZE
