@@ -12,18 +12,42 @@ monthlyFactsDuringCleaning[,comment_ratio_fact:=NULL]
 ## Remove man_months_fact feature
 monthlyFactsDuringCleaning[,man_months_fact:=NULL]
 
+## Re-identify missing values
+monthlyFactsDuringCleaning <- cbind(monthlyFactsDuringCleaning,
+                                    data.frame(case_has_missing_values = 
+                                                 !complete.cases(subset(
+                                                   monthlyFactsBeforeCleaning,select=coreFeatures))))
+
+## Re-identify implausible values
+monthlyFactsDuringCleaning[,case_has_implausible_value:=(negative_value_loc_fact==TRUE |
+                                                           negative_value_loc_added_fact==TRUE |
+                                                           negative_value_loc_deleted_fact==TRUE |
+                                                           negative_value_blanks_fact==TRUE |
+                                                           negative_value_blanks_added_fact==TRUE |
+                                                           negative_value_blanks_deleted_fact==TRUE |
+                                                           negative_value_comments_fact==TRUE |
+                                                           negative_value_comments_added_fact==TRUE |
+                                                           negative_value_comments_deleted_fact==TRUE |
+                                                           negative_value_commits_fact==TRUE |
+                                                           negative_value_contributors_fact==TRUE)][]
+
+## Re-identify inconsistent values
+monthlyFactsDuringCleaning[,case_has_inconsistent_values:=(zero_values_size_facts==TRUE |
+                                                             inconsistent_loc==TRUE |
+                                                             inconsistent_comments==TRUE |
+                                                             inconsistent_blanks==TRUE |
+                                                             inconsistent_commits==TRUE |
+                                                             inconsistent_commits_loc==TRUE |
+                                                             inconsistent_commits_comments==TRUE |
+                                                             inconsistent_commits_blanks==TRUE)][]
+
+write.csv(monthlyFactsDuringCleaning, paste(analysis_dir,"monthlyFactsBeforeCleaningCasesAnnotated.csv", sep="/"))
 
 ## Remove any cases with missing values in the core features
-for(feature in c(coreFeatures)) {
-  monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning, subset=!is.na(monthlyFactsDuringCleaning[[feature]]))
-}
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning, case_has_missing_values==FALSE)
 
-## Remove any cases with negative values for the core features
-for(feature in c(coreFeatures)) {
-  featureCheckName <- paste("negative_value",feature,sep="_")
-  monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning, subset=is.na(monthlyFactsDuringCleaning[[featureCheckName]]) |
-                                                            monthlyFactsDuringCleaning[[featureCheckName]] == FALSE)
-}
+## Remove any cases with implausible values for the core features
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning, case_has_implausible_value==FALSE)
 
 ## Remove any cases that are inconsecutive months
 #monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsecutive_month) | inconsecutive_month == FALSE)
@@ -35,13 +59,7 @@ for(feature in c(coreFeatures)) {
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(zero_values_size_facts) | zero_values_size_facts == FALSE)
 
 ## Remove any cases with inconsistent values
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_loc) | inconsistent_loc == FALSE)
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_blanks) | inconsistent_blanks == FALSE)
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_comments) | inconsistent_comments == FALSE)
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits == FALSE)
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits_loc == FALSE)
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits_comments == FALSE)
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(inconsistent_commits) | inconsistent_commits_blanks == FALSE)
+monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(case_has_inconsistent_values) | case_has_inconsistent_values == FALSE)
 
 monthlyFactsAfterCleaning <- subset(copy(monthlyFactsDuringCleaning),select=c(keyFeatures,coreFeatures))
 setkey(monthlyFactsAfterCleaning, project_name_fact, year_fact, month_fact)

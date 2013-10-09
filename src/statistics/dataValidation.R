@@ -1,5 +1,6 @@
 require(data.table)
 require(plyr)
+require(lubridate)
 
 analysis_dir <- "validation"
 
@@ -90,6 +91,10 @@ completeCasesCount <- table(complete.cases(monthlyFactsBeforeCleaning))
 print(paste("Total number of cases:", completeCasesCount["FALSE"] + completeCasesCount["TRUE"]))
 print(paste("Total number of cases with missing values (in any feature):", completeCasesCount["FALSE"]))
 
+monthlyFactsBeforeCleaning <- cbind(monthlyFactsBeforeCleaning,
+                                    data.frame(case_has_missing_values = 
+                                                 !complete.cases(subset(
+                                                   monthlyFactsBeforeCleaning,select=c(coreFeatures,droppedFeatures)))))
 
 print("IMPLAUSIBLE VALUES")
 

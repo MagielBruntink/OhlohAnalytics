@@ -11,7 +11,14 @@ analysis_dir <- "validation"
 output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Quality of Software Evolution Data on Ohloh"
 
 monthlyFacts <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv",sep="/"),header=TRUE,sep=","))
+monthlyFactsBeforeCleaningCasesAnnotated <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsBeforeCleaningCasesAnnotated.csv",sep="/"),header=TRUE,sep=","))
 setkey(monthlyFacts,project_name_fact,year_fact,month_fact)
+setkey(monthlyFactsBeforeCleaningCasesAnnotated,project_name_fact,year_fact,month_fact)
+
+projectsMainLanguages <- data.table(read.csv(paste(analysis_dir,"projectsMainLanguages.csv", sep="/")))
+setkey(projectsMainLanguages,project_name_fact)
+monthlyFactsBeforeCleaningCasesAnnotated <- projectsMainLanguages[monthlyFactsBeforeCleaningCasesAnnotated]
+setkey(monthlyFactsBeforeCleaningCasesAnnotated,project_name_fact,year_fact,month_fact)
 
 # TODO: get this from the actual data
 frequentLanguages <- c("C","C++","Java","Python","PHP","JavaScript","C#","Perl","Ruby","Objective-C")
@@ -103,7 +110,20 @@ plotObj <- plotObj +
   coord_flip()
 ggsave(file=paste(output_dir,"barchart-projects-per-main-language.pdf",sep="/"),plot=plotObj)
 
-######## Months per language
+######## Months per language before cleaning
+
+dataToPlot <- na.omit(data.frame(monthlyFactsBeforeCleaningCasesAnnotated[,length(.SD$month_fact),
+                                                                          by=main_language_fact]))
+
+dataToPlot$sorted_factors <- reorder(dataToPlot$main_language_fact, dataToPlot$V1)
+plotObj <- ggplot(dataToPlot[1:20,], aes(x=sorted_factors,y=V1))
+plotObj <- plotObj +
+  geom_bar(stat="identity") +
+  labs(y="Number of months",x="") +
+  coord_flip()
+ggsave(file=paste(output_dir,"barchart-months-per-main-language-before-cleaning.pdf",sep="/"),plot=plotObj)
+
+######## Months per language after cleaning
 dataToPlot <- data.frame(monthlyFacts[,length(.SD$month_fact),
                                       by=main_language_fact])
 
@@ -113,7 +133,7 @@ plotObj <- plotObj +
   geom_bar(stat="identity") +
   labs(y="Number of months",x="") +
   coord_flip()
-ggsave(file=paste(output_dir,"barchart-months-per-main-language.pdf",sep="/"),plot=plotObj)
+ggsave(file=paste(output_dir,"barchart-months-per-main-language-after-cleaning.pdf",sep="/"),plot=plotObj)
 
 ######## Duration in data set per project
 dataToPlot <- data.frame(monthlyFacts[,max(.SD$age_in_months),
@@ -135,14 +155,45 @@ multiBoxplot(dataToPlot,"","Age in months in June 2013",
              0,300,
              "boxplots-age-june2013-per-programming-language.pdf")
 
-######## Code size of the projects in June 2013
+######## Code size of the projects in June 2013 before cleaning
+
+dataToPlot <- subset(monthlyFactsBeforeCleaningCasesAnnotated,main_language_fact %in% frequentLanguages & year_fact=="2013" & month_fact=="6")
+dataToPlot$xFactor <- dataToPlot$main_language_fact
+dataToPlot$yData <- dataToPlot$loc_fact
+multiBoxplot(dataToPlot,"","LOC in June 2013",
+             0,250000,
+             "boxplots-loc-june2013-per-programming-language-before-cleaning.pdf")
+
+
+######## Code size of the projects in June 2013 after cleaning
 
 dataToPlot <- subset(monthlyFacts,main_language_fact %in% frequentLanguages & year_fact=="2013" & month_fact=="6")
 dataToPlot$xFactor <- dataToPlot$main_language_fact
 dataToPlot$yData <- dataToPlot$loc_fact
 multiBoxplot(dataToPlot,"","LOC in June 2013",
              0,250000,
-             "boxplots-loc-june2013-per-programming-language.pdf")
+             "boxplots-loc-june2013-per-programming-language-after-cleaning.pdf")
+
+
+
+######## Code size of the projects in June 2013 before and after combined
+
+dataToPlot <- melt(list(
+  subset(monthlyFactsBeforeCleaningCasesAnnotated,main_language_fact %in% frequentLanguages),
+  subset(monthlyFacts,main_language_fact %in% frequentLanguages)
+  ), id.vars=c("main_language_fact"), measure.vars=c("loc_fact"), value.name = "loc_fact")
+
+plotObj <- ggplot(dataToPlot, aes(main_language_fact,loc_fact,fill=factor(L1),dodge=L1))
+plotObj <- plotObj + geom_boxplot()
+plotObj <- plotObj + labs(x="",y="LOC in month")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(ylim = c(0,250000))
+plotObj <- plotObj + scale_fill_manual(values=c("gray","white"))
+plotObj <- plotObj + theme(legend.position = "none") 
+ggsave(file=paste(output_dir,"boxplots-loc-june2013-per-programming-language-combined.pdf",sep="/"),plot=plotObj)
+
+
+
 
 ######## LOC Added per month for various programming languages
 
