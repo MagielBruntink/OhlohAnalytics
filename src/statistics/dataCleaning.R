@@ -7,7 +7,7 @@ monthlyFactsDuringCleaning = copy(monthlyFactsBeforeCleaning)
 setkey(monthlyFactsDuringCleaning, project_name_fact, year_fact, month_fact)
 
 ## Remove comment_ratio_fact feature
-monthlyFactsDuringCleaning[,comment_ratio_fact:=NULL]
+#monthlyFactsDuringCleaning[,comment_ratio_fact:=NULL]
 
 ## Remove man_months_fact feature
 monthlyFactsDuringCleaning[,man_months_fact:=NULL]
@@ -29,6 +29,7 @@ monthlyFactsDuringCleaning[,case_has_implausible_value:=(negative_value_loc_fact
                                                            negative_value_comments_added_fact==TRUE |
                                                            negative_value_comments_deleted_fact==TRUE |
                                                            negative_value_commits_fact==TRUE |
+                                                           negative_value_comment_ratio_fact==TRUE |
                                                            negative_value_contributors_fact==TRUE)][]
 
 ## Re-identify inconsistent values
@@ -36,6 +37,7 @@ monthlyFactsDuringCleaning[,case_has_inconsistent_values:=(zero_values_size_fact
                                                              inconsistent_loc==TRUE |
                                                              inconsistent_comments==TRUE |
                                                              inconsistent_blanks==TRUE |
+                                                             inconsistent_comment_ratio==TRUE |
                                                              inconsistent_commits==TRUE |
                                                              inconsistent_commits_loc==TRUE |
                                                              inconsistent_commits_comments==TRUE |

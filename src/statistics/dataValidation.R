@@ -40,10 +40,10 @@ coreFeatures = c("loc_added_fact",
                   "loc_fact",
                   "comments_fact",
                   "blanks_fact",
+                  "comment_ratio_fact",
                   "cumulative_commits_fact")
 
-droppedFeatures = c("comment_ratio_fact",
-                  "man_months_fact")
+droppedFeatures = c("man_months_fact")
 
 augmentWithCheckResult <- function(dataTable, featureName, checkName, checkFun) {
   dataTable[,(paste(checkName,featureName,sep="_")) := checkFun(dataTable)][]
