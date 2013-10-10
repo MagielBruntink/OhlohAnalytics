@@ -98,7 +98,7 @@ scatterPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE) {
 }
 
 
-######## Months per language before and after cleaning combined
+######## Cases per language before and after cleaning combined
 dataToPlot <- melt(list(
   na.omit(data.frame(monthlyFactsBeforeCleaningCasesAnnotated[,month_fact,by=main_language_fact])),
   data.frame(monthlyFacts[,month_fact,by=main_language_fact])),
@@ -106,11 +106,11 @@ dataToPlot <- melt(list(
 
 plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
                                   fill=factor(L1)))
-plotObj <- plotObj + geom_bar(stat="bin",position="dodge")
-plotObj <- plotObj + labs(x="",y="Number of months")
+plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
+plotObj <- plotObj + labs(x="",y="Number of cases (months)")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5))
-plotObj <- plotObj + scale_fill_manual(values=c("gray","red"))
+plotObj <- plotObj + scale_fill_manual(values=c("gray","white"))
 plotObj <- plotObj + theme(legend.position = "none") 
 ggsave(file=paste(output_dir,"barchart-months-per-main-language-combined.pdf",sep="/"),plot=plotObj)
 
@@ -128,7 +128,7 @@ plotObj <- plotObj + geom_boxplot()
 plotObj <- plotObj + labs(x="",y="LOC Added per month")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5),ylim = c(0,4500))
-plotObj <- plotObj + scale_fill_manual(values=c("gray","red"))
+plotObj <- plotObj + scale_fill_manual(values=c("gray","white"))
 plotObj <- plotObj + theme(legend.position = "none") 
 ggsave(file=paste(output_dir,"boxplots-loc-added-per-programming-language-combined.pdf",sep="/"),plot=plotObj)
 
@@ -145,7 +145,7 @@ plotObj <- plotObj + geom_boxplot()
 plotObj <- plotObj + labs(x="",y="Commits per month")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5),ylim = c(0,75))
-plotObj <- plotObj + scale_fill_manual(values=c("gray","red"))
+plotObj <- plotObj + scale_fill_manual(values=c("gray","white"))
 plotObj <- plotObj + theme(legend.position = "none") 
 ggsave(file=paste(output_dir,"boxplots-commits_fact-per-programming-language-combined.pdf",sep="/"),plot=plotObj)
 
