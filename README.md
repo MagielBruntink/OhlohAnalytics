@@ -3,7 +3,7 @@ OhlohAnalytics
 
 A research project studying the code evolution of open source projects using the Ohloh data.
 
-Please get into contact before using the aggregated data or code provided by this repository.
+Please get into contact before using the aggregated data or code provided by this repository. Replication details are provided on the [Wiki](https://github.com/MagielBruntink/OhlohAnalytics/wiki).
 
 Citing the repository could be done as follows:
 ```
