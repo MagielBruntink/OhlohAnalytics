@@ -14,21 +14,27 @@ import dataValidation;
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
 public void validateAndOutputFacts() {
+	exportProjectsMetaData(getProjectNamesInRepository());
 	logToConsole("validateAndOutputFacts", "Validating all data in repository on project level...");
 	remainingProjects = validateDataOnProjectLevel();
 	logToConsole("validateAndOutputFacts", "Obtaining all merged facts form repository...");
 	facts = mergeFactsForProjects(remainingProjects);
 	writeFactsMapToCSV(facts, validationResultsDir + "monthlyFactsWithProperEnlistments.csv");
-	exportProjectsMetaData(remainingProjects);
 }
 
 public void exportProjectsMetaData(list[str] projects) {
 	logToConsole("exportProjectsMetaData", "Exporting meta data on all projects in repository...");
 	rel[str project_name_fact, str main_language_fact] mainLanguages = getMetaDataElements(projects, "main_language_name", "");
 	rel[str project_name_fact, str update_date_fact] updateDate = getMetaDataElements(projects, "updated_at", "analysis");
-		
+	repositoriesRel repos = getRepositoryFactsForProjects(projects);
+	writeCSV(repos,validationResultsDir + "projectsRepositories.csv");
 	writeCSV(mainLanguages,validationResultsDir + "projectsMainLanguages.csv");
 	writeCSV(updateDate,validationResultsDir + "projectsUpdateDate.csv");
+}
+
+public void exportRepositoriesCount(list[str] projects, str fileName) {
+	rel[str repoType, int count] repositoriesCount = getRepositoriesCount(projects);
+	writeCSV(repositoriesCount,validationResultsDir + fileName);
 }
 
 public void writeValueToFile(v, str fileName) {

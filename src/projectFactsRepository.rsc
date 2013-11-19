@@ -22,7 +22,7 @@ public list[str] getProjectNamesOnList() {
 	return readFileLines(ProjectNamesListFile);
 }
 
-alias repositoriesRel = rel[str projectName, str repositoryType, str repositoryURL];
+alias repositoriesRel = rel[str project_name_fact, str repository_type, str repository_URL];
 
 alias maybeFacts = map[maybeFactKey, Maybe[value]];
 alias factsKey = tuple[str projectName, str year, str month];
@@ -188,6 +188,14 @@ public set[str] getMetaDataElements(str projectName, str elementName, str scopeE
 	return result;
 }
 
+public rel[str,int] getRepositoriesCount(list[str] projectNames) {
+	return {
+		<repoType, count> |		
+		rel[str,str] repoTypeCount := invert(getRepositoryFactsForProjects(projectNames)<0,1>),
+		repoType <- domain(repoTypeCount),
+		int count := size(repoTypeCount[repoType])
+	};
+}
 
 public repositoriesRel getRepositoryFactsForProjects(list[str] projectNames) {
 	return {
