@@ -49,7 +49,8 @@ groupByAgeYear <- function(dataTable) {
                           max_cumulative_commits_fact=max(cumulative_commits_fact),
                           sum_abs_loc_growth=sum(na.omit(abs_loc_growth)),
                           prod_ind_loc_growth=prod(na.omit(ind_loc_growth)),
-                          nr_months_in_year=length(.SD$month_fact)),
+                          nr_months_in_year=length(.SD$month_fact),
+                          max_calendar_year=max(year_fact)),
                     by=list(project_name_fact,age_in_years)])
 }
 
@@ -67,6 +68,22 @@ yearlyFactsBeforeCleaning <- groupByAgeYear(monthlyFactsBeforeCleaning)
 yearlyFactsAfterCleaning <- groupByAgeYear(monthlyFactsAfterCleaning)
 yearlyFactsAfterCleaning <- projectsMainLanguages[yearlyFactsAfterCleaning]
 
+# Project inactivity
+
+# Max age of activity and min age of inactivity
+projectActivityStatus <- yearlyFactsAfterCleaning[,
+                         list(last_activity_age=max(subset(.SD,sum_commits_fact!=0)$age_in_years),
+                              first_inactivity_age=min(subset(.SD,sum_commits_fact==0)$age_in_years)),
+                         by=list(project_name_fact)]
+
+projectActivityStatus[,yearOfEvent:=last_activity_age]
+projectActivityStatus[,status:=1]
+projectActivityStatus[!is.infinite(first_inactivity_age),yearOfEvent:=first_inactivity_age]
+projectActivityStatus[!is.infinite(first_inactivity_age),status:=2]
+
+# Output CSV files
 write.csv(monthlyFactsAfterCleaning, paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv", sep="/"))
 write.csv(yearlyFactsAfterCleaning, paste(analysis_dir,"yearlyFactsAfterCleaningWithMetaData.csv", sep="/"))
+write.csv(projectActivityStatus, paste(analysis_dir,"projectActivityStatus.csv", sep="/"))
+
 

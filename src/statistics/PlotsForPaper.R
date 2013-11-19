@@ -2,30 +2,42 @@ require(ggplot2)
 require(survival)
 require(plyr)
 require(data.table)
+require(reshape2)
+source("src/statistics/ggsurv.R")
 
 options(scipen=1000)
 
-theme_set(theme_bw(base_size = 24))
+theme_set(theme_bw(base_size = 16))
 
 analysis_dir <- "validation"
-output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Quality of Software Evolution Data on Ohloh"
+output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Towards Base Rate in Software Analytics-ICTOPEN"
 
 monthlyFacts <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv",sep="/"),header=TRUE,sep=","))
 monthlyFactsBeforeCleaningCasesAnnotated <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsBeforeCleaningCasesAnnotated.csv",sep="/"),header=TRUE,sep=","))
+monthlyFacts[,X:=NULL][]
 setkey(monthlyFacts,project_name_fact,year_fact,month_fact)
 setkey(monthlyFactsBeforeCleaningCasesAnnotated,project_name_fact,year_fact,month_fact)
 
+yearlyFacts <- data.table(read.csv(file=paste(analysis_dir,"yearlyFactsAfterCleaningWithMetaData.csv",sep="/"),header=TRUE,sep=","))
+yearlyFacts[,X:=NULL][]
+setkey(yearlyFacts,project_name_fact,age_in_years)
+
 projectsMainLanguages <- data.table(read.csv(paste(analysis_dir,"projectsMainLanguages.csv", sep="/")))
 setkey(projectsMainLanguages,project_name_fact)
+
 monthlyFactsBeforeCleaningCasesAnnotated <- projectsMainLanguages[monthlyFactsBeforeCleaningCasesAnnotated]
 setkey(monthlyFactsBeforeCleaningCasesAnnotated,project_name_fact,year_fact,month_fact)
 
-# TODO: get this from the actual data
-frequentLanguages <- c("C","C++","Java","Python","PHP","JavaScript","C#","Perl","Ruby","shell script")
+projectsRepositories <- data.table(read.csv(paste(analysis_dir,"projectsRepositories.csv", sep="/")))
+setkey(projectsRepositories,project_name_fact)
+projectsRepositories[repository_type=="CvsRepository",repository_type:="CVS"]
+projectsRepositories[repository_type=="SvnRepository",repository_type:="SVN"]
+projectsRepositories[repository_type=="SvnSyncRepository",repository_type:="SVN sync"]
+projectsRepositories[repository_type=="BzrRepository",repository_type:="Bazaar"]
+projectsRepositories[repository_type=="GitRepository",repository_type:="Git"]
+projectsRepositories[repository_type=="HgRepository",repository_type:="Mercurial"]
 
-#projectDeath <- read.csv(file=paste(analysis_dir, "projectDeathStatus.csv",sep="/"),header=TRUE,sep=",")
-#projectRepositoryFacts <- read.csv(file=paste(analysis_dir, "projectRepositoryFacts.csv",sep="/"),header=TRUE,sep=",")
-#totalLOC <- sum(as.numeric(subset(yearlyFacts,year==cutOffYear)$max_loc_total))
+projectActivityStatus <- data.table(read.csv(paste(analysis_dir,"projectActivityStatus.csv", sep="/")))
 
 ### Boxplots
 boxPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE,statsDetailLevel=2) {
@@ -97,6 +109,40 @@ scatterPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE) {
   ggsave(file=paste(output_dir,fileName,sep="/"),plot=plotObj)
 }
 
+######## Projects by language, before and after cleansing
+dataToPlot <- melt(list(
+  data.frame(projectsMainLanguages[,project_name_fact,by=main_language_fact]),
+  subset(data.frame(projectsMainLanguages[,project_name_fact,by=main_language_fact]),
+         subset=project_name_fact %in% monthlyFacts$project_name_fact)),
+                   id.vars=c("main_language_fact"), measure.vars=c("project_name_fact"), value.name = "project_name_fact")
+
+plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
+                                  fill=factor(L1)))
+plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
+plotObj <- plotObj + labs(x="",y="Number of projects")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5))
+plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
+plotObj <- plotObj + theme(legend.position = "none") 
+ggsave(file=paste(output_dir,"barchart-projects-by-main-language-before-after-cleansing.pdf",sep="/"),plot=plotObj)
+
+
+######## Repositories count by type, before and after cleansing
+dataToPlot <- melt(list(
+  data.frame(projectsRepositories[,project_name_fact,by=repository_type]),
+  subset(data.frame(projectsRepositories[,project_name_fact,by=repository_type]),
+         subset=project_name_fact %in% monthlyFacts$project_name_fact)),
+                    id.vars=c("repository_type"), measure.vars=c("project_name_fact"), value.name = "project_name_fact")
+
+plotObj <- ggplot(dataToPlot, aes(x=reorder(repository_type,L1,function(x) -length(x)),
+                                  fill=factor(L1)))
+plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
+plotObj <- plotObj + labs(x="",y="Number of projects using repository type")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,6.5))
+plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
+plotObj <- plotObj + theme(legend.position = "none") 
+ggsave(file=paste(output_dir,"barchart-repository-types-usage-before-after-cleansing.pdf",sep="/"),plot=plotObj)
 
 ######## Cases per language before and after cleaning combined
 dataToPlot <- melt(list(
@@ -118,7 +164,7 @@ ggsave(file=paste(output_dir,"barchart-months-per-main-language-combined.pdf",se
 ######## LOC Added per month before and after cleaning combined
 
 dataToPlot <- melt(list(
-  monthlyFactsBeforeCleaningCasesAnnotated,
+  #monthlyFactsBeforeCleaningCasesAnnotated,
   monthlyFacts
 ), id.vars=c("main_language_fact"), measure.vars=c("loc_added_fact"), value.name = "loc_added_fact")
 
@@ -127,7 +173,7 @@ plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -l
 plotObj <- plotObj + geom_boxplot()
 plotObj <- plotObj + labs(x="",y="LOC Added per month")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
-plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5),ylim = c(0,4500))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5),ylim = c(-2500,5000))
 plotObj <- plotObj + scale_fill_manual(values=c("gray","white"))
 plotObj <- plotObj + theme(legend.position = "none") 
 ggsave(file=paste(output_dir,"boxplots-loc-added-per-programming-language-combined.pdf",sep="/"),plot=plotObj)
@@ -135,7 +181,7 @@ ggsave(file=paste(output_dir,"boxplots-loc-added-per-programming-language-combin
 ######## Commits per month before and after cleaning combined
 
 dataToPlot <- melt(list(
-  monthlyFactsBeforeCleaningCasesAnnotated,
+  #monthlyFactsBeforeCleaningCasesAnnotated,
   monthlyFacts
 ), id.vars=c("main_language_fact"), measure.vars=c("commits_fact"), value.name = "commits_fact")
 
@@ -149,3 +195,37 @@ plotObj <- plotObj + scale_fill_manual(values=c("gray","white"))
 plotObj <- plotObj + theme(legend.position = "none") 
 ggsave(file=paste(output_dir,"boxplots-commits_fact-per-programming-language-combined.pdf",sep="/"),plot=plotObj)
 
+######## Yearly growth
+dataToPlot <- melt(list(
+  "1" = subset(yearlyFacts, subset = age_in_years == 1 & 
+                               nr_months_in_year == 12),
+  "2" = subset(yearlyFacts, subset = age_in_years == 2 & 
+                               nr_months_in_year == 12),
+  "3" = subset(yearlyFacts, subset = age_in_years == 3 & 
+                               nr_months_in_year == 12)
+), id.vars=c("main_language_fact"), measure.vars=c("prod_ind_loc_growth"), value.name = "prod_ind_loc_growth")
+
+plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
+                                  ,y=prod_ind_loc_growth,fill=factor(L1),dodge=L1))
+plotObj <- plotObj + geom_boxplot()
+plotObj <- plotObj + labs(x="",y="Yearly Code Growth Index")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5),ylim = c(0.9,2.0))
+plotObj <- plotObj + scale_fill_manual(values=c("white","lightgray","darkgray"))
+plotObj <- plotObj + theme(legend.position = "top")
+plotObj <- plotObj + labs(fill = "Years of age")
+ggsave(file=paste(output_dir,"boxplots-yearly-growth-per-programming-language.pdf",sep="/"),plot=plotObj)
+
+######## Project inactivity
+
+survivalCurve <- with(projectActivityStatus, survfit(Surv(yearOfEvent,status,type="right") ~1))
+plotObj <- ggsurv(survivalCurve)
+plotObj <- plotObj + ylim(0,1)
+plotObj <- plotObj + ggtitle(paste("Kaplan-Meier estimate for",
+                                   length(projectActivityStatus$project_name_fact),"projects",sep=" ")) +
+                     theme(plot.title = element_text(size=16))
+plotObj <- plotObj + labs(x="Age of project in years",y="Probability of Continued Activity")
+ggsave(file=paste(output_dir,"survival-curve-activity.pdf",sep="/"),plot=plotObj)
+#plot(survivalCurve, xlab="Project age in years of activity", ylab="Active projects",
+#     main=paste("Kaplan-Meier survival of",length(projectActivityStatus$project_name_fact),"projects",sep=" ")
+#)
