@@ -10,7 +10,7 @@ options(scipen=1000)
 theme_set(theme_bw(base_size = 16))
 
 analysis_dir <- "validation"
-output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Towards Base Rate in Software Analytics-ICTOPEN"
+output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Quality of Software Evolution Data on Ohloh-SQM2014"
 
 monthlyFacts <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsAfterCleaningWithMetaData.csv",sep="/"),header=TRUE,sep=","))
 monthlyFactsBeforeCleaningCasesAnnotated <- data.table(read.csv(file=paste(analysis_dir,"monthlyFactsBeforeCleaningCasesAnnotated.csv",sep="/"),header=TRUE,sep=","))
@@ -109,6 +109,20 @@ scatterPlot <- function(dataFrame,xLabel,yLabel,fileName,zoom=TRUE) {
   ggsave(file=paste(output_dir,fileName,sep="/"),plot=plotObj)
 }
 
+######## Projects by language, before cleansing
+dataToPlot <- melt(list(data.frame(projectsMainLanguages[,project_name_fact,by=main_language_fact])),
+                   id.vars=c("main_language_fact"), measure.vars=c("project_name_fact"), value.name = "project_name_fact")
+
+plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
+                                  fill=factor(L1)))
+plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
+plotObj <- plotObj + labs(x="",y="Number of projects")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5))
+plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
+plotObj <- plotObj + theme(legend.position = "none") 
+ggsave(file=paste(output_dir,"barchart-projects-by-main-language-before-cleansing.pdf",sep="/"),plot=plotObj)
+
 ######## Projects by language, before and after cleansing
 dataToPlot <- melt(list(
   data.frame(projectsMainLanguages[,project_name_fact,by=main_language_fact]),
@@ -126,6 +140,19 @@ plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
 plotObj <- plotObj + theme(legend.position = "none") 
 ggsave(file=paste(output_dir,"barchart-projects-by-main-language-before-after-cleansing.pdf",sep="/"),plot=plotObj)
 
+######## Repositories count by type, before cleansing
+dataToPlot <- melt(list(data.frame(projectsRepositories[,project_name_fact,by=repository_type])),
+                   id.vars=c("repository_type"), measure.vars=c("project_name_fact"), value.name = "project_name_fact")
+
+plotObj <- ggplot(dataToPlot, aes(x=reorder(repository_type,L1,function(x) -length(x)),
+                                  fill=factor(L1)))
+plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
+plotObj <- plotObj + labs(x="",y="Number of projects using repository type")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,6.5))
+plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
+plotObj <- plotObj + theme(legend.position = "none") 
+ggsave(file=paste(output_dir,"barchart-repository-types-usage-before-cleansing.pdf",sep="/"),plot=plotObj)
 
 ######## Repositories count by type, before and after cleansing
 dataToPlot <- melt(list(
@@ -208,7 +235,7 @@ dataToPlot <- melt(list(
 plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
                                   ,y=prod_ind_loc_growth,fill=factor(L1),dodge=L1))
 plotObj <- plotObj + geom_boxplot()
-plotObj <- plotObj + labs(x="",y="Yearly Code Growth Index")
+plotObj <- plotObj + labs(x="The 10 most used main programming languages in the data set",y="Yearly Code Growth Index")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5),ylim = c(0.9,2.0))
 plotObj <- plotObj + scale_fill_manual(values=c("white","lightgray","darkgray"))
@@ -218,7 +245,9 @@ ggsave(file=paste(output_dir,"boxplots-yearly-growth-per-programming-language.pd
 
 ######## Project inactivity
 
-survivalCurve <- with(projectActivityStatus, survfit(Surv(yearOfEvent,status,type="right") ~1))
+#dataToPlot <- subset(projectActivityStatus, subset=main_language_fact %in% c("Java","C","C++","Python","PHP"))
+survivalCurve <- with(projectActivityStatus,
+                      survfit(Surv(yearOfEvent,status,type="right") ~1))
 plotObj <- ggsurv(survivalCurve)
 plotObj <- plotObj + ylim(0,1)
 plotObj <- plotObj + ggtitle(paste("Kaplan-Meier estimate for",
@@ -226,6 +255,3 @@ plotObj <- plotObj + ggtitle(paste("Kaplan-Meier estimate for",
                      theme(plot.title = element_text(size=16))
 plotObj <- plotObj + labs(x="Age of project in years",y="Probability of Continued Activity")
 ggsave(file=paste(output_dir,"survival-curve-activity.pdf",sep="/"),plot=plotObj)
-#plot(survivalCurve, xlab="Project age in years of activity", ylab="Active projects",
-#     main=paste("Kaplan-Meier survival of",length(projectActivityStatus$project_name_fact),"projects",sep=" ")
-#)
