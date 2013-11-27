@@ -73,7 +73,7 @@ yearlyFactsAfterCleaning <- projectsMainLanguages[yearlyFactsAfterCleaning]
 # Max age of activity and min age of inactivity
 projectActivityStatus <- yearlyFactsAfterCleaning[,
                          list(last_activity_age=max(subset(.SD,sum_commits_fact!=0)$age_in_years),
-                              first_inactivity_age=min(subset(.SD,sum_commits_fact==0)$age_in_years)),
+                              first_inactivity_age=min(subset(.SD,sum_commits_fact==0 & nr_months_in_year==12)$age_in_years)),
                          by=list(project_name_fact)]
 
 projectActivityStatus[,yearOfEvent:=last_activity_age]
