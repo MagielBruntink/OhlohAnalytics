@@ -7,7 +7,7 @@ source("src/statistics/ggsurv.R")
 
 options(scipen=1000)
 
-theme_set(theme_bw(base_size = 16))
+theme_set(theme_bw(base_size = 24))
 
 analysis_dir <- "validation"
 output_dir <- "/Users/magielbruntink/Google Drive/UVA/Research/Writing/Quality of Software Evolution Data on Ohloh-SQM2014"
@@ -116,7 +116,7 @@ dataToPlot <- melt(list(data.frame(projectsMainLanguages[,project_name_fact,by=m
 plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
                                   fill=factor(L1)))
 plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
-plotObj <- plotObj + labs(x="",y="Number of projects")
+plotObj <- plotObj + labs(x="Main programming language",y="Number of projects")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5))
 plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
@@ -130,14 +130,16 @@ dataToPlot <- melt(list(
          subset=project_name_fact %in% monthlyFacts$project_name_fact)),
                    id.vars=c("main_language_fact"), measure.vars=c("project_name_fact"), value.name = "project_name_fact")
 
+dataToPlot$L1 <- factor(dataToPlot$L1,levels=c(1,2),labels=c("Before cleansing","After cleansing"))
+
 plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
                                   fill=factor(L1)))
 plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
-plotObj <- plotObj + labs(x="",y="Number of projects")
+plotObj <- plotObj + labs(x="Main programming language",y="Number of projects")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5))
-plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
-plotObj <- plotObj + theme(legend.position = "none") 
+plotObj <- plotObj + scale_fill_manual(values=c("white","gray"),name="")
+plotObj <- plotObj + theme(legend.position = "top")
 ggsave(file=paste(output_dir,"barchart-projects-by-main-language-before-after-cleansing.pdf",sep="/"),plot=plotObj)
 
 ######## Repositories count by type, before cleansing
@@ -147,7 +149,7 @@ dataToPlot <- melt(list(data.frame(projectsRepositories[,project_name_fact,by=re
 plotObj <- ggplot(dataToPlot, aes(x=reorder(repository_type,L1,function(x) -length(x)),
                                   fill=factor(L1)))
 plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
-plotObj <- plotObj + labs(x="",y="Number of projects using repository type")
+plotObj <- plotObj + labs(x="Repository type",y="Number of projects using repository type")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,6.5))
 plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
@@ -161,14 +163,16 @@ dataToPlot <- melt(list(
          subset=project_name_fact %in% monthlyFacts$project_name_fact)),
                     id.vars=c("repository_type"), measure.vars=c("project_name_fact"), value.name = "project_name_fact")
 
+dataToPlot$L1 <- factor(dataToPlot$L1,levels=c(1,2),labels=c("Before cleansing","After cleansing"))
+
 plotObj <- ggplot(dataToPlot, aes(x=reorder(repository_type,L1,function(x) -length(x)),
                                   fill=factor(L1)))
 plotObj <- plotObj + geom_bar(stat="bin",position="dodge",colour="black")
-plotObj <- plotObj + labs(x="",y="Number of projects using repository type")
+plotObj <- plotObj + labs(x="Repository type",y="Number of projects using repository type")
 plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
 plotObj <- plotObj + coord_cartesian(xlim = c(0.5,6.5))
-plotObj <- plotObj + scale_fill_manual(values=c("white","gray"))
-plotObj <- plotObj + theme(legend.position = "none") 
+plotObj <- plotObj + scale_fill_manual(values=c("white","gray"),name="")
+plotObj <- plotObj + theme(legend.position = "top") 
 ggsave(file=paste(output_dir,"barchart-repository-types-usage-before-after-cleansing.pdf",sep="/"),plot=plotObj)
 
 ######## Cases per language before and after cleaning combined
@@ -242,6 +246,29 @@ plotObj <- plotObj + scale_fill_manual(values=c("white","lightgray","darkgray"))
 plotObj <- plotObj + theme(legend.position = "top")
 plotObj <- plotObj + labs(fill = "Years of age")
 ggsave(file=paste(output_dir,"boxplots-yearly-growth-per-programming-language.pdf",sep="/"),plot=plotObj)
+
+######## Size
+dataToPlot <- melt(list(
+  "1" = subset(yearlyFacts, subset = age_in_years == 1 & 
+                 nr_months_in_year == 12),
+  "2" = subset(yearlyFacts, subset = age_in_years == 2 & 
+                 nr_months_in_year == 12),
+  "3" = subset(yearlyFacts, subset = age_in_years == 3 & 
+                 nr_months_in_year == 12)
+), id.vars=c("main_language_fact"), measure.vars=c("max_loc_fact"), value.name = "max_loc_fact")
+
+plotObj <- ggplot(dataToPlot, aes(x=reorder(main_language_fact,L1,function(x) -length(x)),
+                                  ,y=max_loc_fact,fill=factor(L1),dodge=L1))
+plotObj <- plotObj + geom_boxplot()
+plotObj <- plotObj + labs(x="The 10 most used main programming languages in the data set",y="Max size in a year")
+plotObj <- plotObj + theme(axis.text.x=element_text(angle = 90, vjust = 0.5))
+plotObj <- plotObj + coord_cartesian(xlim = c(0.5,10.5))
+plotObj <- plotObj + scale_y_log10()
+plotObj <- plotObj + scale_fill_manual(values=c("white","lightgray","darkgray"))
+plotObj <- plotObj + theme(legend.position = "top")
+plotObj <- plotObj + labs(fill = "Years of age")
+ggsave(file=paste(output_dir,"boxplots-yearly-size-per-programming-language.pdf",sep="/"),plot=plotObj)
+
 
 ######## Project inactivity
 
