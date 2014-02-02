@@ -14,9 +14,9 @@ private str RepositoryTypeSVN = "SvnRepository";
 private str RepositoryTypeSVNSync = "SvnSyncRepository";
 
 
-public list[str] validateDataOnProjectLevel () {
+public list[str] validateDataOnProjectLevel (list[str] projects) {
 
-	list[str] projectsRemaining = getProjectNamesInRepository();
+	list[str] projectsRemaining = projects;
 	
 	logToFile(logFile,"validateData","Starting set of projects: " + toString(size(projectsRemaining)));
 	

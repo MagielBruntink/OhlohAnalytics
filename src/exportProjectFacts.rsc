@@ -14,9 +14,13 @@ import dataValidation;
 public loc OutputFilesDirectory = |project://OhlohAnalytics/output|;
 
 public void validateAndOutputFacts() {
-	exportProjectsMetaData(getProjectNamesInRepository());
+	validateAndOutputFacts(getProjectNamesInRepository());
+}
+
+public void validateAndOutputFacts(list[str] projects) {
+	exportProjectsMetaData(projects);
 	logToConsole("validateAndOutputFacts", "Validating all data in repository on project level...");
-	remainingProjects = validateDataOnProjectLevel();
+	remainingProjects = validateDataOnProjectLevel(projects);
 	logToConsole("validateAndOutputFacts", "Obtaining all merged facts form repository...");
 	facts = mergeFactsForProjects(remainingProjects);
 	writeFactsMapToCSV(facts, validationResultsDir + "monthlyFactsWithProperEnlistments.csv");
@@ -42,7 +46,7 @@ public void writeValueToFile(v, str fileName) {
 }
 
 public void writeFactsMapToCSV (factsMap facts, loc outFile) {
-	writeFactsMapToCSV(facts,outFile,identificationFactKeys + activityFactKeys + sizeFactKeys + metaDataFactKeys);
+	writeFactsMapToCSV(facts,outFile,identificationFactKeys + activityFactKeys + sizeFactKeys);
 }
 
 public void writeFactsMapToCSV (factsMap facts, loc outFile, list[maybeFactKey] factKeys) {
