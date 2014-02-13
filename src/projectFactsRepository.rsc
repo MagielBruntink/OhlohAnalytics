@@ -4,6 +4,7 @@ import Prelude;
 import lang::xml::DOM;
 import Logging;
 import Caching;
+import util::Maybe;
 
 private loc LocalOhlohProjectsRepository = |project://OhlohAnalytics/data|;
 private loc ProjectNamesListFile = LocalOhlohProjectsRepository + "ProjectNamesList.txt";
@@ -13,9 +14,6 @@ private str EnlistmentsFileName = "Enlistments.xml";
 private str SizeFactsFileName = "SizeFacts.xml";
 private str ActivityFactsFileName = "ActivityFacts.xml";
 
-private str RepositoryTypeSVN = "SvnRepository";
-private str RepositoryTypeSVNSync = "SvnSyncRepository";
-
 public list[str] getProjectNamesInRepository() {
 	return listEntries(LocalOhlohProjectsRepository + "projects");
 }
@@ -24,82 +22,183 @@ public list[str] getProjectNamesOnList() {
 	return readFileLines(ProjectNamesListFile);
 }
 
-alias repositoriesRel = rel[str projectName, str repositoryType, str repositoryURL];
+alias repositoriesRel = rel[str project_name_fact, str repository_type, str repository_URL];
 
-alias metaDataRel = rel[str projectName, str elementValue];
-
+alias maybeFacts = map[maybeFactKey, Maybe[value]];
 alias factsKey = tuple[str projectName, str year, str month];
+alias factsMap = map[factsKey, maybeFacts];
 
-data monthlyFact =
-		    loc_added_fact(num i) |
-		    loc_deleted_fact(num i) |
-		    commits_fact(num i) |
-		    contributors_fact(num i) |
-		    loc_total_fact(num i) |
-		    abs_loc_growth_fact(num i) |
-		    loc_growth_factor_fact(num r);
-		    
-alias monthlyFactsMap = map[factsKey, set[monthlyFact]];
+public alias maybeFactKey = str;
+public maybeFactKey project_name_fact        = "project_name_fact";
+public maybeFactKey year_fact    			 = "year_fact";
+public maybeFactKey month_fact   			 = "month_fact";
+public maybeFactKey loc_added_fact           = "loc_added_fact";
+public maybeFactKey loc_deleted_fact         = "loc_deleted_fact";
+public maybeFactKey comments_added_fact      = "comments_added_fact";
+public maybeFactKey comments_deleted_fact    = "comments_deleted_fact";
+public maybeFactKey blanks_added_fact        = "blanks_added_fact";
+public maybeFactKey blanks_deleted_fact      = "blanks_deleted_fact";
+public maybeFactKey commits_fact             = "commits_fact";
+public maybeFactKey contributors_fact        = "contributors_fact";
+public maybeFactKey loc_fact                 = "loc_fact";
+public maybeFactKey comments_fact            = "comments_fact";
+public maybeFactKey blanks_fact              = "blanks_fact";
+public maybeFactKey comment_ratio_fact       = "comment_ratio_fact";
+public maybeFactKey cumulative_commits_fact  = "cumulative_commits_fact";
+public maybeFactKey man_months_fact          = "man_months_fact";
+public maybeFactKey loc_growth_absolute_fact = "loc_growth_absolute_fact";
+public maybeFactKey loc_growth_factor_fact   = "loc_growth_factor_fact";
+public maybeFactKey main_language_fact  	 = "main_language_fact";
 
-alias activityFactsMap = 
-				  map[str, tuple[str projectName,
-                      str year,
-                      str month,
-                      str loc_added,
-                      str loc_deleted,
-                      str commits,
-                      str contributors]];
-alias sizeFactsMap = 
-				  map[str, tuple[str projectName,
-		              str year,
-		              str month,
-		              str loc_total]];
+public list[maybeFactKey] identificationFactKeys = [
+			project_name_fact,
+		    year_fact,
+		    month_fact
+		   ];
 
-public monthlyFactsMap mergeFactsForProjects (list[str] projectNames) {
-     return (<projectName, year, month> : {
-     			loc_added_fact(toInt(loc_added_str)),
-     			loc_deleted_fact(toInt(loc_deleted_str)),
-     			commits_fact(toInt(commits_str)),
-     			contributors_fact(toInt(contributors_str)),
-     			loc_total_fact(toInt(loc_total_str))
-     		 } |
-                   str projectName <- projectNames,
-                   !(true := hasInvalidSVNRepositories(projectName) &&
-                     logToConsole("mergeFactsForProjects", "WARNING project excluded because its SVN repositories can include tags or branches: <projectName>.")),
-                   activityFactsMap activityFacts := getActivityFacts(projectName),
-                   sizeFactsMap sizeFacts := getSizeFacts(projectName),
-                   str key <- activityFacts,
-                   key in sizeFacts,
-                   <_, str year, str month, str loc_added_str, str loc_deleted_str,str commits_str, str contributors_str> := activityFacts[key],
-                   <_, year, month, str loc_total_str> := sizeFacts[key]
-    );
+public list[maybeFactKey] activityFactKeys = [
+			loc_added_fact,
+		    loc_deleted_fact,
+		    comments_added_fact,
+		    comments_deleted_fact,
+		    blanks_added_fact,
+		    blanks_deleted_fact,
+		    commits_fact,
+		    contributors_fact
+		   ];
+		   
+public list[maybeFactKey] sizeFactKeys = [
+			loc_fact,
+		    comments_fact,
+		    blanks_fact,
+		    comment_ratio_fact,
+		    cumulative_commits_fact,
+		    man_months_fact
+		   ];
+		   
+public list[maybeFactKey] growthFactKeys = [
+			loc_growth_absolute_fact,
+		    loc_growth_factor_fact
+		   ];
+
+public list[maybeFactKey] metaDataFactKeys = [
+			main_language_fact
+		   ];
+
+public factsMap mergeFactsForProjects (list[str] projectNames) {
+
+     return (key : (project_name_fact : just(project), year_fact : just(year), month_fact : just(month)) +
+     			   maybeGetSizeFacts(sizeFacts, key) +
+                   maybeGetActivityFacts(activityFacts, key)
+             |
+             str projectName <- projectNames,
+             logToConsole("mergeFactsForProjects", "INFO merging facts for project: <projectName>."),
+             factsMap sizeFacts := getSizeFacts(projectName),
+             factsMap activityFacts := getActivityFacts(projectName),
+             ks := domain(activityFacts) + domain(sizeFacts),
+             size(ks) > 0 || (size(ks) == 0 && logToConsole("mergeFactsForProjects", "WARNING no size or activity facts for project: <projectName>")),
+             factsKey key <- ks,
+             <project,year,month> := key
+            );
 }
 
-public monthlyFactsMap mergeFactsForAllProjects () { 
+private map[maybeFactKey, Maybe[num]] maybeGetActivityFacts(factsMap activityFacts, factsKey key) {
+	switch (maybeGetFromMap(activityFacts, key)) {
+		case nothing():
+				return (activityFactKey : nothing()
+			    |
+				activityFactKey <- activityFactKeys);
+
+		case just(maybeFacts):		
+			return maybeFacts;
+	}
+}
+
+private map[maybeFactKey, Maybe[num]] maybeGetSizeFacts(factsMap sizeFacts, factsKey key) {
+	switch (maybeGetFromMap(sizeFacts, key)) {
+		case nothing():
+				return (sizeFactKey : nothing()
+			    |
+				sizeFactKey <- sizeFactKeys);
+
+		case just(maybeFacts):		
+			return maybeFacts;
+	}
+}
+
+public Maybe[&V] maybeGetFromMap (map[&K, &V] theMap, &K theKey) {
+	if (theKey in theMap) {
+		return just(theMap[theKey]);
+	}
+	else {
+		return nothing();
+	}
+}
+
+public factsMap mergeFactsForAllProjects () { 
 	return mergeFactsForProjects(getProjectNamesInRepository());
 }
 
-public metaDataRel getMetaDataElements(list[str] projectNames, str elementName) {
+public rel[str,str] getMetaDataElements(list[str] projectNames, str elementName, str scopeElementName) {
 	return {
-		valuesForProject |
-		projectName <- projectNames,
-		valuesForProject <- getMetaDataElements(projectName, elementName)
+			<projectName, valueForProject>
+			|
+			projectName <- projectNames,
+			valueForProject <- getMetaDataElements(projectName, elementName, scopeElementName)
 	};
 }
 
-public metaDataRel getMetaDataElements(str projectName, str elementName) {
+
+public set[str] getMetaDataElements(str projectName, str elementName) {
 	result = {};
-		
-	top-down visit(getProjectMetaDataDOM(projectName)) {
-		case element(_,
-					 elementName,
-					 [Node*,charData(str elementValue)]):
-		{
-             result += <projectName,
-			 			elementValue>;
+	
+	try
+		top-down visit(getProjectMetaDataDOM(projectName)) {
+			case element(_,
+						 elementName,
+						 [Node*,charData(str elementValue)]):
+			{
+	             result += {elementValue};
+			}
 		}
-	}
+	catch: logToConsole("getMetaDataElements", "WARNING error while getting meta data facts for project: <projectName>.");
 	return result;
+}
+
+public set[str] getMetaDataElements(str projectName, str elementName, str scopeElementName) {
+	result = {};
+	
+	if(scopeElementName=="") return getMetaDataElements(projectName, elementName);
+	
+	try
+		top-down visit(getProjectMetaDataDOM(projectName)) {
+			case element(_,
+						 scopeElementName,
+						 elements)
+			:
+			{
+	             top-down visit(elements) {
+	                 case element(_,
+						          elementName,
+						 		  [Node*,charData(str elementValue)])
+					:
+					{
+	             		result += {elementValue};
+	             	}
+	             }
+			}
+		}
+	catch: logToConsole("getMetaDataElementsWithin", "WARNING error while getting meta data facts for project: <projectName>.");
+	return result;
+}
+
+public rel[str,int] getRepositoriesCount(list[str] projectNames) {
+	return {
+		<repoType, count> |		
+		rel[str,str] repoTypeCount := invert(getRepositoryFactsForProjects(projectNames)<0,1>),
+		repoType <- domain(repoTypeCount),
+		int count := size(repoTypeCount[repoType])
+	};
 }
 
 public repositoriesRel getRepositoryFactsForProjects(list[str] projectNames) {
@@ -108,34 +207,6 @@ public repositoriesRel getRepositoryFactsForProjects(list[str] projectNames) {
 		projectName <- projectNames,
 		<projectName,repositoryType,repositoryURL> <- getRepositoryFacts(projectName)
 	};
-}
-
-public repositoriesRel findInvalidSVNRepositories(repositoriesRel repositoryFacts) {
-	return {
-		<projectName, repositoryType, repositoryURL> |
-		<str projectName, str repositoryType, str repositoryURL> <- repositoryFacts,
-		repositoryType := RepositoryTypeSVN || repositoryType := RepositoryTypeSVNSync,
-		!(
-		 /.*\/trunk\/?/i      := repositoryURL ||
-		 /.*\/head\/?/i       := repositoryURL ||
-		 /.*\/sandbox\/?/i    := repositoryURL ||
-		 /.*\/site\/?/i       := repositoryURL ||
-		 /.*\/branches\/\w+/i := repositoryURL ||
-		 /.*\/tags\/\w+/i     := repositoryURL
-		)
-	};
-}
-
-public repositoriesRel findAllInvalidSVNRepositories() {
-	return findInvalidSVNRepositories(
-	         getRepositoryFactsForProjects(
-	           getProjectNamesInRepository()));
-}
-
-public bool hasInvalidSVNRepositories(str projectName) {
-	return size(findInvalidSVNRepositories(
-		          getRepositoryFactsForProjects([projectName])))
-		   > 0;
 }
 
 public repositoriesRel getRepositoryFacts(str projectName) {	   
@@ -159,13 +230,7 @@ public repositoriesRel getRepositoryFacts(str projectName) {
 	return result;
 }
 
-@doc{
-	Returns a relation containing:
-		- str: month
-		- int: code added
-		- int: code deleted
-}
-public activityFactsMap getActivityFacts(str projectName)
+public factsMap getActivityFacts(str projectName)
 {	   
     result = ();
     try 
@@ -175,34 +240,34 @@ public activityFactsMap getActivityFacts(str projectName)
 					 element(_,"month",[charData(str monthAsString)]),
 					 element(_,"code_added",[charData(str LOCAddedAsString)]),
 					 element(_,"code_removed",[charData(str LOCDeletedAsString)]),
-					 Node*,
+					 element(_,"comments_added",[charData(str CommentsAddedAsString)]),
+					 element(_,"comments_removed",[charData(str CommentsDeletedAsString)]),
+					 element(_,"blanks_added",[charData(str BlanksAddedAsString)]),
+					 element(_,"blanks_removed",[charData(str BlanksDeletedAsString)]),
 					 element(_,"commits",[charData(str CommitsAsString)]),
 					 element(_,"contributors",[charData(str ContributorsAsString)])
 					]):
 	        {
 				 str year = getYear(monthAsString);
 				 str month = getMonth(monthAsString);
-				 result += (projectName + "-" + year + "-" + month :
-				            <projectName,
+				 result += (<projectName,
 	                         year,
-				 			 month,
-				 			 LOCAddedAsString,
-				 			 LOCDeletedAsString,
-				 			 CommitsAsString,
-				 			 ContributorsAsString>);
+				 			 month> :
+				 			(loc_added_fact 		: just(toInt(LOCAddedAsString)),
+				 			 loc_deleted_fact 		: just(toInt(LOCDeletedAsString)),
+				 			 comments_added_fact 	: just(toInt(CommentsAddedAsString)),
+				 			 comments_deleted_fact 	: just(toInt(CommentsDeletedAsString)),
+				 			 blanks_added_fact		: just(toInt(BlanksAddedAsString)),
+				 			 blanks_deleted_fact 	: just(toInt(BlanksDeletedAsString)),
+				 			 commits_fact			: just(toInt(CommitsAsString)),
+				 			 contributors_fact		: just(toInt(ContributorsAsString))));
 	        }
 		}
 	catch: logToConsole("getActivityFacts", "WARNING error while getting activity facts for project: <projectName>.");
 	return result;
 }
 
-@doc{
-	Returns a relation containing:
-		- str: month
-		- int: code added
-		- int: code deleted
-}
-public sizeFactsMap getSizeFacts(str projectName) {	   
+public factsMap getSizeFacts(str projectName) {	   
 	result = ();
 	try
 		top-down visit(getSizeFactsDOM(projectName)) {
@@ -210,28 +275,35 @@ public sizeFactsMap getSizeFacts(str projectName) {
 					[
 					 element(_,"month",[charData(str monthAsString)]),
 					 element(_,"code",[charData(str LOCTotalAsString)]),
-					 Node*
+					 element(_,"comments",[charData(str CommentsAsString)]),
+					 element(_,"blanks",[charData(str BlanksAsString)]),
+					 element(_,"comment_ratio",[charData(str CommentRatioAsString)]),
+					 element(_,"commits",[charData(str CumulativeCommitsAsString)]),
+					 element(_,"man_months",[charData(str ManMonthsAsString)])
 					]):
 			{
 	             str year = getYear(monthAsString);
 	             str month = getMonth(monthAsString);
-	             result += (projectName + "-" + year + "-" + month :
-				           <projectName,
-				 			year,
-				 			month,
-				 			LOCTotalAsString>);
+	             result += (<projectName,
+				 			 year,
+				 			 month> :
+				 			(loc_fact 					: just(toInt(LOCTotalAsString)),
+				 			 comments_fact 				: just(toInt(CommentsAsString)),
+				 			 blanks_fact 				: just(toInt(BlanksAsString)),
+				 			 comment_ratio_fact 		: tryToReal(CommentRatioAsString),
+				 			 cumulative_commits_fact	: just(toInt(CumulativeCommitsAsString)),
+				 			 man_months_fact			: just(toInt(ManMonthsAsString))));
 			}
 		}
-	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project: <projectName>.");
-	return validateAndFilterSizeFacts(result);
+	catch: logToConsole("getSizeFacts", "WARNING error while getting size facts for project: <projectName>: ");
+	return result;
 }
 
-private sizeFactsMap validateAndFilterSizeFacts (sizeFactsMap unfilteredSizeFacts) {
-	return (key : <projectName, year, month, loc_total> |
-		str key <- unfilteredSizeFacts,
-		<str projectName, str year, str month, str loc_total> <- [unfilteredSizeFacts[key]],
-		!(toInt(loc_total) < 0 && logToConsole("validateAndFilterSizeFacts", "WARNING data excluded because lines of code count is below 0 for project: <projectName> in year/month: <year>/<month>"))
-	);
+public Maybe[real] tryToReal (str realAsString) {
+	Maybe[real] r = nothing();
+	try r = just(toReal(realAsString));
+	catch IllegalArgument(): ;
+	return r;
 }
 
 public void addMetaDataToRepository(str metaDataXML, str projectName) {
@@ -309,20 +381,20 @@ private Node uncachedGetXMLContentsDOM(str projectName, str fileName) {
 	return XMLContentsDOM;
 }
 
-private str reformatDateTime(str dateTimeString) {
+public str reformatDateTime(str dateTimeString) {
 	datetime dt = parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss\'");
 	return printDate(dt, "yyyy-MM");
 }
 
-private str getYear(str dateTimeString) {
+public str getYear(str dateTimeString) {
 	return printDate(getDateTime(dateTimeString), "yyyy");
 }
 
-private str getMonth(str dateTimeString) {
+public str getMonth(str dateTimeString) {
 	return printDate(getDateTime(dateTimeString), "MM");
 }
 
-private datetime getDateTime(str dateTimeString) {
+public datetime getDateTime(str dateTimeString) {
 	return parseDateTime(dateTimeString,"yyyy-MM-dd\'T\'HH:mm:ss");
 }
 
