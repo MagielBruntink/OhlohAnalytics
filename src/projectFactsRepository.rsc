@@ -174,14 +174,18 @@ public set[str] getMetaDataElements(str projectName, str elementName, str scopeE
 		top-down visit(getProjectMetaDataDOM(projectName)) {
 			case element(_,
 						 scopeElementName,
-						 [_*,
-						  element(_,
-						          elementName,
-						 		  [Node*,charData(str elementValue)]),
-						  _*])
+						 elements)
 			:
 			{
-	             result += {elementValue};
+	             top-down visit(elements) {
+	                 case element(_,
+						          elementName,
+						 		  [Node*,charData(str elementValue)])
+					:
+					{
+	             		result += {elementValue};
+	             	}
+	             }
 			}
 		}
 	catch: logToConsole("getMetaDataElementsWithin", "WARNING error while getting meta data facts for project: <projectName>.");
