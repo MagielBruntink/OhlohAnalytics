@@ -4,8 +4,8 @@ require(plyr)
 analysis_dir <- "validation"
 
 addGrowthFacts <- function(monthlyData) {
-  monthlyData[,abs_loc_growth:=(loc_added_fact - loc_deleted_fact)][]
-  monthlyData[,ind_loc_growth:=(loc_fact / (loc_fact - abs_loc_growth))][]
+  monthlyData[,abs_loc_growth:=(loc_fact - previous_month_loc_fact)][]
+  monthlyData[,ind_loc_growth:=(loc_fact / previous_month_loc_fact)][]
 }
 
 addAgeFacts <- function(monthlyData) {
@@ -53,6 +53,9 @@ groupByAgeYear <- function(dataTable) {
                           max_calendar_year=max(year_fact)),
                     by=list(project_name_fact,age_in_years)])
 }
+
+augmentWithPreviousMonthFeature(monthlyFactsBeforeCleaning,"loc_fact","project_name_fact")
+augmentWithPreviousMonthFeature(monthlyFactsAfterCleaning,"loc_fact","project_name_fact")
 
 addGrowthFacts(monthlyFactsBeforeCleaning)
 addGrowthFacts(monthlyFactsAfterCleaning)
