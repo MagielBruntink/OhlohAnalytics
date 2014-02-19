@@ -61,7 +61,7 @@ monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning, case_has_implau
 monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(zero_values_size_facts) | zero_values_size_facts == FALSE)
 
 ## Remove any cases with inconsistent values
-monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(case_has_inconsistent_values) | case_has_inconsistent_values == FALSE)
+#monthlyFactsDuringCleaning <- subset(monthlyFactsDuringCleaning,subset=is.na(case_has_inconsistent_values) | case_has_inconsistent_values == FALSE)
 
 monthlyFactsAfterCleaning <- subset(copy(monthlyFactsDuringCleaning),select=c(keyFeatures,coreFeatures))
 setkey(monthlyFactsAfterCleaning, project_name_fact, year_fact, month_fact)
