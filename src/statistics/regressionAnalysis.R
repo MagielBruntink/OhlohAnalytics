@@ -1,16 +1,21 @@
 
 require(plyr)
 require(data.table)
+require(MASS)
 
 plotTrend <- function(data_df, title_str, xlab_str, ylab_str, regressionFunction) {
   plot(data_df, main=title_str, xlab=xlab_str, ylab=ylab_str)
   fit_obj<-regressionFunction(data_df)
-  lines(fit_obj$fit)
+  lines(data_df$X,predict(fit_obj))
   print(summary(fit_obj))
 }
 
 linearRegression <- function(data_df) {
   lm(Y ~ X, data=data_df)
+}
+
+robustLinearRegression <- function(data_df) {
+  rlm(Y ~ X, data=data_df)
 }
 
 linearRegressionXY <- function(X_vec, Y_vec) {
@@ -29,9 +34,15 @@ regressForProject <- function (data_dt, project_id_str, x_var_str, y_var_str, pr
     data_to_regress <- pruneOutliers(data_to_regress)
   }
   testsForNormality(data_to_regress, project_id_str, x_var_str, y_var_str)
+  
   plotTrend(data_to_regress, title_str=paste("Linear regression of data for", project_id_str, sep=" "),
-                             xlab_str=x_var_str,
-                             ylab_str=y_var_str, linearRegression)
+            xlab_str=x_var_str,
+            ylab_str=y_var_str, linearRegression)
+    
+  plotTrend(data_to_regress, title_str=paste("Robust Linear regression of data for", project_id_str, sep=" "),
+            xlab_str=x_var_str,
+            ylab_str=y_var_str, robustLinearRegression)
+  
   plotTrend(data_to_regress, title_str=paste("Quadratic regression of data for", project_id_str, sep=" "),
             xlab_str=x_var_str,
             ylab_str=y_var_str, quadraticRegression)
