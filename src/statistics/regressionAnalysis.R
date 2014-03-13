@@ -3,6 +3,8 @@ require(plyr)
 require(data.table)
 require(MASS)
 
+source("testForNormality.R")
+
 plotTrend <- function(data_df, title_str, xlab_str, ylab_str, regressionFunction) {
   plot(data_df, main=title_str, xlab=xlab_str, ylab=ylab_str)
   fit_obj<-regressionFunction(data_df)
