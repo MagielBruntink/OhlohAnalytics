@@ -43,3 +43,18 @@ plotDiffForProject <- function (data_dt, Project_ID_str) {
   show(plotObj)
 
 }
+
+plotMedianDiff <- function (data_dt) {
+  
+  dataToPlot <- rbind(data_dt[,list(Factor=median(CAGR), Type="Median CAGR"),by=age_in_years],
+                             data_dt[,list(Factor=median(prod_ind_loc_growth),Type="Median LOC Growth Indexed"),by=age_in_years])
+  
+  plotObj <- ggplot(dataToPlot,
+                    aes(x=age_in_years,
+                        y=Factor,
+                        group=Type,
+                        colour=Type))
+  plotObj <- plotObj + geom_line() + geom_point()
+  show(plotObj)
+  
+}
