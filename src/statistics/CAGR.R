@@ -46,7 +46,7 @@ plotDiffForProject <- function (data_dt, Project_ID_str) {
 
 plotMedianDiff <- function (data_dt) {
   
-  dataToPlot <- rbind(data_dt[,list(Factor=median(CAGR), Type="Median CAGR"),by=age_in_years],
+  dataToPlot <- rbind(data_dt[,list(Factor=median(data_dt$CAGR), Type="Median CAGR"),by=age_in_years],
                              data_dt[,list(Factor=median(prod_ind_loc_growth),Type="Median LOC Growth Indexed"),by=age_in_years])
   
   plotObj <- ggplot(dataToPlot,
@@ -55,6 +55,6 @@ plotMedianDiff <- function (data_dt) {
                         group=Type,
                         colour=Type))
   plotObj <- plotObj + geom_line() + geom_point()
+  plotObj <- plotObj + coord_cartesian(xlim = c(0,10), ylim=c(0.5,2))
   show(plotObj)
-  
 }
