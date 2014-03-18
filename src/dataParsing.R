@@ -1,5 +1,6 @@
 require(XML)
 require(data.table)
+require(multicore)
 
 DataPath_str <- "data/projects"
 
@@ -48,12 +49,11 @@ obtainActivityFacts <- function (Project_ID_str) {
 }
 
 obtainSizeFacts <- function (Project_ID_str) {
-  print(Project_ID_str)
   filePath <- paste(DataPath_str, Project_ID_str, "SizeFacts.xml", sep="/")
   if(file.exists(filePath)) {
     xmlData <- xmlParse(filePath)
     res <- data.table(xmlToDataFrame(xmlData["//size_fact"],
-                                     colClasses = tail(ActivityFactsCols_vec,-1)))
+                                     colClasses = tail(SizeFactsCols_vec,-1)))
     if(nrow(res) > 0) {
       setnames(res,colnames(res),tail(colnames(SizeFacts_dt),-1))
       res[,Project_ID:=Project_ID_str][]
@@ -69,13 +69,16 @@ obtainSizeFacts <- function (Project_ID_str) {
 }
 
 dataParsing.main <- function() {
-  #projects <- list.files(DataPath_str, full.names=FALSE)
-  projects <- c("apache","firefox","mozilla","altlinux","ab")
-  rbindlist(lapply(projects,obtainActivityFacts))
+  projects <- list.files(DataPath_str, full.names=FALSE)
+  #projects <- c("apache","firefox","mozilla","altlinux","ab")
+  allActivityFacts <- rbindlist(mclapply(projects, obtainActivityFacts))
+  allSizeFacts <- rbindlist(mclapply(projects,obtainSizeFacts))
+  allMergedFacts <- mergeFacts(allActivityFacts,
+                               allSizeFacts)
 }
 
-mergeFacts <- function (sizeFacts_dt, activityFacts_dt) {
-  setkey(activityFacts_dt, Project_ID, Month)
-  setkey(sizeFacts_dt, Project_ID, Month)
-  merge(activityFacts_dt,sizeFacts_dt, all=TRUE)
+mergeFacts <- function (facts1_dt, facts2_dt) {
+  setkey(facts1_dt, Project_ID, Month)
+  setkey(facts2_dt, Project_ID, Month)
+  merge(facts1_dt,facts2_dt, all=TRUE)
 }
