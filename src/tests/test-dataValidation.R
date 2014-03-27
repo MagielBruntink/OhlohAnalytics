@@ -24,7 +24,7 @@ test_that("Enlistments failing validation", {
   expect_that(validateEnlistments(enlistments)$Validation_Bad_Enlistment,
               equals(c(FALSE,TRUE,TRUE,FALSE)))
   
-  enlistments <- obtainEnlistmentsForProjects(list("firefox","mozilla", "apache", "arcmanager"))
+  enlistments <- obtainDataForProjects(list("firefox","mozilla", "apache", "arcmanager"), obtainEnlistments)
   expect_that(validateEnlistments(enlistments)["arcmanager"]$Validation_Bad_Enlistment,
               equals(c(TRUE,TRUE)))
   
@@ -107,11 +107,11 @@ test_that("VC configurations passing validation", {
 
 test_that("Augmenting facts data.table with results of enlistment validation", {
   projects <- c("firefox","arcmanager")
-  activityAndSizeFacts <- obtainActivityAndSizeFactsForProjects(projects)
-  enlistments <- obtainEnlistmentsForProjects(projects)
-  augmentFactsWithValidatedEnlistments(activityAndSizeFacts, enlistments)
-  expect_that(all(activityAndSizeFacts["arcmanager"]$Validation_Bad_Enlistment == TRUE),
+  activityFacts <- obtainDataForProjects(projects, obtainActivityFacts)
+  enlistments <- obtainDataForProjects(projects, obtainEnlistments)
+  augmentFactsWithValidatedEnlistments(activityFacts, enlistments)
+  expect_that(all(activityFacts["arcmanager"]$Validation_Bad_Enlistment == TRUE),
               equals(TRUE))
-  expect_that(all(activityAndSizeFacts["firefox"]$Validation_Bad_Enlistment == FALSE),
+  expect_that(all(activityFacts["firefox"]$Validation_Bad_Enlistment == FALSE),
               equals(TRUE))
 })
