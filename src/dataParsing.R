@@ -10,14 +10,14 @@ obtainActivityFacts <- function (Project_ID_str) {
     data.frame(
       Project_ID         = as.character(Project_ID_str),
       Year_Month         = as.character(activityFacts_df$month),
-      LOC_Added          = as.integer(activityFacts_df$code_added),
-      LOC_Deleted        = as.integer(activityFacts_df$code_removed),
-      Comments_Added     = as.integer(activityFacts_df$comments_added),
-      Comments_Deleted   = as.integer(activityFacts_df$comments_removed),
-      Blanks_Added       = as.integer(activityFacts_df$blanks_added),
-      Blanks_Deleted     = as.integer(activityFacts_df$blanks_removed),
-      Commits            = as.integer(activityFacts_df$commits),
-      Contributors       = as.integer(activityFacts_df$contributors),
+      LOC_Added          = as.integer(as.character(activityFacts_df$code_added)),
+      LOC_Deleted        = as.integer(as.character(activityFacts_df$code_removed)),
+      Comments_Added     = as.integer(as.character(activityFacts_df$comments_added)),
+      Comments_Deleted   = as.integer(as.character(activityFacts_df$comments_removed)),
+      Blanks_Added       = as.integer(as.character(activityFacts_df$blanks_added)),
+      Blanks_Deleted     = as.integer(as.character(activityFacts_df$blanks_removed)),
+      Commits            = as.integer(as.character(activityFacts_df$commits)),
+      Contributors       = as.integer(as.character(activityFacts_df$contributors)),
       stringsAsFactors = FALSE)
   }
   else {
@@ -31,12 +31,12 @@ obtainSizeFacts <- function (Project_ID_str) {
     data.frame(
       Project_ID         = as.character(Project_ID_str),
       Year_Month         = as.character(sizeFacts_df$month),
-      LOC                = as.integer(sizeFacts_df$code),
-      Comments           = as.integer(sizeFacts_df$comments),
-      Blanks             = as.integer(sizeFacts_df$blanks),
-      Comment_Ratio      = as.double(sizeFacts_df$comment_ratio),
-      Cumulative_Commits = as.integer(sizeFacts_df$commits),
-      Man_Months         = as.integer(sizeFacts_df$man_months),
+      LOC                = as.integer(as.character(sizeFacts_df$code)),
+      Comments           = as.integer(as.character(sizeFacts_df$comments)),
+      Blanks             = as.integer(as.character(sizeFacts_df$blanks)),
+      Comment_Ratio      = as.numeric(as.character(sizeFacts_df$comment_ratio)),
+      Cumulative_Commits = as.integer(as.character(sizeFacts_df$commits)),
+      Man_Months         = as.integer(as.character(sizeFacts_df$man_months)),
       stringsAsFactors = FALSE)
   }
   else {
@@ -52,7 +52,7 @@ obtainEnlistments <- function (Project_ID_str) {
         Type             = as.character(enlistments_df$type),
         URL              = as.character(enlistments_df$url),
         Logged_Date      = as.character(enlistments_df$logged_at),
-        Commits_Total    = as.integer(enlistments_df$commits),
+        Commits_Total    = as.integer(as.character(enlistments_df$commits)),
         stringsAsFactors = FALSE)
   }
   else {
@@ -97,5 +97,13 @@ obtainXML <- function (Project_ID_str, XML_File_Name_str) {
 obtainDataForProjects <- function(projects_list, obtain_fun) {
   data_dt <- rbindlist(mclapply(projects_list, obtain_fun))
   setkey(data_dt,Project_ID)
+}
+
+obtainAllDataAsCSV <- function() {
+  projects_list <- list.files(DataPath_str, full.names=FALSE)
+  write.csv(obtainDataForProjects(projects_list, obtainActivityFacts), "output/ActivityFacts.csv", row.names=FALSE)
+  write.csv(obtainDataForProjects(projects_list, obtainSizeFacts), "output/SizeFacts.csv", row.names=FALSE)
+  write.csv(obtainDataForProjects(projects_list, obtainEnlistments), "output/Enlistments.csv", row.names=FALSE)
+  write.csv(obtainDataForProjects(projects_list, obtainMetaData), "output/MetaData.csv", row.names=FALSE)
 }
 
