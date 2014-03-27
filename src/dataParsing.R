@@ -62,25 +62,33 @@ obtainEnlistments <- function (Project_ID_str) {
 
 obtainFacts <- function (Project_ID_str, XML_File_Name_str, XML_Node_str) {
   filePath <- paste(DataPath_str, Project_ID_str, XML_File_Name_str, sep="/")
-  facts <- data.frame()
   if(file.exists(filePath)) {
     xmlData <- xmlParse(filePath)
     facts <- xmlToDataFrame(xmlData[XML_Node_str])
   }
-  return(facts)
+  else {
+    data.frame()
+  }
 }
 
-dataParsing.main <- function() {
-  #projects <- list.files(DataPath_str, full.names=FALSE)
-  projects <- c("apache","firefox","mozilla","altlinux","ab")
-  allActivityFacts <- rbindlist(mclapply(projects, obtainActivityFacts))
-  allSizeFacts <- rbindlist(mclapply(projects,obtainSizeFacts))
-  allMergedFacts <- mergeFacts(allActivityFacts,
-                               allSizeFacts)
+obtainActivityAndSizeFactsForAllProjects <- function() {
+  projects <- list.files(DataPath_str, full.names=FALSE)
+  obtainActivityAndSizeFactsForProjects(projects_list)
 }
 
-mergeFacts <- function (facts1_dt, facts2_dt) {
-  setkey(facts1_dt, Project_ID, Year_Month)
-  setkey(facts2_dt, Project_ID, Year_Month)
-  merge(facts1_dt,facts2_dt, all=TRUE)
+obtainActivityAndSizeFactsForProjects <- function(projects_list) {
+  allActivityFacts <- rbindlist(mclapply(projects_list, obtainActivityFacts))
+  setkey(allActivityFacts, Project_ID, Year_Month)
+  allSizeFacts <- rbindlist(mclapply(projects_list,obtainSizeFacts))
+  merge(allActivityFacts,allSizeFacts, all=TRUE)
+}
+
+obtainEnlistmentsForAllProjects <- function() {
+  projects <- list.files(DataPath_str, full.names=FALSE)
+  obtainEnlistmentsForProjects(projects)
+}
+
+obtainEnlistmentsForProjects <- function(projects_list) {
+  allEnlistments <- rbindlist(mclapply(projects_list, obtainEnlistments))
+  setkey(allEnlistments,Project_ID)
 }
