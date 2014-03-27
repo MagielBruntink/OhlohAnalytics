@@ -8,13 +8,14 @@ goodSVNPatterns <- list(".*/trunk/?",
                         ".*/tags/\\w+")
 
 validateAllData <- function() {
-  activityFacts <- data.table(read.csv("output/ActivityFacts.csv"))
+  activityFacts <<- data.table(read.csv("output/ActivityFacts.csv", stringsAsFactors=FALSE))
   setkey(activityFacts, Project_ID, Year_Month)
-  sizeFacts <- data.table(read.csv("output/SizeFacts.csv"))
+  sizeFacts <<- data.table(read.csv("output/SizeFacts.csv", stringsAsFactors=FALSE))
   setkey(sizeFacts, Project_ID, Year_Month)
-  mergedFacts <- merge(activityFacts, sizeFacts, all=TRUE)
-  enlistments <- data.table(read.csv("output/Enlistments.csv"))
-  metaData <- data.table(read.csv("output/MetaData.csv"))
+  mergedFacts <<- merge(activityFacts, sizeFacts, all=TRUE)
+  enlistments <<- data.table(read.csv("output/Enlistments.csv", stringsAsFactors=FALSE))
+  metaData <<- data.table(read.csv("output/MetaData.csv", stringsAsFactors=FALSE))
+  # WORK IN PROGRESS
 }
 
 validateEnlistments <- function(enlistments_dt) {
