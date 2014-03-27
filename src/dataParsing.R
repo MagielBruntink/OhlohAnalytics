@@ -65,8 +65,8 @@ obtainMetaData <- function (Project_ID_str) {
   if (nrow(analysis_df) > 0) {
     data.frame (
       Project_ID = Project_ID_str,
-      Update_Date = analysis_df$updated_at,
-      Main_Language = analysis_df$main_language_name,
+      Update_Date = ifelse(is.null(analysis_df$updated_at), NA, analysis_df$updated_at),
+      Main_Language = ifelse(is.null(analysis_df$main_language_name), NA, analysis_df$main_language_name),
       stringsAsFactors = FALSE)
   }
   else {
