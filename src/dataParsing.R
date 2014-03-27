@@ -5,7 +5,7 @@ require(multicore)
 DataPath_str <- "data/projects"
 
 obtainActivityFacts <- function (Project_ID_str) {
-  activityFacts_df <- obtainFacts(Project_ID_str, "ActivityFacts.xml", "//activity_fact")
+  activityFacts_df <- obtainDataFromXML(Project_ID_str, "ActivityFacts.xml", "//activity_fact")
   if(nrow(activityFacts_df) > 0) {
     data.frame(
       Project_ID         = as.character(Project_ID_str),
@@ -26,7 +26,7 @@ obtainActivityFacts <- function (Project_ID_str) {
 }
 
 obtainSizeFacts <- function (Project_ID_str) {
-  sizeFacts_df <- obtainFacts(Project_ID_str, "SizeFacts.xml", "//size_fact")
+  sizeFacts_df <- obtainDataFromXML(Project_ID_str, "SizeFacts.xml", "//size_fact")
   if(nrow(sizeFacts_df) > 0) {
     data.frame(
       Project_ID         = as.character(Project_ID_str),
@@ -45,7 +45,7 @@ obtainSizeFacts <- function (Project_ID_str) {
 }
 
 obtainEnlistments <- function (Project_ID_str) {
-  enlistments_df <- obtainFacts(Project_ID_str, "Enlistments.xml", "//repository")
+  enlistments_df <- obtainDataFromXML(Project_ID_str, "Enlistments.xml", "//repository")
   if(nrow(enlistments_df) > 0) {
       data.frame(
         Project_ID       = as.character(Project_ID_str),
@@ -60,35 +60,42 @@ obtainEnlistments <- function (Project_ID_str) {
   }
 }
 
-obtainFacts <- function (Project_ID_str, XML_File_Name_str, XML_Node_str) {
-  filePath <- paste(DataPath_str, Project_ID_str, XML_File_Name_str, sep="/")
-  if(file.exists(filePath)) {
-    xmlData <- xmlParse(filePath)
-    facts <- xmlToDataFrame(xmlData[XML_Node_str])
+obtainMetaData <- function (Project_ID_str) {
+  analysis_df <- obtainDataFromXML(Project_ID_str, "MetaData.xml", "//analysis")
+  if (nrow(analysis_df) > 0) {
+    data.frame (
+      Project_ID = as.character(Project_ID_str),
+      Update_Date = as.character(analysis_df$updated_at),
+      Main_Language = as.character(analysis_df$main_language_name),
+      stringsAsFactors = FALSE)
   }
   else {
     data.frame()
   }
 }
 
-obtainActivityAndSizeFactsForAllProjects <- function() {
-  projects <- list.files(DataPath_str, full.names=FALSE)
-  obtainActivityAndSizeFactsForProjects(projects_list)
+obtainDataFromXML <- function (Project_ID_str, XML_File_Name_str, XML_Node_str) {
+  XML <- obtainXML (Project_ID_str, XML_File_Name_str)
+  if(!is.null(XML)) {
+      xmlToDataFrame(XML[XML_Node_str])
+  }
+  else {
+    data.frame()
+  }
 }
 
-obtainActivityAndSizeFactsForProjects <- function(projects_list) {
-  allActivityFacts <- rbindlist(mclapply(projects_list, obtainActivityFacts))
-  setkey(allActivityFacts, Project_ID, Year_Month)
-  allSizeFacts <- rbindlist(mclapply(projects_list,obtainSizeFacts))
-  merge(allActivityFacts,allSizeFacts, all=TRUE)
+obtainXML <- function (Project_ID_str, XML_File_Name_str) {
+  filePath <- paste(DataPath_str, Project_ID_str, XML_File_Name_str, sep="/")
+  if(file.exists(filePath)) {
+    xmlData <- xmlParse(filePath)
+  }
+  else {
+    NULL
+  }
 }
 
-obtainEnlistmentsForAllProjects <- function() {
-  projects <- list.files(DataPath_str, full.names=FALSE)
-  obtainEnlistmentsForProjects(projects)
+obtainDataForProjects <- function(projects_list, obtain_fun) {
+  data_dt <- rbindlist(mclapply(projects_list, obtain_fun))
+  setkey(data_dt,Project_ID)
 }
 
-obtainEnlistmentsForProjects <- function(projects_list) {
-  allEnlistments <- rbindlist(mclapply(projects_list, obtainEnlistments))
-  setkey(allEnlistments,Project_ID)
-}
