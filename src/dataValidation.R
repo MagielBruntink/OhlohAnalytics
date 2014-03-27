@@ -1,7 +1,4 @@
 require(data.table)
-require(plyr)
-
-source("src/dataParsing.R")
 
 goodSVNPatterns <- list(".*/trunk/?",
                         ".*/head/?",
@@ -11,15 +8,13 @@ goodSVNPatterns <- list(".*/trunk/?",
                         ".*/tags/\\w+")
 
 validateAllData <- function() {
-  projects_list <- c("firefox","arcmanager","mozila")
-  #projects <- list.files(DataPath_str, full.names=FALSE)
-  activityFacts <- obtainDataForProjects(projects_list, obtainActivityFacts)
+  activityFacts <- data.table(read.csv("output/ActivityFacts.csv"))
   setkey(activityFacts, Project_ID, Year_Month)
-  sizeFacts <- obtainDataForProjects(projects_list, obtainSizeFacts)
+  sizeFacts <- data.table(read.csv("output/SizeFacts.csv"))
   setkey(sizeFacts, Project_ID, Year_Month)
   mergedFacts <- merge(activityFacts, sizeFacts, all=TRUE)
-  enlistments <- obtainDataForProjects(projects_list, obtainEnlistments)
-  metaData <- obtainDataForProjects(projects_list, obtainMetaData)
+  enlistments <- data.table(read.csv("output/Enlistments.csv"))
+  metaData <- data.table(read.csv("output/MetaData.csv"))
 }
 
 validateEnlistments <- function(enlistments_dt) {
